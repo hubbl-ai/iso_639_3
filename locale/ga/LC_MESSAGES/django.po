@@ -1,0 +1,10731 @@
+# Irish translations of ISO 639 Language names
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Kevin Patrick Scannell <scannell@SLU.EDU>, 2004
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Sean V. Kelley <s_oceallaigh@yahoo.com>, 1999
+#
+# 11 Jan 2004: I've added a translator's note to translations that appear
+#   to be "coinages"; i.e. do not appear in any standard print or online
+#   references, or in a large (20M word) text corpus.  The others should
+#   be treated as more or less authoritative.  Future translators: feel
+#   free to fill in gaps but please continue to mark coinages as such.  --KPS
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2005-08-11 07:10-0500\n"
+"Last-Translator: Kevin Patrick Scannell <scannell@SLU.EDU>\n"
+"Language-Team: Irish <ga@li.org>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Avairis"
+
+msgid "ISO_639-3.AAD"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.AAF"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.AAG"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AAK"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AAL"
+msgstr "Afárais"
+
+msgid "ISO_639-3.AAR"
+msgstr "Afárais"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.ABD"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.ABE"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ABH"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ABK"
+msgstr "Abcáisis"
+
+msgid "ISO_639-3.ABL"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Abcáisis"
+
+msgid "ISO_639-3.ABV"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.ABW"
+msgstr "Páilis"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ACA"
+msgstr "Teangacha Apáiseacha"
+
+msgid "ISO_639-3.ACN"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.ACR"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ACW"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ACX"
+msgstr "Aramais"
+
+msgid "ISO_639-3.ACY"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ADE"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ADF"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ADL"
+msgstr "Láóis"
+
+msgid "ISO_639-3.ADN"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.ADR"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.ADS"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.ADX"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.ADY"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.AEA"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.AEC"
+msgstr "Aramais"
+
+msgid "ISO_639-3.AED"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.AEE"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.AEN"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.AES"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.AEU"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.AEW"
+msgstr "Aramais"
+
+msgid "ISO_639-3.AEY"
+msgstr "Asaimis"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AFB"
+msgstr "Araibis"
+
+msgid "ISO_639-3.AFD"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.AFG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.AFK"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.AFP"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afracáinis"
+
+msgid "ISO_639-3.AFT"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.AFU"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.AGA"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AGB"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.AGD"
+msgstr "Araibis"
+
+msgid "ISO_639-3.AGE"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.AGF"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.AGG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.AGH"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.AGI"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.AGM"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.AGO"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.AGW"
+msgstr "Hásais"
+
+msgid "ISO_639-3.AGY"
+msgstr "Altaech (Eile)"
+
+msgid "ISO_639-3.AHA"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AHH"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.AHK"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AHL"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.AHR"
+msgstr "Abcáisis"
+
+msgid "ISO_639-3.AIE"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.AIR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.AIS"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.AIW"
+msgstr "Avairis"
+
+msgid "ISO_639-3.AIX"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AJN"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.AJP"
+msgstr "Altaech (Eile)"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.AKA"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AKF"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AKK"
+msgstr "Acáidis"
+
+msgid "ISO_639-3.AKL"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AKM"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AKR"
+msgstr "Araibis"
+
+msgid "ISO_639-3.AKT"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.AKW"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ALA"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.ALD"
+msgstr "Acáidis"
+
+msgid "ISO_639-3.ALE"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ALF"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ALH"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ALI"
+msgstr "Samóis"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.ALL"
+msgstr "Afárais"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ALP"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ALR"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ALT"
+msgstr "Altaech (Eile)"
+
+msgid "ISO_639-3.ALX"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.ALZ"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.AMC"
+msgstr "Amáiris"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amáiris"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AMK"
+msgstr "Aramais"
+
+msgid "ISO_639-3.AML"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.AMN"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Amáiris"
+
+msgid "ISO_639-3.AMR"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AMS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.AMY"
+msgstr "Aramais"
+
+msgid "ISO_639-3.ANB"
+msgstr "Veindis"
+
+msgid "ISO_639-3.ANC"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.ANG"
+msgstr "Sean-Bhéarla (ca.450-1100)"
+
+msgid "ISO_639-3.ANH"
+msgstr "Veindis"
+
+msgid "ISO_639-3.ANI"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.ANK"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.ANL"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.ANN"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.ANP"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.ANR"
+msgstr "Sindis"
+
+msgid "ISO_639-3.ANS"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.ANV"
+msgstr "Veindis"
+
+msgid "ISO_639-3.ANW"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.AOA"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.AOH"
+msgstr "Aramais"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.AOR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.AOS"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.APB"
+msgstr "Samóis"
+
+msgid "ISO_639-3.APC"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.APD"
+msgstr "Aragóinis"
+
+msgid "ISO_639-3.APF"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.APG"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.APH"
+msgstr "Amáiris"
+
+msgid "ISO_639-3.API"
+msgstr "Teangacha Apáiseacha"
+
+msgid "ISO_639-3.APP"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.APV"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.APW"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.AQN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.AQT"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.ARA"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ARD"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.ARE"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.ARG"
+msgstr "Aragóinis"
+
+msgid "ISO_639-3.ARH"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afracáinis"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afracáinis"
+
+msgid "ISO_639-3.ARL"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ARN"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.ARO"
+msgstr "Aragóinis"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ARS"
+msgstr "Aramais"
+
+msgid "ISO_639-3.ARY"
+msgstr "Araibis"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Éigiptis (Cianaosta)"
+
+msgid "ISO_639-3.ASD"
+msgstr "Asaimis"
+
+msgid "ISO_639-3.ASE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ASF"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.ASJ"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.ASK"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.ASM"
+msgstr "Asaimis"
+
+msgid "ISO_639-3.ASO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.ASP"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ASQ"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.AST"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.ASV"
+msgstr "Songais"
+
+msgid "ISO_639-3.ASW"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.ATM"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.ATN"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.ATO"
+msgstr "Baltach (Eile)"
+
+msgid "ISO_639-3.ATR"
+msgstr "Úgairitis"
+
+msgid "ISO_639-3.ATV"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ATX"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AUB"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.AUC"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.AUD"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.AUK"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.AUL"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.AUP"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.AUY"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Araibis"
+
+msgid "ISO_639-3.AVA"
+msgstr "Avairis"
+
+msgid "ISO_639-3.AVB"
+msgstr "Avairis"
+
+msgid "ISO_639-3.AVE"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.AVI"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AVK"
+msgstr "Hásais"
+
+msgid "ISO_639-3.AVN"
+msgstr "Avairis"
+
+msgid "ISO_639-3.AVS"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.AWM"
+msgstr "Aramais"
+
+msgid "ISO_639-3.AWX"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AXL"
+msgstr "Altaech (Eile)"
+
+msgid "ISO_639-3.AXM"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.AYA"
+msgstr "Afárais"
+
+msgid "ISO_639-3.AYC"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.AYG"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.AYH"
+msgstr "Araibis"
+
+msgid "ISO_639-3.AYL"
+msgstr "Teangacha Apáiseacha"
+
+msgid "ISO_639-3.AYM"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AYN"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.AYR"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.AYS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.AZA"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.AZB"
+msgstr "Asarbaiseáinis"
+
+msgid "ISO_639-3.AZD"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.AZE"
+msgstr "Asarbaiseáinis"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Asarbaiseáinis"
+
+msgid "ISO_639-3.BAA"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BAG"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BAK"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BAM"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BAV"
+msgstr "Veindis"
+
+msgid "ISO_639-3.BAY"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BBB"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BBD"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BBE"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BBF"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BBG"
+msgstr "Aramais"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BBI"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BBL"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BBM"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.BBV"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BBW"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BBY"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BCC"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.BCE"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.BCF"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BCG"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BCK"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.BCN"
+msgstr "Baltach (Eile)"
+
+msgid "ISO_639-3.BCO"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Fraincis"
+
+msgid "ISO_639-3.BCS"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BCT"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BCW"
+msgstr "Gandais"
+
+msgid "ISO_639-3.BCY"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BDB"
+msgstr "Hásais"
+
+msgid "ISO_639-3.BDD"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.BDE"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BDF"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BDG"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BDI"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maorais"
+
+msgid "ISO_639-3.BDP"
+msgstr "Veindis"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BDU"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.BDZ"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BEG"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BEH"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BEK"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BEL"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BEN"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BEO"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BES"
+msgstr "Burmais"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BEW"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BFA"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BFD"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.BFG"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.BFI"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BFK"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BFR"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BFS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.BFT"
+msgstr "Páilis"
+
+msgid "ISO_639-3.BFU"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.BFW"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BFX"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.BFZ"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.BGB"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BGC"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.BGE"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BGI"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.BGN"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.BGO"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BGR"
+msgstr "Páilis"
+
+msgid "ISO_639-3.BGU"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BGW"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BGX"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BGY"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BHA"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHB"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHD"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHF"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.BHH"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHI"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BHM"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BHR"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BHX"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.BIA"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BIB"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BIC"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BIG"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BIM"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BIO"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BIR"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BIS"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BIT"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.BIV"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.BIX"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BIY"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Páilis"
+
+msgid "ISO_639-3.BJB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BJC"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BJN"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BJO"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BJV"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BJY"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BKA"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.BKI"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BKJ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BKQ"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BKS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.BKW"
+msgstr "Úisbéicis"
+
+msgid "ISO_639-3.BKX"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.BLB"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BLD"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.BLG"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.BLH"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.BLI"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BLN"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.BLP"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BLR"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.BLS"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BLV"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.BLW"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.BMD"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BMH"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.BMI"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BML"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.BMO"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BMR"
+msgstr "Sundais"
+
+msgid "ISO_639-3.BMS"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BMV"
+msgstr "Burmais"
+
+msgid "ISO_639-3.BMW"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.BMX"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BNB"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BNC"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BND"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.BNG"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BNI"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BNK"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BNL"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BNM"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.BNU"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BOA"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.BOB"
+msgstr "Afárais"
+
+msgid "ISO_639-3.BOD"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.BOE"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.BOF"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.BOG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BOH"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.BOK"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BOM"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.BOP"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BOS"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BOT"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BOU"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BOV"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.BOW"
+msgstr "Romainis"
+
+msgid "ISO_639-3.BPA"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BPB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BPG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BPH"
+msgstr "Polainnis"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.BPK"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.BPP"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.BPS"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.BPU"
+msgstr "Congóis"
+
+msgid "ISO_639-3.BPV"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.BPZ"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BQB"
+msgstr "Hásais"
+
+msgid "ISO_639-3.BQH"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BQI"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.BQL"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BQN"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BQP"
+msgstr "Hásais"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BQR"
+msgstr "Burmais"
+
+msgid "ISO_639-3.BQS"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BQV"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.BQX"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BQY"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BRE"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BRF"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.BRG"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BRH"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BRN"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.BRS"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BRT"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BRU"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.BRV"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.BRW"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BRY"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.BSC"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BSE"
+msgstr "Breatnais"
+
+msgid "ISO_639-3.BSF"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BSG"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BSH"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.BSM"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BSN"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BSO"
+msgstr "Paistis"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Hásais"
+
+msgid "ISO_639-3.BST"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BSY"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.BTA"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.BTC"
+msgstr "Baltach (Eile)"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BTI"
+msgstr "Burmais"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Seapáinis"
+
+msgid "ISO_639-3.BTR"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BTV"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BUC"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.BUI"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BUN"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.BUP"
+msgstr "Hásais"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BUZ"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.BVA"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BVB"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BVC"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.BVH"
+msgstr "Burmais"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BVL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.BVO"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.BVP"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BVV"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BVW"
+msgstr "Songais"
+
+msgid "ISO_639-3.BVY"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.BWI"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BWM"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.BXA"
+msgstr "Cirgeastáinis"
+
+msgid "ISO_639-3.BXG"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.BXM"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.BXR"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.BXS"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.BXU"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BYA"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.BYB"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.BYF"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.BYG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.BYH"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BYI"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BYM"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.BYN"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.BYR"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BYW"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BZA"
+msgstr "Gandais"
+
+msgid "ISO_639-3.BZB"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.BZD"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BZF"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.BZG"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BZI"
+msgstr "Bascais"
+
+msgid "ISO_639-3.BZO"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.BZR"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.BZS"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.BZU"
+msgstr "Burmais"
+
+msgid "ISO_639-3.BZV"
+msgstr "Coimí"
+
+msgid "ISO_639-3.CAB"
+msgstr "Gandais"
+
+msgid "ISO_639-3.CAC"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.CAF"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.CAH"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CAK"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.CAL"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.CAN"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.CAR"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.CAT"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CAW"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.CBC"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CBI"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.CBK"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CBL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.CBN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.CBV"
+msgstr "Hásais"
+
+msgid "ISO_639-3.CBW"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.CCA"
+msgstr "Hásais"
+
+msgid "ISO_639-3.CCC"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.CCE"
+msgstr "Coptais"
+
+msgid "ISO_639-3.CCG"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.CCH"
+msgstr "Asaimis"
+
+msgid "ISO_639-3.CCJ"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.CCL"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.CCM"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.CDA"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.CDE"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.CDG"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.CDI"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.CDJ"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CDO"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CDS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CDY"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.CEA"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.CEG"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.CEK"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.CEN"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CES"
+msgstr "Seicis"
+
+msgid "ISO_639-3.CFD"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.CFM"
+msgstr "Páilis"
+
+msgid "ISO_639-3.CHA"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.CHC"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CHE"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.CHK"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CHM"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.CHR"
+msgstr "Seiricis"
+
+msgid "ISO_639-3.CHU"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CHV"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CHX"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CIE"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CIK"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.CIM"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.CIP"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CIR"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.CIY"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.CJA"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.CJI"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CJK"
+msgstr "Seiricis"
+
+msgid "ISO_639-3.CJM"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.CJN"
+msgstr "Féinícis"
+
+msgid "ISO_639-3.CJS"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.CJV"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CJY"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CKB"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.CKH"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.CKN"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CKQ"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.CKR"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.CKV"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CLA"
+msgstr "Aramais"
+
+msgid "ISO_639-3.CLE"
+msgstr "Páilis"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.CLL"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CLM"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.CLT"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.CLU"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CMA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.CME"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.CMG"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.CML"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.CMN"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.CNA"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.CNG"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.CNH"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CNK"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.CNL"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.CNO"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.CNW"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.CNX"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.COE"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.COG"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.COM"
+msgstr "Rómánsach (Eile)"
+
+msgid "ISO_639-3.COO"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.COP"
+msgstr "Coptais"
+
+msgid "ISO_639-3.COR"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.COS"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.COX"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.COZ"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.CPI"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CPN"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.CPX"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CRA"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.CRE"
+msgstr "Craíais"
+
+msgid "ISO_639-3.CRF"
+msgstr "Tatairis Chriméach"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.CRL"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.CRR"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.CRV"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CRY"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.CSB"
+msgstr "Caisiúibis"
+
+msgid "ISO_639-3.CSC"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.CSD"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CSE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CSF"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CSG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.CSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CSN"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.CSQ"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.CSR"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.CSS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.CST"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.CSV"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.CSY"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.CTC"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.CTD"
+msgstr "Páilis"
+
+msgid "ISO_639-3.CTG"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.CTH"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CTS"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.CTU"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.CUA"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CUH"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CUU"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.CUW"
+msgstr "Suvais"
+
+msgid "ISO_639-3.CVG"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.CWB"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.CWE"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.CYM"
+msgstr "Breatnais"
+
+msgid "ISO_639-3.CZH"
+msgstr "Sínis"
+
+msgid "ISO_639-3.CZK"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.CZT"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maorais"
+
+msgid "ISO_639-3.DAG"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DAL"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.DAM"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.DAN"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DAO"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.DAV"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.DAX"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DAZ"
+msgstr "Láóis"
+
+msgid "ISO_639-3.DBA"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.DBO"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.DBP"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.DBW"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.DDJ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.DEC"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.DED"
+msgstr "Veindis"
+
+msgid "ISO_639-3.DEH"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.DER"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.DES"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.DEU"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.DGA"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.DGG"
+msgstr "Songais"
+
+msgid "ISO_639-3.DGI"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.DGL"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.DGN"
+msgstr "Romainis"
+
+msgid "ISO_639-3.DHG"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.DHN"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DHO"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.DHS"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DHV"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.DHX"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.DIC"
+msgstr "Láóis"
+
+msgid "ISO_639-3.DID"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.DIF"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.DIH"
+msgstr "Coimí"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DIK"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.DIM"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.DIP"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.DIQ"
+msgstr "Teangacha Máigeacha"
+
+msgid "ISO_639-3.DIR"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.DIT"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.DIU"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.DIV"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.DIW"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.DJB"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.DJI"
+msgstr "Fidsis"
+
+msgid "ISO_639-3.DJO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.DKS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.DKX"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.DLG"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.DLK"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.DLM"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.DMC"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.DMK"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.DML"
+msgstr "Páilis"
+
+msgid "ISO_639-3.DMM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.DMX"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.DND"
+msgstr "Gandais"
+
+msgid "ISO_639-3.DNG"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DNK"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.DNU"
+msgstr "Gandais"
+
+msgid "ISO_639-3.DNV"
+msgstr "Gandais"
+
+msgid "ISO_639-3.DNW"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.DOC"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.DOH"
+msgstr "Congóis"
+
+msgid "ISO_639-3.DOK"
+msgstr "Congóis"
+
+msgid "ISO_639-3.DOO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.DOQ"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.DOT"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DOX"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.DOY"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.DPP"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.DRB"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DRC"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.DRD"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.DRE"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.DRL"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.DRY"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.DSB"
+msgstr "Gearmáinis Íochtarach"
+
+msgid "ISO_639-3.DSE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.DSI"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.DSO"
+msgstr "Veindis"
+
+msgid "ISO_639-3.DTA"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.DTP"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.DTY"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.DUM"
+msgstr "Meán-Ollainnis (ca. 1050-1350)"
+
+msgid "ISO_639-3.DUO"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.DUP"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.DUR"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.DWA"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.DWR"
+msgstr "Láóis"
+
+msgid "ISO_639-3.DWY"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.DYA"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.DZA"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.EAA"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.EBK"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.ECR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.ECS"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.EFE"
+msgstr "Éivéis"
+
+msgid "ISO_639-3.EGL"
+msgstr "Samóis"
+
+msgid "ISO_639-3.EGY"
+msgstr "Éigiptis (Cianaosta)"
+
+msgid "ISO_639-3.EIT"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.EIV"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.EKC"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maorais"
+
+msgid "ISO_639-3.EKK"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.EKO"
+msgstr "Coimí"
+
+msgid "ISO_639-3.EKY"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.ELI"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.ELL"
+msgstr "Gréigis Nua-Aimseartha (1453-)"
+
+msgid "ISO_639-3.ELX"
+msgstr "Éaláimis"
+
+msgid "ISO_639-3.EMG"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.EMK"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.EMN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.EMU"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.ENA"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.ENB"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.ENG"
+msgstr "Béarla"
+
+msgid "ISO_639-3.ENM"
+msgstr "Meán-Bhéarla (1100-1500)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Songais"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.ERK"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.ESG"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ESI"
+msgstr "Éigiptis (Cianaosta)"
+
+msgid "ISO_639-3.ESL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ESN"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.ESO"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.EST"
+msgstr "Eastóinis"
+
+msgid "ISO_639-3.ESY"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.ETH"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ETR"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.ETT"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.EUS"
+msgstr "Bascais"
+
+msgid "ISO_639-3.EVH"
+msgstr "Úisbéicis"
+
+msgid "ISO_639-3.EWE"
+msgstr "Éivéis"
+
+msgid "ISO_639-3.EYO"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.EZE"
+msgstr "Úisbéicis"
+
+msgid "ISO_639-3.FAA"
+msgstr "Bascais"
+
+msgid "ISO_639-3.FAF"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.FAH"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.FAL"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.FAO"
+msgstr "Faróis"
+
+msgid "ISO_639-3.FAP"
+msgstr "Páilis"
+
+msgid "ISO_639-3.FAR"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.FAS"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.FAX"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.FAY"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.FCS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.FER"
+msgstr "Faróis"
+
+msgid "ISO_639-3.FGR"
+msgstr "Congóis"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Fidsis"
+
+msgid "ISO_639-3.FIL"
+msgstr "Friúilis"
+
+msgid "ISO_639-3.FIN"
+msgstr "Fionlainnis"
+
+msgid "ISO_639-3.FIP"
+msgstr "Fidsis"
+
+msgid "ISO_639-3.FIR"
+msgstr "Fidsis"
+
+msgid "ISO_639-3.FKV"
+msgstr "Fionlainnis"
+
+msgid "ISO_639-3.FLI"
+msgstr "Páilis"
+
+msgid "ISO_639-3.FLL"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.FLY"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.FMU"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.FNG"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.FNI"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.FOM"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.FOR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.FQS"
+msgstr "Faróis"
+
+msgid "ISO_639-3.FRA"
+msgstr "Fraincis"
+
+msgid "ISO_639-3.FRC"
+msgstr "Fraincis"
+
+msgid "ISO_639-3.FRK"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.FRM"
+msgstr "Meán-Fraincis (ca.1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "Sean-Fhraincis (842-ca.1400)"
+
+msgid "ISO_639-3.FRP"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.FRR"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.FRS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.FRY"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.FSE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.FSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.FSS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.FUF"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.FUI"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.FUJ"
+msgstr "Coimí"
+
+msgid "ISO_639-3.FUL"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.FUR"
+msgstr "Friúilis"
+
+msgid "ISO_639-3.FUU"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.FWE"
+msgstr "Éivéis"
+
+msgid "ISO_639-3.GAB"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GAD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GAF"
+msgstr "Veindis"
+
+msgid "ISO_639-3.GAH"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.GAL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.GAM"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.GAN"
+msgstr "Sínis"
+
+msgid "ISO_639-3.GAO"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GAQ"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.GAR"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.GAT"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.GBF"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.GBI"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.GBK"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.GBM"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GBO"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.GBV"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GBY"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GCC"
+msgstr "Páilis"
+
+msgid "ISO_639-3.GCD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GCE"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.GCN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GDG"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GDI"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GDJ"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-3.GDK"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GDL"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.GDN"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.GDS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GDT"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.GEA"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GEB"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.GED"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GEG"
+msgstr "Gearmánach (Eile)"
+
+msgid "ISO_639-3.GEI"
+msgstr "Eabhrais"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GEW"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GFK"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.GFT"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-3.GGA"
+msgstr "Láóis"
+
+msgid "ISO_639-3.GGE"
+msgstr "Aragóinis"
+
+msgid "ISO_639-3.GGK"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.GGL"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GHC"
+msgstr "Gaeilge na hAlban"
+
+msgid "ISO_639-3.GHE"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.GHH"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.GHO"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.GHR"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GIB"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.GID"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GIG"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.GIL"
+msgstr "Cireabaitis"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GIR"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GIU"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.GIW"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GIX"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.GJM"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GJN"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.GJR"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GJU"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-3.GKE"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.GKN"
+msgstr "Gaeilge na hAlban"
+
+msgid "ISO_639-3.GLD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GLE"
+msgstr "Gaeilge"
+
+msgid "ISO_639-3.GLG"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.GLH"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.GLL"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.GLV"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.GLW"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GMA"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.GMH"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.GMU"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.GMV"
+msgstr "Láóis"
+
+msgid "ISO_639-3.GNA"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.GNC"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.GNE"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GNG"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.GNH"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.GNK"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GNM"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GNO"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GNT"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GNU"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GNW"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GOF"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.GOG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.GOH"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.GOT"
+msgstr "Gotais"
+
+msgid "ISO_639-3.GOU"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GPE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GPN"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.GQA"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GQU"
+msgstr "Bascais"
+
+msgid "ISO_639-3.GRC"
+msgstr "Gréigis Chianaosta (go dtí 1453)"
+
+msgid "ISO_639-3.GRG"
+msgstr "Maorais"
+
+msgid "ISO_639-3.GRI"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.GRN"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GRO"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GRW"
+msgstr "Veindis"
+
+msgid "ISO_639-3.GSE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GSG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GSM"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.GSS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GSW"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GUA"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.GUB"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-3.GUC"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.GUE"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GUG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-3.GUM"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GUR"
+msgstr "Faróis"
+
+msgid "ISO_639-3.GUS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.GUW"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GVC"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GVE"
+msgstr "Ollainnis"
+
+msgid "ISO_639-3.GVF"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.GVL"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.GVM"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GVR"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.GVS"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GVY"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maorais"
+
+msgid "ISO_639-3.GWC"
+msgstr "Páilis"
+
+msgid "ISO_639-3.GWD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GWN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GWT"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-3.GWW"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.GWX"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GXX"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.GYB"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.GYE"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.GYF"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.GYR"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.GYY"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.GZA"
+msgstr "Gandais"
+
+msgid "ISO_639-3.GZN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.HAB"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HAC"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.HAD"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.HAF"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HAG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.HAH"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.HAK"
+msgstr "Sínis"
+
+msgid "ISO_639-3.HAL"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.HAM"
+msgstr "Eabhrais"
+
+msgid "ISO_639-3.HAN"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.HAP"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HAR"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.HAS"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HAT"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.HAU"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HAV"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HAW"
+msgstr "Haváis"
+
+msgid "ISO_639-3.HAX"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.HAY"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HBA"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.HBB"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HBN"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.HBO"
+msgstr "Eabhrais"
+
+msgid "ISO_639-3.HBS"
+msgstr "Cróitis"
+
+msgid "ISO_639-3.HBU"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HDN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.HDS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HEA"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.HEB"
+msgstr "Eabhrais"
+
+msgid "ISO_639-3.HEH"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.HER"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.HGW"
+msgstr "Haváis"
+
+msgid "ISO_639-3.HHR"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.HHY"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HIA"
+msgstr "Samóis"
+
+msgid "ISO_639-3.HIB"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.HID"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HIF"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HIG"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.HII"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HIN"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HIO"
+msgstr "Songais"
+
+msgid "ISO_639-3.HIR"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.HIT"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.HJI"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HKA"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.HKE"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HKS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HLA"
+msgstr "Páilis"
+
+msgid "ISO_639-3.HLB"
+msgstr "Páilis"
+
+msgid "ISO_639-3.HLE"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HLT"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.HMA"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.HME"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.HMG"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.HMH"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.HMI"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.HMK"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.HMO"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.HMP"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.HMQ"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.HMR"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.HMS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.HMT"
+msgstr "Aramais"
+
+msgid "ISO_639-3.HMU"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HMW"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.HMY"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.HND"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.HNI"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HNO"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.HNU"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.HOA"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HOE"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Gotais"
+
+msgid "ISO_639-3.HOM"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.HOP"
+msgstr "Coptais"
+
+msgid "ISO_639-3.HOR"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.HOW"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.HPS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HRE"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.HRO"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.HRU"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HRV"
+msgstr "Cróitis"
+
+msgid "ISO_639-3.HRX"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.HSB"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.HSH"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.HSN"
+msgstr "Sínis"
+
+msgid "ISO_639-3.HSS"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HTI"
+msgstr "Gotais"
+
+msgid "ISO_639-3.HTS"
+msgstr "Gandais"
+
+msgid "ISO_639-3.HTX"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.HUB"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HUC"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HUD"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.HUF"
+msgstr "Burmais"
+
+msgid "ISO_639-3.HUJ"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.HUK"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.HUL"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HUM"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.HUN"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.HUQ"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.HUS"
+msgstr "Burmais"
+
+msgid "ISO_639-3.HUT"
+msgstr "Hásais"
+
+msgid "ISO_639-3.HWO"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.HYE"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.IAR"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.IBB"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.IBL"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.IBN"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.IBO"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.IBR"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.ICL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portaingéilis"
+
+msgid "ISO_639-3.IDC"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.IDR"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.IFB"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.IGG"
+msgstr "Gandais"
+
+msgid "ISO_639-3.IGL"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.IGN"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.IGS"
+msgstr "Idirtheanga"
+
+msgid "ISO_639-3.III"
+msgstr "Íais Shisiuánach"
+
+msgid "ISO_639-3.IJE"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.IJS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.IKL"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.IKR"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.IKS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.IKU"
+msgstr "Ionúitis"
+
+msgid "ISO_639-3.ILB"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.ILE"
+msgstr "Idirtheanga iartharach"
+
+msgid "ISO_639-3.ILI"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.ILK"
+msgstr "Congóis"
+
+msgid "ISO_639-3.ILM"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.IMA"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.IMS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.IMY"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.INA"
+msgstr "Idirtheanga (International Auxiliary Language Association)"
+
+msgid "ISO_639-3.INB"
+msgstr "Songais"
+
+msgid "ISO_639-3.IND"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.INL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.INS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.IRU"
+msgstr "Friúilis"
+
+msgid "ISO_639-3.IRX"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.IRY"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.ISE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ISG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ISH"
+msgstr "Eastóinis"
+
+msgid "ISO_639-3.ISL"
+msgstr "Íoslainnis"
+
+msgid "ISO_639-3.ISR"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ITA"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.ITD"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ITE"
+msgstr "Idirtheanga iartharach"
+
+msgid "ISO_639-3.ITK"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.ITR"
+msgstr "Idirtheanga iartharach"
+
+msgid "ISO_639-3.ITV"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.ITY"
+msgstr "Gandais"
+
+msgid "ISO_639-3.IVB"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.IVV"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.IXL"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.IZH"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.JAC"
+msgstr "Coptais"
+
+msgid "ISO_639-3.JAF"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.JAK"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.JAN"
+msgstr "Aramais"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.JAT"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.JAU"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.JAV"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.JAY"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Aramais"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.JBO"
+msgstr "Lojban"
+
+msgid "ISO_639-3.JCT"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.JEB"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.JER"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.JET"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.JGE"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.JHI"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.JHS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.JIO"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.JIV"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.JKU"
+msgstr "Laidin"
+
+msgid "ISO_639-3.JLS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.JMB"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.JMC"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.JMN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.JMR"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.JNA"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.JND"
+msgstr "Gandais"
+
+msgid "ISO_639-3.JNG"
+msgstr "Samóis"
+
+msgid "ISO_639-3.JNI"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.JNL"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.JNS"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.JOB"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.JOS"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.JOW"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.JPN"
+msgstr "Seapáinis"
+
+msgid "ISO_639-3.JRA"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.JSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.JUK"
+msgstr "Seapáinis"
+
+msgid "ISO_639-3.JUN"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.JUO"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.JUS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.JUT"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.JVD"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.JVN"
+msgstr "Iávais"
+
+msgid "ISO_639-3.KAA"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.KAD"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KAF"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.KAG"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KAK"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.KAL"
+msgstr "Graonlainnis (Kalaallisut)"
+
+msgid "ISO_639-3.KAN"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KAS"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.KAT"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.KAU"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KAX"
+msgstr "Láóis"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KBA"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KBE"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KBG"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KBI"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KBL"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KBP"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KBQ"
+msgstr "Samóis"
+
+msgid "ISO_639-3.KBR"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KBS"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KBT"
+msgstr "Acáidis"
+
+msgid "ISO_639-3.KBU"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.KBY"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Ollainnis"
+
+msgid "ISO_639-3.KCB"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KCC"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.KCE"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.KCF"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.KCH"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Lojban"
+
+msgid "ISO_639-3.KCK"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.KCO"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.KCP"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Samóis"
+
+msgid "ISO_639-3.KCR"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.KCS"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KCT"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.KCW"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KCY"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KDA"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KDC"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KDG"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.KDI"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KDM"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KDN"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KDR"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KDT"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KDU"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KDW"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KDY"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KEA"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.KED"
+msgstr "Eabhrais"
+
+msgid "ISO_639-3.KEH"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KEN"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KER"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KES"
+msgstr "Íogbóis"
+
+msgid "ISO_639-3.KEU"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.KEX"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KFA"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KFB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.KFD"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.KFF"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KFG"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KFH"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KFI"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KFK"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KFL"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KFP"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KFR"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.KFS"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.KFT"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KFU"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.KFW"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.KFX"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.KFY"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KGD"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.KGE"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KGI"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.KGJ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KGL"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.KGN"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.KGO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KGP"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.KGQ"
+msgstr "Seamóróis"
+
+msgid "ISO_639-3.KGU"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KGW"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KGX"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KHA"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.KHE"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KHF"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KHG"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KHK"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maorais"
+
+msgid "ISO_639-3.KHR"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KHS"
+msgstr "Hásais"
+
+msgid "ISO_639-3.KHT"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.KHV"
+msgstr "Suvais"
+
+msgid "ISO_639-3.KHX"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KIB"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.KID"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.KIE"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.KIG"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KIH"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KIK"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KIL"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.KIM"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.KIN"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.KIR"
+msgstr "Cirgeastáinis"
+
+msgid "ISO_639-3.KIS"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KIU"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.KIW"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KIX"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.KJA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.KJC"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.KJD"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.KJG"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KJI"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KJO"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KJR"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KJV"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.KJX"
+msgstr "Samóis"
+
+msgid "ISO_639-3.KKA"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KKD"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KKF"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.KKI"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.KKJ"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KKK"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KKM"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KKR"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.KKT"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.KKV"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KKX"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Hásais"
+
+msgid "ISO_639-3.KLG"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Teangacha iomadúla"
+
+msgid "ISO_639-3.KLL"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.KLM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.KLO"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KLP"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KLS"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KLW"
+msgstr "Laidin"
+
+msgid "ISO_639-3.KLY"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.KMA"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KMC"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.KMD"
+msgstr "Samóis"
+
+msgid "ISO_639-3.KMH"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KML"
+msgstr "Samóis"
+
+msgid "ISO_639-3.KMO"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KMQ"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KMR"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.KMU"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KMY"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KNC"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KND"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KNE"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KNF"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.KNG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KNI"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KNK"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KNM"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KNN"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.KNP"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.KNR"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KNX"
+msgstr "Veindis"
+
+msgid "ISO_639-3.KOA"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KOC"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.KOD"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KOF"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KOH"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KOK"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KOM"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KON"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KOO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KOR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KOT"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.KOU"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KOW"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KPD"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.KPF"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KPI"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KPK"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KPL"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.KPM"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KPR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KPS"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.KPT"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KPW"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KPY"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KQB"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KQE"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.KQG"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KQH"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KQJ"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KQM"
+msgstr "Cóisis"
+
+msgid "ISO_639-3.KQN"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KQO"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KQR"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.KQS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.KQU"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.KQW"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KQY"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KRA"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.KRB"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KRE"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.KRH"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KRI"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KRJ"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.KRK"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KRL"
+msgstr "Cairéailis"
+
+msgid "ISO_639-3.KRM"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KRN"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.KRP"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KRT"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KRV"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KRW"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KRX"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.KSB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KSC"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.KSD"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KSE"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KSI"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KSK"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KSL"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.KSM"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KSN"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.KSO"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KSP"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.KSQ"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KSR"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.KSS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.KSV"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KSX"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KTA"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.KTB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KTD"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KTE"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.KTF"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KTH"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.KTK"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KTM"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KTQ"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.KTS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.KTV"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KUA"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KUC"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.KUF"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.KUH"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KUN"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.KUR"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KUV"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KUZ"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KVB"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.KVC"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.KVH"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KVI"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.KVK"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.KVL"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KVP"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KVV"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KVW"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.KWC"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.KWD"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.KWE"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.KWG"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.KWH"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.KWK"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.KWL"
+msgstr "Afárais"
+
+msgid "ISO_639-3.KWM"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KWN"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.KWO"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KWP"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.KWR"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.KWV"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.KWY"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.KXA"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.KXC"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KXJ"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.KXM"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.KXN"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.KXP"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KXS"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KXT"
+msgstr "Coimí"
+
+msgid "ISO_639-3.KXV"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KXW"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KXY"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.KYA"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KYC"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KYF"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KYG"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.KYL"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.KYM"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.KYN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.KYO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.KYP"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.KYS"
+msgstr "Aramais"
+
+msgid "ISO_639-3.KYT"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.KYU"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KYW"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.KYY"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.KZA"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.KZD"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.KZE"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KZG"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KZK"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.KZL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.KZM"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KZN"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.KZO"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.KZR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.KZX"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.LAA"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.LAB"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LAD"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LAF"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LAG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.LAI"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.LAL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.LAN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.LAO"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LAR"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.LAT"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LAU"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LAV"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.LAX"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.LAY"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.LBC"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.LBE"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LBF"
+msgstr "Fionlainnis"
+
+msgid "ISO_639-3.LBG"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LBI"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.LBK"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.LBN"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LBO"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.LBQ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.LBS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LBT"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LBW"
+msgstr "Volapük"
+
+msgid "ISO_639-3.LBX"
+msgstr "Haváis"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LCD"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LCL"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.LCM"
+msgstr "Songais"
+
+msgid "ISO_639-3.LCP"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.LDD"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.LDI"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.LDL"
+msgstr "Samóis"
+
+msgid "ISO_639-3.LDM"
+msgstr "Gandais"
+
+msgid "ISO_639-3.LDN"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LDO"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LDP"
+msgstr "Songais"
+
+msgid "ISO_639-3.LED"
+msgstr "Veindis"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.LEN"
+msgstr "Veindis"
+
+msgid "ISO_639-3.LEP"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.LEX"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.LFN"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LGA"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.LGK"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LGL"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LGR"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.LGT"
+msgstr "Páilis"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.LHM"
+msgstr "Coimí"
+
+msgid "ISO_639-3.LHN"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.LHT"
+msgstr "Songais"
+
+msgid "ISO_639-3.LHU"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.LIE"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LIF"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.LIM"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.LIN"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LIR"
+msgstr "Béarla"
+
+msgid "ISO_639-3.LIT"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.LIW"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.LIY"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.LJI"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LJL"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LJP"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.LJW"
+msgstr "Aramais"
+
+msgid "ISO_639-3.LKB"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.LKC"
+msgstr "Congóis"
+
+msgid "ISO_639-3.LKD"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LKI"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LKM"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.LKN"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LKO"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LKS"
+msgstr "Cóisis"
+
+msgid "ISO_639-3.LKT"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LKU"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.LLB"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.LLD"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LLF"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.LLH"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LLL"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LLO"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.LLP"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.LLQ"
+msgstr "Volapük"
+
+msgid "ISO_639-3.LLS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LLU"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LLX"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maorais"
+
+msgid "ISO_639-3.LMC"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.LMF"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.LMG"
+msgstr "Samóis"
+
+msgid "ISO_639-3.LMI"
+msgstr "Coimí"
+
+msgid "ISO_639-3.LMK"
+msgstr "Samóis"
+
+msgid "ISO_639-3.LML"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.LMN"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LMO"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LMP"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.LMR"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.LMY"
+msgstr "Samóis"
+
+msgid "ISO_639-3.LMZ"
+msgstr "Burmais"
+
+msgid "ISO_639-3.LNB"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.LNH"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LNI"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.LNM"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LNS"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LNU"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.LNW"
+msgstr "Páilis"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Congóis"
+
+msgid "ISO_639-3.LOB"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.LOE"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.LOF"
+msgstr "Congóis"
+
+msgid "ISO_639-3.LOG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.LOH"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.LOJ"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LOO"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.LOP"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LOV"
+msgstr "Coptais"
+
+msgid "ISO_639-3.LOX"
+msgstr "Lojban"
+
+msgid "ISO_639-3.LPN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.LPO"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LRA"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.LRC"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.LRE"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.LRI"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.LRL"
+msgstr "Maorais"
+
+msgid "ISO_639-3.LRM"
+msgstr "Aramais"
+
+msgid "ISO_639-3.LRN"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.LRO"
+msgstr "Láóis"
+
+msgid "ISO_639-3.LRR"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Coimí"
+
+msgid "ISO_639-3.LSD"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.LSG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LSH"
+msgstr "Gaeilge"
+
+msgid "ISO_639-3.LSI"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.LSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LSM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.LSO"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LSP"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LSS"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LST"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LSY"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.LTG"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.LTN"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LTO"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.LTS"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.LTU"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Lucsambuirgis"
+
+msgid "ISO_639-3.LUB"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.LUC"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LUD"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.LUF"
+msgstr "Hásais"
+
+msgid "ISO_639-3.LUG"
+msgstr "Gandais"
+
+msgid "ISO_639-3.LUM"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.LUR"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.LUV"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LUW"
+msgstr "Baltach (Eile)"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.LVS"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.LWG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.LWH"
+msgstr "Laidin"
+
+msgid "ISO_639-3.LWM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.LYA"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.LYG"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.LYN"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.LZH"
+msgstr "Sínis"
+
+msgid "ISO_639-3.LZN"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.LZZ"
+msgstr "Láóis"
+
+msgid "ISO_639-3.MAF"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MAH"
+msgstr "Marascailis"
+
+msgid "ISO_639-3.MAL"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MAM"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MAR"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.MBC"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MBE"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MBF"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MBK"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MBP"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MBS"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MBY"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MCA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MCI"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MCN"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.MCP"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.MCQ"
+msgstr "Éivéis"
+
+msgid "ISO_639-3.MCR"
+msgstr "Veindis"
+
+msgid "ISO_639-3.MCS"
+msgstr "Aramais"
+
+msgid "ISO_639-3.MCT"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MCY"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MDG"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MDH"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.MDL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.MDN"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MDP"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MDW"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MDX"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.MEA"
+msgstr "Veindis"
+
+msgid "ISO_639-3.MEC"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MED"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MEH"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.MEL"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.MEM"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.MET"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MEW"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.MFA"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MFB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MFF"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.MFH"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.MFI"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MFK"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.MFL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.MFP"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MFQ"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.MFR"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MFS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.MFV"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MFW"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.MFY"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MGA"
+msgstr "Meán-Ghaeilge (900-1200)"
+
+msgid "ISO_639-3.MGB"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MGE"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.MGF"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MGG"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.MGK"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MGM"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MGN"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MGP"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MGT"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MGU"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.MGV"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.MHF"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MHG"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.MHI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MHK"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.MHL"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MHP"
+msgstr "Sínis"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.MHT"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MHX"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.MHY"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MHZ"
+msgstr "Tongais (Oileáin Thonga)"
+
+msgid "ISO_639-3.MIA"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.MIC"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MID"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Afárais"
+
+msgid "ISO_639-3.MIS"
+msgstr "Teangacha iomadúla"
+
+msgid "ISO_639-3.MIT"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.MJB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MJH"
+msgstr "Tongais (Maláiv)"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MJK"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.MJL"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MJP"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MJR"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.MJV"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MJW"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.MJX"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MJY"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MKA"
+msgstr "Eabhrais"
+
+msgid "ISO_639-3.MKB"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MKD"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MKE"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MKF"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.MKI"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MKR"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MKV"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MKY"
+msgstr "Samóis"
+
+msgid "ISO_639-3.MLA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MLC"
+msgstr "Samóis"
+
+msgid "ISO_639-3.MLE"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MLF"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MLG"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.MLK"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.MLL"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MLM"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MLN"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.MLP"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MLT"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MLV"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.MLX"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MMA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MMB"
+msgstr "Coimí"
+
+msgid "ISO_639-3.MMD"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MME"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MMI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MMM"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MMN"
+msgstr "Samóis"
+
+msgid "ISO_639-3.MMO"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MMP"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Hásais"
+
+msgid "ISO_639-3.MMR"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MMT"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MMU"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MMV"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MMX"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MMZ"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MNA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MNC"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MNE"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.MNF"
+msgstr "Sundais"
+
+msgid "ISO_639-3.MNI"
+msgstr "Manapúiris"
+
+msgid "ISO_639-3.MNJ"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.MNK"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MNL"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.MNM"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MNN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.MNP"
+msgstr "Sínis"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.MNS"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MNY"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MOA"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MOD"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.MOG"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MOH"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MOM"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MON"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MOO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MOV"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MOX"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.MPC"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MPD"
+msgstr "Sínis"
+
+msgid "ISO_639-3.MPE"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MPG"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MPH"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MPN"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MPT"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MPV"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.MPW"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MPY"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.MQC"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.MQE"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MQM"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.MQP"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MQR"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MQS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MQT"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MQU"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MQY"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MRD"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MRG"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MRH"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MRP"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.MRQ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.MRS"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MRY"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MSC"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MSD"
+msgstr "Teangacha Máigeacha"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MSH"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MSL"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.MSR"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.MSS"
+msgstr "Hásais"
+
+msgid "ISO_639-3.MSV"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MSY"
+msgstr "Aramais"
+
+msgid "ISO_639-3.MTD"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.MTE"
+msgstr "Tongais (Oileáin Thonga)"
+
+msgid "ISO_639-3.MTJ"
+msgstr "Songais"
+
+msgid "ISO_639-3.MTL"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MTN"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Congóis"
+
+msgid "ISO_639-3.MTR"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MTS"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.MTT"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MTW"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.MTY"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.MUA"
+msgstr "Sundais"
+
+msgid "ISO_639-3.MUC"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.MUL"
+msgstr "Teangacha iomadúla"
+
+msgid "ISO_639-3.MUM"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MUO"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.MUP"
+msgstr "Páilis"
+
+msgid "ISO_639-3.MUT"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.MUU"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.MUX"
+msgstr "Congóis"
+
+msgid "ISO_639-3.MUY"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MVA"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MVF"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MVP"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.MVR"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MVS"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MVU"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.MWI"
+msgstr "Láóis"
+
+msgid "ISO_639-3.MWK"
+msgstr "Gandais"
+
+msgid "ISO_639-3.MWN"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.MWX"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.MXD"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.MXF"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MXG"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.MXI"
+msgstr "Araibis"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.MXR"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.MXW"
+msgstr "Samóis"
+
+msgid "ISO_639-3.MXX"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MXY"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.MYA"
+msgstr "Burmais"
+
+msgid "ISO_639-3.MYB"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MYF"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.MYG"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MYH"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.MYL"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.MYR"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MYS"
+msgstr "Máltais"
+
+msgid "ISO_639-3.MYX"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.MYY"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.MZC"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.MZD"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.MZE"
+msgstr "Móháicis"
+
+msgid "ISO_639-3.MZG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MZP"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.MZS"
+msgstr "Iávais"
+
+msgid "ISO_639-3.MZV"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.MZX"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.MZY"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.NAA"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.NAB"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NAC"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NAL"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NAN"
+msgstr "Sínis"
+
+msgid "ISO_639-3.NAP"
+msgstr "Naiplis"
+
+msgid "ISO_639-3.NAS"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.NAU"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NAV"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.NAW"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NBB"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NBC"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.NBL"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.NBN"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.NBP"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NBS"
+msgstr "Teangacha Núibiacha"
+
+msgid "ISO_639-3.NBU"
+msgstr "Songais"
+
+msgid "ISO_639-3.NBW"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NBY"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NCB"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.NCC"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.NCF"
+msgstr "Béarla na hAlban"
+
+msgid "ISO_639-3.NCH"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.NCJ"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.NCK"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NCN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NCS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.NDA"
+msgstr "Hásais"
+
+msgid "ISO_639-3.NDC"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.NDF"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.NDH"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NDJ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NDL"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.NDM"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NDO"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NDP"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NDR"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NDS"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.NDT"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NDV"
+msgstr "Udmairtis"
+
+msgid "ISO_639-3.NDX"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vítneamais"
+
+msgid "ISO_639-3.NEG"
+msgstr "Ioruais"
+
+msgid "ISO_639-3.NEI"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.NEM"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NEP"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.NER"
+msgstr "Acáidis"
+
+msgid "ISO_639-3.NES"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.NEU"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NEW"
+msgstr "Maorais"
+
+msgid "ISO_639-3.NFD"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.NGB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NGP"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.NGY"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.NHA"
+msgstr "Gandais"
+
+msgid "ISO_639-3.NHB"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.NHE"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NHH"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.NHO"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.NHR"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NHW"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NHY"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.NIB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NIE"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NIK"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.NIM"
+msgstr "Bioslamais"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.NIR"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.NIT"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NIX"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.NIY"
+msgstr "Úgairitis"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.NJI"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.NJM"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.NJN"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.NJX"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.NKB"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.NKC"
+msgstr "Congóis"
+
+msgid "ISO_639-3.NKD"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.NKG"
+msgstr "Ioruais"
+
+msgid "ISO_639-3.NKI"
+msgstr "Songais"
+
+msgid "ISO_639-3.NKN"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.NKO"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NKU"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.NKW"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NLC"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.NLD"
+msgstr "Ollainnis"
+
+msgid "ISO_639-3.NLG"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.NLI"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NLL"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.NLW"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.NLX"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Páilis"
+
+msgid "ISO_639-3.NMA"
+msgstr "Aramais"
+
+msgid "ISO_639-3.NMB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NMC"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NMD"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.NMG"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.NMK"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NML"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NMM"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.NMP"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NMQ"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NMR"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.NNB"
+msgstr "Gandais"
+
+msgid "ISO_639-3.NNG"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.NNL"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.NNO"
+msgstr "Ioruais Nynorsk"
+
+msgid "ISO_639-3.NNR"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NNU"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.NNW"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NNY"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NNZ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.NOB"
+msgstr "Ioruais Bokmal"
+
+msgid "ISO_639-3.NOD"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NOF"
+msgstr "Romainis"
+
+msgid "ISO_639-3.NOI"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NOL"
+msgstr "Volapük"
+
+msgid "ISO_639-3.NON"
+msgstr "Lochlainnis"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Congóis"
+
+msgid "ISO_639-3.NOR"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NPA"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NPG"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.NPI"
+msgstr "Teangacha Máigeacha"
+
+msgid "ISO_639-3.NPN"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.NPS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.NPY"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NQG"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NQM"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NQO"
+msgstr "Coimí"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NQY"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NRB"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NRC"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.NRE"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NRG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.NRK"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.NRL"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NRM"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.NRN"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.NRT"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NRU"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NRX"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.NSA"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.NSD"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NSE"
+msgstr "Songais"
+
+msgid "ISO_639-3.NSF"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NSG"
+msgstr "Hásais"
+
+msgid "ISO_639-3.NSI"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.NSL"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.NSP"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.NSQ"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.NSR"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.NSS"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NSV"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NSW"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.NSX"
+msgstr "Congóis"
+
+msgid "ISO_639-3.NSY"
+msgstr "Hásais"
+
+msgid "ISO_639-3.NTD"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NTG"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.NTP"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NTX"
+msgstr "Samóis"
+
+msgid "ISO_639-3.NTY"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.NUA"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.NUD"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.NUF"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NUG"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.NUH"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NUN"
+msgstr "Congóis"
+
+msgid "ISO_639-3.NUS"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NUV"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.NVH"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.NWI"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.NWR"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NXI"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NXL"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.NXM"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.NXO"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NXU"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NXX"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.NYA"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NYB"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.NYC"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.NYF"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.NYH"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NYR"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.NYS"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.NYX"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.NZS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.OAA"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OAC"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OAR"
+msgstr "Lochlainnis"
+
+msgid "ISO_639-3.OBK"
+msgstr "Sótó Theas"
+
+msgid "ISO_639-3.OBR"
+msgstr "Burmais"
+
+msgid "ISO_639-3.OBT"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.OCH"
+msgstr "Sínis"
+
+msgid "ISO_639-3.OCI"
+msgstr "Ocatáinis (tar éis 1500); Proibhinsis"
+
+msgid "ISO_639-3.OCO"
+msgstr "Coirnis"
+
+msgid "ISO_639-3.ODA"
+msgstr "Udmairtis"
+
+msgid "ISO_639-3.ODT"
+msgstr "Ollainnis"
+
+msgid "ISO_639-3.OFS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.OGB"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.OGE"
+msgstr "Seoirsis"
+
+msgid "ISO_639-3.OGO"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.OHT"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.OHU"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.OJB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.OJC"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.OJG"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.OJI"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.OJP"
+msgstr "Seapáinis"
+
+msgid "ISO_639-3.OJS"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.OJW"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.OKB"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OKD"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.OKG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.OKK"
+msgstr "Coimí"
+
+msgid "ISO_639-3.OKL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.OKM"
+msgstr "Meán-Fraincis (ca.1400-1600)"
+
+msgid "ISO_639-3.OKO"
+msgstr "Meán-Fraincis (ca.1400-1600)"
+
+msgid "ISO_639-3.OKR"
+msgstr "Cirgeastáinis"
+
+msgid "ISO_639-3.OKV"
+msgstr "Cróitis"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maorais"
+
+msgid "ISO_639-3.OLM"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OLR"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OLT"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.OMB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.OMC"
+msgstr "Gotais"
+
+msgid "ISO_639-3.OMK"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OML"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OMN"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.OMP"
+msgstr "Manapúiris"
+
+msgid "ISO_639-3.OMR"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.OMW"
+msgstr "Lochlainnis"
+
+msgid "ISO_639-3.ONB"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.ONP"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.ONR"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ONW"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.OOS"
+msgstr "Lochlainnis"
+
+msgid "ISO_639-3.OPT"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.ORA"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ORC"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ORG"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.ORI"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.ORM"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ORO"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ORR"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ORT"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.ORV"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.ORX"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ORY"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.ORZ"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OSC"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.OSI"
+msgstr "Óiséitis"
+
+msgid "ISO_639-3.OSO"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spáinnis"
+
+msgid "ISO_639-3.OSS"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.OSU"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.OSX"
+msgstr "Lochlainnis"
+
+msgid "ISO_639-3.OTA"
+msgstr "Tuircis Otamánach (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.OTD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.OTK"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.OTR"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.OUI"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.OWL"
+msgstr "Breatnais"
+
+msgid "ISO_639-3.OYD"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.PAH"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.PAN"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.PAO"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.PAS"
+msgstr "Seapáinis"
+
+msgid "ISO_639-3.PAT"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.PAY"
+msgstr "Seicis"
+
+msgid "ISO_639-3.PBO"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PBP"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.PBT"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PBU"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PCF"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PCG"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PCH"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.PCK"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.PCL"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.PCM"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PDI"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PDN"
+msgstr "Féinícis"
+
+msgid "ISO_639-3.PDU"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.PEE"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.PEF"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PEG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.PEH"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PEK"
+msgstr "Fraincis"
+
+msgid "ISO_639-3.PEL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PEO"
+msgstr "Sean-Pheirsis (ca.600-400 R.C.)"
+
+msgid "ISO_639-3.PEP"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PES"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.PFL"
+msgstr "Polainnis"
+
+msgid "ISO_639-3.PGG"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PGI"
+msgstr "Tatairis Chriméach"
+
+msgid "ISO_639-3.PGN"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PHH"
+msgstr "Suvais"
+
+msgid "ISO_639-3.PHN"
+msgstr "Féinícis"
+
+msgid "ISO_639-3.PHO"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.PHT"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.PHV"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PIC"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.PII"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.PIM"
+msgstr "Cróitis"
+
+msgid "ISO_639-3.PIP"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.PIS"
+msgstr "Fidsis"
+
+msgid "ISO_639-3.PIV"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PKB"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.PKH"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.PKS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PKT"
+msgstr "Máltais"
+
+msgid "ISO_639-3.PKU"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.PLA"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.PLD"
+msgstr "Polainnis"
+
+msgid "ISO_639-3.PLE"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PLH"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PLI"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Polainnis"
+
+msgid "ISO_639-3.PLP"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PLT"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.PLU"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.PMA"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.PMB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.PMF"
+msgstr "Samóis"
+
+msgid "ISO_639-3.PMI"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.PMK"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PML"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.PMM"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PMR"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vítneamais"
+
+msgid "ISO_639-3.PMT"
+msgstr "Samóis"
+
+msgid "ISO_639-3.PMY"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.PNB"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.PNC"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PNE"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.PNG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.PNK"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.PNL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PNR"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PNS"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.PNT"
+msgstr "Gotais"
+
+msgid "ISO_639-3.PNX"
+msgstr "Féinícis"
+
+msgid "ISO_639-3.POC"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.POL"
+msgstr "Polainnis"
+
+msgid "ISO_639-3.POM"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.POR"
+msgstr "Portaingéilis"
+
+msgid "ISO_639-3.POX"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.PPE"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PPI"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.PRC"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.PRF"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.PRG"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.PRI"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PRL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PRM"
+msgstr "Cirgeastáinis"
+
+msgid "ISO_639-3.PRO"
+msgstr "Sean-Phroibhinsis (go dtí 1500)"
+
+msgid "ISO_639-3.PRP"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PRR"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.PRT"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PRU"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.PRZ"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PSC"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.PSG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PSH"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PSI"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PSM"
+msgstr "Hásais"
+
+msgid "ISO_639-3.PSO"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PSP"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PSR"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PSS"
+msgstr "Congóis"
+
+msgid "ISO_639-3.PTN"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.PTU"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.PTY"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.PUB"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.PUO"
+msgstr "Paistis"
+
+msgid "ISO_639-3.PUP"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.PUS"
+msgstr "Paistis"
+
+msgid "ISO_639-3.PUT"
+msgstr "Paistis"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portaingéilis"
+
+msgid "ISO_639-3.PUX"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.PWA"
+msgstr "Haváis"
+
+msgid "ISO_639-3.PWB"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.PWN"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.PWO"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.PWR"
+msgstr "Páilis"
+
+msgid "ISO_639-3.PWW"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.PYS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.PZN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.QUC"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.QUE"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QUI"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.QUP"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.QUX"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QUY"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QVP"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QVY"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QVZ"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.QXC"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QXP"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QXS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.QYA"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.QYP"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.RAA"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.RAF"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.RAG"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.RAI"
+msgstr "Samóis"
+
+msgid "ISO_639-3.RAL"
+msgstr "Máltais"
+
+msgid "ISO_639-3.RAM"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RAO"
+msgstr "Láóis"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Samóis"
+
+msgid "ISO_639-3.RAR"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.RAS"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.RAU"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.RAV"
+msgstr "Samóis"
+
+msgid "ISO_639-3.RAX"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.RBK"
+msgstr "Samóis"
+
+msgid "ISO_639-3.RBP"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.REE"
+msgstr "Veindis"
+
+msgid "ISO_639-3.REI"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.REN"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.RES"
+msgstr "Breatnais"
+
+msgid "ISO_639-3.RGA"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RGS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.RHG"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.RIM"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.RIN"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.RJI"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.RKI"
+msgstr "Sínis"
+
+msgid "ISO_639-3.RKM"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.RKT"
+msgstr "Manapúiris"
+
+msgid "ISO_639-3.RKW"
+msgstr "Araibis"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMG"
+msgstr "Ioruais"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.RMK"
+msgstr "Romainis"
+
+msgid "ISO_639-3.RML"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.RMT"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMX"
+msgstr "Romainis"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.RNG"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.RNL"
+msgstr "Congóis"
+
+msgid "ISO_639-3.RNN"
+msgstr "Romainis"
+
+msgid "ISO_639-3.RNP"
+msgstr "Congóis"
+
+msgid "ISO_639-3.RNR"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.ROD"
+msgstr "Congóis"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.ROF"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.ROG"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ROH"
+msgstr "Romainis"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.ROM"
+msgstr "Romainis"
+
+msgid "ISO_639-3.RON"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.ROR"
+msgstr "Songais"
+
+msgid "ISO_639-3.RPT"
+msgstr "Laidin"
+
+msgid "ISO_639-3.RRI"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RSI"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.RSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.RSM"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.RTC"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.RTH"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.RTM"
+msgstr "Romainis"
+
+msgid "ISO_639-3.RTS"
+msgstr "Burmais"
+
+msgid "ISO_639-3.RUC"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.RUE"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RUK"
+msgstr "Sínis"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.RUS"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Romainis"
+
+msgid "ISO_639-3.RXD"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.RXW"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.RYN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.RYS"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.SAA"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SAC"
+msgstr "Maorais"
+
+msgid "ISO_639-3.SAE"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SAG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SAH"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.SAK"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.SAM"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SAO"
+msgstr "Hásais"
+
+msgid "ISO_639-3.SAQ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.SAU"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SAW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SAY"
+msgstr "Síris"
+
+msgid "ISO_639-3.SBD"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SBE"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SBI"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SBK"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SBL"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SBM"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.SBN"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SBS"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SBT"
+msgstr "Coimí"
+
+msgid "ISO_639-3.SBV"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SBX"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SBY"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SBZ"
+msgstr "Cara-Chalpáicis"
+
+msgid "ISO_639-3.SCE"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.SCG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SCH"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.SCK"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SCL"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SCN"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SCO"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-3.SCV"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SCW"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SCX"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SDC"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SDF"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SDG"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SDH"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SDK"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SDL"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.SDN"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SDR"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SDS"
+msgstr "Veindis"
+
+msgid "ISO_639-3.SDU"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.SDZ"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.SEA"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SED"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SEH"
+msgstr "Veindis"
+
+msgid "ISO_639-3.SEI"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SEK"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.SEO"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SER"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SET"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-3.SFE"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SFS"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.SFW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SGA"
+msgstr "Sean-Ghaeilge (go dtí 900)"
+
+msgid "ISO_639-3.SGB"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.SGD"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SGE"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.SGG"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SGK"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SGM"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.SGP"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SGR"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SGS"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SGU"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.SGX"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SGY"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SHC"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SHD"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SHE"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SHG"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SHH"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SHO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.SHR"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SHU"
+msgstr "Arócáinis"
+
+msgid "ISO_639-3.SHV"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SHW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SHY"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.SIB"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.SIF"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SIK"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SIN"
+msgstr "Sundais"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SIR"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.SIU"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SIV"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SIW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SIX"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SIY"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SJA"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SJL"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.SJM"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.SJN"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SJP"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.SJW"
+msgstr "Sundais"
+
+msgid "ISO_639-3.SKB"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.SKC"
+msgstr "Gandais"
+
+msgid "ISO_639-3.SKD"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.SKG"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.SKI"
+msgstr "Síris"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.SKM"
+msgstr "Congóis"
+
+msgid "ISO_639-3.SKP"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SKR"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SKS"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.SKU"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SKY"
+msgstr "Acáidis"
+
+msgid "ISO_639-3.SLE"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SLF"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.SLH"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.SLI"
+msgstr "Gearmáinis Íochtarach"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.SLL"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SLN"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.SLR"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.SLS"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.SLT"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SLU"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.SMA"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SMB"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.SMC"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SMD"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SME"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SMG"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SMH"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SMM"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.SMN"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SMO"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SMP"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SMU"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SMX"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-3.SNA"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SND"
+msgstr "Sindis"
+
+msgid "ISO_639-3.SNF"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.SNH"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SNI"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SNL"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SNM"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.SNN"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SNO"
+msgstr "Spáinnis"
+
+msgid "ISO_639-3.SNP"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.SNR"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.SNU"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.SNV"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SNX"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SNZ"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.SOA"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.SOD"
+msgstr "Congóis"
+
+msgid "ISO_639-3.SOG"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.SOH"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.SOI"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SOL"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.SOM"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SOO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.SOP"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.SOR"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SOT"
+msgstr "Sótó Theas"
+
+msgid "ISO_639-3.SOU"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SOW"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spáinnis"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.SPG"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SPI"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SPK"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SPO"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SPS"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SPU"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SPV"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.SPX"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.SQH"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.SQK"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SQM"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SQR"
+msgstr "Araibis"
+
+msgid "ISO_639-3.SQS"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.SQU"
+msgstr "Spáinnis"
+
+msgid "ISO_639-3.SRB"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SRC"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SRD"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SRE"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.SRF"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.SRH"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.SRI"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SRM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SRN"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.SRO"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SRP"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SRS"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SRT"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.SRV"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SRW"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SRY"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SRZ"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.SSB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.SSD"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.SSE"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.SSF"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.SSG"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SSH"
+msgstr "Araibis"
+
+msgid "ISO_639-3.SSI"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.SSK"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.SSL"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.SSN"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.SSO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SSP"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.SSR"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SSW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SSY"
+msgstr "Seoinis"
+
+msgid "ISO_639-3.STB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.STG"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.STK"
+msgstr "Aramais"
+
+msgid "ISO_639-3.STM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.STN"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.STP"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.STS"
+msgstr "Suvais"
+
+msgid "ISO_639-3.STU"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SUA"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.SUC"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.SUE"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SUG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SUN"
+msgstr "Sundais"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SUX"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.SVA"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SVE"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SVK"
+msgstr "Teangacha Sorbacha"
+
+msgid "ISO_639-3.SVM"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SVX"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-3.SWB"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.SWE"
+msgstr "Sualainnis"
+
+msgid "ISO_639-3.SWF"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.SWG"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Síris"
+
+msgid "ISO_639-3.SWK"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.SWL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SWM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SWO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SWS"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-3.SWT"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.SWV"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SWW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.SWY"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.SXB"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.SXC"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SXE"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.SXK"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.SXL"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.SXN"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SXR"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SYA"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SYB"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.SYM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SYR"
+msgstr "Síris"
+
+msgid "ISO_639-3.SYX"
+msgstr "Samóis"
+
+msgid "ISO_639-3.SYY"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.SZA"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.SZL"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.SZN"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.SZP"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.SZW"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.TAA"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TAD"
+msgstr "Hásais"
+
+msgid "ISO_639-3.TAE"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.TAG"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TAH"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.TAJ"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TAN"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TAT"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TAU"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TAW"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TBA"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.TBC"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TBF"
+msgstr "Gandais"
+
+msgid "ISO_639-3.TBG"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.TBI"
+msgstr "Gandais"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TBO"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TBP"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TBS"
+msgstr "Songais"
+
+msgid "ISO_639-3.TBU"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TBX"
+msgstr "Laidin"
+
+msgid "ISO_639-3.TBY"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TCD"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TCE"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TCG"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TCO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.TCP"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Ciocúis"
+
+msgid "ISO_639-3.TCU"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TCX"
+msgstr "Songais"
+
+msgid "ISO_639-3.TCY"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.TDA"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TDG"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.TDH"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TDI"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.TDK"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TDN"
+msgstr "Songais"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TEC"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TEH"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.TEK"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TEL"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TEO"
+msgstr "Songais"
+
+msgid "ISO_639-3.TEQ"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TEY"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TFN"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TFO"
+msgstr "Afárais"
+
+msgid "ISO_639-3.TFR"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TGB"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TGC"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.TGK"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.TGL"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TGN"
+msgstr "Songais"
+
+msgid "ISO_639-3.TGO"
+msgstr "Sundais"
+
+msgid "ISO_639-3.TGP"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.TGR"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TGU"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TGX"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.THA"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.THE"
+msgstr "Sínis"
+
+msgid "ISO_639-3.THF"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.THH"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.THM"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.THN"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.THR"
+msgstr "Gandais"
+
+msgid "ISO_639-3.THS"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.THT"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.THU"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.THW"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.THY"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TIC"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TIG"
+msgstr "Tígréis"
+
+msgid "ISO_639-3.TII"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TIJ"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TIK"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.TIM"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TIN"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.TIP"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TIR"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.TIT"
+msgstr "Songais"
+
+msgid "ISO_639-3.TIU"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.TIW"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.TIX"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.TJI"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TJL"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TJS"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.TKB"
+msgstr "Hásais"
+
+msgid "ISO_639-3.TKE"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TKG"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.TKS"
+msgstr "Aivéistis"
+
+msgid "ISO_639-3.TKV"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.TKW"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TKX"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.TLA"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.TLG"
+msgstr "Songais"
+
+msgid "ISO_639-3.TLH"
+msgstr "Congóis"
+
+msgid "ISO_639-3.TLK"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TLL"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TLO"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TLR"
+msgstr "Máltais"
+
+msgid "ISO_639-3.TLS"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TLT"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.TLU"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.TLX"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.TMC"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.TMD"
+msgstr "Hásais"
+
+msgid "ISO_639-3.TMJ"
+msgstr "Samóis"
+
+msgid "ISO_639-3.TMK"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.TMQ"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TMW"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TNA"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TNB"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TNG"
+msgstr "Songais"
+
+msgid "ISO_639-3.TNH"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.TNI"
+msgstr "Gandais"
+
+msgid "ISO_639-3.TNK"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TNN"
+msgstr "Éigiptis (Cianaosta)"
+
+msgid "ISO_639-3.TNO"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.TNW"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TNX"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TNY"
+msgstr "Songais"
+
+msgid "ISO_639-3.TOB"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.TOD"
+msgstr "Songais"
+
+msgid "ISO_639-3.TOG"
+msgstr "Tongais (Maláiv)"
+
+msgid "ISO_639-3.TOH"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.TOI"
+msgstr "Tongais (Maláiv)"
+
+msgid "ISO_639-3.TON"
+msgstr "Tongais (Oileáin Thonga)"
+
+msgid "ISO_639-3.TOX"
+msgstr "Lojban"
+
+msgid "ISO_639-3.TPA"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TPF"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TPG"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TPU"
+msgstr "Samóis"
+
+msgid "ISO_639-3.TPV"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TQL"
+msgstr "Neipealais"
+
+msgid "ISO_639-3.TQP"
+msgstr "Coimí"
+
+msgid "ISO_639-3.TQR"
+msgstr "Songais"
+
+msgid "ISO_639-3.TQT"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.TQW"
+msgstr "Songais"
+
+msgid "ISO_639-3.TRA"
+msgstr "Cirgeastáinis"
+
+msgid "ISO_639-3.TRD"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TRE"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TRL"
+msgstr "Gaeilge na hAlban"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TRR"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.TRW"
+msgstr "Somáilis"
+
+msgid "ISO_639-3.TRY"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TSA"
+msgstr "Songais"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TSC"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TSD"
+msgstr "Eastóinis"
+
+msgid "ISO_639-3.TSE"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.TSH"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TSJ"
+msgstr "Songais"
+
+msgid "ISO_639-3.TSM"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.TSN"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TSO"
+msgstr "Songais"
+
+msgid "ISO_639-3.TSP"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TSQ"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.TSS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.TSU"
+msgstr "Songais"
+
+msgid "ISO_639-3.TSV"
+msgstr "Songais"
+
+msgid "ISO_639-3.TSY"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.TSZ"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.TTB"
+msgstr "Gandais"
+
+msgid "ISO_639-3.TTG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.TTI"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TTM"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TTN"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.TTR"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.TTS"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TTV"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.TTW"
+msgstr "Congóis"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.TUI"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TUJ"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TUK"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TUL"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.TUR"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TUV"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Tuircis"
+
+msgid "ISO_639-3.TVN"
+msgstr "Samóis"
+
+msgid "ISO_639-3.TVS"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TVU"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.TVW"
+msgstr "Veindis"
+
+msgid "ISO_639-3.TWA"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TWB"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.TWF"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TWI"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.TWL"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TWM"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TWN"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.TWO"
+msgstr "Songais"
+
+msgid "ISO_639-3.TWP"
+msgstr "Éivéis"
+
+msgid "ISO_639-3.TWQ"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.TWR"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.TWU"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.TWW"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.TWY"
+msgstr "Samóis"
+
+msgid "ISO_639-3.TXA"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.TXB"
+msgstr "Abcáisis"
+
+msgid "ISO_639-3.TXH"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TXM"
+msgstr "Coimí"
+
+msgid "ISO_639-3.TXN"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.TXQ"
+msgstr "Tiuíais"
+
+msgid "ISO_639-3.TXR"
+msgstr "Taihítis"
+
+msgid "ISO_639-3.TXS"
+msgstr "Songais"
+
+msgid "ISO_639-3.TXX"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TXY"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.TYA"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.TYE"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TYL"
+msgstr "Láóis"
+
+msgid "ISO_639-3.TYN"
+msgstr "Coimí"
+
+msgid "ISO_639-3.TZA"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.TZH"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.TZJ"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TZL"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.TZN"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.TZO"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.TZX"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.UAN"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.UBA"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.UBR"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.UBY"
+msgstr "Úisbéicis"
+
+msgid "ISO_639-3.UDG"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.UDJ"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.UDM"
+msgstr "Udmairtis"
+
+msgid "ISO_639-3.UDU"
+msgstr "Urdais"
+
+msgid "ISO_639-3.UES"
+msgstr "Congóis"
+
+msgid "ISO_639-3.UGA"
+msgstr "Úgairitis"
+
+msgid "ISO_639-3.UGN"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.UGO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.UGY"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.UHA"
+msgstr "Téalainnis"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.UIG"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-3.UKA"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.UKL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.UKR"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.ULI"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.ULK"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.ULW"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.UMC"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.UMM"
+msgstr "Samóis"
+
+msgid "ISO_639-3.UMN"
+msgstr "Samóis"
+
+msgid "ISO_639-3.UMR"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.UMS"
+msgstr "Veindis"
+
+msgid "ISO_639-3.UND"
+msgstr "Éiginnte"
+
+msgid "ISO_639-3.UNG"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.UNN"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.UNR"
+msgstr "Maorais"
+
+msgid "ISO_639-3.UNU"
+msgstr "Navachóis"
+
+msgid "ISO_639-3.UNX"
+msgstr "Sundais"
+
+msgid "ISO_639-3.UPI"
+msgstr "Veindis"
+
+msgid "ISO_639-3.URA"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.URC"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.URD"
+msgstr "Urdais"
+
+msgid "ISO_639-3.URE"
+msgstr "Urdais"
+
+msgid "ISO_639-3.URF"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.URG"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.URL"
+msgstr "Páilis"
+
+msgid "ISO_639-3.URM"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.URN"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.URT"
+msgstr "Udmairtis"
+
+msgid "ISO_639-3.URU"
+msgstr "Urdais"
+
+msgid "ISO_639-3.URV"
+msgstr "Urdais"
+
+msgid "ISO_639-3.URX"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.URY"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Óiséitis"
+
+msgid "ISO_639-3.UTE"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.UTP"
+msgstr "Tongais (Oileáin Thonga)"
+
+msgid "ISO_639-3.UUM"
+msgstr "Urdais"
+
+msgid "ISO_639-3.UZB"
+msgstr "Úisbéicis"
+
+msgid "ISO_639-3.UZN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.UZS"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.VAG"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.VAN"
+msgstr "Samóis"
+
+msgid "ISO_639-3.VAO"
+msgstr "Láóis"
+
+msgid "ISO_639-3.VAV"
+msgstr "Páilis"
+
+msgid "ISO_639-3.VBB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.VBK"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.VEC"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.VED"
+msgstr "Veindis"
+
+msgid "ISO_639-3.VEN"
+msgstr "Veindis"
+
+msgid "ISO_639-3.VID"
+msgstr "Veindis"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vítneamais"
+
+msgid "ISO_639-3.VIN"
+msgstr "Veindis"
+
+msgid "ISO_639-3.VKA"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.VKK"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.VKM"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.VKO"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.VKU"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.VLP"
+msgstr "Páilis"
+
+msgid "ISO_639-3.VMA"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.VMB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.VMD"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.VME"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.VMG"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.VMH"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.VMI"
+msgstr "Óisibvis"
+
+msgid "ISO_639-3.VML"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.VMW"
+msgstr "Manchúiris"
+
+msgid "ISO_639-3.VNK"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.VNP"
+msgstr "Volapük"
+
+msgid "ISO_639-3.VOL"
+msgstr "Volapük"
+
+msgid "ISO_639-3.VRA"
+msgstr "Samóis"
+
+msgid "ISO_639-3.VRS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.VSI"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.VSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.VSV"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.WAA"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.WAD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.WAE"
+msgstr "Máltais"
+
+msgid "ISO_639-3.WAI"
+msgstr "Faróis"
+
+msgid "ISO_639-3.WAL"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.WAN"
+msgstr "Vallúnais"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.WAT"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.WAX"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.WBE"
+msgstr "Úgairitis"
+
+msgid "ISO_639-3.WBF"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.WBH"
+msgstr "Gandais"
+
+msgid "ISO_639-3.WBI"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.WBT"
+msgstr "Samóis"
+
+msgid "ISO_639-3.WDK"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.WED"
+msgstr "Veindis"
+
+msgid "ISO_639-3.WEH"
+msgstr "Breatnais"
+
+msgid "ISO_639-3.WEO"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.WET"
+msgstr "Páilis"
+
+msgid "ISO_639-3.WEU"
+msgstr "Sínis"
+
+msgid "ISO_639-3.WHG"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.WHU"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.WIB"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.WII"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.WJI"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.WKA"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.WKB"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.WKL"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.WKU"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.WLA"
+msgstr "Vallúnais"
+
+msgid "ISO_639-3.WLE"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.WLG"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.WLI"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.WLN"
+msgstr "Vallúnais"
+
+msgid "ISO_639-3.WLO"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.WLS"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.WLW"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.WLY"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.WMB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.WMD"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamailis"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indinéisis"
+
+msgid "ISO_639-3.WMS"
+msgstr "Samóis"
+
+msgid "ISO_639-3.WMW"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.WMX"
+msgstr "Oraimis"
+
+msgid "ISO_639-3.WNG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.WNN"
+msgstr "Adhmarais"
+
+msgid "ISO_639-3.WNO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.WNP"
+msgstr "Gandais"
+
+msgid "ISO_639-3.WNU"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.WOB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.WOC"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.WOD"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.WOE"
+msgstr "Moldávais"
+
+msgid "ISO_639-3.WOF"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.WOI"
+msgstr "Samóis"
+
+msgid "ISO_639-3.WOK"
+msgstr "Congóis"
+
+msgid "ISO_639-3.WOL"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.WON"
+msgstr "Congóis"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maorais"
+
+msgid "ISO_639-3.WOR"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maorais"
+
+msgid "ISO_639-3.WRN"
+msgstr "Sairdínis"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maorais"
+
+msgid "ISO_639-3.WRU"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.WRY"
+msgstr "Maorais"
+
+msgid "ISO_639-3.WSK"
+msgstr "Baiscíris"
+
+msgid "ISO_639-3.WSS"
+msgstr "Hásais"
+
+msgid "ISO_639-3.WSU"
+msgstr "Bascais"
+
+msgid "ISO_639-3.WTM"
+msgstr "Sasuatais"
+
+msgid "ISO_639-3.WUB"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.WUL"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.WUU"
+msgstr "Sínis"
+
+msgid "ISO_639-3.WUX"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.WWA"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.WXW"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.WYI"
+msgstr "Turcamáinis"
+
+msgid "ISO_639-3.WYY"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.XAB"
+msgstr "Suiméarais"
+
+msgid "ISO_639-3.XAC"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.XAD"
+msgstr "Avairis"
+
+msgid "ISO_639-3.XAE"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.XAG"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Aramais"
+
+msgid "ISO_639-3.XAL"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XAN"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.XAR"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.XAS"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XAU"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.XAW"
+msgstr "Gearmáinis Íochtarach"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.XBD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.XBE"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.XBI"
+msgstr "Coimí"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.XBM"
+msgstr "Briotáinis"
+
+msgid "ISO_639-3.XBN"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.XBR"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XBY"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.XCL"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.XCO"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.XCR"
+msgstr "Corsaicis"
+
+msgid "ISO_639-3.XCU"
+msgstr "Cróitis"
+
+msgid "ISO_639-3.XCV"
+msgstr "Suvais"
+
+msgid "ISO_639-3.XDA"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.XDC"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.XDY"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.XED"
+msgstr "Hiondúis"
+
+msgid "ISO_639-3.XFA"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.XGA"
+msgstr "Gailísis"
+
+msgid "ISO_639-3.XGD"
+msgstr "Gandais"
+
+msgid "ISO_639-3.XGG"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.XGI"
+msgstr "Gandais"
+
+msgid "ISO_639-3.XGL"
+msgstr "Gandais"
+
+msgid "ISO_639-3.XGM"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XGR"
+msgstr "Guaráinis"
+
+msgid "ISO_639-3.XGU"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-3.XHA"
+msgstr "Aramais"
+
+msgid "ISO_639-3.XHE"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.XHO"
+msgstr "Cóisis"
+
+msgid "ISO_639-3.XHR"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.XHT"
+msgstr "Hiteais"
+
+msgid "ISO_639-3.XHU"
+msgstr "Ungáiris"
+
+msgid "ISO_639-3.XIB"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.XII"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-3.XIL"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.XIR"
+msgstr "Tigrinis"
+
+msgid "ISO_639-3.XIS"
+msgstr "Cóisis"
+
+msgid "ISO_639-3.XIV"
+msgstr "Teangacha iomadúla"
+
+msgid "ISO_639-3.XJB"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.XJT"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-3.XKB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.XKD"
+msgstr "Veindis"
+
+msgid "ISO_639-3.XKE"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-3.XKI"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Páilis"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.XKT"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.XKU"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XKW"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XKX"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.XKY"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.XLC"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.XLD"
+msgstr "Laideanóis"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.XLG"
+msgstr "Éigiptis (Cianaosta)"
+
+msgid "ISO_639-3.XLI"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.XLS"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-3.XMB"
+msgstr "Songais"
+
+msgid "ISO_639-3.XME"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.XMF"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.XMK"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.XML"
+msgstr "Teangacha Máigeacha"
+
+msgid "ISO_639-3.XMM"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maorais"
+
+msgid "ISO_639-3.XMR"
+msgstr "Úgairitis"
+
+msgid "ISO_639-3.XMS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.XMT"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.XMU"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.XMW"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.XMX"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.XNA"
+msgstr "Éigiptis (Cianaosta)"
+
+msgid "ISO_639-3.XNG"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.XNH"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XNI"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.XNK"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XNN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.XNR"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.XNS"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.XNT"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.XOD"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.XOG"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.XON"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.XOR"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.XOW"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.XPA"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.XPC"
+msgstr "Seisnis"
+
+msgid "ISO_639-3.XPG"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.XPI"
+msgstr "Polainnis"
+
+msgid "ISO_639-3.XPR"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.XPS"
+msgstr "Peirsis"
+
+msgid "ISO_639-3.XPT"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XPU"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.XPY"
+msgstr "Paistis"
+
+msgid "ISO_639-3.XQA"
+msgstr "Bihairis"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albáinis"
+
+msgid "ISO_639-3.XRE"
+msgstr "Craíais"
+
+msgid "ISO_639-3.XRG"
+msgstr "Fidsis"
+
+msgid "ISO_639-3.XRM"
+msgstr "Aramais"
+
+msgid "ISO_639-3.XRN"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.XRU"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.XRW"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.XSA"
+msgstr "Samóis"
+
+msgid "ISO_639-3.XSB"
+msgstr "Samóis"
+
+msgid "ISO_639-3.XSC"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.XSD"
+msgstr "Sindis"
+
+msgid "ISO_639-3.XSE"
+msgstr "Samóis"
+
+msgid "ISO_639-3.XSH"
+msgstr "Samóis"
+
+msgid "ISO_639-3.XSL"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-3.XSM"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.XSO"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.XSP"
+msgstr "Svahaílis"
+
+msgid "ISO_639-3.XSR"
+msgstr "Seirbis"
+
+msgid "ISO_639-3.XSS"
+msgstr "Rúisis"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-3.XSY"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.XTO"
+msgstr "Abcáisis"
+
+msgid "ISO_639-3.XTW"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rómáinis"
+
+msgid "ISO_639-3.XUA"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XUG"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.XUM"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.XUN"
+msgstr "Úcráinis"
+
+msgid "ISO_639-3.XUR"
+msgstr "Cróitis"
+
+msgid "ISO_639-3.XUU"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.XVI"
+msgstr "Caismíris"
+
+msgid "ISO_639-3.XVN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.XVO"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.XVS"
+msgstr "Eastóinis"
+
+msgid "ISO_639-3.XWA"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.XWC"
+msgstr "Vallúnais"
+
+msgid "ISO_639-3.XWK"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.XXR"
+msgstr "Congóis"
+
+msgid "ISO_639-3.XXT"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XYB"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.XYK"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.XYL"
+msgstr "Máltais"
+
+msgid "ISO_639-3.XZH"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.XZM"
+msgstr "Macadóinis"
+
+msgid "ISO_639-3.YAD"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.YAK"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.YAM"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.YAN"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.YAQ"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.YAR"
+msgstr "Bambáiris"
+
+msgid "ISO_639-3.YAU"
+msgstr "Suáinis"
+
+msgid "ISO_639-3.YAX"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.YBA"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.YBH"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Hásais"
+
+msgid "ISO_639-3.YBK"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.YCH"
+msgstr "Sínis"
+
+msgid "ISO_639-3.YCL"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.YCN"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.YCP"
+msgstr "Féinícis"
+
+msgid "ISO_639-3.YDA"
+msgstr "Gandais"
+
+msgid "ISO_639-3.YDD"
+msgstr "Giúdais"
+
+msgid "ISO_639-3.YDG"
+msgstr "Giúdais"
+
+msgid "ISO_639-3.YDK"
+msgstr "Giúdais"
+
+msgid "ISO_639-3.YEC"
+msgstr "Fraincis"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Íoslainnis"
+
+msgid "ISO_639-3.YER"
+msgstr "Táidsícis"
+
+msgid "ISO_639-3.YES"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.YEV"
+msgstr "Gandais"
+
+msgid "ISO_639-3.YGA"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.YGI"
+msgstr "Ndongais"
+
+msgid "ISO_639-3.YGM"
+msgstr "Coimí"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.YGS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.YHA"
+msgstr "Beangáilis"
+
+msgid "ISO_639-3.YHD"
+msgstr "Iodáilis"
+
+msgid "ISO_639-3.YHS"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.YIA"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.YID"
+msgstr "Giúdais"
+
+msgid "ISO_639-3.YIF"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.YIH"
+msgstr "Giúdais"
+
+msgid "ISO_639-3.YII"
+msgstr "Giúdais"
+
+msgid "ISO_639-3.YIM"
+msgstr "Laitvis"
+
+msgid "ISO_639-3.YIN"
+msgstr "Sindis"
+
+msgid "ISO_639-3.YIP"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.YIR"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.YIS"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.YIU"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.YIV"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.YIX"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.YIZ"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.YKA"
+msgstr "Acáinis"
+
+msgid "ISO_639-3.YKG"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.YKL"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.YKM"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.YKO"
+msgstr "Hásais"
+
+msgid "ISO_639-3.YKR"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.YKT"
+msgstr "Hásais"
+
+msgid "ISO_639-3.YKU"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.YLA"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.YLB"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.YLG"
+msgstr "Teileagúis"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.YLO"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.YMC"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.YMD"
+msgstr "Sundais"
+
+msgid "ISO_639-3.YMH"
+msgstr "Páilis"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maorais"
+
+msgid "ISO_639-3.YMM"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.YMN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.YMO"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.YMR"
+msgstr "Malaeis"
+
+msgid "ISO_639-3.YMS"
+msgstr "Boisnis"
+
+msgid "ISO_639-3.YMX"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Painseáibis"
+
+msgid "ISO_639-3.YNA"
+msgstr "Ailiúitis"
+
+msgid "ISO_639-3.YND"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.YNE"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.YNG"
+msgstr "Sangóis"
+
+msgid "ISO_639-3.YNN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.YNO"
+msgstr "Congóis"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Veindis"
+
+msgid "ISO_639-3.YNS"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.YOB"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.YOI"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.YOK"
+msgstr "Iacúitis"
+
+msgid "ISO_639-3.YOL"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.YON"
+msgstr "Congóis"
+
+msgid "ISO_639-3.YOR"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.YPA"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.YPG"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.YPH"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.YPM"
+msgstr "Páilis"
+
+msgid "ISO_639-3.YPO"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.YPP"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-3.YRB"
+msgstr "Iarúibis"
+
+msgid "ISO_639-3.YRY"
+msgstr "Catalóinis"
+
+msgid "ISO_639-3.YSD"
+msgstr "Samóis"
+
+msgid "ISO_639-3.YSL"
+msgstr "Teangacha Astrálacha"
+
+msgid "ISO_639-3.YSN"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.YSP"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.YSY"
+msgstr "Sogdánais"
+
+msgid "ISO_639-3.YTA"
+msgstr "Tatairis"
+
+msgid "ISO_639-3.YTL"
+msgstr "Mongóilis"
+
+msgid "ISO_639-3.YTP"
+msgstr "Congóis"
+
+msgid "ISO_639-3.YUC"
+msgstr "Ollainnis"
+
+msgid "ISO_639-3.YUE"
+msgstr "Sínis"
+
+msgid "ISO_639-3.YUL"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.YUM"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-3.YUT"
+msgstr "Congóis"
+
+msgid "ISO_639-3.YUX"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.YWG"
+msgstr "Haváis"
+
+msgid "ISO_639-3.YWL"
+msgstr "Freaslainnis"
+
+msgid "ISO_639-3.YWR"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.YXA"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-3.YXL"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Divéihis"
+
+msgid "ISO_639-3.YZG"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.YZK"
+msgstr "Congóis"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maorais"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Coirdis"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bascais"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Veindis"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Maorais"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Sínis"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Cóisis"
+
+msgid "ISO_639-3.ZIB"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Máltais"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Oirísis"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Liongáilis"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Sicilis"
+
+msgid "ISO_639-3.ZKB"
+msgstr "Coimí"
+
+msgid "ISO_639-3.ZKG"
+msgstr "Congóis"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.ZKK"
+msgstr "Cannadais"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Gandais"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Tibéidis"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Airméinis"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.ZLM"
+msgstr "Teangacha Máigeacha"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Sáimis Theas"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maorais"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Volaifis"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Maorais"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Maorais"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Gandais"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Manainnis"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Malagásais"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Láóis"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Sínis"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Sínis"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Liombuirgis"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Ciméiris"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Maraitis"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Sanscrait"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Cóiréis"
+
+msgid "ISO_639-3.ZSL"
+msgstr "Teangacha comharthaí"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-3.ZSR"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Nárúis"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Concáinis"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Súlúis"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Canúiris"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Siuáingis"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Seipidis"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Sínis"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Casaicis"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Siuáingis"

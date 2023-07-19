@@ -1,0 +1,3052 @@
+# Lithuanian translations for ISO 639 Language names
+# Copyright (C) 2000-2001, 2004 Free Software Foundation, Inc.
+# Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-04-14 11:56+0300\n"
+"Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAO"
+msgstr "Arabų, Alžyro Sacharos"
+
+msgid "ISO_639-3.AAR"
+msgstr "Albanų, arvanitų"
+
+msgid "ISO_639-3.ABD"
+msgstr "Mandar"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabų, tadžikų"
+
+msgid "ISO_639-3.ABK"
+msgstr "Abchazų"
+
+msgid "ISO_639-3.ABV"
+msgstr "Arabų, Bahreino"
+
+msgid "ISO_639-3.ACE"
+msgstr "Ačinezų"
+
+msgid "ISO_639-3.ACH"
+msgstr "Akoli"
+
+msgid "ISO_639-3.ACM"
+msgstr "Arabų, Mesopotamijos"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabų"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabų, Onamo"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabų, Kipro"
+
+msgid "ISO_639-3.ADA"
+msgstr "Adangmų"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabų"
+
+msgid "ISO_639-3.ADX"
+msgstr "Tibetiečių"
+
+msgid "ISO_639-3.ADY"
+msgstr "Arabų, Tuniso"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabų"
+
+msgid "ISO_639-3.AED"
+msgstr "Argentinos gestų kalba"
+
+msgid "ISO_639-3.AEE"
+msgstr "Gbaja, šiaurės vakarų"
+
+msgid "ISO_639-3.AEN"
+msgstr "Armėnų gestų kalba"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabų, įlankos"
+
+msgid "ISO_639-3.AFG"
+msgstr "Afganų gestų kalba"
+
+msgid "ISO_639-3.AFH"
+msgstr "Afrihili"
+
+msgid "ISO_639-3.AFR"
+msgstr "Būrų (afrikanų)"
+
+msgid "ISO_639-3.AGY"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.AIB"
+msgstr "Ainų (Kinija)"
+
+msgid "ISO_639-3.AIN"
+msgstr "Ainų (Japonija)"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arabų, Tuniso judėjų"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arabų, Maroko judėjų"
+
+msgid "ISO_639-3.AKA"
+msgstr "Akanų"
+
+msgid "ISO_639-3.AKK"
+msgstr "Akadų"
+
+msgid "ISO_639-3.ALE"
+msgstr "Aleutų"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albanų"
+
+msgid "ISO_639-3.ALQ"
+msgstr "Algonkinų"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albanų, toskų"
+
+msgid "ISO_639-3.ALT"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amharų"
+
+msgid "ISO_639-3.AMS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.ANG"
+msgstr "Anglų, senoji (apie 450-1100)"
+
+msgid "ISO_639-3.ANP"
+msgstr "Angika"
+
+msgid "ISO_639-3.AOT"
+msgstr "Marvari (Indija)"
+
+msgid "ISO_639-3.APD"
+msgstr "Apačių, lipanų"
+
+msgid "ISO_639-3.APM"
+msgstr "Apačių, vakarų"
+
+msgid "ISO_639-3.AQN"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabų, bendrinė"
+
+msgid "ISO_639-3.ARG"
+msgstr "Aragonų"
+
+msgid "ISO_639-3.ARN"
+msgstr "Mapudungunų"
+
+msgid "ISO_639-3.ARP"
+msgstr "Arabų, Alžyro"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabų"
+
+msgid "ISO_639-3.ARW"
+msgstr "Arabų, Maroko"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Arabų, Egipto"
+
+msgid "ISO_639-3.ASE"
+msgstr "Amerikiečių gestų kalba"
+
+msgid "ISO_639-3.ASF"
+msgstr "Australų gestų kalba"
+
+msgid "ISO_639-3.ASM"
+msgstr "Asamų"
+
+msgid "ISO_639-3.ASP"
+msgstr "Alžyriečių gestų kalba"
+
+msgid "ISO_639-3.ASQ"
+msgstr "Austrų gestų kalba"
+
+msgid "ISO_639-3.AST"
+msgstr "Asturianų"
+
+msgid "ISO_639-3.ASW"
+msgstr "Australijos aborigenų gestų kalba"
+
+msgid "ISO_639-3.ATO"
+msgstr "Fang (Kamerūnas)"
+
+msgid "ISO_639-3.ATV"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabų, uzbekų"
+
+msgid "ISO_639-3.AVA"
+msgstr "Avarų"
+
+msgid "ISO_639-3.AVE"
+msgstr "Avestiškoji"
+
+msgid "ISO_639-3.AWA"
+msgstr "Avadhi"
+
+msgid "ISO_639-3.AXL"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.AXM"
+msgstr "Armėnų, viduramžių"
+
+msgid "ISO_639-3.AYC"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arabų"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabų, Libijos"
+
+msgid "ISO_639-3.AYM"
+msgstr "Aimarų"
+
+msgid "ISO_639-3.AYN"
+msgstr "Arabų"
+
+msgid "ISO_639-3.AYP"
+msgstr "Arabų, Šiaurės Mesopotamijos"
+
+msgid "ISO_639-3.AYR"
+msgstr "Aimarų"
+
+msgid "ISO_639-3.AYS"
+msgstr "Šiaurės fryzų"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azerbaidžaniečių"
+
+msgid "ISO_639-3.AZD"
+msgstr "Austrų gestų kalba"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azerbaidžaniečių"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azerbaidžaniečių, šiaurės"
+
+msgid "ISO_639-3.BAK"
+msgstr "Baškirų"
+
+msgid "ISO_639-3.BAL"
+msgstr "Balučių"
+
+msgid "ISO_639-3.BAM"
+msgstr "Bambara"
+
+msgid "ISO_639-3.BAN"
+msgstr "Baliečių"
+
+msgid "ISO_639-3.BCC"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.BCG"
+msgstr "Dinkų, pietų centrinė"
+
+msgid "ISO_639-3.BDF"
+msgstr "Osage"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indoneziečių"
+
+msgid "ISO_639-3.BEJ"
+msgstr "Bėjų"
+
+msgid "ISO_639-3.BEL"
+msgstr "Baltarusių"
+
+msgid "ISO_639-3.BEM"
+msgstr "Bembų (Zambija)"
+
+msgid "ISO_639-3.BEN"
+msgstr "Bengalų"
+
+msgid "ISO_639-3.BFI"
+msgstr "Britų gestų kalba"
+
+msgid "ISO_639-3.BFS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.BGR"
+msgstr "Buriatų, Kinijos"
+
+msgid "ISO_639-3.BHO"
+msgstr "Bhojpuri"
+
+msgid "ISO_639-3.BHR"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.BIK"
+msgstr "Bikolų"
+
+msgid "ISO_639-3.BIS"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BIV"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.BJO"
+msgstr "Šiaurės fryzų"
+
+msgid "ISO_639-3.BLA"
+msgstr "Siksika"
+
+msgid "ISO_639-3.BMD"
+msgstr "Mandar"
+
+msgid "ISO_639-3.BMS"
+msgstr "Kanūrių"
+
+msgid "ISO_639-3.BOD"
+msgstr "Tibetiečių"
+
+msgid "ISO_639-3.BOG"
+msgstr "Bamako gestų kalba"
+
+msgid "ISO_639-3.BOS"
+msgstr "Bosnių"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.BPY"
+msgstr "Bišnuprija"
+
+msgid "ISO_639-3.BQN"
+msgstr "Bulgarų gestų kalba"
+
+msgid "ISO_639-3.BRA"
+msgstr "Braj"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretonų"
+
+msgid "ISO_639-3.BRU"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japonų"
+
+msgid "ISO_639-3.BUA"
+msgstr "Buriatų"
+
+msgid "ISO_639-3.BUG"
+msgstr "Būgių"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgarų"
+
+msgid "ISO_639-3.BVL"
+msgstr "Boliviečių gestų kalba"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.BXM"
+msgstr "Buriatų, Mongolijos"
+
+msgid "ISO_639-3.BXR"
+msgstr "Buriatų, Rusijos"
+
+msgid "ISO_639-3.BXU"
+msgstr "Buriatų, Kinijos"
+
+msgid "ISO_639-3.BYA"
+msgstr "Batakų"
+
+msgid "ISO_639-3.BYN"
+msgstr "Blin"
+
+msgid "ISO_639-3.BZS"
+msgstr "Brazilų gestų kalba"
+
+msgid "ISO_639-3.CAD"
+msgstr "Kado"
+
+msgid "ISO_639-3.CAF"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.CAR"
+msgstr "Karibų"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalonų"
+
+msgid "ISO_639-3.CBL"
+msgstr "Buriatų, Kinijos"
+
+msgid "ISO_639-3.CBW"
+msgstr "Kabardinų"
+
+msgid "ISO_639-3.CCG"
+msgstr "Lamba"
+
+msgid "ISO_639-3.CDO"
+msgstr "Anglų ir kinų pidžinas (maišyta kalba)"
+
+msgid "ISO_639-3.CDS"
+msgstr "Čado gestų kalba"
+
+msgid "ISO_639-3.CEB"
+msgstr "Sebuanų"
+
+msgid "ISO_639-3.CEK"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.CES"
+msgstr "Čekų"
+
+msgid "ISO_639-3.CHA"
+msgstr "Čamorų"
+
+msgid "ISO_639-3.CHB"
+msgstr "Čibčų"
+
+msgid "ISO_639-3.CHE"
+msgstr "Čečėnų"
+
+msgid "ISO_639-3.CHG"
+msgstr "Čagatų"
+
+msgid "ISO_639-3.CHH"
+msgstr "Činukų"
+
+msgid "ISO_639-3.CHK"
+msgstr "Čiukčių"
+
+msgid "ISO_639-3.CHM"
+msgstr "Marių (Rusija)"
+
+msgid "ISO_639-3.CHN"
+msgstr "Činukų žargonas"
+
+msgid "ISO_639-3.CHO"
+msgstr "Čoktau"
+
+msgid "ISO_639-3.CHP"
+msgstr "Čipvėjų"
+
+msgid "ISO_639-3.CHR"
+msgstr "Čerokių"
+
+msgid "ISO_639-3.CHV"
+msgstr "Čiuvašų"
+
+msgid "ISO_639-3.CHY"
+msgstr "Čajenų"
+
+msgid "ISO_639-3.CJM"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.CJY"
+msgstr "Kinų"
+
+msgid "ISO_639-3.CKB"
+msgstr "Kinų, Šiang"
+
+msgid "ISO_639-3.CKT"
+msgstr "Čiukčių"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Kinų, literatūrinė"
+
+msgid "ISO_639-3.CLT"
+msgstr "Kinų, Vu"
+
+msgid "ISO_639-3.CMG"
+msgstr "Mongolų, klasikinė"
+
+msgid "ISO_639-3.CMN"
+msgstr "Kinų, Mandarinų"
+
+msgid "ISO_639-3.CNG"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.CNH"
+msgstr "Kinų, Hakka"
+
+msgid "ISO_639-3.CNK"
+msgstr "Buriatų, Kinijos"
+
+msgid "ISO_639-3.CNX"
+msgstr "Kornų, viduramžių"
+
+msgid "ISO_639-3.COR"
+msgstr "Kornų"
+
+msgid "ISO_639-3.COS"
+msgstr "Korsikiečių"
+
+msgid "ISO_639-3.CPI"
+msgstr "Anglų ir kinų pidžinas (maišyta kalba)"
+
+msgid "ISO_639-3.CPX"
+msgstr "Karibų, salos"
+
+msgid "ISO_639-3.CRE"
+msgstr "Krymo turkų"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.CRR"
+msgstr "Algonkinų, Karolinos"
+
+msgid "ISO_639-3.CSB"
+msgstr "Kašubų"
+
+msgid "ISO_639-3.CSC"
+msgstr "Katalonų gestų kalba"
+
+msgid "ISO_639-3.CSE"
+msgstr "Čekų gestų kalba"
+
+msgid "ISO_639-3.CSF"
+msgstr "Kubos gestų kalba"
+
+msgid "ISO_639-3.CSG"
+msgstr "Čilės gestų kalba"
+
+msgid "ISO_639-3.CSH"
+msgstr "Ainų (Kinija)"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Kinų, Šiang"
+
+msgid "ISO_639-3.CSL"
+msgstr "Kinų gestų kalba"
+
+msgid "ISO_639-3.CSN"
+msgstr "Kolumbijos gestų kalba"
+
+msgid "ISO_639-3.CSQ"
+msgstr "Kroatijos gestų kalba"
+
+msgid "ISO_639-3.CSR"
+msgstr "Kosta Rikos gestų kalba"
+
+msgid "ISO_639-3.CSS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.CST"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.CSV"
+msgstr "Kinų, Vu"
+
+msgid "ISO_639-3.CSY"
+msgstr "Ainų (Kinija)"
+
+msgid "ISO_639-3.CTS"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.CYM"
+msgstr "Valų"
+
+msgid "ISO_639-3.CZH"
+msgstr "Kinų"
+
+msgid "ISO_639-3.CZO"
+msgstr "Anglų ir kinų pidžinas (maišyta kalba)"
+
+msgid "ISO_639-3.DAK"
+msgstr "Dakotų"
+
+msgid "ISO_639-3.DAN"
+msgstr "Danų"
+
+msgid "ISO_639-3.DAO"
+msgstr "Ainų (Kinija)"
+
+msgid "ISO_639-3.DAR"
+msgstr "Darginų"
+
+msgid "ISO_639-3.DBW"
+msgstr "Sranan Tongo"
+
+msgid "ISO_639-3.DEL"
+msgstr "Delavarų"
+
+msgid "ISO_639-3.DEP"
+msgstr "Delavarų, pidžinas"
+
+msgid "ISO_639-3.DEU"
+msgstr "Vokiečių"
+
+msgid "ISO_639-3.DGA"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.DGI"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.DGR"
+msgstr "Dogribų"
+
+msgid "ISO_639-3.DHG"
+msgstr "Manču"
+
+msgid "ISO_639-3.DIB"
+msgstr "Dinkų, pietų centrinė"
+
+msgid "ISO_639-3.DIK"
+msgstr "Dinkų, pietvakarių"
+
+msgid "ISO_639-3.DIN"
+msgstr "Dinkų"
+
+msgid "ISO_639-3.DIP"
+msgstr "Dinkų, šiaurės rytų"
+
+msgid "ISO_639-3.DIW"
+msgstr "Dinkų, šiaurės vakarų"
+
+msgid "ISO_639-3.DKS"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.DOQ"
+msgstr "Dominikos gestų kalba"
+
+msgid "ISO_639-3.DSB"
+msgstr "Serbų"
+
+msgid "ISO_639-3.DSE"
+msgstr "Olandų gestų kalba"
+
+msgid "ISO_639-3.DSL"
+msgstr "Danų gestų kalba"
+
+msgid "ISO_639-3.DUA"
+msgstr "Dualų"
+
+msgid "ISO_639-3.DUM"
+msgstr "Olandų, viduramžių (1050-1350)"
+
+msgid "ISO_639-3.DYU"
+msgstr "Dyulų"
+
+msgid "ISO_639-3.DZO"
+msgstr "Botijų"
+
+msgid "ISO_639-3.EAA"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.ECS"
+msgstr "Ekvadoro gestų kalba"
+
+msgid "ISO_639-3.EFI"
+msgstr "Efik"
+
+msgid "ISO_639-3.EGY"
+msgstr "Egiptiečių (senovinė)"
+
+msgid "ISO_639-3.EKA"
+msgstr "Ekajuk"
+
+msgid "ISO_639-3.EKC"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.EKK"
+msgstr "Estų, bendrinė"
+
+msgid "ISO_639-3.EKY"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.ELL"
+msgstr "Graikų, šiuolaikinė (1453-)"
+
+msgid "ISO_639-3.ELX"
+msgstr "Elamitų"
+
+msgid "ISO_639-3.EMK"
+msgstr "Austrų gestų kalba"
+
+msgid "ISO_639-3.EMU"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.ENG"
+msgstr "Anglų"
+
+msgid "ISO_639-3.ENM"
+msgstr "Anglų, viduramžių (1100-1500)"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERK"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.ESG"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.ESI"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.ESL"
+msgstr "Egipto gestų kalba"
+
+msgid "ISO_639-3.ESN"
+msgstr "Salvadoro gestų kalba"
+
+msgid "ISO_639-3.ESO"
+msgstr "Estų gestų kalba"
+
+msgid "ISO_639-3.EST"
+msgstr "Estų"
+
+msgid "ISO_639-3.ETH"
+msgstr "Etiopijos gestų kalba"
+
+msgid "ISO_639-3.EUS"
+msgstr "Baskų"
+
+msgid "ISO_639-3.EWE"
+msgstr "Ivių"
+
+msgid "ISO_639-3.EWO"
+msgstr "Evondo"
+
+msgid "ISO_639-3.FAK"
+msgstr "Fang (Kamerūnas)"
+
+msgid "ISO_639-3.FAL"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.FAN"
+msgstr "Fang (Pusiaujo Gvinėja)"
+
+msgid "ISO_639-3.FAO"
+msgstr "Farerų"
+
+msgid "ISO_639-3.FAS"
+msgstr "Persų"
+
+msgid "ISO_639-3.FAT"
+msgstr "Fanti"
+
+msgid "ISO_639-3.FAY"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Dinkų, šiaurės vakarų"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albanų"
+
+msgid "ISO_639-3.FCS"
+msgstr "Kvebeko gestų kalba"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Fidžių"
+
+msgid "ISO_639-3.FIL"
+msgstr "Filipinų"
+
+msgid "ISO_639-3.FIN"
+msgstr "Suomių"
+
+msgid "ISO_639-3.FKV"
+msgstr "Suomių"
+
+msgid "ISO_639-3.FMU"
+msgstr "Vakarų fryzų"
+
+msgid "ISO_639-3.FON"
+msgstr "Fon"
+
+msgid "ISO_639-3.FRA"
+msgstr "Prancūzų"
+
+msgid "ISO_639-3.FRC"
+msgstr "Prancūzų"
+
+msgid "ISO_639-3.FRM"
+msgstr "Prancūzų, viduramžių (1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "Prancūzų, viduramžių (1400-1600)"
+
+msgid "ISO_639-3.FRP"
+msgstr "Asturianų"
+
+msgid "ISO_639-3.FRR"
+msgstr "Vakarų fryzų"
+
+msgid "ISO_639-3.FSE"
+msgstr "Suomių gestų kalba"
+
+msgid "ISO_639-3.FSL"
+msgstr "Prancūzų gestų kalba"
+
+msgid "ISO_639-3.FSS"
+msgstr "Suomių-švedų gestų kalba"
+
+msgid "ISO_639-3.FUL"
+msgstr "Fulahų"
+
+msgid "ISO_639-3.FUR"
+msgstr "Frulan"
+
+msgid "ISO_639-3.GAA"
+msgstr "Ga"
+
+msgid "ISO_639-3.GAN"
+msgstr "Kinų, Gan"
+
+msgid "ISO_639-3.GAY"
+msgstr "Gajo"
+
+msgid "ISO_639-3.GBA"
+msgstr "Gbaja (Centrinės Afrikos Respublika)"
+
+msgid "ISO_639-3.GDS"
+msgstr "Graikų gestų kalba"
+
+msgid "ISO_639-3.GDT"
+msgstr "Vengrų"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Gyz"
+
+msgid "ISO_639-3.GHE"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.GHH"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.GIL"
+msgstr "Gilbertiečių"
+
+msgid "ISO_639-3.GKP"
+msgstr "Gėlų; škotų"
+
+msgid "ISO_639-3.GLE"
+msgstr "Airių"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galisų"
+
+msgid "ISO_639-3.GLH"
+msgstr "Gbaja, šiaurės vakarų"
+
+msgid "ISO_639-3.GLV"
+msgstr "Menksiečių"
+
+msgid "ISO_639-3.GMH"
+msgstr "Vokiečių, viduramžių žemaičių"
+
+msgid "ISO_639-3.GNO"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.GOH"
+msgstr "Vokiečių, senoji aukštaičių (ca. 750-1050)"
+
+msgid "ISO_639-3.GON"
+msgstr "Gondų"
+
+msgid "ISO_639-3.GOR"
+msgstr "Gorontalo"
+
+msgid "ISO_639-3.GOT"
+msgstr "Gotų"
+
+msgid "ISO_639-3.GPE"
+msgstr "Anglų ir kinų pidžinas (maišyta kalba)"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grebo"
+
+msgid "ISO_639-3.GRC"
+msgstr "Graikų, senovinė (iki 1453)"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.GRN"
+msgstr "Gvranių"
+
+msgid "ISO_639-3.GSE"
+msgstr "Ganos gestų kalba"
+
+msgid "ISO_639-3.GSG"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.GSM"
+msgstr "Gbaja, pietvakarių "
+
+msgid "ISO_639-3.GSS"
+msgstr "Graikų gestų kalba"
+
+msgid "ISO_639-3.GSW"
+msgstr "Šveicarijos vokiečių"
+
+msgid "ISO_639-3.GUG"
+msgstr "Urugvajiečių gestų kalba"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Gudžaratų"
+
+msgid "ISO_639-3.GUS"
+msgstr "Gvinėjos gestų kalba"
+
+msgid "ISO_639-3.GWI"
+msgstr "Gbaja, šiaurės vakarų"
+
+msgid "ISO_639-3.HAB"
+msgstr "Hanojaus gestų kalba"
+
+msgid "ISO_639-3.HAI"
+msgstr "Haida"
+
+msgid "ISO_639-3.HAK"
+msgstr "Kinų, Hakka"
+
+msgid "ISO_639-3.HAT"
+msgstr "Taitiečių"
+
+msgid "ISO_639-3.HAU"
+msgstr "Hausų"
+
+msgid "ISO_639-3.HAW"
+msgstr "Havajiečių"
+
+msgid "ISO_639-3.HAX"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebrajų"
+
+msgid "ISO_639-3.HBS"
+msgstr "Serbų-kroatų"
+
+msgid "ISO_639-3.HDN"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.HDS"
+msgstr "Hondūras gestų kalba"
+
+msgid "ISO_639-3.HEA"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebrajų"
+
+msgid "ISO_639-3.HER"
+msgstr "Hererų"
+
+msgid "ISO_639-3.HIF"
+msgstr "Hindi, Fidžio"
+
+msgid "ISO_639-3.HIL"
+msgstr "Hiligainon"
+
+msgid "ISO_639-3.HIN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIT"
+msgstr "Hetitų"
+
+msgid "ISO_639-3.HKS"
+msgstr "Honkongo gestų kalba"
+
+msgid "ISO_639-3.HLT"
+msgstr "Kinų, Vu"
+
+msgid "ISO_639-3.HMA"
+msgstr "Dinkų, pietvakarių"
+
+msgid "ISO_639-3.HMG"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.HMH"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HMN"
+msgstr "Hmong"
+
+msgid "ISO_639-3.HMP"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HMS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HMY"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HMZ"
+msgstr "Hmong"
+
+msgid "ISO_639-3.HND"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HNO"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.HOS"
+msgstr "Hošimino miesto gestų kalba"
+
+msgid "ISO_639-3.HPS"
+msgstr "Havajų pidžinų gestų kalba"
+
+msgid "ISO_639-3.HRV"
+msgstr "Kroatų"
+
+msgid "ISO_639-3.HRW"
+msgstr "Marvari"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbų"
+
+msgid "ISO_639-3.HSH"
+msgstr "Vengrų gestų kalba"
+
+msgid "ISO_639-3.HSL"
+msgstr "Hausų gestų kalba"
+
+msgid "ISO_639-3.HSN"
+msgstr "Kinų, Šiang"
+
+msgid "ISO_639-3.HTX"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.HUN"
+msgstr "Vengrų"
+
+msgid "ISO_639-3.HUP"
+msgstr "Hupa"
+
+msgid "ISO_639-3.HYE"
+msgstr "Armėnų"
+
+msgid "ISO_639-3.IBA"
+msgstr "Ibanų"
+
+msgid "ISO_639-3.IBO"
+msgstr "Igbo"
+
+msgid "ISO_639-3.ICL"
+msgstr "Islandų gestų kalba"
+
+msgid "ISO_639-3.III"
+msgstr "Lietuvių"
+
+msgid "ISO_639-3.IJS"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.IKS"
+msgstr "Indų gestų kalba"
+
+msgid "ISO_639-3.ILE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ILM"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.ILO"
+msgstr "Iloko"
+
+msgid "ISO_639-3.ILP"
+msgstr "Varai (Filipinai)"
+
+msgid "ISO_639-3.IMA"
+msgstr "Malajalių"
+
+msgid "ISO_639-3.INA"
+msgstr "Interlingua (tarpinė kalba) (Tarptautinė pagalbinės kalbos asociacija)"
+
+msgid "ISO_639-3.IND"
+msgstr "Indoneziečių"
+
+msgid "ISO_639-3.INH"
+msgstr "Ingušų"
+
+msgid "ISO_639-3.INL"
+msgstr "Indoneziečių gestų kalba"
+
+msgid "ISO_639-3.INS"
+msgstr "Indų gestų kalba"
+
+msgid "ISO_639-3.IPK"
+msgstr "Inupiakų"
+
+msgid "ISO_639-3.ISE"
+msgstr "Italų gestų kalba"
+
+msgid "ISO_639-3.ISG"
+msgstr "Airių gestų kalba"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandų"
+
+msgid "ISO_639-3.ISR"
+msgstr "Izraelio gestų kalba"
+
+msgid "ISO_639-3.ITA"
+msgstr "Italų"
+
+msgid "ISO_639-3.ITD"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.ITK"
+msgstr "Judėjų italų"
+
+msgid "ISO_639-3.ITY"
+msgstr "Adangmų"
+
+msgid "ISO_639-3.JAN"
+msgstr "Ganda"
+
+msgid "ISO_639-3.JAV"
+msgstr "Javiečių"
+
+msgid "ISO_639-3.JBE"
+msgstr "Judėjų berberų"
+
+msgid "ISO_639-3.JBO"
+msgstr "Lojban"
+
+msgid "ISO_639-3.JGE"
+msgstr "Judėjų gruzinų"
+
+msgid "ISO_639-3.JKR"
+msgstr "Marvari (Indija)"
+
+msgid "ISO_639-3.JLS"
+msgstr "Zambijos gestų kalba"
+
+msgid "ISO_639-3.JOS"
+msgstr "Jordanijos gestų kalba"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japonų"
+
+msgid "ISO_639-3.JPR"
+msgstr "Judėjų persų"
+
+msgid "ISO_639-3.JRB"
+msgstr "Judėjų arabų"
+
+msgid "ISO_639-3.JSL"
+msgstr "Japonų gestų kalba"
+
+msgid "ISO_639-3.JVN"
+msgstr "Javiečių"
+
+msgid "ISO_639-3.JYE"
+msgstr "Arabų, Jemeno judėjų "
+
+msgid "ISO_639-3.KAA"
+msgstr "Krakalpakų"
+
+msgid "ISO_639-3.KAB"
+msgstr "Kabilų"
+
+msgid "ISO_639-3.KAK"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.KAL"
+msgstr "Grenlandų"
+
+msgid "ISO_639-3.KAM"
+msgstr "Kamba (Kenija)"
+
+msgid "ISO_639-3.KAN"
+msgstr "Kanadų"
+
+msgid "ISO_639-3.KAS"
+msgstr "Kašmyrų"
+
+msgid "ISO_639-3.KAT"
+msgstr "Gruzinų"
+
+msgid "ISO_639-3.KAU"
+msgstr "Kanūrių"
+
+msgid "ISO_639-3.KAW"
+msgstr "Kavi"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Kazachų"
+
+msgid "ISO_639-3.KBD"
+msgstr "Kabardinų"
+
+msgid "ISO_639-3.KBP"
+msgstr "Kabilų"
+
+msgid "ISO_639-3.KBY"
+msgstr "Kanūrių"
+
+msgid "ISO_639-3.KFB"
+msgstr "Dinkų, šiaurės vakarų"
+
+msgid "ISO_639-3.KFI"
+msgstr "Kanadų"
+
+msgid "ISO_639-3.KGI"
+msgstr "Selangoro gestų kalba"
+
+msgid "ISO_639-3.KHA"
+msgstr "Kasi"
+
+msgid "ISO_639-3.KHG"
+msgstr "Tibetiečių"
+
+msgid "ISO_639-3.KHK"
+msgstr "Khmerų, centrinė"
+
+msgid "ISO_639-3.KHO"
+msgstr "Kotanezų"
+
+msgid "ISO_639-3.KIK"
+msgstr "Kikui"
+
+msgid "ISO_639-3.KIN"
+msgstr "Kinjaruanda"
+
+msgid "ISO_639-3.KIR"
+msgstr "Kirgizų"
+
+msgid "ISO_639-3.KJD"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.KJV"
+msgstr "Latvių gestų kalba"
+
+msgid "ISO_639-3.KLG"
+msgstr "Tagalų"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Sudėtinės kalbos"
+
+msgid "ISO_639-3.KMB"
+msgstr "Kimbundu"
+
+msgid "ISO_639-3.KMC"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.KMD"
+msgstr "Malajų, bendrinė"
+
+msgid "ISO_639-3.KMR"
+msgstr "Kurdų"
+
+msgid "ISO_639-3.KNC"
+msgstr "Kanūrių"
+
+msgid "ISO_639-3.KOM"
+msgstr "Komių"
+
+msgid "ISO_639-3.KON"
+msgstr "Kongo"
+
+msgid "ISO_639-3.KOR"
+msgstr "Korėjiečių"
+
+msgid "ISO_639-3.KOS"
+msgstr "Kosreanų"
+
+msgid "ISO_639-3.KPE"
+msgstr "Kpele"
+
+msgid "ISO_639-3.KQO"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.KRC"
+msgstr "Karačiajų-balkarų"
+
+msgid "ISO_639-3.KRL"
+msgstr "Karelų"
+
+msgid "ISO_639-3.KRS"
+msgstr "Gbaja (Sudanas)"
+
+msgid "ISO_639-3.KRT"
+msgstr "Kanūrių"
+
+msgid "ISO_639-3.KRU"
+msgstr "Kuruk"
+
+msgid "ISO_639-3.KSC"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.KSS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.KTS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.KTV"
+msgstr "Rytų fryzų"
+
+msgid "ISO_639-3.KUA"
+msgstr "Kuaniama"
+
+msgid "ISO_639-3.KUE"
+msgstr "Mende (Papua ir Naujoji Gvinėja)"
+
+msgid "ISO_639-3.KUM"
+msgstr "Kumykų"
+
+msgid "ISO_639-3.KUR"
+msgstr "Kurdų"
+
+msgid "ISO_639-3.KUT"
+msgstr "Kutenai"
+
+msgid "ISO_639-3.KVK"
+msgstr "Korėjiečių gestų kalba"
+
+msgid "ISO_639-3.KWY"
+msgstr "Sranan Tongo"
+
+msgid "ISO_639-3.KXM"
+msgstr "Khmerų, šiaurės"
+
+msgid "ISO_639-3.KYN"
+msgstr "Šiaurės fryzų"
+
+msgid "ISO_639-3.LAA"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.LAD"
+msgstr "Ladinų"
+
+msgid "ISO_639-3.LAH"
+msgstr "Landa"
+
+msgid "ISO_639-3.LAM"
+msgstr "Lamba"
+
+msgid "ISO_639-3.LAO"
+msgstr "Laosiečių"
+
+msgid "ISO_639-3.LAT"
+msgstr "Lotynų"
+
+msgid "ISO_639-3.LAV"
+msgstr "Dinkų, pietų centrinė"
+
+msgid "ISO_639-3.LBL"
+msgstr "Bikolų"
+
+msgid "ISO_639-3.LBS"
+msgstr "Libijos gestų kalba"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Lezginų"
+
+msgid "ISO_639-3.LIM"
+msgstr "Limburgo tarmė"
+
+msgid "ISO_639-3.LIN"
+msgstr "Lingala"
+
+msgid "ISO_639-3.LIR"
+msgstr "Anglų"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lietuvių"
+
+msgid "ISO_639-3.LJW"
+msgstr "Ganda"
+
+msgid "ISO_639-3.LLS"
+msgstr "Lietuvių gestų kalba"
+
+msgid "ISO_639-3.LMO"
+msgstr "Lombardų"
+
+msgid "ISO_639-3.LNI"
+msgstr "Radžastano"
+
+msgid "ISO_639-3.LNL"
+msgstr "Dinkų, pietų centrinė"
+
+msgid "ISO_639-3.LOL"
+msgstr "Mongo"
+
+msgid "ISO_639-3.LOZ"
+msgstr "Lozi"
+
+msgid "ISO_639-3.LRR"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.LRT"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.LSG"
+msgstr "Liono gestų kalba"
+
+msgid "ISO_639-3.LSL"
+msgstr "Latvių gestų kalba"
+
+msgid "ISO_639-3.LSO"
+msgstr "Laoso gestų kalba"
+
+msgid "ISO_639-3.LSY"
+msgstr "Kinų, vėlyvųjų viduramžių"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalonų"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Liuksemburgiečių"
+
+msgid "ISO_639-3.LUA"
+msgstr "Luba lulua"
+
+msgid "ISO_639-3.LUB"
+msgstr "Luba katanga"
+
+msgid "ISO_639-3.LUG"
+msgstr "Ganda"
+
+msgid "ISO_639-3.LUI"
+msgstr "Luiseno"
+
+msgid "ISO_639-3.LUN"
+msgstr "Lunda"
+
+msgid "ISO_639-3.LUS"
+msgstr "Lušai"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.LVS"
+msgstr "Estų, bendrinė"
+
+msgid "ISO_639-3.LZH"
+msgstr "Kinų, literatūrinė"
+
+msgid "ISO_639-3.MAD"
+msgstr "Madurezų"
+
+msgid "ISO_639-3.MAG"
+msgstr "Magahi"
+
+msgid "ISO_639-3.MAH"
+msgstr "Maršalo salų"
+
+msgid "ISO_639-3.MAI"
+msgstr "Maithili"
+
+msgid "ISO_639-3.MAK"
+msgstr "Makasar"
+
+msgid "ISO_639-3.MAL"
+msgstr "Malajalių"
+
+msgid "ISO_639-3.MAN"
+msgstr "Mandingo"
+
+msgid "ISO_639-3.MAR"
+msgstr "Marathų"
+
+msgid "ISO_639-3.MAS"
+msgstr "Masai"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Katalonų gestų kalba"
+
+msgid "ISO_639-3.MBF"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.MBS"
+msgstr "Mandar"
+
+msgid "ISO_639-3.MCY"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.MDF"
+msgstr "Mokša"
+
+msgid "ISO_639-3.MDH"
+msgstr "Mandingo"
+
+msgid "ISO_639-3.MDL"
+msgstr "Maltos gestų kalba"
+
+msgid "ISO_639-3.MDR"
+msgstr "Mandar"
+
+msgid "ISO_639-3.MEH"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.MEL"
+msgstr "Katalonų gestų kalba"
+
+msgid "ISO_639-3.MEN"
+msgstr "Mende (Siera Leonė)"
+
+msgid "ISO_639-3.MFP"
+msgstr "Makasar"
+
+msgid "ISO_639-3.MFS"
+msgstr "Meksikiečių gestų kalba"
+
+msgid "ISO_639-3.MGA"
+msgstr "Airių, viduramžių (900-1200)"
+
+msgid "ISO_639-3.MGP"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.MGT"
+msgstr "Mongolų"
+
+msgid "ISO_639-3.MHP"
+msgstr "Malajų, Baliečių"
+
+msgid "ISO_639-3.MIC"
+msgstr "Mikmak"
+
+msgid "ISO_639-3.MIN"
+msgstr "Minankabu"
+
+msgid "ISO_639-3.MIS"
+msgstr "Kalbos, neturinčios suteikto kodo"
+
+msgid "ISO_639-3.MIT"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.MJB"
+msgstr "Makasar"
+
+msgid "ISO_639-3.MKD"
+msgstr "Makedonų"
+
+msgid "ISO_639-3.MLG"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.MLT"
+msgstr "Maltiečių"
+
+msgid "ISO_639-3.MNC"
+msgstr "Manču"
+
+msgid "ISO_639-3.MNI"
+msgstr "Manipuri"
+
+msgid "ISO_639-3.MNK"
+msgstr "Mandinkų"
+
+msgid "ISO_639-3.MNN"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.MNP"
+msgstr "Kinų"
+
+msgid "ISO_639-3.MOH"
+msgstr "Mohok"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maorių"
+
+msgid "ISO_639-3.MOM"
+msgstr "Manču"
+
+msgid "ISO_639-3.MON"
+msgstr "Mongolų"
+
+msgid "ISO_639-3.MOS"
+msgstr "Mosi"
+
+msgid "ISO_639-3.MRD"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.MRH"
+msgstr "Marathų"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maorių"
+
+msgid "ISO_639-3.MRY"
+msgstr "Mandar"
+
+msgid "ISO_639-3.MSC"
+msgstr "Mandar"
+
+msgid "ISO_639-3.MSD"
+msgstr "Jukatano majų gestų kalba"
+
+msgid "ISO_639-3.MSH"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.MSI"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.MSR"
+msgstr "Dinkų, pietvakarių"
+
+msgid "ISO_639-3.MUC"
+msgstr "Tumbuka"
+
+msgid "ISO_639-3.MUL"
+msgstr "Sudėtinės kalbos"
+
+msgid "ISO_639-3.MUS"
+msgstr "Krykų"
+
+msgid "ISO_639-3.MVE"
+msgstr "Marvari (Pakistanas)"
+
+msgid "ISO_639-3.MVF"
+msgstr "Mongolų, periferijos"
+
+msgid "ISO_639-3.MWK"
+msgstr "Mandinkų"
+
+msgid "ISO_639-3.MWR"
+msgstr "Marvari"
+
+msgid "ISO_639-3.MXY"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.MYA"
+msgstr "Birmiečių"
+
+msgid "ISO_639-3.MYV"
+msgstr "Erzyjų"
+
+msgid "ISO_639-3.MZC"
+msgstr "Madagaskaro gestų kalba"
+
+msgid "ISO_639-3.MZG"
+msgstr "Vienuolių gestų kalba"
+
+msgid "ISO_639-3.MZY"
+msgstr "Mozambiko gestų kalba"
+
+msgid "ISO_639-3.NAB"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NAN"
+msgstr "Kinų"
+
+msgid "ISO_639-3.NAP"
+msgstr "Neapoliečių"
+
+msgid "ISO_639-3.NAU"
+msgstr "Nauriečių"
+
+msgid "ISO_639-3.NAV"
+msgstr "Navahų"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Pietų ndebelų"
+
+msgid "ISO_639-3.NBS"
+msgstr "Namibijos gestų kalba"
+
+msgid "ISO_639-3.NBW"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NCB"
+msgstr "Katalonų gestų kalba"
+
+msgid "ISO_639-3.NCH"
+msgstr "Katalonų gestų kalba"
+
+msgid "ISO_639-3.NCS"
+msgstr "Šiaurės ndebelų"
+
+msgid "ISO_639-3.NDO"
+msgstr "Ndongų"
+
+msgid "ISO_639-3.NDS"
+msgstr "Vokiečių, viduramžių žemaičių"
+
+msgid "ISO_639-3.NEI"
+msgstr "Hetitų"
+
+msgid "ISO_639-3.NEP"
+msgstr "Nepaliečių gestų kalba"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Dinkų, pietų centrinė"
+
+msgid "ISO_639-3.NEW"
+msgstr "Nevarų, senoji"
+
+msgid "ISO_639-3.NGB"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.NHE"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.NHW"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.NIA"
+msgstr "Nias"
+
+msgid "ISO_639-3.NIB"
+msgstr "Makasar"
+
+msgid "ISO_639-3.NIK"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NIT"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.NIU"
+msgstr "Niuen"
+
+msgid "ISO_639-3.NLD"
+msgstr "Olandų"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.NLW"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.NMF"
+msgstr "Marvari (Indija)"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norvegų nynorsk"
+
+msgid "ISO_639-3.NNW"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norvegų bokmål"
+
+msgid "ISO_639-3.NOD"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NOG"
+msgstr "Nogų"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Ndongų"
+
+msgid "ISO_639-3.NON"
+msgstr "Senovės skandinavų"
+
+msgid "ISO_639-3.NOR"
+msgstr "Norvegų"
+
+msgid "ISO_639-3.NPI"
+msgstr "Suahilių"
+
+msgid "ISO_639-3.NQG"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NQO"
+msgstr "Enko"
+
+msgid "ISO_639-3.NRE"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NRT"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.NSA"
+msgstr "Mandar"
+
+msgid "ISO_639-3.NSD"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.NSF"
+msgstr "Dinkų, šiaurės vakarų"
+
+msgid "ISO_639-3.NSI"
+msgstr "Nigerijos gestų kalba"
+
+msgid "ISO_639-3.NSL"
+msgstr "Norvegų gestų kalba"
+
+msgid "ISO_639-3.NSP"
+msgstr "Nepaliečių gestų kalba"
+
+msgid "ISO_639-3.NSR"
+msgstr "Jūrininkystės gestų kalba"
+
+msgid "ISO_639-3.NSV"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.NTD"
+msgstr "Sami, šiaurės"
+
+msgid "ISO_639-3.NUA"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.NUV"
+msgstr "Siriečių, klasikinė"
+
+msgid "ISO_639-3.NYA"
+msgstr "Nianja"
+
+msgid "ISO_639-3.NYM"
+msgstr "Niamvezi"
+
+msgid "ISO_639-3.NYN"
+msgstr "Niankole"
+
+msgid "ISO_639-3.NYO"
+msgstr "Nioro"
+
+msgid "ISO_639-3.NZI"
+msgstr "Nzima"
+
+msgid "ISO_639-3.NZS"
+msgstr "Naujosios Zelandijos gestų kalba"
+
+msgid "ISO_639-3.OAR"
+msgstr "Avarų, senoji"
+
+msgid "ISO_639-3.OBK"
+msgstr "Pietų sotų"
+
+msgid "ISO_639-3.OBR"
+msgstr "Birmiečių, senoji"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretonų, senoji"
+
+msgid "ISO_639-3.OCH"
+msgstr "Kinų, senoji"
+
+msgid "ISO_639-3.OCI"
+msgstr "Očitarų (po 1500)"
+
+msgid "ISO_639-3.OCO"
+msgstr "Kornų, senoji"
+
+msgid "ISO_639-3.ODT"
+msgstr "Olandų, senoji"
+
+msgid "ISO_639-3.OFS"
+msgstr "Fryzų, senoji"
+
+msgid "ISO_639-3.OGE"
+msgstr "Gruzinų, senoji"
+
+msgid "ISO_639-3.OHT"
+msgstr "Hetitų"
+
+msgid "ISO_639-3.OHU"
+msgstr "Vengrų"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ojibva, šiaurės vakarų"
+
+msgid "ISO_639-3.OJC"
+msgstr "Ojibva, centrinė"
+
+msgid "ISO_639-3.OJG"
+msgstr "Ojibva, rytinė"
+
+msgid "ISO_639-3.OJI"
+msgstr "Ojibva"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japonų"
+
+msgid "ISO_639-3.OJS"
+msgstr "Ojibva, Severno"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ojibva, vakarų"
+
+msgid "ISO_639-3.OKL"
+msgstr "Kento gestų kalba, senoji"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lietuvių"
+
+msgid "ISO_639-3.OLU"
+msgstr "Tuvalu"
+
+msgid "ISO_639-3.OMP"
+msgstr "Manipuri, senoji"
+
+msgid "ISO_639-3.OMR"
+msgstr "Marathų, senoji"
+
+msgid "ISO_639-3.ONR"
+msgstr "Sami, šiaurės"
+
+msgid "ISO_639-3.ONW"
+msgstr "Persų"
+
+msgid "ISO_639-3.OOS"
+msgstr "Osetinų, senoji"
+
+msgid "ISO_639-3.ORI"
+msgstr "Nepaliečių gestų kalba"
+
+msgid "ISO_639-3.ORM"
+msgstr "Oromų"
+
+msgid "ISO_639-3.ORT"
+msgstr "Orijų"
+
+msgid "ISO_639-3.ORV"
+msgstr "Rusų, senoji"
+
+msgid "ISO_639-3.OSA"
+msgstr "Osage"
+
+msgid "ISO_639-3.OSP"
+msgstr "Ispanų, senoji"
+
+msgid "ISO_639-3.OSS"
+msgstr "Osetinų"
+
+msgid "ISO_639-3.OSU"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.OSX"
+msgstr "Saksų, senoji"
+
+msgid "ISO_639-3.OTA"
+msgstr "Senoji turkų (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "Tibetiečių, senoji"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turkų, seniji"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamilų, senoji"
+
+msgid "ISO_639-3.OUI"
+msgstr "Uigūrų, senoji"
+
+msgid "ISO_639-3.OWL"
+msgstr "Valų, senoji"
+
+msgid "ISO_639-3.PAG"
+msgstr "Pangasinan"
+
+msgid "ISO_639-3.PAL"
+msgstr "Pahlavi"
+
+msgid "ISO_639-3.PAM"
+msgstr "Pampanga"
+
+msgid "ISO_639-3.PAN"
+msgstr "Pendžabų"
+
+msgid "ISO_639-3.PAO"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.PAP"
+msgstr "Papiemento"
+
+msgid "ISO_639-3.PAU"
+msgstr "Palau"
+
+msgid "ISO_639-3.PBT"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PBY"
+msgstr "Mende (Papua ir Naujoji Gvinėja)"
+
+msgid "ISO_639-3.PCK"
+msgstr "Buriatų, Kinijos"
+
+msgid "ISO_639-3.PCM"
+msgstr "Pidžinas, Nigerijos"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indoneziečių"
+
+msgid "ISO_639-3.PEF"
+msgstr "Dinkų, šiaurės rytų"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PES"
+msgstr "Krymo turkų"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Gvinėjos gestų kalba"
+
+msgid "ISO_639-3.PHN"
+msgstr "Finikiečių"
+
+msgid "ISO_639-3.PKS"
+msgstr "Pakistano gestų kalba"
+
+msgid "ISO_639-3.PLI"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLL"
+msgstr "Palau"
+
+msgid "ISO_639-3.PLT"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.PMD"
+msgstr "Pangasinan"
+
+msgid "ISO_639-3.PMI"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PMY"
+msgstr "Malajiečių, papuasų"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.PNB"
+msgstr "Pendžabų"
+
+msgid "ISO_639-3.POL"
+msgstr "Lenkų"
+
+msgid "ISO_639-3.POM"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.PON"
+msgstr "Ponapean"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugalų"
+
+msgid "ISO_639-3.PRL"
+msgstr "Peruiečių gestų kalba"
+
+msgid "ISO_639-3.PRO"
+msgstr "Provensalio,·senoji·(iki·1500)"
+
+msgid "ISO_639-3.PRZ"
+msgstr "Providensijos gestų kalba"
+
+msgid "ISO_639-3.PSC"
+msgstr "Malajų, centro"
+
+msgid "ISO_639-3.PSG"
+msgstr "Penango gestų kalba"
+
+msgid "ISO_639-3.PSH"
+msgstr "Gbaja, pietvakarių "
+
+msgid "ISO_639-3.PSI"
+msgstr "Gbaja, pietvakarių "
+
+msgid "ISO_639-3.PSL"
+msgstr "Puerto Riko gestų kalba"
+
+msgid "ISO_639-3.PSO"
+msgstr "Lenkų gestų kalba"
+
+msgid "ISO_639-3.PSP"
+msgstr "Filipiniečių gestų kalba"
+
+msgid "ISO_639-3.PSR"
+msgstr "Portugalų gestų kalba"
+
+msgid "ISO_639-3.PUS"
+msgstr "Puštūnų"
+
+msgid "ISO_639-3.PWW"
+msgstr "Sami, šiaurės"
+
+msgid "ISO_639-3.PYS"
+msgstr "Urugvajiečių gestų kalba"
+
+msgid "ISO_639-3.QUE"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QUP"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.QUX"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QUY"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QVP"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QXC"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QXP"
+msgstr "Kečujų"
+
+msgid "ISO_639-3.QXS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.RAJ"
+msgstr "Radžastano"
+
+msgid "ISO_639-3.RAP"
+msgstr "Rapanui"
+
+msgid "ISO_639-3.RAR"
+msgstr "Lotynų"
+
+msgid "ISO_639-3.RBB"
+msgstr "Šiaurės sothų"
+
+msgid "ISO_639-3.RBP"
+msgstr "Bambara"
+
+msgid "ISO_639-3.RGS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.RKW"
+msgstr "Aragonų"
+
+msgid "ISO_639-3.RMG"
+msgstr "Norvegų, keliautojų"
+
+msgid "ISO_639-3.RML"
+msgstr "Sudėtinės kalbos"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rumunų"
+
+msgid "ISO_639-3.RMS"
+msgstr "Rumunų gestų kalba"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rumunų"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rumunų"
+
+msgid "ISO_639-3.ROH"
+msgstr "Retoromanų"
+
+msgid "ISO_639-3.ROM"
+msgstr "Čigonų"
+
+msgid "ISO_639-3.RON"
+msgstr "Rumunų"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rumunų-serbų"
+
+msgid "ISO_639-3.RSL"
+msgstr "Rusų gestų kalba"
+
+msgid "ISO_639-3.RSM"
+msgstr "Nigerijos gestų kalba"
+
+msgid "ISO_639-3.RTC"
+msgstr "Kinų, Šiang"
+
+msgid "ISO_639-3.RUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rumunų"
+
+msgid "ISO_639-3.RUP"
+msgstr "Aromanių"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rumunų"
+
+msgid "ISO_639-3.RUS"
+msgstr "Rusų"
+
+msgid "ISO_639-3.RWR"
+msgstr "Marvari (Indija)"
+
+msgid "ISO_639-3.RXD"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-3.SAD"
+msgstr "Sandavi"
+
+msgid "ISO_639-3.SAG"
+msgstr "Sango"
+
+msgid "ISO_639-3.SAH"
+msgstr "Jakutų"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sanskritas"
+
+msgid "ISO_639-3.SAS"
+msgstr "Sasak"
+
+msgid "ISO_639-3.SAT"
+msgstr "Santali"
+
+msgid "ISO_639-3.SBD"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SBL"
+msgstr "Lamba"
+
+msgid "ISO_639-3.SBN"
+msgstr "Sindų"
+
+msgid "ISO_639-3.SCN"
+msgstr "Siciliečių"
+
+msgid "ISO_639-3.SCO"
+msgstr "Škotų"
+
+msgid "ISO_639-3.SDC"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-3.SDH"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SDL"
+msgstr "Saudo Arabijos gestų kalba"
+
+msgid "ISO_639-3.SDN"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-3.SEL"
+msgstr "Selkup"
+
+msgid "ISO_639-3.SFE"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SFS"
+msgstr "Pietų Afrikos gestų kalba"
+
+msgid "ISO_639-3.SGA"
+msgstr "Airių, senoji (iki 900)"
+
+msgid "ISO_639-3.SGG"
+msgstr "Šveicarų-vokiečių gestų kalba"
+
+msgid "ISO_639-3.SGS"
+msgstr "Samojiečių"
+
+msgid "ISO_639-3.SGX"
+msgstr "Siera Leonės gestų kalba"
+
+msgid "ISO_639-3.SGY"
+msgstr "Balučių"
+
+msgid "ISO_639-3.SHN"
+msgstr "Šanų"
+
+msgid "ISO_639-3.SHU"
+msgstr "Arabų, Čado"
+
+msgid "ISO_639-3.SIA"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.SID"
+msgstr "Sidamo"
+
+msgid "ISO_639-3.SIM"
+msgstr "Mende (Papua ir Naujoji Gvinėja)"
+
+msgid "ISO_639-3.SJD"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.SJE"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.SJK"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.SJT"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.SJU"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.SKC"
+msgstr "Mandar"
+
+msgid "ISO_639-3.SKD"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SKG"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.SLF"
+msgstr "Šveicarų-italų gestų kalba"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovakų"
+
+msgid "ISO_639-3.SLS"
+msgstr "Singapūro gestų kalba"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovėnų"
+
+msgid "ISO_639-3.SMA"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SME"
+msgstr "Sami, šiaurės"
+
+msgid "ISO_639-3.SMJ"
+msgstr "Inari sami"
+
+msgid "ISO_639-3.SMO"
+msgstr "Samojiečių"
+
+msgid "ISO_639-3.SMS"
+msgstr "Skolt sami"
+
+msgid "ISO_639-3.SMU"
+msgstr "Somalių"
+
+msgid "ISO_639-3.SNA"
+msgstr "Šonų"
+
+msgid "ISO_639-3.SND"
+msgstr "Sindų"
+
+msgid "ISO_639-3.SNK"
+msgstr "Soninkių"
+
+msgid "ISO_639-3.SNM"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SOG"
+msgstr "Sogdų"
+
+msgid "ISO_639-3.SOM"
+msgstr "Somalių"
+
+msgid "ISO_639-3.SOT"
+msgstr "Pietų sotų"
+
+msgid "ISO_639-3.SOU"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SPA"
+msgstr "Ispanų"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albanų"
+
+msgid "ISO_639-3.SQK"
+msgstr "Rumunų gestų kalba"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabų, įlankos"
+
+msgid "ISO_639-3.SQS"
+msgstr "Šri lankos gestų kalba"
+
+msgid "ISO_639-3.SRC"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-3.SRD"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-3.SRN"
+msgstr "Sranan Tongo"
+
+msgid "ISO_639-3.SRO"
+msgstr "Japonų gestų kalba"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbų"
+
+msgid "ISO_639-3.SRR"
+msgstr "Serer"
+
+msgid "ISO_639-3.SRV"
+msgstr "Pietų sotų"
+
+msgid "ISO_639-3.SSB"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SSE"
+msgstr "Pangasinan"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabų"
+
+msgid "ISO_639-3.SSP"
+msgstr "Ispanų gestų kalba"
+
+msgid "ISO_639-3.SSR"
+msgstr "Šveicarų-prancūzų gestu kalba"
+
+msgid "ISO_639-3.SSW"
+msgstr "Svazių"
+
+msgid "ISO_639-3.STB"
+msgstr "Vokiečių gestų kalba"
+
+msgid "ISO_639-3.STP"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.SUK"
+msgstr "Sukuma"
+
+msgid "ISO_639-3.SUN"
+msgstr "Sundų"
+
+msgid "ISO_639-3.SUS"
+msgstr "Susu"
+
+msgid "ISO_639-3.SUX"
+msgstr "Šumerų"
+
+msgid "ISO_639-3.SVK"
+msgstr "Slovakų gestų kalba"
+
+msgid "ISO_639-3.SWB"
+msgstr "Kuko salų maori"
+
+msgid "ISO_639-3.SWE"
+msgstr "Švedų"
+
+msgid "ISO_639-3.SWH"
+msgstr "Suahilių"
+
+msgid "ISO_639-3.SWK"
+msgstr "Malajų, centro"
+
+msgid "ISO_639-3.SWL"
+msgstr "Švedų gestų kalba"
+
+msgid "ISO_639-3.SXK"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.SYB"
+msgstr "Siriečių, klasikinė"
+
+msgid "ISO_639-3.SYR"
+msgstr "Senoji sirų"
+
+msgid "ISO_639-3.TAH"
+msgstr "Taitiečių"
+
+msgid "ISO_639-3.TAJ"
+msgstr "Austrų gestų kalba"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamilų"
+
+msgid "ISO_639-3.TAT"
+msgstr "Totorių"
+
+msgid "ISO_639-3.TAW"
+msgstr "Tajų"
+
+msgid "ISO_639-3.TCE"
+msgstr "Malajų, Baliečių"
+
+msgid "ISO_639-3.TCU"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.TEL"
+msgstr "Telugų"
+
+msgid "ISO_639-3.TEM"
+msgstr "Timne"
+
+msgid "ISO_639-3.TER"
+msgstr "Terena"
+
+msgid "ISO_639-3.TET"
+msgstr "Tetum"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tadžikų"
+
+msgid "ISO_639-3.TGL"
+msgstr "Tagalų"
+
+msgid "ISO_639-3.TGN"
+msgstr "Pangasinan"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Tagalų"
+
+msgid "ISO_639-3.THA"
+msgstr "Tajų"
+
+msgid "ISO_639-3.TIG"
+msgstr "Tigre"
+
+msgid "ISO_639-3.TIR"
+msgstr "Tigrajų"
+
+msgid "ISO_639-3.TIV"
+msgstr "Tiv"
+
+msgid "ISO_639-3.TIX"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.TJI"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.TJS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.TKG"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.TKL"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TKV"
+msgstr "Pendžabų"
+
+msgid "ISO_639-3.TLA"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.TLI"
+msgstr "Tlingit"
+
+msgid "ISO_639-3.TMH"
+msgstr "Tamašek"
+
+msgid "ISO_639-3.TMK"
+msgstr "Dinkų, šiaurės vakarų"
+
+msgid "ISO_639-3.TNN"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.TOG"
+msgstr "Tongų"
+
+msgid "ISO_639-3.TON"
+msgstr "Tongų (Tonga salų)"
+
+msgid "ISO_639-3.TPI"
+msgstr "Papua pidžinų"
+
+msgid "ISO_639-3.TRL"
+msgstr "Gėlų; škotų"
+
+msgid "ISO_639-3.TSE"
+msgstr "Tunisiečių gestų kalba"
+
+msgid "ISO_639-3.TSI"
+msgstr "Tsimšian"
+
+msgid "ISO_639-3.TSM"
+msgstr "Turkų gestų kalba"
+
+msgid "ISO_639-3.TSN"
+msgstr "Tsvanų"
+
+msgid "ISO_639-3.TSO"
+msgstr "Tsongų"
+
+msgid "ISO_639-3.TSP"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.TSQ"
+msgstr "Tajų gestų kalba"
+
+msgid "ISO_639-3.TSS"
+msgstr "Taivanio gestų kalba"
+
+msgid "ISO_639-3.TTS"
+msgstr "Dinkų, šiaurės rytų"
+
+msgid "ISO_639-3.TUK"
+msgstr "Turkmėnų"
+
+msgid "ISO_639-3.TUM"
+msgstr "Tumbuka"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turkų"
+
+msgid "ISO_639-3.TVL"
+msgstr "Pidžinas, Timoro"
+
+msgid "ISO_639-3.TWF"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.TWI"
+msgstr "Tvi"
+
+msgid "ISO_639-3.TWR"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.TXY"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.TYE"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.TYV"
+msgstr "Tuvių"
+
+msgid "ISO_639-3.TZA"
+msgstr "Tanzanijos gestų kalba"
+
+msgid "ISO_639-3.UDM"
+msgstr "Udmurtų"
+
+msgid "ISO_639-3.UGA"
+msgstr "Ugaritų"
+
+msgid "ISO_639-3.UGN"
+msgstr "Ugandos gestų kalba"
+
+msgid "ISO_639-3.UGY"
+msgstr "Urugvajiečių gestų kalba"
+
+msgid "ISO_639-3.UIG"
+msgstr "Uigūrų"
+
+msgid "ISO_639-3.UKL"
+msgstr "Ukrainiečių gestų kalba"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukrainiečių"
+
+msgid "ISO_639-3.ULE"
+msgstr "Lule sami"
+
+msgid "ISO_639-3.UMB"
+msgstr "Umbundu"
+
+msgid "ISO_639-3.UMN"
+msgstr "Kalbos, neturinčios suteikto kodo"
+
+msgid "ISO_639-3.UND"
+msgstr "Nenustatyta"
+
+msgid "ISO_639-3.URD"
+msgstr "Urdu"
+
+msgid "ISO_639-3.UZB"
+msgstr "Uzbekų"
+
+msgid "ISO_639-3.UZS"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.VAI"
+msgstr "Vai"
+
+msgid "ISO_639-3.VBB"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.VBK"
+msgstr "Dinkų, pietvakarių"
+
+msgid "ISO_639-3.VEC"
+msgstr "Venetų"
+
+msgid "ISO_639-3.VEN"
+msgstr "Venda"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vietnamiečių"
+
+msgid "ISO_639-3.VMB"
+msgstr "Bambara"
+
+msgid "ISO_639-3.VMG"
+msgstr "Lingala"
+
+msgid "ISO_639-3.VOL"
+msgstr "Volapiukas"
+
+msgid "ISO_639-3.VOT"
+msgstr "Vodų"
+
+msgid "ISO_639-3.VSI"
+msgstr "Moldavijos gestų kalba"
+
+msgid "ISO_639-3.VSL"
+msgstr "Venesuelos gestų kalba"
+
+msgid "ISO_639-3.VSV"
+msgstr "Valensijos gestų kalba"
+
+msgid "ISO_639-3.WAL"
+msgstr "Valamo"
+
+msgid "ISO_639-3.WAR"
+msgstr "Varai (Filipinai)"
+
+msgid "ISO_639-3.WAS"
+msgstr "Kinų, Šiang"
+
+msgid "ISO_639-3.WHK"
+msgstr "Kamba (Kenija)"
+
+msgid "ISO_639-3.WIB"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.WLN"
+msgstr "Valonų"
+
+msgid "ISO_639-3.WOL"
+msgstr "Volofų"
+
+msgid "ISO_639-3.WRZ"
+msgstr "Varai (Australija)"
+
+msgid "ISO_639-3.WUU"
+msgstr "Kinų, Vu"
+
+msgid "ISO_639-3.WYY"
+msgstr "Arabų, Andalūzijos"
+
+msgid "ISO_639-3.XBE"
+msgstr "Lamba"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretonų, viduramžių"
+
+msgid "ISO_639-3.XBN"
+msgstr "Kutenai"
+
+msgid "ISO_639-3.XBY"
+msgstr "Malajalių"
+
+msgid "ISO_639-3.XCL"
+msgstr "Tibetiečių, klasikinė"
+
+msgid "ISO_639-3.XCV"
+msgstr "Čiuvašų"
+
+msgid "ISO_639-3.XDY"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.XGD"
+msgstr "Adangmų"
+
+msgid "ISO_639-3.XGM"
+msgstr "Lamba"
+
+msgid "ISO_639-3.XHO"
+msgstr "Kosų"
+
+msgid "ISO_639-3.XJT"
+msgstr "Luba katanga"
+
+msgid "ISO_639-3.XKB"
+msgstr "Sami, šiaurės"
+
+msgid "ISO_639-3.XKI"
+msgstr "Kenijos gestų kalba"
+
+msgid "ISO_639-3.XMK"
+msgstr "Makedonų, senovinė"
+
+msgid "ISO_639-3.XML"
+msgstr "Malaizijos gestų kalba"
+
+msgid "ISO_639-3.XMM"
+msgstr "Dajakų"
+
+msgid "ISO_639-3.XMS"
+msgstr "Malajų, bendrinė"
+
+msgid "ISO_639-3.XMW"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.XNA"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.XNG"
+msgstr "Mongolų, viduramžių"
+
+msgid "ISO_639-3.XNI"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-3.XNN"
+msgstr "Šiaurės arabų, senovinė"
+
+msgid "ISO_639-3.XPA"
+msgstr "Orijų"
+
+msgid "ISO_639-3.XPE"
+msgstr "Kpele, Liberijos"
+
+msgid "ISO_639-3.XRG"
+msgstr "Minankabu"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Kanūrių"
+
+msgid "ISO_639-3.XSB"
+msgstr "Lamba"
+
+msgid "ISO_639-3.XSL"
+msgstr "Olandų gestų kalba"
+
+msgid "ISO_639-3.XWJ"
+msgstr "Ekajuk"
+
+msgid "ISO_639-3.XWW"
+msgstr "Bembų (Zambija)"
+
+msgid "ISO_639-3.XYB"
+msgstr "Bengalų"
+
+msgid "ISO_639-3.XZP"
+msgstr "Zapotekų, senovinė"
+
+msgid "ISO_639-3.YAK"
+msgstr "Makasar"
+
+msgid "ISO_639-3.YAN"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.YAO"
+msgstr "Jao"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japezų"
+
+msgid "ISO_639-3.YDA"
+msgstr "Ganda"
+
+msgid "ISO_639-3.YDD"
+msgstr "Jidiš, rytų"
+
+msgid "ISO_639-3.YES"
+msgstr "Nianja"
+
+msgid "ISO_639-3.YGA"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.YGS"
+msgstr "Lenkų gestų kalba"
+
+msgid "ISO_639-3.YHD"
+msgstr "Arabų, Irako judejų"
+
+msgid "ISO_639-3.YHS"
+msgstr "Danų gestų kalba"
+
+msgid "ISO_639-3.YID"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YIH"
+msgstr "Jidiš, vakarų"
+
+msgid "ISO_639-3.YMC"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.YMX"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.YOR"
+msgstr "Jorubų"
+
+msgid "ISO_639-3.YSG"
+msgstr "Zenaga"
+
+msgid "ISO_639-3.YSL"
+msgstr "Jugoslavijos gestų kalba"
+
+msgid "ISO_639-3.YSP"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.YUD"
+msgstr "Judėjų arabų"
+
+msgid "ISO_639-3.YUE"
+msgstr "Kinų, Kantono"
+
+msgid "ISO_639-3.YUX"
+msgstr "Sami, pietų"
+
+msgid "ISO_639-3.YWG"
+msgstr "Minankabu"
+
+msgid "ISO_639-3.YXA"
+msgstr "Malagasių"
+
+msgid "ISO_639-3.ZAC"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAD"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAE"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAI"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAP"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAQ"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAR"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAT"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAV"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAW"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZAX"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Aravakų"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Aravakų"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Aravakų"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Zenaga"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Kinų"
+
+msgid "ISO_639-3.ZIB"
+msgstr "Zimbabvės gestų kalba"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZNE"
+msgstr "Zande"
+
+msgid "ISO_639-3.ZPB"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.ZPE"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPM"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPO"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPP"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPQ"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPS"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPU"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZPW"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZSL"
+msgstr "Zambijos gestų kalba"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Malajų, bendrinė"
+
+msgid "ISO_639-3.ZSR"
+msgstr "Dinkų, pietryčių"
+
+msgid "ISO_639-3.ZTE"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZTP"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZTU"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZTX"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZTY"
+msgstr "Zapotekų"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zulų (zulusų)"
+
+msgid "ISO_639-3.ZUN"
+msgstr "Zuni"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Džuangų"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Kinų, Kantono"

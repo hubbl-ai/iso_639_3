@@ -1,0 +1,8317 @@
+# Hindi translations for iso-codes
+# Copyright (C) 2004 Alastair McKinstry <mckinstry@debian.org>
+# This file is distributed under the same license as the iso-codes package.
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+#  Translations taken from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 21:21+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Hindi\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AAD"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.AAF"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.AAG"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AAL"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.AAR"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.AAT"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.AAZ"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.ABD"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ABE"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.ABG"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ABH"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ABK"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.ABL"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.ABQ"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.ABV"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ABZ"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ACR"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.ACW"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ACX"
+msgstr "अज़रबैंजानी"
+
+msgid "ISO_639-3.ACY"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ADD"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.ADF"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ADL"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.ADN"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.ADR"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.ADX"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.ADY"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.AEA"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.AEC"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AEE"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AEW"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.AEY"
+msgstr "असामी"
+
+msgid "ISO_639-3.AEZ"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.AFB"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AFD"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.AFK"
+msgstr "नायरू"
+
+msgid "ISO_639-3.AFP"
+msgstr "थाई"
+
+msgid "ISO_639-3.AFR"
+msgstr "अफ्रीकी"
+
+msgid "ISO_639-3.AGD"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AGE"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.AGG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.AGH"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.AGI"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.AGM"
+msgstr "कातालान"
+
+msgid "ISO_639-3.AGO"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.AGW"
+msgstr "होउसा"
+
+msgid "ISO_639-3.AGY"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AHH"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.AHK"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.AHR"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.AIE"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AIJ"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.AIR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.AIS"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.AIW"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.AIX"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.AJN"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.AJP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AJZ"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.AKL"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.AKR"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AKZ"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ALA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.ALD"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ALH"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ALI"
+msgstr "सामोन"
+
+msgid "ISO_639-3.ALJ"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ALK"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.ALL"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.ALN"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ALS"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ALT"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ALX"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.AMC"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.AMH"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.AMK"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.AML"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.AMN"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AMQ"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.AMR"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AMS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.AMY"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.ANI"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.ANK"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.ANN"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.ANR"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.ANS"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.ANY"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.AOA"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.AOH"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.AOJ"
+msgstr "रुसी"
+
+msgid "ISO_639-3.AOR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.AOS"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.AOT"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.APB"
+msgstr "सामोन"
+
+msgid "ISO_639-3.APC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.APD"
+msgstr "जावानीस"
+
+msgid "ISO_639-3.APF"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.APG"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.APH"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-3.API"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.APP"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.APW"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.AQN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AQT"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.AQZ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.ARA"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ARD"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.ARE"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.ARH"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ARI"
+msgstr "अफ्रीकी"
+
+msgid "ISO_639-3.ARJ"
+msgstr "अफ्रीकी"
+
+msgid "ISO_639-3.ARL"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ARN"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.ARQ"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ARS"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ARY"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ASD"
+msgstr "असामी"
+
+msgid "ISO_639-3.ASJ"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.ASM"
+msgstr "असामी"
+
+msgid "ISO_639-3.ASO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.AST"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-3.ASV"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.ATN"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-3.ATV"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ATX"
+msgstr "अरबी"
+
+msgid "ISO_639-3.ATZ"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AUB"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.AUC"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.AUL"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.AUP"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.AUY"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.AUZ"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AVK"
+msgstr "होउसा"
+
+msgid "ISO_639-3.AVS"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.AWX"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AXL"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AXM"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.AYA"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.AYC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AYG"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.AYH"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AYL"
+msgstr "अरबी"
+
+msgid "ISO_639-3.AYM"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AYN"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.AYR"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.AYS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.AYZ"
+msgstr "मराठी"
+
+msgid "ISO_639-3.AZA"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.AZB"
+msgstr "अज़रबैंजानी"
+
+msgid "ISO_639-3.AZE"
+msgstr "अज़रबैंजानी"
+
+msgid "ISO_639-3.AZJ"
+msgstr "अज़रबैंजानी"
+
+msgid "ISO_639-3.BAG"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.BAJ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BAK"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BAR"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BAV"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BAY"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BBB"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BBD"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BBE"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BBF"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BBG"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BBH"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BBI"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BBL"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BBM"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BBQ"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.BBV"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.BBY"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BCC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BCF"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BCG"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BCH"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BCJ"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.BCQ"
+msgstr "फ्रेंच"
+
+msgid "ISO_639-3.BCT"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BCW"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.BCY"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BDB"
+msgstr "होउसा"
+
+msgid "ISO_639-3.BDD"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BDE"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BDF"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BDG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BDI"
+msgstr "नायरू"
+
+msgid "ISO_639-3.BDJ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BDL"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.BDO"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.BDQ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BDU"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.BDZ"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BEG"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BEH"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BEK"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BEL"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BEN"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BEO"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BES"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.BEU"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BEW"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BFA"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BFG"
+msgstr "मलय"
+
+msgid "ISO_639-3.BFR"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BFS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BFT"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BFU"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.BFX"
+msgstr "मलय"
+
+msgid "ISO_639-3.BFZ"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.BGC"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.BGD"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.BGE"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BGJ"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.BGN"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.BGO"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.BGQ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BGR"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BGU"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.BGW"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BGY"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BGZ"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BHA"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHB"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.BHC"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHD"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHF"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.BHG"
+msgstr "चीनी"
+
+msgid "ISO_639-3.BHH"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHI"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHJ"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BHM"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHP"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BHR"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.BHW"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BHX"
+msgstr "मलय"
+
+msgid "ISO_639-3.BHZ"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.BIB"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BIC"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BIG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BIM"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BIO"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.BIP"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BIQ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BIR"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BIS"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BIT"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.BIV"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BIX"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BIY"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BIZ"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BJB"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BJC"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BJO"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BJR"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BJV"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BJY"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BJZ"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BKA"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.BKI"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BKN"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BKQ"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BKS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BKW"
+msgstr "उज़बेक्"
+
+msgid "ISO_639-3.BLB"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BLD"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BLG"
+msgstr "मलय"
+
+msgid "ISO_639-3.BLN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BLR"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BLS"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BLV"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.BLW"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.BMD"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.BMH"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.BMI"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BML"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.BMO"
+msgstr "कातालान"
+
+msgid "ISO_639-3.BMP"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BMR"
+msgstr "चीनी"
+
+msgid "ISO_639-3.BMV"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.BMW"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.BMX"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BNB"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.BNC"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BND"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.BNG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BNI"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BNK"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BNL"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BNS"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.BNU"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BOA"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.BOB"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.BOD"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.BOE"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.BOF"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.BOH"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.BOM"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.BOP"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.BOT"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BOV"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.BOW"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.BPA"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.BPH"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.BPJ"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.BPK"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.BPP"
+msgstr "नायरू"
+
+msgid "ISO_639-3.BPQ"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.BPV"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.BPZ"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BQB"
+msgstr "होउसा"
+
+msgid "ISO_639-3.BQH"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BQI"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BQL"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BQP"
+msgstr "होउसा"
+
+msgid "ISO_639-3.BQQ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BQR"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.BQV"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.BQX"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BRE"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BRF"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.BRG"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BRH"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BRJ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BRN"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.BRT"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BRU"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.BRV"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.BRW"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BRY"
+msgstr "नायरू"
+
+msgid "ISO_639-3.BSC"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BSE"
+msgstr "वेल्श"
+
+msgid "ISO_639-3.BSF"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BSG"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BSH"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.BSM"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BSN"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BSQ"
+msgstr "होउसा"
+
+msgid "ISO_639-3.BST"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BTA"
+msgstr "टाटर"
+
+msgid "ISO_639-3.BTF"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BTI"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.BTJ"
+msgstr "जापानी"
+
+msgid "ISO_639-3.BTR"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BTU"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BTV"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BUC"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.BUI"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BUK"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BUL"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BUP"
+msgstr "होउसा"
+
+msgid "ISO_639-3.BUQ"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BUT"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BUZ"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.BVA"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BVB"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BVH"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.BVJ"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BVO"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.BVP"
+msgstr "सामोन"
+
+msgid "ISO_639-3.BVQ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BVR"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BVT"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.BVU"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BVW"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.BVY"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BWM"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.BWQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.BXA"
+msgstr "किरघिज़"
+
+msgid "ISO_639-3.BXG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.BXM"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.BXO"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.BXR"
+msgstr "रुसी"
+
+msgid "ISO_639-3.BXS"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.BXU"
+msgstr "चीनी"
+
+msgid "ISO_639-3.BXZ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BYA"
+msgstr "टाटर"
+
+msgid "ISO_639-3.BYB"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.BYF"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.BYG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.BYH"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.BYK"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BYM"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.BYN"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BYQ"
+msgstr "मलय"
+
+msgid "ISO_639-3.BYR"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BYW"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.BZA"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.BZB"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.BZD"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BZI"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.BZQ"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.BZR"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.BZU"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.BZV"
+msgstr "सामोन"
+
+msgid "ISO_639-3.CAC"
+msgstr "सोणा"
+
+msgid "ISO_639-3.CAF"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.CAH"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CAK"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.CAL"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.CAN"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.CAR"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.CAT"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CAW"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.CBC"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CBI"
+msgstr "थाई"
+
+msgid "ISO_639-3.CBK"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CBL"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.CBN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.CBV"
+msgstr "होउसा"
+
+msgid "ISO_639-3.CBW"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.CCA"
+msgstr "होउसा"
+
+msgid "ISO_639-3.CCG"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.CCH"
+msgstr "असामी"
+
+msgid "ISO_639-3.CCJ"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.CCL"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.CCM"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.CDA"
+msgstr "सोणा"
+
+msgid "ISO_639-3.CDE"
+msgstr "चेक"
+
+msgid "ISO_639-3.CDG"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.CDO"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CDY"
+msgstr "सोणा"
+
+msgid "ISO_639-3.CDZ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.CEA"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.CEK"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.CEN"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CES"
+msgstr "चेक"
+
+msgid "ISO_639-3.CFD"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.CHC"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CHK"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CHM"
+msgstr "रुसी"
+
+msgid "ISO_639-3.CHX"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CIE"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CIM"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.CIP"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CIR"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.CIY"
+msgstr "थाई"
+
+msgid "ISO_639-3.CJA"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.CJI"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CJM"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.CJS"
+msgstr "सोणा"
+
+msgid "ISO_639-3.CJY"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CKB"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.CKN"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CKQ"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.CKR"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.CKV"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CLJ"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CLL"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CLM"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.CLT"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CLU"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CMA"
+msgstr "मलय"
+
+msgid "ISO_639-3.CME"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.CMG"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.CML"
+msgstr "कातालान"
+
+msgid "ISO_639-3.CMN"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.CNG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.CNH"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CNK"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.CNL"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.CNW"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.COE"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.COG"
+msgstr "सोणा"
+
+msgid "ISO_639-3.COO"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.COS"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.COX"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.CPI"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CPX"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CRF"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.CRJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.CRL"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.CRR"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.CRY"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.CSJ"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CSS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.CST"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CSY"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.CTG"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CTS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.CTU"
+msgstr "सोणा"
+
+msgid "ISO_639-3.CUU"
+msgstr "थाई"
+
+msgid "ISO_639-3.CVG"
+msgstr "सोणा"
+
+msgid "ISO_639-3.CWE"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.CYM"
+msgstr "वेल्श"
+
+msgid "ISO_639-3.CZH"
+msgstr "चीनी"
+
+msgid "ISO_639-3.CZK"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.CZT"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.DAC"
+msgstr "तमिल"
+
+msgid "ISO_639-3.DAD"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.DAG"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DAL"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.DAM"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.DAN"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DAO"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.DAQ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.DAV"
+msgstr "टाटर"
+
+msgid "ISO_639-3.DAX"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DAZ"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.DBA"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.DBI"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.DBJ"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.DBO"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.DBP"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.DBW"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.DDJ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.DEC"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.DEH"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.DER"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.DES"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.DEU"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.DGA"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DGG"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.DGI"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DGL"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.DGN"
+msgstr "सामोन"
+
+msgid "ISO_639-3.DHD"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.DHG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.DHN"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DHS"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DHX"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.DIC"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.DIJ"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DIK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DIP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DIT"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.DIV"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.DIW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DJI"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.DJO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.DKS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DKX"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.DLK"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.DLM"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.DMC"
+msgstr "टाटर"
+
+msgid "ISO_639-3.DMK"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.DMM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.DMX"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.DND"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.DNG"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.DNJ"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DNK"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.DNW"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.DOC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.DOH"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.DOO"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.DOT"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DOX"
+msgstr "रुसी"
+
+msgid "ISO_639-3.DOY"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.DPP"
+msgstr "टाटर"
+
+msgid "ISO_639-3.DRB"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DRC"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.DRD"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.DRE"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.DRL"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.DRU"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.DRY"
+msgstr "मराठी"
+
+msgid "ISO_639-3.DSB"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.DSI"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DSO"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.DTA"
+msgstr "कातालान"
+
+msgid "ISO_639-3.DTY"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.DUP"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.DWA"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.DWR"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.DYA"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.DZA"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.DZL"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.DZO"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.EAA"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.EBK"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.ECR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.EGL"
+msgstr "सामोन"
+
+msgid "ISO_639-3.EKC"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.EKG"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.EKK"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.EKY"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.EMG"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.EMN"
+msgstr "सामोन"
+
+msgid "ISO_639-3.EMU"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.ENA"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.ENB"
+msgstr "मराठी"
+
+msgid "ISO_639-3.ENG"
+msgstr "अंग्रेजी"
+
+msgid "ISO_639-3.ENQ"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.EPO"
+msgstr "एस्पेरान्तो"
+
+msgid "ISO_639-3.ERA"
+msgstr "कातालान"
+
+msgid "ISO_639-3.ERK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ESG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.EST"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-3.ETR"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.ETT"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.EUS"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.EVH"
+msgstr "उज़बेक्"
+
+msgid "ISO_639-3.EYO"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.EZE"
+msgstr "उज़बेक्"
+
+msgid "ISO_639-3.FAA"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.FAF"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.FAH"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.FAJ"
+msgstr "टाटर"
+
+msgid "ISO_639-3.FAL"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.FAO"
+msgstr "फिरोज़ी"
+
+msgid "ISO_639-3.FAP"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.FAR"
+msgstr "कातालान"
+
+msgid "ISO_639-3.FAS"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.FAX"
+msgstr "मलय"
+
+msgid "ISO_639-3.FAY"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.FAZ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.FBL"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.FER"
+msgstr "फिरोज़ी"
+
+msgid "ISO_639-3.FIJ"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.FIN"
+msgstr "फिनिश"
+
+msgid "ISO_639-3.FIP"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.FIR"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.FKV"
+msgstr "फिनिश"
+
+msgid "ISO_639-3.FLI"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.FLL"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.FLY"
+msgstr "टाटर"
+
+msgid "ISO_639-3.FMU"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.FNG"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.FNI"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.FOM"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.FOR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.FQS"
+msgstr "फिरोज़ी"
+
+msgid "ISO_639-3.FRA"
+msgstr "फ्रेंच"
+
+msgid "ISO_639-3.FRC"
+msgstr "फ्रेंच"
+
+msgid "ISO_639-3.FRK"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.FRP"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.FRR"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.FRS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.FRY"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.FUI"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.FUU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.GAB"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GAI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.GAL"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.GAM"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.GAN"
+msgstr "चीनी"
+
+msgid "ISO_639-3.GAQ"
+msgstr "टाटर"
+
+msgid "ISO_639-3.GAT"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.GBF"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.GBL"
+msgstr "तमिल"
+
+msgid "ISO_639-3.GBM"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GBO"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GBY"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GCC"
+msgstr "मलय"
+
+msgid "ISO_639-3.GCE"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.GCN"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.GDI"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.GDJ"
+msgstr "गुज़राती"
+
+msgid "ISO_639-3.GDK"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GDL"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.GDN"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.GDQ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.GDT"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.GEA"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GEB"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.GEG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.GEI"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.GEJ"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GEQ"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GEW"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GFK"
+msgstr "टाटर"
+
+msgid "ISO_639-3.GFT"
+msgstr "गुज़राती"
+
+msgid "ISO_639-3.GGA"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.GGE"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GGK"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.GHE"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GHH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GHO"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.GHR"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GIC"
+msgstr "तमिल"
+
+msgid "ISO_639-3.GIG"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.GIQ"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GIR"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GIU"
+msgstr "मलय"
+
+msgid "ISO_639-3.GIW"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GIX"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.GJM"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.GJN"
+msgstr "सोणा"
+
+msgid "ISO_639-3.GJR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GJU"
+msgstr "गुज़राती"
+
+msgid "ISO_639-3.GKE"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.GKN"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.GLE"
+msgstr "आईरिश"
+
+msgid "ISO_639-3.GLG"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.GLH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GLL"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.GMA"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.GMU"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.GMV"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.GNA"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.GNE"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GNH"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.GNM"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GNO"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GNQ"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.GNT"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GNW"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.GNZ"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GOF"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.GOQ"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.GOU"
+msgstr "टाटर"
+
+msgid "ISO_639-3.GOZ"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GPN"
+msgstr "थाई"
+
+msgid "ISO_639-3.GQU"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.GRG"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.GRI"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.GRJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GRN"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GRO"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GSW"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GUA"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.GUB"
+msgstr "गुज़राती"
+
+msgid "ISO_639-3.GUC"
+msgstr "नायरू"
+
+msgid "ISO_639-3.GUE"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GUJ"
+msgstr "गुज़राती"
+
+msgid "ISO_639-3.GUM"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GUR"
+msgstr "फिरोज़ी"
+
+msgid "ISO_639-3.GUW"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GVC"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GVE"
+msgstr "डच्"
+
+msgid "ISO_639-3.GVF"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.GVL"
+msgstr "मलय"
+
+msgid "ISO_639-3.GVM"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GVR"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.GVS"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GVY"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GWA"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.GWT"
+msgstr "गुज़राती"
+
+msgid "ISO_639-3.GWW"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.GWX"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GXX"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.GYB"
+msgstr "नायरू"
+
+msgid "ISO_639-3.GYE"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.GYF"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.GYL"
+msgstr "तमिल"
+
+msgid "ISO_639-3.GYR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.GZN"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.HAC"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.HAD"
+msgstr "टाटर"
+
+msgid "ISO_639-3.HAG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.HAH"
+msgstr "सोणा"
+
+msgid "ISO_639-3.HAK"
+msgstr "चीनी"
+
+msgid "ISO_639-3.HAL"
+msgstr "कातालान"
+
+msgid "ISO_639-3.HAM"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.HAN"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.HAP"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HAR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.HAS"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HAT"
+msgstr "सामोन"
+
+msgid "ISO_639-3.HAU"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HAV"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HAX"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HAY"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HBA"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HBB"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HBN"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.HBO"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.HBS"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.HBU"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HDN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HEA"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HEB"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.HEH"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.HHR"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.HHY"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HIA"
+msgstr "सामोन"
+
+msgid "ISO_639-3.HID"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HIF"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.HIG"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.HII"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.HIN"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.HIO"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.HJI"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.HKA"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.HKE"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.HLA"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.HLE"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HLT"
+msgstr "चीनी"
+
+msgid "ISO_639-3.HMA"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HME"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMI"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMJ"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.HMP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMR"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.HMS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HMU"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HMW"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.HMY"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HND"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HNI"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.HNO"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HNU"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.HOA"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HOE"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.HOJ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.HOM"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.HOW"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.HRE"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.HRO"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.HRU"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HRV"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.HRX"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.HRZ"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.HSB"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.HSN"
+msgstr "चीनी"
+
+msgid "ISO_639-3.HSS"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HTS"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HUB"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HUC"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HUD"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.HUF"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.HUJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.HUK"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.HUL"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HUM"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.HUN"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.HUQ"
+msgstr "टाटर"
+
+msgid "ISO_639-3.HUS"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.HUT"
+msgstr "होउसा"
+
+msgid "ISO_639-3.HWO"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.HYE"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.IAR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.IBL"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.IBY"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.IDB"
+msgstr "पुर्तुगी"
+
+msgid "ISO_639-3.IDR"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.IDS"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.IGL"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.IGN"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.IGS"
+msgstr "ईन्टरलिंगुआ"
+
+msgid "ISO_639-3.III"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.IJE"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.IJS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.IKL"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.IKR"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.IKS"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.IKU"
+msgstr "इनूकीटूत्"
+
+msgid "ISO_639-3.ILB"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.ILE"
+msgstr "ईन्टरलिंगुइ"
+
+msgid "ISO_639-3.ILI"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.ILM"
+msgstr "रुसी"
+
+msgid "ISO_639-3.IMA"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.IMS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.INB"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.IND"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.IPK"
+msgstr "इनुपियाक्"
+
+msgid "ISO_639-3.IRX"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.IRY"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.ISH"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-3.ISL"
+msgstr "आईस्लैंडिक्"
+
+msgid "ISO_639-3.ITA"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.ITD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ITE"
+msgstr "ईन्टरलिंगुइ"
+
+msgid "ISO_639-3.ITK"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.ITR"
+msgstr "ईन्टरलिंगुइ"
+
+msgid "ISO_639-3.ITV"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.ITY"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.IVB"
+msgstr "कातालान"
+
+msgid "ISO_639-3.IVV"
+msgstr "कातालान"
+
+msgid "ISO_639-3.IZH"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.JAF"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.JAN"
+msgstr "अरबी"
+
+msgid "ISO_639-3.JAQ"
+msgstr "मलय"
+
+msgid "ISO_639-3.JAT"
+msgstr "मराठी"
+
+msgid "ISO_639-3.JAU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.JAV"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.JAY"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.JBJ"
+msgstr "अरबी"
+
+msgid "ISO_639-3.JBK"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.JCT"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.JER"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.JGE"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.JHI"
+msgstr "थाई"
+
+msgid "ISO_639-3.JIO"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.JIV"
+msgstr "सोणा"
+
+msgid "ISO_639-3.JKR"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.JKU"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.JMB"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.JMN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.JMR"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.JNG"
+msgstr "सामोन"
+
+msgid "ISO_639-3.JNI"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.JNL"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.JNS"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.JOB"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.JOW"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.JPN"
+msgstr "जापानी"
+
+msgid "ISO_639-3.JRA"
+msgstr "मराठी"
+
+msgid "ISO_639-3.JUK"
+msgstr "जापानी"
+
+msgid "ISO_639-3.JUN"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.JUT"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.JVD"
+msgstr "थाई"
+
+msgid "ISO_639-3.JVN"
+msgstr "जावानीस"
+
+msgid "ISO_639-3.KAD"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KAF"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.KAG"
+msgstr "सामोन"
+
+msgid "ISO_639-3.KAK"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.KAN"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KAS"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KAT"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.KAX"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.KAZ"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KBA"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KBI"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.KBJ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.KBP"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KBQ"
+msgstr "सामोन"
+
+msgid "ISO_639-3.KBR"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KBS"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KBT"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.KBV"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.KBY"
+msgstr "मराठी"
+
+msgid "ISO_639-3.KBZ"
+msgstr "डच्"
+
+msgid "ISO_639-3.KCB"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KCC"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.KCE"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KCF"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.KCI"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.KCJ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KCK"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.KCO"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.KCP"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KCQ"
+msgstr "सामोन"
+
+msgid "ISO_639-3.KCR"
+msgstr "कातालान"
+
+msgid "ISO_639-3.KCS"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KCT"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.KCY"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KDE"
+msgstr "चीनी"
+
+msgid "ISO_639-3.KDG"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.KDN"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KDR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.KDU"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KDW"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KDY"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KED"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.KEH"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KEJ"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KEN"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KEQ"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KER"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KEY"
+msgstr "इनुपियाक्"
+
+msgid "ISO_639-3.KFA"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KFB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KFD"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.KFF"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KFG"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KFH"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KFI"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KFP"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KFR"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KFS"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.KFU"
+msgstr "टाटर"
+
+msgid "ISO_639-3.KFW"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.KFX"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.KFY"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.KGD"
+msgstr "कातालान"
+
+msgid "ISO_639-3.KGE"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KGL"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.KGN"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.KGP"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.KHA"
+msgstr "थाई"
+
+msgid "ISO_639-3.KHE"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KHF"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KHG"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.KHK"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KHP"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.KHR"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.KHS"
+msgstr "होउसा"
+
+msgid "ISO_639-3.KHT"
+msgstr "थाई"
+
+msgid "ISO_639-3.KHV"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KHX"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KIB"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.KIE"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.KIH"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KIL"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.KIM"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.KIN"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.KIR"
+msgstr "किरघिज़"
+
+msgid "ISO_639-3.KIS"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KIW"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KIX"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.KJA"
+msgstr "मलय"
+
+msgid "ISO_639-3.KJC"
+msgstr "कातालान"
+
+msgid "ISO_639-3.KJD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KJG"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KJQ"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KJR"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KJX"
+msgstr "सामोन"
+
+msgid "ISO_639-3.KKA"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KKF"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.KKI"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.KKJ"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KKK"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KKQ"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.KKT"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KKU"
+msgstr "तमिल"
+
+msgid "ISO_639-3.KKV"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KKZ"
+msgstr "होउसा"
+
+msgid "ISO_639-3.KLG"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.KLJ"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KLL"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.KLM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.KLP"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KLS"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KLW"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.KLY"
+msgstr "मलय"
+
+msgid "ISO_639-3.KMA"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KMC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KMD"
+msgstr "सामोन"
+
+msgid "ISO_639-3.KMH"
+msgstr "मलय"
+
+msgid "ISO_639-3.KML"
+msgstr "सामोन"
+
+msgid "ISO_639-3.KMR"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KMU"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KMY"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.KND"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KNE"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KNF"
+msgstr "मलय"
+
+msgid "ISO_639-3.KNI"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KNJ"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KNK"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KNM"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KNP"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.KNR"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KOC"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.KOK"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KOO"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KOR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KOT"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.KOU"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KOZ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KPD"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.KPK"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KPL"
+msgstr "मलय"
+
+msgid "ISO_639-3.KPR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KPS"
+msgstr "थाई"
+
+msgid "ISO_639-3.KPT"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KPY"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KQB"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KQE"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.KQG"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KQH"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KQM"
+msgstr "षोसा"
+
+msgid "ISO_639-3.KQN"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KQO"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KQQ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KQS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KQU"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.KQW"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KQY"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KQZ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KRA"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.KRE"
+msgstr "टाटर"
+
+msgid "ISO_639-3.KRJ"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.KRK"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KRL"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KRN"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.KRT"
+msgstr "नायरू"
+
+msgid "ISO_639-3.KRV"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KRW"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KSC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KSD"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KSE"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.KSI"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KSK"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KSL"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.KSN"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KSO"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KSP"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.KSR"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.KSS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KSX"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KSZ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KTA"
+msgstr "टाटर"
+
+msgid "ISO_639-3.KTD"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KTE"
+msgstr "नायरू"
+
+msgid "ISO_639-3.KTF"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KTH"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.KTK"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KTM"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KTS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KTV"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KUC"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.KUF"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.KUH"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KUJ"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KUN"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KUQ"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.KUR"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KUV"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KVC"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KVD"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.KVI"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.KVP"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KVV"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KVW"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.KWC"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.KWD"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.KWE"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.KWH"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KWJ"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.KWL"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.KWN"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.KWR"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.KWY"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.KWZ"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.KXA"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KXC"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.KXM"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KXN"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.KXP"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.KXW"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KXZ"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.KYG"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.KYL"
+msgstr "मलय"
+
+msgid "ISO_639-3.KYM"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.KYN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.KYP"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.KYQ"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.KYS"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.KYU"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KYW"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.KYY"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.KZA"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.KZD"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.KZE"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KZG"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KZK"
+msgstr "नायरू"
+
+msgid "ISO_639-3.KZM"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.KZN"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.KZQ"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.KZR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.KZX"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.LAA"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.LAB"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LAF"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LAG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.LAL"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LAN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.LAO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LAR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.LAT"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LAV"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LAX"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.LAY"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.LBC"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LBE"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LBF"
+msgstr "फिनिश"
+
+msgid "ISO_639-3.LBG"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LBI"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LBJ"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.LBK"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.LBN"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LBO"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LBT"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LBW"
+msgstr "थाई"
+
+msgid "ISO_639-3.LCL"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.LCM"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.LCP"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.LDI"
+msgstr "टाटर"
+
+msgid "ISO_639-3.LDL"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LDM"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LDO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LDP"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.LEJ"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LEM"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.LEP"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.LEX"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.LFN"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LGA"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LGG"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.LGK"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LGL"
+msgstr "मलय"
+
+msgid "ISO_639-3.LGR"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.LHH"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.LHN"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LHT"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.LIE"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LIJ"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LIM"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LIN"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LIR"
+msgstr "अंग्रेजी"
+
+msgid "ISO_639-3.LIT"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LJE"
+msgstr "तमिल"
+
+msgid "ISO_639-3.LJI"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LJP"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.LJW"
+msgstr "अरबी"
+
+msgid "ISO_639-3.LKB"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.LKC"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.LKD"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LKI"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LKJ"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.LKM"
+msgstr "मलय"
+
+msgid "ISO_639-3.LKN"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LKO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LKS"
+msgstr "षोसा"
+
+msgid "ISO_639-3.LKT"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LKU"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.LLB"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.LLD"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LLH"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LLL"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LLO"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.LLP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.LLU"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LLX"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LMB"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.LMC"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LMG"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LMK"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LML"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.LMY"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LMZ"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.LNB"
+msgstr "मलय"
+
+msgid "ISO_639-3.LNH"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LNI"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LNM"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LNS"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LNU"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.LOC"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.LOE"
+msgstr "कातालान"
+
+msgid "ISO_639-3.LOH"
+msgstr "नायरू"
+
+msgid "ISO_639-3.LOJ"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LOO"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.LOQ"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LPN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.LRA"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.LRC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.LRE"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LRI"
+msgstr "मराठी"
+
+msgid "ISO_639-3.LRL"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.LRM"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.LRN"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.LRO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.LRR"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.LRZ"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.LSD"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LSH"
+msgstr "आईरिश"
+
+msgid "ISO_639-3.LSI"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.LSM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LSS"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LTG"
+msgstr "कातालान"
+
+msgid "ISO_639-3.LTI"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.LTN"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LTO"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.LTS"
+msgstr "सोणा"
+
+msgid "ISO_639-3.LTU"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LUC"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LUD"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LUF"
+msgstr "होउसा"
+
+msgid "ISO_639-3.LUR"
+msgstr "नायरू"
+
+msgid "ISO_639-3.LUV"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LUZ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.LVS"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.LWG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.LWH"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.LWM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.LYA"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.LYG"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.LYN"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.LZH"
+msgstr "चीनी"
+
+msgid "ISO_639-3.LZN"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.LZZ"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.MAF"
+msgstr "मलय"
+
+msgid "ISO_639-3.MAH"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MAL"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MAM"
+msgstr "मलय"
+
+msgid "ISO_639-3.MAR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MAW"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MAZ"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.MBE"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MBF"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MBK"
+msgstr "मलय"
+
+msgid "ISO_639-3.MBP"
+msgstr "मलय"
+
+msgid "ISO_639-3.MBQ"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MBS"
+msgstr "मलय"
+
+msgid "ISO_639-3.MBW"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MBY"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MCA"
+msgstr "मलय"
+
+msgid "ISO_639-3.MCI"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MCN"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.MCP"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MCS"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MCT"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MCY"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MCZ"
+msgstr "मलय"
+
+msgid "ISO_639-3.MDB"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MDG"
+msgstr "मलय"
+
+msgid "ISO_639-3.MDH"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MDN"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MDP"
+msgstr "मलय"
+
+msgid "ISO_639-3.MDW"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MDX"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.MEC"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MED"
+msgstr "मलय"
+
+msgid "ISO_639-3.MEH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MEL"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.MEM"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.MET"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MEV"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MEW"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MFA"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MFB"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.MFE"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MFF"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.MFH"
+msgstr "कातालान"
+
+msgid "ISO_639-3.MFK"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.MFP"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MFQ"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.MFR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MFY"
+msgstr "मलय"
+
+msgid "ISO_639-3.MFZ"
+msgstr "कातालान"
+
+msgid "ISO_639-3.MGB"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MGD"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MGE"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MGF"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MGG"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MGJ"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.MGK"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MGP"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.MGQ"
+msgstr "मलय"
+
+msgid "ISO_639-3.MGT"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MGU"
+msgstr "तमिल"
+
+msgid "ISO_639-3.MGV"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MHF"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MHG"
+msgstr "नायरू"
+
+msgid "ISO_639-3.MHI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MHJ"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MHK"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.MHP"
+msgstr "चीनी"
+
+msgid "ISO_639-3.MHQ"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MHS"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.MHX"
+msgstr "नायरू"
+
+msgid "ISO_639-3.MHY"
+msgstr "मलय"
+
+msgid "ISO_639-3.MHZ"
+msgstr "टोंगा"
+
+msgid "ISO_639-3.MIA"
+msgstr "तमिल"
+
+msgid "ISO_639-3.MIC"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MID"
+msgstr "आईस्लैंडिक्"
+
+msgid "ISO_639-3.MIJ"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.MIT"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MJB"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MJJ"
+msgstr "मलय"
+
+msgid "ISO_639-3.MJK"
+msgstr "टाटर"
+
+msgid "ISO_639-3.MJP"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MJQ"
+msgstr "मलय"
+
+msgid "ISO_639-3.MJR"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.MJV"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MJW"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.MJX"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MJY"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.MJZ"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MKA"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.MKB"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MKD"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MKE"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MKF"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.MKI"
+msgstr "थाई"
+
+msgid "ISO_639-3.MKJ"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MKR"
+msgstr "मलय"
+
+msgid "ISO_639-3.MKV"
+msgstr "मलय"
+
+msgid "ISO_639-3.MKY"
+msgstr "सामोन"
+
+msgid "ISO_639-3.MLA"
+msgstr "मलय"
+
+msgid "ISO_639-3.MLC"
+msgstr "सामोन"
+
+msgid "ISO_639-3.MLF"
+msgstr "मलय"
+
+msgid "ISO_639-3.MLG"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MLK"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.MLL"
+msgstr "मलय"
+
+msgid "ISO_639-3.MLM"
+msgstr "मलय"
+
+msgid "ISO_639-3.MLN"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MLQ"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MLT"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MLV"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.MLX"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MLZ"
+msgstr "मलय"
+
+msgid "ISO_639-3.MMA"
+msgstr "मलय"
+
+msgid "ISO_639-3.MMD"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MME"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MMI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MMM"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MMN"
+msgstr "सामोन"
+
+msgid "ISO_639-3.MMO"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MMP"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.MMQ"
+msgstr "होउसा"
+
+msgid "ISO_639-3.MMR"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MMT"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MMU"
+msgstr "मलय"
+
+msgid "ISO_639-3.MMV"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MMX"
+msgstr "मलय"
+
+msgid "ISO_639-3.MMZ"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MNA"
+msgstr "मलय"
+
+msgid "ISO_639-3.MNF"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.MNI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MNJ"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.MNL"
+msgstr "तमिल"
+
+msgid "ISO_639-3.MNM"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MNN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MNP"
+msgstr "चीनी"
+
+msgid "ISO_639-3.MNS"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.MNY"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MNZ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MOA"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.MOD"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.MOG"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MOI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MOK"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MOM"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MON"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MOR"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MOX"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MOZ"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.MPC"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MPD"
+msgstr "चीनी"
+
+msgid "ISO_639-3.MPG"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MPH"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MPN"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.MPQ"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MPT"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.MPV"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.MPW"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MPY"
+msgstr "मलय"
+
+msgid "ISO_639-3.MQA"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.MQC"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MQE"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MQI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MQM"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MQP"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MQR"
+msgstr "चीनी"
+
+msgid "ISO_639-3.MQS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MQU"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MQY"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MRA"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MRB"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MRC"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MRD"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MRG"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MRH"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MRI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MRJ"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MRP"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.MRQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MRS"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MRX"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MRY"
+msgstr "मलय"
+
+msgid "ISO_639-3.MRZ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MSC"
+msgstr "मलय"
+
+msgid "ISO_639-3.MSG"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MSH"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MSL"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.MSS"
+msgstr "होउसा"
+
+msgid "ISO_639-3.MSV"
+msgstr "मलय"
+
+msgid "ISO_639-3.MTC"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.MTD"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MTE"
+msgstr "टोंगा"
+
+msgid "ISO_639-3.MTJ"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.MTL"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MTM"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MTN"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.MTR"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MTS"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.MTW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MTY"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.MUA"
+msgstr "सुन्दानीस"
+
+msgid "ISO_639-3.MUC"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.MUM"
+msgstr "मलय"
+
+msgid "ISO_639-3.MUP"
+msgstr "मलय"
+
+msgid "ISO_639-3.MUT"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.MUX"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.MUZ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MVA"
+msgstr "मलय"
+
+msgid "ISO_639-3.MVD"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MVF"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MVQ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MVR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MVS"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MVU"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MVZ"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.MWI"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.MWL"
+msgstr "चीनी"
+
+msgid "ISO_639-3.MWN"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.MWQ"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.MWX"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MWZ"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.MXD"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.MXF"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MXG"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.MXI"
+msgstr "अरबी"
+
+msgid "ISO_639-3.MXN"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.MXR"
+msgstr "रुसी"
+
+msgid "ISO_639-3.MXW"
+msgstr "सामोन"
+
+msgid "ISO_639-3.MXX"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.MXY"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.MYA"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.MYB"
+msgstr "मलय"
+
+msgid "ISO_639-3.MYG"
+msgstr "टाटर"
+
+msgid "ISO_639-3.MYH"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MYJ"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.MYL"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.MYS"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.MYX"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.MYY"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.MZD"
+msgstr "मलय"
+
+msgid "ISO_639-3.MZJ"
+msgstr "मलय"
+
+msgid "ISO_639-3.MZP"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.MZS"
+msgstr "जावानीस"
+
+msgid "ISO_639-3.MZV"
+msgstr "मलय"
+
+msgid "ISO_639-3.MZX"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.NAA"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.NAB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NAC"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NAJ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NAL"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NAN"
+msgstr "चीनी"
+
+msgid "ISO_639-3.NAU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NAW"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NBC"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.NBJ"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.NBN"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.NBU"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.NBW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NCB"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.NCC"
+msgstr "सोणा"
+
+msgid "ISO_639-3.NCH"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.NCJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NCN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NDA"
+msgstr "होउसा"
+
+msgid "ISO_639-3.NDC"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NDF"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.NDH"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NDL"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.NDN"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.NDS"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.NDV"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.NEF"
+msgstr "वियेतनामी"
+
+msgid "ISO_639-3.NEG"
+msgstr "नार्वेजीयन्"
+
+msgid "ISO_639-3.NEM"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NEP"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.NEQ"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.NEW"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.NFD"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.NGB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NGP"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.NGY"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.NHA"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NHB"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.NHE"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NHH"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.NHO"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.NHR"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NHW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NHY"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NIB"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.NIE"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NIJ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NIK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NIM"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.NIQ"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.NIT"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NIX"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.NIZ"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.NJI"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.NJM"
+msgstr "कातालान"
+
+msgid "ISO_639-3.NJN"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.NJX"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.NJZ"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.NKB"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.NKD"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.NKG"
+msgstr "नार्वेजीयन्"
+
+msgid "ISO_639-3.NKI"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.NKN"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.NKU"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.NKW"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NKZ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NLC"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.NLD"
+msgstr "डच्"
+
+msgid "ISO_639-3.NLG"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.NLI"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.NLJ"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NLL"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NLQ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NLW"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.NLX"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NMA"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.NMB"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.NMD"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NMF"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.NMG"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.NMK"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NML"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NMM"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.NMP"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NMR"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.NNG"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.NNL"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NNM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.NNR"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NNU"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.NNW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NOB"
+msgstr "नार्वेजीयन्"
+
+msgid "ISO_639-3.NOD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NOI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.NOJ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NOL"
+msgstr "थाई"
+
+msgid "ISO_639-3.NON"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.NOR"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.NOZ"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NPA"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NPI"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.NPN"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.NPS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.NPY"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NQG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NQQ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NQY"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NRB"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NRC"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.NRE"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NRG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.NRK"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.NRL"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NRM"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.NRN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NRT"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NRU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NRX"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NRZ"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.NSA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.NSD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NSE"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.NSF"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NSG"
+msgstr "होउसा"
+
+msgid "ISO_639-3.NSS"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NSV"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NSW"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NSX"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.NSY"
+msgstr "होउसा"
+
+msgid "ISO_639-3.NTD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NTG"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.NTP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NTX"
+msgstr "सामोन"
+
+msgid "ISO_639-3.NTY"
+msgstr "मराठी"
+
+msgid "ISO_639-3.NUA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.NUD"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.NUF"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NUG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.NUS"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NUV"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.NWI"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.NWR"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NXI"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NXQ"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NXU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NXX"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NYA"
+msgstr "नायरू"
+
+msgid "ISO_639-3.NYB"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.NYC"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.NYF"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.NYH"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.NYR"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.NYX"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.OAA"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OAC"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OBK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.OBR"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.OBT"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.OCH"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ODA"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.ODT"
+msgstr "डच्"
+
+msgid "ISO_639-3.OFS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.OGB"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.OGE"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-3.OGO"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.OHU"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.OJB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.OJP"
+msgstr "जापानी"
+
+msgid "ISO_639-3.OJW"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.OKB"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OKG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.OKK"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.OKL"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.OKR"
+msgstr "किरघिज़"
+
+msgid "ISO_639-3.OKV"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.OLD"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.OLM"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OLR"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OLT"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.OMK"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OML"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OMN"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.OMP"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.OMR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.OMW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ONB"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.ONP"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.ONR"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ONW"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.OOS"
+msgstr "रुसी"
+
+msgid "ISO_639-3.OPT"
+msgstr "टाटर"
+
+msgid "ISO_639-3.ORA"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ORC"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ORG"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.ORI"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.ORM"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ORO"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ORR"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ORT"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.ORV"
+msgstr "रुसी"
+
+msgid "ISO_639-3.ORX"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ORY"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.ORZ"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OSC"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.OSO"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OSP"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.OSS"
+msgstr "रुसी"
+
+msgid "ISO_639-3.OSU"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.OSX"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.OTB"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.OTK"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.OTR"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.OTY"
+msgstr "तमिल"
+
+msgid "ISO_639-3.OUI"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.OWL"
+msgstr "वेल्श"
+
+msgid "ISO_639-3.OYD"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.PAH"
+msgstr "थाई"
+
+msgid "ISO_639-3.PAO"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PAQ"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.PAS"
+msgstr "जापानी"
+
+msgid "ISO_639-3.PAT"
+msgstr "कातालान"
+
+msgid "ISO_639-3.PAY"
+msgstr "चेक"
+
+msgid "ISO_639-3.PBP"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.PBT"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PBU"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PCF"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.PCK"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.PCL"
+msgstr "मराठी"
+
+msgid "ISO_639-3.PEA"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.PEE"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.PEF"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PEG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.PEH"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.PEJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PEK"
+msgstr "फ्रेंच"
+
+msgid "ISO_639-3.PEQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PES"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.PFL"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.PGG"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.PGN"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.PGZ"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.PHH"
+msgstr "थाई"
+
+msgid "ISO_639-3.PHT"
+msgstr "थाई"
+
+msgid "ISO_639-3.PIC"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.PII"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.PIM"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.PIS"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.PKB"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.PKT"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.PLA"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.PLD"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.PLJ"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.PLP"
+msgstr "मलय"
+
+msgid "ISO_639-3.PLT"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.PLZ"
+msgstr "कातालान"
+
+msgid "ISO_639-3.PMF"
+msgstr "सामोन"
+
+msgid "ISO_639-3.PMI"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PMJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PML"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.PMM"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.PMQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PMS"
+msgstr "वियेतनामी"
+
+msgid "ISO_639-3.PMT"
+msgstr "सामोन"
+
+msgid "ISO_639-3.PMY"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.PMZ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PNB"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.PNE"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.PNJ"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.PNK"
+msgstr "नायरू"
+
+msgid "ISO_639-3.PNL"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.PNS"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.POC"
+msgstr "सोणा"
+
+msgid "ISO_639-3.POL"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.POM"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.POR"
+msgstr "पुर्तुगी"
+
+msgid "ISO_639-3.POX"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.PPQ"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.PRC"
+msgstr "मराठी"
+
+msgid "ISO_639-3.PRF"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.PRG"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.PRM"
+msgstr "किरघिज़"
+
+msgid "ISO_639-3.PRP"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.PRT"
+msgstr "थाई"
+
+msgid "ISO_639-3.PRU"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.PSH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PSI"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PSM"
+msgstr "होउसा"
+
+msgid "ISO_639-3.PTN"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.PTU"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.PTY"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.PUB"
+msgstr "नायरू"
+
+msgid "ISO_639-3.PUP"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.PUT"
+msgstr "डच्"
+
+msgid "ISO_639-3.PUW"
+msgstr "पुर्तुगी"
+
+msgid "ISO_639-3.PUX"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.PWB"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.PWN"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.PWO"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.PWW"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.PZN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.QUC"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.QUE"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QUP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.QUX"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QUY"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QUZ"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QVP"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QVY"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QVZ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.QXC"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QXP"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QXS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.QYA"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.QYP"
+msgstr "मराठी"
+
+msgid "ISO_639-3.RAA"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.RAF"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.RAG"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.RAI"
+msgstr "सामोन"
+
+msgid "ISO_639-3.RAJ"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.RAL"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.RAM"
+msgstr "कातालान"
+
+msgid "ISO_639-3.RAN"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RAO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.RAQ"
+msgstr "सामोन"
+
+msgid "ISO_639-3.RAR"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.RAS"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.RAV"
+msgstr "सामोन"
+
+msgid "ISO_639-3.RAX"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.RBK"
+msgstr "सामोन"
+
+msgid "ISO_639-3.RDB"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.REI"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.REL"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.REN"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.RES"
+msgstr "वेल्श"
+
+msgid "ISO_639-3.RGA"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.RGN"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RGS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.RHG"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.RIM"
+msgstr "नायरू"
+
+msgid "ISO_639-3.RIN"
+msgstr "नायरू"
+
+msgid "ISO_639-3.RIR"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.RIU"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.RJI"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.RJS"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.RKI"
+msgstr "चीनी"
+
+msgid "ISO_639-3.RKM"
+msgstr "मराठी"
+
+msgid "ISO_639-3.RKT"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.RKW"
+msgstr "अरबी"
+
+msgid "ISO_639-3.RMA"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMG"
+msgstr "नार्वेजीयन्"
+
+msgid "ISO_639-3.RMH"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.RML"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMM"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMO"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMT"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.RMU"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMV"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMW"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMX"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMY"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RMZ"
+msgstr "मराठी"
+
+msgid "ISO_639-3.RND"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.RNG"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.RNL"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.RNR"
+msgstr "नायरू"
+
+msgid "ISO_639-3.ROE"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.ROF"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.ROG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ROH"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.ROL"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RON"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.ROR"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.ROU"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.RPT"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.RSB"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RSM"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.RTC"
+msgstr "चीनी"
+
+msgid "ISO_639-3.RTH"
+msgstr "कातालान"
+
+msgid "ISO_639-3.RTM"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RTS"
+msgstr "बर्लिस"
+
+msgid "ISO_639-3.RTW"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.RUC"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.RUE"
+msgstr "रुसी"
+
+msgid "ISO_639-3.RUG"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RUK"
+msgstr "चीनी"
+
+msgid "ISO_639-3.RUN"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.RUO"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RUP"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RUQ"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.RUS"
+msgstr "रुसी"
+
+msgid "ISO_639-3.RXD"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.RXW"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.RYN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SAA"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SAC"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.SAE"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SAG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SAK"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SAM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SAN"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SAO"
+msgstr "होउसा"
+
+msgid "ISO_639-3.SAQ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.SAU"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SAW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SAY"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SBD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SBE"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SBI"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SBK"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SBL"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SBM"
+msgstr "कातालान"
+
+msgid "ISO_639-3.SBN"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SBS"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SBV"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SBX"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SBY"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SCE"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.SCG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SCH"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SCK"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SCL"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SCV"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SCW"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SDF"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SDG"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SDH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SDJ"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.SDK"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.SDR"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SDU"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.SEA"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SED"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SEH"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SEI"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SEK"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.SEO"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.SER"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SET"
+msgstr "स्लोवेनियन्"
+
+msgid "ISO_639-3.SEZ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SFW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SGB"
+msgstr "मराठी"
+
+msgid "ISO_639-3.SGE"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.SGK"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SGM"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.SGP"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SGR"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SGS"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SGU"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.SGY"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SHC"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SHD"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SHE"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SHG"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SHH"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SHJ"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SHO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SHQ"
+msgstr "मलय"
+
+msgid "ISO_639-3.SHR"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SHU"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.SHV"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SHW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SHY"
+msgstr "थाई"
+
+msgid "ISO_639-3.SIB"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SIF"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SIK"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.SIN"
+msgstr "सुन्दानीस"
+
+msgid "ISO_639-3.SIQ"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SIR"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SIW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SIY"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SIZ"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SJL"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.SJN"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SJP"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SJW"
+msgstr "सुन्दानीस"
+
+msgid "ISO_639-3.SKB"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SKC"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.SKD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SKG"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.SKK"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SKM"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.SKP"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SKR"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SKS"
+msgstr "मलय"
+
+msgid "ISO_639-3.SKU"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SLE"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SLI"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SLK"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SLL"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SLN"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.SLR"
+msgstr "टाटर"
+
+msgid "ISO_639-3.SLT"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SLU"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.SLV"
+msgstr "स्लोवेनियन्"
+
+msgid "ISO_639-3.SLZ"
+msgstr "मलय"
+
+msgid "ISO_639-3.SMA"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SMB"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.SMC"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SMD"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SME"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SMG"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SMH"
+msgstr "तमिल"
+
+msgid "ISO_639-3.SMM"
+msgstr "रुसी"
+
+msgid "ISO_639-3.SMN"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SMO"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SMP"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SMQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SMU"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SMX"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SMY"
+msgstr "स्लोवेनियन्"
+
+msgid "ISO_639-3.SNA"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SND"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.SNH"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SNI"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SNL"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SNM"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SNN"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SNO"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.SNP"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SNR"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SNU"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.SNV"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SNX"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SNZ"
+msgstr "नायरू"
+
+msgid "ISO_639-3.SOA"
+msgstr "थाई"
+
+msgid "ISO_639-3.SOD"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SOI"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SOJ"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SOL"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.SOM"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SOO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SOP"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SOQ"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.SOR"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SOT"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SOU"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SOW"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SOX"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SOZ"
+msgstr "तमिल"
+
+msgid "ISO_639-3.SPA"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.SPB"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.SPG"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SPI"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SPK"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SPO"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SPS"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SPU"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SPV"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SQH"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SQI"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.SQM"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SQR"
+msgstr "अरबी"
+
+msgid "ISO_639-3.SQU"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.SRB"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SRE"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SRF"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.SRH"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.SRI"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SRM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SRN"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.SRP"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SRS"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SRT"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SRV"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SRW"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SRY"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SRZ"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.SSB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SSE"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.SSF"
+msgstr "थाई"
+
+msgid "ISO_639-3.SSG"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SSH"
+msgstr "अरबी"
+
+msgid "ISO_639-3.SSI"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SSJ"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.SSK"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SSL"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.SSN"
+msgstr "टाटर"
+
+msgid "ISO_639-3.SSO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SSQ"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SSW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SSY"
+msgstr "सोणा"
+
+msgid "ISO_639-3.STB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.STG"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.STK"
+msgstr "अरबी"
+
+msgid "ISO_639-3.STM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.STP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.STU"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SUC"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.SUE"
+msgstr "सोणा"
+
+msgid "ISO_639-3.SUG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SUN"
+msgstr "सुन्दानीस"
+
+msgid "ISO_639-3.SVA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SVE"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SVM"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SVX"
+msgstr "स्लोवेनियन्"
+
+msgid "ISO_639-3.SWB"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.SWE"
+msgstr "स्विडिश"
+
+msgid "ISO_639-3.SWF"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.SWG"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SWK"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.SWM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SWO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SWS"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.SWT"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.SWV"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SWW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.SWY"
+msgstr "नायरू"
+
+msgid "ISO_639-3.SXB"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.SXC"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.SXE"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.SXK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.SXL"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SXN"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SXR"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SYA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SYB"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.SYM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SYX"
+msgstr "सामोन"
+
+msgid "ISO_639-3.SZA"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.SZL"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.SZN"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-3.SZP"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.SZW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.TAA"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TAD"
+msgstr "होउसा"
+
+msgid "ISO_639-3.TAE"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.TAG"
+msgstr "थाई"
+
+msgid "ISO_639-3.TAK"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TAL"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TAM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TAN"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TAO"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TAT"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TAU"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TAW"
+msgstr "थाई"
+
+msgid "ISO_639-3.TAX"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TBA"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.TBC"
+msgstr "थाई"
+
+msgid "ISO_639-3.TBE"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TBG"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.TBJ"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TBO"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TBP"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TBS"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TBU"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TBX"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.TBY"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TCD"
+msgstr "थाई"
+
+msgid "ISO_639-3.TCE"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TCG"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TCO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.TCP"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.TCU"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TCX"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TCY"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.TCZ"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.TDA"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TDG"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.TDH"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TDI"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.TDJ"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.TDM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TDN"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TDQ"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TEC"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TEK"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TEL"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TEO"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TEQ"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TEY"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TFN"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TFO"
+msgstr "अफ़ार"
+
+msgid "ISO_639-3.TFR"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TGB"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TGC"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.TGJ"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.TGK"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.TGL"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TGN"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TGO"
+msgstr "सुन्दानीस"
+
+msgid "ISO_639-3.TGP"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.TGQ"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.TGR"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TGU"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TGX"
+msgstr "डैनीश"
+
+msgid "ISO_639-3.TGZ"
+msgstr "कातालान"
+
+msgid "ISO_639-3.THA"
+msgstr "थाई"
+
+msgid "ISO_639-3.THE"
+msgstr "चीनी"
+
+msgid "ISO_639-3.THF"
+msgstr "थाई"
+
+msgid "ISO_639-3.THH"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.THN"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.THS"
+msgstr "थाई"
+
+msgid "ISO_639-3.THT"
+msgstr "टाटर"
+
+msgid "ISO_639-3.THU"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.THW"
+msgstr "थाई"
+
+msgid "ISO_639-3.THY"
+msgstr "थाई"
+
+msgid "ISO_639-3.TIC"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.TIF"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TII"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TIJ"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TIK"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.TIM"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TIN"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.TIP"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TIR"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.TIT"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TIU"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.TIW"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.TIX"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TJA"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.TJI"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TJL"
+msgstr "थाई"
+
+msgid "ISO_639-3.TJS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TKB"
+msgstr "होउसा"
+
+msgid "ISO_639-3.TKE"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TKG"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.TKS"
+msgstr "राजेस्थानी"
+
+msgid "ISO_639-3.TKW"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TKX"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.TKZ"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.TLA"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TLG"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TLH"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.TLK"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TLL"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TLO"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TLR"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.TLS"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TLT"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.TLU"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.TMC"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.TMD"
+msgstr "होउसा"
+
+msgid "ISO_639-3.TMJ"
+msgstr "सामोन"
+
+msgid "ISO_639-3.TMK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TMN"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.TMQ"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TMW"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.TMY"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TNA"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TNB"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TNG"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TNH"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.TNI"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TNK"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.TNM"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TNN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TNO"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.TNQ"
+msgstr "थाई"
+
+msgid "ISO_639-3.TNW"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TNX"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TNY"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TOB"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.TOD"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TOH"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TON"
+msgstr "टोंगा"
+
+msgid "ISO_639-3.TOX"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.TPA"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TPF"
+msgstr "थाई"
+
+msgid "ISO_639-3.TPM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TPU"
+msgstr "सामोन"
+
+msgid "ISO_639-3.TPV"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TPY"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TQL"
+msgstr "नेपाली"
+
+msgid "ISO_639-3.TQQ"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.TQR"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TQT"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.TQW"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TRA"
+msgstr "किरघिज़"
+
+msgid "ISO_639-3.TRD"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TRE"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.TRH"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TRJ"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TRM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TRR"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.TRW"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.TRY"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TSA"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TSB"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TSC"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TSD"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-3.TSH"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TSJ"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TSN"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TSO"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TSP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TSU"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TSV"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TSZ"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.TTB"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.TTG"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TTI"
+msgstr "थाई"
+
+msgid "ISO_639-3.TTM"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TTN"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.TTR"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.TTS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TTV"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.TTW"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TUG"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.TUH"
+msgstr "तमिल"
+
+msgid "ISO_639-3.TUI"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TUJ"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TUK"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TUQ"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.TUR"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TUV"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TUY"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TUZ"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-3.TVK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TVN"
+msgstr "सामोन"
+
+msgid "ISO_639-3.TVS"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TVU"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.TVW"
+msgstr "सोणा"
+
+msgid "ISO_639-3.TWA"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TWB"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TWE"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.TWF"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TWI"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.TWL"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TWM"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TWN"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.TWO"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TWQ"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.TWR"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.TWU"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.TWW"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.TWY"
+msgstr "सामोन"
+
+msgid "ISO_639-3.TXA"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.TXB"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.TXH"
+msgstr "थाई"
+
+msgid "ISO_639-3.TXN"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.TXQ"
+msgstr "ट्वी"
+
+msgid "ISO_639-3.TXR"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-3.TXS"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.TXX"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TXY"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.TYA"
+msgstr "टाटर"
+
+msgid "ISO_639-3.TYE"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.TYJ"
+msgstr "थाई"
+
+msgid "ISO_639-3.TYL"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.TYN"
+msgstr "सोमाली"
+
+msgid "ISO_639-3.TZH"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.TZJ"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TZL"
+msgstr "रुसी"
+
+msgid "ISO_639-3.TZN"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.TZO"
+msgstr "थाई"
+
+msgid "ISO_639-3.TZX"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.UAN"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.UBA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.UBR"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.UBY"
+msgstr "उज़बेक्"
+
+msgid "ISO_639-3.UDG"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.UDJ"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.UDM"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.UDU"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.UHA"
+msgstr "थाई"
+
+msgid "ISO_639-3.UHN"
+msgstr "तमिल"
+
+msgid "ISO_639-3.UIG"
+msgstr "उईघुर"
+
+msgid "ISO_639-3.UKA"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.UKR"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.ULI"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.ULK"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.ULW"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.UMC"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.UMM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.UMN"
+msgstr "सामोन"
+
+msgid "ISO_639-3.UNM"
+msgstr "तमिल"
+
+msgid "ISO_639-3.UNN"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.UNR"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.UNU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.UNX"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.URA"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.URC"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.URD"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.URE"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.URF"
+msgstr "मराठी"
+
+msgid "ISO_639-3.URG"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.URM"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.URN"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.URT"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.URU"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.URV"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.URX"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.URY"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.USP"
+msgstr "एस्पेरान्तो"
+
+msgid "ISO_639-3.UTP"
+msgstr "टोंगा"
+
+msgid "ISO_639-3.UUM"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-3.UZB"
+msgstr "उज़बेक्"
+
+msgid "ISO_639-3.UZN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.UZS"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.VAG"
+msgstr "मलय"
+
+msgid "ISO_639-3.VAN"
+msgstr "सामोन"
+
+msgid "ISO_639-3.VAO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.VAV"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.VBB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.VBK"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.VEC"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.VIE"
+msgstr "वियेतनामी"
+
+msgid "ISO_639-3.VKA"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.VKK"
+msgstr "नायरू"
+
+msgid "ISO_639-3.VKM"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.VKO"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.VMA"
+msgstr "मराठी"
+
+msgid "ISO_639-3.VMB"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.VMD"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.VME"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.VMG"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.VMH"
+msgstr "मराठी"
+
+msgid "ISO_639-3.VML"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.VNK"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.VRA"
+msgstr "सामोन"
+
+msgid "ISO_639-3.VRS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.WAA"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.WAE"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.WAI"
+msgstr "फिरोज़ी"
+
+msgid "ISO_639-3.WAL"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.WAQ"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.WAT"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.WAX"
+msgstr "टाटर"
+
+msgid "ISO_639-3.WBF"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.WBH"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.WBI"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.WBT"
+msgstr "सामोन"
+
+msgid "ISO_639-3.WDK"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.WEH"
+msgstr "वेल्श"
+
+msgid "ISO_639-3.WET"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.WEU"
+msgstr "चीनी"
+
+msgid "ISO_639-3.WHG"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.WHU"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.WIB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.WII"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.WJI"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.WKA"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.WKB"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.WKL"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.WKU"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.WLA"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.WLE"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.WLG"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.WLI"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.WLO"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.WLS"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.WLW"
+msgstr "मलय"
+
+msgid "ISO_639-3.WLY"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.WMD"
+msgstr "मराठी"
+
+msgid "ISO_639-3.WMI"
+msgstr "तमिल"
+
+msgid "ISO_639-3.WMM"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-3.WMS"
+msgstr "सामोन"
+
+msgid "ISO_639-3.WMW"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.WMX"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-3.WNG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.WNN"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.WNO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.WNU"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.WOC"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.WOD"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.WOE"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-3.WOF"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.WOI"
+msgstr "सामोन"
+
+msgid "ISO_639-3.WOL"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.WON"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.WOO"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.WOR"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.WPC"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.WRS"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.WRU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.WRY"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.WSK"
+msgstr "बशख़िर"
+
+msgid "ISO_639-3.WSS"
+msgstr "होउसा"
+
+msgid "ISO_639-3.WSU"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.WTM"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-3.WUL"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.WUU"
+msgstr "चीनी"
+
+msgid "ISO_639-3.WXW"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.WYI"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-3.WYY"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.XAB"
+msgstr "तमिल"
+
+msgid "ISO_639-3.XAC"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.XAD"
+msgstr "अरबी"
+
+msgid "ISO_639-3.XAE"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.XAJ"
+msgstr "अरबी"
+
+msgid "ISO_639-3.XAL"
+msgstr "मलय"
+
+msgid "ISO_639-3.XAQ"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.XAR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.XBC"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.XBE"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-3.XBG"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.XBJ"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.XBM"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-3.XBN"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.XBO"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.XBR"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.XBY"
+msgstr "कातालान"
+
+msgid "ISO_639-3.XCL"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.XCO"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.XCR"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.XCU"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.XDC"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.XDY"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.XED"
+msgstr "हिंदी"
+
+msgid "ISO_639-3.XFA"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.XGA"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.XGD"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.XGG"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.XGI"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.XGL"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-3.XGM"
+msgstr "सामोन"
+
+msgid "ISO_639-3.XGR"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.XGU"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.XHA"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.XHE"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.XHO"
+msgstr "षोसा"
+
+msgid "ISO_639-3.XHR"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.XHU"
+msgstr "हंगेरी"
+
+msgid "ISO_639-3.XIB"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.XII"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.XIL"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.XIR"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-3.XIS"
+msgstr "षोसा"
+
+msgid "ISO_639-3.XJB"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.XJT"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.XKB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.XKE"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-3.XKF"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.XKQ"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.XKU"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.XKX"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.XKY"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.XLC"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.XLD"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.XLE"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.XLI"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.XLN"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.XLS"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-3.XMB"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.XME"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.XMF"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.XMJ"
+msgstr "मराठी"
+
+msgid "ISO_639-3.XMK"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.XMM"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.XMO"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.XMT"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.XMW"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.XNG"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.XNI"
+msgstr "नायरू"
+
+msgid "ISO_639-3.XNK"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.XNN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.XNR"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.XNS"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.XNT"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.XOD"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.XOG"
+msgstr "सोणा"
+
+msgid "ISO_639-3.XON"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.XOR"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.XOW"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.XPA"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.XPG"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.XPI"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.XPR"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.XPS"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-3.XPT"
+msgstr "आयमारा"
+
+msgid "ISO_639-3.XPU"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.XQA"
+msgstr "बिहारी"
+
+msgid "ISO_639-3.XQT"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.XRG"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-3.XRM"
+msgstr "अरबी"
+
+msgid "ISO_639-3.XRN"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.XRQ"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.XRU"
+msgstr "मराठी"
+
+msgid "ISO_639-3.XRW"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.XSA"
+msgstr "सामोन"
+
+msgid "ISO_639-3.XSB"
+msgstr "सामोन"
+
+msgid "ISO_639-3.XSD"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.XSE"
+msgstr "सामोन"
+
+msgid "ISO_639-3.XSH"
+msgstr "सामोन"
+
+msgid "ISO_639-3.XSM"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.XSO"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.XSP"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-3.XSR"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.XSS"
+msgstr "रुसी"
+
+msgid "ISO_639-3.XSV"
+msgstr "स्लोवेनियन्"
+
+msgid "ISO_639-3.XSY"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.XTO"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-3.XTW"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.XTZ"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-3.XUM"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.XUN"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-3.XUR"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-3.XUU"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.XVI"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-3.XVO"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-3.XVS"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-3.XWA"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.XWK"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.XXR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.XXT"
+msgstr "तागालोग"
+
+msgid "ISO_639-3.XYB"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.XYK"
+msgstr "मलय"
+
+msgid "ISO_639-3.XYL"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.XZM"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-3.YAD"
+msgstr "होउसा"
+
+msgid "ISO_639-3.YAK"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.YAN"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.YAU"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.YAX"
+msgstr "होउसा"
+
+msgid "ISO_639-3.YBA"
+msgstr "मलय"
+
+msgid "ISO_639-3.YBJ"
+msgstr "होउसा"
+
+msgid "ISO_639-3.YBK"
+msgstr "भुटानी"
+
+msgid "ISO_639-3.YCH"
+msgstr "चीनी"
+
+msgid "ISO_639-3.YCL"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.YCN"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.YCP"
+msgstr "चीनी"
+
+msgid "ISO_639-3.YDA"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.YDD"
+msgstr "येहुदी"
+
+msgid "ISO_639-3.YDG"
+msgstr "येहुदी"
+
+msgid "ISO_639-3.YDK"
+msgstr "येहुदी"
+
+msgid "ISO_639-3.YEC"
+msgstr "फ्रेंच"
+
+msgid "ISO_639-3.YEJ"
+msgstr "आईस्लैंडिक्"
+
+msgid "ISO_639-3.YER"
+msgstr "ताजिक्"
+
+msgid "ISO_639-3.YES"
+msgstr "नायरू"
+
+msgid "ISO_639-3.YGA"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.YGR"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.YGS"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.YHA"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.YHD"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-3.YHS"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.YIA"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.YID"
+msgstr "येहुदी"
+
+msgid "ISO_639-3.YIH"
+msgstr "येहुदी"
+
+msgid "ISO_639-3.YII"
+msgstr "येहुदी"
+
+msgid "ISO_639-3.YIM"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-3.YIN"
+msgstr "सिन्धी"
+
+msgid "ISO_639-3.YIP"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.YIQ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.YIR"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.YIS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.YIV"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.YKG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.YKL"
+msgstr "होउसा"
+
+msgid "ISO_639-3.YKM"
+msgstr "लैटीन"
+
+msgid "ISO_639-3.YKO"
+msgstr "होउसा"
+
+msgid "ISO_639-3.YKR"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.YKT"
+msgstr "होउसा"
+
+msgid "ISO_639-3.YKU"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.YLB"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.YLG"
+msgstr "तेलेगु"
+
+msgid "ISO_639-3.YLM"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.YLO"
+msgstr "नायरू"
+
+msgid "ISO_639-3.YMC"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.YMD"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.YMH"
+msgstr "मलय"
+
+msgid "ISO_639-3.YMI"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.YMM"
+msgstr "मलय"
+
+msgid "ISO_639-3.YMO"
+msgstr "सामोन"
+
+msgid "ISO_639-3.YMR"
+msgstr "मलय"
+
+msgid "ISO_639-3.YMS"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.YMX"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.YMZ"
+msgstr "किरून्दी"
+
+msgid "ISO_639-3.YNA"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.YND"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.YNE"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.YNG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.YNN"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.YNO"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.YNS"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.YOB"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.YOI"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.YOL"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.YON"
+msgstr "सोंगा"
+
+msgid "ISO_639-3.YOR"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.YPA"
+msgstr "कातालान"
+
+msgid "ISO_639-3.YPG"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.YPH"
+msgstr "थाई"
+
+msgid "ISO_639-3.YPM"
+msgstr "थाई"
+
+msgid "ISO_639-3.YPO"
+msgstr "पॉलिश"
+
+msgid "ISO_639-3.YPP"
+msgstr "थाई"
+
+msgid "ISO_639-3.YPZ"
+msgstr "थाई"
+
+msgid "ISO_639-3.YRB"
+msgstr "योरूबा"
+
+msgid "ISO_639-3.YRY"
+msgstr "कातालान"
+
+msgid "ISO_639-3.YSD"
+msgstr "सामोन"
+
+msgid "ISO_639-3.YSN"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.YSP"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.YSY"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-3.YTA"
+msgstr "टाटर"
+
+msgid "ISO_639-3.YTL"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-3.YTP"
+msgstr "थाई"
+
+msgid "ISO_639-3.YUC"
+msgstr "डच्"
+
+msgid "ISO_639-3.YUE"
+msgstr "चीनी"
+
+msgid "ISO_639-3.YUL"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.YUM"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-3.YUX"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.YWG"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-3.YWL"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-3.YWR"
+msgstr "नायरू"
+
+msgid "ISO_639-3.YXA"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.YXG"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-3.YXL"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-3.YYZ"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-3.YZG"
+msgstr "बँगाली"
+
+msgid "ISO_639-3.YZK"
+msgstr "षोसा"
+
+msgid "ISO_639-3.ZAL"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.ZAU"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.ZBC"
+msgstr "कुरदीश"
+
+msgid "ISO_639-3.ZBE"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.ZBT"
+msgstr "बास्क्"
+
+msgid "ISO_639-3.ZBW"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-3.ZGA"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.ZGB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZGM"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZGN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZGR"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.ZHN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZHO"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ZHW"
+msgstr "षोसा"
+
+msgid "ISO_639-3.ZIM"
+msgstr "मालटिस्"
+
+msgid "ISO_639-3.ZIR"
+msgstr "उड़िया"
+
+msgid "ISO_639-3.ZIW"
+msgstr "लिंगाला"
+
+msgid "ISO_639-3.ZKH"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.ZKK"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.ZKN"
+msgstr "गुआरानी"
+
+msgid "ISO_639-3.ZKT"
+msgstr "तिब्बती"
+
+msgid "ISO_639-3.ZKU"
+msgstr "कन्नड़"
+
+msgid "ISO_639-3.ZKV"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZLN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZMC"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.ZMD"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.ZMG"
+msgstr "मराठी"
+
+msgid "ISO_639-3.ZMO"
+msgstr "वोलोफ"
+
+msgid "ISO_639-3.ZMU"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.ZMY"
+msgstr "मेओरी"
+
+msgid "ISO_639-3.ZNG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-3.ZNS"
+msgstr "मालागासी"
+
+msgid "ISO_639-3.ZOM"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-3.ZPC"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ZPD"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZPV"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ZQE"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZRG"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ZRN"
+msgstr "कैम्बोडियन्"
+
+msgid "ISO_639-3.ZRP"
+msgstr "मराठी"
+
+msgid "ISO_639-3.ZRS"
+msgstr "मराठी"
+
+msgid "ISO_639-3.ZSA"
+msgstr "संस्कृत"
+
+msgid "ISO_639-3.ZSK"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-3.ZSM"
+msgstr "मलयालम"
+
+msgid "ISO_639-3.ZSR"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZSU"
+msgstr "नायरू"
+
+msgid "ISO_639-3.ZUH"
+msgstr "कोंकणी"
+
+msgid "ISO_639-3.ZUL"
+msgstr "ज़ुलू"
+
+msgid "ISO_639-3.ZYB"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZYG"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZYN"
+msgstr "सेसोथो"
+
+msgid "ISO_639-3.ZYP"
+msgstr "चीनी"
+
+msgid "ISO_639-3.ZZA"
+msgstr "कज़ाख"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "सेसोथो"

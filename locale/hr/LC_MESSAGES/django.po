@@ -1,0 +1,1231 @@
+# Croatian translations of ISO 639  Language names
+# Copyright © 2000,2004 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#   - translation from ICU-3.0
+#
+# Vladimir Vuksan <vuksan@veus.hr>, 2000.
+# Alastair McKinstry <mckinstry@computer.org>, 2001, 2004.
+# Tomislav Krznar <tomislav.krznar@gmail.com>, 2012, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-04-18 15:12+0200\n"
+"Last-Translator: Tomislav Krznar <tomislav.krznar@gmail.com>\n"
+"Language-Team: Croatian <lokalizacija@linux.hr>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ISO_639-3.AAO"
+msgstr "arapski, alžirski saharski"
+
+msgid "ISO_639-3.ABK"
+msgstr "abhaski"
+
+msgid "ISO_639-3.ACF"
+msgstr "kreolski francuski, svetolucijanski"
+
+msgid "ISO_639-3.ACY"
+msgstr "arapski, ciparski"
+
+msgid "ISO_639-3.AEB"
+msgstr "arapski, tuniški"
+
+msgid "ISO_639-3.AED"
+msgstr "argentinski znakovni jezik"
+
+msgid "ISO_639-3.AEE"
+msgstr "sjevernoaltajski"
+
+msgid "ISO_639-3.AEN"
+msgstr "armenski znakovni jezik"
+
+msgid "ISO_639-3.AFG"
+msgstr "afganistanski znakovni jezik"
+
+msgid "ISO_639-3.AFR"
+msgstr "afrikaans"
+
+msgid "ISO_639-3.AIG"
+msgstr "kreolski engleski, Antigva i Barbuda"
+
+msgid "ISO_639-3.AII"
+msgstr "novoaramejski, asirski"
+
+msgid "ISO_639-3.AJP"
+msgstr "arapski, južnolevantski"
+
+msgid "ISO_639-3.AJT"
+msgstr "arapski, judeotuniški"
+
+msgid "ISO_639-3.AJU"
+msgstr "arapski, judeomarokanski"
+
+msgid "ISO_639-3.AKA"
+msgstr "akanski"
+
+msgid "ISO_639-3.AKK"
+msgstr "akadski"
+
+msgid "ISO_639-3.ALE"
+msgstr "aleutski"
+
+msgid "ISO_639-3.ALQ"
+msgstr "algonkvinski"
+
+msgid "ISO_639-3.ALT"
+msgstr "južnoaltajski"
+
+msgid "ISO_639-3.AMH"
+msgstr "amharski"
+
+msgid "ISO_639-3.AMW"
+msgstr "novoaramejski, zapadni"
+
+msgid "ISO_639-3.ANG"
+msgstr "staroengleski (cca. 450.-1100.)"
+
+msgid "ISO_639-3.APC"
+msgstr "arapski, sjevernolevantski"
+
+msgid "ISO_639-3.APD"
+msgstr "arapski, sudanski"
+
+msgid "ISO_639-3.ARA"
+msgstr "arapski"
+
+msgid "ISO_639-3.ARB"
+msgstr "arapski, standardni"
+
+msgid "ISO_639-3.ARC"
+msgstr "aramejski, službeni (700.-300. pr. Kr.)"
+
+msgid "ISO_639-3.ARG"
+msgstr "aragonski"
+
+msgid "ISO_639-3.ARQ"
+msgstr "arapski, alžirski"
+
+msgid "ISO_639-3.ARY"
+msgstr "arapski, marokanski"
+
+msgid "ISO_639-3.ARZ"
+msgstr "arapski, egipatski"
+
+msgid "ISO_639-3.ASE"
+msgstr "američki znakovni jezik"
+
+msgid "ISO_639-3.ASF"
+msgstr "australski znakovni jezik"
+
+msgid "ISO_639-3.ASM"
+msgstr "asamski"
+
+msgid "ISO_639-3.ASP"
+msgstr "alžirski znakovni jezik"
+
+msgid "ISO_639-3.ASQ"
+msgstr "austrijski znakovni jezik"
+
+msgid "ISO_639-3.AST"
+msgstr "asturijski"
+
+msgid "ISO_639-3.ASW"
+msgstr "znakovni jezik australskih Aboridžina"
+
+msgid "ISO_639-3.ATO"
+msgstr "pidžin, kamerunski"
+
+msgid "ISO_639-3.ATV"
+msgstr "sjevernoaltajski"
+
+msgid "ISO_639-3.AUZ"
+msgstr "arapski, uzbečki"
+
+msgid "ISO_639-3.AVA"
+msgstr "avarski"
+
+msgid "ISO_639-3.AVE"
+msgstr "avestički"
+
+msgid "ISO_639-3.AXL"
+msgstr "južnoaltajski"
+
+msgid "ISO_639-3.AXM"
+msgstr "srednjearmenski"
+
+msgid "ISO_639-3.AYL"
+msgstr "arapski, libijski"
+
+msgid "ISO_639-3.AYP"
+msgstr "arapski, sjevernomezopotamski"
+
+msgid "ISO_639-3.AZB"
+msgstr "južnoazerbejdžanski"
+
+msgid "ISO_639-3.AZE"
+msgstr "azerbejdžanski"
+
+msgid "ISO_639-3.AZJ"
+msgstr "sjevernoazerbejdžanski"
+
+msgid "ISO_639-3.BAH"
+msgstr "kreolski engleski, bahamski"
+
+msgid "ISO_639-3.BAK"
+msgstr "baškirski"
+
+msgid "ISO_639-3.BAL"
+msgstr "baločijski"
+
+msgid "ISO_639-3.BAM"
+msgstr "bambarski"
+
+msgid "ISO_639-3.BAN"
+msgstr "balijski"
+
+msgid "ISO_639-3.BAR"
+msgstr "bavarski"
+
+msgid "ISO_639-3.BBZ"
+msgstr "kreolski arapski, babalijski"
+
+msgid "ISO_639-3.BCC"
+msgstr "južnobaločijski"
+
+msgid "ISO_639-3.BCD"
+msgstr "sjevernobabarski"
+
+msgid "ISO_639-3.BCL"
+msgstr "srednjebikolski"
+
+msgid "ISO_639-3.BEL"
+msgstr "bjeloruski"
+
+msgid "ISO_639-3.BEN"
+msgstr "bengalski"
+
+msgid "ISO_639-3.BFI"
+msgstr "britanski znakovni jezik"
+
+msgid "ISO_639-3.BFK"
+msgstr "bankorski znakovni jezik"
+
+msgid "ISO_639-3.BGN"
+msgstr "zapadnobaločijski"
+
+msgid "ISO_639-3.BGP"
+msgstr "istočnobaločijski"
+
+msgid "ISO_639-3.BHN"
+msgstr "novoaramejski, bohtanski"
+
+msgid "ISO_639-3.BIK"
+msgstr "bikolski"
+
+msgid "ISO_639-3.BIS"
+msgstr "bislama"
+
+msgid "ISO_639-3.BJF"
+msgstr "novoaramejski, barzanski židovski"
+
+msgid "ISO_639-3.BOD"
+msgstr "tibetski"
+
+msgid "ISO_639-3.BOS"
+msgstr "bosanski"
+
+msgid "ISO_639-3.BQN"
+msgstr "bugarski znakovni jezik"
+
+msgid "ISO_639-3.BRE"
+msgstr "bretonski"
+
+msgid "ISO_639-3.BTJ"
+msgstr "malajski, bakaneški"
+
+msgid "ISO_639-3.BUA"
+msgstr "burijatski"
+
+msgid "ISO_639-3.BUL"
+msgstr "bugarski"
+
+msgid "ISO_639-3.BVE"
+msgstr "malajski, berauški"
+
+msgid "ISO_639-3.BVL"
+msgstr "bolivijski znakovni jezik"
+
+msgid "ISO_639-3.BVU"
+msgstr "malajski, bukitski"
+
+msgid "ISO_639-3.BXM"
+msgstr "burijatski, mongolski"
+
+msgid "ISO_639-3.BXR"
+msgstr "burijatski, ruski"
+
+msgid "ISO_639-3.BXU"
+msgstr "burijatski, kineski"
+
+msgid "ISO_639-3.BYA"
+msgstr "batački"
+
+msgid "ISO_639-3.BZK"
+msgstr "kreolski engleski, nikaragvanski"
+
+msgid "ISO_639-3.BZS"
+msgstr "brazilski znakovni jezik"
+
+msgid "ISO_639-3.CAL"
+msgstr "karolinski"
+
+msgid "ISO_639-3.CAT"
+msgstr "katalonski"
+
+msgid "ISO_639-3.CCM"
+msgstr "kreolski malajski, malakanski"
+
+msgid "ISO_639-3.CDO"
+msgstr "kineski, mindonški"
+
+msgid "ISO_639-3.CDS"
+msgstr "čadski znakovni jezik"
+
+msgid "ISO_639-3.CES"
+msgstr "češki"
+
+msgid "ISO_639-3.CHE"
+msgstr "čečenski"
+
+msgid "ISO_639-3.CHG"
+msgstr "čagatajski"
+
+msgid "ISO_639-3.CHU"
+msgstr "crkveni slavenski"
+
+msgid "ISO_639-3.CHV"
+msgstr "čuvaški"
+
+msgid "ISO_639-3.CHY"
+msgstr "čejenski"
+
+msgid "ISO_639-3.CKB"
+msgstr "srednjekurdski"
+
+msgid "ISO_639-3.CMG"
+msgstr "mongolski, klasični"
+
+msgid "ISO_639-3.CMN"
+msgstr "kineski, mandarinski"
+
+msgid "ISO_639-3.COP"
+msgstr "koptski"
+
+msgid "ISO_639-3.COS"
+msgstr "korzički"
+
+msgid "ISO_639-3.CPI"
+msgstr "pidžin engleski, kineski"
+
+msgid "ISO_639-3.CRB"
+msgstr "karipski, otočni"
+
+msgid "ISO_639-3.CRE"
+msgstr "krijski"
+
+msgid "ISO_639-3.CRH"
+msgstr "turski, krimski"
+
+msgid "ISO_639-3.CRJ"
+msgstr "jugoistočnokrijski"
+
+msgid "ISO_639-3.CRL"
+msgstr "sjevernoistočnokrijski"
+
+msgid "ISO_639-3.CRR"
+msgstr "algonkvijanski, karolinski"
+
+msgid "ISO_639-3.CRS"
+msgstr "kreolski francuski, seselvaški"
+
+msgid "ISO_639-3.CSC"
+msgstr "katalonski znakovni jezik"
+
+msgid "ISO_639-3.CSE"
+msgstr "češki znakovni jezik"
+
+msgid "ISO_639-3.CSF"
+msgstr "kubanski znakovni jezik"
+
+msgid "ISO_639-3.CSG"
+msgstr "kineski, mindonški"
+
+msgid "ISO_639-3.CSL"
+msgstr "kineski znakovni jezik"
+
+msgid "ISO_639-3.CSN"
+msgstr "kolumbijski znakovni jezik"
+
+msgid "ISO_639-3.CSQ"
+msgstr "hrvatski znakovni jezik"
+
+msgid "ISO_639-3.CSR"
+msgstr "kostarikanski znakovni jezik"
+
+msgid "ISO_639-3.CSW"
+msgstr "krijski, močvarni"
+
+msgid "ISO_639-3.CYM"
+msgstr "velški"
+
+msgid "ISO_639-3.DAN"
+msgstr "danski"
+
+msgid "ISO_639-3.DEU"
+msgstr "njemački"
+
+msgid "ISO_639-3.DLM"
+msgstr "dalmatinski"
+
+msgid "ISO_639-3.DOQ"
+msgstr "dominikanski znakovni jezik"
+
+msgid "ISO_639-3.DSE"
+msgstr "nizozemski znakovni jezik"
+
+msgid "ISO_639-3.DSL"
+msgstr "danski znakovni jezik"
+
+msgid "ISO_639-3.ECS"
+msgstr "ekvadorski znakovni jezik"
+
+msgid "ISO_639-3.EGL"
+msgstr "emilijanski"
+
+msgid "ISO_639-3.EGY"
+msgstr "egipatski (antički)"
+
+msgid "ISO_639-3.EKC"
+msgstr "istočnobaločijski"
+
+msgid "ISO_639-3.EKK"
+msgstr "estonski, standardni"
+
+msgid "ISO_639-3.ELL"
+msgstr "novogrčki (od 1453.)"
+
+msgid "ISO_639-3.ENG"
+msgstr "engleski"
+
+msgid "ISO_639-3.EPO"
+msgstr "esperanto"
+
+msgid "ISO_639-3.ESL"
+msgstr "egipatski znakovni jezik"
+
+msgid "ISO_639-3.ESN"
+msgstr "salvadorski znakovni jezik"
+
+msgid "ISO_639-3.ESO"
+msgstr "estonski znakovni jezik"
+
+msgid "ISO_639-3.EST"
+msgstr "estonski"
+
+msgid "ISO_639-3.ETH"
+msgstr "etiopski znakovni jezik"
+
+msgid "ISO_639-3.ETT"
+msgstr "etruščanski"
+
+msgid "ISO_639-3.EUS"
+msgstr "baskijski"
+
+msgid "ISO_639-3.FAS"
+msgstr "perzijski"
+
+msgid "ISO_639-3.FIN"
+msgstr "finski"
+
+msgid "ISO_639-3.FRA"
+msgstr "francuski"
+
+msgid "ISO_639-3.FRK"
+msgstr "franački"
+
+msgid "ISO_639-3.FRO"
+msgstr "starofrancuski (842.-cca. 1400.)"
+
+msgid "ISO_639-3.FSE"
+msgstr "finski znakovni jezik"
+
+msgid "ISO_639-3.FSL"
+msgstr "francuski znakovni jezik"
+
+msgid "ISO_639-3.FSS"
+msgstr "finsko-švedski znakovni jezik"
+
+msgid "ISO_639-3.FUR"
+msgstr "friulski"
+
+msgid "ISO_639-3.GDT"
+msgstr "mađarski"
+
+msgid "ISO_639-3.GLE"
+msgstr "irski"
+
+msgid "ISO_639-3.GLG"
+msgstr "galicijski"
+
+msgid "ISO_639-3.GLH"
+msgstr "sjevernoaltajski"
+
+msgid "ISO_639-3.GRC"
+msgstr "starogrčki (do 1453.)"
+
+msgid "ISO_639-3.GSG"
+msgstr "njemački znakovni jezik"
+
+msgid "ISO_639-3.GSM"
+msgstr "gvatemalski znakovni jezik"
+
+msgid "ISO_639-3.GSS"
+msgstr "grčki znakovni jezik"
+
+msgid "ISO_639-3.GSW"
+msgstr "njemački, švicarski"
+
+msgid "ISO_639-3.GUS"
+msgstr "gvinejski znakovni jezik"
+
+msgid "ISO_639-3.HAB"
+msgstr "hanojski znakovni jezik"
+
+msgid "ISO_639-3.HAT"
+msgstr "haićanski"
+
+msgid "ISO_639-3.HAW"
+msgstr "havajski"
+
+msgid "ISO_639-3.HBO"
+msgstr "starohebrejski"
+
+msgid "ISO_639-3.HBS"
+msgstr "srpskohrvatski"
+
+msgid "ISO_639-3.HEB"
+msgstr "sjevernoistočnokrijski"
+
+msgid "ISO_639-3.HPS"
+msgstr "hanojski znakovni jezik"
+
+msgid "ISO_639-3.HRV"
+msgstr "hrvatski"
+
+msgid "ISO_639-3.HSH"
+msgstr "mađarski znakovni jezik"
+
+msgid "ISO_639-3.HUN"
+msgstr "mađarski"
+
+msgid "ISO_639-3.HWC"
+msgstr "kreolski engleski, havajski"
+
+msgid "ISO_639-3.HYE"
+msgstr "armenski"
+
+msgid "ISO_639-3.ICL"
+msgstr "islandski znakovni jezik"
+
+msgid "ISO_639-3.IDB"
+msgstr "indoportugalski"
+
+msgid "ISO_639-3.IKS"
+msgstr "indijski znakovni jezik"
+
+msgid "ISO_639-3.ILM"
+msgstr "berauški malajski"
+
+msgid "ISO_639-3.INA"
+msgstr "interlingua"
+
+msgid "ISO_639-3.IND"
+msgstr "indonezijski"
+
+msgid "ISO_639-3.INL"
+msgstr "indonezijski znakovni jezik"
+
+msgid "ISO_639-3.INS"
+msgstr "indijski znakovni jezik"
+
+msgid "ISO_639-3.ISE"
+msgstr "talijanski znakovni jezik"
+
+msgid "ISO_639-3.ISG"
+msgstr "irski znakovni jezik"
+
+msgid "ISO_639-3.ISL"
+msgstr "islandski"
+
+msgid "ISO_639-3.ISR"
+msgstr "izraelski znakovni jezik"
+
+msgid "ISO_639-3.ITA"
+msgstr "talijanski"
+
+msgid "ISO_639-3.ITD"
+msgstr "južnoaltajski"
+
+msgid "ISO_639-3.JAM"
+msgstr "kreolski engleski, jamajkanski"
+
+msgid "ISO_639-3.JLS"
+msgstr "jamajkanski znakovni jezik"
+
+msgid "ISO_639-3.JOS"
+msgstr "jordanski znakovni jezik"
+
+msgid "ISO_639-3.JPA"
+msgstr "aramejski, židovski palestinski"
+
+msgid "ISO_639-3.JPN"
+msgstr "japanski"
+
+msgid "ISO_639-3.JPR"
+msgstr "judeoperzijski"
+
+msgid "ISO_639-3.JRB"
+msgstr "judeoarapski"
+
+msgid "ISO_639-3.JSL"
+msgstr "japanski znakovni jezik"
+
+msgid "ISO_639-3.JVN"
+msgstr "javanski, karipski"
+
+msgid "ISO_639-3.JYE"
+msgstr "arapski, judeojemenski"
+
+msgid "ISO_639-3.KAS"
+msgstr "kašmirski"
+
+msgid "ISO_639-3.KAT"
+msgstr "gruzijski"
+
+msgid "ISO_639-3.KAU"
+msgstr "kanurski"
+
+msgid "ISO_639-3.KAZ"
+msgstr "kazaški"
+
+msgid "ISO_639-3.KHM"
+msgstr "srednjekmerski"
+
+msgid "ISO_639-3.KIR"
+msgstr "kirgiški"
+
+msgid "ISO_639-3.KJV"
+msgstr "latvijski znakovni jezik"
+
+msgid "ISO_639-3.KMR"
+msgstr "sjevernokurdski"
+
+msgid "ISO_639-3.KOR"
+msgstr "korejski"
+
+msgid "ISO_639-3.KUR"
+msgstr "kurdski"
+
+msgid "ISO_639-3.KVK"
+msgstr "korejski znakovni jezik"
+
+msgid "ISO_639-3.KXD"
+msgstr "brunejski"
+
+msgid "ISO_639-3.LAT"
+msgstr "latinski"
+
+msgid "ISO_639-3.LAV"
+msgstr "latvijski"
+
+msgid "ISO_639-3.LBS"
+msgstr "libijski znakovni jezik"
+
+msgid "ISO_639-3.LIJ"
+msgstr "ligurijski"
+
+msgid "ISO_639-3.LIM"
+msgstr "limburški"
+
+msgid "ISO_639-3.LIR"
+msgstr "engleski, liberijski"
+
+msgid "ISO_639-3.LIT"
+msgstr "litavski"
+
+msgid "ISO_639-3.LJW"
+msgstr "vandalski"
+
+msgid "ISO_639-3.LLS"
+msgstr "litavski znakovni jezik"
+
+msgid "ISO_639-3.LSL"
+msgstr "latvijski znakovni jezik"
+
+msgid "ISO_639-3.LTZ"
+msgstr "luksemburški"
+
+msgid "ISO_639-3.LVS"
+msgstr "latvijski, standardni"
+
+msgid "ISO_639-3.MDL"
+msgstr "malteški znakovni jezik"
+
+msgid "ISO_639-3.MFS"
+msgstr "meksički znakovni jezik"
+
+msgid "ISO_639-3.MKD"
+msgstr "makedonski"
+
+msgid "ISO_639-3.MLT"
+msgstr "malteški"
+
+msgid "ISO_639-3.MON"
+msgstr "mongolski"
+
+msgid "ISO_639-3.MRI"
+msgstr "maorski"
+
+msgid "ISO_639-3.MSR"
+msgstr "mongolski znakovni jezik"
+
+msgid "ISO_639-3.MUL"
+msgstr "višestruki jezici"
+
+msgid "ISO_639-3.MYA"
+msgstr "burmanski"
+
+msgid "ISO_639-3.MZC"
+msgstr "madagaskarski znakovni jezik"
+
+msgid "ISO_639-3.MZY"
+msgstr "mozambički znakovni jezik"
+
+msgid "ISO_639-3.NAP"
+msgstr "napolitanski"
+
+msgid "ISO_639-3.NBS"
+msgstr "namibijski znakovni jezik"
+
+msgid "ISO_639-3.NCS"
+msgstr "njemački, švicarski"
+
+msgid "ISO_639-3.NLD"
+msgstr "nizozemski"
+
+msgid "ISO_639-3.NNO"
+msgstr "novonorveški (nynorsk)"
+
+msgid "ISO_639-3.NOB"
+msgstr "knjiški norveški (bokmål)"
+
+msgid "ISO_639-3.NOR"
+msgstr "norveški"
+
+msgid "ISO_639-3.NSI"
+msgstr "nigerijski znakovni jezik"
+
+msgid "ISO_639-3.NSL"
+msgstr "norveški znakovni jezik"
+
+msgid "ISO_639-3.NSP"
+msgstr "nepalski znakovni jezik"
+
+msgid "ISO_639-3.NTD"
+msgstr "kečuanski, klasični"
+
+msgid "ISO_639-3.NXM"
+msgstr "numidijski"
+
+msgid "ISO_639-3.NZS"
+msgstr "novozelandski znakovni jezik"
+
+msgid "ISO_639-3.OAR"
+msgstr "staroaramejski (do 700. pr. Kr.)"
+
+msgid "ISO_639-3.OBT"
+msgstr "starobretonski"
+
+msgid "ISO_639-3.OCH"
+msgstr "starokineski"
+
+msgid "ISO_639-3.OCI"
+msgstr "okcitanski (nakon 1500.)"
+
+msgid "ISO_639-3.ODT"
+msgstr "staronizozemski"
+
+msgid "ISO_639-3.OFS"
+msgstr "starofrizijski"
+
+msgid "ISO_639-3.OGE"
+msgstr "starogruzijski"
+
+msgid "ISO_639-3.OHU"
+msgstr "staromađarski"
+
+msgid "ISO_639-3.OJP"
+msgstr "starojapanski"
+
+msgid "ISO_639-3.OKO"
+msgstr "starokorejski (3.-9. st.)"
+
+msgid "ISO_639-3.OLT"
+msgstr "litavski"
+
+msgid "ISO_639-3.OMN"
+msgstr "minoanski"
+
+msgid "ISO_639-3.ONW"
+msgstr "staronubijski"
+
+msgid "ISO_639-3.OOS"
+msgstr "staroosetski"
+
+msgid "ISO_639-3.ORV"
+msgstr "staroruski"
+
+msgid "ISO_639-3.OSP"
+msgstr "starošpanjolski"
+
+msgid "ISO_639-3.OSS"
+msgstr "osetski"
+
+msgid "ISO_639-3.OSX"
+msgstr "starosaksonski"
+
+msgid "ISO_639-3.OTA"
+msgstr "turski, otomanski (1500.-1928.)"
+
+msgid "ISO_639-3.OTB"
+msgstr "starotibetski"
+
+msgid "ISO_639-3.OTK"
+msgstr "staroturski"
+
+msgid "ISO_639-3.OTY"
+msgstr "starotamilski"
+
+msgid "ISO_639-3.OWL"
+msgstr "starovelški"
+
+msgid "ISO_639-3.PAG"
+msgstr "pangasinanski"
+
+msgid "ISO_639-3.PAN"
+msgstr "pandžapski"
+
+msgid "ISO_639-3.PAU"
+msgstr "palauski"
+
+msgid "ISO_639-3.PCM"
+msgstr "pidžin, nigerijski"
+
+msgid "ISO_639-3.PEO"
+msgstr "staroperzijski (cca. 600.-400. pr. Kr.)"
+
+msgid "ISO_639-3.PES"
+msgstr "perzijski, iranski"
+
+msgid "ISO_639-3.PGA"
+msgstr "kreolski arapski, sudanski"
+
+msgid "ISO_639-3.PGL"
+msgstr "irski, primitivni"
+
+msgid "ISO_639-3.PGZ"
+msgstr "gvinejski znakovni jezik"
+
+msgid "ISO_639-3.PHN"
+msgstr "fenički"
+
+msgid "ISO_639-3.PKS"
+msgstr "pakistanski znakovni jezik"
+
+msgid "ISO_639-3.PMS"
+msgstr "pijemontski"
+
+msgid "ISO_639-3.POL"
+msgstr "poljski"
+
+msgid "ISO_639-3.POR"
+msgstr "portugalski"
+
+msgid "ISO_639-3.PRG"
+msgstr "pruski"
+
+msgid "ISO_639-3.PRL"
+msgstr "staroirski (do 900.)"
+
+msgid "ISO_639-3.PSC"
+msgstr "perzijski znakovni jezik"
+
+msgid "ISO_639-3.PSH"
+msgstr "južnobaločijski"
+
+msgid "ISO_639-3.PSI"
+msgstr "južnobaločijski"
+
+msgid "ISO_639-3.PSL"
+msgstr "portorikanski znakovni jezik"
+
+msgid "ISO_639-3.PSO"
+msgstr "poljski znakovni jezik"
+
+msgid "ISO_639-3.PSP"
+msgstr "filipinski znakovni jezik"
+
+msgid "ISO_639-3.PSR"
+msgstr "portugalski znakovni jezik"
+
+msgid "ISO_639-3.PYS"
+msgstr "paragvajski znakovni jezik"
+
+msgid "ISO_639-3.QUE"
+msgstr "kečuanski"
+
+msgid "ISO_639-3.QWC"
+msgstr "kečuanski, klasični"
+
+msgid "ISO_639-3.QWM"
+msgstr "kumanski (Rusija)"
+
+msgid "ISO_639-3.RAJ"
+msgstr "radžastanski"
+
+msgid "ISO_639-3.RAP"
+msgstr "rapanujski"
+
+msgid "ISO_639-3.RGE"
+msgstr "rimskogrčki"
+
+msgid "ISO_639-3.RMD"
+msgstr "danski, putnički"
+
+msgid "ISO_639-3.RMS"
+msgstr "rumunjski znakovni jezik"
+
+msgid "ISO_639-3.RON"
+msgstr "rumunjski"
+
+msgid "ISO_639-3.RSL"
+msgstr "ruski znakovni jezik"
+
+msgid "ISO_639-3.RSM"
+msgstr "nigerijski znakovni jezik"
+
+msgid "ISO_639-3.RUP"
+msgstr "makedorumunjski"
+
+msgid "ISO_639-3.RUS"
+msgstr "ruski"
+
+msgid "ISO_639-3.SAM"
+msgstr "aramejski, samaritanski"
+
+msgid "ISO_639-3.SAN"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SCN"
+msgstr "sicilijanski"
+
+msgid "ISO_639-3.SDH"
+msgstr "južnokurdski"
+
+msgid "ISO_639-3.SDL"
+msgstr "znakovni jezik Saudijske Arabije"
+
+msgid "ISO_639-3.SFB"
+msgstr "belgijski frankofonski znakovni jezik"
+
+msgid "ISO_639-3.SFS"
+msgstr "južnoafrički znakovni jezik"
+
+msgid "ISO_639-3.SGA"
+msgstr "staroirski (do 900.)"
+
+msgid "ISO_639-3.SGG"
+msgstr "švicarskonjemački znakovni jezik"
+
+msgid "ISO_639-3.SHU"
+msgstr "arapski, čadski"
+
+msgid "ISO_639-3.SLF"
+msgstr "švicarskotalijanski znakovni jezik"
+
+msgid "ISO_639-3.SLK"
+msgstr "slovački"
+
+msgid "ISO_639-3.SLS"
+msgstr "singapurski znakovni jezik"
+
+msgid "ISO_639-3.SLV"
+msgstr "slovenski"
+
+msgid "ISO_639-3.SMP"
+msgstr "samaritanski"
+
+msgid "ISO_639-3.SOM"
+msgstr "somalski"
+
+msgid "ISO_639-3.SPA"
+msgstr "španjolski"
+
+msgid "ISO_639-3.SQI"
+msgstr "albanski"
+
+msgid "ISO_639-3.SQK"
+msgstr "albanski znakovni jezik"
+
+msgid "ISO_639-3.SRD"
+msgstr "sardinijski"
+
+msgid "ISO_639-3.SRP"
+msgstr "srpski"
+
+msgid "ISO_639-3.SSP"
+msgstr "španjolski znakovni jezik"
+
+msgid "ISO_639-3.SSR"
+msgstr "švicarskofrancuski znakovni jezik"
+
+msgid "ISO_639-3.STY"
+msgstr "krimski tatarski"
+
+msgid "ISO_639-3.SUX"
+msgstr "sumerski"
+
+msgid "ISO_639-3.SVK"
+msgstr "slovački znakovni jezik"
+
+msgid "ISO_639-3.SWE"
+msgstr "švedski"
+
+msgid "ISO_639-3.SWL"
+msgstr "švedski znakovni jezik"
+
+msgid "ISO_639-3.TAM"
+msgstr "tamilski"
+
+msgid "ISO_639-3.TAT"
+msgstr "tatarski"
+
+msgid "ISO_639-3.TEL"
+msgstr "teluški"
+
+msgid "ISO_639-3.TGK"
+msgstr "tadžički"
+
+msgid "ISO_639-3.THA"
+msgstr "tajlandski"
+
+msgid "ISO_639-3.TLH"
+msgstr "klingonski"
+
+msgid "ISO_639-3.TMR"
+msgstr "aramejski, židovski babilonski (cca. 200.-1200.)"
+
+msgid "ISO_639-3.TRF"
+msgstr "kreolski engleski, trinidadski"
+
+msgid "ISO_639-3.TRL"
+msgstr "škotski, putnički"
+
+msgid "ISO_639-3.TSE"
+msgstr "tuniški znakovni jezik"
+
+msgid "ISO_639-3.TSM"
+msgstr "turski znakovni jezik"
+
+msgid "ISO_639-3.TSQ"
+msgstr "tajlandski znakovni jezik"
+
+msgid "ISO_639-3.TSS"
+msgstr "tajvanski znakovni jezik"
+
+msgid "ISO_639-3.TSY"
+msgstr "tebulski znakovni jezik"
+
+msgid "ISO_639-3.TUK"
+msgstr "turkmenski"
+
+msgid "ISO_639-3.TUR"
+msgstr "turski"
+
+msgid "ISO_639-3.TVY"
+msgstr "pidžin, timorski"
+
+msgid "ISO_639-3.TZA"
+msgstr "tanzanijski znakovni jezik"
+
+msgid "ISO_639-3.UGN"
+msgstr "ugandski znakovni jezik"
+
+msgid "ISO_639-3.UGY"
+msgstr "urugvajski znakovni jezik"
+
+msgid "ISO_639-3.UKL"
+msgstr "ukrajinski znakovni jezik"
+
+msgid "ISO_639-3.UKR"
+msgstr "ukrajinski"
+
+msgid "ISO_639-3.UND"
+msgstr "neodređeni"
+
+msgid "ISO_639-3.URD"
+msgstr "urdski"
+
+msgid "ISO_639-3.UZB"
+msgstr "uzbečki"
+
+msgid "ISO_639-3.UZN"
+msgstr "sjevernouzbečki"
+
+msgid "ISO_639-3.UZS"
+msgstr "južnouzbečki"
+
+msgid "ISO_639-3.VEC"
+msgstr "venecijanski"
+
+msgid "ISO_639-3.VIC"
+msgstr "kreolski engleski, Djevičanski otoci"
+
+msgid "ISO_639-3.VIE"
+msgstr "vijetnamski"
+
+msgid "ISO_639-3.VKP"
+msgstr "kreolski portugalski, korlajski"
+
+msgid "ISO_639-3.VMB"
+msgstr "bambarski"
+
+msgid "ISO_639-3.VSI"
+msgstr "moldavski znakovni jezik"
+
+msgid "ISO_639-3.VSL"
+msgstr "venecuelanski znakovni jezik"
+
+msgid "ISO_639-3.VSV"
+msgstr "valencijski znakovni jezik"
+
+msgid "ISO_639-3.WES"
+msgstr "pidžin, kamerunski"
+
+msgid "ISO_639-3.WLN"
+msgstr "valonski"
+
+msgid "ISO_639-3.XAA"
+msgstr "arapski, andaluzijski"
+
+msgid "ISO_639-3.XAQ"
+msgstr "akvitanski"
+
+msgid "ISO_639-3.XBE"
+msgstr "bambarski"
+
+msgid "ISO_639-3.XCL"
+msgstr "armenski, klasični"
+
+msgid "ISO_639-3.XCT"
+msgstr "tibetski, klasični"
+
+msgid "ISO_639-3.XDC"
+msgstr "dacijski"
+
+msgid "ISO_639-3.XIL"
+msgstr "ilirski"
+
+msgid "ISO_639-3.XKI"
+msgstr "kenijski znakovni jezik"
+
+msgid "ISO_639-3.XLD"
+msgstr "lidijski"
+
+msgid "ISO_639-3.XLG"
+msgstr "ligurijski (antički)"
+
+msgid "ISO_639-3.XLI"
+msgstr "liburnijski"
+
+msgid "ISO_639-3.XMK"
+msgstr "makedonski, antički"
+
+msgid "ISO_639-3.XML"
+msgstr "malezijski znakovni jezik"
+
+msgid "ISO_639-3.XMS"
+msgstr "marokanski znakovni jezik"
+
+msgid "ISO_639-3.XNA"
+msgstr "sjevernoarapski, antički"
+
+msgid "ISO_639-3.XNO"
+msgstr "anglonormanski"
+
+msgid "ISO_639-3.XPG"
+msgstr "frigijski"
+
+msgid "ISO_639-3.XTZ"
+msgstr "tasmanijski"
+
+msgid "ISO_639-3.XVN"
+msgstr "vandalski"
+
+msgid "ISO_639-3.XZP"
+msgstr "zapotečki, antički"
+
+msgid "ISO_639-3.YDA"
+msgstr "vandalski"
+
+msgid "ISO_639-3.YDD"
+msgstr "jidiš, istočni"
+
+msgid "ISO_639-3.YGS"
+msgstr "poljski znakovni jezik"
+
+msgid "ISO_639-3.YHD"
+msgstr "arapski, judeoirački"
+
+msgid "ISO_639-3.YHS"
+msgstr "danski znakovni jezik"
+
+msgid "ISO_639-3.YID"
+msgstr "jidiš"
+
+msgid "ISO_639-3.YIH"
+msgstr "jidiš, zapadni"
+
+msgid "ISO_639-3.YSL"
+msgstr "jugoslavenski znakovni jezik"
+
+msgid "ISO_639-3.ZAP"
+msgstr "zapotečki"
+
+msgid "ISO_639-3.ZHO"
+msgstr "kineski"
+
+msgid "ISO_639-3.ZSL"
+msgstr "zambijski znakovni jezik"
+
+msgid "ISO_639-3.ZXX"
+msgstr "nema jezičnog sadržaja"

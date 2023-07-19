@@ -1,0 +1,7948 @@
+# Estonian translations of ISO 639 Language names
+# Copyright (C) 2000, 2004 Free Software Foundation, Inc.
+# Margus Väli <mvali@hot.ee>, 2000.
+# Tõivo Leedjärv <leedjarv@interest.ee>, 2000, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-12-02 00:10+0200\n"
+"Last-Translator: Tõivo Leedjärv <leedjarv@interest.ee>\n"
+"Language-Team: Estonian <gnome-et@linux.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AAG"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AAK"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albaania"
+
+msgid "ISO_639-3.AAW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ABD"
+msgstr "ei"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ABH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ABW"
+msgstr "Poola"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ACE"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ACI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ACN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ACR"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ACW"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ACX"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ACY"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ADF"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ADL"
+msgstr "Poola"
+
+msgid "ISO_639-3.ADN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ADY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AEC"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AEU"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AEW"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AFB"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AFD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AFK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AFP"
+msgstr "Tai"
+
+msgid "ISO_639-3.AFR"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AGA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AGB"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.AGD"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AGE"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AGI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.AGO"
+msgstr "Tai"
+
+msgid "ISO_639-3.AGW"
+msgstr "Tai"
+
+msgid "ISO_639-3.AHA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AHK"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AHR"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AIA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.AIC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AIE"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Leedu"
+
+msgid "ISO_639-3.AIR"
+msgstr "Korea"
+
+msgid "ISO_639-3.AIS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.AIW"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AIX"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AJN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AJT"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AJU"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.AKA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.AKF"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AKK"
+msgstr "Albaania"
+
+msgid "ISO_639-3.AKL"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AKM"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AKR"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AKW"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ALD"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ALH"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albaania"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albaania"
+
+msgid "ISO_639-3.AMC"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AMH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AMK"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AML"
+msgstr "Ääred"
+
+msgid "ISO_639-3.AMN"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AMY"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ANC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ANI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ANK"
+msgstr "Saksa"
+
+msgid "ISO_639-3.ANN"
+msgstr "alates"
+
+msgid "ISO_639-3.ANP"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.ANR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ANS"
+msgstr "Saksa"
+
+msgid "ISO_639-3.ANW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albaania"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.AOH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Vene"
+
+msgid "ISO_639-3.AOR"
+msgstr "Korea"
+
+msgid "ISO_639-3.AOS"
+msgstr "Tai"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.APB"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.APD"
+msgstr "Fääri"
+
+msgid "ISO_639-3.APF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.APG"
+msgstr "Albaania"
+
+msgid "ISO_639-3.APH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.API"
+msgstr "Poola"
+
+msgid "ISO_639-3.APW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AQC"
+msgstr "Hiina"
+
+msgid "ISO_639-3.AQT"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.ARA"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ARG"
+msgstr "Fääri"
+
+msgid "ISO_639-3.ARH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ARI"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.ARL"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ARN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ARO"
+msgstr "Fääri"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ARS"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ARY"
+msgstr "Araabia"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.ASK"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.ASO"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.AST"
+msgstr "Eesti"
+
+msgid "ISO_639-3.ATB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ATN"
+msgstr "Eesti"
+
+msgid "ISO_639-3.ATR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AUB"
+msgstr "Hiina"
+
+msgid "ISO_639-3.AUC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.AUH"
+msgstr "Tai"
+
+msgid "ISO_639-3.AUK"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Inglise"
+
+msgid "ISO_639-3.AUR"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AVA"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AVB"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AVI"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AVK"
+msgstr "Paus"
+
+msgid "ISO_639-3.AVN"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AVS"
+msgstr "Tai"
+
+msgid "ISO_639-3.AWM"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AXL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AYA"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AYH"
+msgstr "Otsi"
+
+msgid "ISO_639-3.AYL"
+msgstr "Araabia"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.AZA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.AZB"
+msgstr "Aserbaidžaani"
+
+msgid "ISO_639-3.AZE"
+msgstr "Aserbaidžaani"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Aserbaidžaani"
+
+msgid "ISO_639-3.BAG"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BAN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BAY"
+msgstr "Baski"
+
+msgid "ISO_639-3.BBB"
+msgstr "Tai"
+
+msgid "ISO_639-3.BBD"
+msgstr "Baski"
+
+msgid "ISO_639-3.BBE"
+msgstr "Balti"
+
+msgid "ISO_639-3.BBF"
+msgstr "Tai"
+
+msgid "ISO_639-3.BBG"
+msgstr "Araabia"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BBI"
+msgstr "Tai"
+
+msgid "ISO_639-3.BBL"
+msgstr "Paus"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.BBV"
+msgstr "Korea"
+
+msgid "ISO_639-3.BBW"
+msgstr "Paus"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BBY"
+msgstr "Balti"
+
+msgid "ISO_639-3.BCF"
+msgstr "Baski"
+
+msgid "ISO_639-3.BCG"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BCK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BCO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Prantsuse"
+
+msgid "ISO_639-3.BCR"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BCT"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BCW"
+msgstr "Paus"
+
+msgid "ISO_639-3.BCY"
+msgstr "Paus"
+
+msgid "ISO_639-3.BDB"
+msgstr "Paus"
+
+msgid "ISO_639-3.BDD"
+msgstr "Paus"
+
+msgid "ISO_639-3.BDE"
+msgstr "Baski"
+
+msgid "ISO_639-3.BDF"
+msgstr "Tai"
+
+msgid "ISO_639-3.BDG"
+msgstr "Balti"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BDK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.BDO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BDU"
+msgstr "alates"
+
+msgid "ISO_639-3.BDW"
+msgstr "Paus"
+
+msgid "ISO_639-3.BEG"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BEH"
+msgstr "Tai"
+
+msgid "ISO_639-3.BEK"
+msgstr "Balti"
+
+msgid "ISO_639-3.BEL"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BEN"
+msgstr "Balti"
+
+msgid "ISO_639-3.BEO"
+msgstr "Balti"
+
+msgid "ISO_639-3.BEP"
+msgstr "Paus"
+
+msgid "ISO_639-3.BES"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BEW"
+msgstr "Balti"
+
+msgid "ISO_639-3.BFA"
+msgstr "Tai"
+
+msgid "ISO_639-3.BFG"
+msgstr "Paus"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BFR"
+msgstr "Tai"
+
+msgid "ISO_639-3.BFT"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BFU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BFW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BFX"
+msgstr "Paus"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BGG"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BGR"
+msgstr "Poola"
+
+msgid "ISO_639-3.BGW"
+msgstr "Tai"
+
+msgid "ISO_639-3.BGY"
+msgstr "Balti"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Balti"
+
+msgid "ISO_639-3.BHA"
+msgstr "Tai"
+
+msgid "ISO_639-3.BHB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BHD"
+msgstr "Tai"
+
+msgid "ISO_639-3.BHE"
+msgstr "Paus"
+
+msgid "ISO_639-3.BHG"
+msgstr "ei"
+
+msgid "ISO_639-3.BHH"
+msgstr "Tai"
+
+msgid "ISO_639-3.BHI"
+msgstr "Tai"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BHL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BHM"
+msgstr "Tai"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BHR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BHV"
+msgstr "Paus"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BHX"
+msgstr "Paus"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.BIB"
+msgstr "Paus"
+
+msgid "ISO_639-3.BIC"
+msgstr "Tai"
+
+msgid "ISO_639-3.BID"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BIG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BIN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BIO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BIR"
+msgstr "Tai"
+
+msgid "ISO_639-3.BIT"
+msgstr "alates"
+
+msgid "ISO_639-3.BIU"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BIX"
+msgstr "Tai"
+
+msgid "ISO_639-3.BIY"
+msgstr "Tai"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BJB"
+msgstr "Balti"
+
+msgid "ISO_639-3.BJC"
+msgstr "Tai"
+
+msgid "ISO_639-3.BJH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BJN"
+msgstr "Paus"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BJS"
+msgstr "Paus"
+
+msgid "ISO_639-3.BJY"
+msgstr "Balti"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BKD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BKF"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BKI"
+msgstr "Tai"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BKS"
+msgstr "Korea"
+
+msgid "ISO_639-3.BKT"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BKX"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.BLG"
+msgstr "Paus"
+
+msgid "ISO_639-3.BLI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.BLL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BLR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BLS"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BMD"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BMH"
+msgstr "Korea"
+
+msgid "ISO_639-3.BMI"
+msgstr "Tai"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BMR"
+msgstr "ei"
+
+msgid "ISO_639-3.BMS"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BMX"
+msgstr "Paus"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BNB"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BNC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BND"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.BNF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BNG"
+msgstr "Balti"
+
+msgid "ISO_639-3.BNI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BNK"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.BNW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.BOA"
+msgstr "Korea"
+
+msgid "ISO_639-3.BOB"
+msgstr "Araabia"
+
+msgid "ISO_639-3.BOF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BOH"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BOM"
+msgstr "alates"
+
+msgid "ISO_639-3.BON"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BOP"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BOS"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BOU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BOW"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BPA"
+msgstr "Paus"
+
+msgid "ISO_639-3.BPH"
+msgstr "Poola"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BPK"
+msgstr "alates"
+
+msgid "ISO_639-3.BPO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BPP"
+msgstr "Korea"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BPV"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.BQB"
+msgstr "Paus"
+
+msgid "ISO_639-3.BQH"
+msgstr "Paus"
+
+msgid "ISO_639-3.BQI"
+msgstr "Tai"
+
+msgid "ISO_639-3.BQP"
+msgstr "Paus"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BQS"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BQV"
+msgstr "Korea"
+
+msgid "ISO_639-3.BQX"
+msgstr "Balti"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BRF"
+msgstr "Saksa"
+
+msgid "ISO_639-3.BRG"
+msgstr "Baski"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BRS"
+msgstr "Paus"
+
+msgid "ISO_639-3.BRT"
+msgstr "Tai"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.BRW"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BSB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BSC"
+msgstr "Paus"
+
+msgid "ISO_639-3.BSE"
+msgstr "Tai"
+
+msgid "ISO_639-3.BSG"
+msgstr "Tai"
+
+msgid "ISO_639-3.BSH"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.BSI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BSK"
+msgstr "Tai"
+
+msgid "ISO_639-3.BSM"
+msgstr "Tai"
+
+msgid "ISO_639-3.BSN"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BST"
+msgstr "Baski"
+
+msgid "ISO_639-3.BSU"
+msgstr "Paus"
+
+msgid "ISO_639-3.BSW"
+msgstr "Paus"
+
+msgid "ISO_639-3.BTA"
+msgstr "Paus"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BTV"
+msgstr "Tai"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BUC"
+msgstr "Tai"
+
+msgid "ISO_639-3.BUG"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BUI"
+msgstr "Balti"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BUN"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.BUO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.BUP"
+msgstr "Paus"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BVA"
+msgstr "Korea"
+
+msgid "ISO_639-3.BVB"
+msgstr "Baski"
+
+msgid "ISO_639-3.BVC"
+msgstr "Hiina"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BVP"
+msgstr "Serbia"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BVV"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BVW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BWD"
+msgstr "Korea"
+
+msgid "ISO_639-3.BWG"
+msgstr "Korea"
+
+msgid "ISO_639-3.BWI"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BXA"
+msgstr "Tai"
+
+msgid "ISO_639-3.BXG"
+msgstr "Balti"
+
+msgid "ISO_639-3.BXM"
+msgstr "Korea"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BXS"
+msgstr "Paus"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.BYA"
+msgstr "Paus"
+
+msgid "ISO_639-3.BYH"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BYM"
+msgstr "Tai"
+
+msgid "ISO_639-3.BYN"
+msgstr "Tai"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BYR"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.BYW"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Paus"
+
+msgid "ISO_639-3.BZA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BZB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BZD"
+msgstr "Tai"
+
+msgid "ISO_639-3.BZF"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.BZG"
+msgstr "Paus"
+
+msgid "ISO_639-3.BZI"
+msgstr "Baski"
+
+msgid "ISO_639-3.BZO"
+msgstr "Paus"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.BZR"
+msgstr "Tai"
+
+msgid "ISO_639-3.BZT"
+msgstr "Otsi"
+
+msgid "ISO_639-3.BZV"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.CAC"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CAF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CAK"
+msgstr "Tai"
+
+msgid "ISO_639-3.CAL"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.CAN"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galeon"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.CBC"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.CBD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CBI"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CBL"
+msgstr "Poola"
+
+msgid "ISO_639-3.CBV"
+msgstr "Paus"
+
+msgid "ISO_639-3.CBW"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.CBY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CCA"
+msgstr "Paus"
+
+msgid "ISO_639-3.CCG"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.CDA"
+msgstr "Värvid"
+
+msgid "ISO_639-3.CDE"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CDG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CDI"
+msgstr "Värvid"
+
+msgid "ISO_639-3.CDO"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CDY"
+msgstr "Värvid"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Korea"
+
+msgid "ISO_639-3.CEA"
+msgstr "Tai"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.CEN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CES"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CFD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CFM"
+msgstr "Poola"
+
+msgid "ISO_639-3.CHE"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CHK"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CHM"
+msgstr "Vene"
+
+msgid "ISO_639-3.CIE"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CIK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.CIM"
+msgstr "Leedu"
+
+msgid "ISO_639-3.CIP"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CIR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.CIY"
+msgstr "Tai"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.CJK"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.CJV"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CJY"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CKB"
+msgstr "Türgi"
+
+msgid "ISO_639-3.CKL"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CKN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CKT"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CKU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CLA"
+msgstr "Araabia"
+
+msgid "ISO_639-3.CLE"
+msgstr "Poola"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CLT"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CMA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CME"
+msgstr "Saksa"
+
+msgid "ISO_639-3.CMN"
+msgstr "Balti"
+
+msgid "ISO_639-3.CMS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CNG"
+msgstr "Korea"
+
+msgid "ISO_639-3.CNH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.CNL"
+msgstr "Balti"
+
+msgid "ISO_639-3.CNO"
+msgstr "Värvid"
+
+msgid "ISO_639-3.CNW"
+msgstr "Balti"
+
+msgid "ISO_639-3.CNX"
+msgstr "Värvid"
+
+msgid "ISO_639-3.COE"
+msgstr "Korea"
+
+msgid "ISO_639-3.COO"
+msgstr "alates"
+
+msgid "ISO_639-3.COR"
+msgstr "Värvid"
+
+msgid "ISO_639-3.COX"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.COZ"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CPI"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CPN"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CPX"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CRA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CRE"
+msgstr "Türgi"
+
+msgid "ISO_639-3.CRR"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.CRX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CRY"
+msgstr "Värvid"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CST"
+msgstr "Korea"
+
+msgid "ISO_639-3.CSV"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CSY"
+msgstr "Balti"
+
+msgid "ISO_639-3.CTC"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.CTD"
+msgstr "Poola"
+
+msgid "ISO_639-3.CTG"
+msgstr "Leedu"
+
+msgid "ISO_639-3.CTH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CTS"
+msgstr "Korea"
+
+msgid "ISO_639-3.CTU"
+msgstr "Värvid"
+
+msgid "ISO_639-3.CUH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CUI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.CUL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.CUU"
+msgstr "Tai"
+
+msgid "ISO_639-3.CUW"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CVG"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CWB"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.CWE"
+msgstr "Muu"
+
+msgid "ISO_639-3.CZH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.CZK"
+msgstr "Korea"
+
+msgid "ISO_639-3.CZT"
+msgstr "Balti"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tai"
+
+msgid "ISO_639-3.DAD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DAE"
+msgstr "Paus"
+
+msgid "ISO_639-3.DAG"
+msgstr "Taani"
+
+msgid "ISO_639-3.DAM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DAN"
+msgstr "Taani"
+
+msgid "ISO_639-3.DAO"
+msgstr "Balti"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DAR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DAV"
+msgstr "Läti"
+
+msgid "ISO_639-3.DAX"
+msgstr "Taani"
+
+msgid "ISO_639-3.DBA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.DBM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.DEC"
+msgstr "Tai"
+
+msgid "ISO_639-3.DEH"
+msgstr "Tai"
+
+msgid "ISO_639-3.DER"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DES"
+msgstr "Prindi"
+
+msgid "ISO_639-3.DEU"
+msgstr "Saksa"
+
+msgid "ISO_639-3.DGG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DGI"
+msgstr "Korea"
+
+msgid "ISO_639-3.DGK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DGL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DGN"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DGX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DHG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DHN"
+msgstr "Taani"
+
+msgid "ISO_639-3.DHO"
+msgstr "Norra"
+
+msgid "ISO_639-3.DHR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DHS"
+msgstr "Taani"
+
+msgid "ISO_639-3.DHU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DHX"
+msgstr "Ungari"
+
+msgid "ISO_639-3.DIC"
+msgstr "Läti"
+
+msgid "ISO_639-3.DIF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Taani"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.DIR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DIS"
+msgstr "Paus"
+
+msgid "ISO_639-3.DIT"
+msgstr "Tai"
+
+msgid "ISO_639-3.DIU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DIV"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.DJI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DJO"
+msgstr "Ungari"
+
+msgid "ISO_639-3.DJU"
+msgstr "Korea"
+
+msgid "ISO_639-3.DLG"
+msgstr "Norra"
+
+msgid "ISO_639-3.DLK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DLM"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.DLN"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DML"
+msgstr "Poola"
+
+msgid "ISO_639-3.DMM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DMV"
+msgstr "Paus"
+
+msgid "ISO_639-3.DMX"
+msgstr "Saksa"
+
+msgid "ISO_639-3.DNG"
+msgstr "Ungari"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Taani"
+
+msgid "ISO_639-3.DNK"
+msgstr "Balti"
+
+msgid "ISO_639-3.DNV"
+msgstr "Vene"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.DOH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DOK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DOO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DOP"
+msgstr "Paus"
+
+msgid "ISO_639-3.DOR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DOT"
+msgstr "Taani"
+
+msgid "ISO_639-3.DOX"
+msgstr "Vene"
+
+msgid "ISO_639-3.DOY"
+msgstr "alates"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DRB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DRC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DRD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DRG"
+msgstr "Inglise"
+
+msgid "ISO_639-3.DRL"
+msgstr "Ungari"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DRS"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.DRY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DSB"
+msgstr "Saksa"
+
+msgid "ISO_639-3.DSI"
+msgstr "Taani"
+
+msgid "ISO_639-3.DSO"
+msgstr "Prindi"
+
+msgid "ISO_639-3.DTA"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.DTY"
+msgstr "Poola"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.DUP"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.DWA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.DWR"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.DWW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.DYA"
+msgstr "Taani"
+
+msgid "ISO_639-3.DZA"
+msgstr "Tai"
+
+msgid "ISO_639-3.DZG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.EAA"
+msgstr "Korea"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ECR"
+msgstr "Korea"
+
+msgid "ISO_639-3.EGL"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.EIV"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.EKG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.EKK"
+msgstr "Hiina"
+
+msgid "ISO_639-3.EKR"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.EMN"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ENA"
+msgstr "Poola"
+
+msgid "ISO_639-3.ENB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ENG"
+msgstr "Inglise"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Balti"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERG"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.ERO"
+msgstr "Paus"
+
+msgid "ISO_639-3.ESG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.EST"
+msgstr "Eesti"
+
+msgid "ISO_639-3.ESY"
+msgstr "Korea"
+
+msgid "ISO_639-3.EUS"
+msgstr "Baski"
+
+msgid "ISO_639-3.EYO"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.FAA"
+msgstr "Baski"
+
+msgid "ISO_639-3.FAF"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.FAH"
+msgstr "Galeon"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Läti"
+
+msgid "ISO_639-3.FAO"
+msgstr "Fääri"
+
+msgid "ISO_639-3.FAP"
+msgstr "Poola"
+
+msgid "ISO_639-3.FAS"
+msgstr "Prindi"
+
+msgid "ISO_639-3.FAT"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albaania"
+
+msgid "ISO_639-3.FER"
+msgstr "Fääri"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FIN"
+msgstr "Soome"
+
+msgid "ISO_639-3.FIP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.FIR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.FIW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.FKV"
+msgstr "Soome"
+
+msgid "ISO_639-3.FLI"
+msgstr "Poola"
+
+msgid "ISO_639-3.FLL"
+msgstr "Korea"
+
+msgid "ISO_639-3.FLY"
+msgstr "Läti"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FNG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.FNI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.FOM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.FOR"
+msgstr "Korea"
+
+msgid "ISO_639-3.FQS"
+msgstr "Fääri"
+
+msgid "ISO_639-3.FRA"
+msgstr "Prantsuse"
+
+msgid "ISO_639-3.FRC"
+msgstr "Prantsuse"
+
+msgid "ISO_639-3.FRK"
+msgstr "Taani"
+
+msgid "ISO_639-3.FRP"
+msgstr "Araabia"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FUI"
+msgstr "Tai"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.FUU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.GAB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GAF"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GAH"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.GAI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GAL"
+msgstr "Poola"
+
+msgid "ISO_639-3.GAN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.GAO"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.GAT"
+msgstr "Balti"
+
+msgid "ISO_639-3.GBD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GBF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.GBK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tai"
+
+msgid "ISO_639-3.GBM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GBY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GCC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GCD"
+msgstr "Ungari"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GDI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GDK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GDL"
+msgstr "Taani"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GDT"
+msgstr "Ungari"
+
+msgid "ISO_639-3.GDX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GEA"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GEB"
+msgstr "Türgi"
+
+msgid "ISO_639-3.GEG"
+msgstr "Balti"
+
+msgid "ISO_639-3.GEI"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GEW"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GEX"
+msgstr "Korea"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GGE"
+msgstr "Fääri"
+
+msgid "ISO_639-3.GGK"
+msgstr "Korea"
+
+msgid "ISO_639-3.GHR"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GHT"
+msgstr "Hiina"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tai"
+
+msgid "ISO_639-3.GID"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GIG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GIL"
+msgstr "Vietnami"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GIR"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GIW"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GJM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GJN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GJU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GKE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GKN"
+msgstr "Korea"
+
+msgid "ISO_639-3.GLD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GLE"
+msgstr "Iiri"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.GLL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.GMA"
+msgstr "Värvid"
+
+msgid "ISO_639-3.GMV"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GNA"
+msgstr "Paus"
+
+msgid "ISO_639-3.GNB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GNE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GNH"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.GNI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GNM"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.GOA"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GOD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GOE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GOF"
+msgstr "Korea"
+
+msgid "ISO_639-3.GOK"
+msgstr "Korea"
+
+msgid "ISO_639-3.GON"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GOS"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GOY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GPN"
+msgstr "Tai"
+
+msgid "ISO_639-3.GQU"
+msgstr "Baski"
+
+msgid "ISO_639-3.GRB"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GRG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GRI"
+msgstr "Tai"
+
+msgid "ISO_639-3.GRO"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GRR"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.GRS"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GRT"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GRU"
+msgstr "Hiina"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.GSW"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GUR"
+msgstr "Fääri"
+
+msgid "ISO_639-3.GVE"
+msgstr "Hollandi"
+
+msgid "ISO_639-3.GVF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GVM"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.GWA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.GWC"
+msgstr "Poola"
+
+msgid "ISO_639-3.GWE"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GWF"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GWR"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GWW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.GYB"
+msgstr "Paus"
+
+msgid "ISO_639-3.GYE"
+msgstr "Saksa"
+
+msgid "ISO_639-3.GYF"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.GYI"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tai"
+
+msgid "ISO_639-3.GZI"
+msgstr "Tai"
+
+msgid "ISO_639-3.GZN"
+msgstr "Saksa"
+
+msgid "ISO_639-3.HAC"
+msgstr "Saksa"
+
+msgid "ISO_639-3.HAD"
+msgstr "Paus"
+
+msgid "ISO_639-3.HAG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HAI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HAJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HAK"
+msgstr "Hiina"
+
+msgid "ISO_639-3.HAL"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.HAM"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HAN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.HAP"
+msgstr "Paus"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Paus"
+
+msgid "ISO_639-3.HAR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.HAS"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HAT"
+msgstr "Läti"
+
+msgid "ISO_639-3.HAU"
+msgstr "Paus"
+
+msgid "ISO_639-3.HAV"
+msgstr "Paus"
+
+msgid "ISO_639-3.HAY"
+msgstr "Paus"
+
+msgid "ISO_639-3.HBA"
+msgstr "Paus"
+
+msgid "ISO_639-3.HBB"
+msgstr "Paus"
+
+msgid "ISO_639-3.HBN"
+msgstr "Prindi"
+
+msgid "ISO_639-3.HBO"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HBS"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.HBU"
+msgstr "Paus"
+
+msgid "ISO_639-3.HDY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HEB"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HEH"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HER"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HGW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HHR"
+msgstr "Muu"
+
+msgid "ISO_639-3.HHY"
+msgstr "Paus"
+
+msgid "ISO_639-3.HIA"
+msgstr "Läti"
+
+msgid "ISO_639-3.HIB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HID"
+msgstr "Paus"
+
+msgid "ISO_639-3.HIF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HIG"
+msgstr "Muu"
+
+msgid "ISO_639-3.HII"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HIN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HIR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HJI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HKA"
+msgstr "Muu"
+
+msgid "ISO_639-3.HKE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HLA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HLB"
+msgstr "Poola"
+
+msgid "ISO_639-3.HLE"
+msgstr "Paus"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.HMT"
+msgstr "Araabia"
+
+msgid "ISO_639-3.HMU"
+msgstr "Paus"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.HNI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HNU"
+msgstr "Ungari"
+
+msgid "ISO_639-3.HOA"
+msgstr "Paus"
+
+msgid "ISO_639-3.HOE"
+msgstr "alates"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HOM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.HOR"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HOW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HRE"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.HRO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HRU"
+msgstr "Paus"
+
+msgid "ISO_639-3.HRV"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.HRW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.HRX"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Ungari"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbia"
+
+msgid "ISO_639-3.HSN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.HSS"
+msgstr "Paus"
+
+msgid "ISO_639-3.HTS"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HUB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.HUC"
+msgstr "Paus"
+
+msgid "ISO_639-3.HUD"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.HUL"
+msgstr "Paus"
+
+msgid "ISO_639-3.HUM"
+msgstr "Ungari"
+
+msgid "ISO_639-3.HUN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.HUO"
+msgstr "Paus"
+
+msgid "ISO_639-3.HUP"
+msgstr "Paus"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.HUT"
+msgstr "Paus"
+
+msgid "ISO_639-3.HWO"
+msgstr "Paus"
+
+msgid "ISO_639-3.IAI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.IAR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.IBD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.IBG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.IBL"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albaania"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugali"
+
+msgid "ISO_639-3.IDR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.IGL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.IGN"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.IGS"
+msgstr "Renderdamine"
+
+msgid "ISO_639-3.III"
+msgstr "Leedu"
+
+msgid "ISO_639-3.IJE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.IKR"
+msgstr "Korea"
+
+msgid "ISO_639-3.IKS"
+msgstr "Korea"
+
+msgid "ISO_639-3.ILB"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.ILE"
+msgstr "Renderdamine"
+
+msgid "ISO_639-3.ILI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.ILM"
+msgstr "Vene"
+
+msgid "ISO_639-3.IMA"
+msgstr "ei"
+
+msgid "ISO_639-3.IMO"
+msgstr "Inglise"
+
+msgid "ISO_639-3.IMS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.INB"
+msgstr "Balti"
+
+msgid "ISO_639-3.IND"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.INH"
+msgstr "Inglise"
+
+msgid "ISO_639-3.INN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.IPK"
+msgstr "India"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.IRX"
+msgstr "Muu"
+
+msgid "ISO_639-3.ISA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ISH"
+msgstr "Eesti"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandi"
+
+msgid "ISO_639-3.ISM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ITA"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.ITD"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ITE"
+msgstr "Renderdamine"
+
+msgid "ISO_639-3.ITK"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.ITR"
+msgstr "Renderdamine"
+
+msgid "ISO_639-3.ITV"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.ITY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.IVB"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.IVV"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.IZH"
+msgstr "Ungari"
+
+msgid "ISO_639-3.JAC"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.JAF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.JAN"
+msgstr "Araabia"
+
+msgid "ISO_639-3.JAU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.JAV"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.JAY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.JBE"
+msgstr "Araabia"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.JCT"
+msgstr "Korea"
+
+msgid "ISO_639-3.JDT"
+msgstr "Araabia"
+
+msgid "ISO_639-3.JEB"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.JEG"
+msgstr "Balti"
+
+msgid "ISO_639-3.JER"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.JGE"
+msgstr "Prindi"
+
+msgid "ISO_639-3.JHI"
+msgstr "Korea"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.JKU"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.JLE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.JMN"
+msgstr "Türgi"
+
+msgid "ISO_639-3.JNI"
+msgstr "Tai"
+
+msgid "ISO_639-3.JNS"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.JPN"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.JPR"
+msgstr "Prindi"
+
+msgid "ISO_639-3.JRA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.JRB"
+msgstr "Araabia"
+
+msgid "ISO_639-3.JUK"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.JUL"
+msgstr "Türgi"
+
+msgid "ISO_639-3.JUN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.JUP"
+msgstr "Paus"
+
+msgid "ISO_639-3.JUT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.JVD"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.JVN"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.JYE"
+msgstr "Araabia"
+
+msgid "ISO_639-3.KAE"
+msgstr "Ungari"
+
+msgid "ISO_639-3.KAF"
+msgstr "Paus"
+
+msgid "ISO_639-3.KAI"
+msgstr "Korea"
+
+msgid "ISO_639-3.KAK"
+msgstr "Korea"
+
+msgid "ISO_639-3.KAU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KBE"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KBI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KBL"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KBP"
+msgstr "Tai"
+
+msgid "ISO_639-3.KBS"
+msgstr "Korea"
+
+msgid "ISO_639-3.KBT"
+msgstr "Albaania"
+
+msgid "ISO_639-3.KBU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.KBW"
+msgstr "Tai"
+
+msgid "ISO_639-3.KBY"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Hollandi"
+
+msgid "ISO_639-3.KCC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KCE"
+msgstr "Tai"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KCO"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KCP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KCS"
+msgstr "Korea"
+
+msgid "ISO_639-3.KCT"
+msgstr "Läti"
+
+msgid "ISO_639-3.KCW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KCY"
+msgstr "Korea"
+
+msgid "ISO_639-3.KDC"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KDE"
+msgstr "ei"
+
+msgid "ISO_639-3.KDF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbia"
+
+msgid "ISO_639-3.KDR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KDW"
+msgstr "Korea"
+
+msgid "ISO_639-3.KDY"
+msgstr "Muu"
+
+msgid "ISO_639-3.KEA"
+msgstr "Serbia"
+
+msgid "ISO_639-3.KED"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.KEG"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.KEH"
+msgstr "Muu"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KEN"
+msgstr "Korea"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Muu"
+
+msgid "ISO_639-3.KER"
+msgstr "Muu"
+
+msgid "ISO_639-3.KEY"
+msgstr "India"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Hiina"
+
+msgid "ISO_639-3.KFA"
+msgstr "Korea"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KFD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.KFF"
+msgstr "Korea"
+
+msgid "ISO_639-3.KFG"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFM"
+msgstr "Tai"
+
+msgid "ISO_639-3.KFN"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFP"
+msgstr "Korea"
+
+msgid "ISO_639-3.KFR"
+msgstr "Tai"
+
+msgid "ISO_639-3.KFS"
+msgstr "Tai"
+
+msgid "ISO_639-3.KFT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFV"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KFW"
+msgstr "Läti"
+
+msgid "ISO_639-3.KFX"
+msgstr "Tai"
+
+msgid "ISO_639-3.KFY"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KGB"
+msgstr "Korea"
+
+msgid "ISO_639-3.KGE"
+msgstr "Serbia"
+
+msgid "ISO_639-3.KGL"
+msgstr "Ungari"
+
+msgid "ISO_639-3.KGN"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.KGP"
+msgstr "Läti"
+
+msgid "ISO_639-3.KGV"
+msgstr "Korea"
+
+msgid "ISO_639-3.KGW"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KHA"
+msgstr "Tai"
+
+msgid "ISO_639-3.KHE"
+msgstr "Korea"
+
+msgid "ISO_639-3.KHF"
+msgstr "Muu"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KHL"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KHN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.KHO"
+msgstr "Hiina"
+
+msgid "ISO_639-3.KHP"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KHR"
+msgstr "Tai"
+
+msgid "ISO_639-3.KHS"
+msgstr "Paus"
+
+msgid "ISO_639-3.KHT"
+msgstr "Tai"
+
+msgid "ISO_639-3.KHV"
+msgstr "Tai"
+
+msgid "ISO_639-3.KHX"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KIB"
+msgstr "Korea"
+
+msgid "ISO_639-3.KID"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.KIH"
+msgstr "Muu"
+
+msgid "ISO_639-3.KIL"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KIM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KIS"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KIW"
+msgstr "Korea"
+
+msgid "ISO_639-3.KIX"
+msgstr "Läti"
+
+msgid "ISO_639-3.KJC"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.KJE"
+msgstr "Korea"
+
+msgid "ISO_639-3.KJG"
+msgstr "Muu"
+
+msgid "ISO_639-3.KJO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KJR"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.KKK"
+msgstr "Korea"
+
+msgid "ISO_639-3.KKL"
+msgstr "Korea"
+
+msgid "ISO_639-3.KKO"
+msgstr "Korea"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.KKT"
+msgstr "Korea"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tai"
+
+msgid "ISO_639-3.KKV"
+msgstr "Korea"
+
+msgid "ISO_639-3.KKX"
+msgstr "Tai"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Paus"
+
+msgid "ISO_639-3.KLG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KLL"
+msgstr "Läti"
+
+msgid "ISO_639-3.KLM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KLN"
+msgstr "Korea"
+
+msgid "ISO_639-3.KLP"
+msgstr "Paus"
+
+msgid "ISO_639-3.KLR"
+msgstr "Tai"
+
+msgid "ISO_639-3.KLW"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.KMA"
+msgstr "Korea"
+
+msgid "ISO_639-3.KMD"
+msgstr "Ungari"
+
+msgid "ISO_639-3.KMK"
+msgstr "Tai"
+
+msgid "ISO_639-3.KML"
+msgstr "Ungari"
+
+msgid "ISO_639-3.KMR"
+msgstr "Korea"
+
+msgid "ISO_639-3.KMU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KMY"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.KNC"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KND"
+msgstr "Korea"
+
+msgid "ISO_639-3.KNE"
+msgstr "Korea"
+
+msgid "ISO_639-3.KNI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KNK"
+msgstr "Korea"
+
+msgid "ISO_639-3.KOC"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.KOD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KOF"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KOG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KOK"
+msgstr "Korea"
+
+msgid "ISO_639-3.KOO"
+msgstr "Korea"
+
+msgid "ISO_639-3.KOR"
+msgstr "Korea"
+
+msgid "ISO_639-3.KOS"
+msgstr "Korea"
+
+msgid "ISO_639-3.KOT"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KOU"
+msgstr "Korea"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KPD"
+msgstr "Korea"
+
+msgid "ISO_639-3.KPH"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KPK"
+msgstr "Korea"
+
+msgid "ISO_639-3.KPR"
+msgstr "Korea"
+
+msgid "ISO_639-3.KPS"
+msgstr "Tai"
+
+msgid "ISO_639-3.KPY"
+msgstr "Korea"
+
+msgid "ISO_639-3.KQB"
+msgstr "Korea"
+
+msgid "ISO_639-3.KQG"
+msgstr "Muu"
+
+msgid "ISO_639-3.KQM"
+msgstr "Tai"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KQR"
+msgstr "Leedu"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbia"
+
+msgid "ISO_639-3.KQY"
+msgstr "Korea"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KRA"
+msgstr "Tai"
+
+msgid "ISO_639-3.KRB"
+msgstr "Korea"
+
+msgid "ISO_639-3.KRE"
+msgstr "Tai"
+
+msgid "ISO_639-3.KRH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.KRI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KRK"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.KRL"
+msgstr "Korea"
+
+msgid "ISO_639-3.KRM"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KRT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KRU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KRV"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KRX"
+msgstr "Korea"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Vene"
+
+msgid "ISO_639-3.KSD"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KSE"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KSF"
+msgstr "Paus"
+
+msgid "ISO_639-3.KSI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KSK"
+msgstr "Paus"
+
+msgid "ISO_639-3.KSO"
+msgstr "Korea"
+
+msgid "ISO_639-3.KSV"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KSX"
+msgstr "Korea"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KTA"
+msgstr "Paus"
+
+msgid "ISO_639-3.KTD"
+msgstr "Korea"
+
+msgid "ISO_639-3.KTF"
+msgstr "Tai"
+
+msgid "ISO_639-3.KTH"
+msgstr "Korea"
+
+msgid "ISO_639-3.KTK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KTM"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KUC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KUG"
+msgstr "Paus"
+
+msgid "ISO_639-3.KUH"
+msgstr "Tai"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.KUO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KUR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KUV"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KVB"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KVC"
+msgstr "Korea"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.KVI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KVL"
+msgstr "Korea"
+
+msgid "ISO_639-3.KVP"
+msgstr "Korea"
+
+msgid "ISO_639-3.KVV"
+msgstr "Korea"
+
+msgid "ISO_639-3.KVW"
+msgstr "Prindi"
+
+msgid "ISO_639-3.KWC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KWD"
+msgstr "Tai"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbia"
+
+msgid "ISO_639-3.KWF"
+msgstr "Korea"
+
+msgid "ISO_639-3.KWH"
+msgstr "Korea"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KWN"
+msgstr "Balti"
+
+msgid "ISO_639-3.KWP"
+msgstr "Norra"
+
+msgid "ISO_639-3.KWR"
+msgstr "Muu"
+
+msgid "ISO_639-3.KWW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.KXA"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KXC"
+msgstr "alates"
+
+msgid "ISO_639-3.KXD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KXN"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KXS"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KXV"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KXW"
+msgstr "Korea"
+
+msgid "ISO_639-3.KXY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.KYD"
+msgstr "Korea"
+
+msgid "ISO_639-3.KYH"
+msgstr "Korea"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.KYO"
+msgstr "Korea"
+
+msgid "ISO_639-3.KYP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Balti"
+
+msgid "ISO_639-3.KYS"
+msgstr "Araabia"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.KZD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.KZE"
+msgstr "Korea"
+
+msgid "ISO_639-3.KZG"
+msgstr "Korea"
+
+msgid "ISO_639-3.KZL"
+msgstr "Poola"
+
+msgid "ISO_639-3.KZM"
+msgstr "Tai"
+
+msgid "ISO_639-3.KZN"
+msgstr "Korea"
+
+msgid "ISO_639-3.KZO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.KZR"
+msgstr "Korea"
+
+msgid "ISO_639-3.KZX"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.LAB"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LAD"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LAG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LAL"
+msgstr "Poola"
+
+msgid "ISO_639-3.LAT"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LAV"
+msgstr "Läti"
+
+msgid "ISO_639-3.LAY"
+msgstr "Tai"
+
+msgid "ISO_639-3.LBA"
+msgstr "Tai"
+
+msgid "ISO_639-3.LBC"
+msgstr "Läti"
+
+msgid "ISO_639-3.LBF"
+msgstr "Soome"
+
+msgid "ISO_639-3.LBI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LBK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.LBM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LBN"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LBO"
+msgstr "Läti"
+
+msgid "ISO_639-3.LBT"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LBW"
+msgstr "Tai"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LCH"
+msgstr "Tai"
+
+msgid "ISO_639-3.LCL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.LDD"
+msgstr "Tai"
+
+msgid "ISO_639-3.LDI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LDL"
+msgstr "Korea"
+
+msgid "ISO_639-3.LDM"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LDN"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.LES"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.LEX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LFN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.LGK"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LGT"
+msgstr "Poola"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.LHN"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LHT"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LIC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LIE"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LIF"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LIM"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LIN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LIR"
+msgstr "Inglise"
+
+msgid "ISO_639-3.LIT"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LIU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LIW"
+msgstr "Värvid"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tai"
+
+msgid "ISO_639-3.LJI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LJL"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LJP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LJW"
+msgstr "Araabia"
+
+msgid "ISO_639-3.LKB"
+msgstr "Korea"
+
+msgid "ISO_639-3.LKC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LKD"
+msgstr "ei"
+
+msgid "ISO_639-3.LKE"
+msgstr "Korea"
+
+msgid "ISO_639-3.LKI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LKM"
+msgstr "Poola"
+
+msgid "ISO_639-3.LKN"
+msgstr "ei"
+
+msgid "ISO_639-3.LKO"
+msgstr "Tai"
+
+msgid "ISO_639-3.LKS"
+msgstr "Korea"
+
+msgid "ISO_639-3.LKT"
+msgstr "Läti"
+
+msgid "ISO_639-3.LKU"
+msgstr "Ungari"
+
+msgid "ISO_639-3.LLD"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LLF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LLH"
+msgstr "Baski"
+
+msgid "ISO_639-3.LLL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LLM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LLO"
+msgstr "Muu"
+
+msgid "ISO_639-3.LLX"
+msgstr "Läti"
+
+msgid "ISO_639-3.LMB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LMC"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LMG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LML"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LMN"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LMP"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LNH"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LNI"
+msgstr "Läti"
+
+msgid "ISO_639-3.LNM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LNS"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LNW"
+msgstr "Poola"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.LOE"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.LOH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LOO"
+msgstr "alates"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LOS"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LPO"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LRA"
+msgstr "Tai"
+
+msgid "ISO_639-3.LRC"
+msgstr "Korea"
+
+msgid "ISO_639-3.LRE"
+msgstr "Läti"
+
+msgid "ISO_639-3.LRG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LRI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LRK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LRL"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LRM"
+msgstr "Araabia"
+
+msgid "ISO_639-3.LRN"
+msgstr "Korea"
+
+msgid "ISO_639-3.LRO"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Serbia"
+
+msgid "ISO_639-3.LSD"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LSH"
+msgstr "Iiri"
+
+msgid "ISO_639-3.LSI"
+msgstr "Tai"
+
+msgid "ISO_639-3.LSM"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.LSS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.LTG"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.LTN"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LTO"
+msgstr "alates"
+
+msgid "ISO_639-3.LTS"
+msgstr "Värvid"
+
+msgid "ISO_639-3.LTU"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LUC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LUD"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LUF"
+msgstr "Paus"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.LUM"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LUR"
+msgstr "Paus"
+
+msgid "ISO_639-3.LUS"
+msgstr "Tai"
+
+msgid "ISO_639-3.LUV"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LVS"
+msgstr "Hiina"
+
+msgid "ISO_639-3.LWG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.LWH"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.LWM"
+msgstr "Läti"
+
+msgid "ISO_639-3.LYG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LYN"
+msgstr "Leedu"
+
+msgid "ISO_639-3.LZH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.LZN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MAD"
+msgstr "ei"
+
+msgid "ISO_639-3.MAF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MAH"
+msgstr "ei"
+
+msgid "ISO_639-3.MAM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MAS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MAW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.MBC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MBE"
+msgstr "ei"
+
+msgid "ISO_639-3.MBF"
+msgstr "Paus"
+
+msgid "ISO_639-3.MBK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MBS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MBW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MBY"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MCA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MCH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MCI"
+msgstr "ei"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MCN"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MCP"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MCS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MCT"
+msgstr "Balti"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MDB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MDG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MDH"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.MDN"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MDP"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MDW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MDX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MEC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MEL"
+msgstr "Türgi"
+
+msgid "ISO_639-3.MEM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.MES"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MET"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MEV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MEW"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.MFA"
+msgstr "Läti"
+
+msgid "ISO_639-3.MFB"
+msgstr "Balti"
+
+msgid "ISO_639-3.MFE"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MFF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MFH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MFK"
+msgstr "Korea"
+
+msgid "ISO_639-3.MFL"
+msgstr "Poola"
+
+msgid "ISO_639-3.MFP"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MFR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MFY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MGB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MGD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MGE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MGF"
+msgstr "ei"
+
+msgid "ISO_639-3.MGK"
+msgstr "ei"
+
+msgid "ISO_639-3.MGN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MGP"
+msgstr "Korea"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.MGU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.MHE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MHF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MHG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MHI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MHK"
+msgstr "Ungari"
+
+msgid "ISO_639-3.MHP"
+msgstr "Hiina"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.MHX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MIA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MID"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.MIK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MJB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MJL"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MJR"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MJV"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MJW"
+msgstr "Türgi"
+
+msgid "ISO_639-3.MJX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MJY"
+msgstr "Läti"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MKA"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.MKD"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MKE"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MKI"
+msgstr "Tai"
+
+msgid "ISO_639-3.MKJ"
+msgstr "ei"
+
+msgid "ISO_639-3.MKR"
+msgstr "ei"
+
+msgid "ISO_639-3.MKV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MKY"
+msgstr "Ungari"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MLA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MLF"
+msgstr "ei"
+
+msgid "ISO_639-3.MLH"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.MLK"
+msgstr "Paus"
+
+msgid "ISO_639-3.MLP"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MLS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MLT"
+msgstr "ei"
+
+msgid "ISO_639-3.MMA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MMD"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MME"
+msgstr "ei"
+
+msgid "ISO_639-3.MMI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MMM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MMO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MMP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MMQ"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MMV"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MMX"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.MNI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.MNL"
+msgstr "Türgi"
+
+msgid "ISO_639-3.MNM"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MNP"
+msgstr "Hiina"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MNS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MOD"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MOI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MOK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MOM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MOR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MOS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MPC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MPD"
+msgstr "Hiina"
+
+msgid "ISO_639-3.MPE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MPG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MPH"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MPI"
+msgstr "ei"
+
+msgid "ISO_639-3.MPN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MPQ"
+msgstr "ei"
+
+msgid "ISO_639-3.MPT"
+msgstr "ei"
+
+msgid "ISO_639-3.MPV"
+msgstr "Ungari"
+
+msgid "ISO_639-3.MPW"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MPY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.MQE"
+msgstr "ei"
+
+msgid "ISO_639-3.MQI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MQP"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MQR"
+msgstr "ei"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MQU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MQV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MQW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MQY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MRG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.MRX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MSC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MSE"
+msgstr "ei"
+
+msgid "ISO_639-3.MSG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MSK"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.MSS"
+msgstr "ei"
+
+msgid "ISO_639-3.MSV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MSY"
+msgstr "Araabia"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MTM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MTR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MTS"
+msgstr "Korea"
+
+msgid "ISO_639-3.MTY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MUI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MUO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MUP"
+msgstr "Poola"
+
+msgid "ISO_639-3.MUR"
+msgstr "ei"
+
+msgid "ISO_639-3.MUS"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MUU"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.MUX"
+msgstr "Balti"
+
+msgid "ISO_639-3.MUY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVP"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVS"
+msgstr "ei"
+
+msgid "ISO_639-3.MVU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Prindi"
+
+msgid "ISO_639-3.MWI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.MWK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.MWL"
+msgstr "ei"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Balti"
+
+msgid "ISO_639-3.MWR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MWV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MWX"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MWY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MXD"
+msgstr "Norra"
+
+msgid "ISO_639-3.MXF"
+msgstr "ei"
+
+msgid "ISO_639-3.MXG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.MXI"
+msgstr "Araabia"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.MXR"
+msgstr "Vene"
+
+msgid "ISO_639-3.MXX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MYG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MYH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.MYL"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.MYS"
+msgstr "ei"
+
+msgid "ISO_639-3.MYX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MYY"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.MZE"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.MZS"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.MZT"
+msgstr "Otsi"
+
+msgid "ISO_639-3.MZV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NAC"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.NAF"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.NAL"
+msgstr "Poola"
+
+msgid "ISO_639-3.NAN"
+msgstr "Hiina"
+
+msgid "ISO_639-3.NAW"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NAX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NBC"
+msgstr "Läti"
+
+msgid "ISO_639-3.NBH"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.NBN"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NBU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NCB"
+msgstr "Korea"
+
+msgid "ISO_639-3.NCE"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.NCF"
+msgstr "Pea kinni"
+
+msgid "ISO_639-3.NCH"
+msgstr "Korea"
+
+msgid "ISO_639-3.NCN"
+msgstr "Paus"
+
+msgid "ISO_639-3.NDA"
+msgstr "Paus"
+
+msgid "ISO_639-3.NDF"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.NDH"
+msgstr "Poola"
+
+msgid "ISO_639-3.NDS"
+msgstr "Värvid"
+
+msgid "ISO_639-3.NDX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vietnami"
+
+msgid "ISO_639-3.NEG"
+msgstr "Norra"
+
+msgid "ISO_639-3.NEP"
+msgstr "Korea"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NER"
+msgstr "Albaania"
+
+msgid "ISO_639-3.NES"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NEW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NFD"
+msgstr "Tai"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NGK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NGO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NGX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NGY"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NHA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NHB"
+msgstr "Balti"
+
+msgid "ISO_639-3.NHH"
+msgstr "Tai"
+
+msgid "ISO_639-3.NHO"
+msgstr "Tai"
+
+msgid "ISO_639-3.NIB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NID"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NIO"
+msgstr "Ungari"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NIR"
+msgstr "Leedu"
+
+msgid "ISO_639-3.NIX"
+msgstr "Saksa"
+
+msgid "ISO_639-3.NIY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NJN"
+msgstr "Läti"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NKA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NKB"
+msgstr "Läti"
+
+msgid "ISO_639-3.NKD"
+msgstr "Korea"
+
+msgid "ISO_639-3.NKG"
+msgstr "Norra"
+
+msgid "ISO_639-3.NKI"
+msgstr "Läti"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NKN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NKU"
+msgstr "Ungari"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NLD"
+msgstr "Hollandi"
+
+msgid "ISO_639-3.NLG"
+msgstr "Saksa"
+
+msgid "ISO_639-3.NLI"
+msgstr "Balti"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Poola"
+
+msgid "ISO_639-3.NLL"
+msgstr "Tai"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NLW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NLX"
+msgstr "Tai"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Poola"
+
+msgid "ISO_639-3.NMA"
+msgstr "Araabia"
+
+msgid "ISO_639-3.NMB"
+msgstr "Paus"
+
+msgid "ISO_639-3.NMC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.NMG"
+msgstr "Tai"
+
+msgid "ISO_639-3.NMR"
+msgstr "Tai"
+
+msgid "ISO_639-3.NMV"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NMW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NNF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NNG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tai"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norra"
+
+msgid "ISO_639-3.NNU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norra"
+
+msgid "ISO_639-3.NOD"
+msgstr "Korea"
+
+msgid "ISO_639-3.NOF"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.NOG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NOI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NOL"
+msgstr "Tai"
+
+msgid "ISO_639-3.NON"
+msgstr "Prindi"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NPG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NPI"
+msgstr "Korea"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NQY"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NRB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NRC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NRK"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NRM"
+msgstr "alates"
+
+msgid "ISO_639-3.NRN"
+msgstr "Norra"
+
+msgid "ISO_639-3.NRR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NRT"
+msgstr "Korea"
+
+msgid "ISO_639-3.NRU"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NSA"
+msgstr "Läti"
+
+msgid "ISO_639-3.NSC"
+msgstr "Tai"
+
+msgid "ISO_639-3.NSE"
+msgstr "Balti"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.NSG"
+msgstr "Paus"
+
+msgid "ISO_639-3.NSK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NSS"
+msgstr "Poola"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.NSY"
+msgstr "Paus"
+
+msgid "ISO_639-3.NTD"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.NTG"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.NTU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NTX"
+msgstr "Ungari"
+
+msgid "ISO_639-3.NTY"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.NUA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NUD"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NUG"
+msgstr "Balti"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.NUX"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.NVH"
+msgstr "Prindi"
+
+msgid "ISO_639-3.NWR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NXI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serbia"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NXX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.NYA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NYC"
+msgstr "Balti"
+
+msgid "ISO_639-3.NYF"
+msgstr "Saksa"
+
+msgid "ISO_639-3.NYH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.NYR"
+msgstr "Tai"
+
+msgid "ISO_639-3.OAA"
+msgstr "alates"
+
+msgid "ISO_639-3.OAC"
+msgstr "alates"
+
+msgid "ISO_639-3.OAR"
+msgstr "Araabia"
+
+msgid "ISO_639-3.OCH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.OCO"
+msgstr "Värvid"
+
+msgid "ISO_639-3.ODT"
+msgstr "Hollandi"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.OGE"
+msgstr "Prindi"
+
+msgid "ISO_639-3.OGO"
+msgstr "Tai"
+
+msgid "ISO_639-3.OHU"
+msgstr "Ungari"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.OJP"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.OKB"
+msgstr "alates"
+
+msgid "ISO_639-3.OKD"
+msgstr "Norra"
+
+msgid "ISO_639-3.OKK"
+msgstr "Tai"
+
+msgid "ISO_639-3.OKL"
+msgstr "Korea"
+
+msgid "ISO_639-3.OKR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.OKV"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.OLD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.OLM"
+msgstr "alates"
+
+msgid "ISO_639-3.OLR"
+msgstr "alates"
+
+msgid "ISO_639-3.OLT"
+msgstr "Leedu"
+
+msgid "ISO_639-3.OMK"
+msgstr "alates"
+
+msgid "ISO_639-3.OML"
+msgstr "alates"
+
+msgid "ISO_639-3.OMP"
+msgstr "Türgi"
+
+msgid "ISO_639-3.OMR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ONB"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ONP"
+msgstr "Korea"
+
+msgid "ISO_639-3.ONR"
+msgstr "Korea"
+
+msgid "ISO_639-3.ONW"
+msgstr "Prindi"
+
+msgid "ISO_639-3.OOS"
+msgstr "Vene"
+
+msgid "ISO_639-3.ORA"
+msgstr "alates"
+
+msgid "ISO_639-3.ORC"
+msgstr "alates"
+
+msgid "ISO_639-3.ORI"
+msgstr "Korea"
+
+msgid "ISO_639-3.ORM"
+msgstr "alates"
+
+msgid "ISO_639-3.ORO"
+msgstr "alates"
+
+msgid "ISO_639-3.ORR"
+msgstr "alates"
+
+msgid "ISO_639-3.ORT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.ORV"
+msgstr "Vene"
+
+msgid "ISO_639-3.ORX"
+msgstr "alates"
+
+msgid "ISO_639-3.ORZ"
+msgstr "alates"
+
+msgid "ISO_639-3.OSC"
+msgstr "Vene"
+
+msgid "ISO_639-3.OSI"
+msgstr "Vene"
+
+msgid "ISO_639-3.OSO"
+msgstr "alates"
+
+msgid "ISO_639-3.OSP"
+msgstr "Hispaania"
+
+msgid "ISO_639-3.OSS"
+msgstr "Vene"
+
+msgid "ISO_639-3.OSX"
+msgstr "Prindi"
+
+msgid "ISO_639-3.OTB"
+msgstr "Prindi"
+
+msgid "ISO_639-3.OTD"
+msgstr "Vene"
+
+msgid "ISO_639-3.OTK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.OTR"
+msgstr "alates"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tai"
+
+msgid "ISO_639-3.OWL"
+msgstr "Prindi"
+
+msgid "ISO_639-3.PAG"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PAH"
+msgstr "Tai"
+
+msgid "ISO_639-3.PAO"
+msgstr "Korea"
+
+msgid "ISO_639-3.PAR"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PAS"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PAT"
+msgstr "Poola"
+
+msgid "ISO_639-3.PAY"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.PBI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.PBN"
+msgstr "Paus"
+
+msgid "ISO_639-3.PBO"
+msgstr "Poola"
+
+msgid "ISO_639-3.PBR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.PCF"
+msgstr "Poola"
+
+msgid "ISO_639-3.PCG"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PCH"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.PCI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.PCL"
+msgstr "Poola"
+
+msgid "ISO_639-3.PDI"
+msgstr "Poola"
+
+msgid "ISO_639-3.PDN"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.PDU"
+msgstr "Korea"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.PEE"
+msgstr "Tai"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.PEH"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.PEK"
+msgstr "Prantsuse"
+
+msgid "ISO_639-3.PEL"
+msgstr "Poola"
+
+msgid "ISO_639-3.PES"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.PFL"
+msgstr "Poola"
+
+msgid "ISO_639-3.PGG"
+msgstr "Poola"
+
+msgid "ISO_639-3.PGI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.PGS"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Korea"
+
+msgid "ISO_639-3.PHA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.PHH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.PHN"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.PHT"
+msgstr "Tai"
+
+msgid "ISO_639-3.PHV"
+msgstr "Poola"
+
+msgid "ISO_639-3.PIC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.PII"
+msgstr "Otsi"
+
+msgid "ISO_639-3.PIM"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.PIP"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.PIS"
+msgstr "Otsi"
+
+msgid "ISO_639-3.PIV"
+msgstr "Poola"
+
+msgid "ISO_639-3.PKB"
+msgstr "alates"
+
+msgid "ISO_639-3.PKT"
+msgstr "ei"
+
+msgid "ISO_639-3.PLA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.PLD"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLE"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLH"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLI"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLP"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLU"
+msgstr "Poola"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.PMB"
+msgstr "Poola"
+
+msgid "ISO_639-3.PMD"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PMK"
+msgstr "Poola"
+
+msgid "ISO_639-3.PML"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.PMM"
+msgstr "alates"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vietnami"
+
+msgid "ISO_639-3.PMY"
+msgstr "Hiina"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.PNC"
+msgstr "Poola"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.PNK"
+msgstr "Paus"
+
+msgid "ISO_639-3.PNL"
+msgstr "Poola"
+
+msgid "ISO_639-3.PNP"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PNR"
+msgstr "Poola"
+
+msgid "ISO_639-3.PNS"
+msgstr "Korea"
+
+msgid "ISO_639-3.PNT"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.PNX"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.PNY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.POC"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.POL"
+msgstr "Poola"
+
+msgid "ISO_639-3.PON"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugali"
+
+msgid "ISO_639-3.POX"
+msgstr "Albaania"
+
+msgid "ISO_639-3.PPE"
+msgstr "Poola"
+
+msgid "ISO_639-3.PPI"
+msgstr "Poola"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Prindi"
+
+msgid "ISO_639-3.PPT"
+msgstr "Korea"
+
+msgid "ISO_639-3.PRB"
+msgstr "Tai"
+
+msgid "ISO_639-3.PRF"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PRG"
+msgstr "Prindi"
+
+msgid "ISO_639-3.PRI"
+msgstr "Poola"
+
+msgid "ISO_639-3.PRM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.PRP"
+msgstr "Poola"
+
+msgid "ISO_639-3.PRR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.PRT"
+msgstr "Poola"
+
+msgid "ISO_639-3.PRU"
+msgstr "Poola"
+
+msgid "ISO_639-3.PRW"
+msgstr "Hiina"
+
+msgid "ISO_639-3.PSH"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.PSI"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.PSM"
+msgstr "Paus"
+
+msgid "ISO_639-3.PSN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Poola"
+
+msgid "ISO_639-3.PTN"
+msgstr "Läti"
+
+msgid "ISO_639-3.PTR"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PTU"
+msgstr "Paus"
+
+msgid "ISO_639-3.PTY"
+msgstr "Prindi"
+
+msgid "ISO_639-3.PUT"
+msgstr "Hollandi"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugali"
+
+msgid "ISO_639-3.PUX"
+msgstr "Korea"
+
+msgid "ISO_639-3.PWA"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PWB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.PWN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.PWR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.PZN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.QUA"
+msgstr "Paus"
+
+msgid "ISO_639-3.QUC"
+msgstr "Muu"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.QYP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RAA"
+msgstr "Balti"
+
+msgid "ISO_639-3.RAC"
+msgstr "Paus"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.RAL"
+msgstr "ei"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RAQ"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.RAR"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RAS"
+msgstr "Balti"
+
+msgid "ISO_639-3.RAW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RAX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.REE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.REJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.REN"
+msgstr "Balti"
+
+msgid "ISO_639-3.RGA"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RHG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RHP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.RJG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RJI"
+msgstr "Tai"
+
+msgid "ISO_639-3.RKI"
+msgstr "Hiina"
+
+msgid "ISO_639-3.RKM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.RKT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.RKW"
+msgstr "Araabia"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMG"
+msgstr "Norra"
+
+msgid "ISO_639-3.RMH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.RMI"
+msgstr "Korea"
+
+msgid "ISO_639-3.RMK"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RML"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMT"
+msgstr "Ääred"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMX"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.RNG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RNL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RNN"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RNR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.ROF"
+msgstr "alates"
+
+msgid "ISO_639-3.ROG"
+msgstr "Korea"
+
+msgid "ISO_639-3.ROH"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.ROM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RON"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.ROR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RPT"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.RRI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RRO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RSM"
+msgstr "Korea"
+
+msgid "ISO_639-3.RTC"
+msgstr "Hiina"
+
+msgid "ISO_639-3.RTM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.RUC"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.RUE"
+msgstr "Vene"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RUK"
+msgstr "Hiina"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RUS"
+msgstr "Vene"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.RWO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.RWR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.RXD"
+msgstr "Tai"
+
+msgid "ISO_639-3.RXW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SAA"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SAB"
+msgstr "Hiina"
+
+msgid "ISO_639-3.SAC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SAE"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SAK"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SAM"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SAN"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SAO"
+msgstr "ei"
+
+msgid "ISO_639-3.SAS"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SAU"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SAY"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SBE"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.SBK"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SBL"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SBM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.SBN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SBY"
+msgstr "Poola"
+
+msgid "ISO_639-3.SCE"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.SCH"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SCK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SCO"
+msgstr "Pea kinni"
+
+msgid "ISO_639-3.SCW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SDB"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SDC"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SDF"
+msgstr "Poola"
+
+msgid "ISO_639-3.SDH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SDK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SDN"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SDR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SED"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SEH"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SEK"
+msgstr "Korea"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SET"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SGB"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.SGC"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SGE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SGK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SGM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SGP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SGR"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SGS"
+msgstr "Läti"
+
+msgid "ISO_639-3.SGU"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SGY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SHC"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SHO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SHQ"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SHR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SHT"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SHW"
+msgstr "Tai"
+
+msgid "ISO_639-3.SHY"
+msgstr "Tai"
+
+msgid "ISO_639-3.SIB"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.SIE"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SIH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SIN"
+msgstr "Vietnami"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SIR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SIU"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SIX"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SIY"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SJN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SJP"
+msgstr "Türgi"
+
+msgid "ISO_639-3.SJR"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SJW"
+msgstr "Hiina"
+
+msgid "ISO_639-3.SKB"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SKC"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SKH"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SKI"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.SKM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SKR"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SKS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SKU"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SKY"
+msgstr "Albaania"
+
+msgid "ISO_639-3.SLI"
+msgstr "Saksa"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.SLN"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SLR"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SLU"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.SLV"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SMB"
+msgstr "Tai"
+
+msgid "ISO_639-3.SMD"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SME"
+msgstr "Korea"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SMK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SMM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SMN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SMP"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SMU"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.SMX"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SMY"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SND"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SNI"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SNK"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SNL"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SNN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SNO"
+msgstr "Hispaania"
+
+msgid "ISO_639-3.SNP"
+msgstr "Norra"
+
+msgid "ISO_639-3.SNR"
+msgstr "Norra"
+
+msgid "ISO_639-3.SNU"
+msgstr "Balti"
+
+msgid "ISO_639-3.SNV"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SOA"
+msgstr "Tai"
+
+msgid "ISO_639-3.SOD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SOG"
+msgstr "Norra"
+
+msgid "ISO_639-3.SOH"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.SOI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SOL"
+msgstr "Pea kinni"
+
+msgid "ISO_639-3.SOO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SOP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.SOR"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SOS"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.SPA"
+msgstr "Hispaania"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.SPG"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SPI"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SPS"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SPU"
+msgstr "Hispaania"
+
+msgid "ISO_639-3.SPV"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albaania"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SQR"
+msgstr "Araabia"
+
+msgid "ISO_639-3.SQU"
+msgstr "Hispaania"
+
+msgid "ISO_639-3.SRA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SRB"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SRC"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SRD"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SRE"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SRF"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SRO"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SRS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SRT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SSD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SSE"
+msgstr "Balti"
+
+msgid "ISO_639-3.SSF"
+msgstr "Tai"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SSH"
+msgstr "Araabia"
+
+msgid "ISO_639-3.SSI"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SSJ"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SSN"
+msgstr "Paus"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.SST"
+msgstr "Ungari"
+
+msgid "ISO_639-3.SSU"
+msgstr "Tai"
+
+msgid "ISO_639-3.STB"
+msgstr "Korea"
+
+msgid "ISO_639-3.STD"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.STK"
+msgstr "Araabia"
+
+msgid "ISO_639-3.STM"
+msgstr "Saksa"
+
+msgid "ISO_639-3.STO"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SUX"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SVA"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SVS"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SVX"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.SWE"
+msgstr "Rootsi"
+
+msgid "ISO_639-3.SWF"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SWK"
+msgstr "Hiina"
+
+msgid "ISO_639-3.SWM"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SWO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.SWS"
+msgstr "Valgevene"
+
+msgid "ISO_639-3.SWW"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.SWY"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SXM"
+msgstr "Korea"
+
+msgid "ISO_639-3.SXN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.SXS"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SYA"
+msgstr "Norra"
+
+msgid "ISO_639-3.SYB"
+msgstr "Korea"
+
+msgid "ISO_639-3.SYM"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SYN"
+msgstr "Balti"
+
+msgid "ISO_639-3.SYR"
+msgstr "Serbia"
+
+msgid "ISO_639-3.SYX"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.SZN"
+msgstr "Slovakkia"
+
+msgid "ISO_639-3.SZW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.TAA"
+msgstr "Ungari"
+
+msgid "ISO_639-3.TAD"
+msgstr "ei"
+
+msgid "ISO_639-3.TAE"
+msgstr "Läti"
+
+msgid "ISO_639-3.TAG"
+msgstr "Tai"
+
+msgid "ISO_639-3.TAH"
+msgstr "Läti"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tai"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tai"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tai"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tai"
+
+msgid "ISO_639-3.TAU"
+msgstr "Ungari"
+
+msgid "ISO_639-3.TAW"
+msgstr "Tai"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tai"
+
+msgid "ISO_639-3.TBA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.TBC"
+msgstr "Tai"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tai"
+
+msgid "ISO_639-3.TBG"
+msgstr "Korea"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TBX"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.TCC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.TCD"
+msgstr "Hiina"
+
+msgid "ISO_639-3.TCP"
+msgstr "Balti"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Tai"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Balti"
+
+msgid "ISO_639-3.TDB"
+msgstr "Ungari"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TDI"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tai"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Läti"
+
+msgid "ISO_639-3.TEC"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TEH"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.TEK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TEY"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TFN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.TGB"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.TGC"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TGD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Taani"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tai"
+
+msgid "ISO_639-3.TGN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TGP"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TGR"
+msgstr "Korea"
+
+msgid "ISO_639-3.TGU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TGX"
+msgstr "Taani"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.THA"
+msgstr "Tai"
+
+msgid "ISO_639-3.THE"
+msgstr "Hiina"
+
+msgid "ISO_639-3.THF"
+msgstr "Tai"
+
+msgid "ISO_639-3.THN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.THR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.THS"
+msgstr "Tai"
+
+msgid "ISO_639-3.THT"
+msgstr "Läti"
+
+msgid "ISO_639-3.THU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.THW"
+msgstr "Tai"
+
+msgid "ISO_639-3.THY"
+msgstr "Tai"
+
+msgid "ISO_639-3.TIC"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tai"
+
+msgid "ISO_639-3.TIG"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TII"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TIK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TIM"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TIN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TIP"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TIR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TIU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TJL"
+msgstr "Tai"
+
+msgid "ISO_639-3.TKB"
+msgstr "Hiina"
+
+msgid "ISO_639-3.TKX"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.TLH"
+msgstr "Tai"
+
+msgid "ISO_639-3.TLK"
+msgstr "Tai"
+
+msgid "ISO_639-3.TLO"
+msgstr "Tai"
+
+msgid "ISO_639-3.TLR"
+msgstr "Hiina"
+
+msgid "ISO_639-3.TLT"
+msgstr "Läti"
+
+msgid "ISO_639-3.TLX"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.TMC"
+msgstr "Tai"
+
+msgid "ISO_639-3.TMD"
+msgstr "Paus"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TMW"
+msgstr "Saksa"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tai"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TNH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.TNI"
+msgstr "Tai"
+
+msgid "ISO_639-3.TNK"
+msgstr "Muu"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tai"
+
+msgid "ISO_639-3.TNO"
+msgstr "alates"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.TOD"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.TOW"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.TOX"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.TPF"
+msgstr "Tai"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tai"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Paus"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tai"
+
+msgid "ISO_639-3.TQL"
+msgstr "Tai"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TRA"
+msgstr "Tai"
+
+msgid "ISO_639-3.TRD"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TRE"
+msgstr "Korea"
+
+msgid "ISO_639-3.TRH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tai"
+
+msgid "ISO_639-3.TRT"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tai"
+
+msgid "ISO_639-3.TSD"
+msgstr "Eesti"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TSX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.TTG"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.TTI"
+msgstr "Tai"
+
+msgid "ISO_639-3.TTR"
+msgstr "Saksa"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TTV"
+msgstr "Läti"
+
+msgid "ISO_639-3.TTW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tai"
+
+msgid "ISO_639-3.TUI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Balti"
+
+msgid "ISO_639-3.TUR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TUY"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TVO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.TWF"
+msgstr "Korea"
+
+msgid "ISO_639-3.TWL"
+msgstr "Ääred"
+
+msgid "ISO_639-3.TWM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TWN"
+msgstr "Rootsi"
+
+msgid "ISO_639-3.TWU"
+msgstr "Saksa"
+
+msgid "ISO_639-3.TWW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.TXA"
+msgstr "alates"
+
+msgid "ISO_639-3.TXG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TXH"
+msgstr "Tai"
+
+msgid "ISO_639-3.TXM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TXN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.TXR"
+msgstr "Läti"
+
+msgid "ISO_639-3.TXX"
+msgstr "Läti"
+
+msgid "ISO_639-3.TYA"
+msgstr "Paus"
+
+msgid "ISO_639-3.TYE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.TYN"
+msgstr "Korea"
+
+msgid "ISO_639-3.TZH"
+msgstr "Balti"
+
+msgid "ISO_639-3.TZL"
+msgstr "Vene"
+
+msgid "ISO_639-3.TZO"
+msgstr "Tai"
+
+msgid "ISO_639-3.TZX"
+msgstr "Tai"
+
+msgid "ISO_639-3.UAN"
+msgstr "Korea"
+
+msgid "ISO_639-3.UBA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.UDG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.UHA"
+msgstr "Tai"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tai"
+
+msgid "ISO_639-3.UIS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.UKA"
+msgstr "Türgi"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ULA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ULI"
+msgstr "Leedu"
+
+msgid "ISO_639-3.ULK"
+msgstr "Prindi"
+
+msgid "ISO_639-3.ULW"
+msgstr "Albaania"
+
+msgid "ISO_639-3.UMC"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.UMN"
+msgstr "Ungari"
+
+msgid "ISO_639-3.UND"
+msgstr "Renderdamine"
+
+msgid "ISO_639-3.UNG"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tai"
+
+msgid "ISO_639-3.UNN"
+msgstr "Korea"
+
+msgid "ISO_639-3.UNR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.UNU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.UNX"
+msgstr "Ääred"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.URG"
+msgstr "Türgi"
+
+msgid "ISO_639-3.URL"
+msgstr "Poola"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.URT"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.URX"
+msgstr "alates"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Vene"
+
+msgid "ISO_639-3.VAF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Hiina"
+
+msgid "ISO_639-3.VAN"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.VAS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.VAV"
+msgstr "Poola"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.VEC"
+msgstr "Vene"
+
+msgid "ISO_639-3.VGR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vietnami"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Korea"
+
+msgid "ISO_639-3.VKK"
+msgstr "Türgi"
+
+msgid "ISO_639-3.VKO"
+msgstr "Korea"
+
+msgid "ISO_639-3.VLP"
+msgstr "Poola"
+
+msgid "ISO_639-3.VMB"
+msgstr "Araabia"
+
+msgid "ISO_639-3.VMD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.VME"
+msgstr "ei"
+
+msgid "ISO_639-3.VMG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.VMH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.VMR"
+msgstr "ei"
+
+msgid "ISO_639-3.VNK"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.VRA"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.WAE"
+msgstr "ei"
+
+msgid "ISO_639-3.WAI"
+msgstr "Fääri"
+
+msgid "ISO_639-3.WAL"
+msgstr "Albaania"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Saksa"
+
+msgid "ISO_639-3.WAW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WBF"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WBH"
+msgstr "Otsi"
+
+msgid "ISO_639-3.WBI"
+msgstr "Tai"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WDK"
+msgstr "Tai"
+
+msgid "ISO_639-3.WET"
+msgstr "Poola"
+
+msgid "ISO_639-3.WEU"
+msgstr "Hiina"
+
+msgid "ISO_639-3.WHG"
+msgstr "Korea"
+
+msgid "ISO_639-3.WHU"
+msgstr "Korea"
+
+msgid "ISO_639-3.WII"
+msgstr "Otsi"
+
+msgid "ISO_639-3.WJI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WKB"
+msgstr "Ungari"
+
+msgid "ISO_639-3.WKL"
+msgstr "Korea"
+
+msgid "ISO_639-3.WKU"
+msgstr "Türgi"
+
+msgid "ISO_639-3.WLA"
+msgstr "Poola"
+
+msgid "ISO_639-3.WLE"
+msgstr "Korea"
+
+msgid "ISO_639-3.WLG"
+msgstr "Ungari"
+
+msgid "ISO_639-3.WLI"
+msgstr "Poola"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galeon"
+
+msgid "ISO_639-3.WLW"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.WLY"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.WMD"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tai"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.WMW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WMX"
+msgstr "alates"
+
+msgid "ISO_639-3.WNN"
+msgstr "Araabia"
+
+msgid "ISO_639-3.WNO"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.WOD"
+msgstr "Korea"
+
+msgid "ISO_639-3.WOE"
+msgstr "Albaania"
+
+msgid "ISO_639-3.WOI"
+msgstr "Otsi"
+
+msgid "ISO_639-3.WOO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WOR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WPC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WRB"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WRK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WRN"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.WRO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.WRP"
+msgstr "Korea"
+
+msgid "ISO_639-3.WRS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WRY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WSI"
+msgstr "Tai"
+
+msgid "ISO_639-3.WSK"
+msgstr "Paus"
+
+msgid "ISO_639-3.WSS"
+msgstr "Paus"
+
+msgid "ISO_639-3.WSU"
+msgstr "Baski"
+
+msgid "ISO_639-3.WTM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WUU"
+msgstr "Hiina"
+
+msgid "ISO_639-3.WWR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WWW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.WXW"
+msgstr "Otsi"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serbia"
+
+msgid "ISO_639-3.XAC"
+msgstr "Tai"
+
+msgid "ISO_639-3.XAD"
+msgstr "Araabia"
+
+msgid "ISO_639-3.XAG"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Araabia"
+
+msgid "ISO_639-3.XAL"
+msgstr "Poola"
+
+msgid "ISO_639-3.XAO"
+msgstr "Tai"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Leedu"
+
+msgid "ISO_639-3.XAR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XAU"
+msgstr "Saksa"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.XBE"
+msgstr "Paus"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Tai"
+
+msgid "ISO_639-3.XBN"
+msgstr "Balti"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.XBR"
+msgstr "Muu"
+
+msgid "ISO_639-3.XCO"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.XCR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XCU"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.XCY"
+msgstr "Hiina"
+
+msgid "ISO_639-3.XDA"
+msgstr "Korea"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XDY"
+msgstr "Hiina"
+
+msgid "ISO_639-3.XED"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XGG"
+msgstr "Korea"
+
+msgid "ISO_639-3.XGI"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGM"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.XGU"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XHA"
+msgstr "Araabia"
+
+msgid "ISO_639-3.XHD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XHE"
+msgstr "Tai"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbia"
+
+msgid "ISO_639-3.XHU"
+msgstr "Ungari"
+
+msgid "ISO_639-3.XHV"
+msgstr "Tai"
+
+msgid "ISO_639-3.XIB"
+msgstr "Prindi"
+
+msgid "ISO_639-3.XII"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XIL"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.XIR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XIS"
+msgstr "Korea"
+
+msgid "ISO_639-3.XJT"
+msgstr "Korea"
+
+msgid "ISO_639-3.XKE"
+msgstr "Heebrea"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Poola"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Korea"
+
+msgid "ISO_639-3.XKT"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.XKX"
+msgstr "Korea"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XLC"
+msgstr "Läti"
+
+msgid "ISO_639-3.XLD"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.XLI"
+msgstr "Leedu"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albaania"
+
+msgid "ISO_639-3.XLS"
+msgstr "Leedu"
+
+msgid "ISO_639-3.XMB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XME"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.XMF"
+msgstr "Ungari"
+
+msgid "ISO_639-3.XMG"
+msgstr "Balti"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XMK"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.XMO"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XMU"
+msgstr "Hiina"
+
+msgid "ISO_639-3.XMX"
+msgstr "ei"
+
+msgid "ISO_639-3.XNG"
+msgstr "Ungari"
+
+msgid "ISO_639-3.XNH"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XNI"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.XNK"
+msgstr "Ungari"
+
+msgid "ISO_639-3.XNN"
+msgstr "Korea"
+
+msgid "ISO_639-3.XNR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XNS"
+msgstr "Taani"
+
+msgid "ISO_639-3.XNT"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XOD"
+msgstr "Korea"
+
+msgid "ISO_639-3.XOG"
+msgstr "Norra"
+
+msgid "ISO_639-3.XON"
+msgstr "Korea"
+
+msgid "ISO_639-3.XOP"
+msgstr "Korea"
+
+msgid "ISO_639-3.XOW"
+msgstr "Korea"
+
+msgid "ISO_639-3.XPA"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XPC"
+msgstr "Tšehhi"
+
+msgid "ISO_639-3.XPG"
+msgstr "Prindi"
+
+msgid "ISO_639-3.XPI"
+msgstr "Poola"
+
+msgid "ISO_639-3.XPR"
+msgstr "Prindi"
+
+msgid "ISO_639-3.XPS"
+msgstr "Prindi"
+
+msgid "ISO_639-3.XQA"
+msgstr "Tai"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albaania"
+
+msgid "ISO_639-3.XRE"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.XRG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XRM"
+msgstr "Araabia"
+
+msgid "ISO_639-3.XRN"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Korea"
+
+msgid "ISO_639-3.XRU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XRW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XSB"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.XSC"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.XSD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XSE"
+msgstr "Saksa"
+
+msgid "ISO_639-3.XSM"
+msgstr "Korea"
+
+msgid "ISO_639-3.XSO"
+msgstr "Norra"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serbia"
+
+msgid "ISO_639-3.XSS"
+msgstr "Vene"
+
+msgid "ISO_639-3.XSV"
+msgstr "Sloveenia"
+
+msgid "ISO_639-3.XSY"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.XTV"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XTW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.XUM"
+msgstr "Leedu"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.XUR"
+msgstr "Horvaatia"
+
+msgid "ISO_639-3.XUU"
+msgstr "Korea"
+
+msgid "ISO_639-3.XVI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.XVO"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.XVS"
+msgstr "Eesti"
+
+msgid "ISO_639-3.XWA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XWK"
+msgstr "Otsi"
+
+msgid "ISO_639-3.XXB"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.XXR"
+msgstr "Korea"
+
+msgid "ISO_639-3.XXT"
+msgstr "Saksa"
+
+msgid "ISO_639-3.XYB"
+msgstr "Balti"
+
+msgid "ISO_639-3.XYL"
+msgstr "ei"
+
+msgid "ISO_639-3.XZM"
+msgstr "Makedoonia"
+
+msgid "ISO_639-3.YAD"
+msgstr "Paus"
+
+msgid "ISO_639-3.YAK"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YAN"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YAP"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.YAX"
+msgstr "Paus"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Paus"
+
+msgid "ISO_639-3.YBK"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.YBM"
+msgstr "Korea"
+
+msgid "ISO_639-3.YBO"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YCH"
+msgstr "Hiina"
+
+msgid "ISO_639-3.YCL"
+msgstr "Asukoht"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indoneesia"
+
+msgid "ISO_639-3.YDA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YEC"
+msgstr "Prantsuse"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Islandi"
+
+msgid "ISO_639-3.YER"
+msgstr "Tai"
+
+msgid "ISO_639-3.YES"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YGA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YGI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.YGP"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.YGS"
+msgstr "Korea"
+
+msgid "ISO_639-3.YGW"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YHA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YHD"
+msgstr "Araabia"
+
+msgid "ISO_639-3.YHS"
+msgstr "Korea"
+
+msgid "ISO_639-3.YIA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.YIF"
+msgstr "Hiina"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.YIM"
+msgstr "Läti"
+
+msgid "ISO_639-3.YIN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YIP"
+msgstr "alates"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.YIU"
+msgstr "Araabia"
+
+msgid "ISO_639-3.YIX"
+msgstr "Türgi"
+
+msgid "ISO_639-3.YKA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.YKL"
+msgstr "Tai"
+
+msgid "ISO_639-3.YKM"
+msgstr "Tai"
+
+msgid "ISO_639-3.YKO"
+msgstr "Paus"
+
+msgid "ISO_639-3.YKT"
+msgstr "Tai"
+
+msgid "ISO_639-3.YKU"
+msgstr "Paus"
+
+msgid "ISO_639-3.YLB"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.YLE"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.YMB"
+msgstr "Jaapani"
+
+msgid "ISO_639-3.YMD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YMH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YMI"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YMM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YMO"
+msgstr "Türgi"
+
+msgid "ISO_639-3.YMR"
+msgstr "ei"
+
+msgid "ISO_639-3.YMS"
+msgstr "Rumeenia"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YNA"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-3.YNE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YNG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Balti"
+
+msgid "ISO_639-3.YNS"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.YOG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YOI"
+msgstr "Korea"
+
+msgid "ISO_639-3.YOL"
+msgstr "Korea"
+
+msgid "ISO_639-3.YON"
+msgstr "Otsi"
+
+msgid "ISO_639-3.YPA"
+msgstr "Poola"
+
+msgid "ISO_639-3.YPG"
+msgstr "Poola"
+
+msgid "ISO_639-3.YPH"
+msgstr "Tai"
+
+msgid "ISO_639-3.YPM"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YPO"
+msgstr "Poola"
+
+msgid "ISO_639-3.YPP"
+msgstr "Paus"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Poola"
+
+msgid "ISO_639-3.YSD"
+msgstr "Serbia"
+
+msgid "ISO_639-3.YSG"
+msgstr "Balti"
+
+msgid "ISO_639-3.YSN"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.YSY"
+msgstr "Norra"
+
+msgid "ISO_639-3.YTA"
+msgstr "Tai"
+
+msgid "ISO_639-3.YTL"
+msgstr "Itaalia"
+
+msgid "ISO_639-3.YTP"
+msgstr "Tai"
+
+msgid "ISO_639-3.YUC"
+msgstr "Hollandi"
+
+msgid "ISO_639-3.YUD"
+msgstr "Araabia"
+
+msgid "ISO_639-3.YUE"
+msgstr "Hiina"
+
+msgid "ISO_639-3.YUP"
+msgstr "Paus"
+
+msgid "ISO_639-3.YVA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.YXA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Albaania"
+
+msgid "ISO_639-3.YZG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZAU"
+msgstr "seriifideta"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Türgi"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Saksa"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Saksa"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Balti"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Balti"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Türgi"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ZIM"
+msgstr "ei"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Türgi"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Korea"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Läti"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Korea"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Ukraina"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Tai"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Leedu"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZML"
+msgstr "ei"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Ungari"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZRG"
+msgstr "ei"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Kreeka"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Korea"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Korea"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Türgi"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Otsi"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Hiina"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Ääred"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Otsi"

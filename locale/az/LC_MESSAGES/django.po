@@ -1,0 +1,8614 @@
+# Azerbaijani translations for Language names
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Vasif Ismailoglu MD <azerb_linux@hotmail.com>, 2001. (translations from gnucash)
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-07-28 11:19GMT+0200\n"
+"Last-Translator: Vasif İsmayıloğlu <azerb_linux@hotmail.com>\n"
+"Language-Team: Azerbaijani Turkish <linuxaz@azerimail.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.8\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AAG"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AAK"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.AAW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ABD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ABH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ABW"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ACE"
+msgstr "Çincə"
+
+msgid "ISO_639-3.ACI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ACN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ACR"
+msgstr "Çincə"
+
+msgid "ISO_639-3.ACW"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ACX"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ACY"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ADF"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ADL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.ADN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ADY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AEC"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AEU"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AEW"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AFB"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AFD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AFK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AFP"
+msgstr "Thai"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AGA"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AGB"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.AGD"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AGE"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AGH"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.AGI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katalana"
+
+msgid "ISO_639-3.AGO"
+msgstr "Thai"
+
+msgid "ISO_639-3.AGW"
+msgstr "Thai"
+
+msgid "ISO_639-3.AHA"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AHK"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AHR"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AIA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.AIC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AIE"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Litva"
+
+msgid "ISO_639-3.AIR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.AIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AIW"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AIX"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AJN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AJT"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AJU"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.AKA"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AKB"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.AKF"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AKK"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.AKL"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AKM"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AKR"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AKW"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ALD"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ALH"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovak"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.AMC"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AMH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AMK"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AML"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AMN"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AMY"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ANC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ANI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ANK"
+msgstr "Alman"
+
+msgid "ISO_639-3.ANN"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ANP"
+msgstr "Afrika"
+
+msgid "ISO_639-3.ANQ"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.ANR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ANS"
+msgstr "Alman"
+
+msgid "ISO_639-3.ANW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.AOD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.AOH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Rusca"
+
+msgid "ISO_639-3.AOR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.AOS"
+msgstr "Thai"
+
+msgid "ISO_639-3.AOT"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.APB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.APD"
+msgstr "Faero"
+
+msgid "ISO_639-3.APF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.APG"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.APH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.API"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.APW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AQC"
+msgstr "Çincə"
+
+msgid "ISO_639-3.AQT"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Afrika"
+
+msgid "ISO_639-3.ARA"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ARG"
+msgstr "Faero"
+
+msgid "ISO_639-3.ARH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrika"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrika"
+
+msgid "ISO_639-3.ARL"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ARN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ARO"
+msgstr "Faero"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ARS"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ARY"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.ASK"
+msgstr "Afrika"
+
+msgid "ISO_639-3.ASO"
+msgstr "Yer"
+
+msgid "ISO_639-3.AST"
+msgstr "Estonca"
+
+msgid "ISO_639-3.ATB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ATN"
+msgstr "Estonca"
+
+msgid "ISO_639-3.ATR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AUB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUH"
+msgstr "Thai"
+
+msgid "ISO_639-3.AUK"
+msgstr "İvrit"
+
+msgid "ISO_639-3.AUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUQ"
+msgstr "İngiliscə"
+
+msgid "ISO_639-3.AUR"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AVA"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AVB"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AVI"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AVK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AVN"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AVS"
+msgstr "Thai"
+
+msgid "ISO_639-3.AWM"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AWX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AXL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AYA"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.AYH"
+msgstr "Axtar"
+
+msgid "ISO_639-3.AYL"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.AZA"
+msgstr "Afrika"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azərbaycan türkçəsi"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azərbaycan türkçəsi"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azərbaycan türkçəsi"
+
+msgid "ISO_639-3.BAG"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BAN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BAY"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BBB"
+msgstr "Thai"
+
+msgid "ISO_639-3.BBD"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BBE"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BBF"
+msgstr "Thai"
+
+msgid "ISO_639-3.BBG"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BBI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BBL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.BBV"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BBW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BBY"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BCF"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BCG"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BCK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BCO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Fransızca"
+
+msgid "ISO_639-3.BCR"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BCT"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BCW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BCY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDE"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BDF"
+msgstr "Thai"
+
+msgid "ISO_639-3.BDG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BDK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BDL"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.BDO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BDU"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.BDW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BEG"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BEH"
+msgstr "Thai"
+
+msgid "ISO_639-3.BEK"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BEL"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BEN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BEO"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BEP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BES"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BEW"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BFA"
+msgstr "Thai"
+
+msgid "ISO_639-3.BFC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BFG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BFR"
+msgstr "Thai"
+
+msgid "ISO_639-3.BFT"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BFU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BFW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BFX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BGG"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BGR"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.BGW"
+msgstr "Thai"
+
+msgid "ISO_639-3.BGY"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BHD"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHG"
+msgstr "Səhv"
+
+msgid "ISO_639-3.BHH"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BHL"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BHM"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BHR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BHV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BHX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHZ"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.BIB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BIC"
+msgstr "Thai"
+
+msgid "ISO_639-3.BID"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BIG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BIN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BIO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BIR"
+msgstr "Thai"
+
+msgid "ISO_639-3.BIT"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.BIU"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BIX"
+msgstr "Thai"
+
+msgid "ISO_639-3.BIY"
+msgstr "Thai"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BJB"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BJC"
+msgstr "Thai"
+
+msgid "ISO_639-3.BJH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BJN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BJS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BJV"
+msgstr "Breton"
+
+msgid "ISO_639-3.BJY"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BKD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BKF"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BKI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BKS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BKT"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BKX"
+msgstr "Yer"
+
+msgid "ISO_639-3.BLG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BLH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BLI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BLL"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BLR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BLS"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BMD"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BMH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BMI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BMO"
+msgstr "Katalana"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BMR"
+msgstr "Səhv"
+
+msgid "ISO_639-3.BMS"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BMX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BNB"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BNC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BND"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.BNF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BNG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BNI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BNK"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.BNL"
+msgstr "Breton"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Yer"
+
+msgid "ISO_639-3.BNU"
+msgstr "Breton"
+
+msgid "ISO_639-3.BNW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.BOA"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BOB"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.BOF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BOH"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BOM"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.BON"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BOP"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BOS"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BOU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BOW"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BPA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BPH"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BPK"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.BPO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BPP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BPV"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.BQB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BQP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BQS"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BQV"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BQX"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BRE"
+msgstr "Breton"
+
+msgid "ISO_639-3.BRF"
+msgstr "Alman"
+
+msgid "ISO_639-3.BRG"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BRS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BRT"
+msgstr "Thai"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.BRW"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BRX"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BSB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BSC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BSE"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSG"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSH"
+msgstr "Yer"
+
+msgid "ISO_639-3.BSI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BSK"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSM"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSN"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BST"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BSU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BSW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BTA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.BTR"
+msgstr "Breton"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BTV"
+msgstr "Thai"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BUC"
+msgstr "Thai"
+
+msgid "ISO_639-3.BUG"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BUI"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BUN"
+msgstr "İvrit"
+
+msgid "ISO_639-3.BUO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.BUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Breton"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BVA"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BVB"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BVC"
+msgstr "Çincə"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BVP"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BVT"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BVV"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BVW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BVY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BWD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BWG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BWI"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BXA"
+msgstr "Thai"
+
+msgid "ISO_639-3.BXG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.BXM"
+msgstr "Korecə"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BXS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BYA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BYF"
+msgstr "Breton"
+
+msgid "ISO_639-3.BYH"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BYM"
+msgstr "Thai"
+
+msgid "ISO_639-3.BYN"
+msgstr "Thai"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BYR"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.BYW"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.BZA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BZB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BZD"
+msgstr "Thai"
+
+msgid "ISO_639-3.BZF"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.BZG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZI"
+msgstr "Baskca"
+
+msgid "ISO_639-3.BZO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZQ"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.BZR"
+msgstr "Thai"
+
+msgid "ISO_639-3.BZT"
+msgstr "Axtar"
+
+msgid "ISO_639-3.BZU"
+msgstr "Breton"
+
+msgid "ISO_639-3.BZV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Yer"
+
+msgid "ISO_639-3.CAC"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CAF"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CAK"
+msgstr "Thai"
+
+msgid "ISO_639-3.CAL"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.CAN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CAR"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CBD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CBI"
+msgstr "Çex"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CBL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.CBV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CBW"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.CBY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CCA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CCG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CCM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CDA"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.CDE"
+msgstr "Çex"
+
+msgid "ISO_639-3.CDG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CDI"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.CDO"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CDY"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.CEA"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.CEN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CES"
+msgstr "Çex"
+
+msgid "ISO_639-3.CFD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CFM"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CHE"
+msgstr "Çex"
+
+msgid "ISO_639-3.CHK"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CHM"
+msgstr "Rusca"
+
+msgid "ISO_639-3.CHX"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CIE"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CIK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.CIM"
+msgstr "Litva"
+
+msgid "ISO_639-3.CIP"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CIR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.CIY"
+msgstr "Thai"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CJK"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.CJN"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.CJV"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CJY"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CKB"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.CKL"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CKN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CKT"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CLA"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.CLE"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CLT"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CME"
+msgstr "Alman"
+
+msgid "ISO_639-3.CML"
+msgstr "Katalana"
+
+msgid "ISO_639-3.CMN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.CMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CNG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.CNH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.CNL"
+msgstr "Baltik"
+
+msgid "ISO_639-3.CNO"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.CNW"
+msgstr "Baltik"
+
+msgid "ISO_639-3.CNX"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.COE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.COO"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.COR"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.COU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.COX"
+msgstr "Yer"
+
+msgid "ISO_639-3.COZ"
+msgstr "Çex"
+
+msgid "ISO_639-3.CPI"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CPN"
+msgstr "Çex"
+
+msgid "ISO_639-3.CPX"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CRE"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.CRF"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.CRR"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.CRX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CRY"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CST"
+msgstr "Korecə"
+
+msgid "ISO_639-3.CSV"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CSY"
+msgstr "Baltik"
+
+msgid "ISO_639-3.CTC"
+msgstr "Çex"
+
+msgid "ISO_639-3.CTD"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.CTG"
+msgstr "Litva"
+
+msgid "ISO_639-3.CTH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CTS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.CTU"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.CUH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CUI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CUL"
+msgstr "Axtar"
+
+msgid "ISO_639-3.CUU"
+msgstr "Thai"
+
+msgid "ISO_639-3.CUW"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CVG"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CWB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.CWE"
+msgstr "Başqa"
+
+msgid "ISO_639-3.CZH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.CZK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.CZT"
+msgstr "Baltik"
+
+msgid "ISO_639-3.DAC"
+msgstr "Thai"
+
+msgid "ISO_639-3.DAD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DAE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DAG"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DAM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DAN"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DAO"
+msgstr "Baltik"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DAR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DAV"
+msgstr "Latviya"
+
+msgid "ISO_639-3.DAX"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DBA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DBJ"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.DBM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DBO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.DEC"
+msgstr "Thai"
+
+msgid "ISO_639-3.DED"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DEH"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.DER"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DES"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.DEU"
+msgstr "Alman"
+
+msgid "ISO_639-3.DGG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DGI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.DGK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DGL"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DGN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DGX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DHG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DHN"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DHO"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.DHR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DHS"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DHU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DHX"
+msgstr "Macarca"
+
+msgid "ISO_639-3.DIC"
+msgstr "Latviya"
+
+msgid "ISO_639-3.DIF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.DIR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DIT"
+msgstr "Thai"
+
+msgid "ISO_639-3.DIU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DIV"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.DJE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DJI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DJO"
+msgstr "Macarca"
+
+msgid "ISO_639-3.DJU"
+msgstr "Korecə"
+
+msgid "ISO_639-3.DKK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DKX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DLG"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.DLK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DLM"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.DLN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DML"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.DMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMX"
+msgstr "Alman"
+
+msgid "ISO_639-3.DND"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DNG"
+msgstr "Macarca"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DNK"
+msgstr "Baltik"
+
+msgid "ISO_639-3.DNR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DNU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DNV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.DOH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DOK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DOO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DOP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DOR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DOT"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DOX"
+msgstr "Rusca"
+
+msgid "ISO_639-3.DOY"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DRB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DRC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DRD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DRG"
+msgstr "İngiliscə"
+
+msgid "ISO_639-3.DRL"
+msgstr "Macarca"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DRS"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.DRY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DSB"
+msgstr "Alman"
+
+msgid "ISO_639-3.DSI"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DSO"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.DTA"
+msgstr "Katalana"
+
+msgid "ISO_639-3.DTY"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.DUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.DUP"
+msgstr "Yer"
+
+msgid "ISO_639-3.DUV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DVA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DWA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.DWR"
+msgstr "Yer"
+
+msgid "ISO_639-3.DWU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DWW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DWY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DYA"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.DZA"
+msgstr "Thai"
+
+msgid "ISO_639-3.DZG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.DZL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.EAA"
+msgstr "Korecə"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ECR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.EGL"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.EIV"
+msgstr "Afrika"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.EKG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.EKK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.EKR"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.EMN"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ENA"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.ENB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ENG"
+msgstr "İngiliscə"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katalana"
+
+msgid "ISO_639-3.ERG"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.ERO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ESG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.EST"
+msgstr "Estonca"
+
+msgid "ISO_639-3.ESY"
+msgstr "Korecə"
+
+msgid "ISO_639-3.EUS"
+msgstr "Baskca"
+
+msgid "ISO_639-3.EYO"
+msgstr "İvrit"
+
+msgid "ISO_639-3.FAA"
+msgstr "Baskca"
+
+msgid "ISO_639-3.FAF"
+msgstr "Yer"
+
+msgid "ISO_639-3.FAH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Latviya"
+
+msgid "ISO_639-3.FAO"
+msgstr "Faero"
+
+msgid "ISO_639-3.FAP"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katalana"
+
+msgid "ISO_639-3.FAS"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.FAT"
+msgstr "Yer"
+
+msgid "ISO_639-3.FAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.FER"
+msgstr "Faero"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FIN"
+msgstr "Fincə"
+
+msgid "ISO_639-3.FIP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.FIR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.FIW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.FKV"
+msgstr "Fincə"
+
+msgid "ISO_639-3.FLI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.FLL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.FLY"
+msgstr "Latviya"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FNG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.FNI"
+msgstr "Yer"
+
+msgid "ISO_639-3.FOM"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.FOR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.FQS"
+msgstr "Faero"
+
+msgid "ISO_639-3.FRA"
+msgstr "Fransızca"
+
+msgid "ISO_639-3.FRC"
+msgstr "Fransızca"
+
+msgid "ISO_639-3.FRK"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.FRP"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FUF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FUI"
+msgstr "Thai"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.FUU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.GAB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GAF"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GAH"
+msgstr "Afrika"
+
+msgid "ISO_639-3.GAI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GAL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.GAM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GAN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.GAO"
+msgstr "Yer"
+
+msgid "ISO_639-3.GAT"
+msgstr "Baltik"
+
+msgid "ISO_639-3.GBD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GBF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GBJ"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.GBK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GBL"
+msgstr "Thai"
+
+msgid "ISO_639-3.GBM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GBY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GCC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GCD"
+msgstr "Macarca"
+
+msgid "ISO_639-3.GCE"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.GCN"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.GDI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GDK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GDL"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GDT"
+msgstr "Macarca"
+
+msgid "ISO_639-3.GDX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GEA"
+msgstr "Alman"
+
+msgid "ISO_639-3.GEB"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.GEG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.GEI"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Alman"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GEW"
+msgstr "Alman"
+
+msgid "ISO_639-3.GEX"
+msgstr "Korecə"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GGE"
+msgstr "Faero"
+
+msgid "ISO_639-3.GGK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.GHR"
+msgstr "Alman"
+
+msgid "ISO_639-3.GHT"
+msgstr "Çincə"
+
+msgid "ISO_639-3.GIC"
+msgstr "Thai"
+
+msgid "ISO_639-3.GID"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GIG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GIL"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Alman"
+
+msgid "ISO_639-3.GIR"
+msgstr "Alman"
+
+msgid "ISO_639-3.GIU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GIW"
+msgstr "Alman"
+
+msgid "ISO_639-3.GJM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GJN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GJU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GKE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GKN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.GLD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GLE"
+msgstr "İrlandca"
+
+msgid "ISO_639-3.GLG"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.GLL"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.GLV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GMA"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.GMV"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GNB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GNC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GNE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GNH"
+msgstr "İvrit"
+
+msgid "ISO_639-3.GNI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GNM"
+msgstr "Alman"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.GOA"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GOD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GOE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GOF"
+msgstr "Korecə"
+
+msgid "ISO_639-3.GOK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.GON"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GOS"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GOY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GPN"
+msgstr "Thai"
+
+msgid "ISO_639-3.GQA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GQU"
+msgstr "Baskca"
+
+msgid "ISO_639-3.GRB"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GRG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GRI"
+msgstr "Thai"
+
+msgid "ISO_639-3.GRO"
+msgstr "Alman"
+
+msgid "ISO_639-3.GRR"
+msgstr "Yer"
+
+msgid "ISO_639-3.GRS"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GRT"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GRU"
+msgstr "Çincə"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.GSW"
+msgstr "Alman"
+
+msgid "ISO_639-3.GUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GUR"
+msgstr "Faero"
+
+msgid "ISO_639-3.GVE"
+msgstr "Flemenkçə"
+
+msgid "ISO_639-3.GVF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GVL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GVM"
+msgstr "Alman"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.GWA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GWC"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.GWE"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GWF"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GWN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.GWR"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GWW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.GYB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GYE"
+msgstr "Alman"
+
+msgid "ISO_639-3.GYF"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.GYI"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.GYL"
+msgstr "Thai"
+
+msgid "ISO_639-3.GYR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GZI"
+msgstr "Thai"
+
+msgid "ISO_639-3.GZN"
+msgstr "Alman"
+
+msgid "ISO_639-3.HAC"
+msgstr "Alman"
+
+msgid "ISO_639-3.HAD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HAI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HAJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HAK"
+msgstr "Çincə"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katalana"
+
+msgid "ISO_639-3.HAM"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.HAN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.HAP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.HAS"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HAT"
+msgstr "Latviya"
+
+msgid "ISO_639-3.HAU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBN"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.HBO"
+msgstr "İvrit"
+
+msgid "ISO_639-3.HBS"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.HBU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HDY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HEB"
+msgstr "İvrit"
+
+msgid "ISO_639-3.HEH"
+msgstr "İvrit"
+
+msgid "ISO_639-3.HER"
+msgstr "İvrit"
+
+msgid "ISO_639-3.HGW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HHR"
+msgstr "Başqa"
+
+msgid "ISO_639-3.HHY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HIA"
+msgstr "Latviya"
+
+msgid "ISO_639-3.HIB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HID"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HIF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HIG"
+msgstr "Başqa"
+
+msgid "ISO_639-3.HII"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HIN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HIR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HJI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HKA"
+msgstr "Başqa"
+
+msgid "ISO_639-3.HKE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HLA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HLB"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.HLE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.HMT"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.HMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.HNI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HNU"
+msgstr "Macarca"
+
+msgid "ISO_639-3.HOA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HOE"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HOM"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.HOR"
+msgstr "İvrit"
+
+msgid "ISO_639-3.HOW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HRE"
+msgstr "İvrit"
+
+msgid "ISO_639-3.HRO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HRV"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.HRW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.HRX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Macarca"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.HSN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.HSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HTS"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HUB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.HUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUD"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.HUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUM"
+msgstr "Macarca"
+
+msgid "ISO_639-3.HUN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.HUO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.HUT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HWO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IAI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IAR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.IBD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.IBG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.IBL"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portuqal"
+
+msgid "ISO_639-3.IDR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.IDS"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.IGL"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.IGN"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.IGS"
+msgstr "İcra edilir"
+
+msgid "ISO_639-3.III"
+msgstr "Litva"
+
+msgid "ISO_639-3.IJE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.IKR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.IKS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ILB"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.ILE"
+msgstr "İcra edilir"
+
+msgid "ISO_639-3.ILI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.ILM"
+msgstr "Rusca"
+
+msgid "ISO_639-3.IMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IMO"
+msgstr "İngiliscə"
+
+msgid "ISO_639-3.IMS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.IMY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.INB"
+msgstr "Baltik"
+
+msgid "ISO_639-3.IND"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.INH"
+msgstr "İngiliscə"
+
+msgid "ISO_639-3.INN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.IPK"
+msgstr "Hintcə"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.IRX"
+msgstr "Başqa"
+
+msgid "ISO_639-3.IRY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ISA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estonca"
+
+msgid "ISO_639-3.ISL"
+msgstr "İslandiyaca"
+
+msgid "ISO_639-3.ISM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ITA"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.ITD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ITE"
+msgstr "İcra edilir"
+
+msgid "ISO_639-3.ITK"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.ITR"
+msgstr "İcra edilir"
+
+msgid "ISO_639-3.ITV"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.ITY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katalana"
+
+msgid "ISO_639-3.IVV"
+msgstr "Katalana"
+
+msgid "ISO_639-3.IZH"
+msgstr "Macarca"
+
+msgid "ISO_639-3.JAC"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.JAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JAN"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JAU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.JAV"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.JAY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.JBE"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.JCT"
+msgstr "Korecə"
+
+msgid "ISO_639-3.JDT"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.JEB"
+msgstr "İvrit"
+
+msgid "ISO_639-3.JEG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.JER"
+msgstr "İvrit"
+
+msgid "ISO_639-3.JET"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.JGE"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.JHI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.JKR"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.JKU"
+msgstr "Yer"
+
+msgid "ISO_639-3.JLE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.JMC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.JMN"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.JND"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.JNI"
+msgstr "Thai"
+
+msgid "ISO_639-3.JNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JPN"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.JPR"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.JRA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.JRB"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.JUK"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.JUL"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.JUN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.JUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JUT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.JUY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JVD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.JVN"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.JYE"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.KAD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KAE"
+msgstr "Macarca"
+
+msgid "ISO_639-3.KAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KAI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KAU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KBE"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KBI"
+msgstr "Yer"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KBL"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KBP"
+msgstr "Thai"
+
+msgid "ISO_639-3.KBS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KBT"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.KBU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KBV"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.KBW"
+msgstr "Thai"
+
+msgid "ISO_639-3.KBY"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Flemenkçə"
+
+msgid "ISO_639-3.KCC"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.KCE"
+msgstr "Thai"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KCK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KCO"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.KCP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katalana"
+
+msgid "ISO_639-3.KCS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KCT"
+msgstr "Latviya"
+
+msgid "ISO_639-3.KCW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KCY"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KDC"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KDE"
+msgstr "Səhv"
+
+msgid "ISO_639-3.KDF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.KDR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KDU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KDW"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KDY"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KEA"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.KED"
+msgstr "İvrit"
+
+msgid "ISO_639-3.KEG"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.KEH"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KEN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KER"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KEY"
+msgstr "Hintcə"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Çincə"
+
+msgid "ISO_639-3.KFA"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KFD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KFE"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.KFF"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KFG"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFM"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFN"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KFR"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFS"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFV"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KFW"
+msgstr "Latviya"
+
+msgid "ISO_639-3.KFX"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFY"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KGB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katalana"
+
+msgid "ISO_639-3.KGE"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.KGL"
+msgstr "Macarca"
+
+msgid "ISO_639-3.KGN"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.KGP"
+msgstr "Latviya"
+
+msgid "ISO_639-3.KGV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KGW"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KHF"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KHL"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KHN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.KHO"
+msgstr "Çincə"
+
+msgid "ISO_639-3.KHP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KHR"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KHT"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHV"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHX"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KIB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KID"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.KIH"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KIL"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KIM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KIS"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KIW"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KIX"
+msgstr "Latviya"
+
+msgid "ISO_639-3.KJA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katalana"
+
+msgid "ISO_639-3.KJE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KJG"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KJO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KJR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KKA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KKF"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.KKK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KKL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KKO"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.KKT"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KKU"
+msgstr "Thai"
+
+msgid "ISO_639-3.KKV"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KKX"
+msgstr "Thai"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KLL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KLN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KLP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLR"
+msgstr "Thai"
+
+msgid "ISO_639-3.KLW"
+msgstr "Yer"
+
+msgid "ISO_639-3.KLY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KMA"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KMD"
+msgstr "Macarca"
+
+msgid "ISO_639-3.KMH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KMK"
+msgstr "Thai"
+
+msgid "ISO_639-3.KML"
+msgstr "Macarca"
+
+msgid "ISO_639-3.KMR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KMU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KMY"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.KNC"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KND"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KNE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KNF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KNI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KNK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KOC"
+msgstr "Yer"
+
+msgid "ISO_639-3.KOD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KOF"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KOG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KOK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KOO"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KOR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KOS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KOT"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KOU"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KPD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KPH"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KPK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KPL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KPR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KPS"
+msgstr "Thai"
+
+msgid "ISO_639-3.KPY"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KQB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KQE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KQG"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KQM"
+msgstr "Thai"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KQR"
+msgstr "Litva"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.KQW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KQY"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KRA"
+msgstr "Thai"
+
+msgid "ISO_639-3.KRB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KRE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KRH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.KRI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KRK"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.KRL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KRM"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KRT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KRU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KRV"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KRX"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSD"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KSE"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KSF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSO"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KSR"
+msgstr "Breton"
+
+msgid "ISO_639-3.KSV"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KSX"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KTA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KTD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KTF"
+msgstr "Thai"
+
+msgid "ISO_639-3.KTH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KTK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KTM"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KUC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KUG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KUH"
+msgstr "Thai"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.KUO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KUR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KUV"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KVB"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KVC"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KVD"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.KVI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KVL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KVP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KVV"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KVW"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.KWC"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.KWD"
+msgstr "Thai"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.KWF"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KWH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KWN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.KWP"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.KWR"
+msgstr "Başqa"
+
+msgid "ISO_639-3.KWW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.KXA"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KXC"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.KXD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KXJ"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.KXN"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KXP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.KXS"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KXV"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KXW"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KXY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KXZ"
+msgstr "İvrit"
+
+msgid "ISO_639-3.KYD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KYH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KYL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KYM"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.KYO"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KYP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.KYS"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.KZD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KZE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KZG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KZL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.KZM"
+msgstr "Thai"
+
+msgid "ISO_639-3.KZN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KZO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.KZR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.KZX"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.LAB"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LAD"
+msgstr "Yer"
+
+msgid "ISO_639-3.LAG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LAL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.LAT"
+msgstr "Yer"
+
+msgid "ISO_639-3.LAV"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LAY"
+msgstr "Thai"
+
+msgid "ISO_639-3.LBA"
+msgstr "Thai"
+
+msgid "ISO_639-3.LBC"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LBF"
+msgstr "Fincə"
+
+msgid "ISO_639-3.LBI"
+msgstr "Yer"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Yer"
+
+msgid "ISO_639-3.LBK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.LBM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LBN"
+msgstr "Yer"
+
+msgid "ISO_639-3.LBO"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LBT"
+msgstr "Yer"
+
+msgid "ISO_639-3.LBW"
+msgstr "Thai"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Yer"
+
+msgid "ISO_639-3.LCH"
+msgstr "Thai"
+
+msgid "ISO_639-3.LCL"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.LDD"
+msgstr "Thai"
+
+msgid "ISO_639-3.LDI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LDL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.LDM"
+msgstr "Yer"
+
+msgid "ISO_639-3.LDN"
+msgstr "Yer"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.LES"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.LEX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LFN"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LGA"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.LGK"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LGL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LGT"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.LHH"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.LHN"
+msgstr "Litva"
+
+msgid "ISO_639-3.LHT"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LHU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LIC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LIE"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LIF"
+msgstr "Litva"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Litva"
+
+msgid "ISO_639-3.LIM"
+msgstr "Litva"
+
+msgid "ISO_639-3.LIN"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LIR"
+msgstr "İngiliscə"
+
+msgid "ISO_639-3.LIT"
+msgstr "Litva"
+
+msgid "ISO_639-3.LIU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LIW"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.LJE"
+msgstr "Thai"
+
+msgid "ISO_639-3.LJI"
+msgstr "Yer"
+
+msgid "ISO_639-3.LJL"
+msgstr "Yer"
+
+msgid "ISO_639-3.LJP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LJW"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.LKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LKC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LKD"
+msgstr "Səhv"
+
+msgid "ISO_639-3.LKE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.LKI"
+msgstr "Yer"
+
+msgid "ISO_639-3.LKM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LKN"
+msgstr "Səhv"
+
+msgid "ISO_639-3.LKO"
+msgstr "Thai"
+
+msgid "ISO_639-3.LKS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.LKT"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LKU"
+msgstr "Macarca"
+
+msgid "ISO_639-3.LLD"
+msgstr "Yer"
+
+msgid "ISO_639-3.LLF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LLH"
+msgstr "Baskca"
+
+msgid "ISO_639-3.LLL"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LLM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LLO"
+msgstr "Başqa"
+
+msgid "ISO_639-3.LLX"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LMB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LMC"
+msgstr "Litva"
+
+msgid "ISO_639-3.LMG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LML"
+msgstr "Yer"
+
+msgid "ISO_639-3.LMN"
+msgstr "Yer"
+
+msgid "ISO_639-3.LMP"
+msgstr "Litva"
+
+msgid "ISO_639-3.LNB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LNH"
+msgstr "Yer"
+
+msgid "ISO_639-3.LNI"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LNM"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LNS"
+msgstr "Yer"
+
+msgid "ISO_639-3.LNW"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.LOC"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katalana"
+
+msgid "ISO_639-3.LOH"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.LOO"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LOS"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LPO"
+msgstr "Yer"
+
+msgid "ISO_639-3.LRA"
+msgstr "Thai"
+
+msgid "ISO_639-3.LRC"
+msgstr "Korecə"
+
+msgid "ISO_639-3.LRE"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LRG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LRI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LRK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LRL"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.LRM"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.LRN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.LRO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.LSD"
+msgstr "Litva"
+
+msgid "ISO_639-3.LSH"
+msgstr "İrlandca"
+
+msgid "ISO_639-3.LSI"
+msgstr "Thai"
+
+msgid "ISO_639-3.LSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalana"
+
+msgid "ISO_639-3.LTI"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.LTN"
+msgstr "Yer"
+
+msgid "ISO_639-3.LTO"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.LTS"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.LTU"
+msgstr "Yer"
+
+msgid "ISO_639-3.LUC"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LUD"
+msgstr "Yer"
+
+msgid "ISO_639-3.LUF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.LUM"
+msgstr "Litva"
+
+msgid "ISO_639-3.LUR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LUS"
+msgstr "Thai"
+
+msgid "ISO_639-3.LUV"
+msgstr "Yer"
+
+msgid "ISO_639-3.LVS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LWG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.LWH"
+msgstr "Yer"
+
+msgid "ISO_639-3.LWM"
+msgstr "Latviya"
+
+msgid "ISO_639-3.LYG"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.LYN"
+msgstr "Litva"
+
+msgid "ISO_639-3.LZH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.LZN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MAD"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAH"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MAM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.MBC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBE"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MBF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MBW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MBY"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.MCA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MCI"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MCK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MCN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCT"
+msgstr "Baltik"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MDB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MDG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MDH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MDN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MDP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MDR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MDW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MDX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MEC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MED"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MEL"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.MEM"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.MES"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MET"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MEV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MEW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFA"
+msgstr "Katalana"
+
+msgid "ISO_639-3.MFB"
+msgstr "Baltik"
+
+msgid "ISO_639-3.MFE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MFF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MFH"
+msgstr "Katalana"
+
+msgid "ISO_639-3.MFI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MFK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.MFL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.MFP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MFV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MFY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Katalana"
+
+msgid "ISO_639-3.MGB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MGD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MGE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MGF"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MGK"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MGN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MGP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MGU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MHA"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.MHE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MHF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MHG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MHI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MHK"
+msgstr "Macarca"
+
+msgid "ISO_639-3.MHP"
+msgstr "Çincə"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MHS"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.MHT"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MHX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MHY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MIA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MID"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.MIK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MJK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MJL"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MJP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJR"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.MJU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MJV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MJW"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.MJX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJY"
+msgstr "Latviya"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MKA"
+msgstr "İvrit"
+
+msgid "ISO_639-3.MKD"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.MKE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MKI"
+msgstr "Thai"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MKR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MKV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MKY"
+msgstr "Macarca"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MLF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLH"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.MLK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MLS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLT"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MLX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMD"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.MME"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MMF"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MMI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MMM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MMN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MMO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MMP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMV"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MMX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MNB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNF"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.MNK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNL"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.MNM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNP"
+msgstr "Çincə"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MNY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MOA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MOD"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MOI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MOK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MOM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MOR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MOS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MPC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MPD"
+msgstr "Çincə"
+
+msgid "ISO_639-3.MPE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MPG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MPH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MPI"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MPN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MPT"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MPV"
+msgstr "Macarca"
+
+msgid "ISO_639-3.MPW"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.MPY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQA"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.MQE"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MQI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MQP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MQU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MQY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MRG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MRH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MRR"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.MRS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MRV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MSC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MSE"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MSG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MSH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSS"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MSV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSY"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MTM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MTN"
+msgstr "Katalana"
+
+msgid "ISO_639-3.MTR"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.MTS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.MTY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MUA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MUI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MUM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MUO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MUP"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.MUR"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MUS"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.MUU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MUX"
+msgstr "Baltik"
+
+msgid "ISO_639-3.MUY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVS"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MVU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MVX"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.MWB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MWI"
+msgstr "Yer"
+
+msgid "ISO_639-3.MWK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MWL"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.MWR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MWV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MWX"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.MWY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MXC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MXD"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.MXF"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MXG"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.MXI"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.MXN"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.MXR"
+msgstr "Rusca"
+
+msgid "ISO_639-3.MXX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MYB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MYH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYI"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYL"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.MYR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MYS"
+msgstr "Səhv"
+
+msgid "ISO_639-3.MYX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MZD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MZE"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MZS"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.MZT"
+msgstr "Axtar"
+
+msgid "ISO_639-3.MZV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.MZX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAA"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.NAC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NAL"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NAN"
+msgstr "Çincə"
+
+msgid "ISO_639-3.NAP"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NAW"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NAX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NBC"
+msgstr "Latviya"
+
+msgid "ISO_639-3.NBH"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.NBN"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NBU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NCB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.NCE"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.NCF"
+msgstr "Dayan"
+
+msgid "ISO_639-3.NCH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.NCN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NDA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NDF"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.NDH"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NDS"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NDX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-3.NEG"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.NEM"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NEP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NER"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.NES"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NEW"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NFD"
+msgstr "Thai"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NGK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NGO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NGX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NGY"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NHA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NHB"
+msgstr "Baltik"
+
+msgid "ISO_639-3.NHF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NHH"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NHO"
+msgstr "Thai"
+
+msgid "ISO_639-3.NHR"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NIB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NID"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NIE"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NIO"
+msgstr "Macarca"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NIR"
+msgstr "Litva"
+
+msgid "ISO_639-3.NIX"
+msgstr "Alman"
+
+msgid "ISO_639-3.NIY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katalana"
+
+msgid "ISO_639-3.NJN"
+msgstr "Latviya"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NKA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NKB"
+msgstr "Latviya"
+
+msgid "ISO_639-3.NKD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.NKG"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.NKI"
+msgstr "Latviya"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NKN"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.NKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NLC"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.NLD"
+msgstr "Flemenkçə"
+
+msgid "ISO_639-3.NLG"
+msgstr "Alman"
+
+msgid "ISO_639-3.NLI"
+msgstr "Baltik"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NLL"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NLX"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.NMA"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.NMB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NMC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NMF"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.NMG"
+msgstr "Thai"
+
+msgid "ISO_639-3.NML"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NMR"
+msgstr "Thai"
+
+msgid "ISO_639-3.NMV"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NMW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NNF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NNG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.NNM"
+msgstr "Thai"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.NNU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.NOD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.NOF"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.NOG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NOI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NOL"
+msgstr "Thai"
+
+msgid "ISO_639-3.NON"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NPG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NPI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NQY"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NRB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NRK"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.NRM"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.NRN"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.NRR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NRT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.NSA"
+msgstr "Latviya"
+
+msgid "ISO_639-3.NSC"
+msgstr "Thai"
+
+msgid "ISO_639-3.NSE"
+msgstr "Baltik"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.NSG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NSS"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.NSY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NTG"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.NTU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NTX"
+msgstr "Macarca"
+
+msgid "ISO_639-3.NTY"
+msgstr "Yer"
+
+msgid "ISO_639-3.NUA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NUD"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.NUG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.NUS"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NUX"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.NVH"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NWR"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NXI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NXU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NXX"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.NYA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NYC"
+msgstr "Baltik"
+
+msgid "ISO_639-3.NYF"
+msgstr "Alman"
+
+msgid "ISO_639-3.NYH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.NYR"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.OAA"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OAC"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OAR"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.OBR"
+msgstr "Breton"
+
+msgid "ISO_639-3.OBT"
+msgstr "Breton"
+
+msgid "ISO_639-3.OCH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.OCO"
+msgstr "Rənglər"
+
+msgid "ISO_639-3.ODT"
+msgstr "Flemenkçə"
+
+msgid "ISO_639-3.ODU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.OGE"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.OGO"
+msgstr "Thai"
+
+msgid "ISO_639-3.OHU"
+msgstr "Macarca"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.OJP"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.OKB"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OKD"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.OKK"
+msgstr "Thai"
+
+msgid "ISO_639-3.OKL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.OKR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.OKV"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.OLD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.OLM"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OLR"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OLT"
+msgstr "Litva"
+
+msgid "ISO_639-3.OMK"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OML"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OMN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.OMP"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.OMR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ONB"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.ONP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ONR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ONW"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.OOS"
+msgstr "Rusca"
+
+msgid "ISO_639-3.ORA"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ORC"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ORI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ORM"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ORO"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ORR"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ORT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.ORV"
+msgstr "Rusca"
+
+msgid "ISO_639-3.ORX"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ORZ"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OSC"
+msgstr "Rusca"
+
+msgid "ISO_639-3.OSI"
+msgstr "Rusca"
+
+msgid "ISO_639-3.OSO"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OSP"
+msgstr "İspanca"
+
+msgid "ISO_639-3.OSS"
+msgstr "Rusca"
+
+msgid "ISO_639-3.OSX"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.OTB"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.OTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.OTK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.OTR"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.OTY"
+msgstr "Thai"
+
+msgid "ISO_639-3.OWL"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.PAG"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PAH"
+msgstr "Thai"
+
+msgid "ISO_639-3.PAO"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PAR"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PAS"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katalana"
+
+msgid "ISO_639-3.PAY"
+msgstr "Çex"
+
+msgid "ISO_639-3.PBI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PBN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PBO"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PBP"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PBR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PBV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PCB"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.PCF"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PCG"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PCH"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.PCI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.PCL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PDI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.PDU"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PEA"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.PEE"
+msgstr "Thai"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.PEH"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PEK"
+msgstr "Fransızca"
+
+msgid "ISO_639-3.PEL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PES"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.PFL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PGG"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PGI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.PGN"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.PGS"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PHA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.PHH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.PHN"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.PHT"
+msgstr "Thai"
+
+msgid "ISO_639-3.PHV"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PIC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.PII"
+msgstr "Axtar"
+
+msgid "ISO_639-3.PIM"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.PIP"
+msgstr "İvrit"
+
+msgid "ISO_639-3.PIS"
+msgstr "Axtar"
+
+msgid "ISO_639-3.PIV"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PKB"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.PKH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PKT"
+msgstr "Səhv"
+
+msgid "ISO_639-3.PLA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PLD"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLE"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLH"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLP"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PLU"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katalana"
+
+msgid "ISO_639-3.PMB"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PMD"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PMK"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PML"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.PMM"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-3.PMY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.PNC"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.PNK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PNL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PNP"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PNR"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PNS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PNT"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.PNY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.POC"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.POL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PON"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.POR"
+msgstr "Portuqal"
+
+msgid "ISO_639-3.POX"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.PPE"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PPI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.PPT"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PRB"
+msgstr "Thai"
+
+msgid "ISO_639-3.PRF"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PRG"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.PRI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PRM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.PRP"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PRR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.PRT"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PRU"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PRW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.PTN"
+msgstr "Katalana"
+
+msgid "ISO_639-3.PTR"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PTU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PTY"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.PUT"
+msgstr "Flemenkçə"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portuqal"
+
+msgid "ISO_639-3.PUX"
+msgstr "Korecə"
+
+msgid "ISO_639-3.PWA"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PWB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.PWN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.PWR"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.PWW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PZN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QUC"
+msgstr "Başqa"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QYP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RAA"
+msgstr "Baltik"
+
+msgid "ISO_639-3.RAC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.RAL"
+msgstr "Səhv"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katalana"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RAR"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RAS"
+msgstr "Baltik"
+
+msgid "ISO_639-3.RAW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RAX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.REE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.REI"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.REJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.REN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.RGA"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RHG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RHP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RIA"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.RJG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RJI"
+msgstr "Thai"
+
+msgid "ISO_639-3.RKI"
+msgstr "Çincə"
+
+msgid "ISO_639-3.RKM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.RKT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.RKW"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMG"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.RMH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.RMI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.RMK"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RML"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMT"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMX"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.RNG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RNL"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RNN"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RNR"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.ROF"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.ROG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ROH"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.ROM"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RON"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.ROR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RPT"
+msgstr "Yer"
+
+msgid "ISO_639-3.RRI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.RRO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RSM"
+msgstr "Korecə"
+
+msgid "ISO_639-3.RTC"
+msgstr "Çincə"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katalana"
+
+msgid "ISO_639-3.RTM"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.RUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RUE"
+msgstr "Rusca"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RUK"
+msgstr "Çincə"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RUS"
+msgstr "Rusca"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.RWO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.RWR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.RXD"
+msgstr "Thai"
+
+msgid "ISO_639-3.RXW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SAA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SAB"
+msgstr "Çincə"
+
+msgid "ISO_639-3.SAC"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.SAE"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SAM"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SAO"
+msgstr "Səhv"
+
+msgid "ISO_639-3.SAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SAU"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SBE"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.SBK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SBL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katalana"
+
+msgid "ISO_639-3.SBN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SBY"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.SCE"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.SCH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SCK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SCO"
+msgstr "Dayan"
+
+msgid "ISO_639-3.SCW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SDB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SDC"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SDF"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.SDH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SDK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SDN"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SDR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SED"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SEH"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SEK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SET"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SGB"
+msgstr "Yer"
+
+msgid "ISO_639-3.SGC"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SGE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SGK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SGM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SGP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SGR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SGS"
+msgstr "Latviya"
+
+msgid "ISO_639-3.SGU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SGY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SHC"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SHO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SHR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SHT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SHW"
+msgstr "Thai"
+
+msgid "ISO_639-3.SHY"
+msgstr "Thai"
+
+msgid "ISO_639-3.SIB"
+msgstr "İvrit"
+
+msgid "ISO_639-3.SIE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SIH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SIN"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SIR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SIU"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SIX"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SIY"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SJM"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SJN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SJP"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.SJR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SJW"
+msgstr "Çincə"
+
+msgid "ISO_639-3.SKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SKG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKH"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SKI"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SKM"
+msgstr "Breton"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SKR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKY"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.SLI"
+msgstr "Alman"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SLN"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SLR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SLU"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMB"
+msgstr "Thai"
+
+msgid "ISO_639-3.SMD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SME"
+msgstr "Korecə"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SMK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SMP"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SMU"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.SMX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SND"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SNK"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SNL"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SNN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SNO"
+msgstr "İspanca"
+
+msgid "ISO_639-3.SNP"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.SNR"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.SNU"
+msgstr "Baltik"
+
+msgid "ISO_639-3.SNV"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SOA"
+msgstr "Thai"
+
+msgid "ISO_639-3.SOD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SOG"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.SOH"
+msgstr "Afrika"
+
+msgid "ISO_639-3.SOI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SOL"
+msgstr "Dayan"
+
+msgid "ISO_639-3.SOO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SOP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.SOR"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SOS"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.SOW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.SPA"
+msgstr "İspanca"
+
+msgid "ISO_639-3.SPB"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.SPG"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SPI"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SPS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SPU"
+msgstr "İspanca"
+
+msgid "ISO_639-3.SPV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SQR"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.SQU"
+msgstr "İspanca"
+
+msgid "ISO_639-3.SRA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SRB"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SRC"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SRD"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SRE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SRF"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SRO"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SRS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SRT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SSD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SSE"
+msgstr "Baltik"
+
+msgid "ISO_639-3.SSF"
+msgstr "Thai"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SSH"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.SSI"
+msgstr "İspanca"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SSN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SST"
+msgstr "Macarca"
+
+msgid "ISO_639-3.SSU"
+msgstr "Thai"
+
+msgid "ISO_639-3.STB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.STD"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.STK"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.STM"
+msgstr "Alman"
+
+msgid "ISO_639-3.STO"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SUX"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SVA"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SVS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SVX"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.SWE"
+msgstr "İsveçcə"
+
+msgid "ISO_639-3.SWF"
+msgstr "İvrit"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SWK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SWM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SWO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.SWS"
+msgstr "Belorusca"
+
+msgid "ISO_639-3.SWW"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SWY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SXK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SXM"
+msgstr "Korecə"
+
+msgid "ISO_639-3.SXN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.SXS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SYA"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.SYB"
+msgstr "Korecə"
+
+msgid "ISO_639-3.SYM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SYN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.SYR"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.SYX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.SZN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SZW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.TAA"
+msgstr "Macarca"
+
+msgid "ISO_639-3.TAD"
+msgstr "Səhv"
+
+msgid "ISO_639-3.TAE"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TAG"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAH"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TAK"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAL"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAU"
+msgstr "Macarca"
+
+msgid "ISO_639-3.TAW"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAX"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBA"
+msgstr "Afrika"
+
+msgid "ISO_639-3.TBC"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBE"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBF"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.TBG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TBO"
+msgstr "Katalana"
+
+msgid "ISO_639-3.TBX"
+msgstr "Yer"
+
+msgid "ISO_639-3.TCC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.TCD"
+msgstr "Çincə"
+
+msgid "ISO_639-3.TCI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TCP"
+msgstr "Baltik"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.TDB"
+msgstr "Macarca"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TDI"
+msgstr "Yer"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TDM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TEC"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TEH"
+msgstr "Çex"
+
+msgid "ISO_639-3.TEK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TEY"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TFN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.TGB"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.TGC"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TGD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.TGK"
+msgstr "Thai"
+
+msgid "ISO_639-3.TGN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TGP"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TGR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.TGU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TGX"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katalana"
+
+msgid "ISO_639-3.THA"
+msgstr "Thai"
+
+msgid "ISO_639-3.THE"
+msgstr "Çincə"
+
+msgid "ISO_639-3.THF"
+msgstr "Thai"
+
+msgid "ISO_639-3.THN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.THR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.THS"
+msgstr "Thai"
+
+msgid "ISO_639-3.THT"
+msgstr "Latviya"
+
+msgid "ISO_639-3.THU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.THW"
+msgstr "Thai"
+
+msgid "ISO_639-3.THY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TIC"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TIF"
+msgstr "Thai"
+
+msgid "ISO_639-3.TIG"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TII"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TIK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TIM"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TIN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TIP"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TIR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TIU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TJL"
+msgstr "Thai"
+
+msgid "ISO_639-3.TKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TKG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TKX"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLK"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLR"
+msgstr "Çincə"
+
+msgid "ISO_639-3.TLT"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TLX"
+msgstr "Çex"
+
+msgid "ISO_639-3.TMC"
+msgstr "Thai"
+
+msgid "ISO_639-3.TMD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TMN"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TMW"
+msgstr "Alman"
+
+msgid "ISO_639-3.TMY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TNH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TNI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.TNK"
+msgstr "Başqa"
+
+msgid "ISO_639-3.TNM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TNO"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Yer"
+
+msgid "ISO_639-3.TOD"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.TOW"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.TOX"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.TPF"
+msgstr "Thai"
+
+msgid "ISO_639-3.TPG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TPM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TPY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TQL"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TRA"
+msgstr "Thai"
+
+msgid "ISO_639-3.TRD"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TRE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.TRH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TRM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TRT"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TSB"
+msgstr "Thai"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estonca"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TSX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.TTG"
+msgstr "Breton"
+
+msgid "ISO_639-3.TTI"
+msgstr "Thai"
+
+msgid "ISO_639-3.TTR"
+msgstr "Alman"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TTV"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TTW"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TUH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TUI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.TUR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TUY"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TVO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.TWE"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.TWF"
+msgstr "Korecə"
+
+msgid "ISO_639-3.TWL"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.TWM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TWN"
+msgstr "İsveçcə"
+
+msgid "ISO_639-3.TWU"
+msgstr "Alman"
+
+msgid "ISO_639-3.TWW"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.TXA"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.TXG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TXH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TXM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TXN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.TXR"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TXX"
+msgstr "Latviya"
+
+msgid "ISO_639-3.TXY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TYA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TYE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TYN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.TZH"
+msgstr "Baltik"
+
+msgid "ISO_639-3.TZL"
+msgstr "Rusca"
+
+msgid "ISO_639-3.TZO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TZX"
+msgstr "Thai"
+
+msgid "ISO_639-3.UAN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.UBA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.UDG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.UHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.UHN"
+msgstr "Thai"
+
+msgid "ISO_639-3.UIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.UKA"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ULA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ULI"
+msgstr "Litva"
+
+msgid "ISO_639-3.ULK"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.ULW"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.UMC"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.UMN"
+msgstr "Macarca"
+
+msgid "ISO_639-3.UND"
+msgstr "İcra edilir"
+
+msgid "ISO_639-3.UNG"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.UNM"
+msgstr "Thai"
+
+msgid "ISO_639-3.UNN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.UNR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.UNU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.UNX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.URG"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.URL"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.URT"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.URX"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Rusca"
+
+msgid "ISO_639-3.VAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Çincə"
+
+msgid "ISO_639-3.VAN"
+msgstr "Katalana"
+
+msgid "ISO_639-3.VAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAV"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.VAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.VEC"
+msgstr "Rusca"
+
+msgid "ISO_639-3.VGR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.VKK"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.VKO"
+msgstr "Korecə"
+
+msgid "ISO_639-3.VLP"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.VMB"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.VMD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.VME"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VMG"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.VMH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.VML"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VMR"
+msgstr "Səhv"
+
+msgid "ISO_639-3.VMW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.VNK"
+msgstr "Yer"
+
+msgid "ISO_639-3.VRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.WAE"
+msgstr "Səhv"
+
+msgid "ISO_639-3.WAI"
+msgstr "Faero"
+
+msgid "ISO_639-3.WAJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WAL"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Alman"
+
+msgid "ISO_639-3.WAV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WAW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WBI"
+msgstr "Thai"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WBQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WDK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WER"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.WET"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.WEU"
+msgstr "Çincə"
+
+msgid "ISO_639-3.WGA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WGY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WHG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.WHU"
+msgstr "Korecə"
+
+msgid "ISO_639-3.WII"
+msgstr "Axtar"
+
+msgid "ISO_639-3.WJA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WJI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WKB"
+msgstr "Macarca"
+
+msgid "ISO_639-3.WKL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WKU"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.WLA"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.WLE"
+msgstr "Korecə"
+
+msgid "ISO_639-3.WLG"
+msgstr "Macarca"
+
+msgid "ISO_639-3.WLI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.WLS"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.WLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WLY"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.WMB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WMC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WMD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WMI"
+msgstr "Thai"
+
+msgid "ISO_639-3.WMM"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.WMW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WMX"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.WND"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WNN"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.WNO"
+msgstr "Yer"
+
+msgid "ISO_639-3.WNP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WNY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WOA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WOD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.WOE"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.WOI"
+msgstr "Axtar"
+
+msgid "ISO_639-3.WOO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WOR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WPC"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WRK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.WRP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.WRR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.WSI"
+msgstr "Thai"
+
+msgid "ISO_639-3.WSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WSU"
+msgstr "Baskca"
+
+msgid "ISO_639-3.WTM"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.WUU"
+msgstr "Çincə"
+
+msgid "ISO_639-3.WUX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WXW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.XAC"
+msgstr "Thai"
+
+msgid "ISO_639-3.XAD"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.XAG"
+msgstr "Afrika"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.XAL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XAO"
+msgstr "Thai"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Litva"
+
+msgid "ISO_639-3.XAR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XAU"
+msgstr "Alman"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.XBD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XBE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.XBM"
+msgstr "Breton"
+
+msgid "ISO_639-3.XBN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.XBR"
+msgstr "Başqa"
+
+msgid "ISO_639-3.XBY"
+msgstr "Katalana"
+
+msgid "ISO_639-3.XCO"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.XCR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XCU"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.XCY"
+msgstr "Çincə"
+
+msgid "ISO_639-3.XDA"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XDC"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.XDY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XED"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XES"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.XFA"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.XGA"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.XGD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XGG"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XGI"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.XGL"
+msgstr "Qaleon"
+
+msgid "ISO_639-3.XGM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XGR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XGU"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XHA"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.XHD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XHE"
+msgstr "Thai"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.XHU"
+msgstr "Macarca"
+
+msgid "ISO_639-3.XHV"
+msgstr "Thai"
+
+msgid "ISO_639-3.XIB"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.XII"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XIL"
+msgstr "İtalyan"
+
+msgid "ISO_639-3.XIR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XIS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XJB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XJT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XKE"
+msgstr "İvrit"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XKT"
+msgstr "Yer"
+
+msgid "ISO_639-3.XKX"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XLC"
+msgstr "Latviya"
+
+msgid "ISO_639-3.XLD"
+msgstr "Yer"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.XLI"
+msgstr "Litva"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.XLS"
+msgstr "Litva"
+
+msgid "ISO_639-3.XMB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XME"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.XMF"
+msgstr "Macarca"
+
+msgid "ISO_639-3.XMG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XMK"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.XMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMO"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMX"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XNG"
+msgstr "Macarca"
+
+msgid "ISO_639-3.XNH"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XNI"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.XNK"
+msgstr "Macarca"
+
+msgid "ISO_639-3.XNN"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XNR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XNS"
+msgstr "Danimarka"
+
+msgid "ISO_639-3.XNT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XOD"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XOG"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.XON"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XOP"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XOW"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XPA"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XPC"
+msgstr "Çex"
+
+msgid "ISO_639-3.XPG"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.XPI"
+msgstr "Polyakca"
+
+msgid "ISO_639-3.XPR"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.XPS"
+msgstr "Çap Et"
+
+msgid "ISO_639-3.XQA"
+msgstr "Thai"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.XRE"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.XRG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XRM"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.XRN"
+msgstr "Afrika"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XRU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XRW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XSB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XSC"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.XSD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XSE"
+msgstr "Alman"
+
+msgid "ISO_639-3.XSM"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XSO"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.XSS"
+msgstr "Rusca"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slovakca"
+
+msgid "ISO_639-3.XSY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XTV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XTW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.XUM"
+msgstr "Litva"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.XUR"
+msgstr "Xırvatca"
+
+msgid "ISO_639-3.XUU"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XVI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.XVO"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estonca"
+
+msgid "ISO_639-3.XWA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XWK"
+msgstr "Axtar"
+
+msgid "ISO_639-3.XXB"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.XXR"
+msgstr "Korecə"
+
+msgid "ISO_639-3.XXT"
+msgstr "Alman"
+
+msgid "ISO_639-3.XYB"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.XYK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XYL"
+msgstr "Səhv"
+
+msgid "ISO_639-3.XZM"
+msgstr "Makedonca"
+
+msgid "ISO_639-3.YAD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAP"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.YAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBK"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.YBM"
+msgstr "Korecə"
+
+msgid "ISO_639-3.YBO"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YCH"
+msgstr "Çincə"
+
+msgid "ISO_639-3.YCL"
+msgstr "Yer"
+
+msgid "ISO_639-3.YCP"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-3.YDA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YEC"
+msgstr "Fransızca"
+
+msgid "ISO_639-3.YEJ"
+msgstr "İslandiyaca"
+
+msgid "ISO_639-3.YER"
+msgstr "Thai"
+
+msgid "ISO_639-3.YES"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YEV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YGA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YGI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.YGP"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.YGS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.YGW"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YHA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YHD"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.YHS"
+msgstr "Korecə"
+
+msgid "ISO_639-3.YIA"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.YIF"
+msgstr "Çincə"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.YIM"
+msgstr "Latviya"
+
+msgid "ISO_639-3.YIN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YIP"
+msgstr "kaynak :"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.YIU"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.YIX"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.YKA"
+msgstr "Afrika"
+
+msgid "ISO_639-3.YKL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YKM"
+msgstr "Thai"
+
+msgid "ISO_639-3.YKO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YKT"
+msgstr "Thai"
+
+msgid "ISO_639-3.YKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YLB"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.YLE"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.YLO"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.YMB"
+msgstr "Yaponca"
+
+msgid "ISO_639-3.YMD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YMH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YMI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YMO"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.YMR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YMS"
+msgstr "Rumınca"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YNE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YNG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YNN"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Baltik"
+
+msgid "ISO_639-3.YNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YOG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YOI"
+msgstr "Korecə"
+
+msgid "ISO_639-3.YOL"
+msgstr "Korecə"
+
+msgid "ISO_639-3.YON"
+msgstr "Axtar"
+
+msgid "ISO_639-3.YPA"
+msgstr "Katalana"
+
+msgid "ISO_639-3.YPG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPM"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-3.YPO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katalana"
+
+msgid "ISO_639-3.YSD"
+msgstr "Serbcə"
+
+msgid "ISO_639-3.YSG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.YSN"
+msgstr "İspanca"
+
+msgid "ISO_639-3.YSY"
+msgstr "Norveçcə"
+
+msgid "ISO_639-3.YTA"
+msgstr "Thai"
+
+msgid "ISO_639-3.YTL"
+msgstr "Katalana"
+
+msgid "ISO_639-3.YTP"
+msgstr "Thai"
+
+msgid "ISO_639-3.YUC"
+msgstr "Flemenkçə"
+
+msgid "ISO_639-3.YUD"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-3.YUE"
+msgstr "Çincə"
+
+msgid "ISO_639-3.YUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YVA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.YXA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Albaniya"
+
+msgid "ISO_639-3.YZG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Alman"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bolqarca"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Alman"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Baltik"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Baltik"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Çincə"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Səhv"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Latviya"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Litva"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZME"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZML"
+msgstr "Səhv"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Çincə"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Çincə"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Səhv"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Yunanca"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Kənarlar"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Korecə"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Türkcə"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Axtar"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Çincə"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Axtar"

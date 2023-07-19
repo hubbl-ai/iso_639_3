@@ -1,0 +1,8206 @@
+# Malay translations of ISO 639 Language names
+# Copyright (C) 2001,2004 Free Software Foundation, Inc.
+# Hasbullah Bin Pit (sebol) <sebol@ikhlas.com>, 2001
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   - translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-11-10 19:58+0800\n"
+"Last-Translator: Hasbullah Bin Pit (sebol) <sebol@ikhlas.com>\n"
+"Language-Team: Projek Gabai <gabai-penyumbang@lists.sourceforge.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AAG"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AAK"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albanian"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ABD"
+msgstr "Man"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ABH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ABW"
+msgstr "Polish"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ACE"
+msgstr "Chinese"
+
+msgid "ISO_639-3.ACI"
+msgstr "Margin"
+
+msgid "ISO_639-3.ACN"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ACR"
+msgstr "Chinese"
+
+msgid "ISO_639-3.ACW"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ACX"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ACY"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ADF"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ADL"
+msgstr "Polish"
+
+msgid "ISO_639-3.ADN"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AEC"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AEU"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AEW"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AFB"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AFD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.AFK"
+msgstr "Margin"
+
+msgid "ISO_639-3.AFP"
+msgstr "Thai"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AGA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AGB"
+msgstr "Greek"
+
+msgid "ISO_639-3.AGD"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AGE"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AGH"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.AGI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.AGM"
+msgstr "Catalan"
+
+msgid "ISO_639-3.AGO"
+msgstr "Thai"
+
+msgid "ISO_639-3.AGW"
+msgstr "Thai"
+
+msgid "ISO_639-3.AHA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AHK"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AHR"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AIA"
+msgstr "Margin"
+
+msgid "ISO_639-3.AIC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.AIE"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.AIR"
+msgstr "Korean"
+
+msgid "ISO_639-3.AIS"
+msgstr "Margin"
+
+msgid "ISO_639-3.AIW"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AIX"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AJN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.AJT"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AJU"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.AKA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.AKF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AKK"
+msgstr "Albanian"
+
+msgid "ISO_639-3.AKL"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AKM"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AKR"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AKW"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ALD"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ALH"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovak"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albanian"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albanian"
+
+msgid "ISO_639-3.AMC"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AMH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AMK"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AML"
+msgstr "Margin"
+
+msgid "ISO_639-3.AMN"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AMY"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ANC"
+msgstr "Margin"
+
+msgid "ISO_639-3.ANI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.ANK"
+msgstr "German"
+
+msgid "ISO_639-3.ANN"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ANP"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.ANS"
+msgstr "German"
+
+msgid "ISO_639-3.ANW"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albanian"
+
+msgid "ISO_639-3.AOD"
+msgstr "Man"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.AOH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Russian"
+
+msgid "ISO_639-3.AOR"
+msgstr "Korean"
+
+msgid "ISO_639-3.AOS"
+msgstr "Thai"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.APB"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.APD"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.APF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.APG"
+msgstr "Albanian"
+
+msgid "ISO_639-3.APH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.API"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.APW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AQC"
+msgstr "Chinese"
+
+msgid "ISO_639-3.AQT"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARA"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ARG"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.ARH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARL"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ARN"
+msgstr "Man"
+
+msgid "ISO_639-3.ARO"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ARS"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ARY"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.ASK"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ASO"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.AST"
+msgstr "Estonian"
+
+msgid "ISO_639-3.ATB"
+msgstr "Cari:"
+
+msgid "ISO_639-3.ATN"
+msgstr "Estonian"
+
+msgid "ISO_639-3.ATR"
+msgstr "Margin"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AUB"
+msgstr "Chinese"
+
+msgid "ISO_639-3.AUC"
+msgstr "Margin"
+
+msgid "ISO_639-3.AUH"
+msgstr "Thai"
+
+msgid "ISO_639-3.AUK"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.AUP"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.AUQ"
+msgstr "English"
+
+msgid "ISO_639-3.AUR"
+msgstr "Greek"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AVA"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AVB"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AVI"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AVK"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.AVN"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AVS"
+msgstr "Thai"
+
+msgid "ISO_639-3.AWM"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AXL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.AYA"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.AYH"
+msgstr "Cari:"
+
+msgid "ISO_639-3.AYL"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.AZA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azerbaijan"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azerbaijan"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azerbaijan"
+
+msgid "ISO_639-3.BAG"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BAN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BAY"
+msgstr "Basque"
+
+msgid "ISO_639-3.BBB"
+msgstr "Thai"
+
+msgid "ISO_639-3.BBD"
+msgstr "Basque"
+
+msgid "ISO_639-3.BBE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BBF"
+msgstr "Thai"
+
+msgid "ISO_639-3.BBG"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BBI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BBL"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.BBV"
+msgstr "Korean"
+
+msgid "ISO_639-3.BBW"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BBY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BCF"
+msgstr "Basque"
+
+msgid "ISO_639-3.BCG"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BCK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BCO"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BCQ"
+msgstr "French"
+
+msgid "ISO_639-3.BCR"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BCT"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BCW"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BCY"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BDB"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BDD"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BDE"
+msgstr "Basque"
+
+msgid "ISO_639-3.BDF"
+msgstr "Thai"
+
+msgid "ISO_639-3.BDG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BDK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.BDO"
+msgstr "Margin"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Man"
+
+msgid "ISO_639-3.BDU"
+msgstr "daripada:"
+
+msgid "ISO_639-3.BDW"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BEG"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BEH"
+msgstr "Thai"
+
+msgid "ISO_639-3.BEK"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BEL"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BEN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BEO"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BEP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BES"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BEW"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BFA"
+msgstr "Thai"
+
+msgid "ISO_639-3.BFC"
+msgstr "Man"
+
+msgid "ISO_639-3.BFG"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BFR"
+msgstr "Thai"
+
+msgid "ISO_639-3.BFT"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BFU"
+msgstr "Margin"
+
+msgid "ISO_639-3.BFW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BFX"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BGG"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BGR"
+msgstr "Polish"
+
+msgid "ISO_639-3.BGW"
+msgstr "Thai"
+
+msgid "ISO_639-3.BGY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHB"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BHD"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHE"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BHG"
+msgstr "Salah"
+
+msgid "ISO_639-3.BHH"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BHL"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BHM"
+msgstr "Thai"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BHR"
+msgstr "Margin"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BHV"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BHX"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.BIB"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BIC"
+msgstr "Thai"
+
+msgid "ISO_639-3.BID"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BIG"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BIN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BIO"
+msgstr "Margin"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BIR"
+msgstr "Thai"
+
+msgid "ISO_639-3.BIT"
+msgstr "daripada:"
+
+msgid "ISO_639-3.BIU"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BIX"
+msgstr "Thai"
+
+msgid "ISO_639-3.BIY"
+msgstr "Thai"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BJB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BJC"
+msgstr "Thai"
+
+msgid "ISO_639-3.BJH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BJN"
+msgstr "Man"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BJS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BJV"
+msgstr "Breton"
+
+msgid "ISO_639-3.BJY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.BKD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BKF"
+msgstr "Greek"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BKI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BKS"
+msgstr "Korean"
+
+msgid "ISO_639-3.BKT"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BKX"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.BLG"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BLI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.BLL"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BLR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BLS"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BMD"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BMH"
+msgstr "Korean"
+
+msgid "ISO_639-3.BMI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BMO"
+msgstr "Catalan"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BMR"
+msgstr "Salah"
+
+msgid "ISO_639-3.BMS"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BMX"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BNB"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BNC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BND"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.BNF"
+msgstr "Margin"
+
+msgid "ISO_639-3.BNG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BNI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BNK"
+msgstr "Greek"
+
+msgid "ISO_639-3.BNL"
+msgstr "Breton"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.BNU"
+msgstr "Breton"
+
+msgid "ISO_639-3.BNW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Greek"
+
+msgid "ISO_639-3.BOA"
+msgstr "Korean"
+
+msgid "ISO_639-3.BOB"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.BOF"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BOH"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BOM"
+msgstr "daripada:"
+
+msgid "ISO_639-3.BON"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BOP"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BOS"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BOU"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BOW"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BPA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BPH"
+msgstr "Polish"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BPK"
+msgstr "daripada:"
+
+msgid "ISO_639-3.BPO"
+msgstr "Margin"
+
+msgid "ISO_639-3.BPP"
+msgstr "Korean"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Man"
+
+msgid "ISO_639-3.BPV"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.BQB"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BQH"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BQI"
+msgstr "Thai"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Man"
+
+msgid "ISO_639-3.BQP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BQS"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BQV"
+msgstr "Korean"
+
+msgid "ISO_639-3.BQX"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BRE"
+msgstr "Breton"
+
+msgid "ISO_639-3.BRF"
+msgstr "German"
+
+msgid "ISO_639-3.BRG"
+msgstr "Basque"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BRS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BRT"
+msgstr "Thai"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.BRW"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BSB"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BSC"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BSE"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSG"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSH"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.BSI"
+msgstr "Margin"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BSK"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSM"
+msgstr "Thai"
+
+msgid "ISO_639-3.BSN"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BST"
+msgstr "Basque"
+
+msgid "ISO_639-3.BSU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BSW"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BTA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japanese"
+
+msgid "ISO_639-3.BTR"
+msgstr "Breton"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BTV"
+msgstr "Thai"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BUC"
+msgstr "Thai"
+
+msgid "ISO_639-3.BUG"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BUI"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BUN"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.BUO"
+msgstr "Turkish"
+
+msgid "ISO_639-3.BUP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Breton"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BVA"
+msgstr "Korean"
+
+msgid "ISO_639-3.BVB"
+msgstr "Basque"
+
+msgid "ISO_639-3.BVC"
+msgstr "Chinese"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BVP"
+msgstr "Serbian"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BVV"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BVW"
+msgstr "Margin"
+
+msgid "ISO_639-3.BVY"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BWD"
+msgstr "Korean"
+
+msgid "ISO_639-3.BWG"
+msgstr "Korean"
+
+msgid "ISO_639-3.BWI"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BXA"
+msgstr "Thai"
+
+msgid "ISO_639-3.BXG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BXM"
+msgstr "Korean"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BXS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.BYA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BYF"
+msgstr "Breton"
+
+msgid "ISO_639-3.BYH"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BYM"
+msgstr "Thai"
+
+msgid "ISO_639-3.BYN"
+msgstr "Thai"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BYR"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.BYW"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Man"
+
+msgid "ISO_639-3.BZA"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BZB"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BZD"
+msgstr "Thai"
+
+msgid "ISO_639-3.BZF"
+msgstr "Romanian"
+
+msgid "ISO_639-3.BZG"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BZI"
+msgstr "Basque"
+
+msgid "ISO_639-3.BZO"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.BZR"
+msgstr "Thai"
+
+msgid "ISO_639-3.BZT"
+msgstr "Cari:"
+
+msgid "ISO_639-3.BZU"
+msgstr "Breton"
+
+msgid "ISO_639-3.BZV"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.CAC"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CAF"
+msgstr "Margin"
+
+msgid "ISO_639-3.CAH"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CAK"
+msgstr "Thai"
+
+msgid "ISO_639-3.CAL"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.CAN"
+msgstr "Margin"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galeon"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.CAT"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CBC"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CBD"
+msgstr "Margin"
+
+msgid "ISO_639-3.CBI"
+msgstr "Czech"
+
+msgid "ISO_639-3.CBK"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CBL"
+msgstr "Polish"
+
+msgid "ISO_639-3.CBV"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.CBW"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.CBY"
+msgstr "Margin"
+
+msgid "ISO_639-3.CCA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.CCG"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.CCM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.CDA"
+msgstr "Warna"
+
+msgid "ISO_639-3.CDE"
+msgstr "Czech"
+
+msgid "ISO_639-3.CDG"
+msgstr "Margin"
+
+msgid "ISO_639-3.CDI"
+msgstr "Warna"
+
+msgid "ISO_639-3.CDO"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CDY"
+msgstr "Warna"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Korean"
+
+msgid "ISO_639-3.CEA"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.CEN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CES"
+msgstr "Czech"
+
+msgid "ISO_639-3.CFD"
+msgstr "Margin"
+
+msgid "ISO_639-3.CFM"
+msgstr "Polish"
+
+msgid "ISO_639-3.CHC"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CHE"
+msgstr "Czech"
+
+msgid "ISO_639-3.CHK"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CHM"
+msgstr "Russian"
+
+msgid "ISO_639-3.CHX"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CIE"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CIK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.CIM"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.CIP"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CIR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.CIY"
+msgstr "Thai"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.CJI"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CJK"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.CJV"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CJY"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CKB"
+msgstr "Turkish"
+
+msgid "ISO_639-3.CKL"
+msgstr "Margin"
+
+msgid "ISO_639-3.CKN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CKT"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CKU"
+msgstr "Margin"
+
+msgid "ISO_639-3.CKV"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CLA"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.CLE"
+msgstr "Polish"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CLL"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CLT"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CLU"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CMA"
+msgstr "Margin"
+
+msgid "ISO_639-3.CME"
+msgstr "German"
+
+msgid "ISO_639-3.CML"
+msgstr "Catalan"
+
+msgid "ISO_639-3.CMN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CMS"
+msgstr "Margin"
+
+msgid "ISO_639-3.CNG"
+msgstr "Korean"
+
+msgid "ISO_639-3.CNH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.CNL"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CNO"
+msgstr "Warna"
+
+msgid "ISO_639-3.CNW"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CNX"
+msgstr "Warna"
+
+msgid "ISO_639-3.COE"
+msgstr "Korean"
+
+msgid "ISO_639-3.COO"
+msgstr "daripada:"
+
+msgid "ISO_639-3.COR"
+msgstr "Warna"
+
+msgid "ISO_639-3.COX"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.COZ"
+msgstr "Czech"
+
+msgid "ISO_639-3.CPI"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CPN"
+msgstr "Czech"
+
+msgid "ISO_639-3.CPX"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CRA"
+msgstr "Margin"
+
+msgid "ISO_639-3.CRE"
+msgstr "Greek"
+
+msgid "ISO_639-3.CRF"
+msgstr "Turkish"
+
+msgid "ISO_639-3.CRR"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.CRX"
+msgstr "Margin"
+
+msgid "ISO_639-3.CRY"
+msgstr "Warna"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CST"
+msgstr "Korean"
+
+msgid "ISO_639-3.CSV"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CSY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CTC"
+msgstr "Czech"
+
+msgid "ISO_639-3.CTD"
+msgstr "Polish"
+
+msgid "ISO_639-3.CTG"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.CTH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CTS"
+msgstr "Korean"
+
+msgid "ISO_639-3.CTU"
+msgstr "Warna"
+
+msgid "ISO_639-3.CUH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CUI"
+msgstr "Margin"
+
+msgid "ISO_639-3.CUL"
+msgstr "Cari:"
+
+msgid "ISO_639-3.CUU"
+msgstr "Thai"
+
+msgid "ISO_639-3.CUW"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CVG"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CWB"
+msgstr "Man"
+
+msgid "ISO_639-3.CWE"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.CZH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.CZK"
+msgstr "Korean"
+
+msgid "ISO_639-3.CZT"
+msgstr "Baltic"
+
+msgid "ISO_639-3.DAC"
+msgstr "Thai"
+
+msgid "ISO_639-3.DAD"
+msgstr "Margin"
+
+msgid "ISO_639-3.DAE"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.DAG"
+msgstr "Danish"
+
+msgid "ISO_639-3.DAM"
+msgstr "Margin"
+
+msgid "ISO_639-3.DAN"
+msgstr "Danish"
+
+msgid "ISO_639-3.DAO"
+msgstr "Baltic"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Man"
+
+msgid "ISO_639-3.DAR"
+msgstr "Margin"
+
+msgid "ISO_639-3.DAV"
+msgstr "Latvian"
+
+msgid "ISO_639-3.DAX"
+msgstr "Danish"
+
+msgid "ISO_639-3.DBA"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Itali"
+
+msgid "ISO_639-3.DBM"
+msgstr "Margin"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.DEC"
+msgstr "Thai"
+
+msgid "ISO_639-3.DEH"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.DER"
+msgstr "Margin"
+
+msgid "ISO_639-3.DES"
+msgstr "Cetak"
+
+msgid "ISO_639-3.DEU"
+msgstr "German"
+
+msgid "ISO_639-3.DGG"
+msgstr "Margin"
+
+msgid "ISO_639-3.DGI"
+msgstr "Korean"
+
+msgid "ISO_639-3.DGK"
+msgstr "Margin"
+
+msgid "ISO_639-3.DGL"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DGN"
+msgstr "Margin"
+
+msgid "ISO_639-3.DGX"
+msgstr "Margin"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.DHG"
+msgstr "Man"
+
+msgid "ISO_639-3.DHN"
+msgstr "Danish"
+
+msgid "ISO_639-3.DHO"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.DHR"
+msgstr "Margin"
+
+msgid "ISO_639-3.DHS"
+msgstr "Danish"
+
+msgid "ISO_639-3.DHU"
+msgstr "Margin"
+
+msgid "ISO_639-3.DHX"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.DIC"
+msgstr "Latvian"
+
+msgid "ISO_639-3.DIF"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Danish"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.DIR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DIS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.DIT"
+msgstr "Thai"
+
+msgid "ISO_639-3.DIU"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DIV"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.DJO"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.DJU"
+msgstr "Korean"
+
+msgid "ISO_639-3.DKX"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.DLG"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.DLK"
+msgstr "Margin"
+
+msgid "ISO_639-3.DLM"
+msgstr "Itali"
+
+msgid "ISO_639-3.DLN"
+msgstr "Margin"
+
+msgid "ISO_639-3.DML"
+msgstr "Polish"
+
+msgid "ISO_639-3.DMM"
+msgstr "Margin"
+
+msgid "ISO_639-3.DMV"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.DMX"
+msgstr "German"
+
+msgid "ISO_639-3.DND"
+msgstr "Man"
+
+msgid "ISO_639-3.DNG"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Danish"
+
+msgid "ISO_639-3.DNK"
+msgstr "Baltic"
+
+msgid "ISO_639-3.DNR"
+msgstr "Man"
+
+msgid "ISO_639-3.DNV"
+msgstr "Russian"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.DOH"
+msgstr "Margin"
+
+msgid "ISO_639-3.DOK"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DOO"
+msgstr "Margin"
+
+msgid "ISO_639-3.DOP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.DOR"
+msgstr "Margin"
+
+msgid "ISO_639-3.DOT"
+msgstr "Danish"
+
+msgid "ISO_639-3.DOX"
+msgstr "Russian"
+
+msgid "ISO_639-3.DOY"
+msgstr "daripada:"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.DRB"
+msgstr "Margin"
+
+msgid "ISO_639-3.DRC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DRD"
+msgstr "Margin"
+
+msgid "ISO_639-3.DRG"
+msgstr "English"
+
+msgid "ISO_639-3.DRL"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.DRS"
+msgstr "Greek"
+
+msgid "ISO_639-3.DRY"
+msgstr "Margin"
+
+msgid "ISO_639-3.DSB"
+msgstr "German"
+
+msgid "ISO_639-3.DSI"
+msgstr "Danish"
+
+msgid "ISO_639-3.DSO"
+msgstr "Cetak"
+
+msgid "ISO_639-3.DTA"
+msgstr "Catalan"
+
+msgid "ISO_639-3.DTY"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.DUP"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.DWA"
+msgstr "Cari:"
+
+msgid "ISO_639-3.DWR"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.DWW"
+msgstr "Margin"
+
+msgid "ISO_639-3.DYA"
+msgstr "Danish"
+
+msgid "ISO_639-3.DZA"
+msgstr "Thai"
+
+msgid "ISO_639-3.DZG"
+msgstr "Margin"
+
+msgid "ISO_639-3.EAA"
+msgstr "Korean"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ECR"
+msgstr "Korean"
+
+msgid "ISO_639-3.EGL"
+msgstr "Romanian"
+
+msgid "ISO_639-3.EIV"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.EKG"
+msgstr "Margin"
+
+msgid "ISO_639-3.EKK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japanese"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.EMN"
+msgstr "Romanian"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ENA"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.ENB"
+msgstr "Margin"
+
+msgid "ISO_639-3.ENG"
+msgstr "English"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Catalan"
+
+msgid "ISO_639-3.ERG"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.ERO"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.ESG"
+msgstr "Cari:"
+
+msgid "ISO_639-3.EST"
+msgstr "Estonian"
+
+msgid "ISO_639-3.ESY"
+msgstr "Korean"
+
+msgid "ISO_639-3.EUS"
+msgstr "Basque"
+
+msgid "ISO_639-3.EYO"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.FAA"
+msgstr "Basque"
+
+msgid "ISO_639-3.FAF"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.FAH"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Latvian"
+
+msgid "ISO_639-3.FAO"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.FAP"
+msgstr "Polish"
+
+msgid "ISO_639-3.FAR"
+msgstr "Catalan"
+
+msgid "ISO_639-3.FAS"
+msgstr "Cetak"
+
+msgid "ISO_639-3.FAT"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.FAX"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albanian"
+
+msgid "ISO_639-3.FER"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FIN"
+msgstr "Finnish"
+
+msgid "ISO_639-3.FIR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FKV"
+msgstr "Finnish"
+
+msgid "ISO_639-3.FLI"
+msgstr "Polish"
+
+msgid "ISO_639-3.FLL"
+msgstr "Korean"
+
+msgid "ISO_639-3.FLY"
+msgstr "Latvian"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FNI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.FOM"
+msgstr "Romanian"
+
+msgid "ISO_639-3.FOR"
+msgstr "Korean"
+
+msgid "ISO_639-3.FQS"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.FRA"
+msgstr "French"
+
+msgid "ISO_639-3.FRC"
+msgstr "French"
+
+msgid "ISO_639-3.FRK"
+msgstr "Danish"
+
+msgid "ISO_639-3.FRP"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FUI"
+msgstr "Thai"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.FUU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.GAB"
+msgstr "Margin"
+
+msgid "ISO_639-3.GAF"
+msgstr "Greek"
+
+msgid "ISO_639-3.GAH"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.GAI"
+msgstr "Margin"
+
+msgid "ISO_639-3.GAL"
+msgstr "Polish"
+
+msgid "ISO_639-3.GAM"
+msgstr "Man"
+
+msgid "ISO_639-3.GAN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.GAO"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.GAT"
+msgstr "Baltic"
+
+msgid "ISO_639-3.GBD"
+msgstr "Margin"
+
+msgid "ISO_639-3.GBF"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.GBK"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GBL"
+msgstr "Thai"
+
+msgid "ISO_639-3.GBM"
+msgstr "Margin"
+
+msgid "ISO_639-3.GBY"
+msgstr "Margin"
+
+msgid "ISO_639-3.GCC"
+msgstr "Margin"
+
+msgid "ISO_639-3.GCD"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GDI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GDL"
+msgstr "Danish"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.GDT"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.GDX"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GEA"
+msgstr "German"
+
+msgid "ISO_639-3.GEB"
+msgstr "Turkish"
+
+msgid "ISO_639-3.GEG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.GEI"
+msgstr "Greek"
+
+msgid "ISO_639-3.GEJ"
+msgstr "German"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Greek"
+
+msgid "ISO_639-3.GEW"
+msgstr "German"
+
+msgid "ISO_639-3.GEX"
+msgstr "Korean"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Greek"
+
+msgid "ISO_639-3.GGE"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.GGK"
+msgstr "Korean"
+
+msgid "ISO_639-3.GHR"
+msgstr "German"
+
+msgid "ISO_639-3.GHT"
+msgstr "Chinese"
+
+msgid "ISO_639-3.GIC"
+msgstr "Thai"
+
+msgid "ISO_639-3.GID"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GIG"
+msgstr "Margin"
+
+msgid "ISO_639-3.GIL"
+msgstr "Vietnamese"
+
+msgid "ISO_639-3.GIQ"
+msgstr "German"
+
+msgid "ISO_639-3.GIR"
+msgstr "German"
+
+msgid "ISO_639-3.GIU"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.GIW"
+msgstr "German"
+
+msgid "ISO_639-3.GJM"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GJN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GJU"
+msgstr "Margin"
+
+msgid "ISO_639-3.GKE"
+msgstr "Margin"
+
+msgid "ISO_639-3.GKN"
+msgstr "Korean"
+
+msgid "ISO_639-3.GLD"
+msgstr "Margin"
+
+msgid "ISO_639-3.GLE"
+msgstr "Irish"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.GLL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.GLV"
+msgstr "Man"
+
+msgid "ISO_639-3.GMA"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.GMV"
+msgstr "Greek"
+
+msgid "ISO_639-3.GNA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.GNC"
+msgstr "Man"
+
+msgid "ISO_639-3.GNE"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.GNH"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.GNI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GNM"
+msgstr "German"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Man"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.GOA"
+msgstr "Greek"
+
+msgid "ISO_639-3.GOD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GOE"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GOF"
+msgstr "Korean"
+
+msgid "ISO_639-3.GOK"
+msgstr "Korean"
+
+msgid "ISO_639-3.GON"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GOS"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GOY"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GPN"
+msgstr "Thai"
+
+msgid "ISO_639-3.GQA"
+msgstr "Man"
+
+msgid "ISO_639-3.GQU"
+msgstr "Basque"
+
+msgid "ISO_639-3.GRB"
+msgstr "Greek"
+
+msgid "ISO_639-3.GRG"
+msgstr "Margin"
+
+msgid "ISO_639-3.GRI"
+msgstr "Thai"
+
+msgid "ISO_639-3.GRO"
+msgstr "German"
+
+msgid "ISO_639-3.GRR"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.GRS"
+msgstr "Greek"
+
+msgid "ISO_639-3.GRT"
+msgstr "Greek"
+
+msgid "ISO_639-3.GRU"
+msgstr "Chinese"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.GSW"
+msgstr "German"
+
+msgid "ISO_639-3.GUR"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.GVE"
+msgstr "Dutch"
+
+msgid "ISO_639-3.GVF"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GVL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.GVM"
+msgstr "German"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.GWA"
+msgstr "Margin"
+
+msgid "ISO_639-3.GWC"
+msgstr "Polish"
+
+msgid "ISO_639-3.GWE"
+msgstr "Greek"
+
+msgid "ISO_639-3.GWF"
+msgstr "Greek"
+
+msgid "ISO_639-3.GWN"
+msgstr "Man"
+
+msgid "ISO_639-3.GWR"
+msgstr "Greek"
+
+msgid "ISO_639-3.GWW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.GYB"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.GYE"
+msgstr "German"
+
+msgid "ISO_639-3.GYF"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.GYI"
+msgstr "Greek"
+
+msgid "ISO_639-3.GYL"
+msgstr "Thai"
+
+msgid "ISO_639-3.GZI"
+msgstr "Thai"
+
+msgid "ISO_639-3.GZN"
+msgstr "German"
+
+msgid "ISO_639-3.HAC"
+msgstr "German"
+
+msgid "ISO_639-3.HAD"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HAG"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HAI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HAK"
+msgstr "Chinese"
+
+msgid "ISO_639-3.HAL"
+msgstr "Catalan"
+
+msgid "ISO_639-3.HAM"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.HAN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.HAP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HAR"
+msgstr "Margin"
+
+msgid "ISO_639-3.HAS"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HAT"
+msgstr "Latvian"
+
+msgid "ISO_639-3.HAU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HAV"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HAY"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HBA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HBB"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HBN"
+msgstr "Cetak"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.HBS"
+msgstr "Croatian"
+
+msgid "ISO_639-3.HBU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HDY"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.HEH"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.HER"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.HGW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HHR"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.HHY"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HIA"
+msgstr "Latvian"
+
+msgid "ISO_639-3.HIB"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HID"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HIF"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HIG"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.HII"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HIN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HIR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HJI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HKA"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.HKE"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HLA"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HLB"
+msgstr "Polish"
+
+msgid "ISO_639-3.HLE"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.HMT"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.HMU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.HNI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HNU"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.HOA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HOE"
+msgstr "daripada:"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HOM"
+msgstr "Romanian"
+
+msgid "ISO_639-3.HOR"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.HOW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HRE"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.HRO"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HRU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HRV"
+msgstr "Croatian"
+
+msgid "ISO_639-3.HRW"
+msgstr "Margin"
+
+msgid "ISO_639-3.HRX"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbian"
+
+msgid "ISO_639-3.HSN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.HSS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HTS"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HUB"
+msgstr "Cari:"
+
+msgid "ISO_639-3.HUC"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HUD"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.HUL"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HUM"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.HUN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.HUO"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HUP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.HUT"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.HWO"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.IAI"
+msgstr "Margin"
+
+msgid "ISO_639-3.IAR"
+msgstr "Margin"
+
+msgid "ISO_639-3.IBD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.IBL"
+msgstr "Itali"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albanian"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugis"
+
+msgid "ISO_639-3.IDR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.IGL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.IGN"
+msgstr "Itali"
+
+msgid "ISO_639-3.IGS"
+msgstr "Rendering"
+
+msgid "ISO_639-3.III"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.IJE"
+msgstr "Cari:"
+
+msgid "ISO_639-3.IKR"
+msgstr "Korean"
+
+msgid "ISO_639-3.IKS"
+msgstr "Korean"
+
+msgid "ISO_639-3.ILB"
+msgstr "Itali"
+
+msgid "ISO_639-3.ILE"
+msgstr "Rendering"
+
+msgid "ISO_639-3.ILI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.ILM"
+msgstr "Russian"
+
+msgid "ISO_639-3.IMA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.IMO"
+msgstr "English"
+
+msgid "ISO_639-3.IMS"
+msgstr "Margin"
+
+msgid "ISO_639-3.IMY"
+msgstr "Man"
+
+msgid "ISO_639-3.INB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.IND"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.INH"
+msgstr "English"
+
+msgid "ISO_639-3.INN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.IPK"
+msgstr "India"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.IRX"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.ISA"
+msgstr "Margin"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estonian"
+
+msgid "ISO_639-3.ISL"
+msgstr "Icelandic"
+
+msgid "ISO_639-3.ISM"
+msgstr "Margin"
+
+msgid "ISO_639-3.ITA"
+msgstr "Itali"
+
+msgid "ISO_639-3.ITD"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.ITE"
+msgstr "Rendering"
+
+msgid "ISO_639-3.ITK"
+msgstr "Itali"
+
+msgid "ISO_639-3.ITR"
+msgstr "Rendering"
+
+msgid "ISO_639-3.ITV"
+msgstr "Itali"
+
+msgid "ISO_639-3.ITY"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.IVB"
+msgstr "Catalan"
+
+msgid "ISO_639-3.IVV"
+msgstr "Catalan"
+
+msgid "ISO_639-3.IZH"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.JAC"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.JAF"
+msgstr "Margin"
+
+msgid "ISO_639-3.JAN"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.JAU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.JAV"
+msgstr "Japanese"
+
+msgid "ISO_639-3.JAY"
+msgstr "Man"
+
+msgid "ISO_639-3.JBE"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.JCT"
+msgstr "Korean"
+
+msgid "ISO_639-3.JDT"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.JEB"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.JEG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.JER"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.JET"
+msgstr "Man"
+
+msgid "ISO_639-3.JGE"
+msgstr "Cetak"
+
+msgid "ISO_639-3.JHI"
+msgstr "Korean"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.JKU"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.JLE"
+msgstr "Margin"
+
+msgid "ISO_639-3.JMC"
+msgstr "Man"
+
+msgid "ISO_639-3.JMN"
+msgstr "Turkish"
+
+msgid "ISO_639-3.JND"
+msgstr "Man"
+
+msgid "ISO_639-3.JNI"
+msgstr "Thai"
+
+msgid "ISO_639-3.JNS"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japanese"
+
+msgid "ISO_639-3.JPR"
+msgstr "Cetak"
+
+msgid "ISO_639-3.JRA"
+msgstr "Margin"
+
+msgid "ISO_639-3.JRB"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japanese"
+
+msgid "ISO_639-3.JUL"
+msgstr "Turkish"
+
+msgid "ISO_639-3.JUP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.JUT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.JVD"
+msgstr "Man"
+
+msgid "ISO_639-3.JVN"
+msgstr "Japanese"
+
+msgid "ISO_639-3.JYE"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.KAD"
+msgstr "Man"
+
+msgid "ISO_639-3.KAE"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.KAF"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KAI"
+msgstr "Korean"
+
+msgid "ISO_639-3.KAK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KAU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KBE"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KBI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KBL"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KBP"
+msgstr "Thai"
+
+msgid "ISO_639-3.KBS"
+msgstr "Korean"
+
+msgid "ISO_639-3.KBT"
+msgstr "Albanian"
+
+msgid "ISO_639-3.KBU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.KBW"
+msgstr "Thai"
+
+msgid "ISO_639-3.KBY"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Dutch"
+
+msgid "ISO_639-3.KCC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KCE"
+msgstr "Thai"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KCI"
+msgstr "Romanian"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KCO"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KCP"
+msgstr "Korean"
+
+msgid "ISO_639-3.KCR"
+msgstr "Catalan"
+
+msgid "ISO_639-3.KCS"
+msgstr "Korean"
+
+msgid "ISO_639-3.KCT"
+msgstr "Latvian"
+
+msgid "ISO_639-3.KCW"
+msgstr "Margin"
+
+msgid "ISO_639-3.KCY"
+msgstr "Korean"
+
+msgid "ISO_639-3.KDC"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KDE"
+msgstr "Salah"
+
+msgid "ISO_639-3.KDF"
+msgstr "Margin"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbian"
+
+msgid "ISO_639-3.KDR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KDU"
+msgstr "Man"
+
+msgid "ISO_639-3.KDW"
+msgstr "Korean"
+
+msgid "ISO_639-3.KDY"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KEA"
+msgstr "Serbian"
+
+msgid "ISO_639-3.KED"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japanese"
+
+msgid "ISO_639-3.KEH"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Man"
+
+msgid "ISO_639-3.KEN"
+msgstr "Korean"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KER"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KEY"
+msgstr "India"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Chinese"
+
+msgid "ISO_639-3.KFA"
+msgstr "Korean"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KFD"
+msgstr "Margin"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.KFF"
+msgstr "Korean"
+
+msgid "ISO_639-3.KFG"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFM"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFN"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFP"
+msgstr "Korean"
+
+msgid "ISO_639-3.KFR"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFS"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFV"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KFW"
+msgstr "Latvian"
+
+msgid "ISO_639-3.KFX"
+msgstr "Thai"
+
+msgid "ISO_639-3.KFY"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KGB"
+msgstr "Korean"
+
+msgid "ISO_639-3.KGD"
+msgstr "Catalan"
+
+msgid "ISO_639-3.KGE"
+msgstr "Serbian"
+
+msgid "ISO_639-3.KGL"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.KGN"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.KGP"
+msgstr "Latvian"
+
+msgid "ISO_639-3.KGV"
+msgstr "Korean"
+
+msgid "ISO_639-3.KGW"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHE"
+msgstr "Korean"
+
+msgid "ISO_639-3.KHF"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KHL"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KHN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.KHO"
+msgstr "Chinese"
+
+msgid "ISO_639-3.KHP"
+msgstr "Margin"
+
+msgid "ISO_639-3.KHR"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KHT"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHV"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHX"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KIB"
+msgstr "Korean"
+
+msgid "ISO_639-3.KID"
+msgstr "Romanian"
+
+msgid "ISO_639-3.KIH"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KIL"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KIM"
+msgstr "Margin"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KIS"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KIW"
+msgstr "Korean"
+
+msgid "ISO_639-3.KIX"
+msgstr "Latvian"
+
+msgid "ISO_639-3.KJA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KJC"
+msgstr "Catalan"
+
+msgid "ISO_639-3.KJE"
+msgstr "Korean"
+
+msgid "ISO_639-3.KJG"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KJO"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KJR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KKA"
+msgstr "Romanian"
+
+msgid "ISO_639-3.KKK"
+msgstr "Korean"
+
+msgid "ISO_639-3.KKL"
+msgstr "Korean"
+
+msgid "ISO_639-3.KKO"
+msgstr "Korean"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.KKT"
+msgstr "Korean"
+
+msgid "ISO_639-3.KKU"
+msgstr "Thai"
+
+msgid "ISO_639-3.KKV"
+msgstr "Korean"
+
+msgid "ISO_639-3.KKX"
+msgstr "Thai"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KLG"
+msgstr "Salah"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KLL"
+msgstr "Latvian"
+
+msgid "ISO_639-3.KLM"
+msgstr "Margin"
+
+msgid "ISO_639-3.KLN"
+msgstr "Korean"
+
+msgid "ISO_639-3.KLP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KLR"
+msgstr "Thai"
+
+msgid "ISO_639-3.KLW"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.KLY"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KMA"
+msgstr "Korean"
+
+msgid "ISO_639-3.KMD"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.KMH"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KMK"
+msgstr "Thai"
+
+msgid "ISO_639-3.KML"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.KMR"
+msgstr "Korean"
+
+msgid "ISO_639-3.KMU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KMY"
+msgstr "Romanian"
+
+msgid "ISO_639-3.KNC"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KND"
+msgstr "Korean"
+
+msgid "ISO_639-3.KNE"
+msgstr "Korean"
+
+msgid "ISO_639-3.KNF"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KNI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KNK"
+msgstr "Korean"
+
+msgid "ISO_639-3.KOC"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.KOD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.KOF"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KOG"
+msgstr "Margin"
+
+msgid "ISO_639-3.KOK"
+msgstr "Korean"
+
+msgid "ISO_639-3.KOO"
+msgstr "Korean"
+
+msgid "ISO_639-3.KOR"
+msgstr "Korean"
+
+msgid "ISO_639-3.KOS"
+msgstr "Korean"
+
+msgid "ISO_639-3.KOT"
+msgstr "Margin"
+
+msgid "ISO_639-3.KOU"
+msgstr "Korean"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KPD"
+msgstr "Korean"
+
+msgid "ISO_639-3.KPK"
+msgstr "Korean"
+
+msgid "ISO_639-3.KPL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KPR"
+msgstr "Korean"
+
+msgid "ISO_639-3.KPS"
+msgstr "Thai"
+
+msgid "ISO_639-3.KPY"
+msgstr "Korean"
+
+msgid "ISO_639-3.KQB"
+msgstr "Korean"
+
+msgid "ISO_639-3.KQG"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KQM"
+msgstr "Thai"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KQR"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbian"
+
+msgid "ISO_639-3.KQW"
+msgstr "Man"
+
+msgid "ISO_639-3.KQY"
+msgstr "Korean"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KRA"
+msgstr "Thai"
+
+msgid "ISO_639-3.KRB"
+msgstr "Korean"
+
+msgid "ISO_639-3.KRE"
+msgstr "Man"
+
+msgid "ISO_639-3.KRH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.KRI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KRK"
+msgstr "Greek"
+
+msgid "ISO_639-3.KRL"
+msgstr "Korean"
+
+msgid "ISO_639-3.KRM"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KRT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KRU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KRV"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KRX"
+msgstr "Korean"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Russian"
+
+msgid "ISO_639-3.KSD"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KSE"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KSF"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KSI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KSK"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KSO"
+msgstr "Korean"
+
+msgid "ISO_639-3.KSR"
+msgstr "Breton"
+
+msgid "ISO_639-3.KSV"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KSX"
+msgstr "Korean"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KTA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KTD"
+msgstr "Korean"
+
+msgid "ISO_639-3.KTF"
+msgstr "Thai"
+
+msgid "ISO_639-3.KTH"
+msgstr "Korean"
+
+msgid "ISO_639-3.KTK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KTM"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KUC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KUG"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.KUH"
+msgstr "Thai"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.KUO"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KUR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KUV"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KVB"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KVC"
+msgstr "Korean"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.KVI"
+msgstr "Korean"
+
+msgid "ISO_639-3.KVL"
+msgstr "Korean"
+
+msgid "ISO_639-3.KVP"
+msgstr "Korean"
+
+msgid "ISO_639-3.KVV"
+msgstr "Korean"
+
+msgid "ISO_639-3.KVW"
+msgstr "Cetak"
+
+msgid "ISO_639-3.KWC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KWD"
+msgstr "Thai"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbian"
+
+msgid "ISO_639-3.KWF"
+msgstr "Korean"
+
+msgid "ISO_639-3.KWH"
+msgstr "Korean"
+
+msgid "ISO_639-3.KWN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.KWP"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.KWR"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.KWW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.KXA"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KXC"
+msgstr "daripada:"
+
+msgid "ISO_639-3.KXD"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.KXN"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KXP"
+msgstr "Man"
+
+msgid "ISO_639-3.KXS"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KXV"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KXW"
+msgstr "Korean"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.KYD"
+msgstr "Korean"
+
+msgid "ISO_639-3.KYH"
+msgstr "Korean"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.KYL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.KYM"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.KYO"
+msgstr "Korean"
+
+msgid "ISO_639-3.KYP"
+msgstr "Korean"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.KYS"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.KZD"
+msgstr "Margin"
+
+msgid "ISO_639-3.KZE"
+msgstr "Korean"
+
+msgid "ISO_639-3.KZG"
+msgstr "Korean"
+
+msgid "ISO_639-3.KZL"
+msgstr "Polish"
+
+msgid "ISO_639-3.KZM"
+msgstr "Thai"
+
+msgid "ISO_639-3.KZN"
+msgstr "Korean"
+
+msgid "ISO_639-3.KZO"
+msgstr "Turkish"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.KZR"
+msgstr "Korean"
+
+msgid "ISO_639-3.KZX"
+msgstr "Romanian"
+
+msgid "ISO_639-3.LAB"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LAD"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LAG"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LAL"
+msgstr "Polish"
+
+msgid "ISO_639-3.LAT"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LAV"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LAY"
+msgstr "Thai"
+
+msgid "ISO_639-3.LBA"
+msgstr "Thai"
+
+msgid "ISO_639-3.LBC"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LBF"
+msgstr "Finnish"
+
+msgid "ISO_639-3.LBI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LBK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.LBM"
+msgstr "Cari:"
+
+msgid "ISO_639-3.LBN"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LBO"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LBT"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LBW"
+msgstr "Thai"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LCH"
+msgstr "Thai"
+
+msgid "ISO_639-3.LCL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.LDD"
+msgstr "Thai"
+
+msgid "ISO_639-3.LDI"
+msgstr "Margin"
+
+msgid "ISO_639-3.LDL"
+msgstr "Korean"
+
+msgid "ISO_639-3.LDM"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LDN"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LEM"
+msgstr "Romanian"
+
+msgid "ISO_639-3.LES"
+msgstr "Japanese"
+
+msgid "ISO_639-3.LEX"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LFN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.LGK"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.LGT"
+msgstr "Polish"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.LHN"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LHT"
+msgstr "Margin"
+
+msgid "ISO_639-3.LHU"
+msgstr "Man"
+
+msgid "ISO_639-3.LIC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.LIE"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LIF"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LIM"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LIN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LIR"
+msgstr "English"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LIU"
+msgstr "Margin"
+
+msgid "ISO_639-3.LIW"
+msgstr "Warna"
+
+msgid "ISO_639-3.LJE"
+msgstr "Thai"
+
+msgid "ISO_639-3.LJI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LJL"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LJP"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LJW"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.LKB"
+msgstr "Korean"
+
+msgid "ISO_639-3.LKC"
+msgstr "Korean"
+
+msgid "ISO_639-3.LKD"
+msgstr "Salah"
+
+msgid "ISO_639-3.LKE"
+msgstr "Korean"
+
+msgid "ISO_639-3.LKI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LKM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.LKN"
+msgstr "Salah"
+
+msgid "ISO_639-3.LKO"
+msgstr "Thai"
+
+msgid "ISO_639-3.LKS"
+msgstr "Korean"
+
+msgid "ISO_639-3.LKT"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LKU"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.LLD"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LLF"
+msgstr "Cari:"
+
+msgid "ISO_639-3.LLH"
+msgstr "Basque"
+
+msgid "ISO_639-3.LLL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LLM"
+msgstr "Margin"
+
+msgid "ISO_639-3.LLO"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.LLX"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LMB"
+msgstr "Margin"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LMG"
+msgstr "Margin"
+
+msgid "ISO_639-3.LML"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LMN"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LMP"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LNB"
+msgstr "Man"
+
+msgid "ISO_639-3.LNH"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LNI"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LNM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LNS"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LNW"
+msgstr "Polish"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.LOE"
+msgstr "Catalan"
+
+msgid "ISO_639-3.LOH"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.LOO"
+msgstr "daripada:"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LOS"
+msgstr "Cari:"
+
+msgid "ISO_639-3.LPO"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LRA"
+msgstr "Thai"
+
+msgid "ISO_639-3.LRC"
+msgstr "Korean"
+
+msgid "ISO_639-3.LRE"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LRG"
+msgstr "Margin"
+
+msgid "ISO_639-3.LRI"
+msgstr "Margin"
+
+msgid "ISO_639-3.LRK"
+msgstr "Margin"
+
+msgid "ISO_639-3.LRL"
+msgstr "Margin"
+
+msgid "ISO_639-3.LRM"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.LRN"
+msgstr "Korean"
+
+msgid "ISO_639-3.LRO"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Serbian"
+
+msgid "ISO_639-3.LSD"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LSH"
+msgstr "Irish"
+
+msgid "ISO_639-3.LSI"
+msgstr "Thai"
+
+msgid "ISO_639-3.LSM"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.LSS"
+msgstr "Margin"
+
+msgid "ISO_639-3.LTG"
+msgstr "Catalan"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.LTN"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LTO"
+msgstr "daripada:"
+
+msgid "ISO_639-3.LTS"
+msgstr "Warna"
+
+msgid "ISO_639-3.LTU"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LUC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LUD"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LUF"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.LUM"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LUR"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.LUS"
+msgstr "Thai"
+
+msgid "ISO_639-3.LUV"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LVS"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.LWG"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.LWH"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.LWM"
+msgstr "Latvian"
+
+msgid "ISO_639-3.LYG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LYN"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.LZH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.LZN"
+msgstr "Margin"
+
+msgid "ISO_639-3.MAD"
+msgstr "Salah"
+
+msgid "ISO_639-3.MAF"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MAH"
+msgstr "Salah"
+
+msgid "ISO_639-3.MAM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MAS"
+msgstr "Margin"
+
+msgid "ISO_639-3.MAW"
+msgstr "Margin"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.MBC"
+msgstr "Margin"
+
+msgid "ISO_639-3.MBE"
+msgstr "Salah"
+
+msgid "ISO_639-3.MBF"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MBK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MBP"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MBS"
+msgstr "Man"
+
+msgid "ISO_639-3.MBW"
+msgstr "Margin"
+
+msgid "ISO_639-3.MBY"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.MCA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MCH"
+msgstr "Margin"
+
+msgid "ISO_639-3.MCI"
+msgstr "Salah"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Man"
+
+msgid "ISO_639-3.MCK"
+msgstr "Man"
+
+msgid "ISO_639-3.MCN"
+msgstr "Margin"
+
+msgid "ISO_639-3.MCP"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MCS"
+msgstr "Margin"
+
+msgid "ISO_639-3.MCT"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MDB"
+msgstr "Margin"
+
+msgid "ISO_639-3.MDG"
+msgstr "Margin"
+
+msgid "ISO_639-3.MDH"
+msgstr "Man"
+
+msgid "ISO_639-3.MDN"
+msgstr "Margin"
+
+msgid "ISO_639-3.MDP"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MDR"
+msgstr "Man"
+
+msgid "ISO_639-3.MDW"
+msgstr "Margin"
+
+msgid "ISO_639-3.MDX"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MEC"
+msgstr "Margin"
+
+msgid "ISO_639-3.MED"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MEL"
+msgstr "Turkish"
+
+msgid "ISO_639-3.MEM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.MES"
+msgstr "Margin"
+
+msgid "ISO_639-3.MET"
+msgstr "Margin"
+
+msgid "ISO_639-3.MEV"
+msgstr "Margin"
+
+msgid "ISO_639-3.MEW"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.MFA"
+msgstr "Catalan"
+
+msgid "ISO_639-3.MFB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MFE"
+msgstr "Margin"
+
+msgid "ISO_639-3.MFF"
+msgstr "Margin"
+
+msgid "ISO_639-3.MFH"
+msgstr "Catalan"
+
+msgid "ISO_639-3.MFI"
+msgstr "Man"
+
+msgid "ISO_639-3.MFK"
+msgstr "Korean"
+
+msgid "ISO_639-3.MFL"
+msgstr "Polish"
+
+msgid "ISO_639-3.MFP"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MFR"
+msgstr "Margin"
+
+msgid "ISO_639-3.MFV"
+msgstr "Man"
+
+msgid "ISO_639-3.MFY"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Catalan"
+
+msgid "ISO_639-3.MGB"
+msgstr "Margin"
+
+msgid "ISO_639-3.MGD"
+msgstr "Margin"
+
+msgid "ISO_639-3.MGE"
+msgstr "Man"
+
+msgid "ISO_639-3.MGF"
+msgstr "Salah"
+
+msgid "ISO_639-3.MGK"
+msgstr "Salah"
+
+msgid "ISO_639-3.MGN"
+msgstr "Man"
+
+msgid "ISO_639-3.MGP"
+msgstr "Korean"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MGU"
+msgstr "Margin"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.MHE"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MHF"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MHG"
+msgstr "Margin"
+
+msgid "ISO_639-3.MHI"
+msgstr "Margin"
+
+msgid "ISO_639-3.MHK"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.MHP"
+msgstr "Chinese"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Man"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.MHT"
+msgstr "Man"
+
+msgid "ISO_639-3.MHX"
+msgstr "Margin"
+
+msgid "ISO_639-3.MHY"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MIA"
+msgstr "Margin"
+
+msgid "ISO_639-3.MID"
+msgstr "Man"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.MIK"
+msgstr "Margin"
+
+msgid "ISO_639-3.MJB"
+msgstr "Margin"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MJK"
+msgstr "Man"
+
+msgid "ISO_639-3.MJL"
+msgstr "Man"
+
+msgid "ISO_639-3.MJP"
+msgstr "Man"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MJR"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.MJU"
+msgstr "Man"
+
+msgid "ISO_639-3.MJV"
+msgstr "Man"
+
+msgid "ISO_639-3.MJW"
+msgstr "Turkish"
+
+msgid "ISO_639-3.MJX"
+msgstr "Margin"
+
+msgid "ISO_639-3.MJY"
+msgstr "Latvian"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MKA"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.MKD"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.MKE"
+msgstr "Man"
+
+msgid "ISO_639-3.MKI"
+msgstr "Thai"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Salah"
+
+msgid "ISO_639-3.MKR"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MKV"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MKY"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MLA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MLE"
+msgstr "Man"
+
+msgid "ISO_639-3.MLF"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japanese"
+
+msgid "ISO_639-3.MLK"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.MLL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MLM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MLN"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MLP"
+msgstr "Margin"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MLS"
+msgstr "Margin"
+
+msgid "ISO_639-3.MLT"
+msgstr "Salah"
+
+msgid "ISO_639-3.MLX"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MMA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MMD"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.MME"
+msgstr "Salah"
+
+msgid "ISO_639-3.MMF"
+msgstr "Man"
+
+msgid "ISO_639-3.MMI"
+msgstr "Margin"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MMM"
+msgstr "Margin"
+
+msgid "ISO_639-3.MMN"
+msgstr "Man"
+
+msgid "ISO_639-3.MMO"
+msgstr "Man"
+
+msgid "ISO_639-3.MMP"
+msgstr "Margin"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MMU"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MMV"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MMX"
+msgstr "Man"
+
+msgid "ISO_639-3.MNA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MNB"
+msgstr "Man"
+
+msgid "ISO_639-3.MNC"
+msgstr "Man"
+
+msgid "ISO_639-3.MNF"
+msgstr "Man"
+
+msgid "ISO_639-3.MNI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.MNK"
+msgstr "Man"
+
+msgid "ISO_639-3.MNL"
+msgstr "Turkish"
+
+msgid "ISO_639-3.MNM"
+msgstr "Man"
+
+msgid "ISO_639-3.MNP"
+msgstr "Chinese"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MNS"
+msgstr "Margin"
+
+msgid "ISO_639-3.MNY"
+msgstr "Man"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MOA"
+msgstr "Man"
+
+msgid "ISO_639-3.MOD"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MOI"
+msgstr "Margin"
+
+msgid "ISO_639-3.MOK"
+msgstr "Margin"
+
+msgid "ISO_639-3.MOM"
+msgstr "Man"
+
+msgid "ISO_639-3.MOR"
+msgstr "Margin"
+
+msgid "ISO_639-3.MOS"
+msgstr "Margin"
+
+msgid "ISO_639-3.MPC"
+msgstr "Man"
+
+msgid "ISO_639-3.MPD"
+msgstr "Chinese"
+
+msgid "ISO_639-3.MPE"
+msgstr "Man"
+
+msgid "ISO_639-3.MPG"
+msgstr "Margin"
+
+msgid "ISO_639-3.MPH"
+msgstr "Man"
+
+msgid "ISO_639-3.MPI"
+msgstr "Salah"
+
+msgid "ISO_639-3.MPN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Salah"
+
+msgid "ISO_639-3.MPT"
+msgstr "Man"
+
+msgid "ISO_639-3.MPV"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.MPW"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.MPY"
+msgstr "Margin"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.MQE"
+msgstr "Salah"
+
+msgid "ISO_639-3.MQI"
+msgstr "Margin"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MQP"
+msgstr "Man"
+
+msgid "ISO_639-3.MQR"
+msgstr "Man"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MQU"
+msgstr "Man"
+
+msgid "ISO_639-3.MQV"
+msgstr "Margin"
+
+msgid "ISO_639-3.MQW"
+msgstr "Margin"
+
+msgid "ISO_639-3.MQY"
+msgstr "Man"
+
+msgid "ISO_639-3.MRA"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRB"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRC"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MRG"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRH"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRI"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.MRV"
+msgstr "Man"
+
+msgid "ISO_639-3.MRW"
+msgstr "Man"
+
+msgid "ISO_639-3.MRX"
+msgstr "Margin"
+
+msgid "ISO_639-3.MRY"
+msgstr "Man"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MSC"
+msgstr "Man"
+
+msgid "ISO_639-3.MSE"
+msgstr "Salah"
+
+msgid "ISO_639-3.MSG"
+msgstr "Margin"
+
+msgid "ISO_639-3.MSH"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MSK"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.MSS"
+msgstr "Salah"
+
+msgid "ISO_639-3.MSV"
+msgstr "Margin"
+
+msgid "ISO_639-3.MSY"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MTD"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MTM"
+msgstr "Margin"
+
+msgid "ISO_639-3.MTN"
+msgstr "Catalan"
+
+msgid "ISO_639-3.MTR"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.MTS"
+msgstr "Korean"
+
+msgid "ISO_639-3.MTY"
+msgstr "Margin"
+
+msgid "ISO_639-3.MUA"
+msgstr "Man"
+
+msgid "ISO_639-3.MUI"
+msgstr "Margin"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MUM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MUO"
+msgstr "Margin"
+
+msgid "ISO_639-3.MUP"
+msgstr "Polish"
+
+msgid "ISO_639-3.MUR"
+msgstr "Salah"
+
+msgid "ISO_639-3.MUS"
+msgstr "Greek"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.MUU"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.MUX"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MUY"
+msgstr "Man"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVA"
+msgstr "Man"
+
+msgid "ISO_639-3.MVD"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVO"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVP"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVR"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVS"
+msgstr "Salah"
+
+msgid "ISO_639-3.MVU"
+msgstr "Margin"
+
+msgid "ISO_639-3.MVX"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Cetak"
+
+msgid "ISO_639-3.MWI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.MWK"
+msgstr "Man"
+
+msgid "ISO_639-3.MWL"
+msgstr "Salah"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MWR"
+msgstr "Margin"
+
+msgid "ISO_639-3.MWV"
+msgstr "Margin"
+
+msgid "ISO_639-3.MWX"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.MWY"
+msgstr "Margin"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MXC"
+msgstr "Man"
+
+msgid "ISO_639-3.MXD"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.MXF"
+msgstr "Salah"
+
+msgid "ISO_639-3.MXG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.MXI"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.MXR"
+msgstr "Russian"
+
+msgid "ISO_639-3.MXX"
+msgstr "Man"
+
+msgid "ISO_639-3.MYB"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MYG"
+msgstr "Man"
+
+msgid "ISO_639-3.MYH"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MYL"
+msgstr "Romanian"
+
+msgid "ISO_639-3.MYR"
+msgstr "Man"
+
+msgid "ISO_639-3.MYS"
+msgstr "Salah"
+
+msgid "ISO_639-3.MYX"
+msgstr "Margin"
+
+msgid "ISO_639-3.MYY"
+msgstr "Man"
+
+msgid "ISO_639-3.MZD"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.MZE"
+msgstr "Margin"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Man"
+
+msgid "ISO_639-3.MZS"
+msgstr "Japanese"
+
+msgid "ISO_639-3.MZT"
+msgstr "Cari:"
+
+msgid "ISO_639-3.MZV"
+msgstr "Man"
+
+msgid "ISO_639-3.MZX"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NAC"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.NAF"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.NAJ"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NAL"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NAN"
+msgstr "Chinese"
+
+msgid "ISO_639-3.NAP"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NAW"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NAX"
+msgstr "Margin"
+
+msgid "ISO_639-3.NBC"
+msgstr "Latvian"
+
+msgid "ISO_639-3.NBH"
+msgstr "Margin"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.NBN"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NCB"
+msgstr "Korean"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japanese"
+
+msgid "ISO_639-3.NCF"
+msgstr "Berhenti"
+
+msgid "ISO_639-3.NCH"
+msgstr "Korean"
+
+msgid "ISO_639-3.NCN"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.NDA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.NDF"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.NDH"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NDS"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NDX"
+msgstr "Margin"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vietnamese"
+
+msgid "ISO_639-3.NEG"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.NEM"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NEP"
+msgstr "Korean"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NER"
+msgstr "Albanian"
+
+msgid "ISO_639-3.NES"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NEW"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NFD"
+msgstr "Thai"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NGO"
+msgstr "Margin"
+
+msgid "ISO_639-3.NGX"
+msgstr "Margin"
+
+msgid "ISO_639-3.NGY"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NHA"
+msgstr "Margin"
+
+msgid "ISO_639-3.NHB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NHH"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NHO"
+msgstr "Thai"
+
+msgid "ISO_639-3.NHR"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NIB"
+msgstr "Margin"
+
+msgid "ISO_639-3.NID"
+msgstr "Margin"
+
+msgid "ISO_639-3.NIE"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NIO"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NIR"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.NIX"
+msgstr "German"
+
+msgid "ISO_639-3.NIY"
+msgstr "Margin"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NJM"
+msgstr "Catalan"
+
+msgid "ISO_639-3.NJN"
+msgstr "Latvian"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NKA"
+msgstr "Margin"
+
+msgid "ISO_639-3.NKB"
+msgstr "Latvian"
+
+msgid "ISO_639-3.NKD"
+msgstr "Korean"
+
+msgid "ISO_639-3.NKG"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.NKI"
+msgstr "Latvian"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NKN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NKU"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.NKZ"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NLD"
+msgstr "Dutch"
+
+msgid "ISO_639-3.NLG"
+msgstr "German"
+
+msgid "ISO_639-3.NLI"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NLJ"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NLL"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NLW"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.NLX"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Polish"
+
+msgid "ISO_639-3.NMA"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.NMB"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.NMC"
+msgstr "Margin"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.NMG"
+msgstr "Thai"
+
+msgid "ISO_639-3.NML"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NMR"
+msgstr "Thai"
+
+msgid "ISO_639-3.NMV"
+msgstr "Margin"
+
+msgid "ISO_639-3.NMW"
+msgstr "Margin"
+
+msgid "ISO_639-3.NNF"
+msgstr "Margin"
+
+msgid "ISO_639-3.NNG"
+msgstr "Margin"
+
+msgid "ISO_639-3.NNM"
+msgstr "Thai"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.NOD"
+msgstr "Korean"
+
+msgid "ISO_639-3.NOF"
+msgstr "Romanian"
+
+msgid "ISO_639-3.NOG"
+msgstr "Margin"
+
+msgid "ISO_639-3.NOI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NOL"
+msgstr "Thai"
+
+msgid "ISO_639-3.NON"
+msgstr "Cetak"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NPG"
+msgstr "Margin"
+
+msgid "ISO_639-3.NPI"
+msgstr "Korean"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NQY"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NRB"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NRC"
+msgstr "Margin"
+
+msgid "ISO_639-3.NRK"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NRM"
+msgstr "daripada:"
+
+msgid "ISO_639-3.NRN"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.NRR"
+msgstr "Margin"
+
+msgid "ISO_639-3.NRT"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.NRU"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NSA"
+msgstr "Latvian"
+
+msgid "ISO_639-3.NSC"
+msgstr "Thai"
+
+msgid "ISO_639-3.NSE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.NSG"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.NSK"
+msgstr "Margin"
+
+msgid "ISO_639-3.NSS"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.NSY"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.NTD"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.NTG"
+msgstr "Romanian"
+
+msgid "ISO_639-3.NTX"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.NTY"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.NUA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.NUD"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NUG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.NUS"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NUX"
+msgstr "Greek"
+
+msgid "ISO_639-3.NVH"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NWR"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NXI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serbian"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.NXX"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.NYA"
+msgstr "Margin"
+
+msgid "ISO_639-3.NYC"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NYF"
+msgstr "German"
+
+msgid "ISO_639-3.NYH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.NYR"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.OAA"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OAC"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OAR"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.OBR"
+msgstr "Breton"
+
+msgid "ISO_639-3.OBT"
+msgstr "Breton"
+
+msgid "ISO_639-3.OCH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.OCO"
+msgstr "Warna"
+
+msgid "ISO_639-3.ODT"
+msgstr "Dutch"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.OGE"
+msgstr "Cetak"
+
+msgid "ISO_639-3.OGO"
+msgstr "Thai"
+
+msgid "ISO_639-3.OHU"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japanese"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.OKB"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OKD"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.OKK"
+msgstr "Thai"
+
+msgid "ISO_639-3.OKL"
+msgstr "Korean"
+
+msgid "ISO_639-3.OKR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.OKV"
+msgstr "Croatian"
+
+msgid "ISO_639-3.OLD"
+msgstr "Margin"
+
+msgid "ISO_639-3.OLM"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OLR"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.OMK"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OML"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OMN"
+msgstr "Man"
+
+msgid "ISO_639-3.OMP"
+msgstr "Turkish"
+
+msgid "ISO_639-3.OMR"
+msgstr "Margin"
+
+msgid "ISO_639-3.ONB"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ONP"
+msgstr "Korean"
+
+msgid "ISO_639-3.ONR"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.ONW"
+msgstr "Cetak"
+
+msgid "ISO_639-3.OOS"
+msgstr "Russian"
+
+msgid "ISO_639-3.ORA"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ORC"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ORI"
+msgstr "Korean"
+
+msgid "ISO_639-3.ORM"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ORO"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ORR"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ORT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.ORV"
+msgstr "Russian"
+
+msgid "ISO_639-3.ORX"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ORZ"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OSC"
+msgstr "Russian"
+
+msgid "ISO_639-3.OSI"
+msgstr "Russian"
+
+msgid "ISO_639-3.OSO"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spanish"
+
+msgid "ISO_639-3.OSS"
+msgstr "Russian"
+
+msgid "ISO_639-3.OSX"
+msgstr "Cetak"
+
+msgid "ISO_639-3.OTB"
+msgstr "Cetak"
+
+msgid "ISO_639-3.OTD"
+msgstr "Russian"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.OTR"
+msgstr "daripada:"
+
+msgid "ISO_639-3.OTY"
+msgstr "Thai"
+
+msgid "ISO_639-3.OWL"
+msgstr "Cetak"
+
+msgid "ISO_639-3.PAG"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PAH"
+msgstr "Thai"
+
+msgid "ISO_639-3.PAO"
+msgstr "Korean"
+
+msgid "ISO_639-3.PAR"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PAS"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PAT"
+msgstr "Catalan"
+
+msgid "ISO_639-3.PAY"
+msgstr "Czech"
+
+msgid "ISO_639-3.PBI"
+msgstr "Margin"
+
+msgid "ISO_639-3.PBN"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.PBO"
+msgstr "Polish"
+
+msgid "ISO_639-3.PBP"
+msgstr "Man"
+
+msgid "ISO_639-3.PBR"
+msgstr "Margin"
+
+msgid "ISO_639-3.PBV"
+msgstr "Man"
+
+msgid "ISO_639-3.PCB"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.PCF"
+msgstr "Polish"
+
+msgid "ISO_639-3.PCG"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PCH"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.PCI"
+msgstr "Margin"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.PCL"
+msgstr "Polish"
+
+msgid "ISO_639-3.PDI"
+msgstr "Polish"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.PDU"
+msgstr "Korean"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.PEE"
+msgstr "Thai"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.PEH"
+msgstr "Romanian"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.PEK"
+msgstr "French"
+
+msgid "ISO_639-3.PEL"
+msgstr "Polish"
+
+msgid "ISO_639-3.PES"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.PFL"
+msgstr "Polish"
+
+msgid "ISO_639-3.PGG"
+msgstr "Polish"
+
+msgid "ISO_639-3.PGI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.PGS"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Korean"
+
+msgid "ISO_639-3.PHH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.PHN"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.PHT"
+msgstr "Thai"
+
+msgid "ISO_639-3.PHV"
+msgstr "Polish"
+
+msgid "ISO_639-3.PIC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.PII"
+msgstr "Cari:"
+
+msgid "ISO_639-3.PIM"
+msgstr "Croatian"
+
+msgid "ISO_639-3.PIP"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.PIV"
+msgstr "Polish"
+
+msgid "ISO_639-3.PKB"
+msgstr "daripada:"
+
+msgid "ISO_639-3.PKH"
+msgstr "Man"
+
+msgid "ISO_639-3.PKT"
+msgstr "Salah"
+
+msgid "ISO_639-3.PLA"
+msgstr "Man"
+
+msgid "ISO_639-3.PLD"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLE"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLH"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLI"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLP"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLU"
+msgstr "Polish"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Catalan"
+
+msgid "ISO_639-3.PMB"
+msgstr "Polish"
+
+msgid "ISO_639-3.PMD"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PMK"
+msgstr "Polish"
+
+msgid "ISO_639-3.PML"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.PMM"
+msgstr "daripada:"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vietnamese"
+
+msgid "ISO_639-3.PMY"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.PNC"
+msgstr "Polish"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Cari:"
+
+msgid "ISO_639-3.PNK"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.PNL"
+msgstr "Polish"
+
+msgid "ISO_639-3.PNP"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PNR"
+msgstr "Polish"
+
+msgid "ISO_639-3.PNS"
+msgstr "Korean"
+
+msgid "ISO_639-3.PNT"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.PNY"
+msgstr "Cari:"
+
+msgid "ISO_639-3.POC"
+msgstr "Romanian"
+
+msgid "ISO_639-3.POL"
+msgstr "Polish"
+
+msgid "ISO_639-3.PON"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugis"
+
+msgid "ISO_639-3.POX"
+msgstr "Albanian"
+
+msgid "ISO_639-3.PPE"
+msgstr "Polish"
+
+msgid "ISO_639-3.PPI"
+msgstr "Polish"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Cetak"
+
+msgid "ISO_639-3.PPT"
+msgstr "Korean"
+
+msgid "ISO_639-3.PRB"
+msgstr "Thai"
+
+msgid "ISO_639-3.PRF"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PRG"
+msgstr "Cetak"
+
+msgid "ISO_639-3.PRI"
+msgstr "Polish"
+
+msgid "ISO_639-3.PRM"
+msgstr "Cari:"
+
+msgid "ISO_639-3.PRP"
+msgstr "Polish"
+
+msgid "ISO_639-3.PRR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.PRT"
+msgstr "Polish"
+
+msgid "ISO_639-3.PRU"
+msgstr "Polish"
+
+msgid "ISO_639-3.PRW"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.PSH"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.PSI"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.PSM"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.PSN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Polish"
+
+msgid "ISO_639-3.PTN"
+msgstr "Catalan"
+
+msgid "ISO_639-3.PTR"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PTU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.PTY"
+msgstr "Cetak"
+
+msgid "ISO_639-3.PUT"
+msgstr "Dutch"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugis"
+
+msgid "ISO_639-3.PUX"
+msgstr "Korean"
+
+msgid "ISO_639-3.PWA"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PWB"
+msgstr "Margin"
+
+msgid "ISO_639-3.PWN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.PWR"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.PWW"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.PZN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.QUA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.QUC"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.QYP"
+msgstr "Cari:"
+
+msgid "ISO_639-3.RAA"
+msgstr "Baltic"
+
+msgid "ISO_639-3.RAC"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.RAL"
+msgstr "Salah"
+
+msgid "ISO_639-3.RAM"
+msgstr "Catalan"
+
+msgid "ISO_639-3.RAN"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.RAR"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RAS"
+msgstr "Baltic"
+
+msgid "ISO_639-3.RAX"
+msgstr "Romanian"
+
+msgid "ISO_639-3.REI"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.REN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.RGA"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RGN"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RHG"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.RJI"
+msgstr "Thai"
+
+msgid "ISO_639-3.RKI"
+msgstr "Chinese"
+
+msgid "ISO_639-3.RKM"
+msgstr "Margin"
+
+msgid "ISO_639-3.RKT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.RKW"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.RMA"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMG"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.RMI"
+msgstr "Korean"
+
+msgid "ISO_639-3.RMK"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RML"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMM"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMO"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMT"
+msgstr "Margin"
+
+msgid "ISO_639-3.RMU"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMV"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMW"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMX"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMY"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.RNG"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RNL"
+msgstr "Margin"
+
+msgid "ISO_639-3.RNN"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RNR"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.ROE"
+msgstr "Romanian"
+
+msgid "ISO_639-3.ROF"
+msgstr "daripada:"
+
+msgid "ISO_639-3.ROG"
+msgstr "Korean"
+
+msgid "ISO_639-3.ROH"
+msgstr "Romanian"
+
+msgid "ISO_639-3.ROL"
+msgstr "Romanian"
+
+msgid "ISO_639-3.ROM"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RON"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RPT"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.RRI"
+msgstr "Cari:"
+
+msgid "ISO_639-3.RRO"
+msgstr "Cari:"
+
+msgid "ISO_639-3.RSB"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RSM"
+msgstr "Korean"
+
+msgid "ISO_639-3.RTC"
+msgstr "Chinese"
+
+msgid "ISO_639-3.RTH"
+msgstr "Catalan"
+
+msgid "ISO_639-3.RTM"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.RUC"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.RUE"
+msgstr "Russian"
+
+msgid "ISO_639-3.RUG"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RUK"
+msgstr "Chinese"
+
+msgid "ISO_639-3.RUO"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RUP"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RUS"
+msgstr "Russian"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Romanian"
+
+msgid "ISO_639-3.RWO"
+msgstr "Margin"
+
+msgid "ISO_639-3.RWR"
+msgstr "Margin"
+
+msgid "ISO_639-3.RXD"
+msgstr "Thai"
+
+msgid "ISO_639-3.RXW"
+msgstr "Margin"
+
+msgid "ISO_639-3.SAA"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SAB"
+msgstr "Chinese"
+
+msgid "ISO_639-3.SAC"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.SAE"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Man"
+
+msgid "ISO_639-3.SAK"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SAM"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SAO"
+msgstr "Salah"
+
+msgid "ISO_639-3.SAS"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SAU"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SAY"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SBE"
+msgstr "Itali"
+
+msgid "ISO_639-3.SBK"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SBL"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SBM"
+msgstr "Catalan"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SBY"
+msgstr "Polish"
+
+msgid "ISO_639-3.SCE"
+msgstr "Romanian"
+
+msgid "ISO_639-3.SCH"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SCK"
+msgstr "Margin"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SCO"
+msgstr "Berhenti"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SDB"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SDC"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SDF"
+msgstr "Polish"
+
+msgid "ISO_639-3.SDH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.SDK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.SDN"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SDR"
+msgstr "Man"
+
+msgid "ISO_639-3.SED"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SEH"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SEK"
+msgstr "Korean"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SET"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SGB"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.SGC"
+msgstr "Cari:"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SGE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SGK"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.SGM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.SGR"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SGS"
+msgstr "Latvian"
+
+msgid "ISO_639-3.SGU"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SGY"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SHC"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SHT"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SHW"
+msgstr "Thai"
+
+msgid "ISO_639-3.SHY"
+msgstr "Thai"
+
+msgid "ISO_639-3.SIB"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.SIE"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SIH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SIN"
+msgstr "Vietnamese"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SIR"
+msgstr "Cari:"
+
+msgid "ISO_639-3.SIU"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SIX"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SIY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SJM"
+msgstr "Man"
+
+msgid "ISO_639-3.SJN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.SJP"
+msgstr "Turkish"
+
+msgid "ISO_639-3.SJR"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SJW"
+msgstr "Chinese"
+
+msgid "ISO_639-3.SKB"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SKC"
+msgstr "Man"
+
+msgid "ISO_639-3.SKG"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.SKH"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SKI"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SKM"
+msgstr "Breton"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SKR"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SKS"
+msgstr "Margin"
+
+msgid "ISO_639-3.SKU"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SKY"
+msgstr "Albanian"
+
+msgid "ISO_639-3.SLI"
+msgstr "German"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SLN"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Man"
+
+msgid "ISO_639-3.SLR"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SLU"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.SMB"
+msgstr "Thai"
+
+msgid "ISO_639-3.SMD"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SME"
+msgstr "Korean"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SMK"
+msgstr "Cari:"
+
+msgid "ISO_639-3.SMM"
+msgstr "Margin"
+
+msgid "ISO_639-3.SMN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.SMP"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SMU"
+msgstr "Romanian"
+
+msgid "ISO_639-3.SMX"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SNI"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SNK"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SNL"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SNO"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SNP"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.SNR"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.SNU"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SNV"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SOA"
+msgstr "Thai"
+
+msgid "ISO_639-3.SOG"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.SOH"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.SOL"
+msgstr "Berhenti"
+
+msgid "ISO_639-3.SOP"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.SOS"
+msgstr "Greek"
+
+msgid "ISO_639-3.SOW"
+msgstr "Man"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.SPG"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SPI"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SPS"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SPU"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SPV"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albanian"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SQR"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.SQU"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SRA"
+msgstr "Margin"
+
+msgid "ISO_639-3.SRB"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SRC"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SRD"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SRE"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SRF"
+msgstr "Margin"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SRO"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SRS"
+msgstr "Margin"
+
+msgid "ISO_639-3.SRT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SSD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.SSE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SSF"
+msgstr "Thai"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SSH"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.SSI"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SSN"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SST"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.SSU"
+msgstr "Thai"
+
+msgid "ISO_639-3.STB"
+msgstr "Korean"
+
+msgid "ISO_639-3.STD"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.STK"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.STM"
+msgstr "German"
+
+msgid "ISO_639-3.STO"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SUX"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SVA"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SVS"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SVX"
+msgstr "Romanian"
+
+msgid "ISO_639-3.SWE"
+msgstr "Swedish"
+
+msgid "ISO_639-3.SWF"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SWK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.SWM"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SWO"
+msgstr "Margin"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.SWS"
+msgstr "Byelorussian"
+
+msgid "ISO_639-3.SWW"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SWY"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SXK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SXM"
+msgstr "Korean"
+
+msgid "ISO_639-3.SXN"
+msgstr "Spanish"
+
+msgid "ISO_639-3.SXS"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SYA"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.SYB"
+msgstr "Korean"
+
+msgid "ISO_639-3.SYM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.SYN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SYR"
+msgstr "Serbian"
+
+msgid "ISO_639-3.SYX"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.SZN"
+msgstr "Slovak"
+
+msgid "ISO_639-3.SZW"
+msgstr "Margin"
+
+msgid "ISO_639-3.TAA"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.TAD"
+msgstr "Salah"
+
+msgid "ISO_639-3.TAE"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TAG"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAH"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TAK"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAL"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAU"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.TAW"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAX"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.TBC"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBE"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBF"
+msgstr "Man"
+
+msgid "ISO_639-3.TBG"
+msgstr "Korean"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TBO"
+msgstr "Catalan"
+
+msgid "ISO_639-3.TBX"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.TCC"
+msgstr "Margin"
+
+msgid "ISO_639-3.TCD"
+msgstr "Chinese"
+
+msgid "ISO_639-3.TCP"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TDB"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TDI"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TDM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TEC"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TEH"
+msgstr "Czech"
+
+msgid "ISO_639-3.TEK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TEY"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TFN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.TGB"
+msgstr "Romanian"
+
+msgid "ISO_639-3.TGC"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TGD"
+msgstr "Margin"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Danish"
+
+msgid "ISO_639-3.TGK"
+msgstr "Thai"
+
+msgid "ISO_639-3.TGN"
+msgstr "Catalan"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TGR"
+msgstr "Korean"
+
+msgid "ISO_639-3.TGX"
+msgstr "Danish"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Catalan"
+
+msgid "ISO_639-3.THA"
+msgstr "Thai"
+
+msgid "ISO_639-3.THE"
+msgstr "Chinese"
+
+msgid "ISO_639-3.THF"
+msgstr "Thai"
+
+msgid "ISO_639-3.THN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.THR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.THS"
+msgstr "Thai"
+
+msgid "ISO_639-3.THT"
+msgstr "Latvian"
+
+msgid "ISO_639-3.THU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.THW"
+msgstr "Thai"
+
+msgid "ISO_639-3.THY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TIC"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TIF"
+msgstr "Thai"
+
+msgid "ISO_639-3.TIG"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TII"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TIK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TIM"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TIN"
+msgstr "Cari:"
+
+msgid "ISO_639-3.TIP"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TIR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TIU"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.TJL"
+msgstr "Thai"
+
+msgid "ISO_639-3.TKB"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLK"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TLR"
+msgstr "Chinese"
+
+msgid "ISO_639-3.TLT"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TLX"
+msgstr "Czech"
+
+msgid "ISO_639-3.TMC"
+msgstr "Thai"
+
+msgid "ISO_639-3.TMD"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TMW"
+msgstr "German"
+
+msgid "ISO_639-3.TMY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TNH"
+msgstr "Margin"
+
+msgid "ISO_639-3.TNI"
+msgstr "Man"
+
+msgid "ISO_639-3.TNK"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.TNM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TNO"
+msgstr "daripada:"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.TOD"
+msgstr "Romanian"
+
+msgid "ISO_639-3.TOW"
+msgstr "Greek"
+
+msgid "ISO_639-3.TOX"
+msgstr "Romanian"
+
+msgid "ISO_639-3.TPF"
+msgstr "Thai"
+
+msgid "ISO_639-3.TPM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.TPY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TQL"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TRA"
+msgstr "Thai"
+
+msgid "ISO_639-3.TRD"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TRE"
+msgstr "Korean"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TRM"
+msgstr "Thai"
+
+msgid "ISO_639-3.TRT"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TSB"
+msgstr "Thai"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estonian"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TSX"
+msgstr "Margin"
+
+msgid "ISO_639-3.TTG"
+msgstr "Breton"
+
+msgid "ISO_639-3.TTI"
+msgstr "Thai"
+
+msgid "ISO_639-3.TTR"
+msgstr "German"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TTV"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TTW"
+msgstr "Margin"
+
+msgid "ISO_639-3.TUH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TUI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TVO"
+msgstr "Turkish"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.TWF"
+msgstr "Korean"
+
+msgid "ISO_639-3.TWL"
+msgstr "Margin"
+
+msgid "ISO_639-3.TWN"
+msgstr "Swedish"
+
+msgid "ISO_639-3.TWU"
+msgstr "German"
+
+msgid "ISO_639-3.TWW"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.TXA"
+msgstr "daripada:"
+
+msgid "ISO_639-3.TXH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TXM"
+msgstr "Cari:"
+
+msgid "ISO_639-3.TXN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.TXR"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TXX"
+msgstr "Latvian"
+
+msgid "ISO_639-3.TYA"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.TYE"
+msgstr "Korean"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TYN"
+msgstr "Korean"
+
+msgid "ISO_639-3.TZH"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TZL"
+msgstr "Russian"
+
+msgid "ISO_639-3.TZO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TZX"
+msgstr "Thai"
+
+msgid "ISO_639-3.UAN"
+msgstr "Korean"
+
+msgid "ISO_639-3.UDG"
+msgstr "Margin"
+
+msgid "ISO_639-3.UHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.UHN"
+msgstr "Thai"
+
+msgid "ISO_639-3.UIS"
+msgstr "Margin"
+
+msgid "ISO_639-3.UKA"
+msgstr "Turkish"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ULI"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.ULK"
+msgstr "Cetak"
+
+msgid "ISO_639-3.ULW"
+msgstr "Albanian"
+
+msgid "ISO_639-3.UMC"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.UMN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.UND"
+msgstr "Rendering"
+
+msgid "ISO_639-3.UNG"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.UNM"
+msgstr "Thai"
+
+msgid "ISO_639-3.UNN"
+msgstr "Korean"
+
+msgid "ISO_639-3.UNR"
+msgstr "Man"
+
+msgid "ISO_639-3.UNU"
+msgstr "Margin"
+
+msgid "ISO_639-3.UNX"
+msgstr "Man"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.URG"
+msgstr "Turkish"
+
+msgid "ISO_639-3.URL"
+msgstr "Polish"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.URT"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.URX"
+msgstr "daripada:"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Russian"
+
+msgid "ISO_639-3.VAF"
+msgstr "Margin"
+
+msgid "ISO_639-3.VAG"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Chinese"
+
+msgid "ISO_639-3.VAN"
+msgstr "Catalan"
+
+msgid "ISO_639-3.VAS"
+msgstr "Margin"
+
+msgid "ISO_639-3.VAV"
+msgstr "Polish"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.VEC"
+msgstr "Russian"
+
+msgid "ISO_639-3.VGR"
+msgstr "Margin"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vietnamese"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Korean"
+
+msgid "ISO_639-3.VKK"
+msgstr "Turkish"
+
+msgid "ISO_639-3.VKO"
+msgstr "Korean"
+
+msgid "ISO_639-3.VLP"
+msgstr "Polish"
+
+msgid "ISO_639-3.VMB"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.VMD"
+msgstr "Margin"
+
+msgid "ISO_639-3.VME"
+msgstr "Salah"
+
+msgid "ISO_639-3.VMG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.VMH"
+msgstr "Margin"
+
+msgid "ISO_639-3.VML"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.VMR"
+msgstr "Salah"
+
+msgid "ISO_639-3.VMW"
+msgstr "Man"
+
+msgid "ISO_639-3.VNK"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.VRA"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.WAE"
+msgstr "Salah"
+
+msgid "ISO_639-3.WAI"
+msgstr "Faeroese"
+
+msgid "ISO_639-3.WAL"
+msgstr "Albanian"
+
+msgid "ISO_639-3.WAQ"
+msgstr "German"
+
+msgid "ISO_639-3.WAW"
+msgstr "Margin"
+
+msgid "ISO_639-3.WBF"
+msgstr "Margin"
+
+msgid "ISO_639-3.WBH"
+msgstr "Man"
+
+msgid "ISO_639-3.WBI"
+msgstr "Thai"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.WBQ"
+msgstr "Man"
+
+msgid "ISO_639-3.WDK"
+msgstr "Man"
+
+msgid "ISO_639-3.WER"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.WET"
+msgstr "Polish"
+
+msgid "ISO_639-3.WEU"
+msgstr "Chinese"
+
+msgid "ISO_639-3.WHG"
+msgstr "Korean"
+
+msgid "ISO_639-3.WHU"
+msgstr "Korean"
+
+msgid "ISO_639-3.WII"
+msgstr "Cari:"
+
+msgid "ISO_639-3.WJI"
+msgstr "Margin"
+
+msgid "ISO_639-3.WKB"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.WKL"
+msgstr "Korean"
+
+msgid "ISO_639-3.WKU"
+msgstr "Turkish"
+
+msgid "ISO_639-3.WLA"
+msgstr "Polish"
+
+msgid "ISO_639-3.WLE"
+msgstr "Korean"
+
+msgid "ISO_639-3.WLG"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.WLI"
+msgstr "Polish"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galeon"
+
+msgid "ISO_639-3.WLW"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.WLY"
+msgstr "Itali"
+
+msgid "ISO_639-3.WMD"
+msgstr "Man"
+
+msgid "ISO_639-3.WMI"
+msgstr "Thai"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.WMW"
+msgstr "Margin"
+
+msgid "ISO_639-3.WMX"
+msgstr "daripada:"
+
+msgid "ISO_639-3.WND"
+msgstr "Man"
+
+msgid "ISO_639-3.WNN"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.WNO"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.WNY"
+msgstr "Man"
+
+msgid "ISO_639-3.WOD"
+msgstr "Korean"
+
+msgid "ISO_639-3.WOE"
+msgstr "Albanian"
+
+msgid "ISO_639-3.WOO"
+msgstr "Margin"
+
+msgid "ISO_639-3.WOR"
+msgstr "Margin"
+
+msgid "ISO_639-3.WPC"
+msgstr "Margin"
+
+msgid "ISO_639-3.WRB"
+msgstr "Margin"
+
+msgid "ISO_639-3.WRK"
+msgstr "Margin"
+
+msgid "ISO_639-3.WRN"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.WRO"
+msgstr "Margin"
+
+msgid "ISO_639-3.WRP"
+msgstr "Korean"
+
+msgid "ISO_639-3.WRS"
+msgstr "Margin"
+
+msgid "ISO_639-3.WRY"
+msgstr "Margin"
+
+msgid "ISO_639-3.WSI"
+msgstr "Thai"
+
+msgid "ISO_639-3.WSK"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.WSS"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.WSU"
+msgstr "Basque"
+
+msgid "ISO_639-3.WTM"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.WUU"
+msgstr "Chinese"
+
+msgid "ISO_639-3.WWR"
+msgstr "Margin"
+
+msgid "ISO_639-3.WWW"
+msgstr "Margin"
+
+msgid "ISO_639-3.WXW"
+msgstr "Cari:"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serbian"
+
+msgid "ISO_639-3.XAC"
+msgstr "Thai"
+
+msgid "ISO_639-3.XAD"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.XAG"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.XAL"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.XAO"
+msgstr "Thai"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.XAR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XAU"
+msgstr "German"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.XBD"
+msgstr "Man"
+
+msgid "ISO_639-3.XBE"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.XBM"
+msgstr "Breton"
+
+msgid "ISO_639-3.XBN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.XBR"
+msgstr "Lain-lain"
+
+msgid "ISO_639-3.XBY"
+msgstr "Catalan"
+
+msgid "ISO_639-3.XCO"
+msgstr "Croatian"
+
+msgid "ISO_639-3.XCR"
+msgstr "Margin"
+
+msgid "ISO_639-3.XCU"
+msgstr "Croatian"
+
+msgid "ISO_639-3.XCY"
+msgstr "Chinese"
+
+msgid "ISO_639-3.XDA"
+msgstr "Korean"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XDY"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.XED"
+msgstr "Cari:"
+
+msgid "ISO_639-3.XES"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGD"
+msgstr "Man"
+
+msgid "ISO_639-3.XGG"
+msgstr "Korean"
+
+msgid "ISO_639-3.XGI"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGM"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.XHA"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.XHD"
+msgstr "Cari:"
+
+msgid "ISO_639-3.XHE"
+msgstr "Thai"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbian"
+
+msgid "ISO_639-3.XHU"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.XHV"
+msgstr "Thai"
+
+msgid "ISO_639-3.XIB"
+msgstr "Cetak"
+
+msgid "ISO_639-3.XII"
+msgstr "Cari:"
+
+msgid "ISO_639-3.XIL"
+msgstr "Itali"
+
+msgid "ISO_639-3.XIR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XIS"
+msgstr "Korean"
+
+msgid "ISO_639-3.XJT"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.XKE"
+msgstr "Hebrew"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Polish"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Korean"
+
+msgid "ISO_639-3.XKT"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.XKX"
+msgstr "Korean"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XLC"
+msgstr "Latvian"
+
+msgid "ISO_639-3.XLD"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.XLE"
+msgstr "Romanian"
+
+msgid "ISO_639-3.XLI"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albanian"
+
+msgid "ISO_639-3.XLS"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.XME"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.XMF"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.XMG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Margin"
+
+msgid "ISO_639-3.XMK"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.XMM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.XMO"
+msgstr "Margin"
+
+msgid "ISO_639-3.XMU"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.XMX"
+msgstr "Man"
+
+msgid "ISO_639-3.XNG"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.XNH"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XNI"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.XNK"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.XNN"
+msgstr "Korean"
+
+msgid "ISO_639-3.XNR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XNS"
+msgstr "Danish"
+
+msgid "ISO_639-3.XNT"
+msgstr "Margin"
+
+msgid "ISO_639-3.XOD"
+msgstr "Korean"
+
+msgid "ISO_639-3.XOG"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.XON"
+msgstr "Korean"
+
+msgid "ISO_639-3.XOP"
+msgstr "Korean"
+
+msgid "ISO_639-3.XOW"
+msgstr "Korean"
+
+msgid "ISO_639-3.XPA"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XPC"
+msgstr "Czech"
+
+msgid "ISO_639-3.XPG"
+msgstr "Cetak"
+
+msgid "ISO_639-3.XPI"
+msgstr "Polish"
+
+msgid "ISO_639-3.XPR"
+msgstr "Cetak"
+
+msgid "ISO_639-3.XPS"
+msgstr "Cetak"
+
+msgid "ISO_639-3.XQA"
+msgstr "Thai"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albanian"
+
+msgid "ISO_639-3.XRE"
+msgstr "Greek"
+
+msgid "ISO_639-3.XRG"
+msgstr "Salah"
+
+msgid "ISO_639-3.XRM"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.XRN"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Korean"
+
+msgid "ISO_639-3.XRU"
+msgstr "Margin"
+
+msgid "ISO_639-3.XRW"
+msgstr "Margin"
+
+msgid "ISO_639-3.XSB"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.XSC"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.XSE"
+msgstr "German"
+
+msgid "ISO_639-3.XSM"
+msgstr "Korean"
+
+msgid "ISO_639-3.XSO"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serbian"
+
+msgid "ISO_639-3.XSS"
+msgstr "Russian"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slovenian"
+
+msgid "ISO_639-3.XSY"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.XTV"
+msgstr "Margin"
+
+msgid "ISO_639-3.XTW"
+msgstr "Margin"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Romanian"
+
+msgid "ISO_639-3.XUM"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.XUR"
+msgstr "Croatian"
+
+msgid "ISO_639-3.XUU"
+msgstr "Korean"
+
+msgid "ISO_639-3.XVI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.XVO"
+msgstr "Romanian"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estonian"
+
+msgid "ISO_639-3.XWA"
+msgstr "Thai"
+
+msgid "ISO_639-3.XWK"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.XXB"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.XXR"
+msgstr "Korean"
+
+msgid "ISO_639-3.XXT"
+msgstr "German"
+
+msgid "ISO_639-3.XYB"
+msgstr "Man"
+
+msgid "ISO_639-3.XYK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.XYL"
+msgstr "Salah"
+
+msgid "ISO_639-3.XZM"
+msgstr "Macedonian"
+
+msgid "ISO_639-3.YAD"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YAK"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.YAN"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japanese"
+
+msgid "ISO_639-3.YAX"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YBA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YBK"
+msgstr "Romanian"
+
+msgid "ISO_639-3.YBM"
+msgstr "Korean"
+
+msgid "ISO_639-3.YCH"
+msgstr "Chinese"
+
+msgid "ISO_639-3.YCL"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indonesia"
+
+msgid "ISO_639-3.YDA"
+msgstr "Man"
+
+msgid "ISO_639-3.YEC"
+msgstr "French"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Icelandic"
+
+msgid "ISO_639-3.YER"
+msgstr "Thai"
+
+msgid "ISO_639-3.YES"
+msgstr "Margin"
+
+msgid "ISO_639-3.YEV"
+msgstr "Man"
+
+msgid "ISO_639-3.YGA"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.YGI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.YGP"
+msgstr "Greek"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.YGS"
+msgstr "Korean"
+
+msgid "ISO_639-3.YGW"
+msgstr "Margin"
+
+msgid "ISO_639-3.YHA"
+msgstr "Baltic"
+
+msgid "ISO_639-3.YHD"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.YHS"
+msgstr "Korean"
+
+msgid "ISO_639-3.YIA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.YIF"
+msgstr "Chinese"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.YIM"
+msgstr "Latvian"
+
+msgid "ISO_639-3.YIP"
+msgstr "daripada:"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Margin"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.YIU"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.YIX"
+msgstr "Turkish"
+
+msgid "ISO_639-3.YKA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.YKL"
+msgstr "Thai"
+
+msgid "ISO_639-3.YKM"
+msgstr "Thai"
+
+msgid "ISO_639-3.YKO"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YKT"
+msgstr "Thai"
+
+msgid "ISO_639-3.YKU"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YLB"
+msgstr "Japanese"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japanese"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.YLO"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japanese"
+
+msgid "ISO_639-3.YMD"
+msgstr "Man"
+
+msgid "ISO_639-3.YMH"
+msgstr "Margin"
+
+msgid "ISO_639-3.YMI"
+msgstr "Margin"
+
+msgid "ISO_639-3.YMM"
+msgstr "Turkish"
+
+msgid "ISO_639-3.YMR"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.YMS"
+msgstr "Romanian"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.YNA"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.YNE"
+msgstr "Lokasi"
+
+msgid "ISO_639-3.YNN"
+msgstr "Man"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.YNS"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.YOG"
+msgstr "Margin"
+
+msgid "ISO_639-3.YOI"
+msgstr "Korean"
+
+msgid "ISO_639-3.YOL"
+msgstr "Korean"
+
+msgid "ISO_639-3.YPA"
+msgstr "Catalan"
+
+msgid "ISO_639-3.YPG"
+msgstr "Polish"
+
+msgid "ISO_639-3.YPH"
+msgstr "Thai"
+
+msgid "ISO_639-3.YPM"
+msgstr "_Alias baru"
+
+msgid "ISO_639-3.YPO"
+msgstr "Polish"
+
+msgid "ISO_639-3.YPP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Polish"
+
+msgid "ISO_639-3.YRY"
+msgstr "Catalan"
+
+msgid "ISO_639-3.YSD"
+msgstr "Serbian"
+
+msgid "ISO_639-3.YSG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.YSN"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.YSY"
+msgstr "Norwegian"
+
+msgid "ISO_639-3.YTA"
+msgstr "Thai"
+
+msgid "ISO_639-3.YTL"
+msgstr "Catalan"
+
+msgid "ISO_639-3.YTP"
+msgstr "Thai"
+
+msgid "ISO_639-3.YUC"
+msgstr "Dutch"
+
+msgid "ISO_639-3.YUD"
+msgstr "Bahasa Arab"
+
+msgid "ISO_639-3.YUE"
+msgstr "Chinese"
+
+msgid "ISO_639-3.YUP"
+msgstr "Tangguh"
+
+msgid "ISO_639-3.YVA"
+msgstr "Margin"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.YXA"
+msgstr "Man"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Albanian"
+
+msgid "ISO_639-3.YZG"
+msgstr "Man"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Turkish"
+
+msgid "ISO_639-3.ZBE"
+msgstr "German"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulgarian"
+
+msgid "ISO_639-3.ZBW"
+msgstr "German"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Korean"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Sans-serif"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Turkish"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Chinese"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Salah"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Turkish"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Korean"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Hungarian"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Latvian"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Korean"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Ukrainian"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Thai"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lithuanian"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZME"
+msgstr "Man"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZML"
+msgstr "Salah"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Man"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Man"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Chinese"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Chinese"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Salah"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Greek"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Margin"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Korean"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Bahasa Melayu"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Korean"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Turkish"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Chinese"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Margin"

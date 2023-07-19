@@ -1,0 +1,10367 @@
+# translation of iso_639-0.19.po to Norwegian Nynorsk
+# Norwegian Nynorsk translation of the ISO 639 language names
+# Copyright (C) 2001, 2004 Free Software Foundation, Inc.
+# Kjartan Maraas  <kmaraas@gnome.org>, 2001.
+# Roy-Magne Mo <rmo@sunnmore.net>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Karl Ove Hufthammer <karl@huftis.org>, 2003-2004. (New translation done from scratch.).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-04-26 21:24+0200\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Avarisk"
+
+msgid "ISO_639-3.AAD"
+msgstr "Somali"
+
+msgid "ISO_639-3.AAF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.AAG"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AAK"
+msgstr "Akan"
+
+msgid "ISO_639-3.AAL"
+msgstr "Afar"
+
+msgid "ISO_639-3.AAR"
+msgstr "Afar"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albansk"
+
+msgid "ISO_639-3.AAX"
+msgstr "algonkin"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.ABD"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.ABE"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ABK"
+msgstr "Abkhasisk"
+
+msgid "ISO_639-3.ABL"
+msgstr "Sango"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Abkhasisk"
+
+msgid "ISO_639-3.ABV"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ABW"
+msgstr "Pali"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ACA"
+msgstr "algonkin"
+
+msgid "ISO_639-3.ACN"
+msgstr "Akan"
+
+msgid "ISO_639-3.ACR"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ADD"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.ADE"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ADL"
+msgstr "Ga"
+
+msgid "ISO_639-3.ADN"
+msgstr "Akan"
+
+msgid "ISO_639-3.ADR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.ADS"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.ADX"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.ADY"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.AEA"
+msgstr "Armensk"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.AED"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.AEE"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.AEN"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.AES"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.AEU"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.AEW"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.AEY"
+msgstr "Assami"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Akan"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.AFD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.AFG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.AFK"
+msgstr "Navaho"
+
+msgid "ISO_639-3.AFN"
+msgstr "Dakota"
+
+msgid "ISO_639-3.AFP"
+msgstr "Thai"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AFT"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.AFU"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.AGA"
+msgstr "Akan"
+
+msgid "ISO_639-3.AGB"
+msgstr "Ibo"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.AGE"
+msgstr "Bengali"
+
+msgid "ISO_639-3.AGG"
+msgstr "Sango"
+
+msgid "ISO_639-3.AGH"
+msgstr "Nepali"
+
+msgid "ISO_639-3.AGI"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.AGL"
+msgstr "Bemba"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.AGO"
+msgstr "Setswana"
+
+msgid "ISO_639-3.AGW"
+msgstr "Hausa"
+
+msgid "ISO_639-3.AGY"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.AHA"
+msgstr "Santali"
+
+msgid "ISO_639-3.AHH"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.AHK"
+msgstr "Akan"
+
+msgid "ISO_639-3.AHL"
+msgstr "Ibo"
+
+msgid "ISO_639-3.AHR"
+msgstr "Abkhasisk"
+
+msgid "ISO_639-3.AIE"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.AIR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.AIS"
+msgstr "Guarani"
+
+msgid "ISO_639-3.AIW"
+msgstr "Avarisk"
+
+msgid "ISO_639-3.AIX"
+msgstr "Akan"
+
+msgid "ISO_639-3.AJN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.AJP"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.AJT"
+msgstr "arabisk"
+
+msgid "ISO_639-3.AJU"
+msgstr "arabisk"
+
+msgid "ISO_639-3.AJW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.AKA"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKE"
+msgstr "Arawak"
+
+msgid "ISO_639-3.AKF"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKK"
+msgstr "Akkadisk"
+
+msgid "ISO_639-3.AKL"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKM"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.AKT"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.AKW"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ALA"
+msgstr "Sango"
+
+msgid "ISO_639-3.ALD"
+msgstr "Akkadisk"
+
+msgid "ISO_639-3.ALE"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ALF"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ALH"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ALI"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.ALL"
+msgstr "Afar"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ALP"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ALQ"
+msgstr "Algonkin"
+
+msgid "ISO_639-3.ALR"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ALT"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ALX"
+msgstr "Somali"
+
+msgid "ISO_639-3.ALZ"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.AMC"
+msgstr "Amharisk"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amharisk"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Akan"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.AML"
+msgstr "Guarani"
+
+msgid "ISO_639-3.AMN"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Amharisk"
+
+msgid "ISO_639-3.AMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AMS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.AMY"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.ANG"
+msgstr "Gammalengelsk (ca. 450–1100)"
+
+msgid "ISO_639-3.ANI"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ANK"
+msgstr "Somali"
+
+msgid "ISO_639-3.ANN"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ANP"
+msgstr "Akan"
+
+msgid "ISO_639-3.ANS"
+msgstr "Tysk"
+
+msgid "ISO_639-3.ANW"
+msgstr "Akan"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albansk"
+
+msgid "ISO_639-3.AOA"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Russisk"
+
+msgid "ISO_639-3.AOR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.AOS"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.AOX"
+msgstr "Arawak"
+
+msgid "ISO_639-3.APB"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.APC"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.APD"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.APF"
+msgstr "Albansk"
+
+msgid "ISO_639-3.APG"
+msgstr "Albansk"
+
+msgid "ISO_639-3.APH"
+msgstr "Amharisk"
+
+msgid "ISO_639-3.API"
+msgstr "algonkin"
+
+msgid "ISO_639-3.APP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.APV"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.APW"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.AQN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.AQT"
+msgstr "Bengali"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ARD"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ARE"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.ARG"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ARN"
+msgstr "Manx"
+
+msgid "ISO_639-3.ARO"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.ARW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Gammalegyptisk"
+
+msgid "ISO_639-3.ASA"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.ASD"
+msgstr "Assami"
+
+msgid "ISO_639-3.ASE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ASF"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.ASJ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.ASK"
+msgstr "Akan"
+
+msgid "ISO_639-3.ASM"
+msgstr "Assami"
+
+msgid "ISO_639-3.ASO"
+msgstr "Sango"
+
+msgid "ISO_639-3.ASP"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ASQ"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.AST"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.ASV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ASW"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.ATM"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.ATN"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.ATO"
+msgstr "Baltiske språk"
+
+msgid "ISO_639-3.ATV"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ATX"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AUB"
+msgstr "Telugu"
+
+msgid "ISO_639-3.AUC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.AUD"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.AUK"
+msgstr "Herero"
+
+msgid "ISO_639-3.AUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AUP"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.AVA"
+msgstr "Avarisk"
+
+msgid "ISO_639-3.AVB"
+msgstr "Avarisk"
+
+msgid "ISO_639-3.AVE"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.AVI"
+msgstr "Akan"
+
+msgid "ISO_639-3.AVK"
+msgstr "Hausa"
+
+msgid "ISO_639-3.AVN"
+msgstr "Avarisk"
+
+msgid "ISO_639-3.AVS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arawak"
+
+msgid "ISO_639-3.AWO"
+msgstr "Arawak"
+
+msgid "ISO_639-3.AWU"
+msgstr "Santali"
+
+msgid "ISO_639-3.AWX"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AXL"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.AXM"
+msgstr "Armensk"
+
+msgid "ISO_639-3.AYA"
+msgstr "Afar"
+
+msgid "ISO_639-3.AYC"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.AYL"
+msgstr "algonkin"
+
+msgid "ISO_639-3.AYM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AYN"
+msgstr "Albansk"
+
+msgid "ISO_639-3.AYR"
+msgstr "Santali"
+
+msgid "ISO_639-3.AYS"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Marathi"
+
+msgid "ISO_639-3.AZA"
+msgstr "Akan"
+
+msgid "ISO_639-3.AZB"
+msgstr "Aserbajdsjansk"
+
+msgid "ISO_639-3.AZD"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.AZE"
+msgstr "Aserbajdsjansk"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Aserbajdsjansk"
+
+msgid "ISO_639-3.BAC"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BAG"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BAK"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BAL"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BAN"
+msgstr "Balinesisk"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BAV"
+msgstr "Sango"
+
+msgid "ISO_639-3.BAY"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BBB"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BBD"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BBE"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BBF"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BBI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BBL"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BBM"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.BBP"
+msgstr "Santali"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Somali"
+
+msgid "ISO_639-3.BBR"
+msgstr "Arawak"
+
+msgid "ISO_639-3.BBV"
+msgstr "Guarani"
+
+msgid "ISO_639-3.BBW"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BBY"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BCA"
+msgstr "Santali"
+
+msgid "ISO_639-3.BCC"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.BCF"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BCG"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BCK"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.BCL"
+msgstr "Santali"
+
+msgid "ISO_639-3.BCN"
+msgstr "Baltiske språk"
+
+msgid "ISO_639-3.BCO"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Fransk"
+
+msgid "ISO_639-3.BCT"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BCW"
+msgstr "Setswana"
+
+msgid "ISO_639-3.BCY"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BDB"
+msgstr "Masai"
+
+msgid "ISO_639-3.BDD"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BDE"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BDF"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BDG"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BDI"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BDU"
+msgstr "Oromo"
+
+msgid "ISO_639-3.BDZ"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BEF"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BEG"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BEH"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BEK"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BEL"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BEN"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BEO"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BEP"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BEQ"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BES"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BEW"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BEZ"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.BFA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BFE"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BFG"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.BFI"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BFK"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BFP"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BFR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BFS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.BFT"
+msgstr "Pali"
+
+msgid "ISO_639-3.BFU"
+msgstr "Guarani"
+
+msgid "ISO_639-3.BFW"
+msgstr "Gondi"
+
+msgid "ISO_639-3.BFX"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.BFZ"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.BGC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.BGD"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.BGN"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.BGO"
+msgstr "Filipino"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BGR"
+msgstr "Pali"
+
+msgid "ISO_639-3.BGU"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.BGW"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BGX"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BGY"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BHA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHB"
+msgstr "Swahili"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHD"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHF"
+msgstr "Oriya"
+
+msgid "ISO_639-3.BHG"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.BHH"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BHM"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BHR"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHX"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.BIB"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BIC"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIG"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BIM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BIO"
+msgstr "Nepali"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIS"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BIT"
+msgstr "Oromo"
+
+msgid "ISO_639-3.BIV"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.BIX"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIY"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Pali"
+
+msgid "ISO_639-3.BJB"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BJC"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BJO"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BJV"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BJY"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BKA"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.BKI"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BKQ"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BKS"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.BKU"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BKW"
+msgstr "Usbekisk"
+
+msgid "ISO_639-3.BLB"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BLD"
+msgstr "Sango"
+
+msgid "ISO_639-3.BLG"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BLI"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BLN"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.BLR"
+msgstr "Sango"
+
+msgid "ISO_639-3.BLS"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BLV"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BLW"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.BMB"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BMC"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BMD"
+msgstr "algonkin"
+
+msgid "ISO_639-3.BMH"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.BMI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BML"
+msgstr "Somali"
+
+msgid "ISO_639-3.BMO"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BMR"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.BMV"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.BMW"
+msgstr "Somali"
+
+msgid "ISO_639-3.BMX"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BNB"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BNC"
+msgstr "Gondi"
+
+msgid "ISO_639-3.BND"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.BNF"
+msgstr "Masai"
+
+msgid "ISO_639-3.BNG"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BNI"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BNK"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BNL"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Fanti"
+
+msgid "ISO_639-3.BNS"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BNU"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BOA"
+msgstr "Joruba"
+
+msgid "ISO_639-3.BOB"
+msgstr "Afar"
+
+msgid "ISO_639-3.BOD"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.BOE"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.BOF"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BOG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BOH"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BOM"
+msgstr "Oromo"
+
+msgid "ISO_639-3.BOP"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BOS"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BOT"
+msgstr "Sango"
+
+msgid "ISO_639-3.BOU"
+msgstr "Gondi"
+
+msgid "ISO_639-3.BOW"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BPA"
+msgstr "Dakota"
+
+msgid "ISO_639-3.BPH"
+msgstr "Polsk"
+
+msgid "ISO_639-3.BPI"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BPK"
+msgstr "Oromo"
+
+msgid "ISO_639-3.BPO"
+msgstr "Masai"
+
+msgid "ISO_639-3.BPP"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.BPV"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.BPZ"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BQB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BQH"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BQI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BQL"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BQN"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BQP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BQR"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.BQS"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BQV"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.BQX"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BQY"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BRF"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BRG"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BRH"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BRN"
+msgstr "Joruba"
+
+msgid "ISO_639-3.BRT"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BRU"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.BRV"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.BRW"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BRY"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.BSC"
+msgstr "Masai"
+
+msgid "ISO_639-3.BSE"
+msgstr "Walisisk"
+
+msgid "ISO_639-3.BSF"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BSG"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.BSH"
+msgstr "Latin"
+
+msgid "ISO_639-3.BSM"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BSN"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BSO"
+msgstr "Pashto"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Masai"
+
+msgid "ISO_639-3.BST"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BTA"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.BTC"
+msgstr "Baltiske språk"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BTI"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japansk"
+
+msgid "ISO_639-3.BTR"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BTU"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BTV"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BUC"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BUI"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BUN"
+msgstr "Herero"
+
+msgid "ISO_639-3.BUO"
+msgstr "Tigré"
+
+msgid "ISO_639-3.BUP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BUZ"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.BVA"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BVB"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BVH"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BVL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.BVO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BVP"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BVV"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BVW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.BVY"
+msgstr "Sango"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BWI"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BWK"
+msgstr "Arawak"
+
+msgid "ISO_639-3.BWL"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BWP"
+msgstr "algonkin"
+
+msgid "ISO_639-3.BWQ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.BWS"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BXA"
+msgstr "Kirgisisk"
+
+msgid "ISO_639-3.BXG"
+msgstr "Bengali"
+
+msgid "ISO_639-3.BXM"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.BXP"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BXR"
+msgstr "Russisk"
+
+msgid "ISO_639-3.BXS"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BXU"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BYA"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.BYB"
+msgstr "Oriya"
+
+msgid "ISO_639-3.BYF"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.BYG"
+msgstr "Sango"
+
+msgid "ISO_639-3.BYH"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BYI"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BYM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BYN"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.BYR"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BYV"
+msgstr "Bemba"
+
+msgid "ISO_639-3.BYW"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.BZA"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BZB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BZD"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BZF"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.BZI"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.BZR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BZS"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.BZU"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.BZV"
+msgstr "Komi"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Fanti"
+
+msgid "ISO_639-3.CAC"
+msgstr "Shona"
+
+msgid "ISO_639-3.CAF"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CAK"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.CAL"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.CAN"
+msgstr "Bihari"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CAW"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CBI"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CBL"
+msgstr "Pali"
+
+msgid "ISO_639-3.CBN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.CBV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.CBW"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CCA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.CCE"
+msgstr "Koptisk"
+
+msgid "ISO_639-3.CCG"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.CCH"
+msgstr "Assami"
+
+msgid "ISO_639-3.CCJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.CCL"
+msgstr "Swahili"
+
+msgid "ISO_639-3.CCM"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.CDA"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.CDE"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.CDG"
+msgstr "Bihari"
+
+msgid "ISO_639-3.CDI"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.CDJ"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CDO"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CDS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CDY"
+msgstr "Shona"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.CEA"
+msgstr "Nepali"
+
+msgid "ISO_639-3.CEK"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.CEN"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CES"
+msgstr "Tsjekkisk"
+
+msgid "ISO_639-3.CFD"
+msgstr "Aymara"
+
+msgid "ISO_639-3.CFM"
+msgstr "Pali"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CHE"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.CHK"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CHM"
+msgstr "Russisk"
+
+msgid "ISO_639-3.CHU"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CHV"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CHX"
+msgstr "Santali"
+
+msgid "ISO_639-3.CIE"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CIM"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.CIP"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CIR"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.CIY"
+msgstr "Thai"
+
+msgid "ISO_639-3.CJA"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CJM"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.CJN"
+msgstr "Ponapisk"
+
+msgid "ISO_639-3.CJS"
+msgstr "Shona"
+
+msgid "ISO_639-3.CJV"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CJY"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CKB"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.CKN"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CKQ"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.CKR"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.CKU"
+msgstr "Masai"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CKX"
+msgstr "Dakota"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.CLE"
+msgstr "Pali"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CLM"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.CLT"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CMA"
+msgstr "Masai"
+
+msgid "ISO_639-3.CME"
+msgstr "Tysk"
+
+msgid "ISO_639-3.CMG"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.CML"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.CMN"
+msgstr "Bengali"
+
+msgid "ISO_639-3.CMO"
+msgstr "Santali"
+
+msgid "ISO_639-3.CMS"
+msgstr "Masai"
+
+msgid "ISO_639-3.CNG"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.CNH"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bengali"
+
+msgid "ISO_639-3.CNL"
+msgstr "Bengali"
+
+msgid "ISO_639-3.CNO"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.CNS"
+msgstr "Santali"
+
+msgid "ISO_639-3.CNW"
+msgstr "Bengali"
+
+msgid "ISO_639-3.CNX"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.COE"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.COG"
+msgstr "Shona"
+
+msgid "ISO_639-3.COM"
+msgstr "Romanske språk"
+
+msgid "ISO_639-3.COO"
+msgstr "Oromo"
+
+msgid "ISO_639-3.COP"
+msgstr "Koptisk"
+
+msgid "ISO_639-3.COR"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.COS"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.COX"
+msgstr "Fanti"
+
+msgid "ISO_639-3.COZ"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.CPI"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CPN"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.CPX"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CRF"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.CRJ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.CRL"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.CRR"
+msgstr "Algonkin"
+
+msgid "ISO_639-3.CRV"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CRY"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.CSC"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.CSD"
+msgstr "algonkin"
+
+msgid "ISO_639-3.CSE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CSF"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CSG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CSN"
+msgstr "Osmanske språk"
+
+msgid "ISO_639-3.CSQ"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.CSR"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.CSS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.CST"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.CSV"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CSY"
+msgstr "Bengali"
+
+msgid "ISO_639-3.CTC"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.CTD"
+msgstr "Pali"
+
+msgid "ISO_639-3.CTG"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.CTH"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CTS"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.CTU"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.CUA"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CUH"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CUU"
+msgstr "Thai"
+
+msgid "ISO_639-3.CUW"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.CVG"
+msgstr "Shona"
+
+msgid "ISO_639-3.CWB"
+msgstr "Manx"
+
+msgid "ISO_639-3.CWE"
+msgstr "Khmer"
+
+msgid "ISO_639-3.CYM"
+msgstr "Walisisk"
+
+msgid "ISO_639-3.CZH"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.CZK"
+msgstr "Konkani"
+
+msgid "ISO_639-3.CZT"
+msgstr "Bengali"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamil"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAG"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DAK"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DAL"
+msgstr "Filipino"
+
+msgid "ISO_639-3.DAM"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DAN"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DAO"
+msgstr "Bengali"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Masai"
+
+msgid "ISO_639-3.DAV"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.DAX"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DAZ"
+msgstr "Yao"
+
+msgid "ISO_639-3.DBA"
+msgstr "Bengali"
+
+msgid "ISO_639-3.DBI"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.DBO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.DDJ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.DEC"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.DEH"
+msgstr "Bihari"
+
+msgid "ISO_639-3.DER"
+msgstr "Georgisk"
+
+msgid "ISO_639-3.DES"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.DEU"
+msgstr "Tysk"
+
+msgid "ISO_639-3.DGA"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.DGG"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.DGI"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.DGL"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DGN"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DHD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DHG"
+msgstr "Manx"
+
+msgid "ISO_639-3.DHM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.DHN"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DHS"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DHX"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.DIB"
+msgstr "Santali"
+
+msgid "ISO_639-3.DIC"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DIH"
+msgstr "Komi"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DIK"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.DIP"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.DIQ"
+msgstr "algonkin"
+
+msgid "ISO_639-3.DIT"
+msgstr "Bihari"
+
+msgid "ISO_639-3.DIV"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.DIW"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.DJI"
+msgstr "Fijiansk"
+
+msgid "ISO_639-3.DJO"
+msgstr "Sango"
+
+msgid "ISO_639-3.DKK"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DKS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.DKX"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.DLK"
+msgstr "Filipino"
+
+msgid "ISO_639-3.DLM"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.DMC"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.DMK"
+msgstr "Somali"
+
+msgid "ISO_639-3.DML"
+msgstr "Pali"
+
+msgid "ISO_639-3.DMM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.DMX"
+msgstr "Bemba"
+
+msgid "ISO_639-3.DMY"
+msgstr "Bemba"
+
+msgid "ISO_639-3.DND"
+msgstr "Dakota"
+
+msgid "ISO_639-3.DNG"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DNK"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.DNV"
+msgstr "Ossetisk"
+
+msgid "ISO_639-3.DNW"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.DOC"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.DOH"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.DOK"
+msgstr "Gondi"
+
+msgid "ISO_639-3.DOO"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.DOQ"
+msgstr "Osmanske språk"
+
+msgid "ISO_639-3.DOT"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DOX"
+msgstr "Russisk"
+
+msgid "ISO_639-3.DOY"
+msgstr "Oromo"
+
+msgid "ISO_639-3.DPP"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.DRB"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DRC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DRD"
+msgstr "Oriya"
+
+msgid "ISO_639-3.DRE"
+msgstr "Wolof"
+
+msgid "ISO_639-3.DRL"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.DRU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DRY"
+msgstr "Marathi"
+
+msgid "ISO_639-3.DSB"
+msgstr "Lågtysk"
+
+msgid "ISO_639-3.DSE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.DSI"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.DSO"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.DTA"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.DTY"
+msgstr "Nepali"
+
+msgid "ISO_639-3.DUM"
+msgstr "nederlandsk"
+
+msgid "ISO_639-3.DUP"
+msgstr "Sango"
+
+msgid "ISO_639-3.DWA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.DWR"
+msgstr "Yao"
+
+msgid "ISO_639-3.DYA"
+msgstr "Dansk"
+
+msgid "ISO_639-3.DZA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DZL"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.DZO"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.EAA"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.EBK"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.ECR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.ECS"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.EFE"
+msgstr "Ewe"
+
+msgid "ISO_639-3.EGL"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.EGY"
+msgstr "Gammalegyptisk"
+
+msgid "ISO_639-3.EIT"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.EIV"
+msgstr "Akan"
+
+msgid "ISO_639-3.EKC"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.EKO"
+msgstr "Komi"
+
+msgid "ISO_639-3.EKR"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.EKY"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.ELL"
+msgstr "Nygresk (etter 1453)"
+
+msgid "ISO_639-3.EMG"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.EMK"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.EMN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.EMU"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.ENA"
+msgstr "Nepali"
+
+msgid "ISO_639-3.ENB"
+msgstr "Marathi"
+
+msgid "ISO_639-3.ENG"
+msgstr "Engelsk"
+
+msgid "ISO_639-3.ENM"
+msgstr "Middelengelsk (1100–1500)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.ERH"
+msgstr "Oriya"
+
+msgid "ISO_639-3.ERK"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.ESG"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ESI"
+msgstr "Gammalegyptisk"
+
+msgid "ISO_639-3.ESL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ESN"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.ESO"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.EST"
+msgstr "Estisk"
+
+msgid "ISO_639-3.ESU"
+msgstr "Santali"
+
+msgid "ISO_639-3.ETH"
+msgstr "Osmanske språk"
+
+msgid "ISO_639-3.ETR"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ETT"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.EUS"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.EVH"
+msgstr "Usbekisk"
+
+msgid "ISO_639-3.EWE"
+msgstr "Ewe"
+
+msgid "ISO_639-3.EYA"
+msgstr "Oriya"
+
+msgid "ISO_639-3.EYO"
+msgstr "Herero"
+
+msgid "ISO_639-3.EZE"
+msgstr "Usbekisk"
+
+msgid "ISO_639-3.FAA"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.FAF"
+msgstr "Fanti"
+
+msgid "ISO_639-3.FAH"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.FAL"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.FAO"
+msgstr "Færøysk"
+
+msgid "ISO_639-3.FAP"
+msgstr "Pali"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.FAS"
+msgstr "Persisk"
+
+msgid "ISO_639-3.FAT"
+msgstr "Fanti"
+
+msgid "ISO_639-3.FAX"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.FAY"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.FAZ"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albansk"
+
+msgid "ISO_639-3.FCS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.FER"
+msgstr "Færøysk"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Fijiansk"
+
+msgid "ISO_639-3.FIL"
+msgstr "Filipino"
+
+msgid "ISO_639-3.FIN"
+msgstr "Finsk"
+
+msgid "ISO_639-3.FIP"
+msgstr "Fijiansk"
+
+msgid "ISO_639-3.FIR"
+msgstr "Fijiansk"
+
+msgid "ISO_639-3.FKV"
+msgstr "Finsk"
+
+msgid "ISO_639-3.FLI"
+msgstr "Pali"
+
+msgid "ISO_639-3.FLL"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.FLY"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.FMU"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.FNG"
+msgstr "Filipino"
+
+msgid "ISO_639-3.FNI"
+msgstr "Fanti"
+
+msgid "ISO_639-3.FOM"
+msgstr "Somali"
+
+msgid "ISO_639-3.FOR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.FQS"
+msgstr "Færøysk"
+
+msgid "ISO_639-3.FRA"
+msgstr "Fransk"
+
+msgid "ISO_639-3.FRC"
+msgstr "Fransk"
+
+msgid "ISO_639-3.FRK"
+msgstr "Dansk"
+
+msgid "ISO_639-3.FRM"
+msgstr "Mellomfransk (ca. 1400–1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "Gammalfransk (842–1400)"
+
+msgid "ISO_639-3.FRP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.FRR"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.FRS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.FRY"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.FSE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.FSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.FSS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.FUF"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.FUI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.FUJ"
+msgstr "Komi"
+
+msgid "ISO_639-3.FUL"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.FUU"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.FWE"
+msgstr "Ewe"
+
+msgid "ISO_639-3.GAA"
+msgstr "Ga"
+
+msgid "ISO_639-3.GAB"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GAF"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GAH"
+msgstr "Akan"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Pali"
+
+msgid "ISO_639-3.GAM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GAN"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.GAO"
+msgstr "Fanti"
+
+msgid "ISO_639-3.GAP"
+msgstr "Ga"
+
+msgid "ISO_639-3.GAQ"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.GAT"
+msgstr "Bengali"
+
+msgid "ISO_639-3.GAZ"
+msgstr "Santali"
+
+msgid "ISO_639-3.GBF"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GBK"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GBM"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GBO"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.GBY"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GCC"
+msgstr "Pali"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.GDI"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GDJ"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GDK"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GDL"
+msgstr "Dansk"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.GDS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GDT"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.GDX"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GEA"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GEB"
+msgstr "Tigré"
+
+msgid "ISO_639-3.GED"
+msgstr "Ga"
+
+msgid "ISO_639-3.GEG"
+msgstr "Germanske språk"
+
+msgid "ISO_639-3.GEI"
+msgstr "Hebraisk"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GEW"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GEY"
+msgstr "Oriya"
+
+msgid "ISO_639-3.GFK"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.GFT"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GGA"
+msgstr "Ga"
+
+msgid "ISO_639-3.GGE"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.GGK"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.GGU"
+msgstr "Ga"
+
+msgid "ISO_639-3.GHC"
+msgstr "Gælisk; skotsk-gælisk"
+
+msgid "ISO_639-3.GHE"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.GHH"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.GHO"
+msgstr "Aymara"
+
+msgid "ISO_639-3.GHR"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GIG"
+msgstr "Georgisk"
+
+msgid "ISO_639-3.GIL"
+msgstr "Kiribatisk"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Ga"
+
+msgid "ISO_639-3.GIR"
+msgstr "Ga"
+
+msgid "ISO_639-3.GIU"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.GIW"
+msgstr "Ga"
+
+msgid "ISO_639-3.GIX"
+msgstr "Bislama"
+
+msgid "ISO_639-3.GJM"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GJN"
+msgstr "Shona"
+
+msgid "ISO_639-3.GJR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GJU"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GKA"
+msgstr "Ga"
+
+msgid "ISO_639-3.GKE"
+msgstr "Nepali"
+
+msgid "ISO_639-3.GKN"
+msgstr "Gælisk; skotsk-gælisk"
+
+msgid "ISO_639-3.GLD"
+msgstr "Santali"
+
+msgid "ISO_639-3.GLE"
+msgstr "Irsk"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.GLH"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.GLV"
+msgstr "Manx"
+
+msgid "ISO_639-3.GMA"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GMH"
+msgstr "Armensk"
+
+msgid "ISO_639-3.GMU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.GMV"
+msgstr "Ga"
+
+msgid "ISO_639-3.GNA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GNC"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.GNE"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GNH"
+msgstr "Herero"
+
+msgid "ISO_639-3.GNI"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GNM"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GNO"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Ga"
+
+msgid "ISO_639-3.GNT"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GNU"
+msgstr "Ga"
+
+msgid "ISO_639-3.GNW"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GOD"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOE"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOF"
+msgstr "Ga"
+
+msgid "ISO_639-3.GOH"
+msgstr "tysk"
+
+msgid "ISO_639-3.GOK"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOL"
+msgstr "Konkani"
+
+msgid "ISO_639-3.GON"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Georgisk"
+
+msgid "ISO_639-3.GOS"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOT"
+msgstr "Gotisk"
+
+msgid "ISO_639-3.GOU"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.GOY"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GPE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GPN"
+msgstr "Thai"
+
+msgid "ISO_639-3.GQU"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.GRC"
+msgstr "Gammalgresk (til 1453)"
+
+msgid "ISO_639-3.GRG"
+msgstr "Masai"
+
+msgid "ISO_639-3.GRI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.GRJ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.GRN"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GRO"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GRR"
+msgstr "Fanti"
+
+msgid "ISO_639-3.GRT"
+msgstr "Ga"
+
+msgid "ISO_639-3.GRV"
+msgstr "Santali"
+
+msgid "ISO_639-3.GSE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GSG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GSM"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.GSS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GSW"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GUA"
+msgstr "Swahili"
+
+msgid "ISO_639-3.GUB"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GUC"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.GUE"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GUG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GUM"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GUR"
+msgstr "Færøysk"
+
+msgid "ISO_639-3.GUS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.GUW"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GVC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GVF"
+msgstr "Georgisk"
+
+msgid "ISO_639-3.GVL"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.GVM"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GVR"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.GVS"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GVY"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maori"
+
+msgid "ISO_639-3.GWB"
+msgstr "Ga"
+
+msgid "ISO_639-3.GWC"
+msgstr "Pali"
+
+msgid "ISO_639-3.GWT"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GWW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.GWX"
+msgstr "Ga"
+
+msgid "ISO_639-3.GXX"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.GYB"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.GYE"
+msgstr "Tysk"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GYR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GZI"
+msgstr "Ga"
+
+msgid "ISO_639-3.GZN"
+msgstr "Ga"
+
+msgid "ISO_639-3.HAB"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HAC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.HAD"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.HAF"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HAG"
+msgstr "Sango"
+
+msgid "ISO_639-3.HAH"
+msgstr "Shona"
+
+msgid "ISO_639-3.HAK"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.HAM"
+msgstr "Hebraisk"
+
+msgid "ISO_639-3.HAN"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.HAP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.HAS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAT"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.HAU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAX"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HAY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBN"
+msgstr "Persisk"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebraisk"
+
+msgid "ISO_639-3.HBS"
+msgstr "Kroatisk"
+
+msgid "ISO_639-3.HBU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HDN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.HDS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HEA"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebraisk"
+
+msgid "ISO_639-3.HEH"
+msgstr "Herero"
+
+msgid "ISO_639-3.HEM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.HER"
+msgstr "Herero"
+
+msgid "ISO_639-3.HHR"
+msgstr "Khmer"
+
+msgid "ISO_639-3.HHY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HIA"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.HIB"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.HID"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HIF"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIG"
+msgstr "Khmer"
+
+msgid "ISO_639-3.HII"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.HIT"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.HJI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HKA"
+msgstr "Khmer"
+
+msgid "ISO_639-3.HKE"
+msgstr "Rundi"
+
+msgid "ISO_639-3.HKS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HLA"
+msgstr "Pali"
+
+msgid "ISO_639-3.HLB"
+msgstr "Pali"
+
+msgid "ISO_639-3.HLE"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HLT"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.HMA"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HME"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HMG"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.HMH"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HMI"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Tysk"
+
+msgid "ISO_639-3.HMM"
+msgstr "Santali"
+
+msgid "ISO_639-3.HMP"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HMQ"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.HMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.HMS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.HMU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HMW"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.HMY"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.HND"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.HNI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HNO"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.HNU"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.HOA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HOE"
+msgstr "Oromo"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Gotisk"
+
+msgid "ISO_639-3.HOM"
+msgstr "Somali"
+
+msgid "ISO_639-3.HOP"
+msgstr "Koptisk"
+
+msgid "ISO_639-3.HOR"
+msgstr "Herero"
+
+msgid "ISO_639-3.HOW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HPS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HRE"
+msgstr "Herero"
+
+msgid "ISO_639-3.HRO"
+msgstr "Maori"
+
+msgid "ISO_639-3.HRU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HRV"
+msgstr "Kroatisk"
+
+msgid "ISO_639-3.HRX"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.HSH"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.HSN"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.HSS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HTI"
+msgstr "Gotisk"
+
+msgid "ISO_639-3.HTS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HTX"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.HUB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUC"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUD"
+msgstr "Zulu"
+
+msgid "ISO_639-3.HUF"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.HUJ"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.HUK"
+msgstr "Zulu"
+
+msgid "ISO_639-3.HUL"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUM"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.HUN"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.HUQ"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.HUS"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.HUT"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HWO"
+msgstr "Setswana"
+
+msgid "ISO_639-3.HYE"
+msgstr "Armensk"
+
+msgid "ISO_639-3.IAI"
+msgstr "Masai"
+
+msgid "ISO_639-3.IAR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.IBB"
+msgstr "Ibo"
+
+msgid "ISO_639-3.IBL"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.IBN"
+msgstr "Ibo"
+
+msgid "ISO_639-3.IBO"
+msgstr "Ibo"
+
+msgid "ISO_639-3.IBR"
+msgstr "Ibo"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albansk"
+
+msgid "ISO_639-3.ICL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugisisk"
+
+msgid "ISO_639-3.IDC"
+msgstr "Ido"
+
+msgid "ISO_639-3.IDI"
+msgstr "Ido"
+
+msgid "ISO_639-3.IDO"
+msgstr "Ido"
+
+msgid "ISO_639-3.IDR"
+msgstr "Rundi"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.IDU"
+msgstr "Ido"
+
+msgid "ISO_639-3.IFF"
+msgstr "Ido"
+
+msgid "ISO_639-3.IGB"
+msgstr "Oriya"
+
+msgid "ISO_639-3.IGL"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.IGN"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.IGS"
+msgstr "Interlingua"
+
+msgid "ISO_639-3.III"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.IJE"
+msgstr "Bengali"
+
+msgid "ISO_639-3.IJS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.IKI"
+msgstr "Ido"
+
+msgid "ISO_639-3.IKL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.IKR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.IKS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.IKU"
+msgstr "Inuittisk"
+
+msgid "ISO_639-3.ILB"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.ILE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ILI"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.ILM"
+msgstr "Russisk"
+
+msgid "ISO_639-3.IMA"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.IMS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.IMY"
+msgstr "Manx"
+
+msgid "ISO_639-3.INA"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+msgid "ISO_639-3.INB"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.IND"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.INL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.INS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.IPK"
+msgstr "Inupiak"
+
+msgid "ISO_639-3.IRU"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.IRX"
+msgstr "Khmer"
+
+msgid "ISO_639-3.IRY"
+msgstr "Oriya"
+
+msgid "ISO_639-3.ISA"
+msgstr "Masai"
+
+msgid "ISO_639-3.ISE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ISG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estisk"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandsk"
+
+msgid "ISO_639-3.ISM"
+msgstr "Masai"
+
+msgid "ISO_639-3.ISR"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ITA"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.ITD"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ITE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ITK"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.ITR"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ITV"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.ITW"
+msgstr "Ido"
+
+msgid "ISO_639-3.ITY"
+msgstr "Guarani"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.IVV"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.IXL"
+msgstr "Ibo"
+
+msgid "ISO_639-3.IZH"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.JAC"
+msgstr "Koptisk"
+
+msgid "ISO_639-3.JAF"
+msgstr "Aymara"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.JAT"
+msgstr "Marathi"
+
+msgid "ISO_639-3.JAU"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.JAV"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.JAY"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.JBE"
+msgstr "arabisk"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.JBW"
+msgstr "Yao"
+
+msgid "ISO_639-3.JCT"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.JDT"
+msgstr "arabisk"
+
+msgid "ISO_639-3.JEB"
+msgstr "Herero"
+
+msgid "ISO_639-3.JER"
+msgstr "Herero"
+
+msgid "ISO_639-3.JET"
+msgstr "Manx"
+
+msgid "ISO_639-3.JGE"
+msgstr "persisk; nypersisk; farsi"
+
+msgid "ISO_639-3.JHI"
+msgstr "Thai"
+
+msgid "ISO_639-3.JHS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.JIC"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.JIO"
+msgstr "Bislama"
+
+msgid "ISO_639-3.JIV"
+msgstr "Shona"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.JKU"
+msgstr "Latin"
+
+msgid "ISO_639-3.JLS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.JMB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JMC"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.JMN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.JMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.JNG"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.JNI"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.JNJ"
+msgstr "Bemba"
+
+msgid "ISO_639-3.JNS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.JOB"
+msgstr "Joruba"
+
+msgid "ISO_639-3.JOS"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.JOW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japansk"
+
+msgid "ISO_639-3.JPR"
+msgstr "persisk; nypersisk; farsi"
+
+msgid "ISO_639-3.JRA"
+msgstr "Marathi"
+
+msgid "ISO_639-3.JRB"
+msgstr "arabisk"
+
+msgid "ISO_639-3.JSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japansk"
+
+msgid "ISO_639-3.JUL"
+msgstr "Tigré"
+
+msgid "ISO_639-3.JUN"
+msgstr "Sango"
+
+msgid "ISO_639-3.JUS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.JUT"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.JVD"
+msgstr "Manx"
+
+msgid "ISO_639-3.JVN"
+msgstr "Javanesisk"
+
+msgid "ISO_639-3.JYE"
+msgstr "arabisk"
+
+msgid "ISO_639-3.KAD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KAF"
+msgstr "Yao"
+
+msgid "ISO_639-3.KAG"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.KAK"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.KAL"
+msgstr "Grønlandsk"
+
+msgid "ISO_639-3.KAN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KAS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KAT"
+msgstr "Georgisk"
+
+msgid "ISO_639-3.KAX"
+msgstr "Yao"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KBA"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KBI"
+msgstr "Latin"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.KBP"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KBQ"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.KBR"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KBS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KBT"
+msgstr "Akkadisk"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.KBY"
+msgstr "Marathi"
+
+msgid "ISO_639-3.KCB"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KCE"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KCK"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.KCP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.KCS"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KCT"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.KCU"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.KCY"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KDA"
+msgstr "Komi"
+
+msgid "ISO_639-3.KDC"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KDE"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.KDF"
+msgstr "Masai"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.KDM"
+msgstr "Komi"
+
+msgid "ISO_639-3.KDN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KDR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.KDT"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KDU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KDW"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KDY"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KEA"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.KED"
+msgstr "Hebraisk"
+
+msgid "ISO_639-3.KEG"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.KEH"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KEM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.KEN"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KER"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KES"
+msgstr "Ibo"
+
+msgid "ISO_639-3.KEU"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.KEY"
+msgstr "Inupiak"
+
+msgid "ISO_639-3.KFA"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KFB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.KFD"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.KFF"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KFG"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KFH"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KFI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KFP"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KFR"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KFS"
+msgstr "Bihari"
+
+msgid "ISO_639-3.KFU"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.KFW"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.KFX"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.KFY"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.KGE"
+msgstr "Komi"
+
+msgid "ISO_639-3.KGI"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.KGL"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.KGN"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.KGP"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.KHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHE"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KHF"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KHG"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.KHK"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.KHM"
+msgstr "Santali"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.KHS"
+msgstr "Masai"
+
+msgid "ISO_639-3.KHT"
+msgstr "Thai"
+
+msgid "ISO_639-3.KHV"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.KHX"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.KIB"
+msgstr "Somali"
+
+msgid "ISO_639-3.KID"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.KIE"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.KIH"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KIK"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KIL"
+msgstr "Oriya"
+
+msgid "ISO_639-3.KIM"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.KIR"
+msgstr "Kirgisisk"
+
+msgid "ISO_639-3.KIS"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KIU"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.KIW"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KIX"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.KJA"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.KJD"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.KJG"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KJR"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KJV"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.KJX"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.KJY"
+msgstr "Oriya"
+
+msgid "ISO_639-3.KKA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KKD"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KKF"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.KKI"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KKJ"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KKK"
+msgstr "Dakota"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KKT"
+msgstr "Komi"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamil"
+
+msgid "ISO_639-3.KKV"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KKX"
+msgstr "Komi"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Masai"
+
+msgid "ISO_639-3.KLG"
+msgstr "Filipino"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Fleire språk"
+
+msgid "ISO_639-3.KLL"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.KLM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.KLP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KLS"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KLW"
+msgstr "Latin"
+
+msgid "ISO_639-3.KLY"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.KMA"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KMC"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.KMD"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.KMH"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.KML"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.KMO"
+msgstr "Komi"
+
+msgid "ISO_639-3.KMR"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.KMU"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KMY"
+msgstr "Komi"
+
+msgid "ISO_639-3.KNC"
+msgstr "Santali"
+
+msgid "ISO_639-3.KND"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KNE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KNF"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.KNI"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KNK"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KNM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KNN"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.KNP"
+msgstr "Setswana"
+
+msgid "ISO_639-3.KNR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KOC"
+msgstr "Latin"
+
+msgid "ISO_639-3.KOD"
+msgstr "Komi"
+
+msgid "ISO_639-3.KOK"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KOM"
+msgstr "Komi"
+
+msgid "ISO_639-3.KOO"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KOR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KOT"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.KOU"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KPD"
+msgstr "Joruba"
+
+msgid "ISO_639-3.KPF"
+msgstr "Komi"
+
+msgid "ISO_639-3.KPI"
+msgstr "Komi"
+
+msgid "ISO_639-3.KPK"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KPL"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.KPR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KPS"
+msgstr "Thai"
+
+msgid "ISO_639-3.KPT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KPY"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KQB"
+msgstr "Komi"
+
+msgid "ISO_639-3.KQE"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.KQG"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KQH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQJ"
+msgstr "Komi"
+
+msgid "ISO_639-3.KQM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KQN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQO"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KQS"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.KQW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQY"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KRA"
+msgstr "Somali"
+
+msgid "ISO_639-3.KRE"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.KRH"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.KRK"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KRL"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KRN"
+msgstr "Sango"
+
+msgid "ISO_639-3.KRT"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.KRV"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KRW"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Ossetisk"
+
+msgid "ISO_639-3.KSC"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.KSD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSE"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KSI"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KSK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KSM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.KSN"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KSO"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KSP"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.KSQ"
+msgstr "Komi"
+
+msgid "ISO_639-3.KSR"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.KSS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.KSV"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KSX"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KTA"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.KTD"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KTE"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.KTF"
+msgstr "Komi"
+
+msgid "ISO_639-3.KTH"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KTK"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KTM"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KTS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.KTV"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KUC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.KUF"
+msgstr "Telugu"
+
+msgid "ISO_639-3.KUH"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KUN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.KUR"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KUV"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.KVB"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KVC"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.KVH"
+msgstr "Komi"
+
+msgid "ISO_639-3.KVI"
+msgstr "Sango"
+
+msgid "ISO_639-3.KVK"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.KVP"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KVV"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KVW"
+msgstr "Persisk"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.KWH"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Setswana"
+
+msgid "ISO_639-3.KWL"
+msgstr "Afar"
+
+msgid "ISO_639-3.KWM"
+msgstr "Komi"
+
+msgid "ISO_639-3.KWN"
+msgstr "Santali"
+
+msgid "ISO_639-3.KWO"
+msgstr "Komi"
+
+msgid "ISO_639-3.KWP"
+msgstr "Komi"
+
+msgid "ISO_639-3.KWR"
+msgstr "Khmer"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.KXA"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KXC"
+msgstr "Komi"
+
+msgid "ISO_639-3.KXJ"
+msgstr "Nepali"
+
+msgid "ISO_639-3.KXM"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.KXN"
+msgstr "Santali"
+
+msgid "ISO_639-3.KXP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KXT"
+msgstr "Komi"
+
+msgid "ISO_639-3.KXW"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Herero"
+
+msgid "ISO_639-3.KYL"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.KYM"
+msgstr "Nepali"
+
+msgid "ISO_639-3.KYN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.KYP"
+msgstr "Sango"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Bengali"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.KYU"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KYW"
+msgstr "Somali"
+
+msgid "ISO_639-3.KYY"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KZA"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.KZD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KZE"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KZG"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KZK"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.KZL"
+msgstr "Pali"
+
+msgid "ISO_639-3.KZM"
+msgstr "Dansk"
+
+msgid "ISO_639-3.KZN"
+msgstr "Konkani"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.KZR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.KZX"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.LAA"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.LAB"
+msgstr "Latin"
+
+msgid "ISO_639-3.LAF"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LAG"
+msgstr "Sango"
+
+msgid "ISO_639-3.LAL"
+msgstr "Pali"
+
+msgid "ISO_639-3.LAN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.LAO"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LAR"
+msgstr "Marathi"
+
+msgid "ISO_639-3.LAT"
+msgstr "Latin"
+
+msgid "ISO_639-3.LAV"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.LAX"
+msgstr "Setswana"
+
+msgid "ISO_639-3.LAY"
+msgstr "Bihari"
+
+msgid "ISO_639-3.LBC"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.LBE"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LBF"
+msgstr "Finsk"
+
+msgid "ISO_639-3.LBG"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LBI"
+msgstr "Latin"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.LBK"
+msgstr "Santali"
+
+msgid "ISO_639-3.LBM"
+msgstr "Gondi"
+
+msgid "ISO_639-3.LBN"
+msgstr "Latin"
+
+msgid "ISO_639-3.LBO"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.LBS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LBT"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.LBW"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.LCL"
+msgstr "Bislama"
+
+msgid "ISO_639-3.LCM"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LCP"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.LDI"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.LDK"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.LDL"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LDM"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LDO"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LDP"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LEF"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.LEP"
+msgstr "Puechua"
+
+msgid "ISO_639-3.LEQ"
+msgstr "Bemba"
+
+msgid "ISO_639-3.LES"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.LEX"
+msgstr "Sango"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.LGL"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.LGR"
+msgstr "Sango"
+
+msgid "ISO_639-3.LGT"
+msgstr "Pali"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.LHM"
+msgstr "Komi"
+
+msgid "ISO_639-3.LHN"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LHT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LHU"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.LIA"
+msgstr "Santali"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LIM"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LIP"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.LIR"
+msgstr "Engelsk"
+
+msgid "ISO_639-3.LIT"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LIW"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamil"
+
+msgid "ISO_639-3.LJI"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LJP"
+msgstr "Sango"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.LKB"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.LKC"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.LKD"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LKI"
+msgstr "Latin"
+
+msgid "ISO_639-3.LKJ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LKM"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.LKN"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LKO"
+msgstr "Yao"
+
+msgid "ISO_639-3.LKS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.LKT"
+msgstr "Dakota"
+
+msgid "ISO_639-3.LKU"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.LLB"
+msgstr "Wolof"
+
+msgid "ISO_639-3.LLD"
+msgstr "Latin"
+
+msgid "ISO_639-3.LLH"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LLM"
+msgstr "Masai"
+
+msgid "ISO_639-3.LLO"
+msgstr "Khmer"
+
+msgid "ISO_639-3.LLP"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.LLQ"
+msgstr "Volapyk"
+
+msgid "ISO_639-3.LLS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LLU"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LLX"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maori"
+
+msgid "ISO_639-3.LMF"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.LMG"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LMI"
+msgstr "Komi"
+
+msgid "ISO_639-3.LMK"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LML"
+msgstr "Sango"
+
+msgid "ISO_639-3.LMY"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LMZ"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.LNB"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.LNH"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LNI"
+msgstr "Santali"
+
+msgid "ISO_639-3.LNL"
+msgstr "Santali"
+
+msgid "ISO_639-3.LNS"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LNU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LNW"
+msgstr "Pali"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.LOH"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.LOJ"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LOO"
+msgstr "Oromo"
+
+msgid "ISO_639-3.LOS"
+msgstr "Gondi"
+
+msgid "ISO_639-3.LOV"
+msgstr "Koptisk"
+
+msgid "ISO_639-3.LPN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.LRA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.LRC"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.LRE"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.LRI"
+msgstr "Marathi"
+
+msgid "ISO_639-3.LRL"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRM"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.LRN"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.LRO"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.LRR"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Komi"
+
+msgid "ISO_639-3.LSD"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LSG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LSH"
+msgstr "Irsk"
+
+msgid "ISO_639-3.LSI"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.LSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LSM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LSO"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LSP"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LSS"
+msgstr "Masai"
+
+msgid "ISO_639-3.LST"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LSY"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.LTN"
+msgstr "Latin"
+
+msgid "ISO_639-3.LTO"
+msgstr "Oromo"
+
+msgid "ISO_639-3.LTS"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.LTU"
+msgstr "Latin"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Luxembourgsk"
+
+msgid "ISO_639-3.LUD"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LUF"
+msgstr "Hausa"
+
+msgid "ISO_639-3.LUO"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.LUR"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.LUV"
+msgstr "Latin"
+
+msgid "ISO_639-3.LUW"
+msgstr "Baltiske språk"
+
+msgid "ISO_639-3.LUZ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.LVS"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.LWG"
+msgstr "Sango"
+
+msgid "ISO_639-3.LWH"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.LWM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.LYA"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.LYN"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.LZH"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.LZN"
+msgstr "Navaho"
+
+msgid "ISO_639-3.LZZ"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.MAF"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MAH"
+msgstr "Marshallesisk"
+
+msgid "ISO_639-3.MAL"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MAM"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MAR"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MAS"
+msgstr "Masai"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Santali"
+
+msgid "ISO_639-3.MBC"
+msgstr "Masai"
+
+msgid "ISO_639-3.MBE"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MBF"
+msgstr "algonkin"
+
+msgid "ISO_639-3.MBK"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MBP"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Masai"
+
+msgid "ISO_639-3.MBS"
+msgstr "algonkin"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MCA"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MCI"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Manx"
+
+msgid "ISO_639-3.MCN"
+msgstr "Masai"
+
+msgid "ISO_639-3.MCP"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MCQ"
+msgstr "Ewe"
+
+msgid "ISO_639-3.MCS"
+msgstr "Masai"
+
+msgid "ISO_639-3.MCT"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MCY"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Manx"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDG"
+msgstr "Masai"
+
+msgid "ISO_639-3.MDH"
+msgstr "Manx"
+
+msgid "ISO_639-3.MDL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.MDN"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MDP"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MDW"
+msgstr "Masai"
+
+msgid "ISO_639-3.MDX"
+msgstr "Bihari"
+
+msgid "ISO_639-3.MEC"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MED"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MEH"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.MEL"
+msgstr "Santali"
+
+msgid "ISO_639-3.MEM"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MES"
+msgstr "Masai"
+
+msgid "ISO_639-3.MET"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MFA"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MFB"
+msgstr "Bengali"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Nepali"
+
+msgid "ISO_639-3.MFH"
+msgstr "Santali"
+
+msgid "ISO_639-3.MFK"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.MFL"
+msgstr "Pali"
+
+msgid "ISO_639-3.MFP"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MFQ"
+msgstr "Joruba"
+
+msgid "ISO_639-3.MFR"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MFS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.MFW"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.MFY"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.MGA"
+msgstr "Middelirsk (900–1200)"
+
+msgid "ISO_639-3.MGB"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Sango"
+
+msgid "ISO_639-3.MGF"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MGG"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Armensk"
+
+msgid "ISO_639-3.MGK"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MGN"
+msgstr "Manx"
+
+msgid "ISO_639-3.MGP"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MGS"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.MGT"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MGU"
+msgstr "Tamil"
+
+msgid "ISO_639-3.MGV"
+msgstr "Sango"
+
+msgid "ISO_639-3.MHF"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MHG"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.MHI"
+msgstr "Masai"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MHK"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.MHL"
+msgstr "Arawak"
+
+msgid "ISO_639-3.MHP"
+msgstr "Balinesisk"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.MHT"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MHX"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.MHY"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MHZ"
+msgstr "Tongansk"
+
+msgid "ISO_639-3.MIA"
+msgstr "Tamil"
+
+msgid "ISO_639-3.MIC"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MID"
+msgstr "Masai"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Afar"
+
+msgid "ISO_639-3.MIK"
+msgstr "Masai"
+
+msgid "ISO_639-3.MIS"
+msgstr "Fleire språk"
+
+msgid "ISO_639-3.MIT"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.MJB"
+msgstr "Masai"
+
+msgid "ISO_639-3.MJH"
+msgstr "Tonga"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Arawak"
+
+msgid "ISO_639-3.MJK"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.MJL"
+msgstr "Santali"
+
+msgid "ISO_639-3.MJP"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MJR"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.MJV"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MJW"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.MJX"
+msgstr "Masai"
+
+msgid "ISO_639-3.MJY"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MKA"
+msgstr "Hebraisk"
+
+msgid "ISO_639-3.MKB"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MKD"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MKE"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MKF"
+msgstr "Oriya"
+
+msgid "ISO_639-3.MKI"
+msgstr "Thai"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MKR"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MKV"
+msgstr "algonkin"
+
+msgid "ISO_639-3.MKY"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Masai"
+
+msgid "ISO_639-3.MLA"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MLC"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.MLE"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MLF"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MLG"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MLH"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.MLK"
+msgstr "Setswana"
+
+msgid "ISO_639-3.MLL"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MLM"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MLN"
+msgstr "Sango"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.MLS"
+msgstr "Masai"
+
+msgid "ISO_639-3.MLT"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MLV"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.MLX"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MMA"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MMB"
+msgstr "Komi"
+
+msgid "ISO_639-3.MMD"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MME"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MMI"
+msgstr "Masai"
+
+msgid "ISO_639-3.MMM"
+msgstr "Masai"
+
+msgid "ISO_639-3.MMN"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.MMO"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MMP"
+msgstr "Somali"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Masai"
+
+msgid "ISO_639-3.MMR"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.MMT"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MMU"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MMV"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MMX"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MMZ"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MNA"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MNC"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MNE"
+msgstr "Navaho"
+
+msgid "ISO_639-3.MNF"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MNI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MNJ"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.MNL"
+msgstr "Tigré"
+
+msgid "ISO_639-3.MNM"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MNN"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.MNP"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.MNS"
+msgstr "Masai"
+
+msgid "ISO_639-3.MNY"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOA"
+msgstr "Manx"
+
+msgid "ISO_639-3.MOD"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.MOG"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Manx"
+
+msgid "ISO_639-3.MON"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOX"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MPC"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MPD"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.MPE"
+msgstr "Manx"
+
+msgid "ISO_639-3.MPG"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MPH"
+msgstr "Manx"
+
+msgid "ISO_639-3.MPN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MPT"
+msgstr "Manx"
+
+msgid "ISO_639-3.MPV"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.MPW"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MPY"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.MQC"
+msgstr "Sango"
+
+msgid "ISO_639-3.MQE"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Masai"
+
+msgid "ISO_639-3.MQM"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.MQP"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MQR"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.MQS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.MQU"
+msgstr "Masai"
+
+msgid "ISO_639-3.MQY"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.MRG"
+msgstr "Masai"
+
+msgid "ISO_639-3.MRH"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.MRP"
+msgstr "Joruba"
+
+msgid "ISO_639-3.MRQ"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.MRS"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Manx"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Manx"
+
+msgid "ISO_639-3.MSD"
+msgstr "algonkin"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSH"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MSK"
+msgstr "Masai"
+
+msgid "ISO_639-3.MSL"
+msgstr "algonkin"
+
+msgid "ISO_639-3.MSR"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.MSS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.MSV"
+msgstr "Masai"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.MTC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MTD"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MTE"
+msgstr "Tongansk"
+
+msgid "ISO_639-3.MTJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.MTL"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MTR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTS"
+msgstr "Joruba"
+
+msgid "ISO_639-3.MTT"
+msgstr "Dakota"
+
+msgid "ISO_639-3.MTW"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.MTY"
+msgstr "Nepali"
+
+msgid "ISO_639-3.MUA"
+msgstr "Munda"
+
+msgid "ISO_639-3.MUC"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MUI"
+msgstr "Masai"
+
+msgid "ISO_639-3.MUL"
+msgstr "Fleire språk"
+
+msgid "ISO_639-3.MUM"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MUP"
+msgstr "Pali"
+
+msgid "ISO_639-3.MUT"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.MUX"
+msgstr "Sango"
+
+msgid "ISO_639-3.MUY"
+msgstr "Manx"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Masai"
+
+msgid "ISO_639-3.MVA"
+msgstr "Manx"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVF"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVR"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MVS"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MVU"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Avestisk"
+
+msgid "ISO_639-3.MWI"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.MWL"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.MWO"
+msgstr "Santali"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Bengali"
+
+msgid "ISO_639-3.MWV"
+msgstr "Masai"
+
+msgid "ISO_639-3.MWX"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.MXD"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.MXF"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MXG"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.MXR"
+msgstr "Russisk"
+
+msgid "ISO_639-3.MXW"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.MXX"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MXY"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.MXZ"
+msgstr "Santali"
+
+msgid "ISO_639-3.MYA"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.MYB"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MYF"
+msgstr "Bemba"
+
+msgid "ISO_639-3.MYG"
+msgstr "Santali"
+
+msgid "ISO_639-3.MYH"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.MYL"
+msgstr "Somali"
+
+msgid "ISO_639-3.MYR"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MYS"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.MYV"
+msgstr "Oriya"
+
+msgid "ISO_639-3.MYX"
+msgstr "Masai"
+
+msgid "ISO_639-3.MYY"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.MZC"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.MZD"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.MZE"
+msgstr "Arawak"
+
+msgid "ISO_639-3.MZG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Manx"
+
+msgid "ISO_639-3.MZP"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.MZS"
+msgstr "Javanesisk"
+
+msgid "ISO_639-3.MZV"
+msgstr "Manx"
+
+msgid "ISO_639-3.MZX"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.MZY"
+msgstr "Osmanske språk"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.NAB"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NAC"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NAL"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NAN"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.NAP"
+msgstr "Napolitansk"
+
+msgid "ISO_639-3.NAS"
+msgstr "Navaho"
+
+msgid "ISO_639-3.NAU"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NAV"
+msgstr "Navaho"
+
+msgid "ISO_639-3.NAW"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NBA"
+msgstr "Bemba"
+
+msgid "ISO_639-3.NBC"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.NBL"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.NBN"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.NBS"
+msgstr "Nubiske språk"
+
+msgid "ISO_639-3.NBU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBW"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NCA"
+msgstr "Ido"
+
+msgid "ISO_639-3.NCB"
+msgstr "Santali"
+
+msgid "ISO_639-3.NCC"
+msgstr "Shona"
+
+msgid "ISO_639-3.NCE"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.NCH"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.NCJ"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.NCN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NCS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.NDA"
+msgstr "Masai"
+
+msgid "ISO_639-3.NDC"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NDF"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.NDH"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NDL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.NDN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.NDP"
+msgstr "Ido"
+
+msgid "ISO_639-3.NDS"
+msgstr "Armensk"
+
+msgid "ISO_639-3.NDV"
+msgstr "Urdu"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vietnamesisk"
+
+msgid "ISO_639-3.NEG"
+msgstr "Norsk"
+
+msgid "ISO_639-3.NEI"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.NEK"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.NEM"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NEP"
+msgstr "Konkani"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Santali"
+
+msgid "ISO_639-3.NER"
+msgstr "Akkadisk"
+
+msgid "ISO_639-3.NEU"
+msgstr "Ido"
+
+msgid "ISO_639-3.NEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.NFA"
+msgstr "Dakota"
+
+msgid "ISO_639-3.NFD"
+msgstr "Thai"
+
+msgid "ISO_639-3.NGB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.NGE"
+msgstr "Bemba"
+
+msgid "ISO_639-3.NGK"
+msgstr "Yao"
+
+msgid "ISO_639-3.NGO"
+msgstr "Gondi"
+
+msgid "ISO_639-3.NGP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.NGY"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.NHA"
+msgstr "Santali"
+
+msgid "ISO_639-3.NHB"
+msgstr "Bengali"
+
+msgid "ISO_639-3.NHE"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NHH"
+msgstr "Bihari"
+
+msgid "ISO_639-3.NHN"
+msgstr "Santali"
+
+msgid "ISO_639-3.NHO"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.NHR"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NHW"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NHY"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.NIB"
+msgstr "Masai"
+
+msgid "ISO_639-3.NIE"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NIH"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NIK"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.NIM"
+msgstr "Bislama"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.NIT"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NIX"
+msgstr "Bemba"
+
+msgid "ISO_639-3.NJI"
+msgstr "Guarani"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.NJN"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.NJX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.NKB"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.NKD"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.NKG"
+msgstr "Norsk"
+
+msgid "ISO_639-3.NKI"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Masai"
+
+msgid "ISO_639-3.NKT"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.NKU"
+msgstr "Sango"
+
+msgid "ISO_639-3.NKW"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.NLG"
+msgstr "Ga"
+
+msgid "ISO_639-3.NLI"
+msgstr "Santali"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NLL"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Navaho"
+
+msgid "ISO_639-3.NLW"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.NLX"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Pali"
+
+msgid "ISO_639-3.NMA"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.NMB"
+msgstr "Bemba"
+
+msgid "ISO_639-3.NMD"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.NMG"
+msgstr "Thai"
+
+msgid "ISO_639-3.NMK"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NML"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NMM"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.NMP"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NMR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.NNG"
+msgstr "Maori"
+
+msgid "ISO_639-3.NNL"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norsk (nynorsk)"
+
+msgid "ISO_639-3.NNR"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NNU"
+msgstr "Sango"
+
+msgid "ISO_639-3.NNW"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norsk (bokmål)"
+
+msgid "ISO_639-3.NOD"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.NOF"
+msgstr "Romani"
+
+msgid "ISO_639-3.NOI"
+msgstr "Maori"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Navaho"
+
+msgid "ISO_639-3.NOL"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.NON"
+msgstr "Norrønt"
+
+msgid "ISO_639-3.NOR"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NPA"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NPG"
+msgstr "Navaho"
+
+msgid "ISO_639-3.NPI"
+msgstr "algonkin"
+
+msgid "ISO_639-3.NPN"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.NPS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.NPY"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NQG"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NQO"
+msgstr "Komi"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NQY"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NRB"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NRC"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.NRE"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.NRG"
+msgstr "Sango"
+
+msgid "ISO_639-3.NRL"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NRM"
+msgstr "Oromo"
+
+msgid "ISO_639-3.NRN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.NRT"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NRU"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NRX"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.NSA"
+msgstr "Sango"
+
+msgid "ISO_639-3.NSD"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NSE"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NSF"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NSG"
+msgstr "Masai"
+
+msgid "ISO_639-3.NSI"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.NSK"
+msgstr "Masai"
+
+msgid "ISO_639-3.NSL"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.NSP"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.NSQ"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.NSR"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.NSS"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NSV"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NSW"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NSX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NSY"
+msgstr "Masai"
+
+msgid "ISO_639-3.NTD"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.NTG"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.NTP"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.NTX"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.NTY"
+msgstr "Fanti"
+
+msgid "ISO_639-3.NUA"
+msgstr "Sango"
+
+msgid "ISO_639-3.NUD"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.NUF"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NUG"
+msgstr "Bengali"
+
+msgid "ISO_639-3.NUS"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NUV"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.NVH"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.NWI"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.NWR"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NXI"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NXL"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.NXM"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NXU"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NXX"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.NYA"
+msgstr "Santali"
+
+msgid "ISO_639-3.NYB"
+msgstr "Sango"
+
+msgid "ISO_639-3.NYC"
+msgstr "Bengali"
+
+msgid "ISO_639-3.NYF"
+msgstr "Tysk"
+
+msgid "ISO_639-3.NYH"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.NYR"
+msgstr "Nepali"
+
+msgid "ISO_639-3.NZS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.OAA"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OAC"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OAR"
+msgstr "Norrønt"
+
+msgid "ISO_639-3.OBK"
+msgstr "Sørsotho"
+
+msgid "ISO_639-3.OBR"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.OCH"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.OCI"
+msgstr "Oksitansk (etter 1500)"
+
+msgid "ISO_639-3.OCO"
+msgstr "Kornisk"
+
+msgid "ISO_639-3.ODA"
+msgstr "Urdu"
+
+msgid "ISO_639-3.OFS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.OGB"
+msgstr "Oriya"
+
+msgid "ISO_639-3.OGE"
+msgstr "Georgisk"
+
+msgid "ISO_639-3.OGO"
+msgstr "Kannada"
+
+msgid "ISO_639-3.OHT"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.OHU"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.OJB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.OJC"
+msgstr "Santali"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japansk"
+
+msgid "ISO_639-3.OJW"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.OKB"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OKG"
+msgstr "Sango"
+
+msgid "ISO_639-3.OKK"
+msgstr "Komi"
+
+msgid "ISO_639-3.OKL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.OKM"
+msgstr "Mellomfransk (ca. 1400–1600)"
+
+msgid "ISO_639-3.OKO"
+msgstr "Mellomfransk (ca. 1400–1600)"
+
+msgid "ISO_639-3.OKR"
+msgstr "Kirgisisk"
+
+msgid "ISO_639-3.OKV"
+msgstr "Kroatisk"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maori"
+
+msgid "ISO_639-3.OLM"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OLR"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OLT"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.OMC"
+msgstr "Gotisk"
+
+msgid "ISO_639-3.OMK"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OML"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OMN"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.OMP"
+msgstr "Maori"
+
+msgid "ISO_639-3.OMR"
+msgstr "Marathi"
+
+msgid "ISO_639-3.OMW"
+msgstr "Norrønt"
+
+msgid "ISO_639-3.ONB"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.ONP"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.ONR"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ONW"
+msgstr "Persisk"
+
+msgid "ISO_639-3.OOS"
+msgstr "Norrønt"
+
+msgid "ISO_639-3.OPT"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.ORA"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORC"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORG"
+msgstr "Oriya"
+
+msgid "ISO_639-3.ORI"
+msgstr "Konkani"
+
+msgid "ISO_639-3.ORM"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORO"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORR"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORT"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.ORV"
+msgstr "Russisk"
+
+msgid "ISO_639-3.ORX"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORY"
+msgstr "Oriya"
+
+msgid "ISO_639-3.ORZ"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OSC"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.OSI"
+msgstr "Ossetisk"
+
+msgid "ISO_639-3.OSO"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OSP"
+msgstr "Dansk"
+
+msgid "ISO_639-3.OSS"
+msgstr "Russisk"
+
+msgid "ISO_639-3.OSU"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.OSX"
+msgstr "Norrønt"
+
+msgid "ISO_639-3.OTA"
+msgstr "Tyrkisk (1500–1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.OTD"
+msgstr "Ossetisk"
+
+msgid "ISO_639-3.OTK"
+msgstr "Osmanske språk"
+
+msgid "ISO_639-3.OTR"
+msgstr "Oromo"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.OUI"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.OWL"
+msgstr "Walisisk"
+
+msgid "ISO_639-3.OYD"
+msgstr "Oriya"
+
+msgid "ISO_639-3.PAH"
+msgstr "Thai"
+
+msgid "ISO_639-3.PAN"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PAO"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PAP"
+msgstr "Papiamento"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Oriya"
+
+msgid "ISO_639-3.PAR"
+msgstr "Papiamento"
+
+msgid "ISO_639-3.PAS"
+msgstr "Papiamento"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.PAY"
+msgstr "Tsjekkisk"
+
+msgid "ISO_639-3.PBO"
+msgstr "Pali"
+
+msgid "ISO_639-3.PBP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.PBS"
+msgstr "Santali"
+
+msgid "ISO_639-3.PBT"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PBU"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PCF"
+msgstr "Pali"
+
+msgid "ISO_639-3.PCG"
+msgstr "Pali"
+
+msgid "ISO_639-3.PCH"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bengali"
+
+msgid "ISO_639-3.PCL"
+msgstr "Marathi"
+
+msgid "ISO_639-3.PCM"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PDI"
+msgstr "Pali"
+
+msgid "ISO_639-3.PDN"
+msgstr "Fønikisk"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.PEE"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.PEF"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PEG"
+msgstr "Sango"
+
+msgid "ISO_639-3.PEH"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.PEJ"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PEK"
+msgstr "Fransk"
+
+msgid "ISO_639-3.PEL"
+msgstr "Pali"
+
+msgid "ISO_639-3.PEO"
+msgstr "Gammalpersisk (ca. 600–400 f.Kr.)"
+
+msgid "ISO_639-3.PEP"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PEQ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PES"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.PFL"
+msgstr "Polsk"
+
+msgid "ISO_639-3.PGG"
+msgstr "Santali"
+
+msgid "ISO_639-3.PGI"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PHH"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.PHN"
+msgstr "Fønikisk"
+
+msgid "ISO_639-3.PHO"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PHT"
+msgstr "Thai"
+
+msgid "ISO_639-3.PHV"
+msgstr "Pali"
+
+msgid "ISO_639-3.PIC"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PII"
+msgstr "Hindi"
+
+msgid "ISO_639-3.PIL"
+msgstr "Yao"
+
+msgid "ISO_639-3.PIM"
+msgstr "Kroatisk"
+
+msgid "ISO_639-3.PIN"
+msgstr "Papiamento"
+
+msgid "ISO_639-3.PIP"
+msgstr "Herero"
+
+msgid "ISO_639-3.PIS"
+msgstr "Fijiansk"
+
+msgid "ISO_639-3.PIV"
+msgstr "Pali"
+
+msgid "ISO_639-3.PKB"
+msgstr "Oromo"
+
+msgid "ISO_639-3.PKH"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.PKS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PKT"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.PLA"
+msgstr "Manx"
+
+msgid "ISO_639-3.PLC"
+msgstr "Santali"
+
+msgid "ISO_639-3.PLD"
+msgstr "Polsk"
+
+msgid "ISO_639-3.PLE"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLH"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLI"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Polsk"
+
+msgid "ISO_639-3.PLP"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLT"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.PLU"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.PMB"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PMF"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.PMI"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PMJ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PMK"
+msgstr "Pali"
+
+msgid "ISO_639-3.PMM"
+msgstr "Oromo"
+
+msgid "ISO_639-3.PMQ"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vietnamesisk"
+
+msgid "ISO_639-3.PMT"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.PMY"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.PMZ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PNB"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.PNC"
+msgstr "Pali"
+
+msgid "ISO_639-3.PNE"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PNK"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.PNL"
+msgstr "Pali"
+
+msgid "ISO_639-3.PNR"
+msgstr "Pali"
+
+msgid "ISO_639-3.PNS"
+msgstr "Konkani"
+
+msgid "ISO_639-3.PNT"
+msgstr "Gotisk"
+
+msgid "ISO_639-3.PNX"
+msgstr "Fønikisk"
+
+msgid "ISO_639-3.POC"
+msgstr "Shona"
+
+msgid "ISO_639-3.POL"
+msgstr "Polsk"
+
+msgid "ISO_639-3.POM"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PON"
+msgstr "Ponapisk"
+
+msgid "ISO_639-3.POO"
+msgstr "Santali"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugisisk"
+
+msgid "ISO_639-3.POX"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.PPE"
+msgstr "Pali"
+
+msgid "ISO_639-3.PPI"
+msgstr "Pali"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Persisk"
+
+msgid "ISO_639-3.PRC"
+msgstr "Marathi"
+
+msgid "ISO_639-3.PRF"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.PRG"
+msgstr "Persisk"
+
+msgid "ISO_639-3.PRI"
+msgstr "Pali"
+
+msgid "ISO_639-3.PRL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PRM"
+msgstr "Kirgisisk"
+
+msgid "ISO_639-3.PRO"
+msgstr "Gammalprovencalsk (til 1500)"
+
+msgid "ISO_639-3.PRP"
+msgstr "Pali"
+
+msgid "ISO_639-3.PRT"
+msgstr "Pali"
+
+msgid "ISO_639-3.PRU"
+msgstr "Guarani"
+
+msgid "ISO_639-3.PRZ"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PSC"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PSE"
+msgstr "Santali"
+
+msgid "ISO_639-3.PSG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PSH"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PSI"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.PSL"
+msgstr "Osmanske språk"
+
+msgid "ISO_639-3.PSM"
+msgstr "Hausa"
+
+msgid "ISO_639-3.PSO"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PSP"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Pali"
+
+msgid "ISO_639-3.PSR"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PST"
+msgstr "Santali"
+
+msgid "ISO_639-3.PTN"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.PTU"
+msgstr "Bemba"
+
+msgid "ISO_639-3.PTY"
+msgstr "Persisk"
+
+msgid "ISO_639-3.PUB"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.PUO"
+msgstr "Pashto"
+
+msgid "ISO_639-3.PUP"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.PUS"
+msgstr "Pashto"
+
+msgid "ISO_639-3.PUT"
+msgstr "Pashto"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugisisk"
+
+msgid "ISO_639-3.PUX"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.PWA"
+msgstr "Pali"
+
+msgid "ISO_639-3.PWB"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.PWN"
+msgstr "Papiamento"
+
+msgid "ISO_639-3.PWO"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.PWR"
+msgstr "Pali"
+
+msgid "ISO_639-3.PWW"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.PYS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.PZN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.QUC"
+msgstr "Khmer"
+
+msgid "ISO_639-3.QUE"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QUI"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.QUP"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.QUX"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QUY"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QVP"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QVY"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QVZ"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.QXC"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QXP"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Masai"
+
+msgid "ISO_639-3.QXS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.QYA"
+msgstr "Puechua"
+
+msgid "ISO_639-3.QYP"
+msgstr "Marathi"
+
+msgid "ISO_639-3.RAA"
+msgstr "Bengali"
+
+msgid "ISO_639-3.RAF"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.RAG"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.RAI"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.RAJ"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.RAL"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RAO"
+msgstr "Yao"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.RAR"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.RAS"
+msgstr "Bengali"
+
+msgid "ISO_639-3.RAV"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.RAX"
+msgstr "Sango"
+
+msgid "ISO_639-3.RBK"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.RDB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.REG"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.REI"
+msgstr "Nepali"
+
+msgid "ISO_639-3.REL"
+msgstr "Rundi"
+
+msgid "ISO_639-3.REN"
+msgstr "Bengali"
+
+msgid "ISO_639-3.RES"
+msgstr "Walisisk"
+
+msgid "ISO_639-3.RGA"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RGS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.RHG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.RIM"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.RIN"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.RIR"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RIU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RJI"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.RJS"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.RKI"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.RKM"
+msgstr "Marathi"
+
+msgid "ISO_639-3.RKT"
+msgstr "Maori"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMG"
+msgstr "Norsk"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.RMK"
+msgstr "Romani"
+
+msgid "ISO_639-3.RML"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.RMT"
+msgstr "Somali"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMX"
+msgstr "Romani"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Marathi"
+
+msgid "ISO_639-3.RND"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.RNL"
+msgstr "Sango"
+
+msgid "ISO_639-3.RNN"
+msgstr "Romani"
+
+msgid "ISO_639-3.RNR"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.ROF"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ROG"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ROH"
+msgstr "Romani"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.ROM"
+msgstr "Romani"
+
+msgid "ISO_639-3.RON"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.ROR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ROU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RPT"
+msgstr "Latin"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RSI"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.RSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.RSM"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.RTC"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.RTM"
+msgstr "Romani"
+
+msgid "ISO_639-3.RTS"
+msgstr "Burmesisk"
+
+msgid "ISO_639-3.RTW"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.RUC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RUE"
+msgstr "Russisk"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RUK"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.RUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.RUS"
+msgstr "Russisk"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Romani"
+
+msgid "ISO_639-3.RWO"
+msgstr "Arawak"
+
+msgid "ISO_639-3.RXD"
+msgstr "Bihari"
+
+msgid "ISO_639-3.RXW"
+msgstr "Guarani"
+
+msgid "ISO_639-3.RYN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.RYU"
+msgstr "Santali"
+
+msgid "ISO_639-3.SAA"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SAC"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAE"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SAF"
+msgstr "Santali"
+
+msgid "ISO_639-3.SAG"
+msgstr "Sango"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.SAK"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SAM"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SAO"
+msgstr "Hausa"
+
+msgid "ISO_639-3.SAQ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.SAT"
+msgstr "Santali"
+
+msgid "ISO_639-3.SAU"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SAW"
+msgstr "Somali"
+
+msgid "ISO_639-3.SAY"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SBD"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SBE"
+msgstr "Somali"
+
+msgid "ISO_639-3.SBL"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.SBP"
+msgstr "Luo (Kenya og Tanzania)"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SBT"
+msgstr "Komi"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SBW"
+msgstr "Bemba"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SBY"
+msgstr "Somali"
+
+msgid "ISO_639-3.SCE"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.SCG"
+msgstr "Sango"
+
+msgid "ISO_639-3.SCH"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SCK"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SCL"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCN"
+msgstr "Siciliansk"
+
+msgid "ISO_639-3.SCV"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SDC"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SDF"
+msgstr "Somali"
+
+msgid "ISO_639-3.SDG"
+msgstr "Somali"
+
+msgid "ISO_639-3.SDH"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.SDK"
+msgstr "Rundi"
+
+msgid "ISO_639-3.SDL"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.SDN"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SDR"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SDU"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.SEA"
+msgstr "Somali"
+
+msgid "ISO_639-3.SED"
+msgstr "Sango"
+
+msgid "ISO_639-3.SEH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SEK"
+msgstr "Konkani"
+
+msgid "ISO_639-3.SEL"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SEO"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SET"
+msgstr "Santali"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Santali"
+
+msgid "ISO_639-3.SFE"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.SFS"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.SGA"
+msgstr "Gammalirsk (til 900)"
+
+msgid "ISO_639-3.SGB"
+msgstr "Fanti"
+
+msgid "ISO_639-3.SGD"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SGE"
+msgstr "Bengali"
+
+msgid "ISO_639-3.SGG"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SGK"
+msgstr "Sango"
+
+msgid "ISO_639-3.SGM"
+msgstr "Shona"
+
+msgid "ISO_639-3.SGP"
+msgstr "Sango"
+
+msgid "ISO_639-3.SGR"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SGS"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SGU"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.SGX"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SGY"
+msgstr "Santali"
+
+msgid "ISO_639-3.SHC"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHD"
+msgstr "Somali"
+
+msgid "ISO_639-3.SHE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHG"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHO"
+msgstr "Sango"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.SHR"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SHT"
+msgstr "Santali"
+
+msgid "ISO_639-3.SHU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SHW"
+msgstr "Thai"
+
+msgid "ISO_639-3.SHY"
+msgstr "Thai"
+
+msgid "ISO_639-3.SIA"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SIB"
+msgstr "Herero"
+
+msgid "ISO_639-3.SIF"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SIH"
+msgstr "Tigré"
+
+msgid "ISO_639-3.SIK"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SIN"
+msgstr "Sundanesisk"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SIR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.SIU"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SIV"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SIW"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SIX"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SIY"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SJD"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SJE"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SJK"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SJL"
+msgstr "Filipino"
+
+msgid "ISO_639-3.SJM"
+msgstr "Manx"
+
+msgid "ISO_639-3.SJN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SJP"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SJT"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SJU"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SJW"
+msgstr "Sundanesisk"
+
+msgid "ISO_639-3.SKB"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SKC"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.SKD"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.SKG"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SKM"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.SKP"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SKR"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SKS"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.SKT"
+msgstr "Dakota"
+
+msgid "ISO_639-3.SKU"
+msgstr "Sango"
+
+msgid "ISO_639-3.SKV"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SKY"
+msgstr "Akkadisk"
+
+msgid "ISO_639-3.SLE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SLF"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.SLH"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.SLI"
+msgstr "Lågtysk"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SLN"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.SLR"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.SLS"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.SLT"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SLU"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovensk"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.SMA"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SMB"
+msgstr "Bihari"
+
+msgid "ISO_639-3.SMC"
+msgstr "Somali"
+
+msgid "ISO_639-3.SMD"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SME"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.SMG"
+msgstr "Somali"
+
+msgid "ISO_639-3.SMH"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SMJ"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.SML"
+msgstr "Santali"
+
+msgid "ISO_639-3.SMM"
+msgstr "Masai"
+
+msgid "ISO_639-3.SMN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SMO"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SMP"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SMS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SMU"
+msgstr "Somali"
+
+msgid "ISO_639-3.SMX"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slovensk"
+
+msgid "ISO_639-3.SMZ"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SNA"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNI"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SNL"
+msgstr "Sango"
+
+msgid "ISO_639-3.SNM"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SNN"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNO"
+msgstr "Dansk"
+
+msgid "ISO_639-3.SNP"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SNR"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SNU"
+msgstr "Bengali"
+
+msgid "ISO_639-3.SNV"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SNX"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SNZ"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.SOA"
+msgstr "Thai"
+
+msgid "ISO_639-3.SOD"
+msgstr "Sango"
+
+msgid "ISO_639-3.SOH"
+msgstr "Akan"
+
+msgid "ISO_639-3.SOI"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Somali"
+
+msgid "ISO_639-3.SOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.SOM"
+msgstr "Somali"
+
+msgid "ISO_639-3.SOO"
+msgstr "Sango"
+
+msgid "ISO_639-3.SOP"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.SOR"
+msgstr "Somali"
+
+msgid "ISO_639-3.SOS"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SOT"
+msgstr "Sørsotho"
+
+msgid "ISO_639-3.SOU"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SOW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovakisk"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamil"
+
+msgid "ISO_639-3.SPA"
+msgstr "Dansk"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.SPD"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SPG"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SPI"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SPK"
+msgstr "Sango"
+
+msgid "ISO_639-3.SPL"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SPO"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SPS"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SPU"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SPV"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.SPX"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SQH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albansk"
+
+msgid "ISO_639-3.SQK"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SQM"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.SQS"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.SQU"
+msgstr "Dansk"
+
+msgid "ISO_639-3.SRB"
+msgstr "Shona"
+
+msgid "ISO_639-3.SRC"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SRD"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SRE"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SRF"
+msgstr "Nepali"
+
+msgid "ISO_639-3.SRH"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SRL"
+msgstr "Arawak"
+
+msgid "ISO_639-3.SRM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.SRO"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SRS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SRT"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SRV"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SRZ"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.SSB"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SSE"
+msgstr "Bengali"
+
+msgid "ISO_639-3.SSF"
+msgstr "Thai"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabisk"
+
+msgid "ISO_639-3.SSI"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SSK"
+msgstr "Shona"
+
+msgid "ISO_639-3.SSL"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.SSN"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.SSO"
+msgstr "Sango"
+
+msgid "ISO_639-3.SSP"
+msgstr "algonkin"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SSR"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SSY"
+msgstr "Shona"
+
+msgid "ISO_639-3.STB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.STG"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.STH"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.STK"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.STM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.STP"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.STS"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.STU"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SUA"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.SUB"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SUC"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.SUE"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SUG"
+msgstr "Sango"
+
+msgid "ISO_639-3.SUN"
+msgstr "Sundanesisk"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SUX"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.SVA"
+msgstr "Sango"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SVK"
+msgstr "Sorbisk"
+
+msgid "ISO_639-3.SVM"
+msgstr "Sango"
+
+msgid "ISO_639-3.SVX"
+msgstr "Slovensk"
+
+msgid "ISO_639-3.SWB"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SWE"
+msgstr "Svensk"
+
+msgid "ISO_639-3.SWF"
+msgstr "Herero"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SWK"
+msgstr "Santali"
+
+msgid "ISO_639-3.SWL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SWM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SWO"
+msgstr "Sango"
+
+msgid "ISO_639-3.SWS"
+msgstr "Kviterussisk"
+
+msgid "ISO_639-3.SWT"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SWW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SWY"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.SXB"
+msgstr "Joruba"
+
+msgid "ISO_639-3.SXC"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.SXE"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.SXK"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.SXN"
+msgstr "Sango"
+
+msgid "ISO_639-3.SXR"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SYA"
+msgstr "Sango"
+
+msgid "ISO_639-3.SYB"
+msgstr "Santali"
+
+msgid "ISO_639-3.SYI"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SYM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SYX"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.SYY"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.SZA"
+msgstr "Somali"
+
+msgid "ISO_639-3.SZD"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.SZL"
+msgstr "Siciliansk"
+
+msgid "ISO_639-3.SZN"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.SZP"
+msgstr "Sango"
+
+msgid "ISO_639-3.SZW"
+msgstr "Swahili"
+
+msgid "ISO_639-3.TAA"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TAD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TAE"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.TAG"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAH"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.TAJ"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAN"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAR"
+msgstr "Santali"
+
+msgid "ISO_639-3.TAT"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TAU"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TAW"
+msgstr "Thai"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TBA"
+msgstr "Akan"
+
+msgid "ISO_639-3.TBC"
+msgstr "Thai"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TBG"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.TBI"
+msgstr "Ga"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TBO"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TBP"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TBS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TBU"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TBX"
+msgstr "Latin"
+
+msgid "ISO_639-3.TBY"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TCC"
+msgstr "Dakota"
+
+msgid "ISO_639-3.TCD"
+msgstr "Thai"
+
+msgid "ISO_639-3.TCE"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.TCG"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TCO"
+msgstr "Sango"
+
+msgid "ISO_639-3.TCP"
+msgstr "Bengali"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.TCU"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.TCX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TCY"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Bengali"
+
+msgid "ISO_639-3.TDA"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TDG"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.TDH"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TDI"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TDN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TDS"
+msgstr "Dakota"
+
+msgid "ISO_639-3.TEC"
+msgstr "Tigré"
+
+msgid "ISO_639-3.TEH"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.TEK"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TEL"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TEO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TEQ"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TEY"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TFN"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TFO"
+msgstr "Afar"
+
+msgid "ISO_639-3.TFR"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TGB"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TGC"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Dansk"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.TGL"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TGN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TGO"
+msgstr "Sundanesisk"
+
+msgid "ISO_639-3.TGP"
+msgstr "Sango"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.TGR"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TGT"
+msgstr "Santali"
+
+msgid "ISO_639-3.TGU"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TGX"
+msgstr "Dansk"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.THA"
+msgstr "Thai"
+
+msgid "ISO_639-3.THE"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.THF"
+msgstr "Thai"
+
+msgid "ISO_639-3.THH"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.THM"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.THN"
+msgstr "Setswana"
+
+msgid "ISO_639-3.THS"
+msgstr "Thai"
+
+msgid "ISO_639-3.THT"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.THU"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.THW"
+msgstr "Thai"
+
+msgid "ISO_639-3.THY"
+msgstr "Thai"
+
+msgid "ISO_639-3.TIC"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TIG"
+msgstr "Tigré"
+
+msgid "ISO_639-3.TII"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TIJ"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TIK"
+msgstr "Tigré"
+
+msgid "ISO_639-3.TIM"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TIN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.TIP"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TIR"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.TIT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TIU"
+msgstr "Akan"
+
+msgid "ISO_639-3.TIX"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.TJA"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.TJI"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.TJL"
+msgstr "Thai"
+
+msgid "ISO_639-3.TJS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.TKB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TKE"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TKG"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.TKL"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TKM"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TKS"
+msgstr "Rajasthani"
+
+msgid "ISO_639-3.TKV"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.TKW"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TKX"
+msgstr "Sango"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.TLA"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.TLB"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TLD"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TLG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TLH"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.TLK"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TLL"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TLO"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TLR"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.TLS"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TLT"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.TLU"
+msgstr "Puechua"
+
+msgid "ISO_639-3.TLX"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.TMC"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.TMD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TMJ"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.TMK"
+msgstr "Nordsamisk"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.TMQ"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TMW"
+msgstr "Tysk"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TNA"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TNB"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TNH"
+msgstr "Masai"
+
+msgid "ISO_639-3.TNI"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TNK"
+msgstr "Khmer"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TNN"
+msgstr "Gammalegyptisk"
+
+msgid "ISO_639-3.TNO"
+msgstr "Oromo"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TNW"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TNX"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TNY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOB"
+msgstr "Joruba"
+
+msgid "ISO_639-3.TOD"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOG"
+msgstr "Tonga"
+
+msgid "ISO_639-3.TOH"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOI"
+msgstr "Tonga"
+
+msgid "ISO_639-3.TOL"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TON"
+msgstr "Tongansk"
+
+msgid "ISO_639-3.TOX"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.TPA"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TPF"
+msgstr "Thai"
+
+msgid "ISO_639-3.TPG"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TPU"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.TPV"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TQL"
+msgstr "Nepali"
+
+msgid "ISO_639-3.TQP"
+msgstr "Komi"
+
+msgid "ISO_639-3.TQQ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.TQR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TQT"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.TQW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TRA"
+msgstr "Kirgisisk"
+
+msgid "ISO_639-3.TRD"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TRE"
+msgstr "algonkin"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TRL"
+msgstr "Gælisk; skotsk-gælisk"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TRR"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.TRT"
+msgstr "Tigré"
+
+msgid "ISO_639-3.TRW"
+msgstr "Somali"
+
+msgid "ISO_639-3.TRY"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TSA"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TSC"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estisk"
+
+msgid "ISO_639-3.TSE"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.TSH"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TSJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSM"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.TSN"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TSO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSP"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.TSQ"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.TSS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.TSU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSY"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.TSZ"
+msgstr "Puechua"
+
+msgid "ISO_639-3.TTB"
+msgstr "Ga"
+
+msgid "ISO_639-3.TTG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TTI"
+msgstr "Thai"
+
+msgid "ISO_639-3.TTL"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TTM"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.TTP"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TTR"
+msgstr "Tysk"
+
+msgid "ISO_639-3.TTS"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.TTU"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TTV"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.TTW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TTY"
+msgstr "Santali"
+
+msgid "ISO_639-3.TUF"
+msgstr "Santali"
+
+msgid "ISO_639-3.TUG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TUI"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TUJ"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TUK"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TUL"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Filipino"
+
+msgid "ISO_639-3.TUR"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TUV"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Tyrkisk"
+
+msgid "ISO_639-3.TVK"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.TVN"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.TVO"
+msgstr "Tigré"
+
+msgid "ISO_639-3.TVS"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TVU"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.TVW"
+msgstr "Shona"
+
+msgid "ISO_639-3.TWA"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TWB"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.TWF"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.TWL"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TWM"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TWN"
+msgstr "Svensk"
+
+msgid "ISO_639-3.TWO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TWP"
+msgstr "Ewe"
+
+msgid "ISO_639-3.TWQ"
+msgstr "Setswana"
+
+msgid "ISO_639-3.TWR"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.TWU"
+msgstr "Tysk"
+
+msgid "ISO_639-3.TWW"
+msgstr "Guarani"
+
+msgid "ISO_639-3.TWY"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.TXA"
+msgstr "Oromo"
+
+msgid "ISO_639-3.TXB"
+msgstr "Abkhasisk"
+
+msgid "ISO_639-3.TXH"
+msgstr "Thai"
+
+msgid "ISO_639-3.TXM"
+msgstr "Komi"
+
+msgid "ISO_639-3.TXN"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.TXR"
+msgstr "Tahitisk"
+
+msgid "ISO_639-3.TXS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TXX"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TXY"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.TYA"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.TYE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Thai"
+
+msgid "ISO_639-3.TYL"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.TYN"
+msgstr "Komi"
+
+msgid "ISO_639-3.TZA"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.TZH"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.TZJ"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TZL"
+msgstr "Russisk"
+
+msgid "ISO_639-3.TZN"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TZO"
+msgstr "Thai"
+
+msgid "ISO_639-3.TZX"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.UAN"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.UBA"
+msgstr "Sango"
+
+msgid "ISO_639-3.UBR"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.UBY"
+msgstr "Usbekisk"
+
+msgid "ISO_639-3.UDG"
+msgstr "Bemba"
+
+msgid "ISO_639-3.UDJ"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.UDM"
+msgstr "Urdu"
+
+msgid "ISO_639-3.UDU"
+msgstr "Urdu"
+
+msgid "ISO_639-3.UGN"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.UGY"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.UHA"
+msgstr "Thai"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamil"
+
+msgid "ISO_639-3.UIG"
+msgstr "Uigurisk"
+
+msgid "ISO_639-3.UIS"
+msgstr "Masai"
+
+msgid "ISO_639-3.UKA"
+msgstr "Kurdisk"
+
+msgid "ISO_639-3.UKL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.ULE"
+msgstr "Lulesamisk"
+
+msgid "ISO_639-3.ULI"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.ULK"
+msgstr "Persisk"
+
+msgid "ISO_639-3.ULW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.UMC"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.UMM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.UMN"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.UND"
+msgstr "Ikkje fastsett"
+
+msgid "ISO_639-3.UNG"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.UNN"
+msgstr "Guarani"
+
+msgid "ISO_639-3.UNR"
+msgstr "Rundi"
+
+msgid "ISO_639-3.UNU"
+msgstr "Navaho"
+
+msgid "ISO_639-3.UNX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.URD"
+msgstr "Urdu"
+
+msgid "ISO_639-3.URE"
+msgstr "Urdu"
+
+msgid "ISO_639-3.URF"
+msgstr "Marathi"
+
+msgid "ISO_639-3.URG"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.URL"
+msgstr "Pali"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.URT"
+msgstr "Urdu"
+
+msgid "ISO_639-3.URU"
+msgstr "Urdu"
+
+msgid "ISO_639-3.URV"
+msgstr "Urdu"
+
+msgid "ISO_639-3.URX"
+msgstr "Oromo"
+
+msgid "ISO_639-3.URY"
+msgstr "Oriya"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Ossetisk"
+
+msgid "ISO_639-3.UTE"
+msgstr "Sørsamisk"
+
+msgid "ISO_639-3.UTP"
+msgstr "Tongansk"
+
+msgid "ISO_639-3.UUM"
+msgstr "Urdu"
+
+msgid "ISO_639-3.UZB"
+msgstr "Usbekisk"
+
+msgid "ISO_639-3.UZN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.UZS"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.VAF"
+msgstr "Masai"
+
+msgid "ISO_639-3.VAG"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.VAN"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.VAO"
+msgstr "Yao"
+
+msgid "ISO_639-3.VAS"
+msgstr "Masai"
+
+msgid "ISO_639-3.VAV"
+msgstr "Pali"
+
+msgid "ISO_639-3.VBB"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.VBK"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.VEC"
+msgstr "Armensk"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vietnamesisk"
+
+msgid "ISO_639-3.VKK"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.VKM"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.VKO"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.VLP"
+msgstr "Pali"
+
+msgid "ISO_639-3.VMA"
+msgstr "Marathi"
+
+msgid "ISO_639-3.VMB"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.VMD"
+msgstr "Bemba"
+
+msgid "ISO_639-3.VME"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.VMG"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.VMH"
+msgstr "Marathi"
+
+msgid "ISO_639-3.VML"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.VMS"
+msgstr "Tokelau"
+
+msgid "ISO_639-3.VMW"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.VNK"
+msgstr "Sango"
+
+msgid "ISO_639-3.VNP"
+msgstr "Volapyk"
+
+msgid "ISO_639-3.VOL"
+msgstr "Volapyk"
+
+msgid "ISO_639-3.VRA"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.VRS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bemba"
+
+msgid "ISO_639-3.VSI"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.VSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.VSV"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.WAA"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.WAE"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.WAI"
+msgstr "Færøysk"
+
+msgid "ISO_639-3.WAL"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.WAN"
+msgstr "Vallonsk"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Tysk"
+
+msgid "ISO_639-3.WAT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WAV"
+msgstr "Dakota"
+
+msgid "ISO_639-3.WAX"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.WBF"
+msgstr "Aymara"
+
+msgid "ISO_639-3.WBH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WBI"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Arawak"
+
+msgid "ISO_639-3.WBT"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.WDK"
+msgstr "Aymara"
+
+msgid "ISO_639-3.WEH"
+msgstr "Walisisk"
+
+msgid "ISO_639-3.WEO"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.WET"
+msgstr "Pali"
+
+msgid "ISO_639-3.WEU"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.WHG"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.WHU"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.WIB"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.WII"
+msgstr "Hindi"
+
+msgid "ISO_639-3.WJI"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.WKA"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.WKB"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.WKL"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.WKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WLA"
+msgstr "Vallonsk"
+
+msgid "ISO_639-3.WLE"
+msgstr "Konkani"
+
+msgid "ISO_639-3.WLG"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.WLI"
+msgstr "Swahili"
+
+msgid "ISO_639-3.WLN"
+msgstr "Vallonsk"
+
+msgid "ISO_639-3.WLO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.WLW"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.WLY"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.WMD"
+msgstr "Manx"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamil"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indonesisk"
+
+msgid "ISO_639-3.WMS"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.WMW"
+msgstr "Manx"
+
+msgid "ISO_639-3.WMX"
+msgstr "Oromo"
+
+msgid "ISO_639-3.WNG"
+msgstr "Sango"
+
+msgid "ISO_639-3.WNN"
+msgstr "Aymara"
+
+msgid "ISO_639-3.WNO"
+msgstr "Sango"
+
+msgid "ISO_639-3.WNU"
+msgstr "Setswana"
+
+msgid "ISO_639-3.WOB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.WOC"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WOD"
+msgstr "Konkani"
+
+msgid "ISO_639-3.WOE"
+msgstr "Moldovsk"
+
+msgid "ISO_639-3.WOF"
+msgstr "Guarani"
+
+msgid "ISO_639-3.WOI"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.WOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WON"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRN"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRU"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.WRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.WSK"
+msgstr "Basjkirsk"
+
+msgid "ISO_639-3.WSS"
+msgstr "Masai"
+
+msgid "ISO_639-3.WSU"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.WTI"
+msgstr "Bemba"
+
+msgid "ISO_639-3.WTM"
+msgstr "Marathi"
+
+msgid "ISO_639-3.WUL"
+msgstr "Swahili"
+
+msgid "ISO_639-3.WUU"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.WUX"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.WWB"
+msgstr "Dakota"
+
+msgid "ISO_639-3.WWW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.WXW"
+msgstr "Rundi"
+
+msgid "ISO_639-3.WYI"
+msgstr "Turkmensk"
+
+msgid "ISO_639-3.WYY"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.XAB"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.XAC"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XAD"
+msgstr "Avarisk"
+
+msgid "ISO_639-3.XAE"
+msgstr "Armensk"
+
+msgid "ISO_639-3.XAG"
+msgstr "Akan"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.XAL"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.XAR"
+msgstr "Lågtysk"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.XBE"
+msgstr "Bemba"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.XBI"
+msgstr "Komi"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretonsk"
+
+msgid "ISO_639-3.XBN"
+msgstr "Bengali"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.XBR"
+msgstr "Khmer"
+
+msgid "ISO_639-3.XBY"
+msgstr "Santali"
+
+msgid "ISO_639-3.XCL"
+msgstr "Armensk"
+
+msgid "ISO_639-3.XCO"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.XCR"
+msgstr "Korsikansk"
+
+msgid "ISO_639-3.XCU"
+msgstr "Kroatisk"
+
+msgid "ISO_639-3.XCV"
+msgstr "Tsjuvasjisk"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.XDY"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.XED"
+msgstr "Hindi"
+
+msgid "ISO_639-3.XEM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.XGD"
+msgstr "Guarani"
+
+msgid "ISO_639-3.XGG"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XGI"
+msgstr "Sardisk"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galisisk"
+
+msgid "ISO_639-3.XGM"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.XGR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.XGU"
+msgstr "Filipino"
+
+msgid "ISO_639-3.XHA"
+msgstr "Enaresamisk"
+
+msgid "ISO_639-3.XHE"
+msgstr "Khmer"
+
+msgid "ISO_639-3.XHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.XHT"
+msgstr "Hettittisk"
+
+msgid "ISO_639-3.XHU"
+msgstr "Ungarsk"
+
+msgid "ISO_639-3.XIB"
+msgstr "Persisk"
+
+msgid "ISO_639-3.XII"
+msgstr "Bihari"
+
+msgid "ISO_639-3.XIL"
+msgstr "Italiensk"
+
+msgid "ISO_639-3.XIR"
+msgstr "Tigrinja"
+
+msgid "ISO_639-3.XIS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XIV"
+msgstr "Fleire språk"
+
+msgid "ISO_639-3.XJB"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.XJT"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XKA"
+msgstr "Dakota"
+
+msgid "ISO_639-3.XKB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.XKE"
+msgstr "Herero"
+
+msgid "ISO_639-3.XKF"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.XKI"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Santali"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XKT"
+msgstr "Fanti"
+
+msgid "ISO_639-3.XKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XKW"
+msgstr "Bemba"
+
+msgid "ISO_639-3.XKX"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.XLC"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.XLD"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.XLG"
+msgstr "Gammalegyptisk"
+
+msgid "ISO_639-3.XLI"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albansk"
+
+msgid "ISO_639-3.XLS"
+msgstr "Litauisk"
+
+msgid "ISO_639-3.XMB"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.XME"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.XMF"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Marathi"
+
+msgid "ISO_639-3.XMK"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.XML"
+msgstr "algonkin"
+
+msgid "ISO_639-3.XMM"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.XMT"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.XMW"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.XMX"
+msgstr "Manx"
+
+msgid "ISO_639-3.XNA"
+msgstr "Gammalegyptisk"
+
+msgid "ISO_639-3.XNG"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.XNH"
+msgstr "Mandsju"
+
+msgid "ISO_639-3.XNI"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.XNK"
+msgstr "Santali"
+
+msgid "ISO_639-3.XNN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.XNR"
+msgstr "Konkani"
+
+msgid "ISO_639-3.XNS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XNT"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.XOD"
+msgstr "Konkani"
+
+msgid "ISO_639-3.XOG"
+msgstr "Shona"
+
+msgid "ISO_639-3.XON"
+msgstr "Konkani"
+
+msgid "ISO_639-3.XOR"
+msgstr "Joruba"
+
+msgid "ISO_639-3.XOW"
+msgstr "Konkani"
+
+msgid "ISO_639-3.XPA"
+msgstr "Oriya"
+
+msgid "ISO_639-3.XPC"
+msgstr "Tsjetsjensk"
+
+msgid "ISO_639-3.XPG"
+msgstr "Persisk"
+
+msgid "ISO_639-3.XPI"
+msgstr "Polsk"
+
+msgid "ISO_639-3.XPR"
+msgstr "Persisk"
+
+msgid "ISO_639-3.XPS"
+msgstr "Persisk"
+
+msgid "ISO_639-3.XPT"
+msgstr "Aymara"
+
+msgid "ISO_639-3.XPU"
+msgstr "Punjabi"
+
+msgid "ISO_639-3.XPY"
+msgstr "Pashto"
+
+msgid "ISO_639-3.XQA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albansk"
+
+msgid "ISO_639-3.XRG"
+msgstr "Fijiansk"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arameisk"
+
+msgid "ISO_639-3.XRN"
+msgstr "Armensk"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XRU"
+msgstr "Marathi"
+
+msgid "ISO_639-3.XRW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.XSA"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.XSB"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.XSE"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.XSH"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.XSL"
+msgstr "Sør-Afrika"
+
+msgid "ISO_639-3.XSM"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XSO"
+msgstr "Sango"
+
+msgid "ISO_639-3.XSP"
+msgstr "Swahili"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.XSS"
+msgstr "Russisk"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slovensk"
+
+msgid "ISO_639-3.XSY"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.XTO"
+msgstr "Abkhasisk"
+
+msgid "ISO_639-3.XTW"
+msgstr "Setswana"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rumensk"
+
+msgid "ISO_639-3.XUA"
+msgstr "Bemba"
+
+msgid "ISO_639-3.XUM"
+msgstr "Sumerisk"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukrainsk"
+
+msgid "ISO_639-3.XUR"
+msgstr "Kroatisk"
+
+msgid "ISO_639-3.XUU"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XVI"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XVN"
+msgstr "Santali"
+
+msgid "ISO_639-3.XVO"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estisk"
+
+msgid "ISO_639-3.XWA"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.XWC"
+msgstr "Vallonsk"
+
+msgid "ISO_639-3.XWK"
+msgstr "Sango"
+
+msgid "ISO_639-3.XXR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.XXT"
+msgstr "Filipino"
+
+msgid "ISO_639-3.XYB"
+msgstr "Yao"
+
+msgid "ISO_639-3.XYK"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.XYL"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.XZM"
+msgstr "Makedonsk"
+
+msgid "ISO_639-3.YAD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YAI"
+msgstr "Yao"
+
+msgid "ISO_639-3.YAK"
+msgstr "Yao"
+
+msgid "ISO_639-3.YAM"
+msgstr "Bemba"
+
+msgid "ISO_639-3.YAN"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.YAO"
+msgstr "Yao"
+
+msgid "ISO_639-3.YAP"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.YAU"
+msgstr "Setswana"
+
+msgid "ISO_639-3.YAX"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YBA"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.YBB"
+msgstr "Bemba"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YBK"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.YBO"
+msgstr "Yao"
+
+msgid "ISO_639-3.YBX"
+msgstr "Yao"
+
+msgid "ISO_639-3.YCH"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.YCL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.YCN"
+msgstr "Puechua"
+
+msgid "ISO_639-3.YCP"
+msgstr "Ponapisk"
+
+msgid "ISO_639-3.YDA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YDD"
+msgstr "Jiddisch"
+
+msgid "ISO_639-3.YDG"
+msgstr "Jiddisch"
+
+msgid "ISO_639-3.YDK"
+msgstr "Jiddisch"
+
+msgid "ISO_639-3.YEC"
+msgstr "Fransk"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Islandsk"
+
+msgid "ISO_639-3.YER"
+msgstr "Tadsjikisk"
+
+msgid "ISO_639-3.YES"
+msgstr "Santali"
+
+msgid "ISO_639-3.YGA"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.YGM"
+msgstr "Yao"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.YGS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.YGW"
+msgstr "Yao"
+
+msgid "ISO_639-3.YHA"
+msgstr "Bengali"
+
+msgid "ISO_639-3.YHD"
+msgstr "arabisk"
+
+msgid "ISO_639-3.YHS"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.YID"
+msgstr "Jiddisch"
+
+msgid "ISO_639-3.YIF"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.YIH"
+msgstr "Jiddisch"
+
+msgid "ISO_639-3.YII"
+msgstr "Jiddisch"
+
+msgid "ISO_639-3.YIM"
+msgstr "Latvisk"
+
+msgid "ISO_639-3.YIP"
+msgstr "Wolof"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Masai"
+
+msgid "ISO_639-3.YIR"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.YIS"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.YIU"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.YIV"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.YIZ"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.YKA"
+msgstr "Akan"
+
+msgid "ISO_639-3.YKG"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.YKL"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.YKM"
+msgstr "Latin"
+
+msgid "ISO_639-3.YKO"
+msgstr "Masai"
+
+msgid "ISO_639-3.YKR"
+msgstr "Joruba"
+
+msgid "ISO_639-3.YKT"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YKY"
+msgstr "Yao"
+
+msgid "ISO_639-3.YLB"
+msgstr "Joruba"
+
+msgid "ISO_639-3.YLE"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.YLG"
+msgstr "Telugu"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.YLO"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.YMB"
+msgstr "Yapesisk"
+
+msgid "ISO_639-3.YMC"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.YMD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.YME"
+msgstr "Yao"
+
+msgid "ISO_639-3.YMH"
+msgstr "Pali"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.YMO"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.YMR"
+msgstr "Malayisk"
+
+msgid "ISO_639-3.YMS"
+msgstr "Bosnisk"
+
+msgid "ISO_639-3.YMX"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Masai"
+
+msgid "ISO_639-3.YNA"
+msgstr "Aleutisk"
+
+msgid "ISO_639-3.YNE"
+msgstr "Sango"
+
+msgid "ISO_639-3.YNG"
+msgstr "algonkin"
+
+msgid "ISO_639-3.YNN"
+msgstr "Setswana"
+
+msgid "ISO_639-3.YNO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.YNS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.YOB"
+msgstr "Joruba"
+
+msgid "ISO_639-3.YOI"
+msgstr "Konkani"
+
+msgid "ISO_639-3.YOL"
+msgstr "Ga"
+
+msgid "ISO_639-3.YON"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.YOR"
+msgstr "Joruba"
+
+msgid "ISO_639-3.YOY"
+msgstr "Yao"
+
+msgid "ISO_639-3.YPA"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.YPG"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.YPH"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.YPM"
+msgstr "Pali"
+
+msgid "ISO_639-3.YPO"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.YPP"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Fulfulde"
+
+msgid "ISO_639-3.YRB"
+msgstr "Joruba"
+
+msgid "ISO_639-3.YRE"
+msgstr "Yao"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katalansk"
+
+msgid "ISO_639-3.YSD"
+msgstr "Samoansk"
+
+msgid "ISO_639-3.YSL"
+msgstr "Australske språk"
+
+msgid "ISO_639-3.YSN"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.YSP"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.YSY"
+msgstr "Serbisk"
+
+msgid "ISO_639-3.YTA"
+msgstr "Tatarisk"
+
+msgid "ISO_639-3.YTL"
+msgstr "Mmongolsk"
+
+msgid "ISO_639-3.YTP"
+msgstr "Thai"
+
+msgid "ISO_639-3.YUC"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.YUD"
+msgstr "arabisk"
+
+msgid "ISO_639-3.YUE"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.YUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YUM"
+msgstr "Puechua"
+
+msgid "ISO_639-3.YUX"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.YVA"
+msgstr "Arawak"
+
+msgid "ISO_639-3.YWG"
+msgstr "Setswana"
+
+msgid "ISO_639-3.YWL"
+msgstr "Frisisk"
+
+msgid "ISO_639-3.YWR"
+msgstr "Naurisk"
+
+msgid "ISO_639-3.YXA"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgarsk"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Albansk"
+
+msgid "ISO_639-3.YZG"
+msgstr "Manx"
+
+msgid "ISO_639-3.YZK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZAK"
+msgstr "Santali"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Santali"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Baskisk"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ZGB"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZGM"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ZGN"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Santali"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Tigré"
+
+msgid "ISO_639-3.ZHN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZIB"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Maltesisk"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Oriya"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZKB"
+msgstr "Komi"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.ZKK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Guarani"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Tibetansk"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Armensk"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZLM"
+msgstr "algonkin"
+
+msgid "ISO_639-3.ZLN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZMB"
+msgstr "Bemba"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Marathi"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Masai"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMX"
+msgstr "Bemba"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Manx"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Gassisk"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Laotisk"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.ZPD"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.ZQE"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Aragonsk"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Khmer"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Marathi"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Marathi"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Koreansk"
+
+msgid "ISO_639-3.ZSL"
+msgstr "Teiknspråk"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Malayalam"
+
+msgid "ISO_639-3.ZSR"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Selkupisk"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Konkani"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZYB"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ZYG"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "sørsamisk"
+
+msgid "ISO_639-3.ZYN"
+msgstr "nordsamisk"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Kinesisk"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Kasakhisk"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "nordsamisk"

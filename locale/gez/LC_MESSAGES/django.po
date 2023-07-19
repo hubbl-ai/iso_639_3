@@ -1,0 +1,8263 @@
+# Geez translations for iso-codes
+# Copyright (C) 2004 Alastair McKinstry <mckinstry@debian.org>
+# This file is distributed under the same license as the iso-codes package.
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+#  Translations taken from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 21:21+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Geez\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AAD"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.AAF"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.AAG"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AAL"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.AAR"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.AAT"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.AAZ"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.ABD"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ABE"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.ABG"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ABH"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ABK"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.ABL"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.ABQ"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.ABV"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ABZ"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ACR"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.ACW"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ACX"
+msgstr "አዜርባይጃንኛ"
+
+msgid "ISO_639-3.ACY"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ADD"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.ADF"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ADL"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.ADN"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.ADR"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.ADX"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.ADY"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.AEA"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.AEC"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AEE"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AEW"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.AEY"
+msgstr "አሳሜዛዊ"
+
+msgid "ISO_639-3.AEZ"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.AFB"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AFD"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.AFK"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.AFP"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.AFR"
+msgstr "አፍሪቃንስኛ"
+
+msgid "ISO_639-3.AGD"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AGE"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.AGG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.AGH"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.AGI"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.AGM"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.AGO"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.AGW"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.AGY"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AHH"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.AHK"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.AHR"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.AIE"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AIJ"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.AIR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.AIS"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.AIW"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.AIX"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.AJN"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.AJP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AJZ"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.AKL"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.AKR"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AKZ"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ALA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.ALD"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ALH"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ALI"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.ALJ"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ALK"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.ALL"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.ALN"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ALS"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ALT"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ALX"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.AMC"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.AMH"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.AMK"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.AML"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.AMN"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AMQ"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.AMR"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AMS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.AMY"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.ANI"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.ANK"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.ANN"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.ANR"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.ANS"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.ANY"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.AOA"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.AOH"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.AOJ"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.AOR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.AOS"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.AOT"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.APB"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.APC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.APD"
+msgstr "ጃቫንኛ"
+
+msgid "ISO_639-3.APF"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.APG"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.APH"
+msgstr "አምሐረኛ"
+
+msgid "ISO_639-3.API"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.APP"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.APW"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.AQN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AQT"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.AQZ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.ARA"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ARD"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.ARE"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.ARH"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ARI"
+msgstr "አፍሪቃንስኛ"
+
+msgid "ISO_639-3.ARJ"
+msgstr "አፍሪቃንስኛ"
+
+msgid "ISO_639-3.ARL"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ARN"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.ARQ"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ARS"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ARY"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ASD"
+msgstr "አሳሜዛዊ"
+
+msgid "ISO_639-3.ASJ"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.ASM"
+msgstr "አሳሜዛዊ"
+
+msgid "ISO_639-3.ASO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.AST"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.ASV"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.ATN"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.ATV"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ATX"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.ATZ"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AUB"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.AUC"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.AUL"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.AUP"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.AUY"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.AUZ"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AVK"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.AVS"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.AWX"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AXL"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AXM"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.AYA"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.AYC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AYG"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.AYH"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AYL"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.AYM"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AYN"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.AYR"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.AYS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.AYZ"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.AZA"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.AZB"
+msgstr "አዜርባይጃንኛ"
+
+msgid "ISO_639-3.AZE"
+msgstr "አዜርባይጃንኛ"
+
+msgid "ISO_639-3.AZJ"
+msgstr "አዜርባይጃንኛ"
+
+msgid "ISO_639-3.BAG"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.BAJ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BAK"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BAR"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BAV"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BAY"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BBB"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BBD"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BBE"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BBF"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BBG"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BBH"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BBI"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BBL"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BBM"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BBQ"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.BBV"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.BBY"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BCC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BCF"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BCG"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BCH"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BCJ"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.BCQ"
+msgstr "ፈረንሳይኛ"
+
+msgid "ISO_639-3.BCT"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BCW"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.BCY"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BDB"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.BDD"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BDE"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BDF"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BDG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BDI"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.BDJ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BDL"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.BDO"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.BDQ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BDU"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.BDZ"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BEG"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BEH"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BEK"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BEL"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BEN"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BEO"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BES"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.BEU"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BEW"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BFA"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BFG"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.BFR"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BFS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BFT"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BFU"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.BFX"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.BFZ"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.BGC"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.BGE"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BGJ"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.BGN"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.BGO"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.BGQ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BGR"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BGU"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.BGW"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BGY"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BGZ"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BHA"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHB"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.BHC"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHD"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHF"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.BHG"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.BHH"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHI"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHJ"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BHM"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHP"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BHR"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.BHW"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BHX"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.BHZ"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.BIB"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BIC"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BIG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BIM"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BIO"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.BIP"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BIQ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BIR"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BIS"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BIT"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.BIV"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BIX"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BIY"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BIZ"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BJB"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BJC"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BJO"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BJR"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BJV"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BJY"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BJZ"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BKA"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.BKI"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BKN"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BKQ"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BKS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BKW"
+msgstr "ኡዝበክኛ"
+
+msgid "ISO_639-3.BLB"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BLD"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BLG"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.BLN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BLR"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BLS"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BLV"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.BLW"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.BMD"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.BMH"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.BMI"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BML"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.BMO"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.BMP"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BMR"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.BMV"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.BMW"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.BMX"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BNC"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BND"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.BNG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BNI"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BNK"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BNL"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BNS"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.BNU"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BNZ"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.BOA"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.BOB"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.BOD"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.BOE"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.BOF"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.BOH"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.BOM"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.BOP"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.BOT"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BOV"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.BOW"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.BPA"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.BPH"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.BPJ"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.BPK"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.BPP"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.BPQ"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.BPV"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.BPZ"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BQB"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.BQH"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BQI"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BQL"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BQP"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.BQQ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BQR"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.BQV"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.BQX"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BRE"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BRF"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.BRG"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BRH"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BRJ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BRN"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.BRT"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BRU"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.BRV"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.BRW"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BRY"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.BSC"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BSE"
+msgstr "ወልሽ"
+
+msgid "ISO_639-3.BSF"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BSG"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BSH"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.BSM"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BSN"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BSQ"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.BST"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BTA"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.BTF"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BTI"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.BTJ"
+msgstr "ጃፓንኛ"
+
+msgid "ISO_639-3.BTR"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BTU"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BTV"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BUC"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.BUI"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BUK"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BUL"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BUO"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.BUP"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.BUQ"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BUT"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BUZ"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.BVA"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BVB"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BVH"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.BVJ"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BVO"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.BVP"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.BVQ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BVR"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BVT"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.BVU"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BVW"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.BVY"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BWM"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.BWQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.BXA"
+msgstr "ኪርጊዝኛ"
+
+msgid "ISO_639-3.BXG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.BXM"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.BXO"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.BXR"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.BXS"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.BXU"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.BXZ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BYA"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.BYB"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.BYF"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.BYG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.BYH"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.BYK"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.BYM"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.BYN"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BYQ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.BYR"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BYW"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.BZA"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.BZB"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.BZD"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BZI"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.BZQ"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.BZR"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.BZU"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.BZV"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.CAC"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.CAF"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.CAH"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CAK"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.CAL"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.CAN"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.CAR"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.CAT"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CAW"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.CBC"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CBI"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.CBK"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CBL"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.CBN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.CBV"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.CBW"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.CCA"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.CCG"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.CCH"
+msgstr "አሳሜዛዊ"
+
+msgid "ISO_639-3.CCJ"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.CCL"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.CCM"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.CDA"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.CDE"
+msgstr "ቼክኛ"
+
+msgid "ISO_639-3.CDG"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.CDO"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CDY"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.CDZ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.CEA"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.CEK"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.CEN"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CES"
+msgstr "ቼክኛ"
+
+msgid "ISO_639-3.CFD"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.CHC"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CHK"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CHM"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.CHX"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CIE"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CIM"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.CIP"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CIR"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.CIY"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.CJA"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.CJI"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CJM"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.CJS"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.CJY"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CKB"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.CKN"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CKQ"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.CKR"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.CKV"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CLJ"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CLL"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CLM"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.CLT"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CLU"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CMA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.CME"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.CMG"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.CML"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.CMN"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.CNG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.CNH"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CNK"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.CNL"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.CNW"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.COE"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.COG"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.COO"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.COS"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.COX"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.CPI"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CPX"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CRF"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.CRJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.CRL"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.CRR"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.CRY"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.CSJ"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CSS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.CST"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CSY"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.CTG"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CTS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.CTU"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.CUU"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.CVG"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.CWE"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.CYM"
+msgstr "ወልሽ"
+
+msgid "ISO_639-3.CZH"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.CZT"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.DAC"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.DAD"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.DAG"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DAL"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.DAM"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.DAN"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DAO"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.DAQ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.DAV"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.DAX"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DAZ"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.DBA"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.DBI"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.DBJ"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.DBO"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.DBP"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.DBW"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.DDJ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.DDO"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.DEC"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.DEH"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.DER"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.DES"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.DEU"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.DGA"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DGG"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.DGI"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DGL"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.DGN"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.DHD"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.DHG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.DHN"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DHS"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DHX"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.DIC"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.DIJ"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DIK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DIP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DIT"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.DIV"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.DIW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DJI"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.DJO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.DKS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DKX"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.DLK"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.DLM"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.DMC"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.DMK"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.DMM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.DMX"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.DND"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.DNG"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.DNJ"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DNK"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.DNW"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.DOC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.DOH"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.DOO"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.DOT"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DOX"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.DOY"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.DPP"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.DRB"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DRC"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.DRD"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.DRE"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.DRL"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.DRS"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.DRU"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.DRY"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.DSB"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.DSI"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DSO"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.DTA"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.DTY"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.DUP"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.DWA"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.DWR"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.DYA"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.DZA"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.DZL"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.DZO"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.EAA"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.EBK"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.ECR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.EGL"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.EKC"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.EKG"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.EKK"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.EKY"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.EMG"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.EMN"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.EMU"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.ENA"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.ENB"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.ENG"
+msgstr "እንግሊዝኛ"
+
+msgid "ISO_639-3.ENQ"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.EPO"
+msgstr "ኤስፐራንቶ"
+
+msgid "ISO_639-3.ERA"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.ERK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ESG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.EST"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.ETR"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.ETT"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.EUS"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.EVH"
+msgstr "ኡዝበክኛ"
+
+msgid "ISO_639-3.EYO"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.EZE"
+msgstr "ኡዝበክኛ"
+
+msgid "ISO_639-3.FAA"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.FAF"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.FAH"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.FAJ"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.FAL"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.FAO"
+msgstr "ፋሮኛ"
+
+msgid "ISO_639-3.FAP"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.FAR"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.FAS"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.FAX"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.FAY"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.FAZ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.FBL"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.FER"
+msgstr "ፋሮኛ"
+
+msgid "ISO_639-3.FIJ"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.FIN"
+msgstr "ፊኒሽ"
+
+msgid "ISO_639-3.FIP"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.FIR"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.FKV"
+msgstr "ፊኒሽ"
+
+msgid "ISO_639-3.FLI"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.FLL"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.FLY"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.FMU"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.FNG"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.FNI"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.FOM"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.FOR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.FQS"
+msgstr "ፋሮኛ"
+
+msgid "ISO_639-3.FRA"
+msgstr "ፈረንሳይኛ"
+
+msgid "ISO_639-3.FRC"
+msgstr "ፈረንሳይኛ"
+
+msgid "ISO_639-3.FRK"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.FRP"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.FRR"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.FRS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.FRY"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.FUI"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.FUU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.GAB"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GAF"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.GAI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.GAL"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.GAM"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.GAN"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.GAQ"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.GAT"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.GBF"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.GBL"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.GBM"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GBO"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GBY"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GCC"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.GCE"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.GCN"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.GDI"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.GDJ"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-3.GDK"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GDL"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.GDN"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.GDQ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.GDT"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.GEA"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GEB"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.GEG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.GEI"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.GEJ"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GEQ"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.GEW"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GEZ"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.GFK"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.GFT"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-3.GGA"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.GGE"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GGK"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.GHE"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GHH"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GHO"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.GHR"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GIC"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.GIG"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.GIQ"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GIR"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GIU"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.GIW"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GIX"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.GJM"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.GJN"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.GJR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GJU"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-3.GKE"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.GLE"
+msgstr "አይሪሽ"
+
+msgid "ISO_639-3.GLG"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.GLH"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GLL"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.GMA"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.GMU"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.GMV"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.GNA"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.GNE"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GNH"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.GNM"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GNO"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GNQ"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.GNT"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GNW"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.GNZ"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GOF"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.GOQ"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.GOU"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.GOZ"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GPN"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.GQU"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.GRG"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.GRI"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.GRJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GRN"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GRO"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GSW"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GUA"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.GUB"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-3.GUC"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.GUE"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GUJ"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-3.GUM"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GUR"
+msgstr "ፋሮኛ"
+
+msgid "ISO_639-3.GUW"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GVC"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GVE"
+msgstr "ደች"
+
+msgid "ISO_639-3.GVF"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.GVL"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.GVM"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GVR"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.GVS"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GVY"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GWA"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.GWR"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.GWT"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-3.GWW"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.GWX"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GXX"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.GYB"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.GYE"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.GYF"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.GYI"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.GYL"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.GYR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.GZN"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.HAC"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.HAD"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.HAG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.HAH"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.HAK"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.HAL"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.HAM"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.HAN"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.HAP"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HAR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.HAS"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HAT"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.HAU"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HAV"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HAX"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HAY"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HBA"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HBB"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HBN"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.HBO"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.HBS"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.HBU"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HDN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HEA"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HEB"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.HEH"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.HHR"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.HHY"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HIA"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.HID"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HIF"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.HIG"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.HII"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.HIN"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.HIO"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.HJI"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.HKA"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.HKE"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.HLA"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.HLE"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HLT"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.HMA"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HME"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMH"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMI"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMJ"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.HMP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMR"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.HMS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HMU"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HMW"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.HMY"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HND"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HNI"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.HNO"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HNU"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.HOA"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HOE"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.HOJ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.HOM"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.HOW"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.HRE"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.HRO"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.HRU"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HRV"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.HRX"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.HRZ"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.HSB"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.HSN"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.HSS"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HTS"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HUB"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HUC"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HUD"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.HUF"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.HUJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.HUK"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.HUL"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HUM"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.HUN"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.HUQ"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.HUS"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.HUT"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.HWO"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.HYE"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.IAR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.IBL"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.IBY"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.IDB"
+msgstr "ፖርቱጋሊኛ"
+
+msgid "ISO_639-3.IDR"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.IDS"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.IGL"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.IGN"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.IGS"
+msgstr "ኢንቴርሊንጓ"
+
+msgid "ISO_639-3.III"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.IJE"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.IJS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.IKL"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.IKR"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.IKU"
+msgstr "እኑክቲቱትኛ"
+
+msgid "ISO_639-3.ILB"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.ILE"
+msgstr "እንተርሊንግወ"
+
+msgid "ISO_639-3.ILI"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.ILM"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.IMA"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.IMS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.INB"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.IND"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.IPK"
+msgstr "እኑፒያቅኛ"
+
+msgid "ISO_639-3.IRX"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.IRY"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.ISH"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.ISL"
+msgstr "አይስላንድኛ"
+
+msgid "ISO_639-3.ITA"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.ITD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ITE"
+msgstr "እንተርሊንግወ"
+
+msgid "ISO_639-3.ITK"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.ITR"
+msgstr "እንተርሊንግወ"
+
+msgid "ISO_639-3.ITV"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.ITY"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.IVB"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.IVV"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.IZH"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.JAF"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.JAN"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.JAQ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.JAT"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.JAU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.JAV"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.JAY"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.JBJ"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.JBK"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.JCT"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.JER"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.JGE"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.JHI"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.JIO"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.JIV"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.JKR"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.JKU"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.JMB"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.JMN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.JMR"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.JNG"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.JNI"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.JNL"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.JNS"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.JOB"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.JOW"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.JPN"
+msgstr "ጃፓንኛ"
+
+msgid "ISO_639-3.JRA"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.JUK"
+msgstr "ጃፓንኛ"
+
+msgid "ISO_639-3.JUL"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.JUN"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.JUT"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.JVD"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.JVN"
+msgstr "ጃቫንኛ"
+
+msgid "ISO_639-3.KAD"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KAF"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.KAG"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.KAK"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.KAN"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KAS"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KAT"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.KAX"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.KAZ"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KBA"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KBI"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.KBJ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.KBP"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KBQ"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.KBR"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KBS"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KBT"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.KBV"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.KBY"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.KBZ"
+msgstr "ደች"
+
+msgid "ISO_639-3.KCB"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KCC"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.KCE"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KCF"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.KCI"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.KCJ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KCK"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.KCO"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.KCP"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KCQ"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.KCR"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.KCS"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KCT"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.KCY"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KDE"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.KDG"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.KDN"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KDR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.KDU"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KDW"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KDY"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KED"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.KEH"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KEJ"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KEN"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KEQ"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KER"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KEY"
+msgstr "እኑፒያቅኛ"
+
+msgid "ISO_639-3.KFA"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KFB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KFD"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.KFF"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KFG"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KFH"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KFI"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KFP"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KFR"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KFS"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.KFU"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.KFW"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.KFX"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.KFY"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.KGD"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.KGE"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KGL"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.KGN"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.KGP"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.KHA"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.KHE"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KHF"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KHG"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.KHK"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KHP"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.KHR"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.KHS"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.KHT"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.KHV"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KHX"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KIB"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.KIE"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.KIH"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KIL"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.KIM"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.KIN"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.KIR"
+msgstr "ኪርጊዝኛ"
+
+msgid "ISO_639-3.KIS"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KIW"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KIX"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.KJA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.KJC"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.KJD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KJG"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KJQ"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KJR"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KJX"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.KKA"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KKF"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.KKI"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.KKJ"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KKQ"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.KKU"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.KKV"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KKZ"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.KLG"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.KLJ"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.KLL"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.KLM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.KLP"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KLS"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KLW"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.KLY"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.KMC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KMD"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.KMH"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.KML"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.KMR"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KMY"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.KND"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KNE"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KNF"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.KNJ"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KNK"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KNM"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KNP"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.KNR"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KOC"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.KOO"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KOR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KOT"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.KOU"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KOZ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KPD"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.KPK"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KPL"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.KPR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KPS"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.KPT"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KPY"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KQE"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.KQG"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KQH"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KQM"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-3.KQN"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KQO"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KQQ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KQS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KQU"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.KQW"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KQY"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KQZ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KRA"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.KRE"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.KRJ"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.KRK"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KRL"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KRN"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.KRT"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.KRV"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.KRW"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KSC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KSD"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KSE"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.KSI"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KSK"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KSL"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.KSN"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KSO"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KSP"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.KSR"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.KSS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KSX"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KSZ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KTA"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.KTE"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.KTF"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KTH"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.KTM"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KTS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KTV"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KUC"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.KUF"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.KUH"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KUJ"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KUN"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KUQ"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.KUR"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KUV"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KVC"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KVD"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.KVI"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.KVP"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KVV"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KVW"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.KWC"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.KWD"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.KWE"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.KWJ"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.KWL"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.KWN"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.KWR"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.KWY"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.KWZ"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.KXA"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KXC"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.KXM"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KXN"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.KXP"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.KXW"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.KXZ"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.KYG"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.KYL"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.KYM"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.KYN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.KYP"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.KYQ"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.KYS"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.KYU"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KYW"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.KYY"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.KZA"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.KZD"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.KZE"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KZK"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.KZM"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.KZQ"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.KZR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.KZX"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.LAA"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.LAB"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LAF"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LAG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.LAL"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LAN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.LAO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LAR"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.LAT"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LAV"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LAX"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.LAY"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.LBC"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LBE"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LBF"
+msgstr "ፊኒሽ"
+
+msgid "ISO_639-3.LBG"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LBI"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LBJ"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.LBK"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.LBN"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LBO"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LBT"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LBW"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.LCL"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.LCM"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.LCP"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.LDI"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.LDL"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LDM"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LDO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LDP"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.LEJ"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LEM"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.LEP"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.LEX"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.LFN"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LGA"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LGG"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.LGK"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LGL"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.LGR"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.LHH"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.LHN"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LHT"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.LIE"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LIJ"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LIM"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LIN"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LIR"
+msgstr "እንግሊዝኛ"
+
+msgid "ISO_639-3.LIT"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LJE"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.LJI"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LJP"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.LJW"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.LKB"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.LKC"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.LKD"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LKI"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LKJ"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.LKM"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.LKN"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LKO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LKS"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-3.LKT"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LKU"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.LLB"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.LLD"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LLH"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LLL"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LLO"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.LLP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.LLU"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LLX"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LMB"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.LMC"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LMG"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LMK"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LML"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.LMY"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LMZ"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.LNB"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.LNH"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LNI"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LNM"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LNS"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LNU"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.LOC"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.LOE"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.LOH"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.LOJ"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LOO"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.LOQ"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LPN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.LRA"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.LRC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.LRE"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LRI"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.LRL"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.LRM"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.LRN"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.LRO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.LRR"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.LRZ"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.LSD"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LSH"
+msgstr "አይሪሽ"
+
+msgid "ISO_639-3.LSI"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.LSM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LSS"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LTG"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.LTI"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.LTN"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LTO"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.LTS"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.LTU"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LUC"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LUD"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LUF"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.LUR"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.LUV"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LUZ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.LVS"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.LWG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.LWH"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.LWM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.LYA"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.LYG"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.LYN"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.LZH"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.LZN"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.LZZ"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.MAF"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MAH"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MAL"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MAM"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MAR"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MAW"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.MBE"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MBF"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MBK"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MBP"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MBQ"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MBS"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MBW"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MBY"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MCA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MCI"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MCN"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.MCP"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MCS"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MCT"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MCY"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MCZ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MDB"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MDG"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MDH"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MDN"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MDP"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MDW"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MDX"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.MEC"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MED"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MEH"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.MEM"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.MET"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MEV"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MEW"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MFA"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MFB"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.MFE"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MFF"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.MFH"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.MFK"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.MFP"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MFQ"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.MFR"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MFY"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MFZ"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.MGB"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MGD"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MGE"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MGF"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MGG"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MGJ"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.MGK"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MGP"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MGQ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MGT"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MGU"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.MGV"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MHF"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MHG"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.MHI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MHJ"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MHK"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.MHP"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.MHQ"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MHS"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.MHX"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.MHY"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MHZ"
+msgstr "ቶንጋ"
+
+msgid "ISO_639-3.MIA"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.MIC"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MID"
+msgstr "አይስላንድኛ"
+
+msgid "ISO_639-3.MIJ"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.MIT"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MJB"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MJJ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MJK"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.MJP"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MJQ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MJR"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.MJV"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MJW"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.MJX"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MJY"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.MJZ"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MKA"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.MKB"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MKD"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MKE"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MKF"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.MKI"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.MKJ"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MKR"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MKV"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MKY"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.MLA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MLC"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.MLF"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MLG"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MLK"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.MLL"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MLM"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MLN"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MLQ"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MLT"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MLV"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.MLX"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MLZ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MMA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MMD"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MME"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MMI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MMM"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MMN"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.MMO"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MMP"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.MMQ"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.MMR"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MMT"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MMU"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MMV"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MMX"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MMZ"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MNA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MNF"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.MNI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MNJ"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.MNL"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.MNM"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MNN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MNP"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.MNS"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.MNY"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MNZ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MOA"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.MOD"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.MOG"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MOI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MOK"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MOM"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MON"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MOR"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MOX"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MOZ"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.MPC"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MPD"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.MPG"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MPH"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MPN"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.MPQ"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MPT"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.MPV"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.MPW"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MPY"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MQA"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.MQC"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MQE"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MQI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MQM"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MQP"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MQR"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.MQS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MQU"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MQY"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MRA"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MRB"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MRC"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MRD"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MRG"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MRH"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MRI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MRJ"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MRP"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.MRQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MRS"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MRX"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MRY"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MRZ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MSC"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MSG"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MSH"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MSL"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.MSS"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.MSV"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MTC"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.MTD"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MTE"
+msgstr "ቶንጋ"
+
+msgid "ISO_639-3.MTJ"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.MTL"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MTM"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MTN"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.MTR"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MTS"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.MTW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MTY"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.MUA"
+msgstr "ሱዳንኛ"
+
+msgid "ISO_639-3.MUC"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.MUM"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MUP"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MUT"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.MUX"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.MUZ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MVA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MVD"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MVF"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MVQ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MVR"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MVS"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MVU"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MVZ"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.MWI"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.MWL"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.MWN"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.MWQ"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.MWX"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MWZ"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.MXD"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.MXF"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MXG"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.MXI"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.MXN"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.MXR"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.MXW"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.MXX"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.MXY"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.MYA"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.MYB"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MYG"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.MYH"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.MYJ"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.MYL"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.MYS"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.MYX"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.MYY"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.MZD"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MZJ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MZP"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.MZS"
+msgstr "ጃቫንኛ"
+
+msgid "ISO_639-3.MZV"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.MZX"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.NAA"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.NAB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NAC"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NAJ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NAL"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NAN"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.NAU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NAW"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NBC"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.NBJ"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.NBN"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.NBU"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.NBW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NCC"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.NCJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NCN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NDA"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.NDC"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NDF"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.NDH"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NDL"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.NDM"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.NDN"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.NDS"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.NDV"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.NEF"
+msgstr "ቪትናምኛ"
+
+msgid "ISO_639-3.NEG"
+msgstr "ኖርዌጂያን"
+
+msgid "ISO_639-3.NEM"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NEQ"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.NEW"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.NFD"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.NGB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NGP"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.NGY"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.NHA"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NHB"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.NHE"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NHH"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.NHO"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.NHR"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NHW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NHY"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NIB"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.NIE"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NIJ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NIK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NIM"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.NIQ"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.NIT"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NIW"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.NIX"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.NIZ"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.NJI"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.NJM"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.NJN"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.NJX"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.NJZ"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.NKB"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.NKD"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.NKG"
+msgstr "ኖርዌጂያን"
+
+msgid "ISO_639-3.NKI"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.NKN"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.NKU"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.NKW"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NKZ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NLC"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.NLD"
+msgstr "ደች"
+
+msgid "ISO_639-3.NLG"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.NLI"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.NLJ"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NLL"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NLQ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NLW"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.NLX"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NMA"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.NMB"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.NMD"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NMF"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.NMG"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.NMK"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NML"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NMM"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.NMP"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NMR"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.NNG"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.NNL"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NNM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.NNR"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NNU"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.NNW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NOB"
+msgstr "ኖርዌጂያን"
+
+msgid "ISO_639-3.NOD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NOI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.NOJ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NOL"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.NON"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.NOR"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.NOZ"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NPA"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NPN"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.NPS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.NPY"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NQG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NQQ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NQY"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NRB"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NRC"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.NRE"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NRG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.NRK"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.NRL"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NRM"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.NRN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NRT"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NRU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NRX"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NRZ"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.NSA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.NSD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NSE"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.NSF"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NSG"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.NSS"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NSV"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NSW"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NSX"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.NSY"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.NTD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NTG"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.NTP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NTX"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.NTY"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.NUA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.NUD"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.NUF"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NUG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.NUS"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NUV"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.NWI"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.NWR"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NXI"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NXO"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.NXQ"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NXU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NXX"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NYA"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.NYB"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.NYC"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.NYF"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.NYH"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.NYR"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.NYX"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.OAA"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OAC"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OBK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.OBR"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.OBT"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.OCH"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ODA"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.ODT"
+msgstr "ደች"
+
+msgid "ISO_639-3.OFS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.OGB"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.OGE"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-3.OGO"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.OHU"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.OJB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.OJP"
+msgstr "ጃፓንኛ"
+
+msgid "ISO_639-3.OJW"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.OKB"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OKG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.OKK"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.OKR"
+msgstr "ኪርጊዝኛ"
+
+msgid "ISO_639-3.OKV"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.OLD"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.OLM"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OLR"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OLT"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.OMK"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OML"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OMN"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.OMP"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.OMR"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.OMW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ONB"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.ONP"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.ONR"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ONW"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.OOS"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.OPT"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.ORA"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ORC"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ORG"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.ORM"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ORO"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ORR"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ORT"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.ORV"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.ORX"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ORY"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.ORZ"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OSC"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.OSO"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OSP"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.OSS"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.OSU"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.OSX"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.OTB"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.OTK"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.OTR"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.OTY"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.OUI"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.OWL"
+msgstr "ወልሽ"
+
+msgid "ISO_639-3.OYD"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.PAH"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.PAO"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PAQ"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.PAS"
+msgstr "ጃፓንኛ"
+
+msgid "ISO_639-3.PAT"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.PAY"
+msgstr "ቼክኛ"
+
+msgid "ISO_639-3.PBP"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.PBT"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PBU"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PCF"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.PCK"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.PCL"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.PEA"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.PEE"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.PEF"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PEG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.PEH"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.PEJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PEK"
+msgstr "ፈረንሳይኛ"
+
+msgid "ISO_639-3.PEQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PES"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.PFL"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.PGG"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.PGN"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.PHH"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.PHT"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.PIC"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.PII"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.PIM"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.PIS"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.PKB"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.PKT"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.PLA"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.PLD"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.PLJ"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.PLP"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.PLT"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.PLZ"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.PMF"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.PMI"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PMJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PML"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.PMM"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.PMQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PMS"
+msgstr "ቪትናምኛ"
+
+msgid "ISO_639-3.PMT"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.PMZ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PNB"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.PNE"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.PNJ"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.PNK"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.PNL"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.POC"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.POL"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.POM"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.POR"
+msgstr "ፖርቱጋሊኛ"
+
+msgid "ISO_639-3.POX"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.PPQ"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.PRC"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.PRF"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.PRG"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.PRM"
+msgstr "ኪርጊዝኛ"
+
+msgid "ISO_639-3.PRP"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.PRT"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.PRU"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.PSH"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PSI"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PSM"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.PTN"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.PTU"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.PTY"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.PUB"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.PUP"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.PUT"
+msgstr "ደች"
+
+msgid "ISO_639-3.PUW"
+msgstr "ፖርቱጋሊኛ"
+
+msgid "ISO_639-3.PUX"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.PWB"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.PWN"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.PWO"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.PWW"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.PZN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.QUC"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.QUE"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QUP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.QUX"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QUY"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QUZ"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QVP"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QVY"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QVZ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.QXC"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QXP"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QXS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.QYA"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.QYP"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.RAA"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.RAF"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.RAG"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.RAI"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.RAL"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.RAM"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.RAN"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RAO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.RAQ"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.RAR"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.RAS"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.RAV"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.RAX"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.RBK"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.RDB"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.REI"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.REL"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.REN"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.RES"
+msgstr "ወልሽ"
+
+msgid "ISO_639-3.RGA"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.RGN"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RGS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.RHG"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.RIM"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.RIN"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.RIR"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.RIU"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.RJI"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.RKI"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.RKM"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.RKT"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.RKW"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.RMA"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMG"
+msgstr "ኖርዌጂያን"
+
+msgid "ISO_639-3.RMH"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.RML"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMM"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMO"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMT"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.RMU"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMV"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMW"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMX"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMY"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RMZ"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.RND"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.RNG"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.RNL"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.RNR"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.ROE"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.ROF"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.ROG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ROH"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.ROL"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RON"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.ROR"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.ROU"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.RPT"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.RSB"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RTC"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.RTH"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.RTM"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RTS"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-3.RUC"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.RUE"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.RUG"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RUK"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.RUN"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.RUO"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RUP"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RUQ"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.RUS"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.RXD"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.RXW"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.RYN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SAA"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SAC"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.SAE"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SAG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SAK"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SAM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SAN"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SAO"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.SAQ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.SAU"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SAW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SAY"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SBB"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.SBD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SBE"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SBI"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SBK"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SBL"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SBM"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.SBN"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SBS"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SBV"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SBX"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SBY"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SCE"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.SCG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SCH"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SCK"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SCL"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SCV"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SCW"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SDF"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SDG"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SDH"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SDJ"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.SDK"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.SDR"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SDU"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.SEA"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SED"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SEH"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SEI"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SEK"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SEO"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.SER"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SET"
+msgstr "ስሎቪኛ"
+
+msgid "ISO_639-3.SEZ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SFW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SGB"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.SGE"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.SGK"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SGM"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.SGP"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SGR"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SGS"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SGU"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.SGY"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SHC"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SHD"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SHE"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SHG"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SHH"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SHJ"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SHO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SHQ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.SHR"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SHU"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.SHV"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SHW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SHY"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.SIB"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SID"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.SIF"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.SIH"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.SIK"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.SIN"
+msgstr "ሱዳንኛ"
+
+msgid "ISO_639-3.SIQ"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SIR"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SIW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SIY"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SIZ"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SJL"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.SJN"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SJP"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SJW"
+msgstr "ሱዳንኛ"
+
+msgid "ISO_639-3.SKB"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SKC"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.SKD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SKG"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.SKI"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.SKK"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SKM"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.SKP"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SKR"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SKS"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.SKU"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SLE"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SLI"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SLK"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SLL"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SLN"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.SLR"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.SLT"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SLU"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.SLV"
+msgstr "ስሎቪኛ"
+
+msgid "ISO_639-3.SLW"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.SLZ"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.SMA"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SMB"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.SMC"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SMD"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SME"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SMG"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SMH"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.SMM"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.SMN"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SMO"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SMP"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SMQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SMU"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SMX"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SMY"
+msgstr "ስሎቪኛ"
+
+msgid "ISO_639-3.SNA"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SND"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.SNH"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SNI"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SNL"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SNM"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SNN"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SNO"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.SNP"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SNR"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SNU"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.SNV"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SNX"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SNZ"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.SOA"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.SOD"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SOI"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SOJ"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SOL"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.SOM"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SOO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SOP"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SOQ"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.SOR"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SOT"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SOU"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SOW"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SOX"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SOZ"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.SPA"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.SPB"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.SPG"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SPI"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SPK"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SPO"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SPS"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SPU"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SPV"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SQH"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SQI"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.SQM"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SQR"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.SQU"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.SRB"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SRE"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SRF"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.SRH"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.SRI"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SRM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SRN"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.SRP"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SRS"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SRT"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SRV"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SRW"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SRY"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SRZ"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.SSB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SSE"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.SSF"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.SSG"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SSH"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.SSI"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SSJ"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.SSK"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SSL"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.SSN"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.SSO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SSQ"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SSW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SSY"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.STB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.STG"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.STK"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.STM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.STP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.STU"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SUC"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.SUE"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.SUG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SUN"
+msgstr "ሱዳንኛ"
+
+msgid "ISO_639-3.SVA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SVE"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SVM"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SVX"
+msgstr "ስሎቪኛ"
+
+msgid "ISO_639-3.SWB"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.SWE"
+msgstr "ስዊድንኛ"
+
+msgid "ISO_639-3.SWF"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.SWG"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SWJ"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.SWK"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.SWM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SWO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SWS"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.SWT"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.SWV"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SWW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.SWY"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.SXB"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.SXC"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.SXE"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.SXK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.SXL"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SXN"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SXR"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SYA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SYM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SYX"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.SZA"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.SZL"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.SZN"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-3.SZP"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.SZW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.TAA"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TAD"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.TAE"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.TAG"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TAK"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TAL"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TAM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TAN"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TAO"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TAT"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TAU"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TAW"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TAX"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TBA"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.TBC"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TBE"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TBG"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.TBJ"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TBO"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TBP"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TBS"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TBU"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TBX"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.TBY"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TCD"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TCE"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TCG"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TCO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.TCP"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.TCU"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TCX"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TCY"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.TCZ"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.TDA"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TDG"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.TDH"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TDI"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.TDJ"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.TDM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TDN"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TDQ"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TEC"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.TEK"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TEL"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TEO"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TEQ"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TEY"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TFN"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TFO"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-3.TFR"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TGB"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TGC"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.TGJ"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.TGK"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.TGL"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TGN"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TGO"
+msgstr "ሱዳንኛ"
+
+msgid "ISO_639-3.TGP"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.TGQ"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.TGR"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TGU"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TGX"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-3.TGZ"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.THA"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.THE"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.THF"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.THH"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.THN"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.THS"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.THT"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.THU"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.THW"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.THY"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TIC"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.TIF"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TIG"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.TII"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TIJ"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TIK"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.TIM"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TIN"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.TIP"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TIR"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.TIT"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TIU"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.TIW"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.TIX"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TJI"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TJL"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TJS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TKB"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.TKE"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TKG"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.TKS"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TKW"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TKX"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.TKZ"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.TLA"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TLG"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TLH"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.TLK"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TLL"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TLO"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TLR"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.TLS"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TLT"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.TLU"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.TMC"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.TMD"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.TMJ"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.TMK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TMN"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.TMQ"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TMW"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.TMY"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TNA"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TNB"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TNG"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TNH"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.TNI"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TNK"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.TNM"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TNN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TNO"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.TNQ"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TNW"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TNX"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TNY"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TOB"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.TOD"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TOH"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TON"
+msgstr "ቶንጋ"
+
+msgid "ISO_639-3.TOW"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.TOX"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.TPA"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TPF"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TPM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TPU"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.TPV"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TPY"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TQL"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-3.TQQ"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.TQR"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TQT"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.TQW"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TRA"
+msgstr "ኪርጊዝኛ"
+
+msgid "ISO_639-3.TRD"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TRE"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.TRH"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TRJ"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TRM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TRR"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.TRT"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.TRW"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.TRY"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TSA"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TSB"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TSC"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TSD"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.TSH"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TSJ"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TSN"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TSO"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TSP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TSU"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TSV"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TSZ"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.TTB"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.TTG"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TTI"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TTM"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TTN"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.TTR"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.TTS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TTV"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.TTW"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TUG"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.TUH"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.TUI"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TUJ"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TUK"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TUQ"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.TUR"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TUV"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TUY"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TUZ"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-3.TVK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TVN"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.TVO"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.TVS"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TVU"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.TVW"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.TWA"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TWB"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TWE"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.TWF"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TWI"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.TWL"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TWM"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TWN"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.TWO"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TWQ"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.TWR"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.TWU"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.TWW"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.TWY"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.TXA"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.TXB"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.TXH"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TXN"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.TXQ"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-3.TXR"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-3.TXS"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.TXX"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TXY"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.TYA"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.TYE"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.TYJ"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TYL"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.TYN"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-3.TZH"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.TZJ"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TZL"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.TZN"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.TZO"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.TZX"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.UAN"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.UBA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.UBR"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.UBY"
+msgstr "ኡዝበክኛ"
+
+msgid "ISO_639-3.UDG"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.UDJ"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.UDM"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.UDU"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.UHA"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.UHN"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.UIG"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-3.UKA"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.UKR"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.ULI"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.ULK"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.ULW"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.UMC"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.UMM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.UMN"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.UNM"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.UNN"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.UNR"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.UNU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.UNX"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.URA"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.URC"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.URD"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.URE"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.URF"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.URG"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.URM"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.URN"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.URT"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.URU"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.URV"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.URX"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.URY"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.USP"
+msgstr "ኤስፐራንቶ"
+
+msgid "ISO_639-3.UTP"
+msgstr "ቶንጋ"
+
+msgid "ISO_639-3.UUM"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-3.UZB"
+msgstr "ኡዝበክኛ"
+
+msgid "ISO_639-3.UZN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.UZS"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.VAG"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.VAN"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.VAO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.VAV"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.VBB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.VBK"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.VEC"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.VIE"
+msgstr "ቪትናምኛ"
+
+msgid "ISO_639-3.VKA"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.VKK"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.VKM"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.VKO"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.VMA"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.VMB"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.VMD"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.VME"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.VMG"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.VMH"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.VML"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.VNK"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.VRA"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.VRS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.WAA"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.WAE"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.WAI"
+msgstr "ፋሮኛ"
+
+msgid "ISO_639-3.WAL"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.WAQ"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.WAT"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.WAX"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.WBF"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.WBH"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.WBI"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.WBT"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.WDK"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.WEH"
+msgstr "ወልሽ"
+
+msgid "ISO_639-3.WET"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.WEU"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.WHG"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.WHU"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.WIB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.WII"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.WJI"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.WKA"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.WKB"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.WKL"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.WKU"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.WLA"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.WLE"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.WLG"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.WLI"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.WLO"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.WLS"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.WLW"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.WLY"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.WMD"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.WMI"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.WMM"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-3.WMS"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.WMW"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.WMX"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-3.WNG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.WNN"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.WNO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.WNU"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.WOC"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.WOE"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-3.WOF"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.WOI"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.WOL"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.WON"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.WOO"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.WOR"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.WPC"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.WRS"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.WRU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.WRY"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.WSK"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-3.WSS"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.WSU"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.WTM"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-3.WUL"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.WUU"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.WXW"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.WYI"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-3.WYY"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.XAB"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-3.XAC"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.XAD"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.XAE"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.XAJ"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.XAL"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.XAQ"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.XAR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.XBC"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.XBE"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-3.XBG"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.XBJ"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.XBM"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-3.XBN"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.XBO"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.XBR"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.XBY"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.XCL"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.XCO"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.XCR"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.XCU"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.XDC"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.XDY"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.XED"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-3.XFA"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.XGA"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.XGD"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.XGG"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.XGI"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.XGL"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-3.XGM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.XGR"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.XGU"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.XHA"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.XHE"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.XHO"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-3.XHR"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.XHU"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-3.XIB"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.XII"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.XIL"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.XIR"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-3.XIS"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-3.XJB"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.XJT"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.XKB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.XKE"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-3.XKF"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.XKQ"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.XKU"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.XKX"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.XKY"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.XLC"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.XLD"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.XLE"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.XLI"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.XLN"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.XLS"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-3.XMB"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.XME"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.XMF"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.XMJ"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.XMK"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.XMM"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.XMO"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.XMT"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.XMW"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.XNG"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.XNI"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.XNK"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.XNN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.XNS"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.XNT"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.XOG"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-3.XOR"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.XPA"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.XPG"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.XPI"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.XPR"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.XPS"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-3.XPT"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-3.XPU"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.XQA"
+msgstr "ቢሃሪ"
+
+msgid "ISO_639-3.XQT"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.XRG"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-3.XRM"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-3.XRN"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.XRQ"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.XRU"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.XRW"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.XSA"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.XSB"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.XSD"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.XSE"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.XSH"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.XSI"
+msgstr "ሲዳምኛ"
+
+msgid "ISO_639-3.XSM"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.XSO"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.XSP"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-3.XSR"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.XSS"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-3.XSV"
+msgstr "ስሎቪኛ"
+
+msgid "ISO_639-3.XSY"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.XTO"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-3.XTW"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.XTZ"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-3.XUM"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.XUN"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-3.XUR"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-3.XUU"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.XVI"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-3.XVO"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-3.XVS"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-3.XWA"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.XWK"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.XXR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.XXT"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-3.XYB"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.XYK"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.XYL"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.XZM"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-3.YAD"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.YAK"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.YAN"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.YAU"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.YAX"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.YBA"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.YBJ"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.YBK"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-3.YCH"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.YCL"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.YCN"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.YCP"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.YDA"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.YDD"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-3.YDG"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-3.YDK"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-3.YEC"
+msgstr "ፈረንሳይኛ"
+
+msgid "ISO_639-3.YEJ"
+msgstr "አይስላንድኛ"
+
+msgid "ISO_639-3.YER"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-3.YES"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.YGA"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.YGP"
+msgstr "ግዕዝኛ"
+
+msgid "ISO_639-3.YGR"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.YHA"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.YHD"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-3.YIA"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.YID"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-3.YIH"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-3.YII"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-3.YIM"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-3.YIN"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-3.YIP"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.YIQ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.YIR"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.YIS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.YIV"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.YKG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.YKL"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.YKM"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-3.YKO"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.YKR"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.YKT"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-3.YKU"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.YLB"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.YLG"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-3.YLM"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.YLO"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.YMC"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.YMD"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.YMH"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.YMI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.YMM"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.YMO"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.YMR"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-3.YMS"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.YMX"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.YMZ"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-3.YNA"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.YND"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.YNE"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.YNG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.YNN"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.YNO"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.YNS"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.YOB"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.YOL"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.YON"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-3.YOR"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.YPA"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.YPG"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.YPH"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.YPM"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.YPO"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-3.YPP"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.YPZ"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.YRB"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-3.YRY"
+msgstr "ካታላንኛ"
+
+msgid "ISO_639-3.YSD"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-3.YSN"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.YSP"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.YSY"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-3.YTA"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-3.YTL"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-3.YTP"
+msgstr "ታይኛ"
+
+msgid "ISO_639-3.YUC"
+msgstr "ደች"
+
+msgid "ISO_639-3.YUE"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.YUL"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.YUM"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-3.YUX"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.YWG"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-3.YWL"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-3.YWR"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.YXA"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.YXG"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-3.YXL"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-3.YYZ"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-3.YZG"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-3.YZK"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-3.ZAL"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.ZAU"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.ZBC"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-3.ZBE"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.ZBT"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-3.ZBW"
+msgstr "ጀርመን"
+
+msgid "ISO_639-3.ZGA"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.ZGB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZGM"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZGN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZGR"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.ZHI"
+msgstr "ትግረ"
+
+msgid "ISO_639-3.ZHN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZHO"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ZHW"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-3.ZIM"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-3.ZIR"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-3.ZIW"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-3.ZKH"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.ZKK"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.ZKN"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-3.ZKT"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-3.ZKU"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-3.ZKV"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZLN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZMC"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.ZMD"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.ZMG"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.ZMO"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-3.ZMU"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.ZMY"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-3.ZNG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-3.ZNS"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-3.ZOM"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-3.ZPC"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ZPD"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZPV"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ZQE"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZRG"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ZRN"
+msgstr "ክመርኛ"
+
+msgid "ISO_639-3.ZRP"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.ZRS"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-3.ZSA"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-3.ZSK"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-3.ZSM"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-3.ZSR"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZSU"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-3.ZUL"
+msgstr "ዙሉኛ"
+
+msgid "ISO_639-3.ZYB"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZYG"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZYN"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-3.ZYP"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-3.ZZA"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "ሶዞኛ"

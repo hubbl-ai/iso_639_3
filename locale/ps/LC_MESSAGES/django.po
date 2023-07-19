@@ -1,0 +1,2869 @@
+# Pushto translations for iso-codes
+# Copyright (C) 2004 Alastair McKinstry <mckinstry@debian.org>
+# This file is distributed under the same license as the iso-codes package.
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+#  Translations taken from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 21:21+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Pushto\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "عربي"
+
+msgid "ISO_639-3.AAF"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AAG"
+msgstr "عربي"
+
+msgid "ISO_639-3.AAZ"
+msgstr "عربي"
+
+msgid "ISO_639-3.ABD"
+msgstr "چیني"
+
+msgid "ISO_639-3.ABH"
+msgstr "عربي"
+
+msgid "ISO_639-3.ABV"
+msgstr "عربي"
+
+msgid "ISO_639-3.ABZ"
+msgstr "عربي"
+
+msgid "ISO_639-3.ACR"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.ACW"
+msgstr "عربي"
+
+msgid "ISO_639-3.ACX"
+msgstr "ارمني"
+
+msgid "ISO_639-3.ACY"
+msgstr "عربي"
+
+msgid "ISO_639-3.ADF"
+msgstr "عربي"
+
+msgid "ISO_639-3.ADL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.AEA"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AEC"
+msgstr "عربي"
+
+msgid "ISO_639-3.AEE"
+msgstr "ملایا"
+
+msgid "ISO_639-3.AEZ"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AFB"
+msgstr "عربي"
+
+msgid "ISO_639-3.AFD"
+msgstr "هندي"
+
+msgid "ISO_639-3.AFP"
+msgstr "تاجک"
+
+msgid "ISO_639-3.AGD"
+msgstr "عربي"
+
+msgid "ISO_639-3.AHR"
+msgstr "عربي"
+
+msgid "ISO_639-3.AIW"
+msgstr "عربي"
+
+msgid "ISO_639-3.AIX"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AJN"
+msgstr "هندي"
+
+msgid "ISO_639-3.AKR"
+msgstr "عربي"
+
+msgid "ISO_639-3.ALS"
+msgstr "حبشي"
+
+msgid "ISO_639-3.ANI"
+msgstr "هندي"
+
+msgid "ISO_639-3.ANK"
+msgstr "الماني"
+
+msgid "ISO_639-3.ANS"
+msgstr "الماني"
+
+msgid "ISO_639-3.ANY"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AOA"
+msgstr "مغولي"
+
+msgid "ISO_639-3.AOH"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AOJ"
+msgstr "روسي"
+
+msgid "ISO_639-3.AOS"
+msgstr "تاجک"
+
+msgid "ISO_639-3.AOT"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.APF"
+msgstr "عربي"
+
+msgid "ISO_639-3.APG"
+msgstr "ارمني"
+
+msgid "ISO_639-3.ARA"
+msgstr "عربي"
+
+msgid "ISO_639-3.ARD"
+msgstr "عربي"
+
+msgid "ISO_639-3.ARH"
+msgstr "عربي"
+
+msgid "ISO_639-3.ARL"
+msgstr "عربي"
+
+msgid "ISO_639-3.ARN"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.ARQ"
+msgstr "عربي"
+
+msgid "ISO_639-3.ARS"
+msgstr "عربي"
+
+msgid "ISO_639-3.ARY"
+msgstr "عربي"
+
+msgid "ISO_639-3.AST"
+msgstr "حبشي"
+
+msgid "ISO_639-3.ATN"
+msgstr "حبشي"
+
+msgid "ISO_639-3.ATX"
+msgstr "عربي"
+
+msgid "ISO_639-3.ATZ"
+msgstr "عربي"
+
+msgid "ISO_639-3.AUP"
+msgstr "ملایا"
+
+msgid "ISO_639-3.AUZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.AXM"
+msgstr "ارمني"
+
+msgid "ISO_639-3.AYH"
+msgstr "عربي"
+
+msgid "ISO_639-3.AYL"
+msgstr "عربي"
+
+msgid "ISO_639-3.AYN"
+msgstr "عربي"
+
+msgid "ISO_639-3.BAC"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BAL"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BBD"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BBQ"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BCG"
+msgstr "کردي"
+
+msgid "ISO_639-3.BCO"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BCQ"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.BCT"
+msgstr "هندي"
+
+msgid "ISO_639-3.BDF"
+msgstr "هندي"
+
+msgid "ISO_639-3.BDJ"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BDO"
+msgstr "الماني"
+
+msgid "ISO_639-3.BEH"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BEN"
+msgstr "مغولي"
+
+msgid "ISO_639-3.BFG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BFT"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BFX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BGE"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BGJ"
+msgstr "مغولي"
+
+msgid "ISO_639-3.BGU"
+msgstr "مغولي"
+
+msgid "ISO_639-3.BHG"
+msgstr "چیني"
+
+msgid "ISO_639-3.BHJ"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BHM"
+msgstr "تاتار"
+
+msgid "ISO_639-3.BHR"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.BHX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BIZ"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BJY"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BKU"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BKW"
+msgstr "ازبکي"
+
+msgid "ISO_639-3.BLG"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BLW"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.BMD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BMR"
+msgstr "چیني"
+
+msgid "ISO_639-3.BNC"
+msgstr "مغولي"
+
+msgid "ISO_639-3.BOP"
+msgstr "حبشي"
+
+msgid "ISO_639-3.BOW"
+msgstr "الماني"
+
+msgid "ISO_639-3.BPA"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.BPH"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.BPI"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BPJ"
+msgstr "هندي"
+
+msgid "ISO_639-3.BPQ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BPV"
+msgstr "هندي"
+
+msgid "ISO_639-3.BRF"
+msgstr "الماني"
+
+msgid "ISO_639-3.BRH"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BRJ"
+msgstr "فارسي"
+
+msgid "ISO_639-3.BSF"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BSH"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.BTA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.BTJ"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.BUC"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BUI"
+msgstr "مغولي"
+
+msgid "ISO_639-3.BUZ"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.BVP"
+msgstr "الماني"
+
+msgid "ISO_639-3.BVY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BVZ"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BXM"
+msgstr "مغولي"
+
+msgid "ISO_639-3.BXR"
+msgstr "روسي"
+
+msgid "ISO_639-3.BXU"
+msgstr "چیني"
+
+msgid "ISO_639-3.BYA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.BYH"
+msgstr "چیني"
+
+msgid "ISO_639-3.BYN"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.BYQ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.BZA"
+msgstr "هندي"
+
+msgid "ISO_639-3.BZB"
+msgstr "هندي"
+
+msgid "ISO_639-3.BZV"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.CAC"
+msgstr "چیني"
+
+msgid "ISO_639-3.CAK"
+msgstr "تاجک"
+
+msgid "ISO_639-3.CAL"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.CAR"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.CBI"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.CBW"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.CCG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.CCM"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.CDE"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.CDO"
+msgstr "چیني"
+
+msgid "ISO_639-3.CDY"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.CEN"
+msgstr "چیني"
+
+msgid "ISO_639-3.CHK"
+msgstr "چیني"
+
+msgid "ISO_639-3.CHM"
+msgstr "روسي"
+
+msgid "ISO_639-3.CIE"
+msgstr "چیني"
+
+msgid "ISO_639-3.CIP"
+msgstr "چیني"
+
+msgid "ISO_639-3.CJY"
+msgstr "چیني"
+
+msgid "ISO_639-3.CKB"
+msgstr "چیني"
+
+msgid "ISO_639-3.CLL"
+msgstr "چیني"
+
+msgid "ISO_639-3.CMA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.CME"
+msgstr "الماني"
+
+msgid "ISO_639-3.CMG"
+msgstr "مغولي"
+
+msgid "ISO_639-3.CMN"
+msgstr "چیني"
+
+msgid "ISO_639-3.CNH"
+msgstr "چیني"
+
+msgid "ISO_639-3.COX"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.CPI"
+msgstr "چیني"
+
+msgid "ISO_639-3.CPX"
+msgstr "کردي"
+
+msgid "ISO_639-3.CRR"
+msgstr "چیني"
+
+msgid "ISO_639-3.CTG"
+msgstr "چیني"
+
+msgid "ISO_639-3.CTU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.CZH"
+msgstr "چیني"
+
+msgid "ISO_639-3.DAD"
+msgstr "تاجک"
+
+msgid "ISO_639-3.DAM"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.DAV"
+msgstr "تاتار"
+
+msgid "ISO_639-3.DBA"
+msgstr "هندي"
+
+msgid "ISO_639-3.DBJ"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.DEC"
+msgstr "تاجک"
+
+msgid "ISO_639-3.DES"
+msgstr "فارسي"
+
+msgid "ISO_639-3.DEU"
+msgstr "الماني"
+
+msgid "ISO_639-3.DGL"
+msgstr "هندي"
+
+msgid "ISO_639-3.DHG"
+msgstr "مغولي"
+
+msgid "ISO_639-3.DIP"
+msgstr "ملایا"
+
+msgid "ISO_639-3.DIW"
+msgstr "ملایا"
+
+msgid "ISO_639-3.DJO"
+msgstr "ارمني"
+
+msgid "ISO_639-3.DKX"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.DLK"
+msgstr "تاجک"
+
+msgid "ISO_639-3.DLM"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.DMC"
+msgstr "تاتار"
+
+msgid "ISO_639-3.DMX"
+msgstr "الماني"
+
+msgid "ISO_639-3.DOX"
+msgstr "روسي"
+
+msgid "ISO_639-3.DPP"
+msgstr "تاتار"
+
+msgid "ISO_639-3.DRC"
+msgstr "هندي"
+
+msgid "ISO_639-3.DSO"
+msgstr "تاتار"
+
+msgid "ISO_639-3.DTY"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.DUP"
+msgstr "فارسي"
+
+msgid "ISO_639-3.DWR"
+msgstr "فارسي"
+
+msgid "ISO_639-3.DZA"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.EAA"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.EBK"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.EGL"
+msgstr "الماني"
+
+msgid "ISO_639-3.EKC"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.EKK"
+msgstr "ملایا"
+
+msgid "ISO_639-3.EMN"
+msgstr "الماني"
+
+msgid "ISO_639-3.ENB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.ENG"
+msgstr "انګلیسي"
+
+msgid "ISO_639-3.EST"
+msgstr "حبشي"
+
+msgid "ISO_639-3.EVH"
+msgstr "ازبکي"
+
+msgid "ISO_639-3.EZE"
+msgstr "ملایا"
+
+msgid "ISO_639-3.FAJ"
+msgstr "تاتار"
+
+msgid "ISO_639-3.FAS"
+msgstr "فارسي"
+
+msgid "ISO_639-3.FAX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.FAZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.FIN"
+msgstr "فینلنډي"
+
+msgid "ISO_639-3.FKV"
+msgstr "فینلنډي"
+
+msgid "ISO_639-3.FLY"
+msgstr "تاتار"
+
+msgid "ISO_639-3.FOR"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.FRA"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.FRC"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.FRK"
+msgstr "فینلنډي"
+
+msgid "ISO_639-3.FRP"
+msgstr "عربي"
+
+msgid "ISO_639-3.GAL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.GAN"
+msgstr "چیني"
+
+msgid "ISO_639-3.GAQ"
+msgstr "تاتار"
+
+msgid "ISO_639-3.GBF"
+msgstr "هندي"
+
+msgid "ISO_639-3.GCC"
+msgstr "ملایا"
+
+msgid "ISO_639-3.GCN"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.GDI"
+msgstr "هندي"
+
+msgid "ISO_639-3.GEA"
+msgstr "الماني"
+
+msgid "ISO_639-3.GEI"
+msgstr "عبري"
+
+msgid "ISO_639-3.GEJ"
+msgstr "الماني"
+
+msgid "ISO_639-3.GEQ"
+msgstr "الماني"
+
+msgid "ISO_639-3.GEW"
+msgstr "الماني"
+
+msgid "ISO_639-3.GFK"
+msgstr "تاتار"
+
+msgid "ISO_639-3.GHR"
+msgstr "الماني"
+
+msgid "ISO_639-3.GIQ"
+msgstr "الماني"
+
+msgid "ISO_639-3.GIR"
+msgstr "الماني"
+
+msgid "ISO_639-3.GIU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.GIW"
+msgstr "الماني"
+
+msgid "ISO_639-3.GJM"
+msgstr "هندي"
+
+msgid "ISO_639-3.GLG"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.GLH"
+msgstr "ملایا"
+
+msgid "ISO_639-3.GMA"
+msgstr "ارمني"
+
+msgid "ISO_639-3.GNE"
+msgstr "الماني"
+
+msgid "ISO_639-3.GNH"
+msgstr "عبري"
+
+msgid "ISO_639-3.GNM"
+msgstr "الماني"
+
+msgid "ISO_639-3.GNQ"
+msgstr "الماني"
+
+msgid "ISO_639-3.GOF"
+msgstr "الماني"
+
+msgid "ISO_639-3.GOU"
+msgstr "تاتار"
+
+msgid "ISO_639-3.GPN"
+msgstr "تاجک"
+
+msgid "ISO_639-3.GQU"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.GRO"
+msgstr "الماني"
+
+msgid "ISO_639-3.GSW"
+msgstr "الماني"
+
+msgid "ISO_639-3.GVL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.GVM"
+msgstr "الماني"
+
+msgid "ISO_639-3.GVR"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.GWW"
+msgstr "هندي"
+
+msgid "ISO_639-3.GYE"
+msgstr "الماني"
+
+msgid "ISO_639-3.GYL"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.GZN"
+msgstr "الماني"
+
+msgid "ISO_639-3.HAC"
+msgstr "الماني"
+
+msgid "ISO_639-3.HAD"
+msgstr "تاتار"
+
+msgid "ISO_639-3.HAK"
+msgstr "چیني"
+
+msgid "ISO_639-3.HAL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.HAM"
+msgstr "عبري"
+
+msgid "ISO_639-3.HAT"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.HBN"
+msgstr "فارسي"
+
+msgid "ISO_639-3.HBO"
+msgstr "عبري"
+
+msgid "ISO_639-3.HEB"
+msgstr "عبري"
+
+msgid "ISO_639-3.HEH"
+msgstr "عبري"
+
+msgid "ISO_639-3.HIF"
+msgstr "هندي"
+
+msgid "ISO_639-3.HII"
+msgstr "هندي"
+
+msgid "ISO_639-3.HIN"
+msgstr "هندي"
+
+msgid "ISO_639-3.HJI"
+msgstr "هندي"
+
+msgid "ISO_639-3.HKE"
+msgstr "هندي"
+
+msgid "ISO_639-3.HLA"
+msgstr "کردي"
+
+msgid "ISO_639-3.HMJ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.HNI"
+msgstr "هندي"
+
+msgid "ISO_639-3.HOJ"
+msgstr "هندي"
+
+msgid "ISO_639-3.HOW"
+msgstr "هندي"
+
+msgid "ISO_639-3.HRE"
+msgstr "عبري"
+
+msgid "ISO_639-3.HRX"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.HSN"
+msgstr "چیني"
+
+msgid "ISO_639-3.HUF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.HUQ"
+msgstr "تاتار"
+
+msgid "ISO_639-3.HYE"
+msgstr "ارمني"
+
+msgid "ISO_639-3.IBL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.IDB"
+msgstr "پورتګالي"
+
+msgid "ISO_639-3.IDR"
+msgstr "هندي"
+
+msgid "ISO_639-3.IGL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.IGN"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.ILB"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.ILM"
+msgstr "روسي"
+
+msgid "ISO_639-3.IMA"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.IMS"
+msgstr "فارسي"
+
+msgid "ISO_639-3.ISH"
+msgstr "حبشي"
+
+msgid "ISO_639-3.ITA"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.ITD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.ITK"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.ITV"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.ITY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.IVB"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.IVV"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.IZH"
+msgstr "مغولي"
+
+msgid "ISO_639-3.JAN"
+msgstr "عربي"
+
+msgid "ISO_639-3.JAQ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.JAY"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.JBJ"
+msgstr "عربي"
+
+msgid "ISO_639-3.JBK"
+msgstr "تاجک"
+
+msgid "ISO_639-3.JER"
+msgstr "عبري"
+
+msgid "ISO_639-3.JKR"
+msgstr "فارسي"
+
+msgid "ISO_639-3.JKU"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.JNI"
+msgstr "تاجک"
+
+msgid "ISO_639-3.JNS"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.JPN"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.JUK"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.JUT"
+msgstr "کردي"
+
+msgid "ISO_639-3.JVD"
+msgstr "تاجک"
+
+msgid "ISO_639-3.KAF"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KAK"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KBI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KBP"
+msgstr "کردي"
+
+msgid "ISO_639-3.KBY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KCK"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KCR"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KCT"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.KDE"
+msgstr "چیني"
+
+msgid "ISO_639-3.KED"
+msgstr "عبري"
+
+msgid "ISO_639-3.KEH"
+msgstr "الماني"
+
+msgid "ISO_639-3.KEJ"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KEQ"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KER"
+msgstr "الماني"
+
+msgid "ISO_639-3.KFB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KFD"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KFG"
+msgstr "کردي"
+
+msgid "ISO_639-3.KFH"
+msgstr "کردي"
+
+msgid "ISO_639-3.KFU"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KFW"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KFY"
+msgstr "الماني"
+
+msgid "ISO_639-3.KGP"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KHK"
+msgstr "کردي"
+
+msgid "ISO_639-3.KIM"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KIS"
+msgstr "کردي"
+
+msgid "ISO_639-3.KIX"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KJA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KJC"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KJR"
+msgstr "کردي"
+
+msgid "ISO_639-3.KKF"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KKQ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.KLG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KLJ"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.KLL"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KLM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KLW"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KLY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KMD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KMH"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KML"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KMR"
+msgstr "کردي"
+
+msgid "ISO_639-3.KNF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KOC"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.KPL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KQE"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.KRE"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KRL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.KRV"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KSI"
+msgstr "کردي"
+
+msgid "ISO_639-3.KSZ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.KTA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.KTM"
+msgstr "کردي"
+
+msgid "ISO_639-3.KUC"
+msgstr "هندي"
+
+msgid "ISO_639-3.KUH"
+msgstr "کردي"
+
+msgid "ISO_639-3.KUJ"
+msgstr "کردي"
+
+msgid "ISO_639-3.KUQ"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.KUR"
+msgstr "کردي"
+
+msgid "ISO_639-3.KUV"
+msgstr "کردي"
+
+msgid "ISO_639-3.KVW"
+msgstr "فارسي"
+
+msgid "ISO_639-3.KXN"
+msgstr "کردي"
+
+msgid "ISO_639-3.KXZ"
+msgstr "عبري"
+
+msgid "ISO_639-3.KYL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.KZQ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.LAB"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LAG"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LAL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.LAT"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LBF"
+msgstr "فینلنډي"
+
+msgid "ISO_639-3.LBI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LBK"
+msgstr "کردي"
+
+msgid "ISO_639-3.LBN"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LBO"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LBT"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.LDI"
+msgstr "تاتار"
+
+msgid "ISO_639-3.LEJ"
+msgstr "مغولي"
+
+msgid "ISO_639-3.LEX"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LGL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.LIM"
+msgstr "چیني"
+
+msgid "ISO_639-3.LIR"
+msgstr "انګلیسي"
+
+msgid "ISO_639-3.LJP"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LJW"
+msgstr "عربي"
+
+msgid "ISO_639-3.LKB"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.LKD"
+msgstr "چیني"
+
+msgid "ISO_639-3.LKI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LKM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.LKN"
+msgstr "چیني"
+
+msgid "ISO_639-3.LKO"
+msgstr "ملایا"
+
+msgid "ISO_639-3.LKS"
+msgstr "کردي"
+
+msgid "ISO_639-3.LKU"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.LLD"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LLH"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LLX"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LNB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.LNH"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LNI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LOE"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.LRE"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LRI"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.LRL"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LRM"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.LRZ"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.LSH"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LSI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LSM"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.LSS"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LTG"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.LTN"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LTO"
+msgstr "تاتار"
+
+msgid "ISO_639-3.LTS"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.LTU"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.LUD"
+msgstr "روسي"
+
+msgid "ISO_639-3.LUV"
+msgstr "ملایا"
+
+msgid "ISO_639-3.LWG"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.LWH"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.LWM"
+msgstr "ارمني"
+
+msgid "ISO_639-3.LZH"
+msgstr "چیني"
+
+msgid "ISO_639-3.LZN"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.MAF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MAH"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.MAM"
+msgstr "کردي"
+
+msgid "ISO_639-3.MBF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MBK"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MBP"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MBS"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MBY"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MCA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MCI"
+msgstr "چیني"
+
+msgid "ISO_639-3.MCP"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MCT"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MCZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MDG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MDH"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MDN"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.MDP"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MDX"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.MEC"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MED"
+msgstr "کردي"
+
+msgid "ISO_639-3.MEM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MEW"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MFB"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MFH"
+msgstr "تاتار"
+
+msgid "ISO_639-3.MFP"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MFY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MGG"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MGJ"
+msgstr "ارمني"
+
+msgid "ISO_639-3.MGQ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MGT"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MGU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MHF"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MHJ"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MHP"
+msgstr "چیني"
+
+msgid "ISO_639-3.MHQ"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MHY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MIC"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MJB"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MJJ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MJK"
+msgstr "تاتار"
+
+msgid "ISO_639-3.MJQ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MJR"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MJV"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MJZ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.MKA"
+msgstr "عبري"
+
+msgid "ISO_639-3.MKD"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MKE"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.MKR"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MKV"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MLA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MLF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MLG"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MLK"
+msgstr "تاتار"
+
+msgid "ISO_639-3.MLL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MLM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MLN"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MLX"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MLZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MMA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MMD"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MMO"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MMP"
+msgstr "هندي"
+
+msgid "ISO_639-3.MMU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MMX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MNA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MNM"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MNP"
+msgstr "چیني"
+
+msgid "ISO_639-3.MNS"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.MNZ"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MOD"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MOG"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MOM"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MON"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MOX"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MPD"
+msgstr "چیني"
+
+msgid "ISO_639-3.MPG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MPN"
+msgstr "هندي"
+
+msgid "ISO_639-3.MPT"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MPV"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MPW"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MPY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MQC"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MQP"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MQR"
+msgstr "چیني"
+
+msgid "ISO_639-3.MRG"
+msgstr "فارسي"
+
+msgid "ISO_639-3.MRH"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.MRS"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MRY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MSC"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MSH"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MSS"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MSV"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MTD"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MTL"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MTM"
+msgstr "تاتار"
+
+msgid "ISO_639-3.MTY"
+msgstr "عربي"
+
+msgid "ISO_639-3.MUM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MUP"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MUX"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MVA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MVF"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MVR"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MVU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MVZ"
+msgstr "فارسي"
+
+msgid "ISO_639-3.MWL"
+msgstr "چیني"
+
+msgid "ISO_639-3.MWX"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MWZ"
+msgstr "مغولي"
+
+msgid "ISO_639-3.MXG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MXI"
+msgstr "عربي"
+
+msgid "ISO_639-3.MXR"
+msgstr "روسي"
+
+msgid "ISO_639-3.MYB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MYG"
+msgstr "تاتار"
+
+msgid "ISO_639-3.MYH"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MYJ"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.MYX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MYY"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.MZD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MZJ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MZS"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.MZV"
+msgstr "ملایا"
+
+msgid "ISO_639-3.MZX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NAA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NAL"
+msgstr "تاجک"
+
+msgid "ISO_639-3.NAN"
+msgstr "چیني"
+
+msgid "ISO_639-3.NBC"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NBN"
+msgstr "کردي"
+
+msgid "ISO_639-3.NDS"
+msgstr "ارمني"
+
+msgid "ISO_639-3.NEQ"
+msgstr "کردي"
+
+msgid "ISO_639-3.NEW"
+msgstr "فارسي"
+
+msgid "ISO_639-3.NFD"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.NHA"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.NHO"
+msgstr "تاجک"
+
+msgid "ISO_639-3.NIB"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NIQ"
+msgstr "هندي"
+
+msgid "ISO_639-3.NIX"
+msgstr "الماني"
+
+msgid "ISO_639-3.NJN"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NJZ"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.NKB"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NKI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NKU"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NLC"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NLG"
+msgstr "الماني"
+
+msgid "ISO_639-3.NLQ"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NLW"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NMA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NMF"
+msgstr "فارسي"
+
+msgid "ISO_639-3.NMG"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NMM"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NNG"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NON"
+msgstr "فارسي"
+
+msgid "ISO_639-3.NPN"
+msgstr "مغولي"
+
+msgid "ISO_639-3.NQQ"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NQY"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NRT"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NRZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NSA"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NSF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NSY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NTD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.NUA"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.NUD"
+msgstr "مغولي"
+
+msgid "ISO_639-3.NXI"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.NYA"
+msgstr "الماني"
+
+msgid "ISO_639-3.NYF"
+msgstr "الماني"
+
+msgid "ISO_639-3.OCH"
+msgstr "چیني"
+
+msgid "ISO_639-3.OFS"
+msgstr "فارسي"
+
+msgid "ISO_639-3.OGE"
+msgstr "فارسي"
+
+msgid "ISO_639-3.OHU"
+msgstr "فارسي"
+
+msgid "ISO_639-3.OJB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.OJP"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.OLR"
+msgstr "الماني"
+
+msgid "ISO_639-3.OLT"
+msgstr "روسي"
+
+msgid "ISO_639-3.OMN"
+msgstr "مغولي"
+
+msgid "ISO_639-3.OMP"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.OMR"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.ONP"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.ONR"
+msgstr "ملایا"
+
+msgid "ISO_639-3.ONW"
+msgstr "فارسي"
+
+msgid "ISO_639-3.OOS"
+msgstr "روسي"
+
+msgid "ISO_639-3.OPT"
+msgstr "تاتار"
+
+msgid "ISO_639-3.ORC"
+msgstr "الماني"
+
+msgid "ISO_639-3.ORT"
+msgstr "عربي"
+
+msgid "ISO_639-3.ORV"
+msgstr "روسي"
+
+msgid "ISO_639-3.OSS"
+msgstr "روسي"
+
+msgid "ISO_639-3.OSX"
+msgstr "فارسي"
+
+msgid "ISO_639-3.OTB"
+msgstr "فارسي"
+
+msgid "ISO_639-3.OTY"
+msgstr "تاجک"
+
+msgid "ISO_639-3.OWL"
+msgstr "فارسي"
+
+msgid "ISO_639-3.PAS"
+msgstr "جاپانی"
+
+msgid "ISO_639-3.PAY"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.PCF"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.PEA"
+msgstr "فارسي"
+
+msgid "ISO_639-3.PEE"
+msgstr "تاجک"
+
+msgid "ISO_639-3.PEF"
+msgstr "ملایا"
+
+msgid "ISO_639-3.PEH"
+msgstr "حبشي"
+
+msgid "ISO_639-3.PEK"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.PES"
+msgstr "فارسي"
+
+msgid "ISO_639-3.PFL"
+msgstr "کردي"
+
+msgid "ISO_639-3.PGN"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.PIC"
+msgstr "هندي"
+
+msgid "ISO_639-3.PII"
+msgstr "هندي"
+
+msgid "ISO_639-3.PLA"
+msgstr "هندي"
+
+msgid "ISO_639-3.PLD"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.PLJ"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.PLP"
+msgstr "ملایا"
+
+msgid "ISO_639-3.PLT"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.PLZ"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.PMS"
+msgstr "ملایا"
+
+msgid "ISO_639-3.PNJ"
+msgstr "هندي"
+
+msgid "ISO_639-3.PNL"
+msgstr "الماني"
+
+msgid "ISO_639-3.POL"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.POR"
+msgstr "پورتګالي"
+
+msgid "ISO_639-3.PPQ"
+msgstr "فارسي"
+
+msgid "ISO_639-3.PRG"
+msgstr "فارسي"
+
+msgid "ISO_639-3.PRP"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.PSH"
+msgstr "ملایا"
+
+msgid "ISO_639-3.PSI"
+msgstr "ملایا"
+
+msgid "ISO_639-3.PTY"
+msgstr "فارسي"
+
+msgid "ISO_639-3.PUW"
+msgstr "پورتګالي"
+
+msgid "ISO_639-3.PUX"
+msgstr "تاتار"
+
+msgid "ISO_639-3.PWB"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.PWN"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.PWW"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.RAG"
+msgstr "مغولي"
+
+msgid "ISO_639-3.RAR"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.RHG"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.RJI"
+msgstr "تاجک"
+
+msgid "ISO_639-3.RKI"
+msgstr "چیني"
+
+msgid "ISO_639-3.RKM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.RKT"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.RKW"
+msgstr "عربي"
+
+msgid "ISO_639-3.RMH"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.RML"
+msgstr "ارمني"
+
+msgid "ISO_639-3.RMZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.RNL"
+msgstr "مغولي"
+
+msgid "ISO_639-3.RPT"
+msgstr "چیني"
+
+msgid "ISO_639-3.RUE"
+msgstr "روسي"
+
+msgid "ISO_639-3.RUK"
+msgstr "چیني"
+
+msgid "ISO_639-3.RUO"
+msgstr "حبشي"
+
+msgid "ISO_639-3.RUP"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.RUS"
+msgstr "روسي"
+
+msgid "ISO_639-3.SAC"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SAE"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SAN"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SAU"
+msgstr "الماني"
+
+msgid "ISO_639-3.SBE"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.SBL"
+msgstr "الماني"
+
+msgid "ISO_639-3.SBY"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.SCE"
+msgstr "مغولي"
+
+msgid "ISO_639-3.SCH"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SCK"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SDF"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SDH"
+msgstr "کردي"
+
+msgid "ISO_639-3.SDR"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SER"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.SGK"
+msgstr "مغولي"
+
+msgid "ISO_639-3.SGR"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SGS"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.SGU"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.SGY"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.SHQ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SHU"
+msgstr "ارمني"
+
+msgid "ISO_639-3.SIN"
+msgstr "چیني"
+
+msgid "ISO_639-3.SIQ"
+msgstr "حبشي"
+
+msgid "ISO_639-3.SIY"
+msgstr "هندي"
+
+msgid "ISO_639-3.SJN"
+msgstr "هندي"
+
+msgid "ISO_639-3.SJP"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SKC"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.SKG"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.SKM"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.SKR"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SKS"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SLI"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.SLN"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.SLR"
+msgstr "تاتار"
+
+msgid "ISO_639-3.SLZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SMM"
+msgstr "هندي"
+
+msgid "ISO_639-3.SMY"
+msgstr "الماني"
+
+msgid "ISO_639-3.SNI"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SPV"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SQR"
+msgstr "عربي"
+
+msgid "ISO_639-3.SRS"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SRT"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SRY"
+msgstr "الماني"
+
+msgid "ISO_639-3.SSE"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.SSH"
+msgstr "عربي"
+
+msgid "ISO_639-3.SSI"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SSJ"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.SSN"
+msgstr "تاتار"
+
+msgid "ISO_639-3.STG"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.STK"
+msgstr "عربي"
+
+msgid "ISO_639-3.STM"
+msgstr "الماني"
+
+msgid "ISO_639-3.SVX"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.SWE"
+msgstr "سویډنی"
+
+msgid "ISO_639-3.SWF"
+msgstr "عبري"
+
+msgid "ISO_639-3.SWK"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.SXK"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SXL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.SYM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.SYX"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.SZL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.TAE"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TAG"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TAK"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TAT"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TAW"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TAX"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TBA"
+msgstr "ارمني"
+
+msgid "ISO_639-3.TBC"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TBP"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TBU"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TBX"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.TBY"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TCD"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TDJ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TDM"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TDQ"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TEC"
+msgstr "الماني"
+
+msgid "ISO_639-3.TEK"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.TEQ"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TEY"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.TGB"
+msgstr "مغولي"
+
+msgid "ISO_639-3.TGC"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TGJ"
+msgstr "انګلیسي"
+
+msgid "ISO_639-3.TGK"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TGN"
+msgstr "مغولي"
+
+msgid "ISO_639-3.TGR"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TGX"
+msgstr "انګلیسي"
+
+msgid "ISO_639-3.TGZ"
+msgstr "ملایا"
+
+msgid "ISO_639-3.THE"
+msgstr "چیني"
+
+msgid "ISO_639-3.THN"
+msgstr "ارمني"
+
+msgid "ISO_639-3.THT"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TIK"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TIN"
+msgstr "هندي"
+
+msgid "ISO_639-3.TIU"
+msgstr "عربي"
+
+msgid "ISO_639-3.TKG"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.TKZ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TLH"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.TLT"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.TMC"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TMK"
+msgstr "ملایا"
+
+msgid "ISO_639-3.TMQ"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TMW"
+msgstr "الماني"
+
+msgid "ISO_639-3.TMY"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TNH"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.TNM"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TNQ"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TPA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TPY"
+msgstr "تاجک"
+
+msgid "ISO_639-3.TRH"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TRY"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TSD"
+msgstr "حبشي"
+
+msgid "ISO_639-3.TTG"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TTR"
+msgstr "الماني"
+
+msgid "ISO_639-3.TTS"
+msgstr "ملایا"
+
+msgid "ISO_639-3.TTV"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TTW"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.TUK"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TUV"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TUY"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TUZ"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TVS"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TVU"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.TWA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TWL"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TWN"
+msgstr "سویډنی"
+
+msgid "ISO_639-3.TWU"
+msgstr "الماني"
+
+msgid "ISO_639-3.TXX"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TXY"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.TYA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TYE"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.TZH"
+msgstr "تاتار"
+
+msgid "ISO_639-3.TZL"
+msgstr "روسي"
+
+msgid "ISO_639-3.TZX"
+msgstr "تاجک"
+
+msgid "ISO_639-3.UBY"
+msgstr "ازبکي"
+
+msgid "ISO_639-3.UKA"
+msgstr "کردي"
+
+msgid "ISO_639-3.ULK"
+msgstr "فارسي"
+
+msgid "ISO_639-3.ULW"
+msgstr "تاتار"
+
+msgid "ISO_639-3.UMC"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.UMN"
+msgstr "ملایا"
+
+msgid "ISO_639-3.UNX"
+msgstr "ملایا"
+
+msgid "ISO_639-3.UZB"
+msgstr "ازبکي"
+
+msgid "ISO_639-3.VAG"
+msgstr "ملایا"
+
+msgid "ISO_639-3.VAN"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.VEC"
+msgstr "ارمني"
+
+msgid "ISO_639-3.VMB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.VME"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.VML"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.VRA"
+msgstr "الماني"
+
+msgid "ISO_639-3.WAL"
+msgstr "تاتار"
+
+msgid "ISO_639-3.WAQ"
+msgstr "الماني"
+
+msgid "ISO_639-3.WAX"
+msgstr "تاتار"
+
+msgid "ISO_639-3.WBI"
+msgstr "تاجک"
+
+msgid "ISO_639-3.WET"
+msgstr "چیني"
+
+msgid "ISO_639-3.WHU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.WII"
+msgstr "هندي"
+
+msgid "ISO_639-3.WJI"
+msgstr "تاجک"
+
+msgid "ISO_639-3.WKB"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.WKL"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.WLE"
+msgstr "الماني"
+
+msgid "ISO_639-3.WLS"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.WLW"
+msgstr "ملایا"
+
+msgid "ISO_639-3.WLY"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.WMD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.WMI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.WUU"
+msgstr "چیني"
+
+msgid "ISO_639-3.WXW"
+msgstr "هندي"
+
+msgid "ISO_639-3.WYI"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.XAB"
+msgstr "الماني"
+
+msgid "ISO_639-3.XAD"
+msgstr "عربي"
+
+msgid "ISO_639-3.XAE"
+msgstr "ارمني"
+
+msgid "ISO_639-3.XAJ"
+msgstr "عربي"
+
+msgid "ISO_639-3.XAL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XBC"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.XBE"
+msgstr "الماني"
+
+msgid "ISO_639-3.XBG"
+msgstr "هندي"
+
+msgid "ISO_639-3.XBN"
+msgstr "کردي"
+
+msgid "ISO_639-3.XCL"
+msgstr "ارمني"
+
+msgid "ISO_639-3.XCR"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.XCU"
+msgstr "ارمني"
+
+msgid "ISO_639-3.XDC"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.XDY"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XED"
+msgstr "هندي"
+
+msgid "ISO_639-3.XFA"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.XGA"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.XGD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XGG"
+msgstr "ترکمني"
+
+msgid "ISO_639-3.XGI"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.XGL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.XGM"
+msgstr "الماني"
+
+msgid "ISO_639-3.XHR"
+msgstr "فارسي"
+
+msgid "ISO_639-3.XIB"
+msgstr "فارسي"
+
+msgid "ISO_639-3.XIL"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.XIS"
+msgstr "کردي"
+
+msgid "ISO_639-3.XJB"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.XJT"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XKE"
+msgstr "عبري"
+
+msgid "ISO_639-3.XLE"
+msgstr "ارمني"
+
+msgid "ISO_639-3.XLN"
+msgstr "عربي"
+
+msgid "ISO_639-3.XLS"
+msgstr "حبشي"
+
+msgid "ISO_639-3.XMB"
+msgstr "مغولي"
+
+msgid "ISO_639-3.XME"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.XMF"
+msgstr "مغولي"
+
+msgid "ISO_639-3.XMK"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.XMM"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.XMW"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.XNG"
+msgstr "مغولي"
+
+msgid "ISO_639-3.XNT"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.XPA"
+msgstr "عربي"
+
+msgid "ISO_639-3.XPG"
+msgstr "فارسي"
+
+msgid "ISO_639-3.XPI"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.XPR"
+msgstr "فارسي"
+
+msgid "ISO_639-3.XPS"
+msgstr "فارسي"
+
+msgid "ISO_639-3.XRG"
+msgstr "چیني"
+
+msgid "ISO_639-3.XRM"
+msgstr "عربي"
+
+msgid "ISO_639-3.XRN"
+msgstr "ارمني"
+
+msgid "ISO_639-3.XRQ"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.XRU"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XSB"
+msgstr "الماني"
+
+msgid "ISO_639-3.XSE"
+msgstr "الماني"
+
+msgid "ISO_639-3.XSS"
+msgstr "روسي"
+
+msgid "ISO_639-3.XSY"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.XTW"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XUN"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XUR"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.XVS"
+msgstr "حبشي"
+
+msgid "ISO_639-3.XWA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.XWK"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.XXT"
+msgstr "الماني"
+
+msgid "ISO_639-3.XYB"
+msgstr "هندي"
+
+msgid "ISO_639-3.XYK"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XYL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.XZM"
+msgstr "مقدوني"
+
+msgid "ISO_639-3.YAK"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.YAN"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YBA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YBK"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.YCH"
+msgstr "چیني"
+
+msgid "ISO_639-3.YCL"
+msgstr "مغولي"
+
+msgid "ISO_639-3.YCP"
+msgstr "چیني"
+
+msgid "ISO_639-3.YDA"
+msgstr "عربي"
+
+msgid "ISO_639-3.YEC"
+msgstr "فرانسوي"
+
+msgid "ISO_639-3.YER"
+msgstr "تاجک"
+
+msgid "ISO_639-3.YES"
+msgstr "الماني"
+
+msgid "ISO_639-3.YGA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YHD"
+msgstr "ایټالوي"
+
+msgid "ISO_639-3.YIM"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.YIP"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.YIQ"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.YKL"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.YKM"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.YKT"
+msgstr "تاتار"
+
+msgid "ISO_639-3.YLB"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YMD"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YMH"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YMI"
+msgstr "مغولي"
+
+msgid "ISO_639-3.YMM"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YMR"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YMS"
+msgstr "فارسي"
+
+msgid "ISO_639-3.YMZ"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.YNE"
+msgstr "لاتیني"
+
+msgid "ISO_639-3.YNS"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.YOL"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YPA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YPG"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.YPM"
+msgstr "تاجک"
+
+msgid "ISO_639-3.YPO"
+msgstr "پولنډي"
+
+msgid "ISO_639-3.YPP"
+msgstr "تاتار"
+
+msgid "ISO_639-3.YSD"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.YSN"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.YSY"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.YTA"
+msgstr "تاتار"
+
+msgid "ISO_639-3.YTL"
+msgstr "مغولي"
+
+msgid "ISO_639-3.YUC"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.YUE"
+msgstr "چیني"
+
+msgid "ISO_639-3.YXA"
+msgstr "ملایا"
+
+msgid "ISO_639-3.YXG"
+msgstr "عربي"
+
+msgid "ISO_639-3.YYZ"
+msgstr "ارمني"
+
+msgid "ISO_639-3.ZAU"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.ZBC"
+msgstr "کردي"
+
+msgid "ISO_639-3.ZBE"
+msgstr "الماني"
+
+msgid "ISO_639-3.ZBT"
+msgstr "بلوڅي"
+
+msgid "ISO_639-3.ZBW"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.ZHO"
+msgstr "چیني"
+
+msgid "ISO_639-3.ZKN"
+msgstr "الماني"
+
+msgid "ISO_639-3.ZKV"
+msgstr "ارمني"
+
+msgid "ISO_639-3.ZMC"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.ZNS"
+msgstr "ملغاسي"
+
+msgid "ISO_639-3.ZPC"
+msgstr "چیني"
+
+msgid "ISO_639-3.ZPV"
+msgstr "چیني"
+
+msgid "ISO_639-3.ZRG"
+msgstr "چیني"
+
+msgid "ISO_639-3.ZRS"
+msgstr "چیني"
+
+msgid "ISO_639-3.ZSA"
+msgstr "سنسکریټ"
+
+msgid "ISO_639-3.ZSM"
+msgstr "چیني"
+
+msgid "ISO_639-3.ZZA"
+msgstr "ملایا"

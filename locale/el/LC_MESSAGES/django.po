@@ -1,0 +1,2837 @@
+# Greek translation of ISO 639-3 (language names)
+# Copyright (C) 2001 - 2014 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Simos Xenitellis <simos@hellug.gr>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Konstantinos Margaritis <markos@debian.org>, 2004.
+# Athanasios Lefteris <alefteris@gmail.com>, 2008.
+# Savvas Radevic <vicedar@gmail.com>, 2012.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-01-20 22:15+0200\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_639-3.AAE"
+msgstr "Αλβανικά, Αρβανίτικα"
+
+msgid "ISO_639-3.AAO"
+msgstr "Αραβικά, Αλγερινής Σαχάρας"
+
+msgid "ISO_639-3.AAT"
+msgstr "Αλβανικά, Αρβανίτικα"
+
+msgid "ISO_639-3.ABH"
+msgstr "Αραβικά, Τατζικ"
+
+msgid "ISO_639-3.ABI"
+msgstr "Αμπιτζι"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Μαλαισιανά, Αμβον"
+
+msgid "ISO_639-3.ABV"
+msgstr "Αραβικά, Μπαχαρνά"
+
+msgid "ISO_639-3.ABW"
+msgstr "Παλ"
+
+msgid "ISO_639-3.ACF"
+msgstr "Γαλλική κρεολή, Αγίας Λουκίας"
+
+msgid "ISO_639-3.ACM"
+msgstr "Αραβικά, Μεσοποταμιακά"
+
+msgid "ISO_639-3.ACQ"
+msgstr "Αραβικά, Τάιτζι-Αντενι"
+
+msgid "ISO_639-3.ACW"
+msgstr "Αραβικά, Χιγιαζί"
+
+msgid "ISO_639-3.ACX"
+msgstr "Αραβικά, Ομανικά"
+
+msgid "ISO_639-3.ACY"
+msgstr "Αραβικά, Κυπριακά"
+
+msgid "ISO_639-3.ADB"
+msgstr "Ανταμπε"
+
+msgid "ISO_639-3.ADD"
+msgstr "Τζοντινκα"
+
+msgid "ISO_639-3.ADE"
+msgstr "Αντελε"
+
+msgid "ISO_639-3.ADF"
+msgstr "Αραβικά, Dhofari"
+
+msgid "ISO_639-3.ADI"
+msgstr "Αντι"
+
+msgid "ISO_639-3.ADL"
+msgstr "Γκαλο"
+
+msgid "ISO_639-3.ADN"
+msgstr "Αντανγκ"
+
+msgid "ISO_639-3.ADO"
+msgstr "Αμπου"
+
+msgid "ISO_639-3.ADS"
+msgstr "Νοηματική γλώσσα Ανταμορομπε"
+
+msgid "ISO_639-3.ADX"
+msgstr "Θιβετιανά, Amdo"
+
+msgid "ISO_639-3.AEB"
+msgstr "Αραβικά, Τυνησιακά"
+
+msgid "ISO_639-3.AEC"
+msgstr "Αραβικά, Σαϊντι"
+
+msgid "ISO_639-3.AED"
+msgstr "Νοηματική γλώσσα Αργεντινής"
+
+msgid "ISO_639-3.AEE"
+msgstr "Μαϊντου, Βορειοδυτικά"
+
+msgid "ISO_639-3.AEN"
+msgstr "Νοηματική γλώσσα Αρμενίας"
+
+msgid "ISO_639-3.AER"
+msgstr "Αραρντα, Ανατολικά"
+
+msgid "ISO_639-3.AFB"
+msgstr "Αραβικά, Κόλπου"
+
+msgid "ISO_639-3.AFG"
+msgstr "Νοηματική γλώσσα του Αφγανιστάν"
+
+msgid "ISO_639-3.AFS"
+msgstr "Κρεολή, Αφρο-Σεμινολική"
+
+msgid "ISO_639-3.AIG"
+msgstr "Αγγλική κρεολή, Αντίγκουας και Μπαρμπούντας"
+
+msgid "ISO_639-3.AII"
+msgstr "Νεο-Αραμαϊκά, Ασσυριακά"
+
+msgid "ISO_639-3.AJP"
+msgstr "Αραβικά, South Levantine"
+
+msgid "ISO_639-3.AJT"
+msgstr "Αραβικά, Ιουδαίων Τυνησίας"
+
+msgid "ISO_639-3.AJU"
+msgstr "Αραβικά, Ιουδαίων Μαρόκου"
+
+msgid "ISO_639-3.ALN"
+msgstr "Αλβανικά, Gheg"
+
+msgid "ISO_639-3.ALS"
+msgstr "Νεο-Αραμαϊκά, Δύσης"
+
+msgid "ISO_639-3.ANG"
+msgstr "Αγγλικά, Παλαιά (περ. 450-1100)"
+
+msgid "ISO_639-3.AOT"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.APC"
+msgstr "Αραβικά, North Levantine"
+
+msgid "ISO_639-3.APD"
+msgstr "Αραβικά, Σουδάν"
+
+msgid "ISO_639-3.ARA"
+msgstr "Αραβικά, Τυπικά"
+
+msgid "ISO_639-3.ARC"
+msgstr "Αραμαϊκά, Επίσημα (700-300 π.Κ.Π.)"
+
+msgid "ISO_639-3.ARP"
+msgstr "Αραβικά, Αλγηρίας"
+
+msgid "ISO_639-3.ARS"
+msgstr "Αραβικά, Najdi"
+
+msgid "ISO_639-3.ARY"
+msgstr "Αραβικά, Μαρόκου"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Αραβικά, Αιγύπτου"
+
+msgid "ISO_639-3.ASE"
+msgstr "Νοηματική γλώσσα Αμερικής"
+
+msgid "ISO_639-3.ASF"
+msgstr "Νοηματική γλώσσα Αυστραλίας"
+
+msgid "ISO_639-3.ASP"
+msgstr "Νοηματική γλώσσα Αλγερίας"
+
+msgid "ISO_639-3.ASQ"
+msgstr "Νοηματική γλώσσα Αυστρίας"
+
+msgid "ISO_639-3.AST"
+msgstr "Αστουριανά"
+
+msgid "ISO_639-3.ASW"
+msgstr "Νοηματική γλώσσα αυστραλών ιθαγενών"
+
+msgid "ISO_639-3.ATO"
+msgstr "Τζιμι (Καμερούν)"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Αραβικά, Uzbeki"
+
+msgid "ISO_639-3.AVA"
+msgstr "Αβαρικά"
+
+msgid "ISO_639-3.AVL"
+msgstr "Αραβικά, Bedawi Ανατολικής Αιγύπτου"
+
+msgid "ISO_639-3.AXL"
+msgstr "Τζουάνγκ, Νονγκ"
+
+msgid "ISO_639-3.AXM"
+msgstr "Αρμένικα, Μέσης εποχής"
+
+msgid "ISO_639-3.AYH"
+msgstr "Αραβικά, Hadrami"
+
+msgid "ISO_639-3.AYL"
+msgstr "Αραβικά, Λιβύης"
+
+msgid "ISO_639-3.AYN"
+msgstr "Αραβικά, Sanaani"
+
+msgid "ISO_639-3.AYP"
+msgstr "Αραβικά, Βόρειας Μεσοποταμίας"
+
+msgid "ISO_639-3.AZB"
+msgstr "Αζεριανά, Νότια"
+
+msgid "ISO_639-3.AZE"
+msgstr "Αζεριανά"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Αζεριανά, Βόρεια"
+
+msgid "ISO_639-3.BAH"
+msgstr "Αγγλική κρεολή, Μπαχάμες"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Μπαρακαϊ"
+
+msgid "ISO_639-3.BAK"
+msgstr "Μπασκιρ"
+
+msgid "ISO_639-3.BAM"
+msgstr "Μπαμπαρα"
+
+msgid "ISO_639-3.BAR"
+msgstr "Βαυαρικά"
+
+msgid "ISO_639-3.BBZ"
+msgstr "Αραβική κρεολή, Babalia"
+
+msgid "ISO_639-3.BCG"
+msgstr "Μανταρι"
+
+msgid "ISO_639-3.BDL"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.BEL"
+msgstr "Λευκωρωσικά"
+
+msgid "ISO_639-3.BEN"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.BFI"
+msgstr "Νοηματική γλώσσα Βρεττανίας"
+
+msgid "ISO_639-3.BFK"
+msgstr "Νοηματική γλώσσα Μπαν Κχορ"
+
+msgid "ISO_639-3.BGX"
+msgstr "Τουρκικά, Balkan Gagauz"
+
+msgid "ISO_639-3.BHR"
+msgstr "Μαλγασικά, Μπαρα"
+
+msgid "ISO_639-3.BMD"
+msgstr "Μανταρι"
+
+msgid "ISO_639-3.BMM"
+msgstr "Μαλγασικά, Βόρεια Μπετσιμισαρακα"
+
+msgid "ISO_639-3.BMN"
+msgstr "Μπινα (Παπούας Νέας Γουινέας)"
+
+msgid "ISO_639-3.BOD"
+msgstr "Θιβετιανά"
+
+msgid "ISO_639-3.BOG"
+msgstr "Νοηματική γλώσσα Μπαμακο"
+
+msgid "ISO_639-3.BOS"
+msgstr "Μαλαισιανά, Μπαντα"
+
+msgid "ISO_639-3.BQN"
+msgstr "Νοηματική γλώσσα Βουλγαρίας"
+
+msgid "ISO_639-3.BQY"
+msgstr "Νοηματική γλώσσα Μπενγκαλα"
+
+msgid "ISO_639-3.BRC"
+msgstr "Ολλανδική κρεολή, Μπερμπισε"
+
+msgid "ISO_639-3.BRE"
+msgstr "Βρετονικά"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Μαλαισιανά, Μπακαν"
+
+msgid "ISO_639-3.BUL"
+msgstr "Μαλαισιανά, Μπεραου"
+
+msgid "ISO_639-3.BVL"
+msgstr "Μαλαισιανά, Μπουκιτ"
+
+msgid "ISO_639-3.BXM"
+msgstr "Μπουριατ, Μογγολίας"
+
+msgid "ISO_639-3.BXR"
+msgstr "Ρώσικα"
+
+msgid "ISO_639-3.BXU"
+msgstr "Τσιν, Ματου"
+
+msgid "ISO_639-3.BZC"
+msgstr "Μαλγασικά, Νότιας Μπετσιμισαρακα"
+
+msgid "ISO_639-3.BZK"
+msgstr "Αγγλική κρεολή, Νικαράγουας"
+
+msgid "ISO_639-3.BZS"
+msgstr "Νοηματική γλώσσα Βραζιλίας"
+
+msgid "ISO_639-3.CAT"
+msgstr "Καταλανικά"
+
+msgid "ISO_639-3.CCD"
+msgstr "Κρεολή, Καφουντο"
+
+msgid "ISO_639-3.CCG"
+msgstr "Μαλαισιανή κρεολή, Μελάκας"
+
+msgid "ISO_639-3.CCO"
+msgstr "Τσιναντεκ, Σομαλτεπεκ"
+
+msgid "ISO_639-3.CDO"
+msgstr "Κινέζικα, Min Dong"
+
+msgid "ISO_639-3.CDS"
+msgstr "Νοηματική γλώσσα Τσαντ"
+
+msgid "ISO_639-3.CES"
+msgstr "Τσέχικα"
+
+msgid "ISO_639-3.CHE"
+msgstr "Τσετσένικα"
+
+msgid "ISO_639-3.CJY"
+msgstr "Κινέζικα, Jinyu"
+
+msgid "ISO_639-3.CKB"
+msgstr "Κινέζικα, Xiang"
+
+msgid "ISO_639-3.CMG"
+msgstr "Μογκολικά, Κλασσικά"
+
+msgid "ISO_639-3.CMN"
+msgstr "Κινέζικα, Mandarin"
+
+msgid "ISO_639-3.CNH"
+msgstr "Κορνουαλικά, Μέσης εποχής"
+
+msgid "ISO_639-3.COA"
+msgstr "Μαλαισιανά, Νήσοι Κόκος"
+
+msgid "ISO_639-3.COP"
+msgstr "Κόπτικα"
+
+msgid "ISO_639-3.COS"
+msgstr "Κορσικανικά"
+
+msgid "ISO_639-3.CPG"
+msgstr "Ελληνικά, Καππαδοκικά"
+
+msgid "ISO_639-3.CPI"
+msgstr "Πίτζιν Αγγλικά, Κινεζικά"
+
+msgid "ISO_639-3.CPX"
+msgstr "Κινέζικα, Που-Σιαν"
+
+msgid "ISO_639-3.CRH"
+msgstr "Ταταρικά, Κριμαίας"
+
+msgid "ISO_639-3.CRS"
+msgstr "Γαλλική κρεολή, Σεσελουά"
+
+msgid "ISO_639-3.CSC"
+msgstr "Νοηματική γλώσσα Καταλάν"
+
+msgid "ISO_639-3.CSD"
+msgstr "Νοηματική γλώσσα Τσιανγκμαϊ"
+
+msgid "ISO_639-3.CSE"
+msgstr "Νοηματική γλώσσα Τσεχίας"
+
+msgid "ISO_639-3.CSF"
+msgstr "Νοηματική γλώσσα Κούβας"
+
+msgid "ISO_639-3.CSG"
+msgstr "Κινέζικα, Xiang"
+
+msgid "ISO_639-3.CSL"
+msgstr "Νοηματική γλώσσα Κίνας"
+
+msgid "ISO_639-3.CSN"
+msgstr "Τσιναντεκ, Σομαλτεπεκ"
+
+msgid "ISO_639-3.CSQ"
+msgstr "Νοηματική γλώσσα Κροατίας"
+
+msgid "ISO_639-3.CSR"
+msgstr "Νοηματική γλώσσα Κόστα Ρίκα"
+
+msgid "ISO_639-3.CYM"
+msgstr "Ουαλικά"
+
+msgid "ISO_639-3.CZH"
+msgstr "Κινέζικα, Huizhou"
+
+msgid "ISO_639-3.CZO"
+msgstr "Κινέζικα, Min Zhon"
+
+msgid "ISO_639-3.DAN"
+msgstr "Δανέζικα"
+
+msgid "ISO_639-3.DEU"
+msgstr "Γερμανικά"
+
+msgid "ISO_639-3.DHX"
+msgstr "Νουνγκαλι"
+
+msgid "ISO_639-3.DIQ"
+msgstr "Ντιμλι (αυτόνομη γλώσσα)"
+
+msgid "ISO_639-3.DJK"
+msgstr "Κρεολή των ανατολικών Μαρούν"
+
+msgid "ISO_639-3.DLM"
+msgstr "Κροατικά (Δαλματίας)"
+
+msgid "ISO_639-3.DOI"
+msgstr "Ντογκρι (μακρογλώσσα)"
+
+msgid "ISO_639-3.DOQ"
+msgstr "Νοηματική γλώσσα Δομινικάνου"
+
+msgid "ISO_639-3.DSB"
+msgstr "Σερβικά"
+
+msgid "ISO_639-3.DSE"
+msgstr "Νοηματική γλώσσα Ολλανδίας"
+
+msgid "ISO_639-3.DSL"
+msgstr "Νοηματική γλώσσα Δανίας"
+
+msgid "ISO_639-3.DUM"
+msgstr "Ολλανδικά, Μέσης εποχής (περ. 1050-1350)"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ανατολικά Μποντόκ"
+
+msgid "ISO_639-3.EBO"
+msgstr "Τεκε-Εμπο"
+
+msgid "ISO_639-3.EBU"
+msgstr "Εμπου"
+
+msgid "ISO_639-3.ECS"
+msgstr "Νοηματική γλώσσα Ισημερινού"
+
+msgid "ISO_639-3.ECY"
+msgstr "Ετεοκυπριακά"
+
+msgid "ISO_639-3.EEE"
+msgstr "Ε"
+
+msgid "ISO_639-3.EGY"
+msgstr "Αρχαία Αιγυπτιακά"
+
+msgid "ISO_639-3.EKC"
+msgstr "Μαρι, Ανατολικό"
+
+msgid "ISO_639-3.EKK"
+msgstr "Εσθονικά"
+
+msgid "ISO_639-3.ELL"
+msgstr "Ελληνικά"
+
+msgid "ISO_639-3.ENG"
+msgstr "Αγγλικά"
+
+msgid "ISO_639-3.ENM"
+msgstr "Αγγλικά, Μέσης εποχής (1100-1500)"
+
+msgid "ISO_639-3.EPO"
+msgstr "Εσπεράντο"
+
+msgid "ISO_639-3.ESI"
+msgstr "Βόρεια Αραβικά, Αρχαία"
+
+msgid "ISO_639-3.ESL"
+msgstr "Νοηματική γλώσσα Αιγύπτου"
+
+msgid "ISO_639-3.ESN"
+msgstr "Νοηματική γλώσσα Ελ Σαλβαδόρ"
+
+msgid "ISO_639-3.ESO"
+msgstr "Νοηματική γλώσσα Εσθονίας"
+
+msgid "ISO_639-3.EST"
+msgstr "Εσθονικά"
+
+msgid "ISO_639-3.ETH"
+msgstr "Νοηματική γλώσσα Αιθιοπίας"
+
+msgid "ISO_639-3.ETT"
+msgstr "Ετρουσκικά"
+
+msgid "ISO_639-3.EUS"
+msgstr "Βασκικά"
+
+msgid "ISO_639-3.FAS"
+msgstr "Περσικά"
+
+msgid "ISO_639-3.FCS"
+msgstr "Νοηματική γλώσσα Κεμπέκ"
+
+msgid "ISO_639-3.FIN"
+msgstr "Φινλανδικά"
+
+msgid "ISO_639-3.FKV"
+msgstr "Φινλανδικά, Kven"
+
+msgid "ISO_639-3.FPE"
+msgstr "Αγγλική κρεολή, Φερνανδο Πο"
+
+msgid "ISO_639-3.FRA"
+msgstr "Γαλλικά"
+
+msgid "ISO_639-3.FRC"
+msgstr "Γαλλικά, Cajun"
+
+msgid "ISO_639-3.FRK"
+msgstr "Φραγκικά"
+
+msgid "ISO_639-3.FRM"
+msgstr "Γαλλικά, Μέσης εποχής (περ. 1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "Γαλλικά, Παλαιά (842-περ. 1400)"
+
+msgid "ISO_639-3.FSE"
+msgstr "Νοηματική γλώσσα Φινλανδίας"
+
+msgid "ISO_639-3.FSL"
+msgstr "Νοηματική γλώσσα Γαλλίας"
+
+msgid "ISO_639-3.FSS"
+msgstr "Φινλανδικό-σουηδική νοηματική γλώσσα"
+
+msgid "ISO_639-3.GAL"
+msgstr "Γκαλο"
+
+msgid "ISO_639-3.GAN"
+msgstr "Κινέζικα, Γκαν"
+
+msgid "ISO_639-3.GCF"
+msgstr "Γαλλική κρεολή, Γουαδαλούπης"
+
+msgid "ISO_639-3.GCL"
+msgstr "Αγγλική κρεολή, Γρεναδιανή"
+
+msgid "ISO_639-3.GCR"
+msgstr "Γαλλική κρεολή, Γουιανή"
+
+msgid "ISO_639-3.GDS"
+msgstr "Νοηματική γλώσσα Ghandruk"
+
+msgid "ISO_639-3.GDT"
+msgstr "Γερμανικά, Χουτερικά"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Γκεν"
+
+msgid "ISO_639-3.GLE"
+msgstr "Ιρλανδέζικα"
+
+msgid "ISO_639-3.GLH"
+msgstr "Μαϊντου, Βορειοδυτικά"
+
+msgid "ISO_639-3.GMH"
+msgstr "Ελληνικά, Μυκηναϊκά"
+
+msgid "ISO_639-3.GOH"
+msgstr "Γερμανικά, Ύστερη Παλαιά (περ. 750-1050)"
+
+msgid "ISO_639-3.GOT"
+msgstr "Γοτθικά"
+
+msgid "ISO_639-3.GPE"
+msgstr "Νοηματική γλώσσα Γκάνας"
+
+msgid "ISO_639-3.GRC"
+msgstr "Ελληνικά, Αρχαία"
+
+msgid "ISO_639-3.GSE"
+msgstr "Νοηματική γλώσσα Γκάνας"
+
+msgid "ISO_639-3.GSG"
+msgstr "Νοηματική γλώσσα Γερμανίας"
+
+msgid "ISO_639-3.GSM"
+msgstr "Νοηματική γλώσσα Γουατεμάλας"
+
+msgid "ISO_639-3.GSS"
+msgstr "Ελληνική νοηματική γλώσσα"
+
+msgid "ISO_639-3.GSW"
+msgstr "Γερμανικά, Αυστρίας"
+
+msgid "ISO_639-3.GUG"
+msgstr "Νοηματική γλώσσα Παραγουάης"
+
+msgid "ISO_639-3.GUL"
+msgstr "Αγγλική κρεολή, Sea Island"
+
+msgid "ISO_639-3.GUS"
+msgstr "Νοηματική γλώσσα Γουινέας"
+
+msgid "ISO_639-3.GVM"
+msgstr "Γκουρμανα"
+
+msgid "ISO_639-3.GYN"
+msgstr "Αγγλική κρεολή, Γουιάνας"
+
+msgid "ISO_639-3.HAB"
+msgstr "Νοηματική γλώσσα Χανοϊ"
+
+msgid "ISO_639-3.HAF"
+msgstr "Νοηματική γλώσσα Χαϊφονγκ"
+
+msgid "ISO_639-3.HAK"
+msgstr "Κινέζικα, Χακκα"
+
+msgid "ISO_639-3.HAL"
+msgstr "Χαλανγκ"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Χα"
+
+msgid "ISO_639-3.HAT"
+msgstr "Αϊτικά"
+
+msgid "ISO_639-3.HAW"
+msgstr "Χαβαϊανά"
+
+msgid "ISO_639-3.HBO"
+msgstr "Παλαιά Εβραϊκά"
+
+msgid "ISO_639-3.HBS"
+msgstr "Σερβο-Κροατικά"
+
+msgid "ISO_639-3.HCA"
+msgstr "Χίντι κρεολή, Ανταμάν"
+
+msgid "ISO_639-3.HDS"
+msgstr "Νοηματική γλώσσα Χονδούρας"
+
+msgid "ISO_639-3.HEB"
+msgstr "Εβραϊκά"
+
+msgid "ISO_639-3.HIF"
+msgstr "Χίντι, Φίτζι"
+
+msgid "ISO_639-3.HII"
+msgstr "Χιντουρι"
+
+msgid "ISO_639-3.HIN"
+msgstr "Ινδουικά"
+
+msgid "ISO_639-3.HKS"
+msgstr "Πομο, Νότια"
+
+msgid "ISO_639-3.HNU"
+msgstr "Χανγκ"
+
+msgid "ISO_639-3.HOC"
+msgstr "Χο"
+
+msgid "ISO_639-3.HOD"
+msgstr "Χολμα"
+
+msgid "ISO_639-3.HOL"
+msgstr "Χολου"
+
+msgid "ISO_639-3.HOM"
+msgstr "Χομα"
+
+msgid "ISO_639-3.HOP"
+msgstr "Χόπι"
+
+msgid "ISO_639-3.HOS"
+msgstr "Νοηματική γλώσσα Χο τσι μινχ"
+
+msgid "ISO_639-3.HOT"
+msgstr "Χοτε"
+
+msgid "ISO_639-3.HOW"
+msgstr "Χονι"
+
+msgid "ISO_639-3.HPS"
+msgstr "Πίτζιν χαβαϊκή νοηματική γλώσσα"
+
+msgid "ISO_639-3.HRE"
+msgstr "Χρε"
+
+msgid "ISO_639-3.HRK"
+msgstr "Χαρουκου"
+
+msgid "ISO_639-3.HRV"
+msgstr "Κροατικά"
+
+msgid "ISO_639-3.HSB"
+msgstr "Σερβικά"
+
+msgid "ISO_639-3.HSH"
+msgstr "Νοηματική γλώσσα Ουγγαρίας"
+
+msgid "ISO_639-3.HSL"
+msgstr "Νοηματική γλώσσα Χαουσα"
+
+msgid "ISO_639-3.HSN"
+msgstr "Πομο, Βόρεια"
+
+msgid "ISO_639-3.HUM"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.HUN"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.HWC"
+msgstr "Αγγλική κρεολή, Χαβάης"
+
+msgid "ISO_639-3.HYE"
+msgstr "Αρμένικα"
+
+msgid "ISO_639-3.IBY"
+msgstr "Αλβανικά"
+
+msgid "ISO_639-3.ICL"
+msgstr "Νοηματική γλώσσα Ισλανδίας"
+
+msgid "ISO_639-3.ICR"
+msgstr "Αγγλική κρεολή, Islander"
+
+msgid "ISO_639-3.IDB"
+msgstr "Ινδο-Πορτογαλικά"
+
+msgid "ISO_639-3.IDO"
+msgstr "Ίντο"
+
+msgid "ISO_639-3.III"
+msgstr "Λιθουανικά"
+
+msgid "ISO_639-3.IKR"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.IKS"
+msgstr "Νοηματική γλώσσα Ινδίας"
+
+msgid "ISO_639-3.ILB"
+msgstr "Ιταλικά"
+
+msgid "ISO_639-3.ILI"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.ILK"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.ILM"
+msgstr "Μουρικ (Μαλαισία)"
+
+msgid "ISO_639-3.IMA"
+msgstr "Μαλαισιανά, Μακασσαρ"
+
+msgid "ISO_639-3.INA"
+msgstr "Ιντερλίνγκουα (Διεθνής Σύνδεσμος Βοηθητικής Γλώσσας IALA)"
+
+msgid "ISO_639-3.INB"
+msgstr "Ινγκα"
+
+msgid "ISO_639-3.IND"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.INL"
+msgstr "Νοηματική γλώσσα Ινδονησίας"
+
+msgid "ISO_639-3.INS"
+msgstr "Νοηματική γλώσσα Ινδίας"
+
+msgid "ISO_639-3.IOR"
+msgstr "Ινορ"
+
+msgid "ISO_639-3.IPO"
+msgstr "Ιπικο"
+
+msgid "ISO_639-3.IRR"
+msgstr "Ιρ"
+
+msgid "ISO_639-3.ISE"
+msgstr "Νοηματική γλώσσα Ιταλίας"
+
+msgid "ISO_639-3.ISG"
+msgstr "Νοηματική γλώσσα Ιρλανδίας"
+
+msgid "ISO_639-3.ISL"
+msgstr "Ισλανδικά"
+
+msgid "ISO_639-3.ISR"
+msgstr "Νοηματική γλώσσα Ισραήλ"
+
+msgid "ISO_639-3.ITA"
+msgstr "Ιταλικά"
+
+msgid "ISO_639-3.ITD"
+msgstr "Πομο, Νότια"
+
+msgid "ISO_639-3.ITK"
+msgstr "Ιταλικά"
+
+msgid "ISO_639-3.IZH"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.JAC"
+msgstr "Κόπτικα"
+
+msgid "ISO_639-3.JAM"
+msgstr "Μαλαισιανά, Τζαμπι"
+
+msgid "ISO_639-3.JCS"
+msgstr "Επαρχιακή νοηματική γλώσσα Τζαμάικας"
+
+msgid "ISO_639-3.JDA"
+msgstr "Τζαντ"
+
+msgid "ISO_639-3.JEG"
+msgstr "Γιενγκ"
+
+msgid "ISO_639-3.JGE"
+msgstr "Εβραιο-Γεωργιανά"
+
+msgid "ISO_639-3.JHS"
+msgstr "Νοηματική γλώσσα Jhankot"
+
+msgid "ISO_639-3.JIC"
+msgstr "Τολ"
+
+msgid "ISO_639-3.JID"
+msgstr "Μπου"
+
+msgid "ISO_639-3.JIM"
+msgstr "Τζιμι (Καμερούν)"
+
+msgid "ISO_639-3.JIO"
+msgstr "Τζιαμαο"
+
+msgid "ISO_639-3.JIT"
+msgstr "Τζιτα"
+
+msgid "ISO_639-3.JJR"
+msgstr "Μπανκαλ"
+
+msgid "ISO_639-3.JLS"
+msgstr "Νοηματική γλώσσα Τζαμάικας"
+
+msgid "ISO_639-3.JMA"
+msgstr "Ντιμα"
+
+msgid "ISO_639-3.JMI"
+msgstr "Τζιμι (Νιγηρίας)"
+
+msgid "ISO_639-3.JMS"
+msgstr "Μασι (Νιγηρίας)"
+
+msgid "ISO_639-3.JOS"
+msgstr "Νοηματική γλώσσα Ιορδανίας"
+
+msgid "ISO_639-3.JPA"
+msgstr "Αραμαϊκά, Εβραίων Παλαιστινίων"
+
+msgid "ISO_639-3.JPN"
+msgstr "Ιαπωνική γλώσσα"
+
+msgid "ISO_639-3.JPR"
+msgstr "Εβραιο-περσική γλώσσα"
+
+msgid "ISO_639-3.JRB"
+msgstr "Ιουδαιο-Αραβικά"
+
+msgid "ISO_639-3.JRR"
+msgstr "Τζιρου"
+
+msgid "ISO_639-3.JSL"
+msgstr "Νοηματική γλώσσα Ιαπωνίας"
+
+msgid "ISO_639-3.JUS"
+msgstr "Νοηματική γλώσσα Τζουμλα"
+
+msgid "ISO_639-3.JYE"
+msgstr "Αραβικά, Ιουδαίων Υεμένης"
+
+msgid "ISO_639-3.KAK"
+msgstr "Χαλανγκ"
+
+msgid "ISO_639-3.KAT"
+msgstr "Γεωργιανά"
+
+msgid "ISO_639-3.KBV"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.KGI"
+msgstr "Νοηματική γλώσσα Σελανγκορ"
+
+msgid "ISO_639-3.KGL"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.KGO"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.KHG"
+msgstr "Θιβετιανά, Amdo"
+
+msgid "ISO_639-3.KHK"
+msgstr "Κούρδικα, κεντρικά"
+
+msgid "ISO_639-3.KIE"
+msgstr "Θιβετιανά"
+
+msgid "ISO_639-3.KIS"
+msgstr "Κούρδικα"
+
+msgid "ISO_639-3.KIU"
+msgstr "Νοηματική γλώσσα Dimli (προσωπική)"
+
+msgid "ISO_639-3.KJV"
+msgstr "Νοηματική γλώσσα Λετονίας"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.KMR"
+msgstr "Κούρδικα"
+
+msgid "ISO_639-3.KMV"
+msgstr "Γαλλική κρεολική, Καριπούνα"
+
+msgid "ISO_639-3.KNG"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.KNN"
+msgstr "Νοηματική γλώσσα Dimli (προσωπική)"
+
+msgid "ISO_639-3.KOK"
+msgstr "Κονκανι (μακρογλώσσα)"
+
+msgid "ISO_639-3.KON"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.KOR"
+msgstr "Κορεάτικα"
+
+msgid "ISO_639-3.KRL"
+msgstr "Ιταλικά"
+
+msgid "ISO_639-3.KUE"
+msgstr "Μα (Παπούα Νέα Γουινέα)"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Αστουριανά"
+
+msgid "ISO_639-3.KUR"
+msgstr "Κούρδικα"
+
+msgid "ISO_639-3.KUV"
+msgstr "Κούρδικα"
+
+msgid "ISO_639-3.KVD"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.KVK"
+msgstr "Νοηματική γλώσσα Κορέας"
+
+msgid "ISO_639-3.KVW"
+msgstr "Περσικά"
+
+msgid "ISO_639-3.KWN"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.KYW"
+msgstr "Σομαλικά"
+
+msgid "ISO_639-3.KZX"
+msgstr "Βαυαρικά"
+
+msgid "ISO_639-3.LAL"
+msgstr "Ιταλικά"
+
+msgid "ISO_639-3.LAT"
+msgstr "Λατινικά"
+
+msgid "ISO_639-3.LAV"
+msgstr "Λετονέζικα"
+
+msgid "ISO_639-3.LBS"
+msgstr "Νοηματική γλώσσα Λιβύης"
+
+msgid "ISO_639-3.LDK"
+msgstr "Τοκελάου"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Μογκολικά"
+
+msgid "ISO_639-3.LHH"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Αστουριανά"
+
+msgid "ISO_639-3.LIR"
+msgstr "Αγγλικά"
+
+msgid "ISO_639-3.LIT"
+msgstr "Λιθουανικά"
+
+msgid "ISO_639-3.LJW"
+msgstr "Μανταρι"
+
+msgid "ISO_639-3.LKU"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.LLS"
+msgstr "Νοηματική γλώσσα Λιθουανίας"
+
+msgid "ISO_639-3.LOU"
+msgstr "Μαλαισιανά, Λαραντουκα"
+
+msgid "ISO_639-3.LSG"
+msgstr "Νοηματική γλώσσα Lyons"
+
+msgid "ISO_639-3.LSL"
+msgstr "Νοηματική γλώσσα Λετονίας"
+
+msgid "ISO_639-3.LSO"
+msgstr "Νοηματική γλώσσα Λάος"
+
+msgid "ISO_639-3.LSP"
+msgstr "Νοηματική γλώσσα Παναμά"
+
+msgid "ISO_639-3.LSR"
+msgstr "Αρουοπ"
+
+msgid "ISO_639-3.LSS"
+msgstr "Λασι"
+
+msgid "ISO_639-3.LST"
+msgstr "Νοηματική γλώσσα Τρινιδάδ και Τομπάγκο"
+
+msgid "ISO_639-3.LSY"
+msgstr "Κινέζικα, Τέλη Μεσαίωνα"
+
+msgid "ISO_639-3.LTI"
+msgstr "Λετι (Ινδονησίας)"
+
+msgid "ISO_639-3.LTU"
+msgstr "Λατου"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Λουξεμβουργιανά"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Λουνα"
+
+msgid "ISO_639-3.LUO"
+msgstr "Λουο (Κένυας και Τανζανίας)"
+
+msgid "ISO_639-3.LUP"
+msgstr "Λουμπου"
+
+msgid "ISO_639-3.LVS"
+msgstr "Λετονική, Τυπική"
+
+msgid "ISO_639-3.LZH"
+msgstr "Κινέζικα, Φιλολογική"
+
+msgid "ISO_639-3.LZZ"
+msgstr "Λαζ"
+
+msgid "ISO_639-3.MAF"
+msgstr "Μαφα"
+
+msgid "ISO_639-3.MAK"
+msgstr "Μακασαρ"
+
+msgid "ISO_639-3.MAM"
+msgstr "Μαμ"
+
+msgid "ISO_639-3.MAS"
+msgstr "Μασάι"
+
+msgid "ISO_639-3.MAX"
+msgstr "Μαλαισιανά, Μπαμπα"
+
+msgid "ISO_639-3.MBZ"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.MCM"
+msgstr "Πορτογαλική κρεολή, Μελάκας"
+
+msgid "ISO_639-3.MCN"
+msgstr "Μασανα"
+
+msgid "ISO_639-3.MCO"
+msgstr "Μισε, Κοατλάν"
+
+msgid "ISO_639-3.MDL"
+msgstr "Μαλαισιανά, Παττανι"
+
+msgid "ISO_639-3.MFC"
+msgstr "Μπα"
+
+msgid "ISO_639-3.MFF"
+msgstr "Νακι"
+
+msgid "ISO_639-3.MFH"
+msgstr "Ματαλ"
+
+msgid "ISO_639-3.MFL"
+msgstr "Πουταϊ"
+
+msgid "ISO_639-3.MFO"
+msgstr "Μπε"
+
+msgid "ISO_639-3.MFP"
+msgstr "Μαλαισιανά, Μακασσαρ"
+
+msgid "ISO_639-3.MFQ"
+msgstr "Μομπα"
+
+msgid "ISO_639-3.MFS"
+msgstr "Νοηματική γλώσσα Μεξικού"
+
+msgid "ISO_639-3.MFT"
+msgstr "Μοκερανγκ"
+
+msgid "ISO_639-3.MFW"
+msgstr "Μουλαχα"
+
+msgid "ISO_639-3.MFX"
+msgstr "Μελο"
+
+msgid "ISO_639-3.MGA"
+msgstr "Ιρλανδικά, Μεσαιωνικά (900-1200)"
+
+msgid "ISO_639-3.MGT"
+msgstr "Μονγκολ"
+
+msgid "ISO_639-3.MGW"
+msgstr "Ματουμπι"
+
+msgid "ISO_639-3.MHF"
+msgstr "Μαμαα"
+
+msgid "ISO_639-3.MHG"
+msgstr "Μαργκου"
+
+msgid "ISO_639-3.MHK"
+msgstr "Μουνγκακα"
+
+msgid "ISO_639-3.MHL"
+msgstr "Μαουακε"
+
+msgid "ISO_639-3.MHO"
+msgstr "Μασι (Ζάμπια)"
+
+msgid "ISO_639-3.MHP"
+msgstr "Μαλαισιανά, Μπαλί"
+
+msgid "ISO_639-3.MHR"
+msgstr "Μαρι, Ανατολικό"
+
+msgid "ISO_639-3.MHS"
+msgstr "Μπουρου (Ινδονησία)"
+
+msgid "ISO_639-3.MHT"
+msgstr "Μανταχουακα"
+
+msgid "ISO_639-3.MHX"
+msgstr "Μαρου"
+
+msgid "ISO_639-3.MIA"
+msgstr "Μαϊάμι"
+
+msgid "ISO_639-3.MIE"
+msgstr "Μιστεπεκ οκοτεπεκ"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Αμπαρ"
+
+msgid "ISO_639-3.MIK"
+msgstr "Μικασουκι"
+
+msgid "ISO_639-3.MIL"
+msgstr "Μιστεκ, Πενιολες"
+
+msgid "ISO_639-3.MIM"
+msgstr "Μιστεκ, Αλακατλατζαλα"
+
+msgid "ISO_639-3.MIN"
+msgstr "Μινανγκαμπαου"
+
+msgid "ISO_639-3.MIO"
+msgstr "Μιστεκ, Πινοτεπα Νασιοναλ"
+
+msgid "ISO_639-3.MIP"
+msgstr "Μιστεκ, Απασκο-Αποαλα"
+
+msgid "ISO_639-3.MIQ"
+msgstr "Μίσκιτο"
+
+msgid "ISO_639-3.MIS"
+msgstr "Μη κωδικοποιημένες γλώσσες"
+
+msgid "ISO_639-3.MIT"
+msgstr "Μιστεκ, Νοτιου Πουεμπλα"
+
+msgid "ISO_639-3.MIU"
+msgstr "Μιστεκ, Κακαλοστεπεκ"
+
+msgid "ISO_639-3.MIW"
+msgstr "Ακογιε"
+
+msgid "ISO_639-3.MIX"
+msgstr "Μιστεκ, Μιστεπεκ"
+
+msgid "ISO_639-3.MIY"
+msgstr "Μιστεκ, Αγιουτλα"
+
+msgid "ISO_639-3.MIZ"
+msgstr "Μιστεκ, Κοατζοσπαν"
+
+msgid "ISO_639-3.MJB"
+msgstr "Μακασαρ"
+
+msgid "ISO_639-3.MJC"
+msgstr "Μιστεκ, Σαν Χουάν Κολοράντο"
+
+msgid "ISO_639-3.MJD"
+msgstr "Μαϊντου, Βορειοδυτικά"
+
+msgid "ISO_639-3.MJE"
+msgstr "Μουσκουμ"
+
+msgid "ISO_639-3.MJG"
+msgstr "Του"
+
+msgid "ISO_639-3.MJI"
+msgstr "Κιμ Μουν"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Μαουακ"
+
+msgid "ISO_639-3.MJK"
+msgstr "Ματουκαρ"
+
+msgid "ISO_639-3.MJL"
+msgstr "Μαντεαλι"
+
+msgid "ISO_639-3.MJM"
+msgstr "Μεντεμπουρ"
+
+msgid "ISO_639-3.MJN"
+msgstr "Μα (Παπούα Νέα Γουινέα)"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Μαλαριανά"
+
+msgid "ISO_639-3.MKD"
+msgstr "Σλαβομακεδονικά"
+
+msgid "ISO_639-3.MKG"
+msgstr "Μακ (Κίνα)"
+
+msgid "ISO_639-3.MKL"
+msgstr "Μοκολε"
+
+msgid "ISO_639-3.MKM"
+msgstr "Μοκλεν"
+
+msgid "ISO_639-3.MKN"
+msgstr "Μαλαισιανά, Κουπανγκ"
+
+msgid "ISO_639-3.MKO"
+msgstr "Μινγκανγκ Ντοσο"
+
+msgid "ISO_639-3.MKP"
+msgstr "Μοϊκοντι"
+
+msgid "ISO_639-3.MKR"
+msgstr "Μαλας"
+
+msgid "ISO_639-3.MKS"
+msgstr "Μιστεκ, Σιλακαγιοαπαν"
+
+msgid "ISO_639-3.MKT"
+msgstr "Βαμαλε"
+
+msgid "ISO_639-3.MKU"
+msgstr "Μανινκα, Κονυανκα"
+
+msgid "ISO_639-3.MKV"
+msgstr "Μαφεα"
+
+msgid "ISO_639-3.MKW"
+msgstr "Κιτουμπα (Κονγκό)"
+
+msgid "ISO_639-3.MLB"
+msgstr "Μπουλε"
+
+msgid "ISO_639-3.MLE"
+msgstr "Μαναμπου"
+
+msgid "ISO_639-3.MLF"
+msgstr "Μαλ"
+
+msgid "ISO_639-3.MLG"
+msgstr "Μαλγασικά"
+
+msgid "ISO_639-3.MLS"
+msgstr "Μασαλιτ"
+
+msgid "ISO_639-3.MLT"
+msgstr "Μαλτεζικά"
+
+msgid "ISO_639-3.MLW"
+msgstr "Μολοκο"
+
+msgid "ISO_639-3.MMA"
+msgstr "Μαμα"
+
+msgid "ISO_639-3.MMD"
+msgstr "Μαοναν"
+
+msgid "ISO_639-3.MME"
+msgstr "Μαε"
+
+msgid "ISO_639-3.MMF"
+msgstr "Μουντατ"
+
+msgid "ISO_639-3.MMG"
+msgstr "Αμπρυμ, Βορειο"
+
+msgid "ISO_639-3.MMH"
+msgstr "Μεχινάκου"
+
+msgid "ISO_639-3.MMI"
+msgstr "Μουσαρ"
+
+msgid "ISO_639-3.MMP"
+msgstr "Σιαουι"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Μουσακ"
+
+msgid "ISO_639-3.MNC"
+msgstr "Μαντσου"
+
+msgid "ISO_639-3.MND"
+msgstr "Μοντέ"
+
+msgid "ISO_639-3.MNE"
+msgstr "Ναμπα"
+
+msgid "ISO_639-3.MNG"
+msgstr "Μνονγκ, Ανατολικά"
+
+msgid "ISO_639-3.MNH"
+msgstr "Μονο (Λαϊκή Δημοκρατία του Κονγκό)"
+
+msgid "ISO_639-3.MNI"
+msgstr "Μανιπουρι"
+
+msgid "ISO_639-3.MNK"
+msgstr "Μαντινκα"
+
+msgid "ISO_639-3.MNL"
+msgstr "Τιαλε"
+
+msgid "ISO_639-3.MNM"
+msgstr "Μαπενα"
+
+msgid "ISO_639-3.MNP"
+msgstr "Κινέζικα, Min Μπεϊ"
+
+msgid "ISO_639-3.MNR"
+msgstr "Μονο (ΗΠΑ)"
+
+msgid "ISO_639-3.MNS"
+msgstr "Μανσι"
+
+msgid "ISO_639-3.MNU"
+msgstr "Μερ"
+
+msgid "ISO_639-3.MNV"
+msgstr "Ρενελ-Μπελονα"
+
+msgid "ISO_639-3.MNW"
+msgstr "Μον"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Μονι"
+
+msgid "ISO_639-3.MOD"
+msgstr "Μομπιλικά"
+
+msgid "ISO_639-3.MOE"
+msgstr "Μοντανιέ"
+
+msgid "ISO_639-3.MOH"
+msgstr "Μοχόκ"
+
+msgid "ISO_639-3.MOI"
+msgstr "Μποϊ"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Μονζομπο"
+
+msgid "ISO_639-3.MOK"
+msgstr "Μορορι"
+
+msgid "ISO_639-3.MON"
+msgstr "Μογκολικά"
+
+msgid "ISO_639-3.MOO"
+msgstr "Μονομ"
+
+msgid "ISO_639-3.MOP"
+msgstr "Μοπάν Μάγια"
+
+msgid "ISO_639-3.MOR"
+msgstr "Μορο"
+
+msgid "ISO_639-3.MOS"
+msgstr "Μοσι"
+
+msgid "ISO_639-3.MOT"
+msgstr "Μπαρί"
+
+msgid "ISO_639-3.MOU"
+msgstr "Μογκουμ"
+
+msgid "ISO_639-3.MOV"
+msgstr "Μοχάβε"
+
+msgid "ISO_639-3.MOW"
+msgstr "Μοϊ (Κονγκό)"
+
+msgid "ISO_639-3.MOX"
+msgstr "Μολιμα"
+
+msgid "ISO_639-3.MPN"
+msgstr "Ινδουικά"
+
+msgid "ISO_639-3.MQA"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.MQC"
+msgstr "Μανγκολε"
+
+msgid "ISO_639-3.MQG"
+msgstr "Μαλαισιανά, Κοτα Μπανγκουν Κουταϊ"
+
+msgid "ISO_639-3.MQH"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.MQI"
+msgstr "Μαριρι"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Μαμασα"
+
+msgid "ISO_639-3.MQL"
+msgstr "Μπελιμε"
+
+msgid "ISO_639-3.MQO"
+msgstr "Μοντολε"
+
+msgid "ISO_639-3.MQP"
+msgstr "Μανιπα"
+
+msgid "ISO_639-3.MQT"
+msgstr "Μοκ"
+
+msgid "ISO_639-3.MQU"
+msgstr "Μανταρι"
+
+msgid "ISO_639-3.MQV"
+msgstr "Μοσιμο"
+
+msgid "ISO_639-3.MQW"
+msgstr "Μουρουπι"
+
+msgid "ISO_639-3.MQZ"
+msgstr "Πανο"
+
+msgid "ISO_639-3.MRB"
+msgstr "Μαρινο"
+
+msgid "ISO_639-3.MRE"
+msgstr "Νοηματική γλώσσα Μάρθας Βίνγιαρντ"
+
+msgid "ISO_639-3.MRF"
+msgstr "Ελσενγκ"
+
+msgid "ISO_639-3.MRG"
+msgstr "Μισινγκ"
+
+msgid "ISO_639-3.MRI"
+msgstr "Μάορι"
+
+msgid "ISO_639-3.MRM"
+msgstr "Μερλαβ"
+
+msgid "ISO_639-3.MRO"
+msgstr "Μρου"
+
+msgid "ISO_639-3.MSA"
+msgstr "Μαλαισιανά (μακρογλώσσα)"
+
+msgid "ISO_639-3.MSD"
+msgstr "Νοηματική γλώσσα Γιούκατεκ Μάγια"
+
+msgid "ISO_639-3.MSH"
+msgstr "Μαλαισιανά, Σαμπαχ"
+
+msgid "ISO_639-3.MSR"
+msgstr "Νοηματική γλώσσα Μογγολίας"
+
+msgid "ISO_639-3.MTU"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.MUC"
+msgstr "Λουμπου"
+
+msgid "ISO_639-3.MUL"
+msgstr "Πολλαπλές γλώσσες"
+
+msgid "ISO_639-3.MVF"
+msgstr "Μογκολικά, Κλασσικά"
+
+msgid "ISO_639-3.MXI"
+msgstr "Αραβικά"
+
+msgid "ISO_639-3.MXN"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.MXR"
+msgstr "Μουρικ (Μαλαισία)"
+
+msgid "ISO_639-3.MXS"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.MXT"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.MXY"
+msgstr "Ζαποτέκ, Νοτιανατολικού Ixtlán"
+
+msgid "ISO_639-3.MZC"
+msgstr "Νοηματική γλώσσα Μαδαγασκάρης"
+
+msgid "ISO_639-3.MZG"
+msgstr "Νοηματική γλώσσα Μοναστικ"
+
+msgid "ISO_639-3.MZS"
+msgstr "Γιαπωνέζικα"
+
+msgid "ISO_639-3.MZY"
+msgstr "Νοηματική γλώσσα Μοζαμβίκης"
+
+msgid "ISO_639-3.NAN"
+msgstr "Κινέζικα, Min Dong"
+
+msgid "ISO_639-3.NAZ"
+msgstr "Ζαποτέκ, Μιαχουατλάν"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Βουλγάρικα"
+
+msgid "ISO_639-3.NBS"
+msgstr "Νοηματική γλώσσα Ναμίμπιας"
+
+msgid "ISO_639-3.NCS"
+msgstr "Νοηματική γλώσσα Νικαράγουας"
+
+msgid "ISO_639-3.NDF"
+msgstr "Λετονέζικα"
+
+msgid "ISO_639-3.NDS"
+msgstr "Γερμανικά, Πρώιμου Μεσαίωνα"
+
+msgid "ISO_639-3.NEF"
+msgstr "Βιετναμέζικα"
+
+msgid "ISO_639-3.NEP"
+msgstr "Νεπαλική μακρογλώσσα"
+
+msgid "ISO_639-3.NGM"
+msgstr "Κρεολή Νγκατικ Μεν"
+
+msgid "ISO_639-3.NGY"
+msgstr "Θιβετιανά"
+
+msgid "ISO_639-3.NHB"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.NJN"
+msgstr "Νοηματική γλώσσα Τσιανγκμαϊ"
+
+msgid "ISO_639-3.NLD"
+msgstr "Ολλανδικά"
+
+msgid "ISO_639-3.NLI"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Ναγκα, Τασε"
+
+msgid "ISO_639-3.NLW"
+msgstr "Χαλανγκ"
+
+msgid "ISO_639-3.NNO"
+msgstr "Νορβηγικά Nynorsk"
+
+msgid "ISO_639-3.NOB"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.NOR"
+msgstr "Νορβηγικά"
+
+msgid "ISO_639-3.NPI"
+msgstr "Νοηματική γλώσσα Dimli (προσωπική)"
+
+msgid "ISO_639-3.NSE"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.NSI"
+msgstr "Νοηματική γλώσσα Νιγηρίας"
+
+msgid "ISO_639-3.NSL"
+msgstr "Νοηματική γλώσσα Νορβηγίας"
+
+msgid "ISO_639-3.NSP"
+msgstr "Νοηματική γλώσσα Νεπάλ"
+
+msgid "ISO_639-3.NSR"
+msgstr "Νοηματική γλώσσα των επαρχιών Μαριτάιμ"
+
+msgid "ISO_639-3.NSS"
+msgstr "Ναγκα, Τασε"
+
+msgid "ISO_639-3.NSW"
+msgstr "Ναβουτ"
+
+msgid "ISO_639-3.NTD"
+msgstr "Μαϊντου, Βορειοδυτικά"
+
+msgid "ISO_639-3.NTR"
+msgstr "Ντελο"
+
+msgid "ISO_639-3.NUA"
+msgstr "Τζουάνγκ"
+
+msgid "ISO_639-3.NUG"
+msgstr "Μογκολικά, Κλασσικά"
+
+msgid "ISO_639-3.NXI"
+msgstr "Νιντι"
+
+msgid "ISO_639-3.NZS"
+msgstr "Νοηματική γλώσσα Νέας Ζηλανδίας"
+
+msgid "ISO_639-3.OAR"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.OBR"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.OBT"
+msgstr "Βρετονικά"
+
+msgid "ISO_639-3.OCH"
+msgstr "Κινέζικα, Yue"
+
+msgid "ISO_639-3.OCO"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.ODT"
+msgstr "Ολλανδικά"
+
+msgid "ISO_639-3.OFS"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.OGE"
+msgstr "Γεωργιανά"
+
+msgid "ISO_639-3.OHU"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.OJP"
+msgstr "Γιαπωνέζικα"
+
+msgid "ISO_639-3.OKL"
+msgstr "Νοηματική γλώσσα Kentish, Παλαιά"
+
+msgid "ISO_639-3.OKM"
+msgstr "Γαλλικά, Μεσαιωνικά (~ 1400-1600)"
+
+msgid "ISO_639-3.OKO"
+msgstr "Γαλλικά, Μεσαιωνικά (~ 1400-1600)"
+
+msgid "ISO_639-3.OLT"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.OOS"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.ORI"
+msgstr "Ορίγια μακρογλώσσα"
+
+msgid "ISO_639-3.ORV"
+msgstr "Ρώσικα"
+
+msgid "ISO_639-3.OSC"
+msgstr "Ετρουσκικά"
+
+msgid "ISO_639-3.OSP"
+msgstr "Παλαιά Νορβηγικά"
+
+msgid "ISO_639-3.OTA"
+msgstr "Οθωμανικά Τουρκικά (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "Θιβετιανά, Amdo"
+
+msgid "ISO_639-3.OTK"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.OTY"
+msgstr "Ταϊλανδέζικα"
+
+msgid "ISO_639-3.OWL"
+msgstr "Ουαλικά"
+
+msgid "ISO_639-3.PAN"
+msgstr "Πουντζάμπι"
+
+msgid "ISO_639-3.PAT"
+msgstr "Καταλανικά"
+
+msgid "ISO_639-3.PBY"
+msgstr "Μα (Παπούα Νέα Γουινέα)"
+
+msgid "ISO_639-3.PCM"
+msgstr "Πίτζιν, Nιγηριανά"
+
+msgid "ISO_639-3.PEA"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.PEB"
+msgstr "Ανατολικά Πομο"
+
+msgid "ISO_639-3.PED"
+msgstr "Μαλα (Παπούα Νέα Γουινέα)"
+
+msgid "ISO_639-3.PEG"
+msgstr "Πενγκο"
+
+msgid "ISO_639-3.PEH"
+msgstr "Μποναν"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Πομο, Βόρεια"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Πομο, Νότια"
+
+msgid "ISO_639-3.PES"
+msgstr "Περσικά, Ιρανικά"
+
+msgid "ISO_639-3.PEV"
+msgstr "Πέμονο"
+
+msgid "ISO_639-3.PEX"
+msgstr "Πετατς"
+
+msgid "ISO_639-3.PEZ"
+msgstr "Πεναν, Ανατολικά"
+
+msgid "ISO_639-3.PFE"
+msgstr "Πεερε"
+
+msgid "ISO_639-3.PGA"
+msgstr "Αραβική κρεολή, Σουδανική"
+
+msgid "ISO_639-3.PGG"
+msgstr "Πανγκουαλι"
+
+msgid "ISO_639-3.PGI"
+msgstr "Παγκι"
+
+msgid "ISO_639-3.PGL"
+msgstr "Ιρλανδικά, Πρωτόγονα"
+
+msgid "ISO_639-3.PGS"
+msgstr "Πανγκσενγκ"
+
+msgid "ISO_639-3.PGU"
+msgstr "Παγκου"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Νοηματική γλώσσα Γουινέας"
+
+msgid "ISO_639-3.PHA"
+msgstr "Πα-Χνγκ"
+
+msgid "ISO_639-3.PHN"
+msgstr "Φοινικικά"
+
+msgid "ISO_639-3.PKP"
+msgstr "Πουκαπουκα"
+
+msgid "ISO_639-3.PKS"
+msgstr "Νοηματική γλώσσα Πακιστάν"
+
+msgid "ISO_639-3.PKU"
+msgstr "Πακου"
+
+msgid "ISO_639-3.PLA"
+msgstr "Μιανι"
+
+msgid "ISO_639-3.PLD"
+msgstr "Ποπολουκα, Ολουτα"
+
+msgid "ISO_639-3.PLP"
+msgstr "Παλπα"
+
+msgid "ISO_639-3.PLT"
+msgstr "Μαλγασικά, Πλατό"
+
+msgid "ISO_639-3.PLU"
+msgstr "Παλικούρ"
+
+msgid "ISO_639-3.PMF"
+msgstr "Παμονα"
+
+msgid "ISO_639-3.PMM"
+msgstr "Πομο"
+
+msgid "ISO_639-3.PMN"
+msgstr "Παμ"
+
+msgid "ISO_639-3.PMO"
+msgstr "Μαλαισιανά, Παπούας"
+
+msgid "ISO_639-3.PNB"
+msgstr "Πουντζάμπι, Δυτικά"
+
+msgid "ISO_639-3.PNT"
+msgstr "Ποντιακά"
+
+msgid "ISO_639-3.POL"
+msgstr "Πολωνέζικα"
+
+msgid "ISO_639-3.POR"
+msgstr "Πορτογαλικά"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Περσικά"
+
+msgid "ISO_639-3.PRG"
+msgstr "Ρώσικα"
+
+msgid "ISO_639-3.PRL"
+msgstr "Νοηματική γλώσσα Περού"
+
+msgid "ISO_639-3.PRO"
+msgstr "Ιρλανδικά, Παλαιά (ως το 900)"
+
+msgid "ISO_639-3.PRZ"
+msgstr "Νοηματική γλώσσα Providencia"
+
+msgid "ISO_639-3.PSC"
+msgstr "Νοηματική γλώσσα Περσίας (Ιραν)"
+
+msgid "ISO_639-3.PSD"
+msgstr "Μαλαισιανά, Κεντρική"
+
+msgid "ISO_639-3.PSG"
+msgstr "Νοηματική γλώσσα Πενανγκ"
+
+msgid "ISO_639-3.PSH"
+msgstr "Αραβικά, South Levantine"
+
+msgid "ISO_639-3.PSL"
+msgstr "Νοηματική γλώσσα Πουέρτο Ρίκο"
+
+msgid "ISO_639-3.PSO"
+msgstr "Νοηματική γλώσσα Πολωνίας"
+
+msgid "ISO_639-3.PSP"
+msgstr "Νοηματική γλώσσα Φιλιππινών"
+
+msgid "ISO_639-3.PSR"
+msgstr "Νοηματική γλώσσα Πορτογαλίας"
+
+msgid "ISO_639-3.PYS"
+msgstr "Νοηματική γλώσσα Παραγουάης"
+
+msgid "ISO_639-3.RAS"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.RCF"
+msgstr "Γαλλική κρεολή, Ρεουνιόν"
+
+msgid "ISO_639-3.REN"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.RGN"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RKW"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMG"
+msgstr "Νορβηγικά"
+
+msgid "ISO_639-3.RMH"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.RML"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMM"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMO"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMS"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMV"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMW"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMX"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RMY"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.ROH"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.ROL"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RON"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RSB"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RSI"
+msgstr "Νοηματική γλώσσα Rennellese"
+
+msgid "ISO_639-3.RSL"
+msgstr "Νοηματική γλώσσα Ρωσίας"
+
+msgid "ISO_639-3.RSM"
+msgstr "Κινέζικα, Jinyu"
+
+msgid "ISO_639-3.RUK"
+msgstr "Τσετσένικα"
+
+msgid "ISO_639-3.RUO"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RUP"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.RUS"
+msgstr "Ρώσικα"
+
+msgid "ISO_639-3.RXD"
+msgstr "Βουλγάρικα"
+
+msgid "ISO_639-3.RXW"
+msgstr "Πανγκουαλι"
+
+msgid "ISO_639-3.SAN"
+msgstr "Σανσκριτικά"
+
+msgid "ISO_639-3.SCF"
+msgstr "Γαλλική κρεολή, Σαν Μιγκέλ"
+
+msgid "ISO_639-3.SCI"
+msgstr "Μαλαισιανή κρεολή, Σρι Λάνκας"
+
+msgid "ISO_639-3.SCN"
+msgstr "Σικελιανά"
+
+msgid "ISO_639-3.SCO"
+msgstr "Σκοτς"
+
+msgid "ISO_639-3.SDG"
+msgstr "Σαβι"
+
+msgid "ISO_639-3.SDH"
+msgstr "Κουρδικά, Νότια"
+
+msgid "ISO_639-3.SDK"
+msgstr "Σος Κουντι"
+
+msgid "ISO_639-3.SDL"
+msgstr "Νοηματική γλώσσα Σαουδικής Αραβίας"
+
+msgid "ISO_639-3.SFS"
+msgstr "Νοηματική γλώσσα Νοτίου Αφρικής"
+
+msgid "ISO_639-3.SGA"
+msgstr "Ιρλανδικά, Παλαιά (ως το 900)"
+
+msgid "ISO_639-3.SGG"
+msgstr "Αυστρο-γερμανική νοηματική γλώσσα"
+
+msgid "ISO_639-3.SGS"
+msgstr "Κροατικά (Δαλματίας)"
+
+msgid "ISO_639-3.SGX"
+msgstr "Νοηματική γλώσσα Σιέρα Λεόνε"
+
+msgid "ISO_639-3.SHU"
+msgstr "Αραβικά, Saidi"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Εσθονικά"
+
+msgid "ISO_639-3.SKC"
+msgstr "Μαλαισιακά, Τυπική γλώσσα"
+
+msgid "ISO_639-3.SKG"
+msgstr "Μαλγασικά, Σακαλαβα"
+
+msgid "ISO_639-3.SKI"
+msgstr "Σικα"
+
+msgid "ISO_639-3.SKJ"
+msgstr "Σεκε (Νεπάλ)"
+
+msgid "ISO_639-3.SKK"
+msgstr "Σοκ"
+
+msgid "ISO_639-3.SKM"
+msgstr "Κουτονγκ"
+
+msgid "ISO_639-3.SKW"
+msgstr "Ολλανδική κρεολή, Σκεπι"
+
+msgid "ISO_639-3.SKY"
+msgstr "Σικαϊανα"
+
+msgid "ISO_639-3.SLC"
+msgstr "Σάλιμπα"
+
+msgid "ISO_639-3.SLF"
+msgstr "Ελβετο-Ιταλική νοηματική γλώσσα"
+
+msgid "ISO_639-3.SLI"
+msgstr "Περσικά"
+
+msgid "ISO_639-3.SLK"
+msgstr "Σλοβακικά"
+
+msgid "ISO_639-3.SLS"
+msgstr "Νοηματική γλώσσα Σιγκαπούρης"
+
+msgid "ISO_639-3.SLU"
+msgstr "Λευκωρωσικά"
+
+msgid "ISO_639-3.SLV"
+msgstr "Σλοβενικά"
+
+msgid "ISO_639-3.SMC"
+msgstr "Σομαλικά"
+
+msgid "ISO_639-3.SOA"
+msgstr "Ταϊλανδέζικη"
+
+msgid "ISO_639-3.SOD"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Σομαλικά"
+
+msgid "ISO_639-3.SOM"
+msgstr "Σομαλικά"
+
+msgid "ISO_639-3.SOO"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-3.SPA"
+msgstr "Δανέζικα"
+
+msgid "ISO_639-3.SPB"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.SQI"
+msgstr "Αλβανικά"
+
+msgid "ISO_639-3.SQK"
+msgstr "Νοηματική γλώσσα Αλβανίας"
+
+msgid "ISO_639-3.SQR"
+msgstr "Αραβικά, Κόλπου"
+
+msgid "ISO_639-3.SQS"
+msgstr "Νοηματική γλώσσα Σρι Λάνκας"
+
+msgid "ISO_639-3.SRO"
+msgstr "Νοηματική γλώσσα Ιαπωνίας"
+
+msgid "ISO_639-3.SRP"
+msgstr "Σερβικά"
+
+msgid "ISO_639-3.SSE"
+msgstr "Χαλανγκ"
+
+msgid "ISO_639-3.SSH"
+msgstr "Αραβικά, Saidi"
+
+msgid "ISO_639-3.SSI"
+msgstr "Σανσκριτικά"
+
+msgid "ISO_639-3.SSP"
+msgstr "Νοηματική γλώσσα Ισπανίας"
+
+msgid "ISO_639-3.SSR"
+msgstr "Αυστρο-γαλλική νοηματική γλώσσα"
+
+msgid "ISO_639-3.SVC"
+msgstr "Αγγλική κρεολή, Βικεντιανά"
+
+msgid "ISO_639-3.SVE"
+msgstr "Σεριλι"
+
+msgid "ISO_639-3.SVK"
+msgstr "Νοηματική γλώσσα Σλοβακίας"
+
+msgid "ISO_639-3.SVS"
+msgstr "Σαβοσαβο"
+
+msgid "ISO_639-3.SWA"
+msgstr "Σουαχίλι (μακρογλώσσα)"
+
+msgid "ISO_639-3.SWC"
+msgstr "Σουαχίλι, Κονγκό"
+
+msgid "ISO_639-3.SWE"
+msgstr "Σουηδικά"
+
+msgid "ISO_639-3.SWF"
+msgstr "Σερε"
+
+msgid "ISO_639-3.SWG"
+msgstr "Σουαβιανά"
+
+msgid "ISO_639-3.SWH"
+msgstr "Σουαχίλι (μεμονωμένη γλώσσα)"
+
+msgid "ISO_639-3.SWI"
+msgstr "Σουι"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Σιρα"
+
+msgid "ISO_639-3.SWK"
+msgstr "Σενα, Μαλάουι"
+
+msgid "ISO_639-3.SWL"
+msgstr "Νοηματική γλώσσα Σουηδίας"
+
+msgid "ISO_639-3.SWM"
+msgstr "Σαμοσα"
+
+msgid "ISO_639-3.SWP"
+msgstr "Σουαου"
+
+msgid "ISO_639-3.SYR"
+msgstr "Συριακά"
+
+msgid "ISO_639-3.SYY"
+msgstr "Νοηματική γλώσσα Αλ-Σαγιντ Βεδουίνων"
+
+msgid "ISO_639-3.SZL"
+msgstr "Περσικά"
+
+msgid "ISO_639-3.TAE"
+msgstr "Βαυαρικά"
+
+msgid "ISO_639-3.TAL"
+msgstr "Ταϊλανδέζικα"
+
+msgid "ISO_639-3.TAM"
+msgstr "Ταϊλανδέζικα"
+
+msgid "ISO_639-3.TAW"
+msgstr "Μαλαισιανά, Μπαλί"
+
+msgid "ISO_639-3.TCH"
+msgstr "Αγγλική κρεολή, Τερκς και Κέικος"
+
+msgid "ISO_639-3.TCL"
+msgstr "Ταμαν (Μιανμάρ)"
+
+msgid "ISO_639-3.TCS"
+msgstr "Κρεολή, Στενών Τόρες"
+
+msgid "ISO_639-3.TDX"
+msgstr "Μαλγασικά, Ταντροϊ-Μαχαφαλι"
+
+msgid "ISO_639-3.TEK"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.TEY"
+msgstr "Αγγλική κρεολή, Τομπάγκου"
+
+msgid "ISO_639-3.THA"
+msgstr "Ταϊλανδέζικη"
+
+msgid "ISO_639-3.THY"
+msgstr "Ταϊλανδέζικη"
+
+msgid "ISO_639-3.TIN"
+msgstr "Ινδουικά"
+
+msgid "ISO_639-3.TKG"
+msgstr "Μαλγασικά, Τεσακα"
+
+msgid "ISO_639-3.TKL"
+msgstr "Τοκελάου"
+
+msgid "ISO_639-3.TKV"
+msgstr "Πανο"
+
+msgid "ISO_639-3.TMN"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.TMY"
+msgstr "Ταϊλανδέζικα"
+
+msgid "ISO_639-3.TOX"
+msgstr "Σερβικά"
+
+msgid "ISO_639-3.TRF"
+msgstr "Αγγλική κρεολή, Τρινιδάδ"
+
+msgid "ISO_639-3.TSD"
+msgstr "Εσθονικά"
+
+msgid "ISO_639-3.TSE"
+msgstr "Νοηματική γλώσσα Τυνησίας"
+
+msgid "ISO_639-3.TSM"
+msgstr "Νοηματική γλώσσα Τουρκίας"
+
+msgid "ISO_639-3.TSQ"
+msgstr "Νοηματική γλώσσα Ταϊλάνδης"
+
+msgid "ISO_639-3.TSR"
+msgstr "Ακεϊ"
+
+msgid "ISO_639-3.TSS"
+msgstr "Νοηματική γλώσσα Ταϊβάν"
+
+msgid "ISO_639-3.TSU"
+msgstr "Τσου"
+
+msgid "ISO_639-3.TSX"
+msgstr "Μουμπαμι"
+
+msgid "ISO_639-3.TSY"
+msgstr "Νοηματική γλώσσα Τεμπούλ"
+
+msgid "ISO_639-3.TTA"
+msgstr "Τουτελο"
+
+msgid "ISO_639-3.TUR"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-3.TWE"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.TWU"
+msgstr "Γερμανικά"
+
+msgid "ISO_639-3.TXR"
+msgstr "Λευκωρωσικά"
+
+msgid "ISO_639-3.TXY"
+msgstr "Μαλγασικά, Τανοσι"
+
+msgid "ISO_639-3.TYE"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.TZA"
+msgstr "Νοηματική γλώσσα Τανζανίας"
+
+msgid "ISO_639-3.UGN"
+msgstr "Νοηματική γλώσσα Ουγκάντας"
+
+msgid "ISO_639-3.UGY"
+msgstr "Νοηματική γλώσσα Ουρουγουάης"
+
+msgid "ISO_639-3.UKL"
+msgstr "Νοηματική γλώσσα Ουκρανίας"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ουκρανικά"
+
+msgid "ISO_639-3.UKS"
+msgstr "Νοηματική γλώσσα Ουρουμπού-Κααπορ"
+
+msgid "ISO_639-3.ULF"
+msgstr "Ουσκου"
+
+msgid "ISO_639-3.ULK"
+msgstr "Μεριαμ"
+
+msgid "ISO_639-3.UMI"
+msgstr "Ουκιτ"
+
+msgid "ISO_639-3.UMM"
+msgstr "Ουμον"
+
+msgid "ISO_639-3.UMO"
+msgstr "Ουμοτίνα"
+
+msgid "ISO_639-3.UND"
+msgstr "Απροσδιόριστη"
+
+msgid "ISO_639-3.VAN"
+msgstr "Κροατικά (Δαλματίας)"
+
+msgid "ISO_639-3.VIC"
+msgstr "Αγγλική κρεολή, Παρθένων Νήσων"
+
+msgid "ISO_639-3.VIE"
+msgstr "Βιετναμέζικα"
+
+msgid "ISO_639-3.VIF"
+msgstr "Βιλι"
+
+msgid "ISO_639-3.VIG"
+msgstr "Βιεμο"
+
+msgid "ISO_639-3.VIL"
+msgstr "Βιλελα"
+
+msgid "ISO_639-3.VIN"
+msgstr "Βινζα"
+
+msgid "ISO_639-3.VIT"
+msgstr "Βιτι"
+
+msgid "ISO_639-3.VIV"
+msgstr "Ιντουνα"
+
+msgid "ISO_639-3.VKK"
+msgstr "Καουρ"
+
+msgid "ISO_639-3.VKL"
+msgstr "Κουλισουσου"
+
+msgid "ISO_639-3.VKM"
+msgstr "Καμακαν"
+
+msgid "ISO_639-3.VKP"
+msgstr "Πορτογαλική κρεολή, Κορλαϊ"
+
+msgid "ISO_639-3.VKT"
+msgstr "Μαλαισιανά, Τενγκαρονγκ Κουταϊ"
+
+msgid "ISO_639-3.VLP"
+msgstr "Βαλπεϊ"
+
+msgid "ISO_639-3.VMB"
+msgstr "Μπαμπαρα"
+
+msgid "ISO_639-3.VME"
+msgstr "Μασελα, Ανατολικά"
+
+msgid "ISO_639-3.VMG"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.VMJ"
+msgstr "Μιστεκ, Ισταγιουτλα"
+
+msgid "ISO_639-3.VML"
+msgstr "Μαλγκανα"
+
+msgid "ISO_639-3.VMM"
+msgstr "Μιστεκ, Μιτλατονγκο"
+
+msgid "ISO_639-3.VMP"
+msgstr "Μασατεκ, Σογιαλτεπεκ"
+
+msgid "ISO_639-3.VMQ"
+msgstr "Μιστεκ, Σογιαλτεπεκ"
+
+msgid "ISO_639-3.VMX"
+msgstr "Μιστεκ, Ταμασολα"
+
+msgid "ISO_639-3.VSI"
+msgstr "Νοηματική γλώσσα Μολδαβίας"
+
+msgid "ISO_639-3.VSL"
+msgstr "Νοηματική γλώσσα Βενεζουέλας"
+
+msgid "ISO_639-3.VSV"
+msgstr "Νοηματική γλώσσα Βαλένθιας"
+
+msgid "ISO_639-3.WEH"
+msgstr "Πίτζιν, Καμερούν"
+
+msgid "ISO_639-3.WMM"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-3.WUU"
+msgstr "Αραβικά, Ανδαλουσίας"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Λιθουανικά"
+
+msgid "ISO_639-3.XBC"
+msgstr "Βαυαρικά"
+
+msgid "ISO_639-3.XBE"
+msgstr "Μπαμπαρα"
+
+msgid "ISO_639-3.XBM"
+msgstr "Αρμένικα, Μεσαιωνικά"
+
+msgid "ISO_639-3.XBO"
+msgstr "Βουλγάρικα"
+
+msgid "ISO_639-3.XCL"
+msgstr "Αρμένικα"
+
+msgid "ISO_639-3.XCR"
+msgstr "Βαυαρικά"
+
+msgid "ISO_639-3.XCU"
+msgstr "Βοσνιακά"
+
+msgid "ISO_639-3.XDK"
+msgstr "Χαρουκου"
+
+msgid "ISO_639-3.XDY"
+msgstr "Μαλαισιανά, Μπαμπα"
+
+msgid "ISO_639-3.XED"
+msgstr "Ινδουικά"
+
+msgid "ISO_639-3.XGA"
+msgstr "Κροατικά (Δαλματίας)"
+
+msgid "ISO_639-3.XGD"
+msgstr "Αντανγκ"
+
+msgid "ISO_639-3.XGM"
+msgstr "Χαρουκου"
+
+msgid "ISO_639-3.XHR"
+msgstr "Κορσικανικά"
+
+msgid "ISO_639-3.XHU"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-3.XIV"
+msgstr "Νοηματική γλώσσα Χονδούρας"
+
+msgid "ISO_639-3.XKI"
+msgstr "Νοηματική γλώσσα Κένυας"
+
+msgid "ISO_639-3.XLE"
+msgstr "Αρμένικα"
+
+msgid "ISO_639-3.XLG"
+msgstr "Αρχαία Αιγυπτιακά"
+
+msgid "ISO_639-3.XLI"
+msgstr "Λιθουανικά"
+
+msgid "ISO_639-3.XLS"
+msgstr "Λιθουανικά"
+
+msgid "ISO_639-3.XMF"
+msgstr "Μογκολικά"
+
+msgid "ISO_639-3.XMK"
+msgstr "Μακεδονικά, Αρχαία"
+
+msgid "ISO_639-3.XML"
+msgstr "Μαλαισιανά, Μαναντο"
+
+msgid "ISO_639-3.XMS"
+msgstr "Μαλγασικά, Τανκαρανα"
+
+msgid "ISO_639-3.XMW"
+msgstr "Μαλγασικά, Τσιμιχετι"
+
+msgid "ISO_639-3.XNA"
+msgstr "Βόρεια Αραβικά, Αρχαία"
+
+msgid "ISO_639-3.XNG"
+msgstr "Μογγολικά, Μέσης εποχής"
+
+msgid "ISO_639-3.XNI"
+msgstr "Βουλγάρικα"
+
+msgid "ISO_639-3.XNK"
+msgstr "Ζανάκι"
+
+msgid "ISO_639-3.XPC"
+msgstr "Τσετσένικα"
+
+msgid "ISO_639-3.XPG"
+msgstr "Γεωργιανά"
+
+msgid "ISO_639-3.XQT"
+msgstr "Αλβανικά"
+
+msgid "ISO_639-3.XRG"
+msgstr "Μινανγκαμπαου"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.XTL"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ντενγκ, Νταρανγκ"
+
+msgid "ISO_639-3.XUR"
+msgstr "Κροατικά"
+
+msgid "ISO_639-3.XVS"
+msgstr "Εσθονικά"
+
+msgid "ISO_639-3.XYB"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-3.XYK"
+msgstr "Μαϋκουλαν"
+
+msgid "ISO_639-3.XZP"
+msgstr "Ζαποτέκ, Αρχαία"
+
+msgid "ISO_639-3.YDA"
+msgstr "Μανταρι"
+
+msgid "ISO_639-3.YGR"
+msgstr "Βαυαρικά"
+
+msgid "ISO_639-3.YGS"
+msgstr "Νοηματική γλώσσα Πολωνίας"
+
+msgid "ISO_639-3.YHD"
+msgstr "Αραβικά, Ιουδαίων Ιράκ"
+
+msgid "ISO_639-3.YHS"
+msgstr "Νοηματική γλώσσα Δανίας"
+
+msgid "ISO_639-3.YMS"
+msgstr "Περσικά"
+
+msgid "ISO_639-3.YSL"
+msgstr "Νοηματική γλώσσα Γιουγκοσλαβίας"
+
+msgid "ISO_639-3.YUD"
+msgstr "Αραβικά, Ιουδαίων Τρίπολης"
+
+msgid "ISO_639-3.YUE"
+msgstr "Κινέζικα, Yue"
+
+msgid "ISO_639-3.YWG"
+msgstr "Μινανγκαμπαου"
+
+msgid "ISO_639-3.YXA"
+msgstr "Πανγκουαλι"
+
+msgid "ISO_639-3.ZAA"
+msgstr "Ζαποτέκ, Τλακολουλίτα"
+
+msgid "ISO_639-3.ZAC"
+msgstr "Ζαποτέκ, Οκοτλάν"
+
+msgid "ISO_639-3.ZAD"
+msgstr "Ζαποτέκ, Καχόνος"
+
+msgid "ISO_639-3.ZAE"
+msgstr "Ζαποτέκ, Αγιοκέσκο"
+
+msgid "ISO_639-3.ZAI"
+msgstr "Ζαποτέκ, Ισθμού"
+
+msgid "ISO_639-3.ZAK"
+msgstr "Ζαποτέκ, Οζολοτεπεκ"
+
+msgid "ISO_639-3.ZAP"
+msgstr "Ζαποτέκ"
+
+msgid "ISO_639-3.ZAQ"
+msgstr "Ζαποτέκ, Αλοάπαμ"
+
+msgid "ISO_639-3.ZAR"
+msgstr "Ζαποτέκ, Ρινκόν"
+
+msgid "ISO_639-3.ZAS"
+msgstr "Ζαποτέκ, Σάντο Δομίνγκο Αλβαράδας"
+
+msgid "ISO_639-3.ZAT"
+msgstr "Ζαποτέκ, Tabaa"
+
+msgid "ISO_639-3.ZAV"
+msgstr "Ζαποτέκ, Yatzachi"
+
+msgid "ISO_639-3.ZAW"
+msgstr "Ζαποτέκ, Μιτλα"
+
+msgid "ISO_639-3.ZAX"
+msgstr "Ζαποτέκ, Xadani"
+
+msgid "ISO_639-3.ZCA"
+msgstr "Ζαποτέκ, Κοατέκας Άλτας"
+
+msgid "ISO_639-3.ZCH"
+msgstr "Τζουάνγκ, Central Hongshuihe"
+
+msgid "ISO_639-3.ZEH"
+msgstr "Τζουάνγκ, Eastern Hongshuihe"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Τζουάνγκ, Guibei"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Τζουάνγκ, Minz"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Τζουάνγκ, Guibian"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Τζουάνγκ"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Τζουάνγκ, Νταϊ"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Τζουάνγκ, Νονγκ"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Κινέζικα"
+
+msgid "ISO_639-3.ZIB"
+msgstr "Νοηματική γλώσσα Ζιμπάμπουε"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Τζουάνγκ, Λιουτζιανγκ"
+
+msgid "ISO_639-3.ZLM"
+msgstr "Τζουάνγκ, Λιανσαν"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Τζουάνγκ, Λιουκιαν"
+
+msgid "ISO_639-3.ZMB"
+msgstr "Ζιμπα"
+
+msgid "ISO_639-3.ZOO"
+msgstr "Ζαποτέκ, Lachiguiri"
+
+msgid "ISO_639-3.ZPB"
+msgstr "Ζαποτέκ, Yautepec"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Ζαποτέκ, Τσοαπαν"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Ζαποτέκ, Νοτιανατολικού Ixtlán"
+
+msgid "ISO_639-3.ZPE"
+msgstr "Ζαποτέκ, Πεταπα"
+
+msgid "ISO_639-3.ZPF"
+msgstr "Ζαποτέκ, Σαν Πέδρο Κιατονι"
+
+msgid "ISO_639-3.ZPG"
+msgstr "Ζαποτέκ, Totomachapan"
+
+msgid "ISO_639-3.ZPI"
+msgstr "Ζαποτέκ, Lachixío"
+
+msgid "ISO_639-3.ZPM"
+msgstr "Ζαποτέκ, Mixtepec"
+
+msgid "ISO_639-3.ZPN"
+msgstr "Ζαποτέκ, Santa Inés Yatzechi"
+
+msgid "ISO_639-3.ZPO"
+msgstr "Ζαποτέκ, Αματλάν"
+
+msgid "ISO_639-3.ZPP"
+msgstr "Ζαποτέκ, Ελ Αλτο"
+
+msgid "ISO_639-3.ZPQ"
+msgstr "Ζαποτέκ, Zoogocho"
+
+msgid "ISO_639-3.ZPR"
+msgstr "Ζαποτέκ, Σαντιάγο Xanica"
+
+msgid "ISO_639-3.ZPS"
+msgstr "Ζαποτέκ, Κοατλάν"
+
+msgid "ISO_639-3.ZPT"
+msgstr "Ζαποτέκ, Σαν Βισεντε Κοατλάν"
+
+msgid "ISO_639-3.ZPU"
+msgstr "Ζαποτέκ, Τσιτσικαπαν"
+
+msgid "ISO_639-3.ZPW"
+msgstr "Ζαποτέκ, Zaniza"
+
+msgid "ISO_639-3.ZPX"
+msgstr "Ζαποτέκ, Texmelucan"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Τζουάνγκ, Qiubei"
+
+msgid "ISO_639-3.ZRA"
+msgstr "Καρα (Κορέα)"
+
+msgid "ISO_639-3.ZSL"
+msgstr "Μαλαισιανά, Τυπική"
+
+msgid "ISO_639-3.ZTE"
+msgstr "Ζαποτέκ"
+
+msgid "ISO_639-3.ZTP"
+msgstr "Ζαποτέκ"
+
+msgid "ISO_639-3.ZTU"
+msgstr "Ζαποτέκ"
+
+msgid "ISO_639-3.ZTX"
+msgstr "Ζαποτέκ"
+
+msgid "ISO_639-3.ZTY"
+msgstr "Ζαποτέκ"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Ζουλού"
+
+msgid "ISO_639-3.ZWA"
+msgstr "Ζαϊ"
+
+msgid "ISO_639-3.ZXX"
+msgstr "Δεν υπάρχει γλωσσικό περιεχόμενο"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Τζουάνγκ, Γιονγκμπεϊ"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Τζουάνγκ, Γιανγκ"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Τζουάνγκ, Γιουτζιανγκ"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Κινέζικα, Yue"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Ζαζάκι"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Τζουάνγκ, Ζουοτζιανγκ"

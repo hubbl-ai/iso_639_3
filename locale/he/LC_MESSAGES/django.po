@@ -1,0 +1,8201 @@
+# Hebrew translations of ISO 639 Language names
+# Copyright (C) 2002,2004 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Translations from KDE:
+#  Meni Livne <livne@kde.org>, 2000.
+# Alastair McKinstry:
+#   - translations taken from ICU-3.0
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 19:12+0000\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Hebrew <kde-il@yahoogroups.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AAF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AAG"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AAK"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AAT"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AAW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.AAZ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ABD"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.ABE"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ABG"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ABH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ABK"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ABQ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ABV"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ABW"
+msgstr "פולנית"
+
+msgid "ISO_639-3.ABZ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ACE"
+msgstr "סינית"
+
+msgid "ISO_639-3.ACI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ACN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ACR"
+msgstr "סינית"
+
+msgid "ISO_639-3.ACW"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ACX"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ACY"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ADF"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ADL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.ADN"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ADR"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.AEA"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AEC"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AEE"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AEU"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AEW"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AEZ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AFB"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AFD"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AFK"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.AFP"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AFR"
+msgstr "אפריקנס"
+
+msgid "ISO_639-3.AGA"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AGB"
+msgstr "יוונית"
+
+msgid "ISO_639-3.AGD"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AGF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AGG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.AGI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.AGM"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.AGO"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AGW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AHA"
+msgstr "קוזה"
+
+msgid "ISO_639-3.AHK"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AHR"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AIA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.AIC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AIE"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AIJ"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.AIR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.AIS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.AIW"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AIX"
+msgstr "קוזה"
+
+msgid "ISO_639-3.AJN"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AJT"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AJU"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AJZ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.AKA"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKB"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.AKF"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKK"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKL"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKM"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKQ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKR"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AKW"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AKZ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ALD"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ALH"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ALJ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ALK"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.ALN"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ALS"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AMC"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AMH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AMJ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AMK"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AML"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.AMN"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AMQ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AMY"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ANC"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.ANK"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.ANP"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ANQ"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.ANS"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.ANW"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ANY"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AOA"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.AOF"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.AOH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AOJ"
+msgstr "רוסית"
+
+msgid "ISO_639-3.AOR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.AOS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AOT"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.APD"
+msgstr "יפנית"
+
+msgid "ISO_639-3.APF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.APG"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.APH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.API"
+msgstr "פולנית"
+
+msgid "ISO_639-3.APO"
+msgstr "זולו"
+
+msgid "ISO_639-3.APW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AQC"
+msgstr "סינית"
+
+msgid "ISO_639-3.AQZ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ARA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ARD"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ARE"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ARH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ARI"
+msgstr "אפריקנס"
+
+msgid "ISO_639-3.ARJ"
+msgstr "אפריקנס"
+
+msgid "ISO_639-3.ARL"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ARN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.ARO"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ARQ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ARS"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ARY"
+msgstr "ערבית"
+
+msgid "ISO_639-3.ASI"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.ASK"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.ASO"
+msgstr "לטבית"
+
+msgid "ISO_639-3.AST"
+msgstr "אסטונית"
+
+msgid "ISO_639-3.ATN"
+msgstr "אסטונית"
+
+msgid "ISO_639-3.ATR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ATX"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ATZ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AUB"
+msgstr "זולו"
+
+msgid "ISO_639-3.AUC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.AUH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AUK"
+msgstr "עברית"
+
+msgid "ISO_639-3.AUL"
+msgstr "זולו"
+
+msgid "ISO_639-3.AUQ"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.AUR"
+msgstr "יוונית"
+
+msgid "ISO_639-3.AUZ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AVA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AVB"
+msgstr "זולו"
+
+msgid "ISO_639-3.AVI"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AVK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.AVN"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AVS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.AWM"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AXL"
+msgstr "קוזה"
+
+msgid "ISO_639-3.AXM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.AYA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AYH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AYI"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.AYL"
+msgstr "ערבית"
+
+msgid "ISO_639-3.AYN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.AYZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.AZA"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AZB"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AZE"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.AZJ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.BAG"
+msgstr "טורקית"
+
+msgid "ISO_639-3.BAJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BAN"
+msgstr "סינית"
+
+msgid "ISO_639-3.BAR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BAV"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BAY"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BBB"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BBD"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BBE"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BBF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BBG"
+msgstr "ערבית"
+
+msgid "ISO_639-3.BBH"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BBI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BBL"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BBQ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.BBV"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BBW"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BBX"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BCF"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BCG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BCH"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BCJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BCK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.BCO"
+msgstr "כורדית"
+
+msgid "ISO_639-3.BCQ"
+msgstr "צרפתית"
+
+msgid "ISO_639-3.BCR"
+msgstr "סינית"
+
+msgid "ISO_639-3.BCT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BCW"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BCY"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BDB"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BDD"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BDE"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BDF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BDG"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BDJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BDK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.BDL"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.BDO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BDQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BDW"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BEG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BEH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BEK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BEL"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BEN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BEO"
+msgstr "טמילית"
+
+msgid "ISO_639-3.BEP"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BES"
+msgstr "סינית"
+
+msgid "ISO_639-3.BEU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BFA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BFG"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BFQ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BFR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BFT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BFU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BFW"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BFX"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BFY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BGB"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BGC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BGE"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BGG"
+msgstr "סינית"
+
+msgid "ISO_639-3.BGJ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BGK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BGN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.BGQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BGR"
+msgstr "וולונית"
+
+msgid "ISO_639-3.BGU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BGW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BGZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BHA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHB"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BHD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHE"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BHG"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.BHH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BHP"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BHR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BHU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BHV"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BHW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BHX"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BHZ"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.BIB"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BIC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BID"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIG"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIN"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.BIP"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BIQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIU"
+msgstr "סינית"
+
+msgid "ISO_639-3.BIX"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BIZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BJC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BJH"
+msgstr "סינית"
+
+msgid "ISO_639-3.BJI"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BJJ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.BJN"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BJR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BJS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BJV"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BJY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BJZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BKD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BKF"
+msgstr "יוונית"
+
+msgid "ISO_639-3.BKG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BKI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BKN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BKS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BKT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BKX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.BLD"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BLG"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BLI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BLJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BLL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BLR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BLS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BMD"
+msgstr "כורדית"
+
+msgid "ISO_639-3.BMH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BMI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BMO"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.BMP"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BMR"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.BMS"
+msgstr "כורדית"
+
+msgid "ISO_639-3.BMX"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BMZ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BNB"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BNC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BND"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.BNF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BNI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BNK"
+msgstr "יוונית"
+
+msgid "ISO_639-3.BNL"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BNQ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.BNU"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BNW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BNZ"
+msgstr "יוונית"
+
+msgid "ISO_639-3.BOA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BOB"
+msgstr "ערבית"
+
+msgid "ISO_639-3.BOF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BOH"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BOK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BON"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BOP"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BOQ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BOS"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BOT"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BOU"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BOW"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BPA"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BPG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BPH"
+msgstr "פולנית"
+
+msgid "ISO_639-3.BPJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BPO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BPP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BPQ"
+msgstr "וולונית"
+
+msgid "ISO_639-3.BPU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BPV"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BQB"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BQH"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BQI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BQO"
+msgstr "וולונית"
+
+msgid "ISO_639-3.BQP"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BQQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BQS"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BQV"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BQX"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BQZ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BRE"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BRF"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.BRG"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BRH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BRJ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BRO"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BRS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BRT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BRU"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.BRV"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.BRW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BRX"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.BRY"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BRZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSB"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSC"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BSE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSG"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSH"
+msgstr "לטבית"
+
+msgid "ISO_639-3.BSI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BSJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BSN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BSQ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BST"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BSU"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BSW"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BTA"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BTF"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BTI"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BTJ"
+msgstr "יפנית"
+
+msgid "ISO_639-3.BTR"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BTU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BTV"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BUA"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BUB"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BUC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BUG"
+msgstr "סינית"
+
+msgid "ISO_639-3.BUI"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BUK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BUL"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BUN"
+msgstr "עברית"
+
+msgid "ISO_639-3.BUO"
+msgstr "טורקית"
+
+msgid "ISO_639-3.BUP"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BUQ"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BUT"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BUW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BVA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BVB"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BVC"
+msgstr "סינית"
+
+msgid "ISO_639-3.BVH"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BVJ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BVK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BVN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BVO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BVP"
+msgstr "סרבית"
+
+msgid "ISO_639-3.BVQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BVR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BVT"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.BVU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BVV"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BVW"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.BVY"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.BVZ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BWG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.BWI"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BWM"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BWZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BXA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BXC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BXM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.BXN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BXO"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BXR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BXS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BXU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BXZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BYA"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BYF"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BYH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.BYK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BYM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BYN"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BYQ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BYR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BYS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BYW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.BYZ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BZA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BZD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BZF"
+msgstr "רומנית"
+
+msgid "ISO_639-3.BZG"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BZI"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BZO"
+msgstr "בסקית"
+
+msgid "ISO_639-3.BZQ"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.BZR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BZT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.BZU"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.BZV"
+msgstr "וולונית"
+
+msgid "ISO_639-3.BZZ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.CAC"
+msgstr "קוזה"
+
+msgid "ISO_639-3.CAE"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.CAF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CAH"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CAJ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.CAK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.CAL"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.CAN"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CAR"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.CAS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.CAT"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CBC"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CBD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CBI"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CBK"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CBL"
+msgstr "וולונית"
+
+msgid "ISO_639-3.CBW"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CBY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CCG"
+msgstr "סרבית"
+
+msgid "ISO_639-3.CDA"
+msgstr "אירית"
+
+msgid "ISO_639-3.CDE"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CDG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CDI"
+msgstr "אירית"
+
+msgid "ISO_639-3.CDO"
+msgstr "סינית"
+
+msgid "ISO_639-3.CDY"
+msgstr "קוזה"
+
+msgid "ISO_639-3.CDZ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.CEA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.CEK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.CEN"
+msgstr "סינית"
+
+msgid "ISO_639-3.CES"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CFD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CFM"
+msgstr "וולונית"
+
+msgid "ISO_639-3.CHC"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CHE"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CHK"
+msgstr "סינית"
+
+msgid "ISO_639-3.CHM"
+msgstr "רוסית"
+
+msgid "ISO_639-3.CHX"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CIE"
+msgstr "סינית"
+
+msgid "ISO_639-3.CIK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.CIM"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.CIP"
+msgstr "סינית"
+
+msgid "ISO_639-3.CIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.CIY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.CJA"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.CJI"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CJK"
+msgstr "סינית"
+
+msgid "ISO_639-3.CJM"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.CJN"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.CJS"
+msgstr "קוזה"
+
+msgid "ISO_639-3.CJV"
+msgstr "סינית"
+
+msgid "ISO_639-3.CJY"
+msgstr "סינית"
+
+msgid "ISO_639-3.CKB"
+msgstr "כורדית"
+
+msgid "ISO_639-3.CKL"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CKN"
+msgstr "סינית"
+
+msgid "ISO_639-3.CKT"
+msgstr "סינית"
+
+msgid "ISO_639-3.CKU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CKV"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CLA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.CLE"
+msgstr "וולונית"
+
+msgid "ISO_639-3.CLJ"
+msgstr "סינית"
+
+msgid "ISO_639-3.CLL"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CLM"
+msgstr "וולונית"
+
+msgid "ISO_639-3.CLT"
+msgstr "סינית"
+
+msgid "ISO_639-3.CLU"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CMA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CME"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.CMG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.CML"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.CMN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.CMS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CNG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.CNH"
+msgstr "סינית"
+
+msgid "ISO_639-3.CNK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.CNL"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.CNO"
+msgstr "אירית"
+
+msgid "ISO_639-3.CNW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.CNX"
+msgstr "אירית"
+
+msgid "ISO_639-3.COE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.COG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.COR"
+msgstr "אירית"
+
+msgid "ISO_639-3.COS"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.COX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.COZ"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CPI"
+msgstr "סינית"
+
+msgid "ISO_639-3.CPN"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CPX"
+msgstr "סינית"
+
+msgid "ISO_639-3.CRA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CRE"
+msgstr "יוונית"
+
+msgid "ISO_639-3.CRF"
+msgstr "טורקית"
+
+msgid "ISO_639-3.CRR"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.CRX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CRY"
+msgstr "אירית"
+
+msgid "ISO_639-3.CSJ"
+msgstr "סינית"
+
+msgid "ISO_639-3.CST"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.CSV"
+msgstr "סינית"
+
+msgid "ISO_639-3.CSY"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.CTC"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.CTD"
+msgstr "וולונית"
+
+msgid "ISO_639-3.CTG"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.CTH"
+msgstr "סינית"
+
+msgid "ISO_639-3.CTS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.CTU"
+msgstr "אירית"
+
+msgid "ISO_639-3.CUH"
+msgstr "סינית"
+
+msgid "ISO_639-3.CUI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.CUL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.CUU"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.CUW"
+msgstr "סינית"
+
+msgid "ISO_639-3.CVG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.CWB"
+msgstr "לטבית"
+
+msgid "ISO_639-3.CWE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.CYM"
+msgstr "וולשית"
+
+msgid "ISO_639-3.CZH"
+msgstr "סינית"
+
+msgid "ISO_639-3.CZK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.CZT"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.DAC"
+msgstr "טמילית"
+
+msgid "ISO_639-3.DAD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DAG"
+msgstr "דנית"
+
+msgid "ISO_639-3.DAM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DAN"
+msgstr "דנית"
+
+msgid "ISO_639-3.DAO"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.DAQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DAR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DAV"
+msgstr "לטבית"
+
+msgid "ISO_639-3.DAX"
+msgstr "דנית"
+
+msgid "ISO_639-3.DBA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.DBJ"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.DBM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DBO"
+msgstr "זולו"
+
+msgid "ISO_639-3.DBQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DBW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.DCC"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.DEC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.DEH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.DER"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DES"
+msgstr "סרבית"
+
+msgid "ISO_639-3.DEU"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.DGG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.DGI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.DGK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DGL"
+msgstr "ערבית"
+
+msgid "ISO_639-3.DGN"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DGX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DGZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DHG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.DHN"
+msgstr "דנית"
+
+msgid "ISO_639-3.DHO"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.DHR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DHS"
+msgstr "דנית"
+
+msgid "ISO_639-3.DHU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DHX"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.DIC"
+msgstr "לטבית"
+
+msgid "ISO_639-3.DID"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.DIF"
+msgstr "טורקית"
+
+msgid "ISO_639-3.DIJ"
+msgstr "דנית"
+
+msgid "ISO_639-3.DIK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.DIP"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.DIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.DIS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.DIT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.DIU"
+msgstr "טורקית"
+
+msgid "ISO_639-3.DIV"
+msgstr "טורקית"
+
+msgid "ISO_639-3.DIW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.DJO"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.DJU"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.DLG"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.DLK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DLM"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.DLN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.DML"
+msgstr "פולנית"
+
+msgid "ISO_639-3.DMM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DMX"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.DNG"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.DNJ"
+msgstr "דנית"
+
+msgid "ISO_639-3.DNV"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.DNW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.DOH"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.DOK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.DOO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.DOR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DOT"
+msgstr "דנית"
+
+msgid "ISO_639-3.DOX"
+msgstr "רוסית"
+
+msgid "ISO_639-3.DOZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DRB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DRC"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.DRD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DRG"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.DRL"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.DRQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DRS"
+msgstr "יוונית"
+
+msgid "ISO_639-3.DRY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DSB"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.DSI"
+msgstr "דנית"
+
+msgid "ISO_639-3.DSO"
+msgstr "סרבית"
+
+msgid "ISO_639-3.DTA"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.DTY"
+msgstr "פולנית"
+
+msgid "ISO_639-3.DUO"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.DUP"
+msgstr "לטבית"
+
+msgid "ISO_639-3.DVA"
+msgstr "זולו"
+
+msgid "ISO_639-3.DWA"
+msgstr "טורקית"
+
+msgid "ISO_639-3.DWR"
+msgstr "לטבית"
+
+msgid "ISO_639-3.DWW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.DYA"
+msgstr "דנית"
+
+msgid "ISO_639-3.DZA"
+msgstr "זולו"
+
+msgid "ISO_639-3.DZG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.EAA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.EBK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ECR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.EGL"
+msgstr "רומנית"
+
+msgid "ISO_639-3.EIV"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.EKC"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.EKG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.EKK"
+msgstr "סינית"
+
+msgid "ISO_639-3.EKR"
+msgstr "יפנית"
+
+msgid "ISO_639-3.EKY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ELI"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.EMG"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.EMN"
+msgstr "רומנית"
+
+msgid "ISO_639-3.EMU"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ENA"
+msgstr "פולנית"
+
+msgid "ISO_639-3.ENB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ENG"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.EPO"
+msgstr "אספרנטו"
+
+msgid "ISO_639-3.ERA"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.ERG"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.EST"
+msgstr "אסטונית"
+
+msgid "ISO_639-3.ESY"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ETT"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.EUS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.EYO"
+msgstr "עברית"
+
+msgid "ISO_639-3.FAA"
+msgstr "בסקית"
+
+msgid "ISO_639-3.FAD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.FAF"
+msgstr "לטבית"
+
+msgid "ISO_639-3.FAH"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.FAJ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.FAP"
+msgstr "פולנית"
+
+msgid "ISO_639-3.FAR"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.FAS"
+msgstr "סרבית"
+
+msgid "ISO_639-3.FAT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.FAX"
+msgstr "וולונית"
+
+msgid "ISO_639-3.FAY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FAZ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FBL"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.FGR"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.FIL"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FIN"
+msgstr "פינית"
+
+msgid "ISO_639-3.FIR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FKV"
+msgstr "פינית"
+
+msgid "ISO_639-3.FLI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.FLL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.FLY"
+msgstr "לטבית"
+
+msgid "ISO_639-3.FMU"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FNI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.FOM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.FOR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.FRA"
+msgstr "צרפתית"
+
+msgid "ISO_639-3.FRC"
+msgstr "צרפתית"
+
+msgid "ISO_639-3.FRK"
+msgstr "דנית"
+
+msgid "ISO_639-3.FRP"
+msgstr "ערבית"
+
+msgid "ISO_639-3.FRR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FRS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FRY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FUI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.FUR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.FUU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.GAB"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GAF"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GAH"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.GAI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GAL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.GAN"
+msgstr "סינית"
+
+msgid "ISO_639-3.GAO"
+msgstr "לטבית"
+
+msgid "ISO_639-3.GAT"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.GBD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GBJ"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.GBL"
+msgstr "טמילית"
+
+msgid "ISO_639-3.GBM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GBY"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GCC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GCD"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.GCE"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.GCN"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.GDI"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GDK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GDL"
+msgstr "דנית"
+
+msgid "ISO_639-3.GDN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.GDQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GDT"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.GEA"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GEB"
+msgstr "טורקית"
+
+msgid "ISO_639-3.GEG"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GEI"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GEJ"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GEQ"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GEW"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GEX"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.GEZ"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GGE"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GGK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.GHR"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GHT"
+msgstr "סינית"
+
+msgid "ISO_639-3.GIC"
+msgstr "טמילית"
+
+msgid "ISO_639-3.GIG"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GIL"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-3.GIQ"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GIR"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GIW"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GJM"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GJN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.GJR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GJU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GKE"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.GKN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.GLD"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.GLE"
+msgstr "אירית"
+
+msgid "ISO_639-3.GLG"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.GLH"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.GLO"
+msgstr "וולונית"
+
+msgid "ISO_639-3.GMA"
+msgstr "רומנית"
+
+msgid "ISO_639-3.GMU"
+msgstr "זולו"
+
+msgid "ISO_639-3.GMV"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GMX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GNA"
+msgstr "בסקית"
+
+msgid "ISO_639-3.GNE"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GNG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.GNH"
+msgstr "עברית"
+
+msgid "ISO_639-3.GNM"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GNQ"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GNT"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GNW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.GNZ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GOA"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GOF"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.GOG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.GOQ"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GOZ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GPN"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.GQU"
+msgstr "בסקית"
+
+msgid "ISO_639-3.GRB"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GRG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GRI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.GRN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GRO"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GRR"
+msgstr "לטבית"
+
+msgid "ISO_639-3.GRS"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GRT"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GRU"
+msgstr "סינית"
+
+msgid "ISO_639-3.GRX"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GSP"
+msgstr "וולשית"
+
+msgid "ISO_639-3.GSW"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GUE"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GUM"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GUW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GVC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GVE"
+msgstr "הולנדית"
+
+msgid "ISO_639-3.GVF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.GVM"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GVR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.GVS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GVY"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GWA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.GWC"
+msgstr "וולונית"
+
+msgid "ISO_639-3.GWE"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GWF"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GWG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.GWR"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GWW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.GWX"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GYE"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.GYI"
+msgstr "יוונית"
+
+msgid "ISO_639-3.GYL"
+msgstr "טמילית"
+
+msgid "ISO_639-3.GYR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.GZI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.GZN"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.HAC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.HAH"
+msgstr "וולשית"
+
+msgid "ISO_639-3.HAK"
+msgstr "סינית"
+
+msgid "ISO_639-3.HAL"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.HAM"
+msgstr "עברית"
+
+msgid "ISO_639-3.HAN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.HAR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.HAS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.HAT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.HBN"
+msgstr "סרבית"
+
+msgid "ISO_639-3.HBO"
+msgstr "עברית"
+
+msgid "ISO_639-3.HBS"
+msgstr "קרואטית"
+
+msgid "ISO_639-3.HEB"
+msgstr "עברית"
+
+msgid "ISO_639-3.HEH"
+msgstr "עברית"
+
+msgid "ISO_639-3.HER"
+msgstr "עברית"
+
+msgid "ISO_639-3.HGW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.HHY"
+msgstr "וולשית"
+
+msgid "ISO_639-3.HIA"
+msgstr "לטבית"
+
+msgid "ISO_639-3.HIB"
+msgstr "טורקית"
+
+msgid "ISO_639-3.HIG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.HII"
+msgstr "טורקית"
+
+msgid "ISO_639-3.HIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.HJI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.HKA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.HLA"
+msgstr "פולנית"
+
+msgid "ISO_639-3.HLB"
+msgstr "פולנית"
+
+msgid "ISO_639-3.HLT"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.HMJ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.HMO"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.HMT"
+msgstr "ערבית"
+
+msgid "ISO_639-3.HMW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.HNI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.HNU"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.HOJ"
+msgstr "טורקית"
+
+msgid "ISO_639-3.HOM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.HOR"
+msgstr "עברית"
+
+msgid "ISO_639-3.HOV"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.HRE"
+msgstr "עברית"
+
+msgid "ISO_639-3.HRO"
+msgstr "טורקית"
+
+msgid "ISO_639-3.HRV"
+msgstr "קרואטית"
+
+msgid "ISO_639-3.HRW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.HRX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.HRZ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.HSB"
+msgstr "סרבית"
+
+msgid "ISO_639-3.HSN"
+msgstr "סינית"
+
+msgid "ISO_639-3.HUD"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.HUK"
+msgstr "זולו"
+
+msgid "ISO_639-3.HUM"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.HUN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.HUS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.HYE"
+msgstr "רומנית"
+
+msgid "ISO_639-3.IAI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.IAR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.IBL"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.IBY"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.IDB"
+msgstr "פורטוגזית"
+
+msgid "ISO_639-3.IDC"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.IDR"
+msgstr "אירית"
+
+msgid "ISO_639-3.IDS"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.IFU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.IGL"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.IGN"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.III"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.IJE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.IKL"
+msgstr "זולו"
+
+msgid "ISO_639-3.IKR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.IKS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ILB"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.ILI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.ILK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.ILM"
+msgstr "רוסית"
+
+msgid "ISO_639-3.IMA"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.IMO"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.IMS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.INB"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.IND"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.INH"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.INN"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.IRU"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ISA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ISH"
+msgstr "אסטונית"
+
+msgid "ISO_639-3.ISL"
+msgstr "איסלנדית"
+
+msgid "ISO_639-3.ISM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ITA"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.ITD"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ITK"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.ITR"
+msgstr "אירית"
+
+msgid "ISO_639-3.ITV"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.ITY"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.IVB"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.IVV"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.IZH"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.JAC"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.JAF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.JAN"
+msgstr "ערבית"
+
+msgid "ISO_639-3.JAT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.JAU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.JAV"
+msgstr "יפנית"
+
+msgid "ISO_639-3.JAY"
+msgstr "קוזה"
+
+msgid "ISO_639-3.JBE"
+msgstr "ערבית"
+
+msgid "ISO_639-3.JBJ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.JBK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.JCT"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.JDG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.JDT"
+msgstr "ערבית"
+
+msgid "ISO_639-3.JEB"
+msgstr "עברית"
+
+msgid "ISO_639-3.JER"
+msgstr "עברית"
+
+msgid "ISO_639-3.JGE"
+msgstr "סרבית"
+
+msgid "ISO_639-3.JHI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.JIV"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.JKR"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.JKU"
+msgstr "לטבית"
+
+msgid "ISO_639-3.JLE"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.JMB"
+msgstr "זולו"
+
+msgid "ISO_639-3.JMN"
+msgstr "כורדית"
+
+msgid "ISO_639-3.JNI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.JNS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.JOW"
+msgstr "זולו"
+
+msgid "ISO_639-3.JPN"
+msgstr "יפנית"
+
+msgid "ISO_639-3.JPR"
+msgstr "סרבית"
+
+msgid "ISO_639-3.JRA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.JRB"
+msgstr "ערבית"
+
+msgid "ISO_639-3.JUK"
+msgstr "יפנית"
+
+msgid "ISO_639-3.JUL"
+msgstr "טורקית"
+
+msgid "ISO_639-3.JUT"
+msgstr "כורדית"
+
+msgid "ISO_639-3.JVD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.JVN"
+msgstr "יפנית"
+
+msgid "ISO_639-3.JYE"
+msgstr "ערבית"
+
+msgid "ISO_639-3.KAE"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.KAF"
+msgstr "בסקית"
+
+msgid "ISO_639-3.KAI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KAK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KAT"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.KAU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KBA"
+msgstr "וולונית"
+
+msgid "ISO_639-3.KBE"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KBI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.KBJ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KBL"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KBP"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KBS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KBT"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.KBU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KBV"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.KBW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KBY"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KBZ"
+msgstr "הולנדית"
+
+msgid "ISO_639-3.KCA"
+msgstr "קוזה"
+
+msgid "ISO_639-3.KCE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KCF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KCH"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KCI"
+msgstr "רומנית"
+
+msgid "ISO_639-3.KCJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KCP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KCQ"
+msgstr "וולונית"
+
+msgid "ISO_639-3.KCR"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.KCS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KCT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.KCW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KCY"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KCZ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KDC"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KDE"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.KDF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KDG"
+msgstr "סרבית"
+
+msgid "ISO_639-3.KDJ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.KDR"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KDW"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KEA"
+msgstr "סרבית"
+
+msgid "ISO_639-3.KED"
+msgstr "עברית"
+
+msgid "ISO_639-3.KEG"
+msgstr "יפנית"
+
+msgid "ISO_639-3.KEH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KEJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KEN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KEQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KER"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KEZ"
+msgstr "סינית"
+
+msgid "ISO_639-3.KFA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KFB"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KFD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KFE"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.KFF"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KFG"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFH"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KFN"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KFR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KFS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KFT"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFV"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KFW"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.KFX"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KFY"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KGB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KGD"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.KGE"
+msgstr "סרבית"
+
+msgid "ISO_639-3.KGL"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.KGN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KGO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KGP"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.KGV"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KGW"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KHA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KHE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KHF"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KHJ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KHK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KHL"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KHN"
+msgstr "סינית"
+
+msgid "ISO_639-3.KHO"
+msgstr "סינית"
+
+msgid "ISO_639-3.KHP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KHR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KHS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.KHT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KHV"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KHX"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KIB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KID"
+msgstr "רומנית"
+
+msgid "ISO_639-3.KIL"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KIM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KIQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KIS"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KIW"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KIX"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.KJC"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.KJE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KJO"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KJQ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KJR"
+msgstr "רומנית"
+
+msgid "ISO_639-3.KKI"
+msgstr "זולו"
+
+msgid "ISO_639-3.KKK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KKL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KKM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KKO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KKQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KKT"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KKU"
+msgstr "טמילית"
+
+msgid "ISO_639-3.KKV"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KKX"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KKZ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.KLG"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.KLJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KLL"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.KLM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KLN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KLP"
+msgstr "בסקית"
+
+msgid "ISO_639-3.KLR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KLU"
+msgstr "וולונית"
+
+msgid "ISO_639-3.KLW"
+msgstr "לטבית"
+
+msgid "ISO_639-3.KLY"
+msgstr "וולונית"
+
+msgid "ISO_639-3.KMA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KMD"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.KMH"
+msgstr "וולונית"
+
+msgid "ISO_639-3.KMK"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.KMR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KMU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KMY"
+msgstr "רומנית"
+
+msgid "ISO_639-3.KNC"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KND"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KNE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KNG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KNI"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KNJ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KNK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KOC"
+msgstr "לטבית"
+
+msgid "ISO_639-3.KOF"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KOG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.KOK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KOO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KOR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KOS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KOT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KOU"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KOZ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KPD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KPK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KPR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KPS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KPT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KPY"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KQB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KQM"
+msgstr "קוזה"
+
+msgid "ISO_639-3.KQO"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KQQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KQR"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.KQU"
+msgstr "סרבית"
+
+msgid "ISO_639-3.KQY"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KQZ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KRA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KRB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KRE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KRH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.KRI"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KRK"
+msgstr "יוונית"
+
+msgid "ISO_639-3.KRL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KRM"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KRT"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KRU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KRV"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KRW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KRX"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KRZ"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.KSD"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KSE"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KSF"
+msgstr "בסקית"
+
+msgid "ISO_639-3.KSI"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KSJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KSK"
+msgstr "בסקית"
+
+msgid "ISO_639-3.KSL"
+msgstr "זולו"
+
+msgid "ISO_639-3.KSO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KSR"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.KSV"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KSX"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KSZ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KTD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KTF"
+msgstr "טמילית"
+
+msgid "ISO_639-3.KTH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KTK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KTM"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KTV"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KUC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KUF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KUH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KUJ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.KUO"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KUQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KUR"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KUV"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KVB"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KVC"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KVD"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.KVI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KVL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KVP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KVV"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KVW"
+msgstr "סרבית"
+
+msgid "ISO_639-3.KWD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KWE"
+msgstr "סרבית"
+
+msgid "ISO_639-3.KWF"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KWH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KWP"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.KWW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KWY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KWZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KXA"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KXC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.KXD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KXN"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KXS"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KXV"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KXW"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KXZ"
+msgstr "עברית"
+
+msgid "ISO_639-3.KYD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KYH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KYJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KYM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KYO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KYP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KYQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KYS"
+msgstr "ערבית"
+
+msgid "ISO_639-3.KYU"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KZA"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.KZD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.KZE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KZG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KZL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.KZM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KZN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KZO"
+msgstr "כורדית"
+
+msgid "ISO_639-3.KZQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.KZR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.KZX"
+msgstr "רומנית"
+
+msgid "ISO_639-3.LAB"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.LAD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LAG"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LAL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.LAR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LAT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LAV"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LAY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LBA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LBC"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LBF"
+msgstr "פינית"
+
+msgid "ISO_639-3.LBI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LBJ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LBK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.LBN"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LBO"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LBT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LBW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LBZ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LCH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LCP"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.LDD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LDI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LDL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LDM"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LDN"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LEJ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LEM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.LES"
+msgstr "יפנית"
+
+msgid "ISO_639-3.LEX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LEZ"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.LGG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.LGL"
+msgstr "וולונית"
+
+msgid "ISO_639-3.LGQ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.LGR"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LGT"
+msgstr "פולנית"
+
+msgid "ISO_639-3.LHH"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.LHN"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LHT"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.LIF"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LIJ"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LIM"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LIR"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.LIT"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LIU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LIW"
+msgstr "אירית"
+
+msgid "ISO_639-3.LJE"
+msgstr "טמילית"
+
+msgid "ISO_639-3.LJI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LJL"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LJP"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LJW"
+msgstr "ערבית"
+
+msgid "ISO_639-3.LKB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LKC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LKD"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.LKE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LKI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LKM"
+msgstr "וולונית"
+
+msgid "ISO_639-3.LKN"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.LKO"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LKS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LKT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LKU"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.LLD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LLF"
+msgstr "טורקית"
+
+msgid "ISO_639-3.LLH"
+msgstr "בסקית"
+
+msgid "ISO_639-3.LLM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LLX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LMB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LMC"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LMG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.LML"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LMN"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LMP"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LNH"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LNI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LNS"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LNU"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.LNW"
+msgstr "פולנית"
+
+msgid "ISO_639-3.LNZ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LOC"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.LOE"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.LOF"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LOG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LOH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LOL"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LPO"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LRA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LRC"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LRE"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LRG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LRI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LRK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LRL"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LRM"
+msgstr "ערבית"
+
+msgid "ISO_639-3.LRN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LRO"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LRZ"
+msgstr "סרבית"
+
+msgid "ISO_639-3.LSD"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LSH"
+msgstr "אירית"
+
+msgid "ISO_639-3.LSI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LSM"
+msgstr "וולונית"
+
+msgid "ISO_639-3.LSS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.LTG"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.LTI"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.LTN"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LTO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.LTS"
+msgstr "אירית"
+
+msgid "ISO_639-3.LTU"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LUD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LUE"
+msgstr "זולו"
+
+msgid "ISO_639-3.LUF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LUJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LUM"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LUS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.LUV"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LVS"
+msgstr "סינית"
+
+msgid "ISO_639-3.LWG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.LWH"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LWM"
+msgstr "לטבית"
+
+msgid "ISO_639-3.LYG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.LYN"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.LZH"
+msgstr "סינית"
+
+msgid "ISO_639-3.LZN"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.MAD"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MAF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAH"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MAI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MAZ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.MBC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MBE"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MBF"
+msgstr "וולונית"
+
+msgid "ISO_639-3.MBK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MBP"
+msgstr "וולונית"
+
+msgid "ISO_639-3.MBQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MBS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MBW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MBY"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MCA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MCH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MCI"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MCJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MCM"
+msgstr "פורטוגזית ברזילאית"
+
+msgid "ISO_639-3.MCN"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MCP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MCS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MCT"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MCZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MDB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MDG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MDH"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MDM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MDN"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MDP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MDU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MDW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MDX"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.MEC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MEL"
+msgstr "כורדית"
+
+msgid "ISO_639-3.MEM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MES"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MET"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MEV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MEW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MFA"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.MFB"
+msgstr "בסקית"
+
+msgid "ISO_639-3.MFE"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MFF"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.MFH"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.MFI"
+msgstr "וולונית"
+
+msgid "ISO_639-3.MFK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.MFL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.MFP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MFR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MFT"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MFY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MFZ"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.MGB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MGD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MGE"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MGF"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MGG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MGJ"
+msgstr "רומנית"
+
+msgid "ISO_639-3.MGK"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MGN"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MGP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.MGQ"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.MGT"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MGU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MGV"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MHA"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.MHB"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MHC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MHE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.MHF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MHG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MHI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MHJ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MHK"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.MHP"
+msgstr "סינית"
+
+msgid "ISO_639-3.MHQ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MHS"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.MHX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MIA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MIC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MID"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MIJ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.MIK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MJB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MJJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MJL"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MJR"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MJV"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MJW"
+msgstr "כורדית"
+
+msgid "ISO_639-3.MJX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MJY"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MJZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MKA"
+msgstr "עברית"
+
+msgid "ISO_639-3.MKD"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MKE"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MKI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.MKJ"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MKR"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MKV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MKY"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.MKZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MLA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MLF"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MLH"
+msgstr "יפנית"
+
+msgid "ISO_639-3.MLK"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.MLN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MLP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MLQ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MLS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MLT"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MLV"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MMA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMD"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MME"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MMI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MMU"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.MMV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MMX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MNI"
+msgstr "כורדית"
+
+msgid "ISO_639-3.MNL"
+msgstr "טורקית"
+
+msgid "ISO_639-3.MNM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MNP"
+msgstr "סינית"
+
+msgid "ISO_639-3.MNQ"
+msgstr "טורקית"
+
+msgid "ISO_639-3.MNS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MNW"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MNZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MOD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MOE"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MOG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MOJ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MOM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MON"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MOS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MOU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOW"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOX"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MOZ"
+msgstr "זולו"
+
+msgid "ISO_639-3.MPA"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MPC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MPD"
+msgstr "סינית"
+
+msgid "ISO_639-3.MPG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MPH"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MPI"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MPQ"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MPT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MPV"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.MPW"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MPY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQA"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.MQC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MQE"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQP"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MQR"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MQS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MQU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MQY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRD"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MRG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRJ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MRR"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.MRX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MRZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MSC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MSE"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MSG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MSK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MSL"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MSS"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MSV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MSY"
+msgstr "ערבית"
+
+msgid "ISO_639-3.MSZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MTL"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MTM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MTN"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.MTQ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MTR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MTS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.MTY"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.MUC"
+msgstr "זולו"
+
+msgid "ISO_639-3.MUI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MUJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MUK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MUO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.MUP"
+msgstr "פולנית"
+
+msgid "ISO_639-3.MUR"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MUS"
+msgstr "יוונית"
+
+msgid "ISO_639-3.MUT"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MUX"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MUZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVF"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MVO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVS"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MVU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MVZ"
+msgstr "סרבית"
+
+msgid "ISO_639-3.MWI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MWK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.MWL"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MWQ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.MWR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MWT"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MWV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MWX"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MWY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MWZ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MXD"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MXF"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MXI"
+msgstr "ערבית"
+
+msgid "ISO_639-3.MXK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MXN"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.MXR"
+msgstr "רוסית"
+
+msgid "ISO_639-3.MXW"
+msgstr "וולונית"
+
+msgid "ISO_639-3.MXX"
+msgstr "וולשית"
+
+msgid "ISO_639-3.MYG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MYH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MYI"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.MYL"
+msgstr "רומנית"
+
+msgid "ISO_639-3.MYS"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.MYX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MYY"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.MZE"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MZJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MZP"
+msgstr "לטבית"
+
+msgid "ISO_639-3.MZS"
+msgstr "יפנית"
+
+msgid "ISO_639-3.MZT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.MZV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NAA"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.NAJ"
+msgstr "זולו"
+
+msgid "ISO_639-3.NAL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.NAN"
+msgstr "סינית"
+
+msgid "ISO_639-3.NAW"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NAX"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NBB"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NBC"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NBH"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NBJ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NBN"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NBP"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NBU"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NBY"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NCB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NCC"
+msgstr "קוזה"
+
+msgid "ISO_639-3.NCE"
+msgstr "יפנית"
+
+msgid "ISO_639-3.NCF"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NCH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NDA"
+msgstr "בסקית"
+
+msgid "ISO_639-3.NDC"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDF"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.NDH"
+msgstr "פולנית"
+
+msgid "ISO_639-3.NDM"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDP"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDR"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDS"
+msgstr "רומנית"
+
+msgid "ISO_639-3.NDT"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDX"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NDZ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NEF"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-3.NEG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NEP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NEQ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NER"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.NES"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NEU"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NEW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NFD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NGJ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NGO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NGP"
+msgstr "זולו"
+
+msgid "ISO_639-3.NGX"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NGY"
+msgstr "טורקית"
+
+msgid "ISO_639-3.NHA"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NHB"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.NHH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NHO"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NIB"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NID"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NIJ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NIO"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.NIQ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NIR"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.NIX"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.NIY"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NIZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NJI"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.NJM"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.NJN"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NJZ"
+msgstr "טורקית"
+
+msgid "ISO_639-3.NKA"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NKB"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NKC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NKD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NKG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NKI"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NKJ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NKO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NKU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NKZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NLC"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.NLD"
+msgstr "הולנדית"
+
+msgid "ISO_639-3.NLG"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.NLI"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.NLJ"
+msgstr "פולנית"
+
+msgid "ISO_639-3.NLL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NLQ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NLW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NLX"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NLZ"
+msgstr "פולנית"
+
+msgid "ISO_639-3.NMA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.NMB"
+msgstr "בסקית"
+
+msgid "ISO_639-3.NMC"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NMF"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.NMG"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NMR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NMV"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NMW"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NNF"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NNG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NNM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.NNO"
+msgstr "נורבגית (Nynorsk)"
+
+msgid "ISO_639-3.NNY"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NOB"
+msgstr "נורבגית (Bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NOF"
+msgstr "רומנית"
+
+msgid "ISO_639-3.NOG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NOI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.NOJ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NOL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NON"
+msgstr "סרבית"
+
+msgid "ISO_639-3.NOQ"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NOR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.NOZ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NPG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NPI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NPN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NPS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.NQM"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NQQ"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.NQY"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NRB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NRC"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NRN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NRR"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NRT"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NRU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.NRZ"
+msgstr "וולונית"
+
+msgid "ISO_639-3.NSA"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NSC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NSE"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NSF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.NSG"
+msgstr "בסקית"
+
+msgid "ISO_639-3.NSK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NSN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.NSS"
+msgstr "פולנית"
+
+msgid "ISO_639-3.NSV"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.NSX"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NSY"
+msgstr "בסקית"
+
+msgid "ISO_639-3.NTD"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.NTG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NTX"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.NTY"
+msgstr "לטבית"
+
+msgid "ISO_639-3.NUA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.NUD"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NUG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NUH"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NUN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NUR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.NUX"
+msgstr "יוונית"
+
+msgid "ISO_639-3.NVH"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.NWR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NXI"
+msgstr "כורדית"
+
+msgid "ISO_639-3.NXM"
+msgstr "סרבית"
+
+msgid "ISO_639-3.NXO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NXQ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NXX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.NYA"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NYF"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.NYH"
+msgstr "טורקית"
+
+msgid "ISO_639-3.NYJ"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.NYQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NYR"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.NYS"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.OAR"
+msgstr "ערבית"
+
+msgid "ISO_639-3.OBR"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.OBT"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.OCA"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.OCH"
+msgstr "סינית"
+
+msgid "ISO_639-3.OCO"
+msgstr "אירית"
+
+msgid "ISO_639-3.ODT"
+msgstr "הולנדית"
+
+msgid "ISO_639-3.OFS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.OGE"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.OGO"
+msgstr "קוזה"
+
+msgid "ISO_639-3.OHU"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.OIA"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.OJB"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.OJP"
+msgstr "יפנית"
+
+msgid "ISO_639-3.OJW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.OKD"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.OKK"
+msgstr "טמילית"
+
+msgid "ISO_639-3.OKL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.OKR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.OKV"
+msgstr "קרואטית"
+
+msgid "ISO_639-3.OLD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.OLR"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.OLT"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.OLU"
+msgstr "זולו"
+
+msgid "ISO_639-3.OMN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.OMP"
+msgstr "כורדית"
+
+msgid "ISO_639-3.OMR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ONB"
+msgstr "לטבית"
+
+msgid "ISO_639-3.ONP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ONR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ONW"
+msgstr "סרבית"
+
+msgid "ISO_639-3.OOS"
+msgstr "רוסית"
+
+msgid "ISO_639-3.ORC"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.ORI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ORT"
+msgstr "טורקית"
+
+msgid "ISO_639-3.ORV"
+msgstr "רוסית"
+
+msgid "ISO_639-3.OSC"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.OSI"
+msgstr "רוסית"
+
+msgid "ISO_639-3.OSP"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.OSS"
+msgstr "רוסית"
+
+msgid "ISO_639-3.OSX"
+msgstr "סרבית"
+
+msgid "ISO_639-3.OTB"
+msgstr "סרבית"
+
+msgid "ISO_639-3.OTD"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.OTK"
+msgstr "טורקית"
+
+msgid "ISO_639-3.OTY"
+msgstr "טמילית"
+
+msgid "ISO_639-3.OWL"
+msgstr "וולשית"
+
+msgid "ISO_639-3.OYM"
+msgstr "וולונית"
+
+msgid "ISO_639-3.PAG"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PAH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PAO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PAR"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PAS"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PAT"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.PAY"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.PBI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PBN"
+msgstr "בסקית"
+
+msgid "ISO_639-3.PBO"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PBR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PCF"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PCG"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PCH"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.PCI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PCJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PCK"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.PCL"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PDI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PDN"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.PDU"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PEA"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.PEE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PEF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.PEG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.PEH"
+msgstr "רומנית"
+
+msgid "ISO_639-3.PEJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PEK"
+msgstr "צרפתית"
+
+msgid "ISO_639-3.PEL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PES"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.PFL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PGG"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PGI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.PGN"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.PGS"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PGZ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PHH"
+msgstr "סינית"
+
+msgid "ISO_639-3.PHN"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.PHQ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.PHT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PHU"
+msgstr "קוזה"
+
+msgid "ISO_639-3.PHV"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PIC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PII"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PIM"
+msgstr "קרואטית"
+
+msgid "ISO_639-3.PIP"
+msgstr "עברית"
+
+msgid "ISO_639-3.PIV"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PKT"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.PLA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PLD"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLE"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLH"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLJ"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLP"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLQ"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLU"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PLZ"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.PMB"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PMD"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PMK"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PMS"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-3.PMY"
+msgstr "סינית"
+
+msgid "ISO_639-3.PNB"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.PNC"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PNE"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.PNG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.PNJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PNL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PNP"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PNR"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PNS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PNT"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.PNX"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.PNY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.POC"
+msgstr "קוזה"
+
+msgid "ISO_639-3.POL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PON"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.POR"
+msgstr "פורטוגזית"
+
+msgid "ISO_639-3.POX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.PPE"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PPI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PPQ"
+msgstr "סרבית"
+
+msgid "ISO_639-3.PPT"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PRB"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.PRC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PRF"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PRG"
+msgstr "סרבית"
+
+msgid "ISO_639-3.PRI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PRM"
+msgstr "טורקית"
+
+msgid "ISO_639-3.PRP"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PRR"
+msgstr "כורדית"
+
+msgid "ISO_639-3.PRT"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PRU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.PRW"
+msgstr "סינית"
+
+msgid "ISO_639-3.PSH"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.PSI"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.PSN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PSQ"
+msgstr "פולנית"
+
+msgid "ISO_639-3.PTN"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.PTR"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PTU"
+msgstr "בסקית"
+
+msgid "ISO_639-3.PTY"
+msgstr "סרבית"
+
+msgid "ISO_639-3.PUP"
+msgstr "זולו"
+
+msgid "ISO_639-3.PUT"
+msgstr "הולנדית"
+
+msgid "ISO_639-3.PUW"
+msgstr "פורטוגזית"
+
+msgid "ISO_639-3.PUX"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.PWA"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PWB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PWN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.PWO"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.PWR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.PZN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.QXQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.QYP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.RAC"
+msgstr "בסקית"
+
+msgid "ISO_639-3.RAF"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.RAG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.RAL"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.RAM"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.RAN"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RAQ"
+msgstr "וולונית"
+
+msgid "ISO_639-3.RAR"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RAS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.RAX"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RES"
+msgstr "וולשית"
+
+msgid "ISO_639-3.RGA"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RGN"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RHG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RHP"
+msgstr "קוזה"
+
+msgid "ISO_639-3.RIA"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.RJG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RJI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.RKI"
+msgstr "סינית"
+
+msgid "ISO_639-3.RKM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.RKT"
+msgstr "כורדית"
+
+msgid "ISO_639-3.RKW"
+msgstr "ערבית"
+
+msgid "ISO_639-3.RMA"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMB"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.RMH"
+msgstr "טורקית"
+
+msgid "ISO_639-3.RMI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.RMK"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RML"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMO"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.RMU"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMV"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMW"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMX"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMY"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RMZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.RNG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RNL"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RNN"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RNP"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.RNR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ROD"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.ROE"
+msgstr "רומנית"
+
+msgid "ISO_639-3.ROG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ROH"
+msgstr "רומנית"
+
+msgid "ISO_639-3.ROL"
+msgstr "רומנית"
+
+msgid "ISO_639-3.ROM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RON"
+msgstr "רומנית"
+
+msgid "ISO_639-3.ROR"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.RPT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.RRI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.RSB"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RSM"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.RTC"
+msgstr "סינית"
+
+msgid "ISO_639-3.RTH"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.RTM"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RTS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.RUC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.RUE"
+msgstr "רוסית"
+
+msgid "ISO_639-3.RUG"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RUK"
+msgstr "סינית"
+
+msgid "ISO_639-3.RUO"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RUP"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RUQ"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RUS"
+msgstr "רוסית"
+
+msgid "ISO_639-3.RUZ"
+msgstr "רומנית"
+
+msgid "ISO_639-3.RWO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.RWR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.RXD"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.RXW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SAB"
+msgstr "סינית"
+
+msgid "ISO_639-3.SAC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SAE"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SAK"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SAM"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SAO"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.SAU"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SAX"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SAY"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SBE"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.SBL"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SBM"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.SBS"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SBV"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SBX"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SBY"
+msgstr "פולנית"
+
+msgid "ISO_639-3.SCE"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SCH"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SCK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SCL"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SCN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SCV"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SCW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SCX"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SDB"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SDC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SDF"
+msgstr "פולנית"
+
+msgid "ISO_639-3.SDH"
+msgstr "כורדית"
+
+msgid "ISO_639-3.SDK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.SDN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SDR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SED"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SEH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SEI"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SEK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.SEO"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SER"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SET"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SEZ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SGB"
+msgstr "לטבית"
+
+msgid "ISO_639-3.SGC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SGD"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SGE"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SGK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SGM"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SGR"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SGS"
+msgstr "לטבית"
+
+msgid "ISO_639-3.SGY"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHC"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SHE"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHJ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHL"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHO"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHQ"
+msgstr "וולונית"
+
+msgid "ISO_639-3.SHR"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHT"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SHU"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SHV"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SHW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SHY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SIB"
+msgstr "עברית"
+
+msgid "ISO_639-3.SIH"
+msgstr "טורקית"
+
+msgid "ISO_639-3.SIK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SIN"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-3.SIQ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.SIU"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SIV"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SIX"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SJP"
+msgstr "כורדית"
+
+msgid "ISO_639-3.SJW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SKB"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SKC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SKH"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SKI"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SKK"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SKM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SKQ"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SKR"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SKS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SKY"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.SLE"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SLI"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.SLK"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SLN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SLT"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SLU"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.SLV"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SLZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SMB"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SME"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.SMH"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SMK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SMM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SMN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SMP"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SMQ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SMU"
+msgstr "רומנית"
+
+msgid "ISO_639-3.SMY"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SNA"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SNF"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.SNH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SNK"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SNL"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SNN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SNO"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.SNP"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.SNR"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SNU"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SNV"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SOA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SOD"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SOG"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.SOH"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.SOI"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SOJ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SOO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SOP"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SOQ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.SOR"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SOS"
+msgstr "יוונית"
+
+msgid "ISO_639-3.SOW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SOX"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SOZ"
+msgstr "טמילית"
+
+msgid "ISO_639-3.SPA"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.SPB"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.SPG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SPI"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SPK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SPS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.SPU"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.SPV"
+msgstr "כורדית"
+
+msgid "ISO_639-3.SQH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SQI"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.SQM"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SQR"
+msgstr "ערבית"
+
+msgid "ISO_639-3.SQU"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.SRA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SRB"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SRC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SRD"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SRE"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SRF"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.SRI"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SRN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SRO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.SRP"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SRS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SRT"
+msgstr "כורדית"
+
+msgid "ISO_639-3.SRW"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SRY"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SSD"
+msgstr "טורקית"
+
+msgid "ISO_639-3.SSE"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.SSF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SSG"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SSH"
+msgstr "ערבית"
+
+msgid "ISO_639-3.SSI"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.SSJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SSK"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SSL"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SSN"
+msgstr "וולונית"
+
+msgid "ISO_639-3.SSQ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SST"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.SSU"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.SSY"
+msgstr "וולשית"
+
+msgid "ISO_639-3.STB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.STD"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.STH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.STK"
+msgstr "ערבית"
+
+msgid "ISO_639-3.STM"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.STO"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.SUC"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SUE"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SUQ"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SUX"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SVA"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SVE"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SVX"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.SWE"
+msgstr "שבדית"
+
+msgid "ISO_639-3.SWF"
+msgstr "עברית"
+
+msgid "ISO_639-3.SWG"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SWJ"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SWK"
+msgstr "סינית"
+
+msgid "ISO_639-3.SWM"
+msgstr "בסקית"
+
+msgid "ISO_639-3.SWO"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SWP"
+msgstr "זולו"
+
+msgid "ISO_639-3.SWQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.SWS"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.SWW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SXC"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SXL"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SXM"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.SXN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.SXS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.SYA"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.SYB"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.SYM"
+msgstr "וולונית"
+
+msgid "ISO_639-3.SYR"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SYX"
+msgstr "סרבית"
+
+msgid "ISO_639-3.SZL"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.SZN"
+msgstr "סלובקית"
+
+msgid "ISO_639-3.SZW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.TAA"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.TAD"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.TAE"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TAG"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TAH"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TAK"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TAL"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TAM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TAO"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TAU"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.TAW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TAX"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TBA"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.TBC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TBE"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TBG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.TBI"
+msgstr "וולונית"
+
+msgid "ISO_639-3.TBJ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TBO"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.TBX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TCC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.TCD"
+msgstr "סינית"
+
+msgid "ISO_639-3.TCP"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.TCQ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TCY"
+msgstr "זולו"
+
+msgid "ISO_639-3.TCZ"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.TDB"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.TDG"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TDH"
+msgstr "זולו"
+
+msgid "ISO_639-3.TDI"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TDJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TDM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TDQ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TEC"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TEH"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.TEK"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TEY"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TFN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.TGB"
+msgstr "רומנית"
+
+msgid "ISO_639-3.TGC"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TGD"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.TGJ"
+msgstr "דנית"
+
+msgid "ISO_639-3.TGK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TGN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.TGQ"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TGR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.TGX"
+msgstr "דנית"
+
+msgid "ISO_639-3.TGZ"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.THA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.THE"
+msgstr "סינית"
+
+msgid "ISO_639-3.THF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.THN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.THR"
+msgstr "כורדית"
+
+msgid "ISO_639-3.THS"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.THT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.THU"
+msgstr "טורקית"
+
+msgid "ISO_639-3.THW"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.THY"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TIC"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TIF"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TIG"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TII"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TIK"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TIM"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TIN"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TIP"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TIU"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.TJL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TKB"
+msgstr "סינית"
+
+msgid "ISO_639-3.TKZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TLD"
+msgstr "זולו"
+
+msgid "ISO_639-3.TLH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TLK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TLO"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TLR"
+msgstr "סינית"
+
+msgid "ISO_639-3.TLT"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.TLU"
+msgstr "זולו"
+
+msgid "ISO_639-3.TLV"
+msgstr "זולו"
+
+msgid "ISO_639-3.TLX"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.TMC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TMD"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.TMK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TMN"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.TMS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TMW"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.TMY"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TNA"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TNB"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TNG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.TNH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.TNI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TNM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TNQ"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TOD"
+msgstr "רומנית"
+
+msgid "ISO_639-3.TOH"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.TOM"
+msgstr "זולו"
+
+msgid "ISO_639-3.TOW"
+msgstr "יוונית"
+
+msgid "ISO_639-3.TOX"
+msgstr "רומנית"
+
+msgid "ISO_639-3.TPF"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TPM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TPY"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TQL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TQT"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TRA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.TRD"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TRE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.TRH"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TRJ"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TRM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TRR"
+msgstr "וולשית"
+
+msgid "ISO_639-3.TRT"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TSB"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TSD"
+msgstr "אסטונית"
+
+msgid "ISO_639-3.TSH"
+msgstr "זולו"
+
+msgid "ISO_639-3.TSI"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TSV"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.TSW"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TSX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.TTB"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.TTG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.TTI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TTR"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.TTS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TTV"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TTW"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.TUH"
+msgstr "טמילית"
+
+msgid "ISO_639-3.TUI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TUL"
+msgstr "זולו"
+
+msgid "ISO_639-3.TUR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TUY"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TUZ"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TVD"
+msgstr "זולו"
+
+msgid "ISO_639-3.TVL"
+msgstr "זולו"
+
+msgid "ISO_639-3.TVO"
+msgstr "טורקית"
+
+msgid "ISO_639-3.TVW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.TWB"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.TWE"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.TWF"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.TWL"
+msgstr "מאורית"
+
+msgid "ISO_639-3.TWM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.TWN"
+msgstr "שבדית"
+
+msgid "ISO_639-3.TWU"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.TWW"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.TXA"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-3.TXB"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.TXH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TXM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TXN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.TXR"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TXX"
+msgstr "לטבית"
+
+msgid "ISO_639-3.TYE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.TYJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TYN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.TZH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TZL"
+msgstr "רוסית"
+
+msgid "ISO_639-3.TZO"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.TZX"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.UAN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.UDG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.UDL"
+msgstr "וולונית"
+
+msgid "ISO_639-3.UGO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.UHA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.UHN"
+msgstr "טמילית"
+
+msgid "ISO_639-3.UIS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.UKA"
+msgstr "כורדית"
+
+msgid "ISO_639-3.UKR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ULI"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.ULK"
+msgstr "סרבית"
+
+msgid "ISO_639-3.ULW"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.UMC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.UMN"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.UNG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.UNM"
+msgstr "טמילית"
+
+msgid "ISO_639-3.UNN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.UNR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.UNU"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.UNX"
+msgstr "מאורית"
+
+msgid "ISO_639-3.URA"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.URC"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.URF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.URG"
+msgstr "טורקית"
+
+msgid "ISO_639-3.URL"
+msgstr "פולנית"
+
+msgid "ISO_639-3.URM"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.URN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.URT"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.USP"
+msgstr "אספרנטו"
+
+msgid "ISO_639-3.UTA"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.VAF"
+msgstr "מאורית"
+
+msgid "ISO_639-3.VAJ"
+msgstr "סינית"
+
+msgid "ISO_639-3.VAN"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.VAS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.VAV"
+msgstr "פולנית"
+
+msgid "ISO_639-3.VBK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.VEC"
+msgstr "רומנית"
+
+msgid "ISO_639-3.VER"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.VGR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.VIE"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-3.VKJ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.VKK"
+msgstr "כורדית"
+
+msgid "ISO_639-3.VKO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.VKP"
+msgstr "פורטוגזית ברזילאית"
+
+msgid "ISO_639-3.VLP"
+msgstr "פולנית"
+
+msgid "ISO_639-3.VMA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.VMB"
+msgstr "ערבית"
+
+msgid "ISO_639-3.VMD"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.VME"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.VMG"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.VMH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.VML"
+msgstr "מאורית"
+
+msgid "ISO_639-3.VMR"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.VNK"
+msgstr "לטבית"
+
+msgid "ISO_639-3.VRA"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.VRS"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.VRT"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.WAE"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.WAI"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.WAL"
+msgstr "לטבית"
+
+msgid "ISO_639-3.WAN"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WAO"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WAQ"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.WAS"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WAV"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WAW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WAX"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WBA"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WBB"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WBF"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WBI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.WBJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WBK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WBL"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WDK"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.WEH"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WET"
+msgstr "פולנית"
+
+msgid "ISO_639-3.WEU"
+msgstr "סינית"
+
+msgid "ISO_639-3.WGI"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WHG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.WHU"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.WII"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.WJA"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WJI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WKB"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.WKL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.WKU"
+msgstr "כורדית"
+
+msgid "ISO_639-3.WLA"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WLE"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.WLG"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.WLI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.WLK"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WLN"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WLR"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WLS"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.WLW"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WLY"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.WMC"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WMD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.WMI"
+msgstr "טמילית"
+
+msgid "ISO_639-3.WMM"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.WMS"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WMW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WMX"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.WNN"
+msgstr "ערבית"
+
+msgid "ISO_639-3.WNO"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WOC"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.WOD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.WOE"
+msgstr "לטבית"
+
+msgid "ISO_639-3.WOF"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.WOK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.WON"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.WOO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WOR"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.WPC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WRB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WRK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WRN"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.WRO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.WRP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.WRS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WRY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WSI"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.WSK"
+msgstr "בסקית"
+
+msgid "ISO_639-3.WSS"
+msgstr "בסקית"
+
+msgid "ISO_639-3.WSU"
+msgstr "וולשית"
+
+msgid "ISO_639-3.WTM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WUU"
+msgstr "סינית"
+
+msgid "ISO_639-3.WWA"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WWB"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WWR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.WWW"
+msgstr "וולונית"
+
+msgid "ISO_639-3.WXW"
+msgstr "ערבית"
+
+msgid "ISO_639-3.WYY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.XAB"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XAC"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XAD"
+msgstr "ערבית"
+
+msgid "ISO_639-3.XAE"
+msgstr "רומנית"
+
+msgid "ISO_639-3.XAG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.XAJ"
+msgstr "ערבית"
+
+msgid "ISO_639-3.XAL"
+msgstr "וולונית"
+
+msgid "ISO_639-3.XAO"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XAQ"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.XAR"
+msgstr "כורדית"
+
+msgid "ISO_639-3.XAU"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.XBC"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.XBD"
+msgstr "וולונית"
+
+msgid "ISO_639-3.XBE"
+msgstr "בסקית"
+
+msgid "ISO_639-3.XBG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.XBJ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XBM"
+msgstr "ברטונית"
+
+msgid "ISO_639-3.XBN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XBO"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.XBY"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.XCL"
+msgstr "רומנית"
+
+msgid "ISO_639-3.XCO"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.XCR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XCU"
+msgstr "קרואטית"
+
+msgid "ISO_639-3.XCY"
+msgstr "סינית"
+
+msgid "ISO_639-3.XDA"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XDC"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.XDY"
+msgstr "סינית"
+
+msgid "ISO_639-3.XFA"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.XGA"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.XGD"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.XGG"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XGI"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XGL"
+msgstr "גליציאנית"
+
+msgid "ISO_639-3.XGM"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XGR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.XHA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.XHE"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XHO"
+msgstr "קוזה"
+
+msgid "ISO_639-3.XHR"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XHU"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.XHV"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XIB"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XII"
+msgstr "טורקית"
+
+msgid "ISO_639-3.XIL"
+msgstr "איטלקית"
+
+msgid "ISO_639-3.XIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.XIS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XJT"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XKE"
+msgstr "עברית"
+
+msgid "ISO_639-3.XKJ"
+msgstr "פולנית"
+
+msgid "ISO_639-3.XKQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XKT"
+msgstr "לטבית"
+
+msgid "ISO_639-3.XKX"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XKY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.XKZ"
+msgstr "כורדית"
+
+msgid "ISO_639-3.XLC"
+msgstr "לטבית"
+
+msgid "ISO_639-3.XLD"
+msgstr "לטבית"
+
+msgid "ISO_639-3.XLE"
+msgstr "רומנית"
+
+msgid "ISO_639-3.XLI"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.XLN"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.XLS"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.XMB"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XME"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XMF"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XMJ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XMK"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XMO"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XMT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XMU"
+msgstr "סינית"
+
+msgid "ISO_639-3.XMX"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.XNG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XNH"
+msgstr "כורדית"
+
+msgid "ISO_639-3.XNI"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.XNK"
+msgstr "הונגרית"
+
+msgid "ISO_639-3.XNN"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XNR"
+msgstr "כורדית"
+
+msgid "ISO_639-3.XNS"
+msgstr "דנית"
+
+msgid "ISO_639-3.XNT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XOD"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XOG"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.XON"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XOP"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XOW"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XPA"
+msgstr "טורקית"
+
+msgid "ISO_639-3.XPC"
+msgstr "צ'כית"
+
+msgid "ISO_639-3.XPG"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XPI"
+msgstr "פולנית"
+
+msgid "ISO_639-3.XPR"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XPS"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XQA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XQT"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.XRE"
+msgstr "יוונית"
+
+msgid "ISO_639-3.XRG"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.XRM"
+msgstr "ערבית"
+
+msgid "ISO_639-3.XRN"
+msgstr "רומנית"
+
+msgid "ISO_639-3.XRQ"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XRU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XRW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XSB"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XSC"
+msgstr "קוזה"
+
+msgid "ISO_639-3.XSE"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.XSH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.XSM"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XSO"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.XSR"
+msgstr "סרבית"
+
+msgid "ISO_639-3.XSS"
+msgstr "רוסית"
+
+msgid "ISO_639-3.XSV"
+msgstr "סלובנית"
+
+msgid "ISO_639-3.XTO"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.XTV"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XTW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XTZ"
+msgstr "רומנית"
+
+msgid "ISO_639-3.XUM"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.XUN"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.XUR"
+msgstr "קרואטית"
+
+msgid "ISO_639-3.XUU"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XVI"
+msgstr "כורדית"
+
+msgid "ISO_639-3.XVO"
+msgstr "רומנית"
+
+msgid "ISO_639-3.XVS"
+msgstr "אסטונית"
+
+msgid "ISO_639-3.XWA"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.XWC"
+msgstr "וולונית"
+
+msgid "ISO_639-3.XWK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XXB"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.XXR"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.XXT"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.XYB"
+msgstr "מאורית"
+
+msgid "ISO_639-3.XYL"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.XZM"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YAK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YAN"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YAP"
+msgstr "יפנית"
+
+msgid "ISO_639-3.YBA"
+msgstr "וולונית"
+
+msgid "ISO_639-3.YBJ"
+msgstr "בסקית"
+
+msgid "ISO_639-3.YBK"
+msgstr "רומנית"
+
+msgid "ISO_639-3.YBM"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.YCH"
+msgstr "סינית"
+
+msgid "ISO_639-3.YCL"
+msgstr "לטבית"
+
+msgid "ISO_639-3.YCP"
+msgstr "אינדונזית"
+
+msgid "ISO_639-3.YDA"
+msgstr "ערבית"
+
+msgid "ISO_639-3.YEC"
+msgstr "צרפתית"
+
+msgid "ISO_639-3.YEJ"
+msgstr "איסלנדית"
+
+msgid "ISO_639-3.YER"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.YES"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.YGA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YGI"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.YGP"
+msgstr "יוונית"
+
+msgid "ISO_639-3.YGR"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.YGS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.YGW"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YHA"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.YHD"
+msgstr "ערבית"
+
+msgid "ISO_639-3.YHS"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.YIF"
+msgstr "סינית"
+
+msgid "ISO_639-3.YIH"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.YIM"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.YIP"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YIQ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YIR"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.YIU"
+msgstr "ערבית"
+
+msgid "ISO_639-3.YIX"
+msgstr "כורדית"
+
+msgid "ISO_639-3.YKA"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.YKL"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.YKM"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.YKO"
+msgstr "בסקית"
+
+msgid "ISO_639-3.YKT"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.YKU"
+msgstr "בסקית"
+
+msgid "ISO_639-3.YLB"
+msgstr "יפנית"
+
+msgid "ISO_639-3.YLE"
+msgstr "יפנית"
+
+msgid "ISO_639-3.YLM"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.YLO"
+msgstr "זולו"
+
+msgid "ISO_639-3.YMB"
+msgstr "יפנית"
+
+msgid "ISO_639-3.YMD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YMH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YMI"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YMM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YMO"
+msgstr "כורדית"
+
+msgid "ISO_639-3.YMR"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.YMS"
+msgstr "רומנית"
+
+msgid "ISO_639-3.YMZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YNA"
+msgstr "זולו"
+
+msgid "ISO_639-3.YNE"
+msgstr "לטבית"
+
+msgid "ISO_639-3.YNG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YNO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YNS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YOG"
+msgstr "בוסנית"
+
+msgid "ISO_639-3.YOI"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.YOL"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.YON"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YPA"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.YPG"
+msgstr "פולנית"
+
+msgid "ISO_639-3.YPH"
+msgstr "קוזה"
+
+msgid "ISO_639-3.YPM"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YPO"
+msgstr "פולנית"
+
+msgid "ISO_639-3.YPP"
+msgstr "קוזה"
+
+msgid "ISO_639-3.YPZ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.YRY"
+msgstr "קטלונית"
+
+msgid "ISO_639-3.YSD"
+msgstr "סרבית"
+
+msgid "ISO_639-3.YSN"
+msgstr "ספרדית"
+
+msgid "ISO_639-3.YSY"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.YTA"
+msgstr "זולו"
+
+msgid "ISO_639-3.YTL"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YTP"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.YUC"
+msgstr "הולנדית"
+
+msgid "ISO_639-3.YUD"
+msgstr "ערבית"
+
+msgid "ISO_639-3.YUE"
+msgstr "סינית"
+
+msgid "ISO_639-3.YUL"
+msgstr "זולו"
+
+msgid "ISO_639-3.YUT"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.YVA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YWL"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.YXA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.YXG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.YYZ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-3.YZG"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.YZK"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZAG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZAH"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "וולונית"
+
+msgid "ISO_639-3.ZAL"
+msgstr "זולו"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZBC"
+msgstr "כורדית"
+
+msgid "ISO_639-3.ZBE"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.ZBT"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.ZBW"
+msgstr "גרמנית"
+
+msgid "ISO_639-3.ZGB"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZGM"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZGN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZGR"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZHA"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZHD"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZHI"
+msgstr "טורקית"
+
+msgid "ISO_639-3.ZHN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZHO"
+msgstr "סינית"
+
+msgid "ISO_639-3.ZHW"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZIM"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.ZIR"
+msgstr "טורקית"
+
+msgid "ISO_639-3.ZIW"
+msgstr "זולו"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "אוקראינית"
+
+msgid "ISO_639-3.ZKH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ZKN"
+msgstr "בולגרית"
+
+msgid "ISO_639-3.ZKT"
+msgstr "פרובנסלית"
+
+msgid "ISO_639-3.ZKU"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ZKV"
+msgstr "רומנית"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "תאילנדית"
+
+msgid "ISO_639-3.ZLN"
+msgstr "ליטאית"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZMC"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZMD"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZMG"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZML"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.ZMO"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.ZMP"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.ZMS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZMT"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZMU"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZMY"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZNG"
+msgstr "מקדונית"
+
+msgid "ISO_639-3.ZNK"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZNS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZOM"
+msgstr "זולו"
+
+msgid "ISO_639-3.ZPC"
+msgstr "סינית"
+
+msgid "ISO_639-3.ZPV"
+msgstr "סינית"
+
+msgid "ISO_639-3.ZQE"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZRG"
+msgstr "מלטזית"
+
+msgid "ISO_639-3.ZRN"
+msgstr "יוונית"
+
+msgid "ISO_639-3.ZRP"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZRS"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZSA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZSK"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ZSM"
+msgstr "סינית"
+
+msgid "ISO_639-3.ZSU"
+msgstr "זולו"
+
+msgid "ISO_639-3.ZUH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-3.ZUL"
+msgstr "זולו"
+
+msgid "ISO_639-3.ZUM"
+msgstr "כורדית"
+
+msgid "ISO_639-3.ZYB"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZYG"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZYN"
+msgstr "קוזה"
+
+msgid "ISO_639-3.ZYP"
+msgstr "סינית"
+
+msgid "ISO_639-3.ZZA"
+msgstr "מאורית"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "קוזה"

@@ -1,0 +1,3075 @@
+# Translation of ISO 639-3 (language names) to Breton
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Jañ-Mai Drapier <jan-mai.drapier@mail.dotcom.fr>, 1999
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Jamy <jamybzh@free.fr>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-04-19 06:03+0000\n"
+"Last-Translator: Denis <Unknown>\n"
+"Language-Team: Breton <brenux@free.fr>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAA"
+msgstr "Ghotuo"
+
+msgid "ISO_639-3.AAB"
+msgstr "Alumu-Tesu"
+
+msgid "ISO_639-3.AAC"
+msgstr "Ari"
+
+msgid "ISO_639-3.AAD"
+msgstr "Albanian, Arbëreshë"
+
+msgid "ISO_639-3.AAF"
+msgstr "Aranadan"
+
+msgid "ISO_639-3.AAG"
+msgstr "Arapesh, Abu'"
+
+msgid "ISO_639-3.AAI"
+msgstr "Arifama-Miniafia"
+
+msgid "ISO_639-3.AAK"
+msgstr "Ankave"
+
+msgid "ISO_639-3.AAL"
+msgstr "Afade"
+
+msgid "ISO_639-3.AAN"
+msgstr "Anambé"
+
+msgid "ISO_639-3.AAO"
+msgstr "Abnaki, Eastern"
+
+msgid "ISO_639-3.AAR"
+msgstr "Afar"
+
+msgid "ISO_639-3.AAS"
+msgstr "Albanian, Arvanitika"
+
+msgid "ISO_639-3.AAU"
+msgstr "Abau"
+
+msgid "ISO_639-3.AAW"
+msgstr "Solong"
+
+msgid "ISO_639-3.AAX"
+msgstr "Mandobo Atas"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Amarasi"
+
+msgid "ISO_639-3.ABA"
+msgstr "Abé"
+
+msgid "ISO_639-3.ABB"
+msgstr "Ayta, Ambala"
+
+msgid "ISO_639-3.ABD"
+msgstr "Abnaki, Western"
+
+msgid "ISO_639-3.ABF"
+msgstr "Abai Sungai"
+
+msgid "ISO_639-3.ABG"
+msgstr "Abaga"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabic, Tajiki"
+
+msgid "ISO_639-3.ABI"
+msgstr "Abidji"
+
+msgid "ISO_639-3.ABJ"
+msgstr "Aka-Bea"
+
+msgid "ISO_639-3.ABK"
+msgstr "Abkhazieg"
+
+msgid "ISO_639-3.ABL"
+msgstr "Lampung Nyo"
+
+msgid "ISO_639-3.ABM"
+msgstr "Abanyom"
+
+msgid "ISO_639-3.ABN"
+msgstr "Abua"
+
+msgid "ISO_639-3.ABO"
+msgstr "Ayta, Abenlen"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Abaza"
+
+msgid "ISO_639-3.ABR"
+msgstr "Malay, Amboneseg"
+
+msgid "ISO_639-3.ABT"
+msgstr "Ambulas"
+
+msgid "ISO_639-3.ABU"
+msgstr "Abure"
+
+msgid "ISO_639-3.ABV"
+msgstr "Arabic, Baharna"
+
+msgid "ISO_639-3.ABW"
+msgstr "Pal"
+
+msgid "ISO_639-3.ABX"
+msgstr "Inabaknon"
+
+msgid "ISO_639-3.ABY"
+msgstr "Aneme Wake"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Abui"
+
+msgid "ISO_639-3.ACA"
+msgstr "Achagua"
+
+msgid "ISO_639-3.ACB"
+msgstr "Áncá"
+
+msgid "ISO_639-3.ACD"
+msgstr "Gikyode"
+
+msgid "ISO_639-3.ACE"
+msgstr "Kreol Galleg, Santez Lusi"
+
+msgid "ISO_639-3.ACH"
+msgstr "Acoli"
+
+msgid "ISO_639-3.ACI"
+msgstr "Aka-Cari"
+
+msgid "ISO_639-3.ACK"
+msgstr "Aka-Kora"
+
+msgid "ISO_639-3.ACL"
+msgstr "Akar-Bale"
+
+msgid "ISO_639-3.ACM"
+msgstr "Arabeg, Mesopotamian"
+
+msgid "ISO_639-3.ACN"
+msgstr "Acipa ar Reter"
+
+msgid "ISO_639-3.ACQ"
+msgstr "Arabeg, Ta'izzi-Adeni"
+
+msgid "ISO_639-3.ACR"
+msgstr "Achi"
+
+msgid "ISO_639-3.ACS"
+msgstr "Akroá"
+
+msgid "ISO_639-3.ACT"
+msgstr "Achterhoeks"
+
+msgid "ISO_639-3.ACU"
+msgstr "Achuar-Shiwiar"
+
+msgid "ISO_639-3.ACV"
+msgstr "Achumawi"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabeg, Hijazi"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabeg Omani"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabeg eus Chypr"
+
+msgid "ISO_639-3.ACZ"
+msgstr "Acheron"
+
+msgid "ISO_639-3.ADA"
+msgstr "Adangme"
+
+msgid "ISO_639-3.ADB"
+msgstr "Adabe"
+
+msgid "ISO_639-3.ADD"
+msgstr "Dzodinka"
+
+msgid "ISO_639-3.ADE"
+msgstr "Adele"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabeg eus Dhofari"
+
+msgid "ISO_639-3.ADG"
+msgstr "Andegerebinha"
+
+msgid "ISO_639-3.ADH"
+msgstr "Adhola"
+
+msgid "ISO_639-3.ADI"
+msgstr "Adi"
+
+msgid "ISO_639-3.ADJ"
+msgstr "Adioukrou"
+
+msgid "ISO_639-3.ADL"
+msgstr "Galo"
+
+msgid "ISO_639-3.ADN"
+msgstr "Adang"
+
+msgid "ISO_639-3.ADO"
+msgstr "Abu"
+
+msgid "ISO_639-3.ADQ"
+msgstr "Adangbe"
+
+msgid "ISO_639-3.ADR"
+msgstr "Adonara"
+
+msgid "ISO_639-3.ADS"
+msgstr "Yezh ar sinoù Adamorobe"
+
+msgid "ISO_639-3.ADT"
+msgstr "Adnyamathanha"
+
+msgid "ISO_639-3.ADU"
+msgstr "Aduj"
+
+msgid "ISO_639-3.ADW"
+msgstr "Yezh an Tibet, Amdo"
+
+msgid "ISO_639-3.ADY"
+msgstr "Adyghe"
+
+msgid "ISO_639-3.ADZ"
+msgstr "Adzera"
+
+msgid "ISO_639-3.AEA"
+msgstr "Arabeg eus Tunizi"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabeg eus Saidi"
+
+msgid "ISO_639-3.AED"
+msgstr "Yezh ar sinoù Arc'hantina"
+
+msgid "ISO_639-3.AEE"
+msgstr "Pashayi biz"
+
+msgid "ISO_639-3.AEK"
+msgstr "Haeke"
+
+msgid "ISO_639-3.AEL"
+msgstr "Ambele"
+
+msgid "ISO_639-3.AEM"
+msgstr "Arem"
+
+msgid "ISO_639-3.AEN"
+msgstr "Yezh ar sinoù Armenia"
+
+msgid "ISO_639-3.AEQ"
+msgstr "Arrernte eus ar Reter"
+
+msgid "ISO_639-3.AES"
+msgstr "Alsea"
+
+msgid "ISO_639-3.AEU"
+msgstr "Akeu"
+
+msgid "ISO_639-3.AEW"
+msgstr "Ambakich"
+
+msgid "ISO_639-3.AEY"
+msgstr "Amele"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Aeka"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabeg eus Golf"
+
+msgid "ISO_639-3.AFD"
+msgstr "Andai"
+
+msgid "ISO_639-3.AFE"
+msgstr "Putukwam"
+
+msgid "ISO_639-3.AFG"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.AFH"
+msgstr "Afrihili"
+
+msgid "ISO_639-3.AFI"
+msgstr "Akrukay"
+
+msgid "ISO_639-3.AFK"
+msgstr "Nanubae"
+
+msgid "ISO_639-3.AFN"
+msgstr "Defaka"
+
+msgid "ISO_639-3.AFO"
+msgstr "Eloyi"
+
+msgid "ISO_639-3.AFP"
+msgstr "Tapei"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AFS"
+msgstr "Kreol, Afrika-Seminole"
+
+msgid "ISO_639-3.AFT"
+msgstr "Afitti"
+
+msgid "ISO_639-3.AFU"
+msgstr "Awutu"
+
+msgid "ISO_639-3.AFZ"
+msgstr "Obokuitai"
+
+msgid "ISO_639-3.AGA"
+msgstr "Aguano"
+
+msgid "ISO_639-3.AGB"
+msgstr "Legbo"
+
+msgid "ISO_639-3.AGC"
+msgstr "Agatu"
+
+msgid "ISO_639-3.AGD"
+msgstr "Agarabi"
+
+msgid "ISO_639-3.AGE"
+msgstr "Angal"
+
+msgid "ISO_639-3.AGF"
+msgstr "Arguni"
+
+msgid "ISO_639-3.AGG"
+msgstr "Angor"
+
+msgid "ISO_639-3.AGH"
+msgstr "Ngelima"
+
+msgid "ISO_639-3.AGI"
+msgstr "Agariya"
+
+msgid "ISO_639-3.AGJ"
+msgstr "Agta, Isarog"
+
+msgid "ISO_639-3.AGL"
+msgstr "Fembe"
+
+msgid "ISO_639-3.AGM"
+msgstr "Angaataha"
+
+msgid "ISO_639-3.AGN"
+msgstr "Agutaynen"
+
+msgid "ISO_639-3.AGO"
+msgstr "Tainae"
+
+msgid "ISO_639-3.AGQ"
+msgstr "Aghem"
+
+msgid "ISO_639-3.AGR"
+msgstr "Aguaruna"
+
+msgid "ISO_639-3.AGS"
+msgstr "Esimbi"
+
+msgid "ISO_639-3.AGT"
+msgstr "Agta, kreiz ar C'H/Kagayan"
+
+msgid "ISO_639-3.AGU"
+msgstr "Agta, Remontado"
+
+msgid "ISO_639-3.AGW"
+msgstr "Kahua"
+
+msgid "ISO_639-3.AGX"
+msgstr "Aghul"
+
+msgid "ISO_639-3.AGY"
+msgstr "Alta hanternoz"
+
+msgid "ISO_639-3.AGZ"
+msgstr "Agta, Mt. Iriga"
+
+msgid "ISO_639-3.AHA"
+msgstr "Ahanta"
+
+msgid "ISO_639-3.AHB"
+msgstr "Axamb"
+
+msgid "ISO_639-3.AHG"
+msgstr "Kimant"
+
+msgid "ISO_639-3.AHH"
+msgstr "Aghu"
+
+msgid "ISO_639-3.AHI"
+msgstr "Aizi, Tiagbamrin"
+
+msgid "ISO_639-3.AHK"
+msgstr "Akha"
+
+msgid "ISO_639-3.AHL"
+msgstr "Aizi, Mobumrin"
+
+msgid "ISO_639-3.AHN"
+msgstr "Àhàn"
+
+msgid "ISO_639-3.AHO"
+msgstr "Aizi, Aproumu"
+
+msgid "ISO_639-3.AHR"
+msgstr "Ahirani"
+
+msgid "ISO_639-3.AHS"
+msgstr "Ashe"
+
+msgid "ISO_639-3.AHT"
+msgstr "Ahtena"
+
+msgid "ISO_639-3.AIA"
+msgstr "Arosi"
+
+msgid "ISO_639-3.AIB"
+msgstr "Ainu (Bro Sina)"
+
+msgid "ISO_639-3.AIC"
+msgstr "Ainbai"
+
+msgid "ISO_639-3.AID"
+msgstr "Alngith"
+
+msgid "ISO_639-3.AIE"
+msgstr "Amara"
+
+msgid "ISO_639-3.AIF"
+msgstr "Kreol Soazneg, Antigua ha Barbada"
+
+msgid "ISO_639-3.AIH"
+msgstr "Nevezarameg, Asyrian"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lishanid Noshan"
+
+msgid "ISO_639-3.AIK"
+msgstr "Ake"
+
+msgid "ISO_639-3.AIL"
+msgstr "Aimele"
+
+msgid "ISO_639-3.AIM"
+msgstr "Aimol"
+
+msgid "ISO_639-3.AIN"
+msgstr "Ainu (Bro Japan)"
+
+msgid "ISO_639-3.AIO"
+msgstr "Aiton"
+
+msgid "ISO_639-3.AIP"
+msgstr "Burumakok"
+
+msgid "ISO_639-3.AIQ"
+msgstr "Aimak"
+
+msgid "ISO_639-3.AIR"
+msgstr "Airoran"
+
+msgid "ISO_639-3.AIS"
+msgstr "Amis, Nataoran"
+
+msgid "ISO_639-3.AIT"
+msgstr "Arikem"
+
+msgid "ISO_639-3.AIW"
+msgstr "Aari"
+
+msgid "ISO_639-3.AIX"
+msgstr "Aighon"
+
+msgid "ISO_639-3.AIY"
+msgstr "Ali"
+
+msgid "ISO_639-3.AJA"
+msgstr "Aja (Soudan)"
+
+msgid "ISO_639-3.AJG"
+msgstr "Aja (Benin)"
+
+msgid "ISO_639-3.AJI"
+msgstr "Ajië"
+
+msgid "ISO_639-3.AJN"
+msgstr "Andai"
+
+msgid "ISO_639-3.AJP"
+msgstr "Arabeg Levantin hanternoz"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arabeg yuzhev-Tunisieg"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arabeg Yuzhev-Morokeg"
+
+msgid "ISO_639-3.AJW"
+msgstr "Karbi, Amri"
+
+msgid "ISO_639-3.AKA"
+msgstr "Akan"
+
+msgid "ISO_639-3.AKB"
+msgstr "Batak Angkola"
+
+msgid "ISO_639-3.AKC"
+msgstr "Mpur"
+
+msgid "ISO_639-3.AKD"
+msgstr "Ukpet-Ehom"
+
+msgid "ISO_639-3.AKE"
+msgstr "Akawaio"
+
+msgid "ISO_639-3.AKF"
+msgstr "Akpa"
+
+msgid "ISO_639-3.AKG"
+msgstr "Anakalangu"
+
+msgid "ISO_639-3.AKH"
+msgstr "Angal Heneng"
+
+msgid "ISO_639-3.AKI"
+msgstr "Aiome"
+
+msgid "ISO_639-3.AKJ"
+msgstr "Aka-Jeru"
+
+msgid "ISO_639-3.AKK"
+msgstr "Akkadianeg"
+
+msgid "ISO_639-3.AKL"
+msgstr "Aklanon"
+
+msgid "ISO_639-3.AKM"
+msgstr "Aka-Bo"
+
+msgid "ISO_639-3.AKO"
+msgstr "Akurio"
+
+msgid "ISO_639-3.AKP"
+msgstr "Siwu"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Ak"
+
+msgid "ISO_639-3.AKR"
+msgstr "Araki"
+
+msgid "ISO_639-3.AKS"
+msgstr "Akaselem"
+
+msgid "ISO_639-3.AKT"
+msgstr "Akolet"
+
+msgid "ISO_639-3.AKU"
+msgstr "Akum"
+
+msgid "ISO_639-3.AKV"
+msgstr "Akhvakh"
+
+msgid "ISO_639-3.AKW"
+msgstr "Akwa"
+
+msgid "ISO_639-3.AKX"
+msgstr "Aka-Kede"
+
+msgid "ISO_639-3.AKY"
+msgstr "Aka-Kol"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Alabama"
+
+msgid "ISO_639-3.ALA"
+msgstr "Alago"
+
+msgid "ISO_639-3.ALC"
+msgstr "Kawaskar"
+
+msgid "ISO_639-3.ALD"
+msgstr "Alladian"
+
+msgid "ISO_639-3.ALE"
+msgstr "Aleut"
+
+msgid "ISO_639-3.ALF"
+msgstr "Alege"
+
+msgid "ISO_639-3.ALH"
+msgstr "Alawa"
+
+msgid "ISO_639-3.ALI"
+msgstr "Amaimon"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Alangan"
+
+msgid "ISO_639-3.ALK"
+msgstr "Alak"
+
+msgid "ISO_639-3.ALL"
+msgstr "Allar"
+
+msgid "ISO_639-3.ALM"
+msgstr "Albaneg, Gheg"
+
+msgid "ISO_639-3.ALO"
+msgstr "Larike-Wakasihu"
+
+msgid "ISO_639-3.ALP"
+msgstr "Alune"
+
+msgid "ISO_639-3.ALQ"
+msgstr "Algonkuin"
+
+msgid "ISO_639-3.ALR"
+msgstr "Albaneg, Tosk"
+
+msgid "ISO_639-3.ALT"
+msgstr "Altai, hanternoz"
+
+msgid "ISO_639-3.ALU"
+msgstr "'Are'are"
+
+msgid "ISO_639-3.ALW"
+msgstr "Alaba-K’abeena"
+
+msgid "ISO_639-3.ALX"
+msgstr "Amol"
+
+msgid "ISO_639-3.ALY"
+msgstr "Alyawarr"
+
+msgid "ISO_639-3.ALZ"
+msgstr "Alur"
+
+msgid "ISO_639-3.AMA"
+msgstr "Amanaye"
+
+msgid "ISO_639-3.AMB"
+msgstr "Ambo"
+
+msgid "ISO_639-3.AMC"
+msgstr "Amahuaka"
+
+msgid "ISO_639-3.AME"
+msgstr "Yanesha'"
+
+msgid "ISO_639-3.AMF"
+msgstr "Hamer-Banna"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amhareg"
+
+msgid "ISO_639-3.AMI"
+msgstr "Amis"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Amdang"
+
+msgid "ISO_639-3.AMK"
+msgstr "Ambai"
+
+msgid "ISO_639-3.AML"
+msgstr "War-Jaintia"
+
+msgid "ISO_639-3.AMM"
+msgstr "Ama (Papua New Guinea)"
+
+msgid "ISO_639-3.AMN"
+msgstr "Amanab"
+
+msgid "ISO_639-3.AMO"
+msgstr "Amo"
+
+msgid "ISO_639-3.AMP"
+msgstr "Alamblak"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Amahai"
+
+msgid "ISO_639-3.AMR"
+msgstr "Amarakaeri"
+
+msgid "ISO_639-3.AMS"
+msgstr "Amami-Oshima, hanternoz"
+
+msgid "ISO_639-3.AMT"
+msgstr "Amuzgo, Guerrero"
+
+msgid "ISO_639-3.AMV"
+msgstr "Nevezarameeg gwalarn"
+
+msgid "ISO_639-3.AMX"
+msgstr "Anmatyerre"
+
+msgid "ISO_639-3.AMY"
+msgstr "Ami"
+
+msgid "ISO_639-3.AMZ"
+msgstr "Atampaya"
+
+msgid "ISO_639-3.ANA"
+msgstr "Andakui"
+
+msgid "ISO_639-3.ANB"
+msgstr "Andoa"
+
+msgid "ISO_639-3.ANC"
+msgstr "Ngas"
+
+msgid "ISO_639-3.AND"
+msgstr "Ansus"
+
+msgid "ISO_639-3.ANE"
+msgstr "Ksârâkùù"
+
+msgid "ISO_639-3.ANF"
+msgstr "Animere"
+
+msgid "ISO_639-3.ANG"
+msgstr "Hensaozneg (etre 450-1100)"
+
+msgid "ISO_639-3.ANH"
+msgstr "Nend"
+
+msgid "ISO_639-3.ANI"
+msgstr "Andi"
+
+msgid "ISO_639-3.ANJ"
+msgstr "Anor"
+
+msgid "ISO_639-3.ANK"
+msgstr "Goemai"
+
+msgid "ISO_639-3.ANM"
+msgstr "Anal"
+
+msgid "ISO_639-3.ANN"
+msgstr "Obolo"
+
+msgid "ISO_639-3.ANO"
+msgstr "Andokue"
+
+msgid "ISO_639-3.ANP"
+msgstr "Angika"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Jarawa (Bro India)"
+
+msgid "ISO_639-3.ANR"
+msgstr "Andh"
+
+msgid "ISO_639-3.ANS"
+msgstr "Anserma"
+
+msgid "ISO_639-3.ANT"
+msgstr "Antakarinya"
+
+msgid "ISO_639-3.ANU"
+msgstr "Anuak"
+
+msgid "ISO_639-3.ANV"
+msgstr "Denya"
+
+msgid "ISO_639-3.ANW"
+msgstr "Anaang"
+
+msgid "ISO_639-3.ANX"
+msgstr "Andra-Hus"
+
+msgid "ISO_639-3.ANY"
+msgstr "Anyin"
+
+msgid "ISO_639-3.ANZ"
+msgstr "Anem"
+
+msgid "ISO_639-3.AOA"
+msgstr "Angolar"
+
+msgid "ISO_639-3.AOB"
+msgstr "Abom"
+
+msgid "ISO_639-3.AOC"
+msgstr "Pemon"
+
+msgid "ISO_639-3.AOD"
+msgstr "Andarum"
+
+msgid "ISO_639-3.AOE"
+msgstr "Angal Enen"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bragat"
+
+msgid "ISO_639-3.AOG"
+msgstr "Angoram"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arma"
+
+msgid "ISO_639-3.AOI"
+msgstr "Anindilyakwa"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Mufian"
+
+msgid "ISO_639-3.AOK"
+msgstr "Arhö"
+
+msgid "ISO_639-3.AOL"
+msgstr "Alor"
+
+msgid "ISO_639-3.AOM"
+msgstr "Arapesh, Bumbita"
+
+msgid "ISO_639-3.AOR"
+msgstr "Aore"
+
+msgid "ISO_639-3.AOS"
+msgstr "Taikat"
+
+msgid "ISO_639-3.AOT"
+msgstr "Jarawa (Bro India)"
+
+msgid "ISO_639-3.AOX"
+msgstr "Atorada"
+
+msgid "ISO_639-3.AOZ"
+msgstr "Uab Meto"
+
+msgid "ISO_639-3.APB"
+msgstr "Sa'a"
+
+msgid "ISO_639-3.APC"
+msgstr "Arabeg, bro Soudan"
+
+msgid "ISO_639-3.APE"
+msgstr "Bukiyip"
+
+msgid "ISO_639-3.APF"
+msgstr "Ayta, Bataan"
+
+msgid "ISO_639-3.APG"
+msgstr "Ampanang"
+
+msgid "ISO_639-3.APH"
+msgstr "Athpariya"
+
+msgid "ISO_639-3.API"
+msgstr "Apache, Lipan"
+
+msgid "ISO_639-3.APM"
+msgstr "Apache, Meskalero-Chiricahua"
+
+msgid "ISO_639-3.APN"
+msgstr "Apinaye"
+
+msgid "ISO_639-3.APO"
+msgstr "Ambulas"
+
+msgid "ISO_639-3.APP"
+msgstr "Apma"
+
+msgid "ISO_639-3.APQ"
+msgstr "A-Pukikwar"
+
+msgid "ISO_639-3.APR"
+msgstr "Arop-Lokep"
+
+msgid "ISO_639-3.APS"
+msgstr "Arop-Sissano"
+
+msgid "ISO_639-3.APT"
+msgstr "Apatani"
+
+msgid "ISO_639-3.APU"
+msgstr "Apurinã"
+
+msgid "ISO_639-3.APV"
+msgstr "Apache, gwalarn"
+
+msgid "ISO_639-3.APX"
+msgstr "Aputai"
+
+msgid "ISO_639-3.APY"
+msgstr "Apalaí"
+
+msgid "ISO_639-3.APZ"
+msgstr "Safeyoka"
+
+msgid "ISO_639-3.AQC"
+msgstr "Archi"
+
+msgid "ISO_639-3.AQG"
+msgstr "Arigidi"
+
+msgid "ISO_639-3.AQM"
+msgstr "Atohwaim"
+
+msgid "ISO_639-3.AQN"
+msgstr "Alta, Kreizteiz"
+
+msgid "ISO_639-3.AQP"
+msgstr "Atakapa"
+
+msgid "ISO_639-3.AQR"
+msgstr "Arhâ"
+
+msgid "ISO_639-3.AQT"
+msgstr "Angal"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Awutu"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabeg dre ziouer"
+
+msgid "ISO_639-3.ARC"
+msgstr "Arameeg, Ofisiel (700-300 A-raok J-K)"
+
+msgid "ISO_639-3.ARD"
+msgstr "Arrarnta, gwalarn"
+
+msgid "ISO_639-3.ARG"
+msgstr "Aragoneseg"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arhuako"
+
+msgid "ISO_639-3.ARI"
+msgstr "Arikara"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Arapaso"
+
+msgid "ISO_639-3.ARK"
+msgstr "Arikapú"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabela"
+
+msgid "ISO_639-3.ARN"
+msgstr "Mapudungun"
+
+msgid "ISO_639-3.ARO"
+msgstr "Araona"
+
+msgid "ISO_639-3.ARP"
+msgstr "Arapaho"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabeg, Bro Aljer"
+
+msgid "ISO_639-3.ARR"
+msgstr "Karo (Bro Vrazil)"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabeg, Najdi"
+
+msgid "ISO_639-3.ARU"
+msgstr "Aruá (Stad Amazonas)"
+
+msgid "ISO_639-3.ARV"
+msgstr "Arbore"
+
+msgid "ISO_639-3.ARW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ARX"
+msgstr "Arabeg, Bro Moroko"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Arabeg, Bro Ejipt"
+
+msgid "ISO_639-3.ASA"
+msgstr "Asu (Tanzania)"
+
+msgid "ISO_639-3.ASB"
+msgstr "Assiniboine"
+
+msgid "ISO_639-3.ASC"
+msgstr "Asmat, war an aod Kasuarina"
+
+msgid "ISO_639-3.ASD"
+msgstr "Asas"
+
+msgid "ISO_639-3.ASE"
+msgstr "Yezh ar sinoù Amerika"
+
+msgid "ISO_639-3.ASF"
+msgstr "Yezh ar sinoù Aostralian"
+
+msgid "ISO_639-3.ASG"
+msgstr "Kishingini"
+
+msgid "ISO_639-3.ASH"
+msgstr "Abishira"
+
+msgid "ISO_639-3.ASI"
+msgstr "Buruwai"
+
+msgid "ISO_639-3.ASK"
+msgstr "Ashkun"
+
+msgid "ISO_639-3.ASL"
+msgstr "Asilulu"
+
+msgid "ISO_639-3.ASM"
+msgstr "Asuriní, Xingú"
+
+msgid "ISO_639-3.ASO"
+msgstr "Dano"
+
+msgid "ISO_639-3.ASP"
+msgstr "Yezh ar sinoù bro Aljeri"
+
+msgid "ISO_639-3.ASQ"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.ASR"
+msgstr "Asuri"
+
+msgid "ISO_639-3.ASS"
+msgstr "Ipulo"
+
+msgid "ISO_639-3.AST"
+msgstr "Asurini, Tokantins"
+
+msgid "ISO_639-3.ASV"
+msgstr "Asoa"
+
+msgid "ISO_639-3.ASX"
+msgstr "Asmat, Yaosakor"
+
+msgid "ISO_639-3.ASZ"
+msgstr "As"
+
+msgid "ISO_639-3.ATA"
+msgstr "Pele-Ata"
+
+msgid "ISO_639-3.ATB"
+msgstr "Zaiwa"
+
+msgid "ISO_639-3.ATC"
+msgstr "Manobo, Ata"
+
+msgid "ISO_639-3.ATE"
+msgstr "Atemble"
+
+msgid "ISO_639-3.ATG"
+msgstr "Ivbie Kreisteiz Okpela-Arhe"
+
+msgid "ISO_639-3.ATI"
+msgstr "Attie"
+
+msgid "ISO_639-3.ATJ"
+msgstr "Atikamekw"
+
+msgid "ISO_639-3.ATK"
+msgstr "Ati"
+
+msgid "ISO_639-3.ATL"
+msgstr "Agta, Mt. Iraya"
+
+msgid "ISO_639-3.ATM"
+msgstr "Ata"
+
+msgid "ISO_639-3.ATN"
+msgstr "Ashtiani"
+
+msgid "ISO_639-3.ATO"
+msgstr "Atta, Pudtol"
+
+msgid "ISO_639-3.ATQ"
+msgstr "Aralle-Tabulahan"
+
+msgid "ISO_639-3.ATR"
+msgstr "Waimiri-Atroari"
+
+msgid "ISO_639-3.ATS"
+msgstr "Atta, Iruña"
+
+msgid "ISO_639-3.ATU"
+msgstr "Reel"
+
+msgid "ISO_639-3.ATV"
+msgstr "Altai, kreisteiz"
+
+msgid "ISO_639-3.ATW"
+msgstr "Atsugewi"
+
+msgid "ISO_639-3.ATX"
+msgstr "Arutani"
+
+msgid "ISO_639-3.ATY"
+msgstr "Aneityum"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Arta"
+
+msgid "ISO_639-3.AUA"
+msgstr "Asumboa"
+
+msgid "ISO_639-3.AUB"
+msgstr "Alugu"
+
+msgid "ISO_639-3.AUC"
+msgstr "Waorani"
+
+msgid "ISO_639-3.AUD"
+msgstr "Anuta"
+
+msgid "ISO_639-3.AUG"
+msgstr "Aguna"
+
+msgid "ISO_639-3.AUH"
+msgstr "Aushi"
+
+msgid "ISO_639-3.AUI"
+msgstr "Anuki"
+
+msgid "ISO_639-3.AUJ"
+msgstr "Awjilah"
+
+msgid "ISO_639-3.AUK"
+msgstr "Heyo"
+
+msgid "ISO_639-3.AUL"
+msgstr "Aulua"
+
+msgid "ISO_639-3.AUM"
+msgstr "One, Molmo"
+
+msgid "ISO_639-3.AUO"
+msgstr "Auyokawa"
+
+msgid "ISO_639-3.AUP"
+msgstr "Makayam"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Anus"
+
+msgid "ISO_639-3.AUR"
+msgstr "Aruek"
+
+msgid "ISO_639-3.AUT"
+msgstr "Aostral"
+
+msgid "ISO_639-3.AUU"
+msgstr "Auye"
+
+msgid "ISO_639-3.AUW"
+msgstr "Awyi"
+
+msgid "ISO_639-3.AUX"
+msgstr "Aurá"
+
+msgid "ISO_639-3.AUY"
+msgstr "Awiyaana"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabeg"
+
+msgid "ISO_639-3.AVA"
+msgstr "Avareg"
+
+msgid "ISO_639-3.AVB"
+msgstr "Avau"
+
+msgid "ISO_639-3.AVD"
+msgstr "Alviri-Vidari"
+
+msgid "ISO_639-3.AVE"
+msgstr "Avestaneg"
+
+msgid "ISO_639-3.AVI"
+msgstr "Avikam"
+
+msgid "ISO_639-3.AVK"
+msgstr "Kotava"
+
+msgid "ISO_639-3.AVN"
+msgstr "Avatime"
+
+msgid "ISO_639-3.AVO"
+msgstr "Agavotaguerra"
+
+msgid "ISO_639-3.AVS"
+msgstr "Aushiri"
+
+msgid "ISO_639-3.AVT"
+msgstr "Au"
+
+msgid "ISO_639-3.AVU"
+msgstr "Avokaya"
+
+msgid "ISO_639-3.AVV"
+msgstr "Avá-Kanoeiro"
+
+msgid "ISO_639-3.AWA"
+msgstr "Awadhi"
+
+msgid "ISO_639-3.AWE"
+msgstr "Awetí"
+
+msgid "ISO_639-3.AWH"
+msgstr "Awbono"
+
+msgid "ISO_639-3.AWI"
+msgstr "Aekyom"
+
+msgid "ISO_639-3.AWK"
+msgstr "Awabakal"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arawum"
+
+msgid "ISO_639-3.AWN"
+msgstr "Awngi"
+
+msgid "ISO_639-3.AWO"
+msgstr "Awak"
+
+msgid "ISO_639-3.AWR"
+msgstr "Awyu, Hanternoz"
+
+msgid "ISO_639-3.AWT"
+msgstr "Arawete"
+
+msgid "ISO_639-3.AWU"
+msgstr "Awyu, Jair"
+
+msgid "ISO_639-3.AWW"
+msgstr "Awun"
+
+msgid "ISO_639-3.AWX"
+msgstr "Awyu, Edera"
+
+msgid "ISO_639-3.AXB"
+msgstr "Abipon"
+
+msgid "ISO_639-3.AXE"
+msgstr "Arára, Mato Grosso"
+
+msgid "ISO_639-3.AXK"
+msgstr "Yaka (Central African Republic)"
+
+msgid "ISO_639-3.AXL"
+msgstr "Aymara, Hanternoz"
+
+msgid "ISO_639-3.AXX"
+msgstr "Ksârâkùù"
+
+msgid "ISO_639-3.AYA"
+msgstr "Gbe, Ayizo"
+
+msgid "ISO_639-3.AYC"
+msgstr "Aymara, Hanternoz"
+
+msgid "ISO_639-3.AYD"
+msgstr "Ayabadhu"
+
+msgid "ISO_639-3.AYE"
+msgstr "Ayere"
+
+msgid "ISO_639-3.AYG"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arabeg"
+
+msgid "ISO_639-3.AYI"
+msgstr "Leyigha"
+
+msgid "ISO_639-3.AYK"
+msgstr "Akuku"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabeg, Libieg"
+
+msgid "ISO_639-3.AYM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AYN"
+msgstr "Arabeg, Sanaani"
+
+msgid "ISO_639-3.AYO"
+msgstr "Ayoreo"
+
+msgid "ISO_639-3.AYP"
+msgstr "Arabeg, Mesopotamian"
+
+msgid "ISO_639-3.AYR"
+msgstr "Aymara, Kreiz"
+
+msgid "ISO_639-3.AYS"
+msgstr "Ayta, Bataan"
+
+msgid "ISO_639-3.AYU"
+msgstr "Ayta, Tayabas"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Mai Brat"
+
+msgid "ISO_639-3.AZA"
+msgstr "Azha"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azerbaijani, Hanternoz"
+
+msgid "ISO_639-3.AZD"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azeri"
+
+msgid "ISO_639-3.AZG"
+msgstr "Amuzgo, San Pedro Amuzgos"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Amuzgo, Ipalapa"
+
+msgid "ISO_639-3.AZO"
+msgstr "Atta, Faire"
+
+msgid "ISO_639-3.AZZ"
+msgstr "Nahuatl, Highland Puebla"
+
+msgid "ISO_639-3.BAA"
+msgstr "Babatana"
+
+msgid "ISO_639-3.BAB"
+msgstr "Bainouk-Gunyuño"
+
+msgid "ISO_639-3.BAC"
+msgstr "Badui"
+
+msgid "ISO_639-3.BAE"
+msgstr "Bare"
+
+msgid "ISO_639-3.BAF"
+msgstr "Nubaka"
+
+msgid "ISO_639-3.BAG"
+msgstr "Tuki"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Barakai"
+
+msgid "ISO_639-3.BAK"
+msgstr "Bashkir"
+
+msgid "ISO_639-3.BAL"
+msgstr "Balouchi"
+
+msgid "ISO_639-3.BAM"
+msgstr "Bambara"
+
+msgid "ISO_639-3.BAN"
+msgstr "Balineg"
+
+msgid "ISO_639-3.BAO"
+msgstr "Waimaha"
+
+msgid "ISO_639-3.BAP"
+msgstr "Bantawa"
+
+msgid "ISO_639-3.BAS"
+msgstr "Basa (Kameroun)"
+
+msgid "ISO_639-3.BAU"
+msgstr "Bada (Nijeria)"
+
+msgid "ISO_639-3.BAV"
+msgstr "Vengo"
+
+msgid "ISO_639-3.BAW"
+msgstr "Bambili-Bambui"
+
+msgid "ISO_639-3.BAX"
+msgstr "Bamun"
+
+msgid "ISO_639-3.BAY"
+msgstr "Batuley"
+
+msgid "ISO_639-3.BBA"
+msgstr "Baatonum"
+
+msgid "ISO_639-3.BBB"
+msgstr "Barai"
+
+msgid "ISO_639-3.BBC"
+msgstr "Batak Toba"
+
+msgid "ISO_639-3.BBD"
+msgstr "Bau"
+
+msgid "ISO_639-3.BBE"
+msgstr "Bangba"
+
+msgid "ISO_639-3.BBF"
+msgstr "Baibai"
+
+msgid "ISO_639-3.BBG"
+msgstr "Barama"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bugan"
+
+msgid "ISO_639-3.BBI"
+msgstr "Barombi"
+
+msgid "ISO_639-3.BBJ"
+msgstr "Ghomálá'"
+
+msgid "ISO_639-3.BBK"
+msgstr "Babanki"
+
+msgid "ISO_639-3.BBL"
+msgstr "Bats"
+
+msgid "ISO_639-3.BBM"
+msgstr "Babango"
+
+msgid "ISO_639-3.BBN"
+msgstr "Bobo Madaré, Kreisteiz"
+
+msgid "ISO_639-3.BBP"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Bamali"
+
+msgid "ISO_639-3.BBR"
+msgstr "Girawa"
+
+msgid "ISO_639-3.BBS"
+msgstr "Bakpinka"
+
+msgid "ISO_639-3.BBT"
+msgstr "Mburku"
+
+msgid "ISO_639-3.BBU"
+msgstr "Kulung (Nijeria)"
+
+msgid "ISO_639-3.BBV"
+msgstr "Karnai"
+
+msgid "ISO_639-3.BBW"
+msgstr "Baba"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bubia"
+
+msgid "ISO_639-3.BBY"
+msgstr "Befang"
+
+msgid "ISO_639-3.BCA"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.BCB"
+msgstr "Bainouk-Samik"
+
+msgid "ISO_639-3.BCC"
+msgstr "Babar, Kreisteiz"
+
+msgid "ISO_639-3.BCE"
+msgstr "Bamenyam"
+
+msgid "ISO_639-3.BCF"
+msgstr "Bamu"
+
+msgid "ISO_639-3.BCG"
+msgstr "Bangandu"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bariai"
+
+msgid "ISO_639-3.BCI"
+msgstr "Baoule"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Bardi"
+
+msgid "ISO_639-3.BCK"
+msgstr "Bunaba"
+
+msgid "ISO_639-3.BCL"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.BCM"
+msgstr "Bannoni"
+
+msgid "ISO_639-3.BCN"
+msgstr "Bali (Nijeria)"
+
+msgid "ISO_639-3.BCO"
+msgstr "Kaluli"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Bench"
+
+msgid "ISO_639-3.BCR"
+msgstr "Babine"
+
+msgid "ISO_639-3.BCS"
+msgstr "Kohumono"
+
+msgid "ISO_639-3.BCT"
+msgstr "Bendi"
+
+msgid "ISO_639-3.BCU"
+msgstr "Awad Bing"
+
+msgid "ISO_639-3.BCV"
+msgstr "Shoo-Minda-Nye"
+
+msgid "ISO_639-3.BCW"
+msgstr "Bana"
+
+msgid "ISO_639-3.BCY"
+msgstr "Bakama"
+
+msgid "ISO_639-3.BCZ"
+msgstr "Bainouk-Gunyaamolo"
+
+msgid "ISO_639-3.BDA"
+msgstr "Bayot"
+
+msgid "ISO_639-3.BDB"
+msgstr "Basap"
+
+msgid "ISO_639-3.BDC"
+msgstr "Emberá-Baudó"
+
+msgid "ISO_639-3.BDD"
+msgstr "Bunama"
+
+msgid "ISO_639-3.BDE"
+msgstr "Bade"
+
+msgid "ISO_639-3.BDF"
+msgstr "Bade"
+
+msgid "ISO_639-3.BDG"
+msgstr "Bonggi"
+
+msgid "ISO_639-3.BDI"
+msgstr "Burun"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Bai"
+
+msgid "ISO_639-3.BDK"
+msgstr "Budukh"
+
+msgid "ISO_639-3.BDM"
+msgstr "Buduma"
+
+msgid "ISO_639-3.BDN"
+msgstr "Baldemu"
+
+msgid "ISO_639-3.BDO"
+msgstr "Morom"
+
+msgid "ISO_639-3.BDP"
+msgstr "Bende"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Bahnar"
+
+msgid "ISO_639-3.BDR"
+msgstr "Bajau, Gwalarn"
+
+msgid "ISO_639-3.BDS"
+msgstr "Burunge"
+
+msgid "ISO_639-3.BDT"
+msgstr "Bokoto"
+
+msgid "ISO_639-3.BDU"
+msgstr "Oroko"
+
+msgid "ISO_639-3.BDV"
+msgstr "Bodo Parja"
+
+msgid "ISO_639-3.BDW"
+msgstr "Baham"
+
+msgid "ISO_639-3.BDX"
+msgstr "Budong-Budong"
+
+msgid "ISO_639-3.BDY"
+msgstr "Bandjalang"
+
+msgid "ISO_639-3.BDZ"
+msgstr "Badeshi"
+
+msgid "ISO_639-3.BEA"
+msgstr "Beaver"
+
+msgid "ISO_639-3.BEB"
+msgstr "Bebele"
+
+msgid "ISO_639-3.BED"
+msgstr "Bedoanas"
+
+msgid "ISO_639-3.BEE"
+msgstr "Byangsi"
+
+msgid "ISO_639-3.BEF"
+msgstr "Benabena"
+
+msgid "ISO_639-3.BEG"
+msgstr "Belait"
+
+msgid "ISO_639-3.BEH"
+msgstr "Biali"
+
+msgid "ISO_639-3.BEI"
+msgstr "Bekati'"
+
+msgid "ISO_639-3.BEJ"
+msgstr "Beja"
+
+msgid "ISO_639-3.BEK"
+msgstr "Bebeli"
+
+msgid "ISO_639-3.BEN"
+msgstr "Bangolan"
+
+msgid "ISO_639-3.BEO"
+msgstr "Beami"
+
+msgid "ISO_639-3.BEP"
+msgstr "Besoa"
+
+msgid "ISO_639-3.BEQ"
+msgstr "Beembe"
+
+msgid "ISO_639-3.BES"
+msgstr "Béte, Guiberoua"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bété, Daloa"
+
+msgid "ISO_639-3.BEW"
+msgstr "Betawi"
+
+msgid "ISO_639-3.BEX"
+msgstr "Jur Modo"
+
+msgid "ISO_639-3.BFA"
+msgstr "Bareli, Pauri"
+
+msgid "ISO_639-3.BFD"
+msgstr "Bafut"
+
+msgid "ISO_639-3.BFE"
+msgstr "Betaf"
+
+msgid "ISO_639-3.BFF"
+msgstr "Bofi"
+
+msgid "ISO_639-3.BFG"
+msgstr "Kayan, Busang"
+
+msgid "ISO_639-3.BFH"
+msgstr "Blafe"
+
+msgid "ISO_639-3.BFJ"
+msgstr "Bafanji"
+
+msgid "ISO_639-3.BFK"
+msgstr "Yezh ar sinoù Ban Khor"
+
+msgid "ISO_639-3.BFL"
+msgstr "Banda-Ndélé"
+
+msgid "ISO_639-3.BFM"
+msgstr "Mmen"
+
+msgid "ISO_639-3.BFN"
+msgstr "Birifor, Malba"
+
+msgid "ISO_639-3.BFP"
+msgstr "Beba"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Badaga"
+
+msgid "ISO_639-3.BFR"
+msgstr "Bazigar"
+
+msgid "ISO_639-3.BFS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.BFT"
+msgstr "Balti"
+
+msgid "ISO_639-3.BFU"
+msgstr "Gahri"
+
+msgid "ISO_639-3.BFW"
+msgstr "Bondo"
+
+msgid "ISO_639-3.BFX"
+msgstr "Bantawa"
+
+msgid "ISO_639-3.BFY"
+msgstr "Pahari, Mahasu"
+
+msgid "ISO_639-3.BGA"
+msgstr "Gwamhi-Wuri"
+
+msgid "ISO_639-3.BGB"
+msgstr "Bobongko"
+
+msgid "ISO_639-3.BGC"
+msgstr "Bareli, Rathwi"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bauria"
+
+msgid "ISO_639-3.BGF"
+msgstr "Bangandu"
+
+msgid "ISO_639-3.BGG"
+msgstr "Bugun"
+
+msgid "ISO_639-3.BGI"
+msgstr "Giangan"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Bangolan"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bit"
+
+msgid "ISO_639-3.BGL"
+msgstr "Balochi, Gwalarn"
+
+msgid "ISO_639-3.BGO"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.BGS"
+msgstr "Tagabawa"
+
+msgid "ISO_639-3.BGT"
+msgstr "Bughotu"
+
+msgid "ISO_639-3.BGU"
+msgstr "Mbongno"
+
+msgid "ISO_639-3.BGV"
+msgstr "Warkay-Bipim"
+
+msgid "ISO_639-3.BGW"
+msgstr "Bhatri"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Banggai"
+
+msgid "ISO_639-3.BHA"
+msgstr "Bharia"
+
+msgid "ISO_639-3.BHB"
+msgstr "Bhili"
+
+msgid "ISO_639-3.BHC"
+msgstr "Biga"
+
+msgid "ISO_639-3.BHD"
+msgstr "Bhadrawahi"
+
+msgid "ISO_639-3.BHE"
+msgstr "Bhaya"
+
+msgid "ISO_639-3.BHF"
+msgstr "Odiai"
+
+msgid "ISO_639-3.BHH"
+msgstr "Bukharik"
+
+msgid "ISO_639-3.BHI"
+msgstr "Bhilali"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Bahing"
+
+msgid "ISO_639-3.BHL"
+msgstr "Bimin"
+
+msgid "ISO_639-3.BHM"
+msgstr "Nevezarameeg, Bohtan"
+
+msgid "ISO_639-3.BHO"
+msgstr "Bhojpuri"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bima"
+
+msgid "ISO_639-3.BHS"
+msgstr "Buwal"
+
+msgid "ISO_639-3.BHT"
+msgstr "Bhattiyali"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bhunjia"
+
+msgid "ISO_639-3.BHV"
+msgstr "Bahau"
+
+msgid "ISO_639-3.BHW"
+msgstr "Biak"
+
+msgid "ISO_639-3.BHX"
+msgstr "Bhalay"
+
+msgid "ISO_639-3.BHY"
+msgstr "Bhele"
+
+msgid "ISO_639-3.BIA"
+msgstr "Badimaya"
+
+msgid "ISO_639-3.BIB"
+msgstr "Bissa"
+
+msgid "ISO_639-3.BIC"
+msgstr "Bikaru"
+
+msgid "ISO_639-3.BID"
+msgstr "Bidiyo"
+
+msgid "ISO_639-3.BIE"
+msgstr "Bepour"
+
+msgid "ISO_639-3.BIF"
+msgstr "Biafada"
+
+msgid "ISO_639-3.BIG"
+msgstr "Biangai"
+
+msgid "ISO_639-3.BIJ"
+msgstr "Vaghat-Ya-Bijim-Legeri"
+
+msgid "ISO_639-3.BIV"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.BJO"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.BKS"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.BLN"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.BMD"
+msgstr "Bangandu"
+
+msgid "ISO_639-3.BNC"
+msgstr "Bondo"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Bandjalang"
+
+msgid "ISO_639-3.BPV"
+msgstr "Biangai"
+
+msgid "ISO_639-3.BRE"
+msgstr "Brezhoneg"
+
+msgid "ISO_639-3.BRU"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japaneg"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgareg"
+
+msgid "ISO_639-3.BVY"
+msgstr "Babango"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.BXR"
+msgstr "Rusianeg"
+
+msgid "ISO_639-3.BXU"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.BYH"
+msgstr "Bhele"
+
+msgid "ISO_639-3.CAF"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalaneg"
+
+msgid "ISO_639-3.CBW"
+msgstr "Ainbai"
+
+msgid "ISO_639-3.CCG"
+msgstr "Bambara"
+
+msgid "ISO_639-3.CDO"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.CEK"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.CES"
+msgstr "Tchekeg"
+
+msgid "ISO_639-3.CJM"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.CJY"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.CKB"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.CMN"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.CMO"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.CNG"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.CNH"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.CNS"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.CPX"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.CRR"
+msgstr "Algonkuin"
+
+msgid "ISO_639-3.CSH"
+msgstr "Ainu (Bro Sina)"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.CSS"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.CSY"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.CTS"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.CZH"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.DAN"
+msgstr "Daneg"
+
+msgid "ISO_639-3.DAO"
+msgstr "Ainu (Bro Sina)"
+
+msgid "ISO_639-3.DBA"
+msgstr "Banggai"
+
+msgid "ISO_639-3.DEU"
+msgstr "Alamaneg"
+
+msgid "ISO_639-3.DGA"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.DGL"
+msgstr "Andai"
+
+msgid "ISO_639-3.DHG"
+msgstr "Mapudungun"
+
+msgid "ISO_639-3.DIB"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.DIK"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.DIP"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.DIW"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.DKS"
+msgstr "One, Molmo"
+
+msgid "ISO_639-3.DOC"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.DSB"
+msgstr "One, Molmo"
+
+msgid "ISO_639-3.EAA"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.EBK"
+msgstr "Abnaki, Eastern"
+
+msgid "ISO_639-3.EKC"
+msgstr "Abnaki, Eastern"
+
+msgid "ISO_639-3.EKK"
+msgstr "Estoneg"
+
+msgid "ISO_639-3.EKY"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.EMK"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.EMU"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanteg"
+
+msgid "ISO_639-3.ERK"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.ESG"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.EST"
+msgstr "Estoneg"
+
+msgid "ISO_639-3.ESU"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.EUS"
+msgstr "Euskareg"
+
+msgid "ISO_639-3.FAH"
+msgstr "Bissa"
+
+msgid "ISO_639-3.FAL"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.FAY"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.FBL"
+msgstr "Bikolano, Albay"
+
+msgid "ISO_639-3.FIN"
+msgstr "Finneg"
+
+msgid "ISO_639-3.FKV"
+msgstr "Finneg"
+
+msgid "ISO_639-3.FRA"
+msgstr "Galleg"
+
+msgid "ISO_639-3.FRC"
+msgstr "Galleg"
+
+msgid "ISO_639-3.FRP"
+msgstr "Arta"
+
+msgid "ISO_639-3.GAL"
+msgstr "Galo"
+
+msgid "ISO_639-3.GAN"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.GAZ"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Bodo Parja"
+
+msgid "ISO_639-3.GDS"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.GDT"
+msgstr "Hungareg"
+
+msgid "ISO_639-3.GHE"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.GHH"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.GLE"
+msgstr "Iwerzhoneg"
+
+msgid "ISO_639-3.GLH"
+msgstr "Pashayi biz"
+
+msgid "ISO_639-3.GQU"
+msgstr "Bau"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.GRV"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.GSW"
+msgstr "Alamaneg"
+
+msgid "ISO_639-3.GUG"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.GVR"
+msgstr "Burunge"
+
+msgid "ISO_639-3.GWM"
+msgstr "Awngi"
+
+msgid "ISO_639-3.HAK"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.HAT"
+msgstr "Kroateg"
+
+msgid "ISO_639-3.HAX"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebreeg"
+
+msgid "ISO_639-3.HDN"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HEB"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.HMA"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HMM"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HMP"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HMS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HMY"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HND"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HPS"
+msgstr "Yezh ar sinoù Amerika"
+
+msgid "ISO_639-3.HRV"
+msgstr "Kroateg"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbeg"
+
+msgid "ISO_639-3.HSN"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.HUN"
+msgstr "Hungareg"
+
+msgid "ISO_639-3.III"
+msgstr "Lituaneg"
+
+msgid "ISO_639-3.IKS"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.ILM"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.IMA"
+msgstr "Makayam"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandeg"
+
+msgid "ISO_639-3.ITA"
+msgstr "Italianeg"
+
+msgid "ISO_639-3.ITD"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.ITY"
+msgstr "Adang"
+
+msgid "ISO_639-3.JAN"
+msgstr "Andai"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bariai"
+
+msgid "ISO_639-3.JJR"
+msgstr "Bankon"
+
+msgid "ISO_639-3.JKR"
+msgstr "Jarawa (Bro India)"
+
+msgid "ISO_639-3.JLS"
+msgstr "Yezh ar sinoù Amerika"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japaneg"
+
+msgid "ISO_639-3.KAK"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.KBY"
+msgstr "Bangandu"
+
+msgid "ISO_639-3.KFB"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.KHK"
+msgstr "Bangolan"
+
+msgid "ISO_639-3.KHM"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.KJD"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.KJV"
+msgstr "Yezh ar sinoù Amerika"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Turkeg"
+
+msgid "ISO_639-3.KMC"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.KMD"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.KNC"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.KOR"
+msgstr "Koreeg"
+
+msgid "ISO_639-3.KQO"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.KSC"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.KSS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.KTS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.KTV"
+msgstr "Balochi, Reter"
+
+msgid "ISO_639-3.KUE"
+msgstr "Ama (Papua New Guinea)"
+
+msgid "ISO_639-3.KXM"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.KYS"
+msgstr "Barama"
+
+msgid "ISO_639-3.LAA"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.LBK"
+msgstr "Bicolano, Kreiz"
+
+msgid "ISO_639-3.LIA"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lituaneg"
+
+msgid "ISO_639-3.LJW"
+msgstr "Andai"
+
+msgid "ISO_639-3.LKU"
+msgstr "Abai Sungai"
+
+msgid "ISO_639-3.LNI"
+msgstr "Babatana"
+
+msgid "ISO_639-3.LNL"
+msgstr "Agta, kreiz ar C'H/Kagayan"
+
+msgid "ISO_639-3.LRC"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.LRR"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.LSY"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalaneg"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Arabeg dre ziouer"
+
+msgid "ISO_639-3.LZH"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.MBF"
+msgstr "Babatana"
+
+msgid "ISO_639-3.MBS"
+msgstr "Makayam"
+
+msgid "ISO_639-3.MCY"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.MEL"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.MGP"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.MHP"
+msgstr "Manobo, Ata"
+
+msgid "ISO_639-3.MNN"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.MNP"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.MOM"
+msgstr "Mapudungun"
+
+msgid "ISO_639-3.MRD"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maorieg"
+
+msgid "ISO_639-3.MRY"
+msgstr "Makayam"
+
+msgid "ISO_639-3.MSC"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.MWO"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.MXZ"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.NAB"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NAN"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.NBW"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NCB"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.NCH"
+msgstr "Yezh ar sinoù Aostralian"
+
+msgid "ISO_639-3.NDS"
+msgstr "Alamaneg"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.NHE"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.NHN"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.NIB"
+msgstr "Barama"
+
+msgid "ISO_639-3.NIK"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NIT"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NJM"
+msgstr "Angaataha"
+
+msgid "ISO_639-3.NJN"
+msgstr "Biangai"
+
+msgid "ISO_639-3.NKU"
+msgstr "Bandjalang"
+
+msgid "ISO_639-3.NLD"
+msgstr "Nederlandeg"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Paranan"
+
+msgid "ISO_639-3.NLW"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.NMA"
+msgstr "Barama"
+
+msgid "ISO_639-3.NMF"
+msgstr "Jarawa (Bro India)"
+
+msgid "ISO_639-3.NNW"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NOD"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Nanubae"
+
+msgid "ISO_639-3.NQG"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Paranan"
+
+msgid "ISO_639-3.NRE"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NSA"
+msgstr "Makayam"
+
+msgid "ISO_639-3.NSD"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NSF"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.NSV"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.NTD"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.NUA"
+msgstr "Alangan"
+
+msgid "ISO_639-3.NUV"
+msgstr "Arameeg, Ofisiel (700-300 A-raok J-K)"
+
+msgid "ISO_639-3.OBK"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.OBT"
+msgstr "Henvrezhoneg"
+
+msgid "ISO_639-3.OCH"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.ODT"
+msgstr "Nederlandeg"
+
+msgid "ISO_639-3.OHU"
+msgstr "Hungareg"
+
+msgid "ISO_639-3.OJB"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.OJC"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japaneg"
+
+msgid "ISO_639-3.OKG"
+msgstr "Babango"
+
+msgid "ISO_639-3.OKL"
+msgstr "Yezh ar sinoù Arc'hantina"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lituaneg"
+
+msgid "ISO_639-3.ONR"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.ONW"
+msgstr "Bubia"
+
+msgid "ISO_639-3.ORT"
+msgstr "Agariya"
+
+msgid "ISO_639-3.ORV"
+msgstr "Rusianeg"
+
+msgid "ISO_639-3.ORY"
+msgstr "Odiai"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spagnoleg"
+
+msgid "ISO_639-3.OSU"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turkeg"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamouleg"
+
+msgid "ISO_639-3.PBS"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.PBT"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PBY"
+msgstr "Ama (Papua New Guinea)"
+
+msgid "ISO_639-3.PEA"
+msgstr "Paranan"
+
+msgid "ISO_639-3.PEF"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PES"
+msgstr "Paranan"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.PLC"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.PMI"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PMY"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.PNK"
+msgstr "Bunak"
+
+msgid "ISO_639-3.PNL"
+msgstr "Babango"
+
+msgid "ISO_639-3.POL"
+msgstr "Poloneg"
+
+msgid "ISO_639-3.POM"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.POO"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugaleg"
+
+msgid "ISO_639-3.PRF"
+msgstr "Paranan"
+
+msgid "ISO_639-3.PSE"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.PSH"
+msgstr "Pashayi biz"
+
+msgid "ISO_639-3.PSI"
+msgstr "Pashayi biz"
+
+msgid "ISO_639-3.PST"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.PUA"
+msgstr "Nahuatl, Highland Puebla"
+
+msgid "ISO_639-3.PWW"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.PYS"
+msgstr "Yezh ar sinoù Afganistan"
+
+msgid "ISO_639-3.PZN"
+msgstr "Paranan"
+
+msgid "ISO_639-3.QVI"
+msgstr "Nahuatl, Highland Puebla"
+
+msgid "ISO_639-3.QXS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.RAR"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.RBP"
+msgstr "Bambara"
+
+msgid "ISO_639-3.RGS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.RKW"
+msgstr "Araki"
+
+msgid "ISO_639-3.RML"
+msgstr "Arabeg Omani"
+
+msgid "ISO_639-3.RMO"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RMW"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RMY"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RON"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RSM"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.RTC"
+msgstr "Ainu (Bro Sina)"
+
+msgid "ISO_639-3.RUO"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RUP"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Roumaneg"
+
+msgid "ISO_639-3.RUS"
+msgstr "Rusianeg"
+
+msgid "ISO_639-3.RXD"
+msgstr "Bardi"
+
+msgid "ISO_639-3.RXW"
+msgstr "Buruwai"
+
+msgid "ISO_639-3.RYU"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.SBD"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SBL"
+msgstr "Bambara"
+
+msgid "ISO_639-3.SDH"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SFE"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SGB"
+msgstr "Ayta, Bataan"
+
+msgid "ISO_639-3.SGY"
+msgstr "Balouchi"
+
+msgid "ISO_639-3.SHU"
+msgstr "Arabeg"
+
+msgid "ISO_639-3.SKC"
+msgstr "Makayam"
+
+msgid "ISO_639-3.SKD"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SKM"
+msgstr "Atong"
+
+msgid "ISO_639-3.SKR"
+msgstr "Barai"
+
+msgid "ISO_639-3.SLK"
+msgstr "Sloveg"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovenieg"
+
+msgid "ISO_639-3.SMA"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SME"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SML"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.SNM"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SOT"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SOU"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spagnoleg"
+
+msgid "ISO_639-3.SPM"
+msgstr "Akuku"
+
+msgid "ISO_639-3.SQK"
+msgstr "Yezh ar sinoù Armenia"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabeg"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbeg"
+
+msgid "ISO_639-3.SRV"
+msgstr "Aymara, Hanternoz"
+
+msgid "ISO_639-3.SSB"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SSE"
+msgstr "Bandjalang"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabeg"
+
+msgid "ISO_639-3.STB"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.STP"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SWE"
+msgstr "Svedeg"
+
+msgid "ISO_639-3.SXK"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.SYB"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.TAJ"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamouleg"
+
+msgid "ISO_639-3.TAR"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.TCE"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TCU"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TDM"
+msgstr "Andarum"
+
+msgid "ISO_639-3.TGN"
+msgstr "Inabaknon"
+
+msgid "ISO_639-3.TGT"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Tagabawa"
+
+msgid "ISO_639-3.THA"
+msgstr "Thai"
+
+msgid "ISO_639-3.THE"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.TIX"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TJI"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TJS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TLA"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TMK"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.TRE"
+msgstr "Paranan"
+
+msgid "ISO_639-3.TTS"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.TUF"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turkeg"
+
+msgid "ISO_639-3.TVU"
+msgstr "Tunen"
+
+msgid "ISO_639-3.TWF"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TWR"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.TXN"
+msgstr "Paranan"
+
+msgid "ISO_639-3.TYE"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.ULW"
+msgstr "Alawa"
+
+msgid "ISO_639-3.UMN"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.UNN"
+msgstr "Karnai"
+
+msgid "ISO_639-3.UNU"
+msgstr "Nanubae"
+
+msgid "ISO_639-3.UZS"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.VBK"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.VMB"
+msgstr "Bambara"
+
+msgid "ISO_639-3.WEU"
+msgstr "Chin, Bawm"
+
+msgid "ISO_639-3.WHU"
+msgstr "Bhaya"
+
+msgid "ISO_639-3.WIB"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.WLN"
+msgstr "Walloneg"
+
+msgid "ISO_639-3.WNN"
+msgstr "Amara"
+
+msgid "ISO_639-3.WUU"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.WXW"
+msgstr "Andai"
+
+msgid "ISO_639-3.XBE"
+msgstr "Bambara"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bangandu"
+
+msgid "ISO_639-3.XBM"
+msgstr "Krennvrezhoneg"
+
+msgid "ISO_639-3.XBN"
+msgstr "Karnai"
+
+msgid "ISO_639-3.XGD"
+msgstr "Adang"
+
+msgid "ISO_639-3.XGI"
+msgstr "Bangba"
+
+msgid "ISO_639-3.XGM"
+msgstr "Bambara"
+
+msgid "ISO_639-3.XKB"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.XMD"
+msgstr "Buduma"
+
+msgid "ISO_639-3.XPA"
+msgstr "Agariya"
+
+msgid "ISO_639-3.XSB"
+msgstr "Bambara"
+
+msgid "ISO_639-3.XUL"
+msgstr "Aguna"
+
+msgid "ISO_639-3.XYB"
+msgstr "Bengali"
+
+msgid "ISO_639-3.YAK"
+msgstr "Barama"
+
+msgid "ISO_639-3.YAN"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.YDA"
+msgstr "Andai"
+
+msgid "ISO_639-3.YGA"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.YGS"
+msgstr "Yezh ar sinoù bro Aljeri"
+
+msgid "ISO_639-3.YHA"
+msgstr "Byangsi"
+
+msgid "ISO_639-3.YHS"
+msgstr "Yezh ar sinoù Ban Khor"
+
+msgid "ISO_639-3.YIV"
+msgstr "Bai, Kreisteiz"
+
+msgid "ISO_639-3.YLB"
+msgstr "Baba"
+
+msgid "ISO_639-3.YMC"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.YMX"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.YON"
+msgstr "Bobongko"
+
+msgid "ISO_639-3.YPO"
+msgstr "Adhola"
+
+msgid "ISO_639-3.YSP"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.YUA"
+msgstr "Aguakateko"
+
+msgid "ISO_639-3.YUE"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.YUX"
+msgstr "Bai, Hanternoz"
+
+msgid "ISO_639-3.YXA"
+msgstr "Ginyanga"
+
+msgid "ISO_639-3.YXG"
+msgstr "Blagar"
+
+msgid "ISO_639-3.YXL"
+msgstr "Alyawarr"
+
+msgid "ISO_639-3.YZG"
+msgstr "Byangsi"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Bai, Kreiz"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Yezh ar sinoù Aotrich"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Sinaeg"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Paranan"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lishanid Noshan"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Makayam"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Chin, Bawm"

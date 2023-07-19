@@ -1,0 +1,9346 @@
+# translation of iso_639_3-3.27 to Icelandic
+# Icelandic translations of ISO 639 language names
+# Copyright (C) 2002,2004, 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Translations from KDE:
+# Þórarinn Rúnar Einarsson <thori@mindspring.com>
+# Alastair McKinstry - translations from ICU-3.0
+#
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Sveinn í Felli <sveinki@nett.is>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-08-16 22:40+0000\n"
+"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_639-3.AAA"
+msgstr "Ghotuo"
+
+msgid "ISO_639-3.AAB"
+msgstr "Alumu-Tesu"
+
+msgid "ISO_639-3.AAC"
+msgstr "Ari"
+
+msgid "ISO_639-3.AAD"
+msgstr "Albanska, Arbëreshë"
+
+msgid "ISO_639-3.AAF"
+msgstr "Aranadan"
+
+msgid "ISO_639-3.AAG"
+msgstr "Arapesh, Abu'"
+
+msgid "ISO_639-3.AAI"
+msgstr "Arifama-Miniafia"
+
+msgid "ISO_639-3.AAK"
+msgstr "Ankave"
+
+msgid "ISO_639-3.AAL"
+msgstr "Afade"
+
+msgid "ISO_639-3.AAN"
+msgstr "Anambé"
+
+msgid "ISO_639-3.AAO"
+msgstr "Abnaki, austur"
+
+msgid "ISO_639-3.AAR"
+msgstr "Afar"
+
+msgid "ISO_639-3.AAS"
+msgstr "Aasáx"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albanska, Arvanitika"
+
+msgid "ISO_639-3.AAU"
+msgstr "Abau"
+
+msgid "ISO_639-3.AAW"
+msgstr "Solong"
+
+msgid "ISO_639-3.AAX"
+msgstr "Mandobo Atas"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Amarasi"
+
+msgid "ISO_639-3.ABA"
+msgstr "Abé"
+
+msgid "ISO_639-3.ABB"
+msgstr "Ayta, Ambala"
+
+msgid "ISO_639-3.ABD"
+msgstr "Manide"
+
+msgid "ISO_639-3.ABE"
+msgstr "Abnaki, vestur"
+
+msgid "ISO_639-3.ABF"
+msgstr "Abai Sungai"
+
+msgid "ISO_639-3.ABG"
+msgstr "Abaga"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabic, Tajiki"
+
+msgid "ISO_639-3.ABI"
+msgstr "Abidji"
+
+msgid "ISO_639-3.ABJ"
+msgstr "Aka-Bea"
+
+msgid "ISO_639-3.ABK"
+msgstr "Abkhazian"
+
+msgid "ISO_639-3.ABL"
+msgstr "Lampung Nyo"
+
+msgid "ISO_639-3.ABM"
+msgstr "Abanyom"
+
+msgid "ISO_639-3.ABN"
+msgstr "Abua"
+
+msgid "ISO_639-3.ABO"
+msgstr "Ayta, Abellen"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Abaza"
+
+msgid "ISO_639-3.ABR"
+msgstr "Malay, Ambonese"
+
+msgid "ISO_639-3.ABT"
+msgstr "Ambulas"
+
+msgid "ISO_639-3.ABU"
+msgstr "Abure"
+
+msgid "ISO_639-3.ABV"
+msgstr "Arabíska, Bahama"
+
+msgid "ISO_639-3.ABW"
+msgstr "Pal"
+
+msgid "ISO_639-3.ABX"
+msgstr "Inabaknon"
+
+msgid "ISO_639-3.ABY"
+msgstr "Aneme Wake"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Abui"
+
+msgid "ISO_639-3.ACA"
+msgstr "Achagua"
+
+msgid "ISO_639-3.ACB"
+msgstr "Áncá"
+
+msgid "ISO_639-3.ACD"
+msgstr "Gikyode"
+
+msgid "ISO_639-3.ACE"
+msgstr "Achinese"
+
+msgid "ISO_639-3.ACH"
+msgstr "Acoli"
+
+msgid "ISO_639-3.ACI"
+msgstr "Maori"
+
+msgid "ISO_639-3.ACN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ACR"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabíska, Hijazi"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabíska, ómanska"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabíska, kýpverska"
+
+msgid "ISO_639-3.ADA"
+msgstr "Adangme"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ADL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.ADN"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ADR"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.ADX"
+msgstr "Tíbetska, Amdo"
+
+msgid "ISO_639-3.AEA"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AEE"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.AES"
+msgstr "Alsea"
+
+msgid "ISO_639-3.AEU"
+msgstr "Akeu"
+
+msgid "ISO_639-3.AEW"
+msgstr "Ambakich"
+
+msgid "ISO_639-3.AEY"
+msgstr "Amele"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Aeka"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AFD"
+msgstr "Andai"
+
+msgid "ISO_639-3.AFE"
+msgstr "Putukwam"
+
+msgid "ISO_639-3.AFH"
+msgstr "Afrihili"
+
+msgid "ISO_639-3.AFK"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.AFP"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AGA"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AGB"
+msgstr "Gríska"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AGF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.AGG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.AGI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.AGO"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AGW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AHA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AHK"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AHR"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.AIC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AIE"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.AIR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.AIS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.AIW"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AIX"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AJN"
+msgstr "Andai"
+
+msgid "ISO_639-3.AJT"
+msgstr "Júdeó-arabíska"
+
+msgid "ISO_639-3.AJU"
+msgstr "Júdeó-arabíska"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.AKA"
+msgstr "Akanmál"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.AKF"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AKK"
+msgstr "Akkadian"
+
+msgid "ISO_639-3.AKL"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AKM"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AKW"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Alabama"
+
+msgid "ISO_639-3.ALD"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ALE"
+msgstr "Aleutíska"
+
+msgid "ISO_639-3.ALH"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.ALN"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ALQ"
+msgstr "Algonquin"
+
+msgid "ISO_639-3.ALS"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AMC"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amharíska"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AML"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.AMN"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.AMY"
+msgstr "Ami"
+
+msgid "ISO_639-3.ANC"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.ANG"
+msgstr "Enska, forn (uþb. 450-1100)"
+
+msgid "ISO_639-3.ANK"
+msgstr "Þýska"
+
+msgid "ISO_639-3.ANP"
+msgstr "Angika"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.ANS"
+msgstr "Þýska"
+
+msgid "ISO_639-3.ANW"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ANY"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AOA"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.AOF"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.AOR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.AOS"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.APD"
+msgstr "Japanska"
+
+msgid "ISO_639-3.APF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.APG"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.APH"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.API"
+msgstr "Pólska"
+
+msgid "ISO_639-3.APO"
+msgstr "Júlía"
+
+msgid "ISO_639-3.APW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.AQC"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ARD"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ARE"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ARG"
+msgstr "Aragónska"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ARN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.ARO"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ARP"
+msgstr "Arapaho"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ARW"
+msgstr "Arawak"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Forn-egypska"
+
+msgid "ISO_639-3.ASI"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.ASK"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ASM"
+msgstr "Assamíska"
+
+msgid "ISO_639-3.ASO"
+msgstr "Dano"
+
+msgid "ISO_639-3.AST"
+msgstr "Astúríska"
+
+msgid "ISO_639-3.ASZ"
+msgstr "Sem"
+
+msgid "ISO_639-3.ATN"
+msgstr "Eistneska"
+
+msgid "ISO_639-3.ATO"
+msgstr "Nugunu (Kamerún)"
+
+msgid "ISO_639-3.ATR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ATX"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AUB"
+msgstr "Júlía"
+
+msgid "ISO_639-3.AUC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.AUH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AUK"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.AUL"
+msgstr "Júlía"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Enska (Bretland)"
+
+msgid "ISO_639-3.AUR"
+msgstr "Gríska"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AVA"
+msgstr "Avaric"
+
+msgid "ISO_639-3.AVB"
+msgstr "Júlía"
+
+msgid "ISO_639-3.AVE"
+msgstr "Avestan"
+
+msgid "ISO_639-3.AVI"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AVK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.AVN"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AVS"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.AWA"
+msgstr "Awadhi"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AXL"
+msgstr "Mnong, suður"
+
+msgid "ISO_639-3.AXM"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.AYA"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AYI"
+msgstr "Þýska"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.AYM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AYN"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.AYR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.AZA"
+msgstr "Azha"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.BAG"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BAK"
+msgstr "Bashkir"
+
+msgid "ISO_639-3.BAL"
+msgstr "Baluchi"
+
+msgid "ISO_639-3.BAM"
+msgstr "Bambaríska"
+
+msgid "ISO_639-3.BAN"
+msgstr "Balískt"
+
+msgid "ISO_639-3.BAR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BAV"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BAY"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BBB"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BBD"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BBE"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BBF"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.BBH"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BBI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BBL"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.BBV"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BBW"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BBX"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BCF"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BCG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BCH"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BCK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.BCO"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Franska"
+
+msgid "ISO_639-3.BCR"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.BCT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BCW"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BCY"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BDB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BDD"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BDE"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BDG"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BDK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BDW"
+msgstr "Baham"
+
+msgid "ISO_639-3.BEA"
+msgstr "Beaver"
+
+msgid "ISO_639-3.BEG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BEH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BEJ"
+msgstr "Beja"
+
+msgid "ISO_639-3.BEK"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BEL"
+msgstr "Hvítrússneska"
+
+msgid "ISO_639-3.BEN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BEO"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.BEP"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BEQ"
+msgstr "Beembe"
+
+msgid "ISO_639-3.BES"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.BEU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BFA"
+msgstr "Barí"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BFR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BFT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BFU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BFW"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BFY"
+msgstr "Maori"
+
+msgid "ISO_639-3.BGB"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BGC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BGE"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BGG"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BGK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BGN"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BGR"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.BGU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BGW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.BHA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHB"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BHD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHE"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BHG"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.BHH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BHO"
+msgstr "Bhojpuri"
+
+msgid "ISO_639-3.BHP"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BHR"
+msgstr "Malagasy"
+
+msgid "ISO_639-3.BHU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BHV"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BHW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BHX"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.BIB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BIC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BID"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIG"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIK"
+msgstr "Bikol"
+
+msgid "ISO_639-3.BIN"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.BIP"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIS"
+msgstr "Bislama"
+
+msgid "ISO_639-3.BIU"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.BIX"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIY"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BJC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BJH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.BJI"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.BJN"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BJR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BJS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BJV"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BJY"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.BKD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BKF"
+msgstr "Gríska"
+
+msgid "ISO_639-3.BKG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BKI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BKN"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BKS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BKT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BKU"
+msgstr "Búhid"
+
+msgid "ISO_639-3.BKW"
+msgstr "Bekwel"
+
+msgid "ISO_639-3.BKX"
+msgstr "Baikeno"
+
+msgid "ISO_639-3.BLA"
+msgstr "Siksika"
+
+msgid "ISO_639-3.BLC"
+msgstr "Bella Coola"
+
+msgid "ISO_639-3.BLD"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BLG"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BLI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BLL"
+msgstr "Biloxi"
+
+msgid "ISO_639-3.BLR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BLS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BMD"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.BMH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BMI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BMO"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.BMP"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BMR"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.BMS"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.BMX"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BNB"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BNC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BND"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.BNF"
+msgstr "Maori"
+
+msgid "ISO_639-3.BNI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BNK"
+msgstr "Gríska"
+
+msgid "ISO_639-3.BNL"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Bantik"
+
+msgid "ISO_639-3.BNU"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BNW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BNY"
+msgstr "Bintulu"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Gríska"
+
+msgid "ISO_639-3.BOA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BOB"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.BOD"
+msgstr "Tíbetska"
+
+msgid "ISO_639-3.BOF"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BOH"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BOK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BON"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BOP"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BOS"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.BOT"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BOU"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BOW"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BPA"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BPG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BPH"
+msgstr "Pólska"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BPO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BPP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.BPU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BPV"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BQB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BQH"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BQI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BQO"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.BQP"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BQS"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BQV"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BQX"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BRA"
+msgstr "Braj"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BRF"
+msgstr "Þýska"
+
+msgid "ISO_639-3.BRG"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BRH"
+msgstr "Maori"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BRO"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BRS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BRT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BRU"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.BRV"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.BRW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.BRY"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BSB"
+msgstr "Brúnei"
+
+msgid "ISO_639-3.BSC"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BSE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BSG"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BSH"
+msgstr "Kati"
+
+msgid "ISO_639-3.BSI"
+msgstr "Maori"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BSK"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BSM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BSN"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BST"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BSU"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BSW"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BTA"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BTF"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BTI"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japanska"
+
+msgid "ISO_639-3.BTR"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BTU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BTV"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BUA"
+msgstr "Buriat"
+
+msgid "ISO_639-3.BUB"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BUC"
+msgstr "Bushi"
+
+msgid "ISO_639-3.BUG"
+msgstr "Buginískt"
+
+msgid "ISO_639-3.BUI"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BUK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BUL"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BUN"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.BUO"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.BUP"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BUT"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BUW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BVA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BVB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BVC"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.BVH"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BVK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BVN"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BVO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BVP"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BVR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.BVU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BVV"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BVW"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BWG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.BWI"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BWM"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BXA"
+msgstr "Maori"
+
+msgid "ISO_639-3.BXC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BXM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.BXN"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BXO"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BXR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BXS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BXU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BYA"
+msgstr "Batak"
+
+msgid "ISO_639-3.BYF"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BYK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BYM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BYN"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BYR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BYS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BYW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BZA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BZD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BZF"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.BZG"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BZI"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BZO"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.BZR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BZT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.BZU"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.BZV"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Evant"
+
+msgid "ISO_639-3.CAC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CAD"
+msgstr "Caddo"
+
+msgid "ISO_639-3.CAE"
+msgstr "Þýska"
+
+msgid "ISO_639-3.CAF"
+msgstr "Burðarbylgja (carrier)"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CAJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CAK"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.CAL"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.CAN"
+msgstr "Maori"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galisíska"
+
+msgid "ISO_639-3.CAS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CBI"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CBL"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.CBW"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CBY"
+msgstr "Maori"
+
+msgid "ISO_639-3.CCA"
+msgstr "Cauca"
+
+msgid "ISO_639-3.CCG"
+msgstr "Samba"
+
+msgid "ISO_639-3.CCP"
+msgstr "Chakma"
+
+msgid "ISO_639-3.CDA"
+msgstr "Írska"
+
+msgid "ISO_639-3.CDE"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.CDI"
+msgstr "Írska"
+
+msgid "ISO_639-3.CDO"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CDY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CEA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.CEB"
+msgstr "Cebuano"
+
+msgid "ISO_639-3.CEK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.CEN"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CES"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CFD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CFM"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.CHA"
+msgstr "Chamorró"
+
+msgid "ISO_639-3.CHB"
+msgstr "Chibcha"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CHE"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CHG"
+msgstr "Chagatai"
+
+msgid "ISO_639-3.CHH"
+msgstr "Chinook"
+
+msgid "ISO_639-3.CHK"
+msgstr "Chuukesíska"
+
+msgid "ISO_639-3.CHM"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.CHN"
+msgstr "Chinook slangur"
+
+msgid "ISO_639-3.CHO"
+msgstr "Choctaw"
+
+msgid "ISO_639-3.CHR"
+msgstr "Cherokee"
+
+msgid "ISO_639-3.CHV"
+msgstr "Chuvash"
+
+msgid "ISO_639-3.CHX"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CHY"
+msgstr "Cheyenne"
+
+msgid "ISO_639-3.CIE"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CIK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.CIM"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.CIP"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CIR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.CIY"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.CJA"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CJK"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CJM"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.CJS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CJV"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CJY"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CKB"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.CKL"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKN"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CKT"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CKU"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.CLE"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CLM"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.CLT"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.CME"
+msgstr "Þýska"
+
+msgid "ISO_639-3.CMG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.CML"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.CMN"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.CMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.CNG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CNH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CNK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.CNL"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.CNO"
+msgstr "Írska"
+
+msgid "ISO_639-3.CNW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.CNX"
+msgstr "Írska"
+
+msgid "ISO_639-3.COE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.COF"
+msgstr "Colorado"
+
+msgid "ISO_639-3.COG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.COO"
+msgstr "Comox"
+
+msgid "ISO_639-3.COP"
+msgstr "Koptískt"
+
+msgid "ISO_639-3.COR"
+msgstr "Cornish"
+
+msgid "ISO_639-3.COS"
+msgstr "Korsíkanska"
+
+msgid "ISO_639-3.COX"
+msgstr "Nanti"
+
+msgid "ISO_639-3.COZ"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CPI"
+msgstr "Kínverska, Min Bei"
+
+msgid "ISO_639-3.CPN"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CPX"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CRA"
+msgstr "Chara"
+
+msgid "ISO_639-3.CRE"
+msgstr "Cree"
+
+msgid "ISO_639-3.CRF"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.CRR"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.CRX"
+msgstr "Burðarbylgja (carrier)"
+
+msgid "ISO_639-3.CRY"
+msgstr "Írska"
+
+msgid "ISO_639-3.CSB"
+msgstr "Kashubíska"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Chinantec, Valle Nacional"
+
+msgid "ISO_639-3.CST"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CSV"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CSY"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.CTC"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.CTD"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.CTG"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.CTH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CTS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CTU"
+msgstr "Írska"
+
+msgid "ISO_639-3.CUH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.CUL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.CUU"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.CUW"
+msgstr "Cuicatec, Tepeuxila"
+
+msgid "ISO_639-3.CVG"
+msgstr "Chinantec, Valle Nacional"
+
+msgid "ISO_639-3.CWB"
+msgstr "Maindo"
+
+msgid "ISO_639-3.CWE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CYM"
+msgstr "Velska"
+
+msgid "ISO_639-3.CZH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.CZK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.CZT"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAG"
+msgstr "Danska"
+
+msgid "ISO_639-3.DAI"
+msgstr "Dagur"
+
+msgid "ISO_639-3.DAK"
+msgstr "Dakóta"
+
+msgid "ISO_639-3.DAM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAN"
+msgstr "Danska"
+
+msgid "ISO_639-3.DAO"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAR"
+msgstr "Dargwa"
+
+msgid "ISO_639-3.DAV"
+msgstr "Taita"
+
+msgid "ISO_639-3.DAX"
+msgstr "Danska"
+
+msgid "ISO_639-3.DBA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.DBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBO"
+msgstr "Júlía"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBW"
+msgstr "Sranan Tongo"
+
+msgid "ISO_639-3.DCC"
+msgstr "Occitan"
+
+msgid "ISO_639-3.DEC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.DEH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.DEL"
+msgstr "Delaware"
+
+msgid "ISO_639-3.DEN"
+msgstr "Slave (Athapascan)"
+
+msgid "ISO_639-3.DEP"
+msgstr "Delaware"
+
+msgid "ISO_639-3.DER"
+msgstr "Maori"
+
+msgid "ISO_639-3.DES"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.DEU"
+msgstr "Þýska"
+
+msgid "ISO_639-3.DGG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.DGI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.DGK"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGL"
+msgstr "Andai"
+
+msgid "ISO_639-3.DGN"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGR"
+msgstr "Dogrib"
+
+msgid "ISO_639-3.DGX"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.DHN"
+msgstr "Danska"
+
+msgid "ISO_639-3.DHO"
+msgstr "Þýska"
+
+msgid "ISO_639-3.DHR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHS"
+msgstr "Danska"
+
+msgid "ISO_639-3.DHU"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHX"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.DIA"
+msgstr "Dia"
+
+msgid "ISO_639-3.DIC"
+msgstr "Lakóta"
+
+msgid "ISO_639-3.DID"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.DIF"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Danska"
+
+msgid "ISO_639-3.DIK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.DIN"
+msgstr "Dinka"
+
+msgid "ISO_639-3.DIP"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.DIR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.DIS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.DIT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.DIU"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.DIV"
+msgstr "Dhivehi"
+
+msgid "ISO_639-3.DIW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.DJO"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.DJU"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.DLG"
+msgstr "Þýska"
+
+msgid "ISO_639-3.DLK"
+msgstr "Maori"
+
+msgid "ISO_639-3.DLM"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.DLN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.DML"
+msgstr "Pólska"
+
+msgid "ISO_639-3.DMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DMX"
+msgstr "Þýska"
+
+msgid "ISO_639-3.DNG"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Danska"
+
+msgid "ISO_639-3.DNV"
+msgstr "Occitan"
+
+msgid "ISO_639-3.DNW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.DOH"
+msgstr "Dong"
+
+msgid "ISO_639-3.DOK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.DOO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.DOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DOT"
+msgstr "Danska"
+
+msgid "ISO_639-3.DOX"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRC"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.DRD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRG"
+msgstr "Enska (Bretland)"
+
+msgid "ISO_639-3.DRL"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRS"
+msgstr "Gríska"
+
+msgid "ISO_639-3.DRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.DSB"
+msgstr "Sorbíanska, neðri"
+
+msgid "ISO_639-3.DSI"
+msgstr "Danska"
+
+msgid "ISO_639-3.DSO"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.DTA"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.DTY"
+msgstr "Pólska"
+
+msgid "ISO_639-3.DUA"
+msgstr "Duala"
+
+msgid "ISO_639-3.DUM"
+msgstr "Hollenska, miðaldir (uþb. 1050-1350)"
+
+msgid "ISO_639-3.DUO"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.DUP"
+msgstr "Duano"
+
+msgid "ISO_639-3.DVA"
+msgstr "Júlía"
+
+msgid "ISO_639-3.DWA"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.DWR"
+msgstr "Dawro"
+
+msgid "ISO_639-3.DWW"
+msgstr "Maori"
+
+msgid "ISO_639-3.DYA"
+msgstr "Danska"
+
+msgid "ISO_639-3.DYU"
+msgstr "Dyula"
+
+msgid "ISO_639-3.DZA"
+msgstr "Júlía"
+
+msgid "ISO_639-3.DZG"
+msgstr "Maori"
+
+msgid "ISO_639-3.DZO"
+msgstr "Dzongkha"
+
+msgid "ISO_639-3.EAA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.EBK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ECR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.EEE"
+msgstr "A"
+
+msgid "ISO_639-3.EFI"
+msgstr "Efik"
+
+msgid "ISO_639-3.EGL"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.EGY"
+msgstr "Forn-egypska"
+
+msgid "ISO_639-3.EIV"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.EKA"
+msgstr "Ekajuk"
+
+msgid "ISO_639-3.EKC"
+msgstr "Abnaki, austur"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japanska"
+
+msgid "ISO_639-3.EKY"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ELI"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.ELL"
+msgstr "Gríska, nútíma (1453-)"
+
+msgid "ISO_639-3.ELX"
+msgstr "Elamite"
+
+msgid "ISO_639-3.EMG"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.EMN"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.EMU"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ENA"
+msgstr "Pólska"
+
+msgid "ISO_639-3.ENB"
+msgstr "Maori"
+
+msgid "ISO_639-3.ENG"
+msgstr "Enska"
+
+msgid "ISO_639-3.ENM"
+msgstr "Enska, miðaldir (1100-1500)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.ERG"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.ESG"
+msgstr "Gondi"
+
+msgid "ISO_639-3.EST"
+msgstr "Eistneska"
+
+msgid "ISO_639-3.ESY"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ETT"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.EUS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.EVE"
+msgstr "Jafnar"
+
+msgid "ISO_639-3.EWE"
+msgstr "Ewe"
+
+msgid "ISO_639-3.EWO"
+msgstr "Ewondo"
+
+msgid "ISO_639-3.EYO"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.FAA"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.FAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.FAF"
+msgstr "Fagani"
+
+msgid "ISO_639-3.FAH"
+msgstr "Galenska"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Faita"
+
+msgid "ISO_639-3.FAO"
+msgstr "Færeska"
+
+msgid "ISO_639-3.FAP"
+msgstr "Pólska"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.FAS"
+msgstr "Persneska"
+
+msgid "ISO_639-3.FAT"
+msgstr "Fanti"
+
+msgid "ISO_639-3.FAX"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.FAY"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albanska"
+
+msgid "ISO_639-3.FGR"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Fidjíeyska"
+
+msgid "ISO_639-3.FIL"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FIN"
+msgstr "Finnska"
+
+msgid "ISO_639-3.FIR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FKV"
+msgstr "Finnska"
+
+msgid "ISO_639-3.FLI"
+msgstr "Pólska"
+
+msgid "ISO_639-3.FLL"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.FLY"
+msgstr "Faita"
+
+msgid "ISO_639-3.FMU"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FNI"
+msgstr "Fania"
+
+msgid "ISO_639-3.FOM"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.FON"
+msgstr "Fon"
+
+msgid "ISO_639-3.FOR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.FRA"
+msgstr "Franska"
+
+msgid "ISO_639-3.FRC"
+msgstr "Franska"
+
+msgid "ISO_639-3.FRK"
+msgstr "Danska"
+
+msgid "ISO_639-3.FRM"
+msgstr "Franska, miðaldir (uþb. 1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "Franska, forn (842-uþb. 1400)"
+
+msgid "ISO_639-3.FRP"
+msgstr "Arpitan"
+
+msgid "ISO_639-3.FRR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FRS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FRY"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.FUI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.FUL"
+msgstr "Fulah"
+
+msgid "ISO_639-3.FUR"
+msgstr "Frísneska"
+
+msgid "ISO_639-3.FUU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.GAA"
+msgstr "Ga"
+
+msgid "ISO_639-3.GAB"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GAF"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GAH"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.GAN"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.GAO"
+msgstr "Gants"
+
+msgid "ISO_639-3.GAT"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.GAY"
+msgstr "Gayo"
+
+msgid "ISO_639-3.GBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.GBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.GBY"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GCC"
+msgstr "Malí"
+
+msgid "ISO_639-3.GCD"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galenska"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galenska"
+
+msgid "ISO_639-3.GDI"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GDK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GDL"
+msgstr "Danska"
+
+msgid "ISO_639-3.GDN"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.GDS"
+msgstr "Íslenskt táknmál"
+
+msgid "ISO_639-3.GDT"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.GEA"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GEB"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.GEG"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GEI"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Gen"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GEW"
+msgstr "Gera"
+
+msgid "ISO_639-3.GEX"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Geez"
+
+msgid "ISO_639-3.GGE"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GGK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.GHR"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GHT"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.GIG"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GIL"
+msgstr "Gilbertíska"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GIR"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GIW"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GJM"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GJN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.GJR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GJU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GKE"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.GKN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.GKP"
+msgstr "Kpelle"
+
+msgid "ISO_639-3.GLD"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.GLE"
+msgstr "Írska"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galisíska"
+
+msgid "ISO_639-3.GLH"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.GLO"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.GLV"
+msgstr "Manx"
+
+msgid "ISO_639-3.GMA"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GMH"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.GMU"
+msgstr "Júlía"
+
+msgid "ISO_639-3.GMV"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GMX"
+msgstr "Maori"
+
+msgid "ISO_639-3.GNA"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.GNE"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GNG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.GNH"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.GNM"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GNT"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GNW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GOA"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GOF"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.GOG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.GOH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.GON"
+msgstr "Gondi"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GOR"
+msgstr "Gorontalo"
+
+msgid "ISO_639-3.GOT"
+msgstr "Gotneskt"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GPN"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.GQU"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grebo"
+
+msgid "ISO_639-3.GRC"
+msgstr "Gríska, forn (til 1453)"
+
+msgid "ISO_639-3.GRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.GRI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.GRN"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GRO"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GRR"
+msgstr "Taznatit"
+
+msgid "ISO_639-3.GRS"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GRT"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GRU"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.GRX"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GSP"
+msgstr "Velska"
+
+msgid "ISO_639-3.GSW"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GUE"
+msgstr "Guaraní, Paragvæ"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Gujarati"
+
+msgid "ISO_639-3.GUM"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GUW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GVC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GVE"
+msgstr "Hollenska"
+
+msgid "ISO_639-3.GVF"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.GVM"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GVR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.GVS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GVY"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maori"
+
+msgid "ISO_639-3.GWC"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.GWE"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GWF"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GWG"
+msgstr "Mööö"
+
+msgid "ISO_639-3.GWR"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GWW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.GWX"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GYE"
+msgstr "Þýska"
+
+msgid "ISO_639-3.GYI"
+msgstr "Gríska"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.GYR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.GZI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.GZN"
+msgstr "Þýska"
+
+msgid "ISO_639-3.HAA"
+msgstr "Han"
+
+msgid "ISO_639-3.HAC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.HAH"
+msgstr "Velska"
+
+msgid "ISO_639-3.HAI"
+msgstr "Haida"
+
+msgid "ISO_639-3.HAK"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.HAM"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.HAN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.HAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.HAS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.HAT"
+msgstr "Tahítíska"
+
+msgid "ISO_639-3.HAU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAW"
+msgstr "Hawaiíska"
+
+msgid "ISO_639-3.HBN"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.HBS"
+msgstr "Króatíska"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.HEH"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.HER"
+msgstr "Herero"
+
+msgid "ISO_639-3.HGW"
+msgstr "Maori"
+
+msgid "ISO_639-3.HHY"
+msgstr "Velska"
+
+msgid "ISO_639-3.HIA"
+msgstr "Lamang"
+
+msgid "ISO_639-3.HIB"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.HIF"
+msgstr "Hindí"
+
+msgid "ISO_639-3.HIG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.HII"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.HIL"
+msgstr "Hiligaynon"
+
+msgid "ISO_639-3.HIN"
+msgstr "Hindí"
+
+msgid "ISO_639-3.HIR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.HIT"
+msgstr "Hittítíska"
+
+msgid "ISO_639-3.HJI"
+msgstr "Haji"
+
+msgid "ISO_639-3.HKA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.HLA"
+msgstr "Pólska"
+
+msgid "ISO_639-3.HLB"
+msgstr "Pólska"
+
+msgid "ISO_639-3.HLT"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.HMN"
+msgstr "Hmong"
+
+msgid "ISO_639-3.HMO"
+msgstr "Mnong, suður"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.HMW"
+msgstr "Mnong, suður"
+
+msgid "ISO_639-3.HMZ"
+msgstr "Hmong"
+
+msgid "ISO_639-3.HNE"
+msgstr "Chhattisgarhi"
+
+msgid "ISO_639-3.HNI"
+msgstr "Hani"
+
+msgid "ISO_639-3.HNN"
+msgstr "Hanunoo"
+
+msgid "ISO_639-3.HNU"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.HOM"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.HOR"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.HOV"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.HPS"
+msgstr "Jiddískt táknmál"
+
+msgid "ISO_639-3.HRE"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.HRO"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.HRV"
+msgstr "Króatíska"
+
+msgid "ISO_639-3.HRW"
+msgstr "Marwari"
+
+msgid "ISO_639-3.HRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.HSB"
+msgstr "Sorbíanska, efri"
+
+msgid "ISO_639-3.HSN"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.HTX"
+msgstr "Hittítíska"
+
+msgid "ISO_639-3.HUD"
+msgstr "Mnong, suður"
+
+msgid "ISO_639-3.HUK"
+msgstr "Júlía"
+
+msgid "ISO_639-3.HUM"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.HUN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.HUP"
+msgstr "Hupa"
+
+msgid "ISO_639-3.HUS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.HYE"
+msgstr "Armenska"
+
+msgid "ISO_639-3.IAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.IAR"
+msgstr "Purari"
+
+msgid "ISO_639-3.IBA"
+msgstr "Iban"
+
+msgid "ISO_639-3.IBL"
+msgstr "Ibaloi"
+
+msgid "ISO_639-3.IBO"
+msgstr "Igbo"
+
+msgid "ISO_639-3.IBY"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.ICL"
+msgstr "Íslenskt táknmál"
+
+msgid "ISO_639-3.IDB"
+msgstr "Indó-portúgalska"
+
+msgid "ISO_639-3.IDC"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.IDO"
+msgstr "Ido"
+
+msgid "ISO_639-3.IDR"
+msgstr "Írska"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.IFU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.IGL"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.IGN"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.III"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.IJE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.IKE"
+msgstr "Inuktitut, austur-kanadískt"
+
+msgid "ISO_639-3.IKL"
+msgstr "Júlía"
+
+msgid "ISO_639-3.IKR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.IKS"
+msgstr "Íslenskt táknmál"
+
+msgid "ISO_639-3.IKU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-3.ILB"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.ILE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ILI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.ILK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.ILM"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.ILO"
+msgstr "Iloko"
+
+msgid "ISO_639-3.ILS"
+msgstr "Alþjóðlegt tákn"
+
+msgid "ISO_639-3.IMA"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.IMO"
+msgstr "Enska (Bretland)"
+
+msgid "ISO_639-3.IMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.INA"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+msgid "ISO_639-3.INB"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.IND"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.INH"
+msgstr "Ingush"
+
+msgid "ISO_639-3.INN"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.IPK"
+msgstr "Inupiaq"
+
+msgid "ISO_639-3.IRU"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ISA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ISH"
+msgstr "Eistneska"
+
+msgid "ISO_639-3.ISL"
+msgstr "Íslenska"
+
+msgid "ISO_639-3.ISM"
+msgstr "Maori"
+
+msgid "ISO_639-3.ITA"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.ITD"
+msgstr "Mnong, suður"
+
+msgid "ISO_639-3.ITK"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.ITR"
+msgstr "Írska"
+
+msgid "ISO_639-3.ITV"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.ITY"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.IVV"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.IZH"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.JAC"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.JAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.JAT"
+msgstr "Maori"
+
+msgid "ISO_639-3.JAU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.JAV"
+msgstr "Javaneskt"
+
+msgid "ISO_639-3.JAY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.JBE"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.JBK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.JBO"
+msgstr "Lojban"
+
+msgid "ISO_639-3.JCT"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.JDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.JDT"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.JEB"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.JER"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.JGE"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.JHI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.JIV"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.JJR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.JKU"
+msgstr "Labir"
+
+msgid "ISO_639-3.JLE"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.JMB"
+msgstr "Júlía"
+
+msgid "ISO_639-3.JMN"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.JNI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.JNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.JOW"
+msgstr "Júlía"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japanska"
+
+msgid "ISO_639-3.JPR"
+msgstr "Júdeó-persneska"
+
+msgid "ISO_639-3.JRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.JRB"
+msgstr "Júdeó-arabíska"
+
+msgid "ISO_639-3.JUC"
+msgstr "Jurchen"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japanska"
+
+msgid "ISO_639-3.JUL"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.JUT"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.JVD"
+msgstr "Javindo"
+
+msgid "ISO_639-3.JVN"
+msgstr "Javaneskt"
+
+msgid "ISO_639-3.JYE"
+msgstr "Júdeó-arabíska"
+
+msgid "ISO_639-3.KAA"
+msgstr "Kara-Kalpak"
+
+msgid "ISO_639-3.KAB"
+msgstr "Kabyle"
+
+msgid "ISO_639-3.KAE"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.KAF"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.KAI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KAK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KAL"
+msgstr "Kalaallisut"
+
+msgid "ISO_639-3.KAN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KAS"
+msgstr "Kasmírska"
+
+msgid "ISO_639-3.KAT"
+msgstr "Georgíska"
+
+msgid "ISO_639-3.KAU"
+msgstr "Kanuri"
+
+msgid "ISO_639-3.KAW"
+msgstr "Kawi"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Kasakíska"
+
+msgid "ISO_639-3.KBA"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.KBD"
+msgstr "Kabardian"
+
+msgid "ISO_639-3.KBE"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KBI"
+msgstr "Kaptiau"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KBL"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KBS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KBT"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.KBU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.KBW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KBY"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Hollenska"
+
+msgid "ISO_639-3.KCA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KCE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KCF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KCH"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KCP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.KCS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KCT"
+msgstr "Kaian"
+
+msgid "ISO_639-3.KCW"
+msgstr "Maori"
+
+msgid "ISO_639-3.KCY"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KDC"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KDE"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.KDF"
+msgstr "Maori"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.KDJ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.KDR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KDW"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KEA"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.KED"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japanska"
+
+msgid "ISO_639-3.KEH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KEN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KER"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.KFA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KFB"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KFD"
+msgstr "Maori"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.KFF"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KFG"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFH"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFI"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KFN"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KFR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KFS"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KFT"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFV"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KFW"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.KFX"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KFY"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KGB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.KGE"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.KGL"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.KGN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KGO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KGP"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.KGV"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KGW"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KHA"
+msgstr "Khasi"
+
+msgid "ISO_639-3.KHE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KHF"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KHG"
+msgstr "Tíbetska"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KHK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KHL"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KHN"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.KHO"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KHS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.KHT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KHV"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KHX"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KIB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KID"
+msgstr "Koshin"
+
+msgid "ISO_639-3.KIK"
+msgstr "Kikuyu"
+
+msgid "ISO_639-3.KIL"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KIM"
+msgstr "Maori"
+
+msgid "ISO_639-3.KIN"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KIR"
+msgstr "Kirgisíska"
+
+msgid "ISO_639-3.KIS"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KIW"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KIX"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.KJE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KJO"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KJR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KJV"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.KKI"
+msgstr "Júlía"
+
+msgid "ISO_639-3.KKK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KKL"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KKM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KKO"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KKT"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.KKV"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KKX"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Mörg tungumál"
+
+msgid "ISO_639-3.KLL"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.KLN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KLP"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.KLR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KLU"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.KLW"
+msgstr "Lindu"
+
+msgid "ISO_639-3.KLY"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.KMA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KMB"
+msgstr "Kimbundu"
+
+msgid "ISO_639-3.KMD"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.KMH"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.KMK"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.KMR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KMU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KMY"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.KNC"
+msgstr "Kanuri"
+
+msgid "ISO_639-3.KND"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KNE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KNG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KNI"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KNK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KOC"
+msgstr "Kpati"
+
+msgid "ISO_639-3.KOF"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KOG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.KOK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KOM"
+msgstr "Komi"
+
+msgid "ISO_639-3.KON"
+msgstr "Kongóska"
+
+msgid "ISO_639-3.KOO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KOR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KOS"
+msgstr "Kosraean"
+
+msgid "ISO_639-3.KOT"
+msgstr "Maori"
+
+msgid "ISO_639-3.KOU"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KPD"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KPE"
+msgstr "Kpelle"
+
+msgid "ISO_639-3.KPK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KPR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KPS"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KPT"
+msgstr "Maori"
+
+msgid "ISO_639-3.KPY"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KQB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KQM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KQO"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KQR"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.KQY"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KRA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KRB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KRC"
+msgstr "Karachay-Balkar"
+
+msgid "ISO_639-3.KRE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KRH"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.KRI"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KRK"
+msgstr "Gríska"
+
+msgid "ISO_639-3.KRL"
+msgstr "Karelíska"
+
+msgid "ISO_639-3.KRM"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KRT"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KRU"
+msgstr "Kurukh"
+
+msgid "ISO_639-3.KRV"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KRW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KRX"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Occitan"
+
+msgid "ISO_639-3.KSD"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KSE"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KSF"
+msgstr "Bafia"
+
+msgid "ISO_639-3.KSI"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KSK"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.KSL"
+msgstr "Júlía"
+
+msgid "ISO_639-3.KSO"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KSR"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.KSV"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KSX"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KTD"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KTF"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.KTH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KTK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KTM"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KTV"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KUC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KUF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KUH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.KUM"
+msgstr "Kumyk"
+
+msgid "ISO_639-3.KUO"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KUR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KUT"
+msgstr "Kutenai"
+
+msgid "ISO_639-3.KUV"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KVB"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KVC"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.KVI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KVL"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KVP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KVV"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KVW"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.KWD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.KWF"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KWH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KWP"
+msgstr "Þýska"
+
+msgid "ISO_639-3.KWW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KWY"
+msgstr "Sranan Tongo"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KXA"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KXC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.KXD"
+msgstr "Brúnei"
+
+msgid "ISO_639-3.KXN"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KXS"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KXV"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KXW"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.KYD"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KYH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KYM"
+msgstr "Maori"
+
+msgid "ISO_639-3.KYO"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KYP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.KYU"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KZA"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.KZD"
+msgstr "Maori"
+
+msgid "ISO_639-3.KZE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KZG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KZL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.KZM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KZN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KZO"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.KZR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.KZX"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.LAB"
+msgstr "Línulegt A"
+
+msgid "ISO_639-3.LAD"
+msgstr "Ladínska; Ladínó"
+
+msgid "ISO_639-3.LAG"
+msgstr "Langi"
+
+msgid "ISO_639-3.LAH"
+msgstr "Lahnda"
+
+msgid "ISO_639-3.LAL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.LAM"
+msgstr "Lamba"
+
+msgid "ISO_639-3.LAO"
+msgstr "Laó"
+
+msgid "ISO_639-3.LAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.LAT"
+msgstr "Latína"
+
+msgid "ISO_639-3.LAV"
+msgstr "Lettneska"
+
+msgid "ISO_639-3.LAY"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LBA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LBB"
+msgstr "Merki"
+
+msgid "ISO_639-3.LBC"
+msgstr "Lakkia"
+
+msgid "ISO_639-3.LBF"
+msgstr "Finnska"
+
+msgid "ISO_639-3.LBI"
+msgstr "La'bi"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Ladakhi"
+
+msgid "ISO_639-3.LBK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.LBL"
+msgstr "Bikol"
+
+msgid "ISO_639-3.LBN"
+msgstr "Lamet"
+
+msgid "ISO_639-3.LBO"
+msgstr "Laven"
+
+msgid "ISO_639-3.LBT"
+msgstr "Lachi"
+
+msgid "ISO_639-3.LBW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Lardil"
+
+msgid "ISO_639-3.LCH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LCP"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.LDD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LDI"
+msgstr "Maori"
+
+msgid "ISO_639-3.LDL"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.LDM"
+msgstr "Landoma"
+
+msgid "ISO_639-3.LDN"
+msgstr "Láadan"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.LEP"
+msgstr "Lepcha"
+
+msgid "ISO_639-3.LES"
+msgstr "Japanska"
+
+msgid "ISO_639-3.LEX"
+msgstr "Luang"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Lezghian"
+
+msgid "ISO_639-3.LGG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.LGL"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.LGR"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.LGT"
+msgstr "Pólska"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.LHN"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LHT"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.LIF"
+msgstr "Limbú"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LIM"
+msgstr "Limburgian"
+
+msgid "ISO_639-3.LIN"
+msgstr "Lingala"
+
+msgid "ISO_639-3.LIR"
+msgstr "Enska"
+
+msgid "ISO_639-3.LIS"
+msgstr "Lisu"
+
+msgid "ISO_639-3.LIT"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LIU"
+msgstr "Maori"
+
+msgid "ISO_639-3.LIW"
+msgstr "Dál"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.LJI"
+msgstr "Laiyolo"
+
+msgid "ISO_639-3.LJL"
+msgstr "Li'o"
+
+msgid "ISO_639-3.LJP"
+msgstr "Lampung Api"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.LKB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.LKC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.LKD"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.LKE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.LKI"
+msgstr "Laki"
+
+msgid "ISO_639-3.LKM"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.LKN"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.LKO"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LKS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.LKT"
+msgstr "Lakóta"
+
+msgid "ISO_639-3.LKU"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.LLB"
+msgstr "Lolo"
+
+msgid "ISO_639-3.LLD"
+msgstr "Ladin"
+
+msgid "ISO_639-3.LLF"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.LLH"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.LLM"
+msgstr "Maori"
+
+msgid "ISO_639-3.LLX"
+msgstr "Lauan"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LMG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.LML"
+msgstr "Hano"
+
+msgid "ISO_639-3.LMN"
+msgstr "Lambadi"
+
+msgid "ISO_639-3.LMP"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LNH"
+msgstr "Lanoh"
+
+msgid "ISO_639-3.LNI"
+msgstr "Daantanai'"
+
+msgid "ISO_639-3.LNS"
+msgstr "Lamnso'"
+
+msgid "ISO_639-3.LNU"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.LNW"
+msgstr "Pólska"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.LOF"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.LOG"
+msgstr "Lógó"
+
+msgid "ISO_639-3.LOH"
+msgstr "Maori"
+
+msgid "ISO_639-3.LOL"
+msgstr "Mongó"
+
+msgid "ISO_639-3.LOZ"
+msgstr "Lozi"
+
+msgid "ISO_639-3.LPO"
+msgstr "Lipo"
+
+msgid "ISO_639-3.LRA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LRC"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.LRE"
+msgstr "Laurentian"
+
+msgid "ISO_639-3.LRG"
+msgstr "Laragia"
+
+msgid "ISO_639-3.LRI"
+msgstr "Marachi"
+
+msgid "ISO_639-3.LRK"
+msgstr "Loarki"
+
+msgid "ISO_639-3.LRL"
+msgstr "Lari"
+
+msgid "ISO_639-3.LRM"
+msgstr "Marama"
+
+msgid "ISO_639-3.LRN"
+msgstr "Lorang"
+
+msgid "ISO_639-3.LRO"
+msgstr "Sotho, suður"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.LSD"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LSH"
+msgstr "Írska"
+
+msgid "ISO_639-3.LSI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LSM"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.LSS"
+msgstr "Maori"
+
+msgid "ISO_639-3.LTG"
+msgstr "Latgalíska"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.LTN"
+msgstr "Latundê"
+
+msgid "ISO_639-3.LTO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.LTS"
+msgstr "Írska"
+
+msgid "ISO_639-3.LTU"
+msgstr "Latu"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Lúxemborgíska"
+
+msgid "ISO_639-3.LUA"
+msgstr "Luba-Lulua"
+
+msgid "ISO_639-3.LUB"
+msgstr "Luba-Katanga"
+
+msgid "ISO_639-3.LUD"
+msgstr "Ludian"
+
+msgid "ISO_639-3.LUE"
+msgstr "Júlía"
+
+msgid "ISO_639-3.LUF"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.LUG"
+msgstr "Ganda"
+
+msgid "ISO_639-3.LUI"
+msgstr "Luiseno"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Luna"
+
+msgid "ISO_639-3.LUM"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LUN"
+msgstr "Lunda"
+
+msgid "ISO_639-3.LUO"
+msgstr "Luo (Kenía og Tansanía)"
+
+msgid "ISO_639-3.LUS"
+msgstr "Lushai"
+
+msgid "ISO_639-3.LUV"
+msgstr "Luwati"
+
+msgid "ISO_639-3.LVS"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.LWG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.LWH"
+msgstr "Lachi"
+
+msgid "ISO_639-3.LWM"
+msgstr "Laomian"
+
+msgid "ISO_639-3.LYG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.LYN"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.LZH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.LZN"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.MAD"
+msgstr "Maduríska"
+
+msgid "ISO_639-3.MAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAG"
+msgstr "Magahi"
+
+msgid "ISO_639-3.MAH"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MAI"
+msgstr "Maithili"
+
+msgid "ISO_639-3.MAK"
+msgstr "Makasar"
+
+msgid "ISO_639-3.MAL"
+msgstr "Malaíalam"
+
+msgid "ISO_639-3.MAM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAN"
+msgstr "Mandingo"
+
+msgid "ISO_639-3.MAR"
+msgstr "Marathi"
+
+msgid "ISO_639-3.MAS"
+msgstr "Masaí"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.MBC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBE"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MBF"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.MBK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBP"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBS"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MCA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCI"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCM"
+msgstr "Brasilísk portúgalska"
+
+msgid "ISO_639-3.MCN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCT"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDF"
+msgstr "Moksha"
+
+msgid "ISO_639-3.MDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDH"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MDM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MDN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDR"
+msgstr "Mandar"
+
+msgid "ISO_639-3.MDU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MDW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDX"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.MEC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEL"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.MEM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MES"
+msgstr "Maori"
+
+msgid "ISO_639-3.MET"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFA"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.MFB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.MFH"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.MFI"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.MFK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.MFL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.MFP"
+msgstr "Makasar"
+
+msgid "ISO_639-3.MFR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFT"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MFY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.MGA"
+msgstr "Írska, miðaldir (900-1200)"
+
+msgid "ISO_639-3.MGB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Mangó"
+
+msgid "ISO_639-3.MGF"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MGG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.MGK"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MGN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.MGT"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MGU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGV"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.MHB"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MHC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MHE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.MHF"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MHK"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.MHP"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Mandan"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.MHX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIA"
+msgstr "Miami"
+
+msgid "ISO_639-3.MIC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MID"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.MIK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIN"
+msgstr "Minangkabau"
+
+msgid "ISO_639-3.MIS"
+msgstr "Uncode tungumál"
+
+msgid "ISO_639-3.MJB"
+msgstr "Makasar"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJL"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJR"
+msgstr "Malavedan"
+
+msgid "ISO_639-3.MJV"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MJW"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.MJX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJY"
+msgstr "Mahican"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKA"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.MKD"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MKE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MKR"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MKV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKY"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLF"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MLG"
+msgstr "Malagasy"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japanska"
+
+msgid "ISO_639-3.MLK"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.MLN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MLP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MLS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLT"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MLV"
+msgstr "Motlav"
+
+msgid "ISO_639-3.MMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMD"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MME"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MMU"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.MMV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MNC"
+msgstr "Manchu"
+
+msgid "ISO_639-3.MNI"
+msgstr "Manipúrí"
+
+msgid "ISO_639-3.MNL"
+msgstr "Tiale"
+
+msgid "ISO_639-3.MNM"
+msgstr "Mnong, suður"
+
+msgid "ISO_639-3.MNP"
+msgstr "Kínverska, Min Bei"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Minriq"
+
+msgid "ISO_639-3.MNR"
+msgstr "Mono (BNA)"
+
+msgid "ISO_639-3.MNS"
+msgstr "Mansi"
+
+msgid "ISO_639-3.MNW"
+msgstr "Mán"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOD"
+msgstr "Mobilian"
+
+msgid "ISO_639-3.MOE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MOH"
+msgstr "Mohawk"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MON"
+msgstr "Mongólska"
+
+msgid "ISO_639-3.MOO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOS"
+msgstr "Mossi"
+
+msgid "ISO_639-3.MOU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MOW"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MOX"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Júlía"
+
+msgid "ISO_639-3.MPA"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MPD"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.MPG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MPH"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MPI"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MPT"
+msgstr "Mian"
+
+msgid "ISO_639-3.MPV"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.MPW"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MPY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.MQC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MQE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQP"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MQR"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MQS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MQU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRH"
+msgstr "Marachi"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MSE"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSH"
+msgstr "Malagasy"
+
+msgid "ISO_639-3.MSK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSL"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MSS"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MSV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTL"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MTR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.MTY"
+msgstr "Nabi"
+
+msgid "ISO_639-3.MUC"
+msgstr "Júlía"
+
+msgid "ISO_639-3.MUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MUL"
+msgstr "Mörg tungumál"
+
+msgid "ISO_639-3.MUO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.MUP"
+msgstr "Pólska"
+
+msgid "ISO_639-3.MUR"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MUS"
+msgstr "Creek"
+
+msgid "ISO_639-3.MUT"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MUX"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVF"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MVO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVS"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MVU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.MWI"
+msgstr "Labo"
+
+msgid "ISO_639-3.MWK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.MWL"
+msgstr "Mirandese"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.MWR"
+msgstr "Marwari"
+
+msgid "ISO_639-3.MWT"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MWV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWX"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MWY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MXD"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MXF"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.MXK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.MXR"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.MXW"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.MXX"
+msgstr "Velska"
+
+msgid "ISO_639-3.MYA"
+msgstr "Búrmíska"
+
+msgid "ISO_639-3.MYG"
+msgstr "Manta"
+
+msgid "ISO_639-3.MYH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.MYL"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.MYS"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.MYV"
+msgstr "Erzya"
+
+msgid "ISO_639-3.MYX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYY"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.MZE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZP"
+msgstr "Movima"
+
+msgid "ISO_639-3.MZS"
+msgstr "Japanska"
+
+msgid "ISO_639-3.MZT"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZV"
+msgstr "Maori"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galenska"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Júlía"
+
+msgid "ISO_639-3.NAL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.NAN"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.NAU"
+msgstr "Nárú"
+
+msgid "ISO_639-3.NAV"
+msgstr "Navajo"
+
+msgid "ISO_639-3.NAW"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NAX"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NBB"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NBC"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NBH"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Suður-Ndebele"
+
+msgid "ISO_639-3.NBN"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NBP"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NBU"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NBY"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NCB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NCC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japanska"
+
+msgid "ISO_639-3.NCF"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NCH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NCZ"
+msgstr "Natchez"
+
+msgid "ISO_639-3.NDA"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.NDC"
+msgstr "Ndebele, norður"
+
+msgid "ISO_639-3.NDF"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.NDH"
+msgstr "Pólska"
+
+msgid "ISO_639-3.NDM"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NDO"
+msgstr "Ndonga"
+
+msgid "ISO_639-3.NDP"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NDR"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NDS"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.NDT"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NDX"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NEF"
+msgstr "Víetnamska"
+
+msgid "ISO_639-3.NEG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NEI"
+msgstr "Hittítíska"
+
+msgid "ISO_639-3.NEJ"
+msgstr "Neko"
+
+msgid "ISO_639-3.NEP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NER"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.NES"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NEU"
+msgstr "Neko"
+
+msgid "ISO_639-3.NEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.NFD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NGO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NGP"
+msgstr "Júlía"
+
+msgid "ISO_639-3.NGX"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NGY"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.NHA"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NHB"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.NHH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NHO"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NIA"
+msgstr "Nias"
+
+msgid "ISO_639-3.NIB"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NID"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NIO"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Nandi"
+
+msgid "ISO_639-3.NIR"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.NIU"
+msgstr "Niueanska"
+
+msgid "ISO_639-3.NIX"
+msgstr "Þýska"
+
+msgid "ISO_639-3.NIY"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NJI"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.NJN"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.NKA"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NKB"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NKC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NKD"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NKG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NKI"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NKO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NKU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galenska"
+
+msgid "ISO_639-3.NLD"
+msgstr "Hollenska"
+
+msgid "ISO_639-3.NLG"
+msgstr "Þýska"
+
+msgid "ISO_639-3.NLI"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Pólska"
+
+msgid "ISO_639-3.NLL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NLW"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NLX"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Pólska"
+
+msgid "ISO_639-3.NMA"
+msgstr "Marama"
+
+msgid "ISO_639-3.NMB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.NMC"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.NMG"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NMR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NMV"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NMW"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NNF"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NNG"
+msgstr "Maori"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norska (nýnorska)"
+
+msgid "ISO_639-3.NNY"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norska (bókmál)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NOF"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.NOG"
+msgstr "Nogai"
+
+msgid "ISO_639-3.NOI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.NOL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NON"
+msgstr "Norræna"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NOR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NPG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NPI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NPN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NPS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.NQM"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NQO"
+msgstr "N'Ko"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.NQY"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.NRC"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NRN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NRR"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NRT"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NRU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.NSA"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NSC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NSE"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NSF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.NSG"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.NSK"
+msgstr "Maori"
+
+msgid "ISO_639-3.NSN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.NSS"
+msgstr "Pólska"
+
+msgid "ISO_639-3.NSV"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.NSX"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NSY"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.NTD"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.NTG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NTX"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.NTY"
+msgstr "Mantsi"
+
+msgid "ISO_639-3.NUA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.NUD"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NUG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NUH"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NUN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NUR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.NUX"
+msgstr "Gríska"
+
+msgid "ISO_639-3.NVH"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.NWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.NXI"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.NXO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NXX"
+msgstr "Maori"
+
+msgid "ISO_639-3.NYA"
+msgstr "Nyanja"
+
+msgid "ISO_639-3.NYF"
+msgstr "Þýska"
+
+msgid "ISO_639-3.NYH"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NYM"
+msgstr "Nyamwezi"
+
+msgid "ISO_639-3.NYN"
+msgstr "Nyankole"
+
+msgid "ISO_639-3.NYO"
+msgstr "Nyoro"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NYR"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.NYS"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.NZI"
+msgstr "Nzima"
+
+msgid "ISO_639-3.OAR"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.OBR"
+msgstr "Búrmíska"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.OCA"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OCH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.OCI"
+msgstr "Occitan (eftir 1500)"
+
+msgid "ISO_639-3.OCO"
+msgstr "Írska"
+
+msgid "ISO_639-3.ODT"
+msgstr "Hollenska"
+
+msgid "ISO_639-3.OFS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.OGE"
+msgstr "Þýska"
+
+msgid "ISO_639-3.OGO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.OHT"
+msgstr "Hittítíska"
+
+msgid "ISO_639-3.OHU"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.OIA"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OJB"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.OJC"
+msgstr "Ojibwa"
+
+msgid "ISO_639-3.OJG"
+msgstr "Ojibwa"
+
+msgid "ISO_639-3.OJI"
+msgstr "Ojibwa"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japanska"
+
+msgid "ISO_639-3.OJS"
+msgstr "Ojibwa"
+
+msgid "ISO_639-3.OJW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.OKD"
+msgstr "Þýska"
+
+msgid "ISO_639-3.OKK"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.OKL"
+msgstr "Jiddískt táknmál"
+
+msgid "ISO_639-3.OKR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.OKV"
+msgstr "Króatíska"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maori"
+
+msgid "ISO_639-3.OLR"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OLT"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.OLU"
+msgstr "Júlía"
+
+msgid "ISO_639-3.OMN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.OMP"
+msgstr "Manipúrí"
+
+msgid "ISO_639-3.OMR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ONB"
+msgstr "Lingao"
+
+msgid "ISO_639-3.ONP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ONR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ONW"
+msgstr "Persneska"
+
+msgid "ISO_639-3.OOS"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.ORC"
+msgstr "Þýska"
+
+msgid "ISO_639-3.ORI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ORM"
+msgstr "Oromo"
+
+msgid "ISO_639-3.ORT"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.ORV"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.OSA"
+msgstr "Osage"
+
+msgid "ISO_639-3.OSC"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OSI"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spænska"
+
+msgid "ISO_639-3.OSS"
+msgstr "Ossetian"
+
+msgid "ISO_639-3.OSX"
+msgstr "Persneska"
+
+msgid "ISO_639-3.OTA"
+msgstr "Tyrkneska, Ottóman (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "Tíbetska"
+
+msgid "ISO_639-3.OTD"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OTK"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.OTW"
+msgstr "Ottawa"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.OUI"
+msgstr "Uighur"
+
+msgid "ISO_639-3.OWL"
+msgstr "Velska"
+
+msgid "ISO_639-3.OYM"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.PAG"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PAH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PAL"
+msgstr "Pahlavi"
+
+msgid "ISO_639-3.PAO"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PAP"
+msgstr "Papiamento"
+
+msgid "ISO_639-3.PAR"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PAS"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.PAU"
+msgstr "Palauíska"
+
+msgid "ISO_639-3.PAY"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.PBI"
+msgstr "Maori"
+
+msgid "ISO_639-3.PBN"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.PBO"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PBR"
+msgstr "Maori"
+
+msgid "ISO_639-3.PCF"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PCG"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PCH"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.PCI"
+msgstr "Maori"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PCK"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.PCL"
+msgstr "Maori"
+
+msgid "ISO_639-3.PDI"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.PDU"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.PEE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PEF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.PEG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.PEH"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PEK"
+msgstr "Franska"
+
+msgid "ISO_639-3.PEL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PEO"
+msgstr "Persneska, forn (uþb. 600-400 F.K.)"
+
+msgid "ISO_639-3.PES"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.PFL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PGG"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PGI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galenska"
+
+msgid "ISO_639-3.PGS"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Sambískt táknmál"
+
+msgid "ISO_639-3.PHH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.PHN"
+msgstr "Fönikískt"
+
+msgid "ISO_639-3.PHQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.PHT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PHU"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.PHV"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PIC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PII"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PIM"
+msgstr "Króatíska"
+
+msgid "ISO_639-3.PIP"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.PIV"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PKT"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.PLA"
+msgstr "Maori"
+
+msgid "ISO_639-3.PLD"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLE"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLH"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLI"
+msgstr "Pali"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLL"
+msgstr "Palauíska"
+
+msgid "ISO_639-3.PLP"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLT"
+msgstr "Malagasíska, Plateau"
+
+msgid "ISO_639-3.PLU"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.PMB"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PMD"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PMK"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PMN"
+msgstr "Pam"
+
+msgid "ISO_639-3.PMS"
+msgstr "Víetnamska"
+
+msgid "ISO_639-3.PMY"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.PNB"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.PNC"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PNE"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.PNG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PNL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PNP"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PNR"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PNS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PNT"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.PNY"
+msgstr "Pinyin"
+
+msgid "ISO_639-3.POC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.POL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PON"
+msgstr "Pohnpeian"
+
+msgid "ISO_639-3.POR"
+msgstr "Portúgalska"
+
+msgid "ISO_639-3.POX"
+msgstr "Polabíska"
+
+msgid "ISO_639-3.PPE"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PPI"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.PPT"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PRB"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.PRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.PRF"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PRG"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.PRI"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PRM"
+msgstr "Occitan (eftir 1500)"
+
+msgid "ISO_639-3.PRP"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PRR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.PRT"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PRU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.PRW"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.PSH"
+msgstr "Sotho, suður"
+
+msgid "ISO_639-3.PSI"
+msgstr "Sotho, suður"
+
+msgid "ISO_639-3.PSN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Pólska"
+
+msgid "ISO_639-3.PTN"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.PTR"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PTU"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.PTY"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.PUP"
+msgstr "Júlía"
+
+msgid "ISO_639-3.PUS"
+msgstr "Pushto"
+
+msgid "ISO_639-3.PUT"
+msgstr "Hollenska"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portúgalska"
+
+msgid "ISO_639-3.PUX"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.PWA"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PWB"
+msgstr "Maori"
+
+msgid "ISO_639-3.PWN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.PWO"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.PWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.PZN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.QUE"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QUX"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QUY"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QVP"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QXC"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QXP"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.QYP"
+msgstr "Maori"
+
+msgid "ISO_639-3.RAC"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.RAF"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.RAG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.RAJ"
+msgstr "Rajasthaníska"
+
+msgid "ISO_639-3.RAL"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RAP"
+msgstr "Páskaeyjarmál"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.RAR"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RAS"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.RAX"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RBB"
+msgstr "Palauíska"
+
+msgid "ISO_639-3.RBP"
+msgstr "Bambaríska"
+
+msgid "ISO_639-3.REE"
+msgstr "Rejang"
+
+msgid "ISO_639-3.REJ"
+msgstr "Rejang"
+
+msgid "ISO_639-3.RES"
+msgstr "Velska"
+
+msgid "ISO_639-3.RGA"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RHG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RHP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.RJG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RJI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.RKI"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.RKM"
+msgstr "Maori"
+
+msgid "ISO_639-3.RKT"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMB"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.RMH"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.RMI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.RMK"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RML"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMX"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.RNG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RNL"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RNN"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RNP"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.RNR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ROD"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.ROG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ROH"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.ROM"
+msgstr "Rúmenía"
+
+msgid "ISO_639-3.RON"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.ROR"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.RPT"
+msgstr "Rapting"
+
+msgid "ISO_639-3.RRI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RSM"
+msgstr "Jiddískt táknmál"
+
+msgid "ISO_639-3.RTC"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.RTM"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RTS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.RUC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.RUE"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RUK"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.RUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RUS"
+msgstr "Rússneska"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.RWO"
+msgstr "Maori"
+
+msgid "ISO_639-3.RWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.RXD"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.RXW"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAB"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.SAC"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAD"
+msgstr "Sandawe"
+
+msgid "ISO_639-3.SAE"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SAG"
+msgstr "Sango"
+
+msgid "ISO_639-3.SAH"
+msgstr "Yakútska"
+
+msgid "ISO_639-3.SAK"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SAM"
+msgstr "Samarískt"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sanskrít"
+
+msgid "ISO_639-3.SAO"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.SAS"
+msgstr "Sasak"
+
+msgid "ISO_639-3.SAT"
+msgstr "Santalí"
+
+msgid "ISO_639-3.SAU"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SAX"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SAY"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SAZ"
+msgstr "Saurashtra"
+
+msgid "ISO_639-3.SBE"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.SBL"
+msgstr "Samba"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.SBN"
+msgstr "Shindí"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SBY"
+msgstr "Pólska"
+
+msgid "ISO_639-3.SCE"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SCH"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SCK"
+msgstr "Maori"
+
+msgid "ISO_639-3.SCL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCN"
+msgstr "Sikileyska"
+
+msgid "ISO_639-3.SCO"
+msgstr "Skoska"
+
+msgid "ISO_639-3.SCV"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCW"
+msgstr "Sha"
+
+msgid "ISO_639-3.SCX"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SDB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SDC"
+msgstr "Sardínska, Sassarese"
+
+msgid "ISO_639-3.SDF"
+msgstr "Pólska"
+
+msgid "ISO_639-3.SDH"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.SDK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.SDN"
+msgstr "Sardínska, Gallurese"
+
+msgid "ISO_639-3.SDR"
+msgstr "Maori"
+
+msgid "ISO_639-3.SED"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SEH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SEJ"
+msgstr "Sene"
+
+msgid "ISO_639-3.SEK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.SEL"
+msgstr "Selkup"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SET"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Abnaki, austur"
+
+msgid "ISO_639-3.SGA"
+msgstr "Írska; forn (til 900)"
+
+msgid "ISO_639-3.SGB"
+msgstr "Mantsi"
+
+msgid "ISO_639-3.SGC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SGE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SGM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGS"
+msgstr "Samogitian"
+
+msgid "ISO_639-3.SGY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHC"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SHE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHN"
+msgstr "Shan"
+
+msgid "ISO_639-3.SHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.SHR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHS"
+msgstr "Shuswap"
+
+msgid "ISO_639-3.SHT"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHU"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SHW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SHY"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SIA"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SIB"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.SID"
+msgstr "Sidamo"
+
+msgid "ISO_639-3.SIH"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.SIK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SIN"
+msgstr "Sinhala"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SIR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.SIU"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SIX"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SJD"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SJE"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SJK"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SJP"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.SJT"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SJU"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SJW"
+msgstr "Shawnee"
+
+msgid "ISO_639-3.SKB"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SKC"
+msgstr "Mandar"
+
+msgid "ISO_639-3.SKG"
+msgstr "Malagasy"
+
+msgid "ISO_639-3.SKH"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SKI"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SKM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SKR"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SKS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SKY"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.SLE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SLI"
+msgstr "Þýska"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SLN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SLT"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SLU"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SMA"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SMB"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SMC"
+msgstr "Som"
+
+msgid "ISO_639-3.SME"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SMJ"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.SMK"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.SMN"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SMO"
+msgstr "Samóíska"
+
+msgid "ISO_639-3.SMP"
+msgstr "Samarískt"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.SMS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SMU"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.SMX"
+msgstr "Samba"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SNA"
+msgstr "Shona"
+
+msgid "ISO_639-3.SND"
+msgstr "Shindí"
+
+msgid "ISO_639-3.SNF"
+msgstr "Hádegi"
+
+msgid "ISO_639-3.SNH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNK"
+msgstr "Soninke"
+
+msgid "ISO_639-3.SNL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNO"
+msgstr "Spænska"
+
+msgid "ISO_639-3.SNP"
+msgstr "Þýska"
+
+msgid "ISO_639-3.SNR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNU"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNV"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SOA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SOD"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOG"
+msgstr "Sogdian"
+
+msgid "ISO_639-3.SOH"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.SOI"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOM"
+msgstr "Sómalska"
+
+msgid "ISO_639-3.SOO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SOP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.SOR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOS"
+msgstr "Gríska"
+
+msgid "ISO_639-3.SOT"
+msgstr "Sotho, suður"
+
+msgid "ISO_639-3.SOW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spænska"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.SPG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SPI"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SPK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SPO"
+msgstr "Spokane"
+
+msgid "ISO_639-3.SPS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.SPU"
+msgstr "Spænska"
+
+msgid "ISO_639-3.SPV"
+msgstr "Samba"
+
+msgid "ISO_639-3.SQH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albanska"
+
+msgid "ISO_639-3.SQK"
+msgstr "Sambískt táknmál"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.SQU"
+msgstr "Spænska"
+
+msgid "ISO_639-3.SRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SRC"
+msgstr "Sardínska, Logudorese"
+
+msgid "ISO_639-3.SRD"
+msgstr "Sardiníska"
+
+msgid "ISO_639-3.SRE"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.SRF"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SRN"
+msgstr "Sranan Tongo"
+
+msgid "ISO_639-3.SRO"
+msgstr "Sardínska, Campidanese"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SRR"
+msgstr "Serer"
+
+msgid "ISO_639-3.SRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRT"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SSD"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.SSE"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.SSF"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.SSI"
+msgstr "Spænska"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SSK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SSL"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SSN"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SST"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.SSU"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.SSW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SSY"
+msgstr "Velska"
+
+msgid "ISO_639-3.STB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.STD"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.STH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.STK"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.STM"
+msgstr "Þýska"
+
+msgid "ISO_639-3.STO"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.SUC"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SUK"
+msgstr "Súkúma"
+
+msgid "ISO_639-3.SUN"
+msgstr "Sundanese"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SUS"
+msgstr "Susu"
+
+msgid "ISO_639-3.SUX"
+msgstr "Súmerska"
+
+msgid "ISO_639-3.SVA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SVX"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.SWE"
+msgstr "Sænska"
+
+msgid "ISO_639-3.SWF"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SWK"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.SWM"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.SWO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SWP"
+msgstr "Júlía"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SWS"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.SWW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SXC"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SXM"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.SXN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SXS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.SYA"
+msgstr "Þýska"
+
+msgid "ISO_639-3.SYB"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.SYM"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.SYR"
+msgstr "Sýrlenskt"
+
+msgid "ISO_639-3.SYX"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.SZL"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.SZN"
+msgstr "Slóvakía"
+
+msgid "ISO_639-3.SZW"
+msgstr "Maori"
+
+msgid "ISO_639-3.TAA"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.TAD"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.TAE"
+msgstr "Tariana"
+
+msgid "ISO_639-3.TAG"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TAH"
+msgstr "Tahítíska"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tala"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TAT"
+msgstr "Tatarska"
+
+msgid "ISO_639-3.TAU"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.TAW"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TBA"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.TBC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TBG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.TBI"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Tiang"
+
+msgid "ISO_639-3.TBK"
+msgstr "Tagbanva"
+
+msgid "ISO_639-3.TBO"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.TBW"
+msgstr "Tagbanva"
+
+msgid "ISO_639-3.TBX"
+msgstr "Kapin"
+
+msgid "ISO_639-3.TCC"
+msgstr "Maori"
+
+msgid "ISO_639-3.TCD"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.TCP"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TCY"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.TDB"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.TDG"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TDH"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TDI"
+msgstr "Tomadino"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Tita"
+
+msgid "ISO_639-3.TEC"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TEH"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.TEK"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TEL"
+msgstr "Telugu"
+
+msgid "ISO_639-3.TEM"
+msgstr "Timne"
+
+msgid "ISO_639-3.TER"
+msgstr "Tereno"
+
+msgid "ISO_639-3.TET"
+msgstr "Tetum"
+
+msgid "ISO_639-3.TEY"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TFN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.TGB"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.TGC"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TGD"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Danska"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tadzjikiska"
+
+msgid "ISO_639-3.TGL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TGN"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TGR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.TGT"
+msgstr "Tagbanva"
+
+msgid "ISO_639-3.TGX"
+msgstr "Danska"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.THA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.THE"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.THF"
+msgstr "Thangmi"
+
+msgid "ISO_639-3.THN"
+msgstr "Thachanadan"
+
+msgid "ISO_639-3.THR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.THS"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.THT"
+msgstr "Tahltíska"
+
+msgid "ISO_639-3.THU"
+msgstr "Tamahaq, Tahaggart"
+
+msgid "ISO_639-3.THW"
+msgstr "Thudam"
+
+msgid "ISO_639-3.THY"
+msgstr "Tamazight, Tidikelt"
+
+msgid "ISO_639-3.TIC"
+msgstr "Tira"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tifal"
+
+msgid "ISO_639-3.TIG"
+msgstr "Murut, Timugon"
+
+msgid "ISO_639-3.TII"
+msgstr "Tiene"
+
+msgid "ISO_639-3.TIJ"
+msgstr "Tilung"
+
+msgid "ISO_639-3.TIK"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TIM"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TIN"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TIP"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TIR"
+msgstr "Tigrinya"
+
+msgid "ISO_639-3.TIU"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.TIV"
+msgstr "Tiv"
+
+msgid "ISO_639-3.TJL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TKB"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.TKG"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.TKL"
+msgstr "Tókelá"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TLD"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TLH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TLI"
+msgstr "Tlingit"
+
+msgid "ISO_639-3.TLK"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TLO"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TLR"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.TLT"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.TLU"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TLV"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TLX"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.TMC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TMD"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.TMH"
+msgstr "Tamashek"
+
+msgid "ISO_639-3.TMK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.TMS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TMW"
+msgstr "Þýska"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TNA"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TNB"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TNG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.TNH"
+msgstr "Maori"
+
+msgid "ISO_639-3.TNI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Taino"
+
+msgid "ISO_639-3.TOD"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.TOG"
+msgstr "Tonga (Nyasa)"
+
+msgid "ISO_639-3.TOH"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.TOM"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TON"
+msgstr "Tonga (Tonga-eyjar)"
+
+msgid "ISO_639-3.TOU"
+msgstr "Tho"
+
+msgid "ISO_639-3.TOW"
+msgstr "Gríska"
+
+msgid "ISO_639-3.TOX"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.TOZ"
+msgstr "Til"
+
+msgid "ISO_639-3.TPF"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TPI"
+msgstr "Tok Pisin"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TQL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TQN"
+msgstr "Tenino"
+
+msgid "ISO_639-3.TQT"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.TRD"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TRE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.TRH"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TRR"
+msgstr "Velska"
+
+msgid "ISO_639-3.TRT"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TSD"
+msgstr "Eistneska"
+
+msgid "ISO_639-3.TSH"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TSI"
+msgstr "Tsimshian"
+
+msgid "ISO_639-3.TSN"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TSO"
+msgstr "Tonganska"
+
+msgid "ISO_639-3.TSV"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.TSW"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TSX"
+msgstr "Maori"
+
+msgid "ISO_639-3.TTB"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.TTG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.TTI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TTR"
+msgstr "Þýska"
+
+msgid "ISO_639-3.TTS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TTV"
+msgstr "Títan"
+
+msgid "ISO_639-3.TTW"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.TUI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TUK"
+msgstr "Túrkmeniska"
+
+msgid "ISO_639-3.TUL"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TUM"
+msgstr "Tumbuka"
+
+msgid "ISO_639-3.TUR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TUY"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TVD"
+msgstr "Júlía"
+
+msgid "ISO_639-3.TVL"
+msgstr "Túvalú"
+
+msgid "ISO_639-3.TVO"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.TVW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.TWB"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.TWF"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.TWI"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWL"
+msgstr "Maori"
+
+msgid "ISO_639-3.TWM"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.TWN"
+msgstr "Sænska"
+
+msgid "ISO_639-3.TWU"
+msgstr "Þýska"
+
+msgid "ISO_639-3.TWW"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.TXA"
+msgstr "Enska (Bretland)"
+
+msgid "ISO_639-3.TXB"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.TXG"
+msgstr "Tangut"
+
+msgid "ISO_639-3.TXH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TXM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TXN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.TXR"
+msgstr "Tartessian"
+
+msgid "ISO_639-3.TXX"
+msgstr "Tatana"
+
+msgid "ISO_639-3.TXY"
+msgstr "Malagasy"
+
+msgid "ISO_639-3.TYE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TYN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.TYV"
+msgstr "Tuvinian"
+
+msgid "ISO_639-3.TYX"
+msgstr "Teke-Tyee"
+
+msgid "ISO_639-3.TZH"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TZL"
+msgstr "Assan"
+
+msgid "ISO_639-3.TZO"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.TZX"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.UAN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.UDG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.UDL"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.UDM"
+msgstr "Udmurt"
+
+msgid "ISO_639-3.UGA"
+msgstr "Ugaritískt"
+
+msgid "ISO_639-3.UGO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.UHA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.UIG"
+msgstr "Uighur"
+
+msgid "ISO_639-3.UIS"
+msgstr "Maori"
+
+msgid "ISO_639-3.UKA"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.UKR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ULE"
+msgstr "Lule Samíska"
+
+msgid "ISO_639-3.ULI"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.ULK"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.UMB"
+msgstr "Umbundu"
+
+msgid "ISO_639-3.UMC"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.UMN"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.UND"
+msgstr "Ekki hægt að greina"
+
+msgid "ISO_639-3.UNG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.UNN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.UNR"
+msgstr "Maori"
+
+msgid "ISO_639-3.UNU"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.UNX"
+msgstr "Maori"
+
+msgid "ISO_639-3.URA"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.URC"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.URD"
+msgstr "Úrdú"
+
+msgid "ISO_639-3.URF"
+msgstr "Maori"
+
+msgid "ISO_639-3.URG"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.URL"
+msgstr "Pólska"
+
+msgid "ISO_639-3.URM"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.URN"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.URT"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Occitan"
+
+msgid "ISO_639-3.UUU"
+msgstr "U"
+
+msgid "ISO_639-3.UVH"
+msgstr "Uri"
+
+msgid "ISO_639-3.UZB"
+msgstr "Úsbekíska"
+
+msgid "ISO_639-3.VAE"
+msgstr "Vale"
+
+msgid "ISO_639-3.VAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.VAI"
+msgstr "Vai"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.VAN"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.VAS"
+msgstr "Maori"
+
+msgid "ISO_639-3.VAV"
+msgstr "Pólska"
+
+msgid "ISO_639-3.VBK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.VEC"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.VEN"
+msgstr "Venda"
+
+msgid "ISO_639-3.VER"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.VGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.VIE"
+msgstr "Víetnamska"
+
+msgid "ISO_639-3.VIF"
+msgstr "Vili"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.VKK"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.VKO"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.VKP"
+msgstr "Brasilísk portúgalska"
+
+msgid "ISO_639-3.VLP"
+msgstr "Pólska"
+
+msgid "ISO_639-3.VMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.VMB"
+msgstr "Bambaríska"
+
+msgid "ISO_639-3.VMD"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.VME"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.VMG"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.VMH"
+msgstr "Maori"
+
+msgid "ISO_639-3.VML"
+msgstr "Maori"
+
+msgid "ISO_639-3.VMR"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.VNK"
+msgstr "Vano"
+
+msgid "ISO_639-3.VOL"
+msgstr "Volapük"
+
+msgid "ISO_639-3.VOT"
+msgstr "Votic"
+
+msgid "ISO_639-3.VRA"
+msgstr "Þýska"
+
+msgid "ISO_639-3.VRS"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.VRT"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.WAA"
+msgstr "Walla Walla"
+
+msgid "ISO_639-3.WAE"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.WAI"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.WAL"
+msgstr "Wolaytta"
+
+msgid "ISO_639-3.WAN"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WAO"
+msgstr "Velska"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Þýska"
+
+msgid "ISO_639-3.WAS"
+msgstr "Washo"
+
+msgid "ISO_639-3.WAV"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.WAX"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WBA"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WBB"
+msgstr "Velska"
+
+msgid "ISO_639-3.WBF"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WBI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.WBK"
+msgstr "Maori"
+
+msgid "ISO_639-3.WBL"
+msgstr "Velska"
+
+msgid "ISO_639-3.WDK"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.WEH"
+msgstr "Velska"
+
+msgid "ISO_639-3.WET"
+msgstr "Pólska"
+
+msgid "ISO_639-3.WEU"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.WGI"
+msgstr "Velska"
+
+msgid "ISO_639-3.WHG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.WHU"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.WIC"
+msgstr "Wichita"
+
+msgid "ISO_639-3.WII"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.WJA"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WJI"
+msgstr "Maori"
+
+msgid "ISO_639-3.WKB"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.WKL"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.WKU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.WLA"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WLE"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.WLG"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.WLI"
+msgstr "Pólska"
+
+msgid "ISO_639-3.WLK"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WLN"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WLR"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galenska"
+
+msgid "ISO_639-3.WLW"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WLY"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.WMC"
+msgstr "Velska"
+
+msgid "ISO_639-3.WMD"
+msgstr "Mamaindé"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamilska"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.WMS"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WMW"
+msgstr "Maori"
+
+msgid "ISO_639-3.WMX"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.WNN"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.WNO"
+msgstr "Velska"
+
+msgid "ISO_639-3.WOC"
+msgstr "Wogeo"
+
+msgid "ISO_639-3.WOD"
+msgstr "Wolani"
+
+msgid "ISO_639-3.WOE"
+msgstr "Woleanska"
+
+msgid "ISO_639-3.WOF"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.WOK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.WOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WON"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRK"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRN"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.WRO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.WRP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.WSI"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.WSK"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.WSS"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.WSU"
+msgstr "Velska"
+
+msgid "ISO_639-3.WTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.WUU"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.WWA"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WWB"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.WWW"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.WXW"
+msgstr "Andai"
+
+msgid "ISO_639-3.WYY"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.XAC"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XAD"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.XAE"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.XAG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.XAL"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.XAO"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.XAR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.XAU"
+msgstr "Þýska"
+
+msgid "ISO_639-3.XBC"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.XBD"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.XBE"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.XBG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretónska"
+
+msgid "ISO_639-3.XBN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XBO"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.XBY"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.XCL"
+msgstr "Armenska"
+
+msgid "ISO_639-3.XCO"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.XCR"
+msgstr "Carian"
+
+msgid "ISO_639-3.XCU"
+msgstr "Króatíska"
+
+msgid "ISO_639-3.XCY"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.XDA"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galenska"
+
+msgid "ISO_639-3.XDY"
+msgstr "Malaíalam"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galenska"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galenska"
+
+msgid "ISO_639-3.XGD"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.XGG"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XGI"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galenska"
+
+msgid "ISO_639-3.XGM"
+msgstr "Samba"
+
+msgid "ISO_639-3.XGR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.XHA"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.XHE"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.XHU"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.XHV"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XIB"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.XII"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.XIL"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.XIR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.XIS"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XJT"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XKE"
+msgstr "Hebreska"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Pólska"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XKT"
+msgstr "Kantosi"
+
+msgid "ISO_639-3.XKX"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XKY"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.XLC"
+msgstr "Lycian"
+
+msgid "ISO_639-3.XLD"
+msgstr "Lydian"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.XLI"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.XLN"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.XLS"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.XMB"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.XME"
+msgstr "Miðgildi"
+
+msgid "ISO_639-3.XMF"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMU"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.XMW"
+msgstr "Malagasy"
+
+msgid "ISO_639-3.XMX"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.XNG"
+msgstr "Mongólska, mið"
+
+msgid "ISO_639-3.XNH"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.XNI"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.XNK"
+msgstr "Ungverska"
+
+msgid "ISO_639-3.XNN"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XNR"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.XNS"
+msgstr "Danska"
+
+msgid "ISO_639-3.XNT"
+msgstr "Maori"
+
+msgid "ISO_639-3.XOD"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XOG"
+msgstr "Þýska"
+
+msgid "ISO_639-3.XON"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XOP"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XOW"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XPA"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.XPC"
+msgstr "Tékkneska"
+
+msgid "ISO_639-3.XPE"
+msgstr "Kpelle"
+
+msgid "ISO_639-3.XPG"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.XPI"
+msgstr "Pólska"
+
+msgid "ISO_639-3.XPR"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.XPS"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.XQA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XQT"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.XRE"
+msgstr "Gríska"
+
+msgid "ISO_639-3.XRG"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.XRN"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XRU"
+msgstr "Maori"
+
+msgid "ISO_639-3.XRW"
+msgstr "Maori"
+
+msgid "ISO_639-3.XSB"
+msgstr "Samba"
+
+msgid "ISO_639-3.XSC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XSE"
+msgstr "Þýska"
+
+msgid "ISO_639-3.XSH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XSL"
+msgstr "Mörg tungumál"
+
+msgid "ISO_639-3.XSM"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XSO"
+msgstr "Þýska"
+
+msgid "ISO_639-3.XSR"
+msgstr "Sherpa"
+
+msgid "ISO_639-3.XSS"
+msgstr "Assan"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slóvenska"
+
+msgid "ISO_639-3.XTO"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.XTV"
+msgstr "Maori"
+
+msgid "ISO_639-3.XTW"
+msgstr "Maori"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.XUM"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.XUN"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.XUR"
+msgstr "Króatíska"
+
+msgid "ISO_639-3.XUU"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XVI"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.XVO"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.XVS"
+msgstr "Eistneska"
+
+msgid "ISO_639-3.XWA"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.XWC"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.XWJ"
+msgstr "Ekajuk"
+
+msgid "ISO_639-3.XWK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XXB"
+msgstr "Boro (Gana)"
+
+msgid "ISO_639-3.XXR"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.XXT"
+msgstr "Þýska"
+
+msgid "ISO_639-3.XYB"
+msgstr "Maori"
+
+msgid "ISO_639-3.XYL"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.XZM"
+msgstr "Ítalska"
+
+msgid "ISO_639-3.XZP"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YAK"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.YAN"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.YAO"
+msgstr "Yao"
+
+msgid "ISO_639-3.YAP"
+msgstr "Yapese"
+
+msgid "ISO_639-3.YAS"
+msgstr "Nugunu (Kamerún)"
+
+msgid "ISO_639-3.YBA"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.YBK"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.YBM"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.YCH"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.YCL"
+msgstr "Lolopo"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indónesíska"
+
+msgid "ISO_639-3.YDA"
+msgstr "Ganda"
+
+msgid "ISO_639-3.YDD"
+msgstr "Jiddíska, austur"
+
+msgid "ISO_639-3.YEC"
+msgstr "Franska"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Íslenska"
+
+msgid "ISO_639-3.YER"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.YES"
+msgstr "Nyanja"
+
+msgid "ISO_639-3.YGA"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.YGI"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.YGP"
+msgstr "Gríska"
+
+msgid "ISO_639-3.YGR"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.YGS"
+msgstr "Júgóslavískt táknmál"
+
+msgid "ISO_639-3.YGW"
+msgstr "Maori"
+
+msgid "ISO_639-3.YHA"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.YHD"
+msgstr "Júdeó-arabíska"
+
+msgid "ISO_639-3.YHS"
+msgstr "Íslenskt táknmál"
+
+msgid "ISO_639-3.YID"
+msgstr "Jiddíska"
+
+msgid "ISO_639-3.YIF"
+msgstr "Nasu, Wusa"
+
+msgid "ISO_639-3.YIH"
+msgstr "Jiddíska, vestur"
+
+msgid "ISO_639-3.YIM"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.YIP"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YIR"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.YIU"
+msgstr "Arabíska"
+
+msgid "ISO_639-3.YIX"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.YKA"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.YKL"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.YKM"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.YKO"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.YKT"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.YKU"
+msgstr "Baskamál"
+
+msgid "ISO_639-3.YLB"
+msgstr "Japanska"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japanska"
+
+msgid "ISO_639-3.YLM"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.YLO"
+msgstr "Júlía"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japanska"
+
+msgid "ISO_639-3.YMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMH"
+msgstr "Mili"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMO"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.YMR"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.YMS"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Júlía"
+
+msgid "ISO_639-3.YNE"
+msgstr "Lang'e"
+
+msgid "ISO_639-3.YNG"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YNO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.YOG"
+msgstr "Bosníska"
+
+msgid "ISO_639-3.YOI"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.YOL"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.YON"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YOR"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.YPA"
+msgstr "Phowa, Labo"
+
+msgid "ISO_639-3.YPG"
+msgstr "Phola"
+
+msgid "ISO_639-3.YPH"
+msgstr "Phupha"
+
+msgid "ISO_639-3.YPM"
+msgstr "Phowa, Ani"
+
+msgid "ISO_639-3.YPO"
+msgstr "Phola, Alo"
+
+msgid "ISO_639-3.YPP"
+msgstr "Phupa"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Phuza"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katalónska"
+
+msgid "ISO_639-3.YSD"
+msgstr "Serbneska"
+
+msgid "ISO_639-3.YSG"
+msgstr "Zenaga"
+
+msgid "ISO_639-3.YSL"
+msgstr "Júgóslavískt táknmál"
+
+msgid "ISO_639-3.YSN"
+msgstr "Spænska"
+
+msgid "ISO_639-3.YSY"
+msgstr "Þýska"
+
+msgid "ISO_639-3.YTA"
+msgstr "Júlía"
+
+msgid "ISO_639-3.YTL"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YTP"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.YUC"
+msgstr "Hollenska"
+
+msgid "ISO_639-3.YUD"
+msgstr "Júdeó-arabíska"
+
+msgid "ISO_639-3.YUE"
+msgstr "Kínverska, Yue"
+
+msgid "ISO_639-3.YUL"
+msgstr "Júlía"
+
+msgid "ISO_639-3.YUN"
+msgstr "Bena (Nígería)"
+
+msgid "ISO_639-3.YUT"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.YVA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YWG"
+msgstr "Minangkabau"
+
+msgid "ISO_639-3.YWL"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.YXA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YXG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-3.YZG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.YZK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZAC"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAD"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAE"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZAI"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "Vallónska"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Júlía"
+
+msgid "ISO_639-3.ZAP"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAQ"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAR"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAT"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAV"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAW"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAX"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Þýska"
+
+msgid "ISO_639-3.ZBL"
+msgstr "Bliss-tákn"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Þýska"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Zenaga"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Júlía"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Úkraínska"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Búlgarska"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Occitan"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Rúmenska"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Tælenska"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Zhuang, Zuojiang"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Litháíska"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.ZMA"
+msgstr "Manda (Ástralía)"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZML"
+msgstr "Maltneska"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Makedóníska"
+
+msgid "ISO_639-3.ZMR"
+msgstr "Maranunggu"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Mbesa"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Maringarr"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Muruwari"
+
+msgid "ISO_639-3.ZMV"
+msgstr "Mbariman-Gudhinma"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Mariyedi"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Mbandja"
+
+msgid "ISO_639-3.ZNA"
+msgstr "Zan Gula"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Mang"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Manangkari"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Mangas"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Júlía"
+
+msgid "ISO_639-3.ZPB"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.ZPE"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPM"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPO"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPP"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPQ"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPS"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPU"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.ZPW"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZRA"
+msgstr "Kara (Kórea)"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Mirgan"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Kóreska"
+
+msgid "ISO_639-3.ZSL"
+msgstr "Sambískt táknmál"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Malaíska, stöðluð"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Sukurum"
+
+msgid "ISO_639-3.ZTE"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZTP"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZTU"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZTX"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZTY"
+msgstr "Zapotec"
+
+msgid "ISO_639-3.ZUA"
+msgstr "Zeem"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Tokano"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zúlú"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Kumzari"
+
+msgid "ISO_639-3.ZUN"
+msgstr "Zuní"
+
+msgid "ISO_639-3.ZUY"
+msgstr "Zumaya"
+
+msgid "ISO_639-3.ZWA"
+msgstr "Zay"
+
+msgid "ISO_639-3.ZXX"
+msgstr "Ekkert tungumálatengt efni"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Zhuang, Yongbei"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Zhuang, Yang"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Zhuang, Youjiang"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Zhuang, Yongnan"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Kínverska"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Zaza"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Zhuang, Zuojiang"

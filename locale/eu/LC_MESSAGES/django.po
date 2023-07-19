@@ -1,0 +1,8156 @@
+# Basque translations of ISO 639 language names
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Translations from KDE:
+#  Marcos Goienetxe <marcos_g@infonegocio.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-02-04 23:38+0200\n"
+"Last-Translator: Piarres Beobide <pi@beobide.net>\n"
+"Language-Team: Euskara <itzulpena@comtropos.com>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AAG"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AAK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AAT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AAW"
+msgstr "XChat"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ABD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ABG"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ABK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ABW"
+msgstr "Polskera"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ACE"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ACI"
+msgstr "Maori"
+
+msgid "ISO_639-3.ACN"
+msgstr "XChat"
+
+msgid "ISO_639-3.ACR"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabiera"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ADL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.ADN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ADR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AEU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AEW"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AFD"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AFK"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.AFP"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AGA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AGB"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AGG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.AGI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.AGO"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AGW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AHA"
+msgstr "XChat"
+
+msgid "ISO_639-3.AHK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AHR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.AIC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AIE"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.AIR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.AIS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.AIW"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AIX"
+msgstr "XChat"
+
+msgid "ISO_639-3.AJN"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.AKF"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKM"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AKW"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ALD"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ALH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ALK"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.ALN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ALS"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AMC"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AMH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AML"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.AMN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AMY"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ANC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.ANK"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.ANP"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.ANS"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.ANW"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ANY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AOA"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.AOR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.AOS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AOT"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.APD"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.APF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.APG"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.APH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.API"
+msgstr "Polskera"
+
+msgid "ISO_639-3.APW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AQC"
+msgstr "Txinera"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabiera, estandarra"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ARG"
+msgstr "Aragoiera"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ARN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.ARO"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Algeriar zeinu hizkuntza"
+
+msgid "ISO_639-3.ASE"
+msgstr "Amerikar zeinu hizkuntza"
+
+msgid "ISO_639-3.ASF"
+msgstr "Australiar zeinu hizkuntza"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.ASK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ASO"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.ASP"
+msgstr "Algeriar zeinu hizkuntza"
+
+msgid "ISO_639-3.ASQ"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.AST"
+msgstr "Asturiera"
+
+msgid "ISO_639-3.ATN"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.ATR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AUB"
+msgstr "Txinera"
+
+msgid "ISO_639-3.AUC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.AUH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AUK"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.AUR"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AVA"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AVB"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AVI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AVK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.AVN"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AVS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AXL"
+msgstr "XChat"
+
+msgid "ISO_639-3.AXM"
+msgstr "Armeniera"
+
+msgid "ISO_639-3.AYA"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arabiera"
+
+msgid "ISO_639-3.AYI"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.AZA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AZB"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AZD"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.AZE"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BAG"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BAN"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BAV"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BAY"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BBB"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BBD"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BBE"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BBF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BBI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BBL"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.BBV"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BBW"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BCF"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BCG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BCK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BCO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Frantsesa"
+
+msgid "ISO_639-3.BCR"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BCT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BCW"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BCY"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BDB"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BDD"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BDE"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BDF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BDG"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BDK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BDL"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BDW"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BEG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BEH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BEK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BEL"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BEN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BEO"
+msgstr "Tamil"
+
+msgid "ISO_639-3.BEP"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BES"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BFA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BFG"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BFI"
+msgstr "Britainiar zeinu hizkuntza"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BFR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BFT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BFU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BFW"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BFX"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BFY"
+msgstr "Maori"
+
+msgid "ISO_639-3.BGB"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BGC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BGG"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BGR"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.BGU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BGW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.BHA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHB"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BHD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHE"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BHG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BHH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BHR"
+msgstr "Maori"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BHV"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BHX"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BIB"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BIC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BID"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIG"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIN"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIU"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BIX"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BJC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BJH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BJN"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BJS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BJV"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BJY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.BKD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BKF"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BKI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BKS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BKT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BKX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.BLD"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BLG"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BLI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BLL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BLR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BLS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BMD"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BMH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BMI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BMO"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BMR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BMS"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BMX"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BNB"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BNC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BND"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BNF"
+msgstr "Maori"
+
+msgid "ISO_639-3.BNI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BNK"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.BNL"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.BNU"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BNW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.BOA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BOB"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.BOF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BOH"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BOK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BON"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BOP"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BOS"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BOT"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BOU"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BOW"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BPA"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BPG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BPH"
+msgstr "Polskera"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BPO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BPP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.BPU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BPV"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BQB"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BQH"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BQI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BQO"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.BQP"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BQS"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BQV"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BQX"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BRF"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.BRG"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BRH"
+msgstr "Maori"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BRS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BRT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.BRW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BRX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSB"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSC"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BSE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSG"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSH"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.BSI"
+msgstr "Maori"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BSN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BST"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BSU"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BSW"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BTA"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.BTR"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BTV"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BUC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BUG"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BUI"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BUN"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.BUO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.BUP"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BVA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BVB"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BVC"
+msgstr "Txinera"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BVO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BVP"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BVT"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BVV"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BVW"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BVY"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BWG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.BWI"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BXA"
+msgstr "Maori"
+
+msgid "ISO_639-3.BXC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BXM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BXS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BYA"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BYF"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BYH"
+msgstr "Maori"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BYM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BYN"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BYR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BYW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BZA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BZD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BZF"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.BZG"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BZI"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BZO"
+msgstr "Euskara"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.BZR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BZT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.BZU"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.BZV"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.CAC"
+msgstr "XChat"
+
+msgid "ISO_639-3.CAE"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.CAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CAJ"
+msgstr "XChat"
+
+msgid "ISO_639-3.CAK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.CAL"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.CAN"
+msgstr "Maori"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CBI"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CBL"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.CBW"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CBY"
+msgstr "Maori"
+
+msgid "ISO_639-3.CCG"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.CDA"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.CDE"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.CDI"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.CDO"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CDY"
+msgstr "XChat"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.CEA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.CEN"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CES"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CFD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CFM"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CHE"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CHK"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CHM"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.CHX"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CIE"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CIK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.CIM"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.CIP"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.CIY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CJK"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.CJN"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.CJS"
+msgstr "XChat"
+
+msgid "ISO_639-3.CJV"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CJY"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CKB"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.CKL"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKN"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CKT"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CKU"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.CLE"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CLM"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.CLT"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.CME"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.CMG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.CML"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.CMN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.CMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.CNG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.CNH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.CNL"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.CNO"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.CNW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.CNX"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.COE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.COG"
+msgstr "XChat"
+
+msgid "ISO_639-3.COR"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.COS"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.COX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.COZ"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CPI"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CPN"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CPX"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.CRE"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.CRF"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.CRR"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.CRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.CRY"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CST"
+msgstr "Koreera"
+
+msgid "ISO_639-3.CSV"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CSY"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.CTC"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.CTD"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.CTG"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.CTH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CTS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.CTU"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.CUH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.CUL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.CUU"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.CUW"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CVG"
+msgstr "XChat"
+
+msgid "ISO_639-3.CWB"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.CWE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.CYM"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.CZH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.CZK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.CZT"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamil"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAG"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DAM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAN"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DAO"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAV"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.DAX"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DBA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Italiera"
+
+msgid "ISO_639-3.DBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.DCC"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.DEC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.DEH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.DER"
+msgstr "Maori"
+
+msgid "ISO_639-3.DES"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.DEU"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.DGG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.DGI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.DGK"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGL"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.DGN"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGX"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHG"
+msgstr "XChat"
+
+msgid "ISO_639-3.DHN"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DHO"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.DHR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHS"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DHU"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHX"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.DIC"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.DID"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.DIF"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.DIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.DIS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.DIT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.DIU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.DIV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.DJO"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.DJU"
+msgstr "Koreera"
+
+msgid "ISO_639-3.DLG"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.DLK"
+msgstr "Maori"
+
+msgid "ISO_639-3.DLM"
+msgstr "Italiera"
+
+msgid "ISO_639-3.DLN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.DML"
+msgstr "Polskera"
+
+msgid "ISO_639-3.DMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DMX"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.DNG"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DNV"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.DOH"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.DOK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.DOO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.DOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DOT"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DOX"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRC"
+msgstr "Koreera"
+
+msgid "ISO_639-3.DRD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRG"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.DRL"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRS"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.DRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.DSB"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.DSI"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DSO"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.DTA"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.DTY"
+msgstr "Polskera"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.DUP"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.DWA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.DWR"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.DWW"
+msgstr "Maori"
+
+msgid "ISO_639-3.DYA"
+msgstr "Daniera"
+
+msgid "ISO_639-3.DZA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.DZG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EAA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ECR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.EGL"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.EIV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Txinera"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ELI"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.EMK"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.EMN"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ENA"
+msgstr "Polskera"
+
+msgid "ISO_639-3.ENB"
+msgstr "Maori"
+
+msgid "ISO_639-3.ENG"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.ERG"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.EST"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.ESY"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ETT"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.EUS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.EYO"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.FAA"
+msgstr "Euskara"
+
+msgid "ISO_639-3.FAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.FAF"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.FAH"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.FAP"
+msgstr "Polskera"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.FAS"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.FAT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.FAX"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FBL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.FGR"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FIN"
+msgstr "Finlandiera"
+
+msgid "ISO_639-3.FIR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FKV"
+msgstr "Finlandiera"
+
+msgid "ISO_639-3.FLI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.FLL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.FLY"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FNI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.FOM"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.FOR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.FRA"
+msgstr "Frantsesa"
+
+msgid "ISO_639-3.FRC"
+msgstr "Frantsesa"
+
+msgid "ISO_639-3.FRK"
+msgstr "Daniera"
+
+msgid "ISO_639-3.FRP"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FUI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.FUU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.GAB"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GAF"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GAH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.GAN"
+msgstr "Txinera"
+
+msgid "ISO_639-3.GAO"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.GAT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.GBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.GBY"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GCC"
+msgstr "Maori"
+
+msgid "ISO_639-3.GCD"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.GDI"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GDK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GDL"
+msgstr "Daniera"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.GDS"
+msgstr "Espainiar zeinu hizkuntza"
+
+msgid "ISO_639-3.GDT"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.GEA"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GEB"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.GEG"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GEI"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GEW"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GEX"
+msgstr "Koreera"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GGE"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GGK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.GHR"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GHT"
+msgstr "Txinera"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GIG"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GIL"
+msgstr "Mahastiak"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GIR"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GIW"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GJM"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GJN"
+msgstr "XChat"
+
+msgid "ISO_639-3.GJR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GJU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GKE"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.GKN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.GLD"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.GLE"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.GLO"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.GMA"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.GMV"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GMX"
+msgstr "Maori"
+
+msgid "ISO_639-3.GNA"
+msgstr "Euskara"
+
+msgid "ISO_639-3.GNE"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GNG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.GNH"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.GNM"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GNT"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GOA"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GOF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.GOG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GPN"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.GQU"
+msgstr "Euskara"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.GRI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.GRN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GRO"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GRR"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.GRS"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GRT"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GRU"
+msgstr "Txinera"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GSP"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.GSW"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GUE"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GUG"
+msgstr "Australiar zeinu hizkuntza"
+
+msgid "ISO_639-3.GUM"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GUW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GVC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GVE"
+msgstr "Nederlandera"
+
+msgid "ISO_639-3.GVF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.GVM"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.GVS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GVY"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maori"
+
+msgid "ISO_639-3.GWC"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.GWE"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GWF"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GWG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.GWR"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GWW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.GWX"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GYE"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.GYI"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GYR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.GZI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.GZN"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.HAC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.HAH"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.HAK"
+msgstr "Txinera"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.HAM"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HAN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.HAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.HAS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.HAT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.HBN"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HBS"
+msgstr "Kroaziera"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HEH"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HER"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HGW"
+msgstr "Maori"
+
+msgid "ISO_639-3.HHY"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.HIA"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.HIB"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.HIG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.HII"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.HIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.HJI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.HKA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.HLA"
+msgstr "Polskera"
+
+msgid "ISO_639-3.HLB"
+msgstr "Polskera"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.HNI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.HNU"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.HOM"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.HOR"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HOV"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.HPS"
+msgstr "Amerikar zeinu hizkuntza"
+
+msgid "ISO_639-3.HRE"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.HRO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.HRV"
+msgstr "Kroaziera"
+
+msgid "ISO_639-3.HRW"
+msgstr "Maori"
+
+msgid "ISO_639-3.HRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.HSN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.HUM"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.HUN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.HYE"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.IAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.IAR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.IBL"
+msgstr "Italiera"
+
+msgid "ISO_639-3.IBY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugesa"
+
+msgid "ISO_639-3.IDC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.IDR"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.IDS"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.IFU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.IGL"
+msgstr "Italiera"
+
+msgid "ISO_639-3.IGN"
+msgstr "Italiera"
+
+msgid "ISO_639-3.III"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.IJE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.IKR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.IKS"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.ILB"
+msgstr "Italiera"
+
+msgid "ISO_639-3.ILI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ILK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.ILM"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.IMA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.IMO"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.IMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.INB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.IND"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.INH"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.INN"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ISA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandiera"
+
+msgid "ISO_639-3.ISM"
+msgstr "Maori"
+
+msgid "ISO_639-3.ITA"
+msgstr "Italiera"
+
+msgid "ISO_639-3.ITD"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ITK"
+msgstr "Italiera"
+
+msgid "ISO_639-3.ITR"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.ITV"
+msgstr "Italiera"
+
+msgid "ISO_639-3.ITY"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.IVV"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.IZH"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.JAC"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.JAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.JAT"
+msgstr "Maori"
+
+msgid "ISO_639-3.JAU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.JAV"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.JAY"
+msgstr "XChat"
+
+msgid "ISO_639-3.JBE"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.JCT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.JDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.JDT"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.JEB"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.JER"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.JGE"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.JHI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.JIV"
+msgstr "Koreera"
+
+msgid "ISO_639-3.JKR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.JKU"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.JLE"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.JLS"
+msgstr "Amerikar zeinu hizkuntza"
+
+msgid "ISO_639-3.JMN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.JNI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.JNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.JPR"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.JRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.JRB"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.JUL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.JUT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.JVD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.JVN"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.JYE"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.KAE"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.KAF"
+msgstr "Euskara"
+
+msgid "ISO_639-3.KAI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KAK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KAT"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.KAU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBA"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.KBE"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBP"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KBS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KBT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBV"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KBW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KBY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Nederlandera"
+
+msgid "ISO_639-3.KCA"
+msgstr "XChat"
+
+msgid "ISO_639-3.KCE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KCH"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KCI"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KCP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.KCS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KCT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.KCW"
+msgstr "Maori"
+
+msgid "ISO_639-3.KCY"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KDC"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KDE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KDF"
+msgstr "Maori"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.KDJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KDR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KDW"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KEA"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.KED"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.KEH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KEN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KER"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Txinera"
+
+msgid "ISO_639-3.KFA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KFD"
+msgstr "Maori"
+
+msgid "ISO_639-3.KFE"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KFF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KFG"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KFN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KFR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KFS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KFT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KFW"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KFX"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KFY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KGB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.KGE"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.KGL"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.KGN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KGO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KGP"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KGV"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KGW"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KHA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KHE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KHF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KHK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KHL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KHN"
+msgstr "Txinera"
+
+msgid "ISO_639-3.KHO"
+msgstr "Txinera"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KHS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.KHT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KHV"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KHX"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KIB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KID"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.KIL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KIM"
+msgstr "Maori"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KIS"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KIW"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KIX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.KJE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KJO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KJR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KJV"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.KKK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KKL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KKM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KKO"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KKT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamil"
+
+msgid "ISO_639-3.KKV"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KKX"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.KLG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KLL"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KLM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KLN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KLP"
+msgstr "Euskara"
+
+msgid "ISO_639-3.KLR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KLU"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.KLW"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.KLY"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.KMA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KMD"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.KMH"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.KMK"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.KMR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KMU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KMY"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.KNC"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KND"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KNE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KNG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KNI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KNK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KOC"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.KOF"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KOG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KOK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KOO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KOR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KOS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KOT"
+msgstr "Maori"
+
+msgid "ISO_639-3.KOU"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KPD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KPK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KPR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KPS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KPT"
+msgstr "Maori"
+
+msgid "ISO_639-3.KPY"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KQB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KQM"
+msgstr "XChat"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KQR"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.KQY"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KRA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KRB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KRE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KRH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.KRI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KRK"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.KRL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KRM"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KRT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KRU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KRV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KRX"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.KSD"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KSE"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KSF"
+msgstr "Euskara"
+
+msgid "ISO_639-3.KSI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KSK"
+msgstr "Euskara"
+
+msgid "ISO_639-3.KSO"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KSR"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.KSV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KSX"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KTD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KTF"
+msgstr "Tamil"
+
+msgid "ISO_639-3.KTH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KTK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KTM"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KUC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KUH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.KUO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KUR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KUV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KVB"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KVC"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KVD"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.KVI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KVL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KVP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KVV"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KVW"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.KWD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.KWF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KWH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KWP"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.KWW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KXA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KXC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.KXD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KXN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KXS"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KXV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KXW"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.KYD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KYH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KYM"
+msgstr "Maori"
+
+msgid "ISO_639-3.KYO"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KYP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.KZD"
+msgstr "Maori"
+
+msgid "ISO_639-3.KZE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KZG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KZL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.KZM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KZN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KZO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.KZR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.KZX"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.LAB"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.LAD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LAG"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LAL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.LAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.LAT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LAV"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LAY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LBA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LBC"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LBF"
+msgstr "Finlandiera"
+
+msgid "ISO_639-3.LBI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LBK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.LBN"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LBO"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LBT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LBW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LCH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.LDD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LDI"
+msgstr "Maori"
+
+msgid "ISO_639-3.LDL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LDM"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LDN"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LEM"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.LES"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.LEX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.LGL"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LGR"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LGT"
+msgstr "Polskera"
+
+msgid "ISO_639-3.LHH"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LHN"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LHT"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LIF"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LIM"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LIR"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LIU"
+msgstr "Maori"
+
+msgid "ISO_639-3.LIW"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamil"
+
+msgid "ISO_639-3.LJI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LJL"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LJP"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.LKB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LKC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LKD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LKE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LKI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LKM"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.LKN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LKO"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LKS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LKT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LKU"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.LLD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LLF"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.LLH"
+msgstr "Euskara"
+
+msgid "ISO_639-3.LLM"
+msgstr "Maori"
+
+msgid "ISO_639-3.LLX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LMG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LML"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LMN"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LMP"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LNH"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LNI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LNS"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LNU"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LNW"
+msgstr "Polskera"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LOC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.LOF"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LOG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LOH"
+msgstr "Maori"
+
+msgid "ISO_639-3.LOL"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LPO"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LRA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LRC"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LRE"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRK"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRL"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRM"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.LRN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LRO"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.LSD"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LSH"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.LSI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LSM"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.LSS"
+msgstr "Maori"
+
+msgid "ISO_639-3.LSY"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.LTI"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LTN"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LTO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.LTS"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.LTU"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LUD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LUF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LUM"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LUS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.LUV"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LVS"
+msgstr "Txinera"
+
+msgid "ISO_639-3.LWG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.LWH"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LWM"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.LYG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.LYN"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.LZH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.LZN"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MAD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.MBC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MBF"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.MBK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBP"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MCA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCM"
+msgstr "Portugesa (Brasil)"
+
+msgid "ISO_639-3.MCN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCT"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDH"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MDM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MDN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MDW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MEC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.MEM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MES"
+msgstr "Maori"
+
+msgid "ISO_639-3.MET"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFA"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.MFB"
+msgstr "Euskara"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MFH"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.MFI"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.MFK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MFL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.MFP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFT"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MFY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.MGB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MGF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MGG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.MGK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MGN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGP"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Italiera"
+
+msgid "ISO_639-3.MGT"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MGU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGV"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MHA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MHB"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MHC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MHE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.MHF"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MHK"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.MHP"
+msgstr "Txinera"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MHS"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MHX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MID"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.MIK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJL"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJR"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MJV"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MJW"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.MJX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJY"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKA"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.MKD"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MKE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MKR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MKV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKY"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.MLK"
+msgstr "Italiera"
+
+msgid "ISO_639-3.MLN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MLP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MLS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MLV"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMD"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MME"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MMU"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.MMV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MNI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.MNL"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.MNM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MNP"
+msgstr "Txinera"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.MNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MNW"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MOE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MON"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MOO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MOW"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MOX"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MPA"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MPD"
+msgstr "Txinera"
+
+msgid "ISO_639-3.MPG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MPH"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MPI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MPT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MPV"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.MPW"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MPY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MQC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MQE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQP"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MQR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MQU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MRR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSL"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MSS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MSV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTL"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MTR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MTY"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MUO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MUP"
+msgstr "Polskera"
+
+msgid "ISO_639-3.MUR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MUS"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MUX"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVF"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MVO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MVU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.MWI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MWK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.MWL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.MWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWT"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MWV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWX"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MWY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MXD"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MXF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.MXK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MXN"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MXR"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.MXW"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.MXX"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.MYG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYI"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.MYL"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.MYS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.MYX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYY"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.MZE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZP"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.MZS"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.MZT"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZV"
+msgstr "Maori"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.NAL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.NAN"
+msgstr "Txinera"
+
+msgid "ISO_639-3.NAW"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NAX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NBB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NBC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NBH"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NBN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NBP"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NBU"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NBY"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NCB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NCC"
+msgstr "XChat"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.NCF"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NCH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NDA"
+msgstr "Euskara"
+
+msgid "ISO_639-3.NDC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDF"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.NDH"
+msgstr "Polskera"
+
+msgid "ISO_639-3.NDM"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDP"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDS"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.NDT"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NEF"
+msgstr "Mahastiak"
+
+msgid "ISO_639-3.NEG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NEP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NER"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NES"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NEU"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.NFD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NGO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NGX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NGY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NHA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NHB"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.NHE"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.NHH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NHO"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NIB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NID"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NIO"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NIR"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.NIX"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.NIY"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NJI"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.NJN"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NKA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NKB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NKC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NKD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NKG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NKI"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NKO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NKU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.NLD"
+msgstr "Nederlandera"
+
+msgid "ISO_639-3.NLG"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.NLI"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Polskera"
+
+msgid "ISO_639-3.NLL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NLW"
+msgstr "Maori"
+
+msgid "ISO_639-3.NLX"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Polskera"
+
+msgid "ISO_639-3.NMA"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.NMB"
+msgstr "Euskara"
+
+msgid "ISO_639-3.NMC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NMF"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NMG"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NMR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NMV"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NMW"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NNF"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NNG"
+msgstr "Maori"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norvegiera (Nynorsk)"
+
+msgid "ISO_639-3.NNY"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norvegiera (Bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NOF"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.NOG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NOI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NOL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NON"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NPG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NPI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NPN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.NQM"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.NQY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.NRC"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NRN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NRR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NRT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NRU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.NSA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NSC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NSE"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.NSG"
+msgstr "Euskara"
+
+msgid "ISO_639-3.NSK"
+msgstr "Maori"
+
+msgid "ISO_639-3.NSN"
+msgstr "XChat"
+
+msgid "ISO_639-3.NSS"
+msgstr "Polskera"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.NSX"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NSY"
+msgstr "Euskara"
+
+msgid "ISO_639-3.NTD"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.NTG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NTX"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.NTY"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.NUA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.NUD"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NUG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NUH"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NUN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.NUX"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.NVH"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.NWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.NXI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.NXO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NXX"
+msgstr "Maori"
+
+msgid "ISO_639-3.NYA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NYF"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.NYH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NYR"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.NYS"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.OAR"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.OBR"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.OCA"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.OCH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.OCO"
+msgstr "Irlandera"
+
+msgid "ISO_639-3.ODT"
+msgstr "Nederlandera"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.OGE"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.OGO"
+msgstr "XChat"
+
+msgid "ISO_639-3.OHU"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.OIA"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.OKD"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.OKK"
+msgstr "Tamil"
+
+msgid "ISO_639-3.OKL"
+msgstr "Britainiar zeinu hizkuntza"
+
+msgid "ISO_639-3.OKR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.OKV"
+msgstr "Kroaziera"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maori"
+
+msgid "ISO_639-3.OLR"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.OMN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.OMP"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.OMR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ONB"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.ONP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ONR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ONW"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.OOS"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.ORC"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.ORI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ORT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ORV"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.OSC"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.OSI"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.OSP"
+msgstr "Espainiera, Zaharra"
+
+msgid "ISO_639-3.OSS"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.OSX"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.OTB"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.OTD"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.OWL"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.OYM"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.PAG"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PAH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PAO"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PAR"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PAS"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.PAY"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.PBI"
+msgstr "Maori"
+
+msgid "ISO_639-3.PBN"
+msgstr "Euskara"
+
+msgid "ISO_639-3.PBO"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PBR"
+msgstr "Maori"
+
+msgid "ISO_639-3.PCF"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PCG"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PCH"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.PCI"
+msgstr "Maori"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.PCL"
+msgstr "Maori"
+
+msgid "ISO_639-3.PDI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PDN"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.PDU"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PEA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.PEE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.PEG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.PEH"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PEK"
+msgstr "Frantsesa"
+
+msgid "ISO_639-3.PEL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PES"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.PFL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PGG"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PGI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.PGS"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Australiar zeinu hizkuntza"
+
+msgid "ISO_639-3.PHH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.PHN"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.PHQ"
+msgstr "XChat"
+
+msgid "ISO_639-3.PHT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PHU"
+msgstr "XChat"
+
+msgid "ISO_639-3.PHV"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PIC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PII"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PIM"
+msgstr "Kroaziera"
+
+msgid "ISO_639-3.PIP"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.PIV"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PKT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PLA"
+msgstr "Maori"
+
+msgid "ISO_639-3.PLD"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLE"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLH"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLP"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLU"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.PMB"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PMD"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PMK"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PMS"
+msgstr "Mahastiak"
+
+msgid "ISO_639-3.PMY"
+msgstr "Txinera"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.PNC"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.PNG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PNL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PNP"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PNR"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PNS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PNT"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.PNX"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.PNY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.POC"
+msgstr "XChat"
+
+msgid "ISO_639-3.POL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PON"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugesa"
+
+msgid "ISO_639-3.POX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.PPE"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PPI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.PPT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PRB"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.PRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.PRF"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PRG"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.PRI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PRM"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.PRP"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PRR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.PRT"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PRU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.PRW"
+msgstr "Txinera"
+
+msgid "ISO_639-3.PSH"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.PSI"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.PSN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Polskera"
+
+msgid "ISO_639-3.PTN"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.PTR"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PTU"
+msgstr "Euskara"
+
+msgid "ISO_639-3.PTY"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.PUT"
+msgstr "Nederlandera"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugesa"
+
+msgid "ISO_639-3.PUX"
+msgstr "Koreera"
+
+msgid "ISO_639-3.PWA"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PWB"
+msgstr "Maori"
+
+msgid "ISO_639-3.PWN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.PWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.PYS"
+msgstr "Australiar zeinu hizkuntza"
+
+msgid "ISO_639-3.PZN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.QYP"
+msgstr "Maori"
+
+msgid "ISO_639-3.RAC"
+msgstr "Euskara"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.RAG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.RAL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.RAN"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.RAR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RAS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.RAX"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RES"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.RGA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RGN"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RHG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RHP"
+msgstr "XChat"
+
+msgid "ISO_639-3.RIA"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RJG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RJI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.RKI"
+msgstr "Txinera"
+
+msgid "ISO_639-3.RKM"
+msgstr "Maori"
+
+msgid "ISO_639-3.RKT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.RMA"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMB"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.RMI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.RMK"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RML"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMM"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMO"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.RMU"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMV"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMW"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMX"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMY"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.RNG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RNL"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RNN"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RNP"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.RNR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ROD"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.ROE"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.ROG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ROH"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.ROL"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.ROM"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RON"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.ROR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.RPT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.RRI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.RSB"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RSM"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.RTC"
+msgstr "Txinera"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.RTM"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.RUC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.RUE"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.RUG"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RUK"
+msgstr "Txinera"
+
+msgid "ISO_639-3.RUO"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RUP"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RUS"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.RWO"
+msgstr "Maori"
+
+msgid "ISO_639-3.RWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.RXD"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.RXW"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAB"
+msgstr "Txinera"
+
+msgid "ISO_639-3.SAC"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAE"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SAK"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SAM"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SAO"
+msgstr "Koreera"
+
+msgid "ISO_639-3.SAU"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SAX"
+msgstr "XChat"
+
+msgid "ISO_639-3.SAY"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SBE"
+msgstr "Italiera"
+
+msgid "ISO_639-3.SBL"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SBY"
+msgstr "Polskera"
+
+msgid "ISO_639-3.SCE"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SCH"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SCK"
+msgstr "Maori"
+
+msgid "ISO_639-3.SCL"
+msgstr "XChat"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SCV"
+msgstr "XChat"
+
+msgid "ISO_639-3.SCW"
+msgstr "XChat"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SDB"
+msgstr "XChat"
+
+msgid "ISO_639-3.SDC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SDF"
+msgstr "Polskera"
+
+msgid "ISO_639-3.SDH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SDK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SDN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SDR"
+msgstr "Maori"
+
+msgid "ISO_639-3.SED"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SEH"
+msgstr "XChat"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SEK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SET"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SFE"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SGB"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.SGC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SGE"
+msgstr "XChat"
+
+msgid "ISO_639-3.SGK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SGM"
+msgstr "XChat"
+
+msgid "ISO_639-3.SGR"
+msgstr "XChat"
+
+msgid "ISO_639-3.SGS"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.SGY"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHC"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SHE"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHG"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHH"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHJ"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHL"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHN"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHO"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.SHR"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHT"
+msgstr "XChat"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SHW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SHY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SIB"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.SIH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SIN"
+msgstr "Mahastiak"
+
+msgid "ISO_639-3.SIQ"
+msgstr "XChat"
+
+msgid "ISO_639-3.SIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SIU"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SIX"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SJP"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SJW"
+msgstr "XChat"
+
+msgid "ISO_639-3.SKB"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SKC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SKH"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SKI"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SKK"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SKM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SKR"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SKS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SKY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SLE"
+msgstr "XChat"
+
+msgid "ISO_639-3.SLI"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.SLK"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SLN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SLU"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.SLV"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SMB"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SME"
+msgstr "Koreera"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SMK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.SMN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SMP"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SMU"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.SMY"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SNA"
+msgstr "XChat"
+
+msgid "ISO_639-3.SNF"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.SNH"
+msgstr "XChat"
+
+msgid "ISO_639-3.SNK"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SNL"
+msgstr "XChat"
+
+msgid "ISO_639-3.SNN"
+msgstr "XChat"
+
+msgid "ISO_639-3.SNO"
+msgstr "Gaztelera"
+
+msgid "ISO_639-3.SNP"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.SNR"
+msgstr "XChat"
+
+msgid "ISO_639-3.SNU"
+msgstr "XChat"
+
+msgid "ISO_639-3.SNV"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SOA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SOD"
+msgstr "XChat"
+
+msgid "ISO_639-3.SOG"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.SOH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SOI"
+msgstr "XChat"
+
+msgid "ISO_639-3.SOJ"
+msgstr "XChat"
+
+msgid "ISO_639-3.SOO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SOP"
+msgstr "XChat"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SOR"
+msgstr "XChat"
+
+msgid "ISO_639-3.SOS"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.SOW"
+msgstr "XChat"
+
+msgid "ISO_639-3.SOX"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamil"
+
+msgid "ISO_639-3.SPA"
+msgstr "Espainiera"
+
+msgid "ISO_639-3.SPB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.SPG"
+msgstr "XChat"
+
+msgid "ISO_639-3.SPI"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SPK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SPS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.SPU"
+msgstr "Gaztelera"
+
+msgid "ISO_639-3.SPV"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SQH"
+msgstr "XChat"
+
+msgid "ISO_639-3.SQI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SQK"
+msgstr "Algeriar zeinu hizkuntza"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.SQU"
+msgstr "Gaztelera"
+
+msgid "ISO_639-3.SRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRB"
+msgstr "XChat"
+
+msgid "ISO_639-3.SRC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SRD"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SRE"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SRF"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SRO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SSD"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.SSE"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.SSF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.SSI"
+msgstr "Gaztelera"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SSK"
+msgstr "XChat"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SSN"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.SSP"
+msgstr "Espainiar zeinu hizkuntza"
+
+msgid "ISO_639-3.SSQ"
+msgstr "XChat"
+
+msgid "ISO_639-3.SST"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.SSU"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.SSY"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.STB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.STD"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.STH"
+msgstr "XChat"
+
+msgid "ISO_639-3.STK"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.STM"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.STO"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SUX"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SVA"
+msgstr "XChat"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SVX"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.SWE"
+msgstr "Suediera"
+
+msgid "ISO_639-3.SWF"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SWK"
+msgstr "Txinera"
+
+msgid "ISO_639-3.SWM"
+msgstr "Euskara"
+
+msgid "ISO_639-3.SWO"
+msgstr "XChat"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SWS"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.SWW"
+msgstr "XChat"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SXM"
+msgstr "Koreera"
+
+msgid "ISO_639-3.SXN"
+msgstr "XChat"
+
+msgid "ISO_639-3.SXS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.SYA"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.SYB"
+msgstr "Koreera"
+
+msgid "ISO_639-3.SYM"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.SYR"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SYX"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.SZN"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-3.SZW"
+msgstr "Maori"
+
+msgid "ISO_639-3.TAA"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.TAD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TAE"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TAG"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TAH"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TAJ"
+msgstr "Austriar zeinu hizkuntza"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAU"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.TAW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TBA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TBC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TBG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TBI"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TBO"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.TBX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TCC"
+msgstr "Maori"
+
+msgid "ISO_639-3.TCD"
+msgstr "Txinera"
+
+msgid "ISO_639-3.TCP"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.TDB"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TDI"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TEC"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TEH"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.TEK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TEY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TFN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.TGB"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.TGC"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TGD"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Daniera"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TGN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TGR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TGX"
+msgstr "Daniera"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.THA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.THE"
+msgstr "Txinera"
+
+msgid "ISO_639-3.THF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.THN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.THR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.THS"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.THT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.THU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.THW"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.THY"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TIC"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TIG"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TII"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TIK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TIM"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TIN"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TIP"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TIU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TJL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TKB"
+msgstr "Txinera"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TLH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TLK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TLO"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TLR"
+msgstr "Txinera"
+
+msgid "ISO_639-3.TLT"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TLX"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.TMC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TMD"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TMN"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TMW"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TNG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TNH"
+msgstr "Maori"
+
+msgid "ISO_639-3.TNI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TOD"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.TOH"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TOW"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.TOX"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.TPF"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TQL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.TRD"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TRE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TRR"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.TRT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TSV"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TSX"
+msgstr "Maori"
+
+msgid "ISO_639-3.TTB"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.TTG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.TTI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TTR"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TTV"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TTW"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TUI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TVO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TVW"
+msgstr "XChat"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.TWE"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.TWF"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TWL"
+msgstr "Maori"
+
+msgid "ISO_639-3.TWM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.TWN"
+msgstr "Suediera"
+
+msgid "ISO_639-3.TWU"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.TWW"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.TXA"
+msgstr "Ingelera - EB"
+
+msgid "ISO_639-3.TXB"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.TXH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TXM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TXN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.TXR"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TXX"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.TYE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TYN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.TZH"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TZL"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.TZO"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.TZX"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.UAN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.UDG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.UDL"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.UGO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.UHA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamil"
+
+msgid "ISO_639-3.UIS"
+msgstr "Maori"
+
+msgid "ISO_639-3.UKA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ULI"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.ULK"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.ULW"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.UMC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.UMN"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.UNG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.UNN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.UNR"
+msgstr "Maori"
+
+msgid "ISO_639-3.UNU"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.UNX"
+msgstr "Maori"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.URF"
+msgstr "Maori"
+
+msgid "ISO_639-3.URG"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.URL"
+msgstr "Polskera"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.URT"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.VAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Txinera"
+
+msgid "ISO_639-3.VAN"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.VAS"
+msgstr "Maori"
+
+msgid "ISO_639-3.VAV"
+msgstr "Polskera"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.VEC"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.VER"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.VGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.VIE"
+msgstr "Mahastiak"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.VKK"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.VKO"
+msgstr "Koreera"
+
+msgid "ISO_639-3.VKP"
+msgstr "Portugesa (Brasil)"
+
+msgid "ISO_639-3.VLP"
+msgstr "Polskera"
+
+msgid "ISO_639-3.VMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.VMB"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.VMD"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.VME"
+msgstr "Koreera"
+
+msgid "ISO_639-3.VMG"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.VMH"
+msgstr "Maori"
+
+msgid "ISO_639-3.VML"
+msgstr "Maori"
+
+msgid "ISO_639-3.VMR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.VNK"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.VRA"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.WAE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WAI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WAL"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.WAN"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WAO"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.WAS"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WAV"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.WAX"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WBA"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WBB"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WBF"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WBI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.WBK"
+msgstr "Maori"
+
+msgid "ISO_639-3.WBL"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WDK"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.WEH"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WET"
+msgstr "Polskera"
+
+msgid "ISO_639-3.WEU"
+msgstr "Txinera"
+
+msgid "ISO_639-3.WGI"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WHG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WHU"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WII"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.WJA"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WJI"
+msgstr "Maori"
+
+msgid "ISO_639-3.WKB"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.WKL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WKU"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.WLA"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WLE"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WLG"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.WLI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.WLK"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WLN"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WLR"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.WLW"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WLY"
+msgstr "Italiera"
+
+msgid "ISO_639-3.WMC"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WMD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamil"
+
+msgid "ISO_639-3.WMM"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.WMS"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WMW"
+msgstr "Maori"
+
+msgid "ISO_639-3.WMX"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.WNN"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.WNO"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WOC"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.WOD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WOE"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.WOF"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.WOK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.WON"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRK"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRN"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.WRO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.WRP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.WSI"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.WSK"
+msgstr "Euskara"
+
+msgid "ISO_639-3.WSS"
+msgstr "Euskara"
+
+msgid "ISO_639-3.WSU"
+msgstr "Web Zuhaitza"
+
+msgid "ISO_639-3.WTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.WUU"
+msgstr "Txinera"
+
+msgid "ISO_639-3.WWA"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WWB"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.WWW"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.WXW"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XAC"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XAD"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.XAE"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.XAG"
+msgstr "XChat"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.XAL"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.XAO"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.XAR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XAU"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.XBD"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.XBE"
+msgstr "Euskara"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretoiera"
+
+msgid "ISO_639-3.XBN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.XBY"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.XCL"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.XCO"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.XCR"
+msgstr "Maori"
+
+msgid "ISO_639-3.XCU"
+msgstr "Kroaziera"
+
+msgid "ISO_639-3.XCY"
+msgstr "Txinera"
+
+msgid "ISO_639-3.XDA"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.XDY"
+msgstr "Txinera"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.XGD"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.XGG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XGI"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galiziera"
+
+msgid "ISO_639-3.XGM"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XGR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.XHA"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.XHE"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XHO"
+msgstr "XChat"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XHU"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.XHV"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XIB"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XII"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XIL"
+msgstr "Italiera"
+
+msgid "ISO_639-3.XIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XIS"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XJT"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XKE"
+msgstr "Hebraira"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Polskera"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XKT"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.XKX"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XLC"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.XLD"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.XLE"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.XLI"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.XLN"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XLS"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.XMB"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XME"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XMF"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMU"
+msgstr "Txinera"
+
+msgid "ISO_639-3.XMX"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XNG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XNH"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XNI"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.XNK"
+msgstr "Hungariera"
+
+msgid "ISO_639-3.XNN"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XNR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XNS"
+msgstr "Daniera"
+
+msgid "ISO_639-3.XNT"
+msgstr "Maori"
+
+msgid "ISO_639-3.XOD"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XOG"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.XON"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XOP"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XOW"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XPA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XPC"
+msgstr "Txekiera"
+
+msgid "ISO_639-3.XPG"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XPI"
+msgstr "Polskera"
+
+msgid "ISO_639-3.XPR"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XPS"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XQA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XQT"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XRE"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.XRG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.XRN"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XRU"
+msgstr "Maori"
+
+msgid "ISO_639-3.XRW"
+msgstr "Maori"
+
+msgid "ISO_639-3.XSB"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XSC"
+msgstr "XChat"
+
+msgid "ISO_639-3.XSE"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.XSH"
+msgstr "XChat"
+
+msgid "ISO_639-3.XSL"
+msgstr "Britainiar zeinu hizkuntza"
+
+msgid "ISO_639-3.XSM"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XSO"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.XSS"
+msgstr "Errusiera"
+
+msgid "ISO_639-3.XSV"
+msgstr "Eslovaniera"
+
+msgid "ISO_639-3.XTO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XTV"
+msgstr "Maori"
+
+msgid "ISO_639-3.XTW"
+msgstr "Maori"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.XUM"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.XUR"
+msgstr "Kroaziera"
+
+msgid "ISO_639-3.XUU"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XVI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.XVO"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.XWA"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.XWC"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.XWK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XXB"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.XXR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XXT"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.XYB"
+msgstr "Maori"
+
+msgid "ISO_639-3.XYL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.XZM"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YAK"
+msgstr "Maori"
+
+msgid "ISO_639-3.YAN"
+msgstr "Maori"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.YBA"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Euskara"
+
+msgid "ISO_639-3.YBK"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.YBM"
+msgstr "Koreera"
+
+msgid "ISO_639-3.YCH"
+msgstr "Txinera"
+
+msgid "ISO_639-3.YCL"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.YCP"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.YDA"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.YEC"
+msgstr "Frantsesa"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Islandiera"
+
+msgid "ISO_639-3.YER"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.YES"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.YGA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YGI"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.YGP"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.YGS"
+msgstr "Algeriar zeinu hizkuntza"
+
+msgid "ISO_639-3.YGW"
+msgstr "Maori"
+
+msgid "ISO_639-3.YHA"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.YHD"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.YHS"
+msgstr "Espainiar zeinu hizkuntza"
+
+msgid "ISO_639-3.YIF"
+msgstr "Txinera"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.YIM"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.YIP"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.YIU"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.YIX"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.YKA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.YKL"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.YKM"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.YKO"
+msgstr "Euskara"
+
+msgid "ISO_639-3.YKT"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.YKU"
+msgstr "Euskara"
+
+msgid "ISO_639-3.YLB"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japoniera"
+
+msgid "ISO_639-3.YMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMH"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMO"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.YMR"
+msgstr "Koreera"
+
+msgid "ISO_639-3.YMS"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.YNE"
+msgstr "Kroazia"
+
+msgid "ISO_639-3.YNG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YNO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.YOG"
+msgstr "Estoniera"
+
+msgid "ISO_639-3.YOI"
+msgstr "Koreera"
+
+msgid "ISO_639-3.YOL"
+msgstr "Koreera"
+
+msgid "ISO_639-3.YON"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YPA"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.YPG"
+msgstr "Polskera"
+
+msgid "ISO_639-3.YPH"
+msgstr "XChat"
+
+msgid "ISO_639-3.YPM"
+msgstr "Maori"
+
+msgid "ISO_639-3.YPO"
+msgstr "Polskera"
+
+msgid "ISO_639-3.YPP"
+msgstr "XChat"
+
+msgid "ISO_639-3.YPZ"
+msgstr "XChat"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katalaniera"
+
+msgid "ISO_639-3.YSD"
+msgstr "Serbiera"
+
+msgid "ISO_639-3.YSN"
+msgstr "Gaztelera"
+
+msgid "ISO_639-3.YSY"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.YTA"
+msgstr "Tamil"
+
+msgid "ISO_639-3.YTL"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YTP"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.YUC"
+msgstr "Nederlandera"
+
+msgid "ISO_639-3.YUD"
+msgstr "Arabiarra"
+
+msgid "ISO_639-3.YUE"
+msgstr "Txinera"
+
+msgid "ISO_639-3.YUT"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.YVA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.YXA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.YZG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.YZK"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "Waloiera"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Alemaniera"
+
+msgid "ISO_639-3.ZGB"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZGM"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZGN"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZHA"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZHD"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ZHN"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ZHW"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ukrainiarra"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Bulgariera"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Triangelua"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Errumaniera"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Tailandiera"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lituaniarra"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZML"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ZQE"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Grekoa"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Koreera"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Turkiera"
+
+msgid "ISO_639-3.ZYB"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZYG"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZYN"
+msgstr "XChat"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Txinera"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "XChat"

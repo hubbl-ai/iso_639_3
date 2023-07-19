@@ -1,0 +1,8665 @@
+# Romanian translation of ISO 639 Language names
+# Copyright (C) 2000, 2001 Free Software Foundation, Inc.
+# Mişu Moldovan <dumol@go.ro>, 2000, 2001.
+# Alastair McKinstry <mckinstry@debian.org>, 2004
+#  - translations from ICU-3.0
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-11-16 03:03+0200\n"
+"Last-Translator:  Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Romanian <gnomero-list@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Creation-Date: 2000-09-24 15:45+0300\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AAG"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AAK"
+msgstr "Bură"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.AAW"
+msgstr "Caută"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ABD"
+msgstr "Man"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ABW"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ACE"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.ACI"
+msgstr "Margini"
+
+msgid "ISO_639-3.ACN"
+msgstr "Caută"
+
+msgid "ISO_639-3.ACR"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ADL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.ADN"
+msgstr "Caută"
+
+msgid "ISO_639-3.ADY"
+msgstr "Caută"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AEU"
+msgstr "Bură"
+
+msgid "ISO_639-3.AEW"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Bură"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AFD"
+msgstr "Caută"
+
+msgid "ISO_639-3.AFK"
+msgstr "Caută"
+
+msgid "ISO_639-3.AFP"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.AFR"
+msgstr "Bură"
+
+msgid "ISO_639-3.AGA"
+msgstr "Bură"
+
+msgid "ISO_639-3.AGB"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AGE"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AGH"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.AGI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.AGM"
+msgstr "Catalană"
+
+msgid "ISO_639-3.AGO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.AGW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.AHA"
+msgstr "Bură"
+
+msgid "ISO_639-3.AHK"
+msgstr "Bură"
+
+msgid "ISO_639-3.AHR"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AIA"
+msgstr "Margini"
+
+msgid "ISO_639-3.AIC"
+msgstr "Caută"
+
+msgid "ISO_639-3.AIE"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.AIR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.AIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AIW"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AIX"
+msgstr "Bură"
+
+msgid "ISO_639-3.AJN"
+msgstr "Caută"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.AKA"
+msgstr "Bură"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.AKF"
+msgstr "Bură"
+
+msgid "ISO_639-3.AKK"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.AKL"
+msgstr "Bură"
+
+msgid "ISO_639-3.AKM"
+msgstr "Bură"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Bură"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AKW"
+msgstr "Bură"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ALD"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ALH"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovacă"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.AMC"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AMH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AML"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AMN"
+msgstr "Bură"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AMY"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ANC"
+msgstr "Caută"
+
+msgid "ISO_639-3.ANI"
+msgstr "Caută"
+
+msgid "ISO_639-3.ANK"
+msgstr "Germană"
+
+msgid "ISO_639-3.ANN"
+msgstr "de la:"
+
+msgid "ISO_639-3.ANP"
+msgstr "Bură"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.ANR"
+msgstr "Caută"
+
+msgid "ISO_639-3.ANS"
+msgstr "Germană"
+
+msgid "ISO_639-3.ANW"
+msgstr "Caută"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.AOD"
+msgstr "Man"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.AOR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.AOS"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.APB"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.APD"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.APF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.APG"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.APH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.API"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.APW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AQC"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.AQT"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Bură"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ARG"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ARI"
+msgstr "Bură"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Bură"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ARN"
+msgstr "Man"
+
+msgid "ISO_639-3.ARO"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arabic"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.ASK"
+msgstr "Bură"
+
+msgid "ISO_639-3.ASO"
+msgstr "Adresă"
+
+msgid "ISO_639-3.AST"
+msgstr "Estoniană"
+
+msgid "ISO_639-3.ATB"
+msgstr "Caută"
+
+msgid "ISO_639-3.ATN"
+msgstr "Estoniană"
+
+msgid "ISO_639-3.ATR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AUB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.AUK"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.AUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Engleză"
+
+msgid "ISO_639-3.AUR"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AVA"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AVB"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AVI"
+msgstr "Bură"
+
+msgid "ISO_639-3.AVK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AVN"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AVS"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AWX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AXL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AYA"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.AYH"
+msgstr "Caută"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabic"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.AZA"
+msgstr "Bură"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azeră"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azeră"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azeră"
+
+msgid "ISO_639-3.BAG"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BAN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BAY"
+msgstr "Bască"
+
+msgid "ISO_639-3.BBB"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BBD"
+msgstr "Bască"
+
+msgid "ISO_639-3.BBE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BBF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arabic"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BBI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BBL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.BBV"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BBW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BBY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BCF"
+msgstr "Bască"
+
+msgid "ISO_639-3.BCG"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BCK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BCO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Franceză"
+
+msgid "ISO_639-3.BCR"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BCT"
+msgstr "Caută"
+
+msgid "ISO_639-3.BCW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BCY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDE"
+msgstr "Bască"
+
+msgid "ISO_639-3.BDF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BDG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BDK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.BDO"
+msgstr "Margini"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Man"
+
+msgid "ISO_639-3.BDU"
+msgstr "de la:"
+
+msgid "ISO_639-3.BDW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BEG"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BEH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BEK"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BEL"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BEN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BEO"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BEP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BES"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BEW"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BFA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BFC"
+msgstr "Man"
+
+msgid "ISO_639-3.BFG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BFR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BFT"
+msgstr "Caută"
+
+msgid "ISO_639-3.BFU"
+msgstr "Margini"
+
+msgid "ISO_639-3.BFW"
+msgstr "Caută"
+
+msgid "ISO_639-3.BFX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BGG"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BGR"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.BGW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BGY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BHA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BHB"
+msgstr "Caută"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BHD"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BHE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHF"
+msgstr "Opera"
+
+msgid "ISO_639-3.BHG"
+msgstr "Fals"
+
+msgid "ISO_639-3.BHH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BHI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BHL"
+msgstr "Caută"
+
+msgid "ISO_639-3.BHM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BHR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BHV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BHX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.BIB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BIC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BID"
+msgstr "Caută"
+
+msgid "ISO_639-3.BIG"
+msgstr "Caută"
+
+msgid "ISO_639-3.BIN"
+msgstr "Caută"
+
+msgid "ISO_639-3.BIO"
+msgstr "Caută"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BIR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BIT"
+msgstr "de la:"
+
+msgid "ISO_639-3.BIU"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BIX"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BIY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BJB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BJC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BJH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BJN"
+msgstr "Man"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BJS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BJV"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BJY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.BKD"
+msgstr "Caută"
+
+msgid "ISO_639-3.BKF"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BKI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BKS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BKT"
+msgstr "Caută"
+
+msgid "ISO_639-3.BKX"
+msgstr "Adresă"
+
+msgid "ISO_639-3.BLG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BLH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BLI"
+msgstr "Caută"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BLL"
+msgstr "Caută"
+
+msgid "ISO_639-3.BLR"
+msgstr "Caută"
+
+msgid "ISO_639-3.BLS"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BMD"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BMH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BMI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BMO"
+msgstr "Catalană"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BMR"
+msgstr "Fals"
+
+msgid "ISO_639-3.BMS"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BMX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BNB"
+msgstr "Română"
+
+msgid "ISO_639-3.BNC"
+msgstr "Caută"
+
+msgid "ISO_639-3.BND"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.BNF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BNG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BNI"
+msgstr "Caută"
+
+msgid "ISO_639-3.BNK"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.BNL"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Adresă"
+
+msgid "ISO_639-3.BNU"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BNW"
+msgstr "Caută"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.BOA"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BOB"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.BOF"
+msgstr "Caută"
+
+msgid "ISO_639-3.BOH"
+msgstr "Română"
+
+msgid "ISO_639-3.BOM"
+msgstr "de la:"
+
+msgid "ISO_639-3.BON"
+msgstr "Caută"
+
+msgid "ISO_639-3.BOP"
+msgstr "Română"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BOS"
+msgstr "Română"
+
+msgid "ISO_639-3.BOU"
+msgstr "Caută"
+
+msgid "ISO_639-3.BOW"
+msgstr "Română"
+
+msgid "ISO_639-3.BPA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BPH"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BPK"
+msgstr "de la:"
+
+msgid "ISO_639-3.BPO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BPP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Man"
+
+msgid "ISO_639-3.BPV"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.BQB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Man"
+
+msgid "ISO_639-3.BQP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BQS"
+msgstr "Română"
+
+msgid "ISO_639-3.BQV"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BQX"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BRF"
+msgstr "Germană"
+
+msgid "ISO_639-3.BRG"
+msgstr "Bască"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BRS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BRT"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.BRW"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BSB"
+msgstr "Caută"
+
+msgid "ISO_639-3.BSC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BSE"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BSG"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BSH"
+msgstr "Adresă"
+
+msgid "ISO_639-3.BSI"
+msgstr "Margini"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BSK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BSM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BSN"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BST"
+msgstr "Bască"
+
+msgid "ISO_639-3.BSU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BSW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BTA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japonez"
+
+msgid "ISO_639-3.BTR"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BTV"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BUC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BUG"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BUI"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BUN"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.BUO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.BUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BVA"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BVB"
+msgstr "Bască"
+
+msgid "ISO_639-3.BVC"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BVP"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BVV"
+msgstr "Română"
+
+msgid "ISO_639-3.BVW"
+msgstr "Caută"
+
+msgid "ISO_639-3.BVY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BWD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BWG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BWI"
+msgstr "Română"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Caută"
+
+msgid "ISO_639-3.BXA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BXG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.BXM"
+msgstr "Coreean"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BXS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BYA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BYB"
+msgstr "Opera"
+
+msgid "ISO_639-3.BYF"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BYH"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BYM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BYN"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BYR"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.BYW"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Man"
+
+msgid "ISO_639-3.BZA"
+msgstr "Caută"
+
+msgid "ISO_639-3.BZB"
+msgstr "Caută"
+
+msgid "ISO_639-3.BZD"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BZF"
+msgstr "Română"
+
+msgid "ISO_639-3.BZG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZI"
+msgstr "Bască"
+
+msgid "ISO_639-3.BZO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.BZR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.BZT"
+msgstr "Caută"
+
+msgid "ISO_639-3.BZU"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.BZV"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Adresă"
+
+msgid "ISO_639-3.CAC"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CAF"
+msgstr "Margini"
+
+msgid "ISO_639-3.CAH"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CAK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.CAL"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.CAN"
+msgstr "Margini"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galeon"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.CAT"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CBC"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CBD"
+msgstr "Margini"
+
+msgid "ISO_639-3.CBI"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CBK"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CBL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.CBV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CBW"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.CBY"
+msgstr "Margini"
+
+msgid "ISO_639-3.CCA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CCG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CCM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CDA"
+msgstr "Culori"
+
+msgid "ISO_639-3.CDE"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CDG"
+msgstr "Margini"
+
+msgid "ISO_639-3.CDI"
+msgstr "Culori"
+
+msgid "ISO_639-3.CDO"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CDY"
+msgstr "Culori"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.CEA"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.CEN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CES"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CFD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CFM"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.CHC"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CHE"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CHK"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CHM"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.CHX"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CIE"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CIK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.CIM"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.CIP"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CIR"
+msgstr "Caută"
+
+msgid "ISO_639-3.CIY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.CJI"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CJK"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.CJV"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CJY"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CKB"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.CKL"
+msgstr "Margini"
+
+msgid "ISO_639-3.CKN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CKT"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CKV"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arabic"
+
+msgid "ISO_639-3.CLE"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CLL"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CLT"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CLU"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CME"
+msgstr "Germană"
+
+msgid "ISO_639-3.CML"
+msgstr "Catalană"
+
+msgid "ISO_639-3.CMN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CNG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.CNH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.CNL"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CNO"
+msgstr "Culori"
+
+msgid "ISO_639-3.CNW"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CNX"
+msgstr "Culori"
+
+msgid "ISO_639-3.COE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.COO"
+msgstr "de la:"
+
+msgid "ISO_639-3.COR"
+msgstr "Culori"
+
+msgid "ISO_639-3.COU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.COX"
+msgstr "Adresă"
+
+msgid "ISO_639-3.COZ"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CPI"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CPN"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CPX"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CRE"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.CRF"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.CRR"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.CRX"
+msgstr "Margini"
+
+msgid "ISO_639-3.CRY"
+msgstr "Culori"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CST"
+msgstr "Coreean"
+
+msgid "ISO_639-3.CSV"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CSY"
+msgstr "Baltic"
+
+msgid "ISO_639-3.CTC"
+msgstr "Cehă"
+
+msgid "ISO_639-3.CTD"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.CTG"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.CTH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CTS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.CTU"
+msgstr "Culori"
+
+msgid "ISO_639-3.CUH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CUI"
+msgstr "Margini"
+
+msgid "ISO_639-3.CUL"
+msgstr "Caută"
+
+msgid "ISO_639-3.CUU"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.CUW"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CVG"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CWB"
+msgstr "Man"
+
+msgid "ISO_639-3.CWE"
+msgstr "Altul"
+
+msgid "ISO_639-3.CZH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.CZK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.CZT"
+msgstr "Baltic"
+
+msgid "ISO_639-3.DAC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.DAD"
+msgstr "Margini"
+
+msgid "ISO_639-3.DAE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DAG"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DAM"
+msgstr "Margini"
+
+msgid "ISO_639-3.DAN"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DAO"
+msgstr "Baltic"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Man"
+
+msgid "ISO_639-3.DAR"
+msgstr "Margini"
+
+msgid "ISO_639-3.DAV"
+msgstr "Letonă"
+
+msgid "ISO_639-3.DAX"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DBA"
+msgstr "Caută"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Italiană"
+
+msgid "ISO_639-3.DBM"
+msgstr "Margini"
+
+msgid "ISO_639-3.DBO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.DEC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.DED"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DEH"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.DER"
+msgstr "Margini"
+
+msgid "ISO_639-3.DES"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.DEU"
+msgstr "Germană"
+
+msgid "ISO_639-3.DGG"
+msgstr "Caută"
+
+msgid "ISO_639-3.DGI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.DGK"
+msgstr "Margini"
+
+msgid "ISO_639-3.DGL"
+msgstr "Caută"
+
+msgid "ISO_639-3.DGN"
+msgstr "Margini"
+
+msgid "ISO_639-3.DGX"
+msgstr "Margini"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.DHG"
+msgstr "Caută"
+
+msgid "ISO_639-3.DHN"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DHO"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.DHR"
+msgstr "Margini"
+
+msgid "ISO_639-3.DHS"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DHU"
+msgstr "Margini"
+
+msgid "ISO_639-3.DHX"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.DIC"
+msgstr "Letonă"
+
+msgid "ISO_639-3.DIF"
+msgstr "Caută"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.DIR"
+msgstr "Caută"
+
+msgid "ISO_639-3.DIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DIT"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.DIU"
+msgstr "Caută"
+
+msgid "ISO_639-3.DIV"
+msgstr "Caută"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.DJE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DJI"
+msgstr "Caută"
+
+msgid "ISO_639-3.DJO"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.DJU"
+msgstr "Coreean"
+
+msgid "ISO_639-3.DKK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DKX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DLG"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.DLK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DLM"
+msgstr "Italiană"
+
+msgid "ISO_639-3.DLN"
+msgstr "Margini"
+
+msgid "ISO_639-3.DMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DML"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.DMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMX"
+msgstr "Germană"
+
+msgid "ISO_639-3.DND"
+msgstr "Man"
+
+msgid "ISO_639-3.DNG"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DNK"
+msgstr "Baltic"
+
+msgid "ISO_639-3.DNR"
+msgstr "Man"
+
+msgid "ISO_639-3.DNU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DNV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.DOH"
+msgstr "Margini"
+
+msgid "ISO_639-3.DOK"
+msgstr "Caută"
+
+msgid "ISO_639-3.DOO"
+msgstr "Margini"
+
+msgid "ISO_639-3.DOP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DOR"
+msgstr "Margini"
+
+msgid "ISO_639-3.DOT"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DOX"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.DOY"
+msgstr "de la:"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.DRB"
+msgstr "Margini"
+
+msgid "ISO_639-3.DRC"
+msgstr "Caută"
+
+msgid "ISO_639-3.DRD"
+msgstr "Opera"
+
+msgid "ISO_639-3.DRG"
+msgstr "Engleză"
+
+msgid "ISO_639-3.DRL"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DRS"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.DRY"
+msgstr "Margini"
+
+msgid "ISO_639-3.DSB"
+msgstr "Germană"
+
+msgid "ISO_639-3.DSI"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DSO"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.DTA"
+msgstr "Catalană"
+
+msgid "ISO_639-3.DTY"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.DUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.DUP"
+msgstr "Adresă"
+
+msgid "ISO_639-3.DUV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DVA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DWA"
+msgstr "Caută"
+
+msgid "ISO_639-3.DWR"
+msgstr "Adresă"
+
+msgid "ISO_639-3.DWU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DWW"
+msgstr "Margini"
+
+msgid "ISO_639-3.DWY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DYA"
+msgstr "Daneză"
+
+msgid "ISO_639-3.DZA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.DZG"
+msgstr "Margini"
+
+msgid "ISO_639-3.DZL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.EAA"
+msgstr "Coreean"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ECR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.EGL"
+msgstr "Română"
+
+msgid "ISO_639-3.EIV"
+msgstr "Bură"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.EKG"
+msgstr "Margini"
+
+msgid "ISO_639-3.EKK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japonez"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.EMN"
+msgstr "Română"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ENA"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.ENB"
+msgstr "Margini"
+
+msgid "ISO_639-3.ENG"
+msgstr "Engleză"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Catalană"
+
+msgid "ISO_639-3.ERG"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.ERH"
+msgstr "Opera"
+
+msgid "ISO_639-3.ERO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ESG"
+msgstr "Caută"
+
+msgid "ISO_639-3.EST"
+msgstr "Estoniană"
+
+msgid "ISO_639-3.ESY"
+msgstr "Coreean"
+
+msgid "ISO_639-3.EUS"
+msgstr "Bască"
+
+msgid "ISO_639-3.EYA"
+msgstr "Opera"
+
+msgid "ISO_639-3.EYO"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.FAA"
+msgstr "Bască"
+
+msgid "ISO_639-3.FAF"
+msgstr "Adresă"
+
+msgid "ISO_639-3.FAH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Letonă"
+
+msgid "ISO_639-3.FAO"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.FAP"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.FAR"
+msgstr "Catalană"
+
+msgid "ISO_639-3.FAS"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.FAT"
+msgstr "Adresă"
+
+msgid "ISO_639-3.FAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.FER"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FIN"
+msgstr "Finlandeză"
+
+msgid "ISO_639-3.FIP"
+msgstr "Caută"
+
+msgid "ISO_639-3.FIR"
+msgstr "Caută"
+
+msgid "ISO_639-3.FIW"
+msgstr "Caută"
+
+msgid "ISO_639-3.FKV"
+msgstr "Finlandeză"
+
+msgid "ISO_639-3.FLI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.FLL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.FLY"
+msgstr "Letonă"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FNG"
+msgstr "Caută"
+
+msgid "ISO_639-3.FNI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.FOM"
+msgstr "Română"
+
+msgid "ISO_639-3.FOR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.FQS"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.FRA"
+msgstr "Franceză"
+
+msgid "ISO_639-3.FRC"
+msgstr "Franceză"
+
+msgid "ISO_639-3.FRK"
+msgstr "Daneză"
+
+msgid "ISO_639-3.FRP"
+msgstr "Arabic"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FUF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FUI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.FUU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.GAB"
+msgstr "Margini"
+
+msgid "ISO_639-3.GAF"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GAH"
+msgstr "Bură"
+
+msgid "ISO_639-3.GAI"
+msgstr "Margini"
+
+msgid "ISO_639-3.GAL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.GAM"
+msgstr "Man"
+
+msgid "ISO_639-3.GAN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.GAO"
+msgstr "Adresă"
+
+msgid "ISO_639-3.GAT"
+msgstr "Baltic"
+
+msgid "ISO_639-3.GBD"
+msgstr "Margini"
+
+msgid "ISO_639-3.GBF"
+msgstr "Caută"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.GBK"
+msgstr "Caută"
+
+msgid "ISO_639-3.GBL"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GBM"
+msgstr "Margini"
+
+msgid "ISO_639-3.GBY"
+msgstr "Margini"
+
+msgid "ISO_639-3.GCC"
+msgstr "Margini"
+
+msgid "ISO_639-3.GCD"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GDI"
+msgstr "Caută"
+
+msgid "ISO_639-3.GDK"
+msgstr "Caută"
+
+msgid "ISO_639-3.GDL"
+msgstr "Daneză"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Margini"
+
+msgid "ISO_639-3.GDT"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.GDX"
+msgstr "Caută"
+
+msgid "ISO_639-3.GEA"
+msgstr "Germană"
+
+msgid "ISO_639-3.GEB"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.GEG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.GEI"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Germană"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GEW"
+msgstr "Germană"
+
+msgid "ISO_639-3.GEX"
+msgstr "Coreean"
+
+msgid "ISO_639-3.GEY"
+msgstr "Opera"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GGE"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.GGK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.GHR"
+msgstr "Germană"
+
+msgid "ISO_639-3.GHT"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.GIC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GID"
+msgstr "Caută"
+
+msgid "ISO_639-3.GIG"
+msgstr "Margini"
+
+msgid "ISO_639-3.GIL"
+msgstr "Vietnamez"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Germană"
+
+msgid "ISO_639-3.GIR"
+msgstr "Germană"
+
+msgid "ISO_639-3.GIU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GIW"
+msgstr "Germană"
+
+msgid "ISO_639-3.GJM"
+msgstr "Caută"
+
+msgid "ISO_639-3.GJN"
+msgstr "Caută"
+
+msgid "ISO_639-3.GJU"
+msgstr "Margini"
+
+msgid "ISO_639-3.GKE"
+msgstr "Caută"
+
+msgid "ISO_639-3.GKN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.GLD"
+msgstr "Caută"
+
+msgid "ISO_639-3.GLE"
+msgstr "Irlandeză"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.GLL"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.GLV"
+msgstr "Man"
+
+msgid "ISO_639-3.GMA"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.GMV"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GNB"
+msgstr "Caută"
+
+msgid "ISO_639-3.GNC"
+msgstr "Man"
+
+msgid "ISO_639-3.GNE"
+msgstr "Caută"
+
+msgid "ISO_639-3.GNH"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.GNI"
+msgstr "Caută"
+
+msgid "ISO_639-3.GNM"
+msgstr "Germană"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Man"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GOA"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GOD"
+msgstr "Caută"
+
+msgid "ISO_639-3.GOE"
+msgstr "Caută"
+
+msgid "ISO_639-3.GOF"
+msgstr "Coreean"
+
+msgid "ISO_639-3.GOK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.GON"
+msgstr "Caută"
+
+msgid "ISO_639-3.GOS"
+msgstr "Caută"
+
+msgid "ISO_639-3.GOY"
+msgstr "Caută"
+
+msgid "ISO_639-3.GPN"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GQA"
+msgstr "Man"
+
+msgid "ISO_639-3.GQU"
+msgstr "Bască"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GRG"
+msgstr "Margini"
+
+msgid "ISO_639-3.GRI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GRO"
+msgstr "Germană"
+
+msgid "ISO_639-3.GRR"
+msgstr "Adresă"
+
+msgid "ISO_639-3.GRS"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GRT"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GRU"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.GSW"
+msgstr "Germană"
+
+msgid "ISO_639-3.GUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GUR"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.GVE"
+msgstr "Olandeză"
+
+msgid "ISO_639-3.GVF"
+msgstr "Caută"
+
+msgid "ISO_639-3.GVL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GVM"
+msgstr "Germană"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.GWA"
+msgstr "Margini"
+
+msgid "ISO_639-3.GWC"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.GWE"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GWF"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GWN"
+msgstr "Man"
+
+msgid "ISO_639-3.GWR"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GWW"
+msgstr "Caută"
+
+msgid "ISO_639-3.GYB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GYE"
+msgstr "Germană"
+
+msgid "ISO_639-3.GYF"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.GYI"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.GYL"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GYR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GZI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.GZN"
+msgstr "Germană"
+
+msgid "ISO_639-3.HAC"
+msgstr "Germană"
+
+msgid "ISO_639-3.HAD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAG"
+msgstr "Caută"
+
+msgid "ISO_639-3.HAI"
+msgstr "Caută"
+
+msgid "ISO_639-3.HAJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.HAK"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.HAL"
+msgstr "Catalană"
+
+msgid "ISO_639-3.HAM"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.HAN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.HAP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAR"
+msgstr "Margini"
+
+msgid "ISO_639-3.HAS"
+msgstr "Caută"
+
+msgid "ISO_639-3.HAT"
+msgstr "Letonă"
+
+msgid "ISO_639-3.HAU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBN"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.HBO"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.HBS"
+msgstr "Croată"
+
+msgid "ISO_639-3.HBU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HDY"
+msgstr "Caută"
+
+msgid "ISO_639-3.HEB"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.HEH"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.HER"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.HGW"
+msgstr "Caută"
+
+msgid "ISO_639-3.HHR"
+msgstr "Altul"
+
+msgid "ISO_639-3.HHY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HIA"
+msgstr "Letonă"
+
+msgid "ISO_639-3.HIB"
+msgstr "Caută"
+
+msgid "ISO_639-3.HID"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HIF"
+msgstr "Caută"
+
+msgid "ISO_639-3.HIG"
+msgstr "Altul"
+
+msgid "ISO_639-3.HII"
+msgstr "Caută"
+
+msgid "ISO_639-3.HIN"
+msgstr "Caută"
+
+msgid "ISO_639-3.HIR"
+msgstr "Caută"
+
+msgid "ISO_639-3.HJI"
+msgstr "Caută"
+
+msgid "ISO_639-3.HKA"
+msgstr "Altul"
+
+msgid "ISO_639-3.HKE"
+msgstr "Caută"
+
+msgid "ISO_639-3.HLA"
+msgstr "Caută"
+
+msgid "ISO_639-3.HLB"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.HLE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arabic"
+
+msgid "ISO_639-3.HMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.HNI"
+msgstr "Caută"
+
+msgid "ISO_639-3.HNU"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.HOA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HOE"
+msgstr "de la:"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.HOM"
+msgstr "Română"
+
+msgid "ISO_639-3.HOR"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.HOW"
+msgstr "Caută"
+
+msgid "ISO_639-3.HRE"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.HRO"
+msgstr "Caută"
+
+msgid "ISO_639-3.HRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HRV"
+msgstr "Croată"
+
+msgid "ISO_639-3.HRW"
+msgstr "Margini"
+
+msgid "ISO_639-3.HRX"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.HSB"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.HSN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.HSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HTS"
+msgstr "Caută"
+
+msgid "ISO_639-3.HUB"
+msgstr "Caută"
+
+msgid "ISO_639-3.HUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUD"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.HUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUM"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.HUN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.HUO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.HUT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HWO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IAI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IAR"
+msgstr "Margini"
+
+msgid "ISO_639-3.IBD"
+msgstr "Caută"
+
+msgid "ISO_639-3.IBG"
+msgstr "Caută"
+
+msgid "ISO_639-3.IBL"
+msgstr "Italiană"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugheză"
+
+msgid "ISO_639-3.IDR"
+msgstr "Caută"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.IGB"
+msgstr "Opera"
+
+msgid "ISO_639-3.IGL"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.IGN"
+msgstr "Italiană"
+
+msgid "ISO_639-3.IGS"
+msgstr "Afişare"
+
+msgid "ISO_639-3.III"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.IJE"
+msgstr "Caută"
+
+msgid "ISO_639-3.IKR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.IKS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ILB"
+msgstr "Italiană"
+
+msgid "ISO_639-3.ILE"
+msgstr "Afişare"
+
+msgid "ISO_639-3.ILI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.ILM"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.IMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IMO"
+msgstr "Engleză"
+
+msgid "ISO_639-3.IMS"
+msgstr "Margini"
+
+msgid "ISO_639-3.IMY"
+msgstr "Man"
+
+msgid "ISO_639-3.INB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.IND"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.INH"
+msgstr "Engleză"
+
+msgid "ISO_639-3.INN"
+msgstr "Caută"
+
+msgid "ISO_639-3.IPK"
+msgstr "Indian"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.IRX"
+msgstr "Altul"
+
+msgid "ISO_639-3.IRY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ISA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estoniană"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandeză"
+
+msgid "ISO_639-3.ISM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ITA"
+msgstr "Italiană"
+
+msgid "ISO_639-3.ITD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ITE"
+msgstr "Afişare"
+
+msgid "ISO_639-3.ITK"
+msgstr "Italiană"
+
+msgid "ISO_639-3.ITR"
+msgstr "Afişare"
+
+msgid "ISO_639-3.ITV"
+msgstr "Italiană"
+
+msgid "ISO_639-3.ITY"
+msgstr "Caută"
+
+msgid "ISO_639-3.IVB"
+msgstr "Catalană"
+
+msgid "ISO_639-3.IVV"
+msgstr "Catalană"
+
+msgid "ISO_639-3.IZH"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.JAC"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.JAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arabic"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JAU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.JAV"
+msgstr "Japonez"
+
+msgid "ISO_639-3.JAY"
+msgstr "Caută"
+
+msgid "ISO_639-3.JBE"
+msgstr "Arabic"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.JCT"
+msgstr "Coreean"
+
+msgid "ISO_639-3.JDT"
+msgstr "Arabic"
+
+msgid "ISO_639-3.JEB"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.JEG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.JER"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.JET"
+msgstr "Man"
+
+msgid "ISO_639-3.JGE"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.JHI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.JKU"
+msgstr "Adresă"
+
+msgid "ISO_639-3.JLE"
+msgstr "Caută"
+
+msgid "ISO_639-3.JMC"
+msgstr "Man"
+
+msgid "ISO_639-3.JMN"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.JND"
+msgstr "Man"
+
+msgid "ISO_639-3.JNI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.JNS"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japonez"
+
+msgid "ISO_639-3.JPR"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.JRA"
+msgstr "Margini"
+
+msgid "ISO_639-3.JRB"
+msgstr "Arabic"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japonez"
+
+msgid "ISO_639-3.JUL"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.JUN"
+msgstr "Caută"
+
+msgid "ISO_639-3.JUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JUT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.JUY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JVD"
+msgstr "Man"
+
+msgid "ISO_639-3.JVN"
+msgstr "Japonez"
+
+msgid "ISO_639-3.JYE"
+msgstr "Arabic"
+
+msgid "ISO_639-3.KAD"
+msgstr "Man"
+
+msgid "ISO_639-3.KAE"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.KAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KAI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KAU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KBE"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KBI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KBL"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KBP"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KBS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KBT"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.KBU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.KBW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KBY"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Olandeză"
+
+msgid "ISO_639-3.KCC"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.KCE"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KCI"
+msgstr "Română"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KCK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KCO"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.KCP"
+msgstr "Caută"
+
+msgid "ISO_639-3.KCR"
+msgstr "Catalană"
+
+msgid "ISO_639-3.KCS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KCT"
+msgstr "Letonă"
+
+msgid "ISO_639-3.KCW"
+msgstr "Margini"
+
+msgid "ISO_639-3.KCY"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KDC"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KDE"
+msgstr "Fals"
+
+msgid "ISO_639-3.KDF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KDG"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.KDR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KDU"
+msgstr "Man"
+
+msgid "ISO_639-3.KDW"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KDY"
+msgstr "Altul"
+
+msgid "ISO_639-3.KEA"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.KED"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japonez"
+
+msgid "ISO_639-3.KEH"
+msgstr "Altul"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Man"
+
+msgid "ISO_639-3.KEN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Altul"
+
+msgid "ISO_639-3.KER"
+msgstr "Altul"
+
+msgid "ISO_639-3.KEY"
+msgstr "Indian"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.KFA"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KFD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.KFF"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KFG"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KFN"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KFR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KFS"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KFT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFV"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KFW"
+msgstr "Letonă"
+
+msgid "ISO_639-3.KFX"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KFY"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KGB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KGD"
+msgstr "Catalană"
+
+msgid "ISO_639-3.KGE"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.KGL"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.KGN"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.KGP"
+msgstr "Letonă"
+
+msgid "ISO_639-3.KGV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KGW"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KHA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KHE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KHF"
+msgstr "Altul"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KHL"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KHN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.KHO"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.KHP"
+msgstr "Margini"
+
+msgid "ISO_639-3.KHR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KHS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KHT"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KHV"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KHX"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KIB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KID"
+msgstr "Română"
+
+msgid "ISO_639-3.KIH"
+msgstr "Altul"
+
+msgid "ISO_639-3.KIL"
+msgstr "Opera"
+
+msgid "ISO_639-3.KIM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KIS"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KIW"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KIX"
+msgstr "Letonă"
+
+msgid "ISO_639-3.KJA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KJC"
+msgstr "Catalană"
+
+msgid "ISO_639-3.KJE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KJG"
+msgstr "Altul"
+
+msgid "ISO_639-3.KJO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KJR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KJY"
+msgstr "Opera"
+
+msgid "ISO_639-3.KKA"
+msgstr "Man"
+
+msgid "ISO_639-3.KKF"
+msgstr "Română"
+
+msgid "ISO_639-3.KKK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KKL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KKO"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KKT"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KKU"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KKV"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KKX"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLG"
+msgstr "Caută"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KLL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLM"
+msgstr "Margini"
+
+msgid "ISO_639-3.KLN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KLP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KLW"
+msgstr "Adresă"
+
+msgid "ISO_639-3.KLY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KMA"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KMD"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.KMH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KMK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KML"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.KMR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KMU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KMY"
+msgstr "Română"
+
+msgid "ISO_639-3.KNC"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KND"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KNE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KNF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KNI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KNK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KOC"
+msgstr "Adresă"
+
+msgid "ISO_639-3.KOD"
+msgstr "Caută"
+
+msgid "ISO_639-3.KOF"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KOG"
+msgstr "Caută"
+
+msgid "ISO_639-3.KOK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KOO"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KOR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KOS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KOT"
+msgstr "Margini"
+
+msgid "ISO_639-3.KOU"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KPD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KPH"
+msgstr "Caută"
+
+msgid "ISO_639-3.KPK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KPL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KPR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KPS"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KPY"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KQB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KQE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KQG"
+msgstr "Altul"
+
+msgid "ISO_639-3.KQM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KQR"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.KQU"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.KQW"
+msgstr "Man"
+
+msgid "ISO_639-3.KQY"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KRA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KRB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KRE"
+msgstr "Man"
+
+msgid "ISO_639-3.KRH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.KRI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KRK"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.KRL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KRM"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KRT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KRU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KRV"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KRX"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSD"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KSE"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KSF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSO"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KSR"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.KSV"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KSX"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KTA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KTD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KTF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KTH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KTK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KTM"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KUC"
+msgstr "Caută"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KUG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KUH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.KUO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KUR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KUV"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KVB"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KVC"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.KVI"
+msgstr "Caută"
+
+msgid "ISO_639-3.KVL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KVP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KVV"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KVW"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.KWC"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.KWD"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KWE"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.KWF"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KWH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.KWN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.KWP"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.KWR"
+msgstr "Altul"
+
+msgid "ISO_639-3.KWW"
+msgstr "Caută"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KXA"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KXC"
+msgstr "de la:"
+
+msgid "ISO_639-3.KXD"
+msgstr "Caută"
+
+msgid "ISO_639-3.KXJ"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.KXN"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KXP"
+msgstr "Man"
+
+msgid "ISO_639-3.KXS"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KXV"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KXW"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KXY"
+msgstr "Caută"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.KYD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KYH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KYL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KYM"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.KYO"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KYP"
+msgstr "Caută"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arabic"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.KZD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KZE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KZG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KZL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.KZM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KZN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KZO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.KZR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.KZX"
+msgstr "Română"
+
+msgid "ISO_639-3.LAB"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LAD"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LAG"
+msgstr "Caută"
+
+msgid "ISO_639-3.LAL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.LAT"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LAV"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LAY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LBA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LBC"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LBF"
+msgstr "Finlandeză"
+
+msgid "ISO_639-3.LBI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LBK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.LBM"
+msgstr "Caută"
+
+msgid "ISO_639-3.LBN"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LBO"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LBT"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LBW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LCH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LCL"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.LDD"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LDI"
+msgstr "Margini"
+
+msgid "ISO_639-3.LDL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.LDM"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LDN"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LEJ"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LEM"
+msgstr "Română"
+
+msgid "ISO_639-3.LES"
+msgstr "Japonez"
+
+msgid "ISO_639-3.LEX"
+msgstr "Caută"
+
+msgid "ISO_639-3.LFN"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LGA"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.LGK"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LGL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.LGT"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.LHN"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LHT"
+msgstr "Caută"
+
+msgid "ISO_639-3.LHU"
+msgstr "Man"
+
+msgid "ISO_639-3.LIC"
+msgstr "Caută"
+
+msgid "ISO_639-3.LIE"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LIF"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LIM"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LIN"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LIR"
+msgstr "Engleză"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LIU"
+msgstr "Margini"
+
+msgid "ISO_639-3.LIW"
+msgstr "Culori"
+
+msgid "ISO_639-3.LJE"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LJI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LJL"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LJP"
+msgstr "Caută"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arabic"
+
+msgid "ISO_639-3.LKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LKC"
+msgstr "Caută"
+
+msgid "ISO_639-3.LKD"
+msgstr "Fals"
+
+msgid "ISO_639-3.LKE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.LKI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LKM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LKN"
+msgstr "Fals"
+
+msgid "ISO_639-3.LKO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LKS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.LKT"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LKU"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.LLD"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LLF"
+msgstr "Caută"
+
+msgid "ISO_639-3.LLH"
+msgstr "Bască"
+
+msgid "ISO_639-3.LLL"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LLM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LLO"
+msgstr "Altul"
+
+msgid "ISO_639-3.LLX"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LMB"
+msgstr "Margini"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LMG"
+msgstr "Caută"
+
+msgid "ISO_639-3.LML"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LMN"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LMP"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LNB"
+msgstr "Man"
+
+msgid "ISO_639-3.LNH"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LNI"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LNM"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LNS"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LNW"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.LOE"
+msgstr "Catalană"
+
+msgid "ISO_639-3.LOH"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.LOO"
+msgstr "de la:"
+
+msgid "ISO_639-3.LOQ"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LOS"
+msgstr "Caută"
+
+msgid "ISO_639-3.LPO"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LRA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LRC"
+msgstr "Coreean"
+
+msgid "ISO_639-3.LRE"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LRG"
+msgstr "Margini"
+
+msgid "ISO_639-3.LRI"
+msgstr "Margini"
+
+msgid "ISO_639-3.LRK"
+msgstr "Margini"
+
+msgid "ISO_639-3.LRL"
+msgstr "Margini"
+
+msgid "ISO_639-3.LRM"
+msgstr "Arabic"
+
+msgid "ISO_639-3.LRN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.LRO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.LSD"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LSH"
+msgstr "Irlandeză"
+
+msgid "ISO_639-3.LSI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LSM"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.LSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LTG"
+msgstr "Catalană"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.LTN"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LTO"
+msgstr "de la:"
+
+msgid "ISO_639-3.LTS"
+msgstr "Culori"
+
+msgid "ISO_639-3.LTU"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LUC"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LUD"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LUF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LUM"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LUR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LUS"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.LUV"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LVS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LWG"
+msgstr "Caută"
+
+msgid "ISO_639-3.LWH"
+msgstr "Adresă"
+
+msgid "ISO_639-3.LWM"
+msgstr "Letonă"
+
+msgid "ISO_639-3.LYG"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.LYN"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.LZH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.LZN"
+msgstr "Caută"
+
+msgid "ISO_639-3.MAD"
+msgstr "Fals"
+
+msgid "ISO_639-3.MAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAH"
+msgstr "Fals"
+
+msgid "ISO_639-3.MAM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAW"
+msgstr "Margini"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.MBC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBE"
+msgstr "Fals"
+
+msgid "ISO_639-3.MBF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBS"
+msgstr "Man"
+
+msgid "ISO_639-3.MBW"
+msgstr "Margini"
+
+msgid "ISO_639-3.MBY"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.MCA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCH"
+msgstr "Margini"
+
+msgid "ISO_639-3.MCI"
+msgstr "Fals"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Man"
+
+msgid "ISO_639-3.MCK"
+msgstr "Man"
+
+msgid "ISO_639-3.MCN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCT"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MDB"
+msgstr "Margini"
+
+msgid "ISO_639-3.MDG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MDH"
+msgstr "Man"
+
+msgid "ISO_639-3.MDN"
+msgstr "Margini"
+
+msgid "ISO_639-3.MDP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MDR"
+msgstr "Man"
+
+msgid "ISO_639-3.MDW"
+msgstr "Margini"
+
+msgid "ISO_639-3.MDX"
+msgstr "Caută"
+
+msgid "ISO_639-3.MEC"
+msgstr "Margini"
+
+msgid "ISO_639-3.MED"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MEL"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.MEM"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.MES"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MET"
+msgstr "Margini"
+
+msgid "ISO_639-3.MEV"
+msgstr "Margini"
+
+msgid "ISO_639-3.MEW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFA"
+msgstr "Catalană"
+
+msgid "ISO_639-3.MFB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MFE"
+msgstr "Margini"
+
+msgid "ISO_639-3.MFF"
+msgstr "Caută"
+
+msgid "ISO_639-3.MFH"
+msgstr "Catalană"
+
+msgid "ISO_639-3.MFI"
+msgstr "Man"
+
+msgid "ISO_639-3.MFK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.MFL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.MFP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFR"
+msgstr "Margini"
+
+msgid "ISO_639-3.MFV"
+msgstr "Man"
+
+msgid "ISO_639-3.MFY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Catalană"
+
+msgid "ISO_639-3.MGB"
+msgstr "Margini"
+
+msgid "ISO_639-3.MGD"
+msgstr "Margini"
+
+msgid "ISO_639-3.MGE"
+msgstr "Man"
+
+msgid "ISO_639-3.MGF"
+msgstr "Fals"
+
+msgid "ISO_639-3.MGK"
+msgstr "Fals"
+
+msgid "ISO_639-3.MGN"
+msgstr "Man"
+
+msgid "ISO_639-3.MGP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MGU"
+msgstr "Margini"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.MHE"
+msgstr "Caută"
+
+msgid "ISO_639-3.MHF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MHG"
+msgstr "Margini"
+
+msgid "ISO_639-3.MHI"
+msgstr "Margini"
+
+msgid "ISO_639-3.MHK"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.MHP"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Man"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.MHT"
+msgstr "Man"
+
+msgid "ISO_639-3.MHX"
+msgstr "Margini"
+
+msgid "ISO_639-3.MHY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MIA"
+msgstr "Margini"
+
+msgid "ISO_639-3.MID"
+msgstr "Man"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.MIK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MJK"
+msgstr "Man"
+
+msgid "ISO_639-3.MJL"
+msgstr "Man"
+
+msgid "ISO_639-3.MJP"
+msgstr "Man"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJR"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.MJU"
+msgstr "Man"
+
+msgid "ISO_639-3.MJV"
+msgstr "Man"
+
+msgid "ISO_639-3.MJW"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.MJX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJY"
+msgstr "Letonă"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MKA"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.MKD"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.MKE"
+msgstr "Man"
+
+msgid "ISO_639-3.MKF"
+msgstr "Opera"
+
+msgid "ISO_639-3.MKI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Fals"
+
+msgid "ISO_639-3.MKR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MKV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MKY"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLE"
+msgstr "Man"
+
+msgid "ISO_639-3.MLF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japonez"
+
+msgid "ISO_639-3.MLK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLP"
+msgstr "Margini"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MLS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLT"
+msgstr "Fals"
+
+msgid "ISO_639-3.MLX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMD"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.MME"
+msgstr "Fals"
+
+msgid "ISO_639-3.MMF"
+msgstr "Man"
+
+msgid "ISO_639-3.MMI"
+msgstr "Margini"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MMM"
+msgstr "Margini"
+
+msgid "ISO_639-3.MMN"
+msgstr "Man"
+
+msgid "ISO_639-3.MMO"
+msgstr "Man"
+
+msgid "ISO_639-3.MMP"
+msgstr "Caută"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMV"
+msgstr "Caută"
+
+msgid "ISO_639-3.MMX"
+msgstr "Man"
+
+msgid "ISO_639-3.MNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MNB"
+msgstr "Man"
+
+msgid "ISO_639-3.MNC"
+msgstr "Man"
+
+msgid "ISO_639-3.MNF"
+msgstr "Man"
+
+msgid "ISO_639-3.MNI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.MNK"
+msgstr "Man"
+
+msgid "ISO_639-3.MNL"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.MNM"
+msgstr "Man"
+
+msgid "ISO_639-3.MNP"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.MNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MNY"
+msgstr "Man"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MOA"
+msgstr "Man"
+
+msgid "ISO_639-3.MOD"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MOI"
+msgstr "Margini"
+
+msgid "ISO_639-3.MOK"
+msgstr "Margini"
+
+msgid "ISO_639-3.MOM"
+msgstr "Caută"
+
+msgid "ISO_639-3.MOR"
+msgstr "Margini"
+
+msgid "ISO_639-3.MOS"
+msgstr "Margini"
+
+msgid "ISO_639-3.MPC"
+msgstr "Man"
+
+msgid "ISO_639-3.MPD"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.MPE"
+msgstr "Man"
+
+msgid "ISO_639-3.MPG"
+msgstr "Margini"
+
+msgid "ISO_639-3.MPH"
+msgstr "Man"
+
+msgid "ISO_639-3.MPI"
+msgstr "Fals"
+
+msgid "ISO_639-3.MPN"
+msgstr "Caută"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Fals"
+
+msgid "ISO_639-3.MPT"
+msgstr "Man"
+
+msgid "ISO_639-3.MPV"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.MPW"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.MPY"
+msgstr "Margini"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.MQE"
+msgstr "Fals"
+
+msgid "ISO_639-3.MQI"
+msgstr "Margini"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MQP"
+msgstr "Man"
+
+msgid "ISO_639-3.MQR"
+msgstr "Man"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MQU"
+msgstr "Man"
+
+msgid "ISO_639-3.MQV"
+msgstr "Margini"
+
+msgid "ISO_639-3.MQW"
+msgstr "Margini"
+
+msgid "ISO_639-3.MQY"
+msgstr "Man"
+
+msgid "ISO_639-3.MRA"
+msgstr "Margini"
+
+msgid "ISO_639-3.MRB"
+msgstr "Margini"
+
+msgid "ISO_639-3.MRC"
+msgstr "Margini"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MRG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MRH"
+msgstr "Margini"
+
+msgid "ISO_639-3.MRI"
+msgstr "Margini"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.MRS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MRV"
+msgstr "Man"
+
+msgid "ISO_639-3.MRW"
+msgstr "Man"
+
+msgid "ISO_639-3.MRX"
+msgstr "Margini"
+
+msgid "ISO_639-3.MRY"
+msgstr "Man"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MSC"
+msgstr "Man"
+
+msgid "ISO_639-3.MSE"
+msgstr "Fals"
+
+msgid "ISO_639-3.MSG"
+msgstr "Margini"
+
+msgid "ISO_639-3.MSH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSK"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.MSS"
+msgstr "Fals"
+
+msgid "ISO_639-3.MSV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arabic"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MTM"
+msgstr "Margini"
+
+msgid "ISO_639-3.MTN"
+msgstr "Catalană"
+
+msgid "ISO_639-3.MTR"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.MTS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.MTY"
+msgstr "Caută"
+
+msgid "ISO_639-3.MUA"
+msgstr "Man"
+
+msgid "ISO_639-3.MUI"
+msgstr "Margini"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MUM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MUO"
+msgstr "Caută"
+
+msgid "ISO_639-3.MUP"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.MUR"
+msgstr "Fals"
+
+msgid "ISO_639-3.MUS"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.MUU"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.MUX"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MUY"
+msgstr "Man"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVA"
+msgstr "Man"
+
+msgid "ISO_639-3.MVD"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVO"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVP"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVR"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVS"
+msgstr "Fals"
+
+msgid "ISO_639-3.MVU"
+msgstr "Margini"
+
+msgid "ISO_639-3.MVX"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.MWB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MWI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.MWK"
+msgstr "Man"
+
+msgid "ISO_639-3.MWL"
+msgstr "Fals"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.MWR"
+msgstr "Margini"
+
+msgid "ISO_639-3.MWV"
+msgstr "Margini"
+
+msgid "ISO_639-3.MWX"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.MWY"
+msgstr "Margini"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Caută"
+
+msgid "ISO_639-3.MXC"
+msgstr "Man"
+
+msgid "ISO_639-3.MXD"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.MXF"
+msgstr "Fals"
+
+msgid "ISO_639-3.MXG"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arabic"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.MXR"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.MXX"
+msgstr "Man"
+
+msgid "ISO_639-3.MYB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYG"
+msgstr "Man"
+
+msgid "ISO_639-3.MYH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYL"
+msgstr "Română"
+
+msgid "ISO_639-3.MYR"
+msgstr "Man"
+
+msgid "ISO_639-3.MYS"
+msgstr "Fals"
+
+msgid "ISO_639-3.MYV"
+msgstr "Opera"
+
+msgid "ISO_639-3.MYX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYY"
+msgstr "Man"
+
+msgid "ISO_639-3.MZD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MZE"
+msgstr "Margini"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Man"
+
+msgid "ISO_639-3.MZS"
+msgstr "Japonez"
+
+msgid "ISO_639-3.MZT"
+msgstr "Caută"
+
+msgid "ISO_639-3.MZV"
+msgstr "Man"
+
+msgid "ISO_639-3.MZX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NAC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAF"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NAL"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NAN"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.NAP"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NAW"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NAX"
+msgstr "Caută"
+
+msgid "ISO_639-3.NBC"
+msgstr "Letonă"
+
+msgid "ISO_639-3.NBH"
+msgstr "Caută"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.NBN"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NBU"
+msgstr "Caută"
+
+msgid "ISO_639-3.NCB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japonez"
+
+msgid "ISO_639-3.NCF"
+msgstr "Stop"
+
+msgid "ISO_639-3.NCH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.NCN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NDA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NDF"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.NDH"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NDS"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NDX"
+msgstr "Caută"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vietnamez"
+
+msgid "ISO_639-3.NEG"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.NEM"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NEP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NER"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.NES"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NEW"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NFD"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NGK"
+msgstr "Caută"
+
+msgid "ISO_639-3.NGO"
+msgstr "Caută"
+
+msgid "ISO_639-3.NGX"
+msgstr "Caută"
+
+msgid "ISO_639-3.NGY"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NHA"
+msgstr "Caută"
+
+msgid "ISO_639-3.NHB"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NHF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NHH"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NHO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NHR"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NIB"
+msgstr "Caută"
+
+msgid "ISO_639-3.NID"
+msgstr "Caută"
+
+msgid "ISO_639-3.NIE"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NIO"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NIR"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.NIX"
+msgstr "Germană"
+
+msgid "ISO_639-3.NIY"
+msgstr "Caută"
+
+msgid "ISO_639-3.NIZ"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.NJM"
+msgstr "Catalană"
+
+msgid "ISO_639-3.NJN"
+msgstr "Letonă"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NKA"
+msgstr "Caută"
+
+msgid "ISO_639-3.NKB"
+msgstr "Letonă"
+
+msgid "ISO_639-3.NKD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.NKG"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.NKI"
+msgstr "Letonă"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NKN"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.NKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NLD"
+msgstr "Olandeză"
+
+msgid "ISO_639-3.NLG"
+msgstr "Germană"
+
+msgid "ISO_639-3.NLI"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NLL"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NLX"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.NMA"
+msgstr "Arabic"
+
+msgid "ISO_639-3.NMB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NMC"
+msgstr "Caută"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.NMG"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NML"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NMR"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NMV"
+msgstr "Caută"
+
+msgid "ISO_639-3.NMW"
+msgstr "Caută"
+
+msgid "ISO_639-3.NNF"
+msgstr "Caută"
+
+msgid "ISO_639-3.NNG"
+msgstr "Margini"
+
+msgid "ISO_639-3.NNM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.NNU"
+msgstr "Caută"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.NOD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.NOF"
+msgstr "Română"
+
+msgid "ISO_639-3.NOG"
+msgstr "Caută"
+
+msgid "ISO_639-3.NOI"
+msgstr "Caută"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NOL"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NON"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NPG"
+msgstr "Caută"
+
+msgid "ISO_639-3.NPI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NQY"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NRB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRC"
+msgstr "Caută"
+
+msgid "ISO_639-3.NRK"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.NRM"
+msgstr "de la:"
+
+msgid "ISO_639-3.NRN"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.NRR"
+msgstr "Caută"
+
+msgid "ISO_639-3.NRT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRZ"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.NSA"
+msgstr "Letonă"
+
+msgid "ISO_639-3.NSC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.NSE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.NSG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NSS"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.NSY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NTG"
+msgstr "Română"
+
+msgid "ISO_639-3.NTU"
+msgstr "Caută"
+
+msgid "ISO_639-3.NTX"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.NTY"
+msgstr "Adresă"
+
+msgid "ISO_639-3.NUA"
+msgstr "Caută"
+
+msgid "ISO_639-3.NUD"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.NUG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.NUS"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NUX"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.NVH"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NWR"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NXI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NXM"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NXU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NXX"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.NYA"
+msgstr "Caută"
+
+msgid "ISO_639-3.NYC"
+msgstr "Baltic"
+
+msgid "ISO_639-3.NYF"
+msgstr "Germană"
+
+msgid "ISO_639-3.NYH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.NYR"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.OAA"
+msgstr "de la:"
+
+msgid "ISO_639-3.OAC"
+msgstr "de la:"
+
+msgid "ISO_639-3.OAR"
+msgstr "Arabic"
+
+msgid "ISO_639-3.OBR"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.OCH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.OCO"
+msgstr "Culori"
+
+msgid "ISO_639-3.ODT"
+msgstr "Olandeză"
+
+msgid "ISO_639-3.ODU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.OGB"
+msgstr "Opera"
+
+msgid "ISO_639-3.OGE"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.OGO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.OHU"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japonez"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.OKB"
+msgstr "de la:"
+
+msgid "ISO_639-3.OKD"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.OKK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.OKL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.OKR"
+msgstr "Caută"
+
+msgid "ISO_639-3.OKV"
+msgstr "Croată"
+
+msgid "ISO_639-3.OLD"
+msgstr "Margini"
+
+msgid "ISO_639-3.OLM"
+msgstr "de la:"
+
+msgid "ISO_639-3.OLR"
+msgstr "de la:"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.OMK"
+msgstr "de la:"
+
+msgid "ISO_639-3.OML"
+msgstr "de la:"
+
+msgid "ISO_639-3.OMN"
+msgstr "Man"
+
+msgid "ISO_639-3.OMP"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.OMR"
+msgstr "Margini"
+
+msgid "ISO_639-3.ONB"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.ONP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ONR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ONW"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.OOS"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.ORA"
+msgstr "de la:"
+
+msgid "ISO_639-3.ORC"
+msgstr "de la:"
+
+msgid "ISO_639-3.ORG"
+msgstr "Opera"
+
+msgid "ISO_639-3.ORI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ORM"
+msgstr "de la:"
+
+msgid "ISO_639-3.ORO"
+msgstr "de la:"
+
+msgid "ISO_639-3.ORR"
+msgstr "de la:"
+
+msgid "ISO_639-3.ORT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.ORV"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.ORX"
+msgstr "de la:"
+
+msgid "ISO_639-3.ORY"
+msgstr "Opera"
+
+msgid "ISO_639-3.ORZ"
+msgstr "de la:"
+
+msgid "ISO_639-3.OSC"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.OSI"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.OSO"
+msgstr "de la:"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spaniolă"
+
+msgid "ISO_639-3.OSS"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.OSX"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.OTB"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.OTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.OTR"
+msgstr "de la:"
+
+msgid "ISO_639-3.OTY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.OWL"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.OYD"
+msgstr "Opera"
+
+msgid "ISO_639-3.PAG"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PAH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.PAO"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PAR"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PAS"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PAT"
+msgstr "Catalană"
+
+msgid "ISO_639-3.PAY"
+msgstr "Cehă"
+
+msgid "ISO_639-3.PBI"
+msgstr "Margini"
+
+msgid "ISO_639-3.PBN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PBO"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PBP"
+msgstr "Man"
+
+msgid "ISO_639-3.PBR"
+msgstr "Margini"
+
+msgid "ISO_639-3.PBV"
+msgstr "Man"
+
+msgid "ISO_639-3.PCB"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.PCF"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PCG"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PCH"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.PCI"
+msgstr "Margini"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.PCL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PDI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.PDU"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.PEE"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.PEH"
+msgstr "Română"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PEK"
+msgstr "Franceză"
+
+msgid "ISO_639-3.PEL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PES"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.PFL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PGG"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PGI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.PGS"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PHA"
+msgstr "Caută"
+
+msgid "ISO_639-3.PHH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.PHN"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.PHT"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.PHV"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PIC"
+msgstr "Caută"
+
+msgid "ISO_639-3.PII"
+msgstr "Caută"
+
+msgid "ISO_639-3.PIM"
+msgstr "Croată"
+
+msgid "ISO_639-3.PIP"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.PIS"
+msgstr "Caută"
+
+msgid "ISO_639-3.PIV"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PKB"
+msgstr "de la:"
+
+msgid "ISO_639-3.PKH"
+msgstr "Man"
+
+msgid "ISO_639-3.PKT"
+msgstr "Fals"
+
+msgid "ISO_639-3.PLA"
+msgstr "Man"
+
+msgid "ISO_639-3.PLD"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLE"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLH"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLP"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PLU"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Catalană"
+
+msgid "ISO_639-3.PMB"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PMD"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PMK"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PML"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.PMM"
+msgstr "de la:"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vietnamez"
+
+msgid "ISO_639-3.PMY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.PNC"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.PNK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PNL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PNP"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PNR"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PNS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PNT"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.PNY"
+msgstr "Caută"
+
+msgid "ISO_639-3.POC"
+msgstr "Română"
+
+msgid "ISO_639-3.POL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PON"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugheză"
+
+msgid "ISO_639-3.POX"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.PPE"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PPI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.PPT"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PRB"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.PRF"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PRG"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.PRI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PRM"
+msgstr "Caută"
+
+msgid "ISO_639-3.PRP"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PRR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.PRT"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PRU"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PRW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.PTN"
+msgstr "Catalană"
+
+msgid "ISO_639-3.PTR"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PTU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PTY"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.PUT"
+msgstr "Olandeză"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugheză"
+
+msgid "ISO_639-3.PUX"
+msgstr "Coreean"
+
+msgid "ISO_639-3.PWA"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PWB"
+msgstr "Margini"
+
+msgid "ISO_639-3.PWN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.PWR"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.PWW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PZN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QUC"
+msgstr "Altul"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QYP"
+msgstr "Caută"
+
+msgid "ISO_639-3.RAA"
+msgstr "Baltic"
+
+msgid "ISO_639-3.RAC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.RAL"
+msgstr "Fals"
+
+msgid "ISO_639-3.RAM"
+msgstr "Catalană"
+
+msgid "ISO_639-3.RAN"
+msgstr "Română"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.RAR"
+msgstr "Română"
+
+msgid "ISO_639-3.RAS"
+msgstr "Baltic"
+
+msgid "ISO_639-3.RAW"
+msgstr "Caută"
+
+msgid "ISO_639-3.RAX"
+msgstr "Caută"
+
+msgid "ISO_639-3.REE"
+msgstr "Caută"
+
+msgid "ISO_639-3.REI"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.REJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.REN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.RGA"
+msgstr "Română"
+
+msgid "ISO_639-3.RGN"
+msgstr "Română"
+
+msgid "ISO_639-3.RHG"
+msgstr "Caută"
+
+msgid "ISO_639-3.RHP"
+msgstr "Caută"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.RJG"
+msgstr "Caută"
+
+msgid "ISO_639-3.RJI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.RKI"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.RKM"
+msgstr "Margini"
+
+msgid "ISO_639-3.RKT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arabic"
+
+msgid "ISO_639-3.RMA"
+msgstr "Română"
+
+msgid "ISO_639-3.RMG"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.RMI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.RMK"
+msgstr "Română"
+
+msgid "ISO_639-3.RML"
+msgstr "Română"
+
+msgid "ISO_639-3.RMM"
+msgstr "Română"
+
+msgid "ISO_639-3.RMO"
+msgstr "Română"
+
+msgid "ISO_639-3.RMT"
+msgstr "Margini"
+
+msgid "ISO_639-3.RMU"
+msgstr "Română"
+
+msgid "ISO_639-3.RMV"
+msgstr "Română"
+
+msgid "ISO_639-3.RMW"
+msgstr "Română"
+
+msgid "ISO_639-3.RMX"
+msgstr "Română"
+
+msgid "ISO_639-3.RMY"
+msgstr "Română"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.RNG"
+msgstr "Caută"
+
+msgid "ISO_639-3.RNL"
+msgstr "Caută"
+
+msgid "ISO_639-3.RNN"
+msgstr "Română"
+
+msgid "ISO_639-3.RNR"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.ROE"
+msgstr "Română"
+
+msgid "ISO_639-3.ROF"
+msgstr "de la:"
+
+msgid "ISO_639-3.ROG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ROH"
+msgstr "Română"
+
+msgid "ISO_639-3.ROL"
+msgstr "Română"
+
+msgid "ISO_639-3.ROM"
+msgstr "Română"
+
+msgid "ISO_639-3.RON"
+msgstr "Română"
+
+msgid "ISO_639-3.ROR"
+msgstr "Caută"
+
+msgid "ISO_639-3.RPT"
+msgstr "Adresă"
+
+msgid "ISO_639-3.RRI"
+msgstr "Caută"
+
+msgid "ISO_639-3.RRO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RSB"
+msgstr "Română"
+
+msgid "ISO_639-3.RSM"
+msgstr "Coreean"
+
+msgid "ISO_639-3.RTC"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.RTH"
+msgstr "Catalană"
+
+msgid "ISO_639-3.RTM"
+msgstr "Română"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.RUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RUE"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.RUG"
+msgstr "Română"
+
+msgid "ISO_639-3.RUK"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.RUO"
+msgstr "Română"
+
+msgid "ISO_639-3.RUP"
+msgstr "Română"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Română"
+
+msgid "ISO_639-3.RUS"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Română"
+
+msgid "ISO_639-3.RWO"
+msgstr "Margini"
+
+msgid "ISO_639-3.RWR"
+msgstr "Margini"
+
+msgid "ISO_639-3.RXD"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.RXW"
+msgstr "Margini"
+
+msgid "ISO_639-3.SAA"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SAB"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.SAC"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.SAE"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Man"
+
+msgid "ISO_639-3.SAK"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SAM"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SAN"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SAO"
+msgstr "Fals"
+
+msgid "ISO_639-3.SAS"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SAU"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SAY"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SBE"
+msgstr "Italiană"
+
+msgid "ISO_639-3.SBK"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SBL"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SBM"
+msgstr "Catalană"
+
+msgid "ISO_639-3.SBN"
+msgstr "Caută"
+
+msgid "ISO_639-3.SBS"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SBV"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SBX"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SBY"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.SCE"
+msgstr "Română"
+
+msgid "ISO_639-3.SCH"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SCK"
+msgstr "Margini"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SCO"
+msgstr "Stop"
+
+msgid "ISO_639-3.SCW"
+msgstr "Caută"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SDB"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SDC"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SDF"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.SDH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.SDK"
+msgstr "Caută"
+
+msgid "ISO_639-3.SDN"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SDR"
+msgstr "Man"
+
+msgid "ISO_639-3.SED"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SEH"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SEI"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SEK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.SEO"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SER"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SET"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SGB"
+msgstr "Adresă"
+
+msgid "ISO_639-3.SGC"
+msgstr "Caută"
+
+msgid "ISO_639-3.SGD"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SGE"
+msgstr "Caută"
+
+msgid "ISO_639-3.SGK"
+msgstr "Caută"
+
+msgid "ISO_639-3.SGM"
+msgstr "Caută"
+
+msgid "ISO_639-3.SGP"
+msgstr "Caută"
+
+msgid "ISO_639-3.SGR"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SGS"
+msgstr "Letonă"
+
+msgid "ISO_639-3.SGU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SGY"
+msgstr "Caută"
+
+msgid "ISO_639-3.SHC"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SHO"
+msgstr "Caută"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SHR"
+msgstr "Caută"
+
+msgid "ISO_639-3.SHT"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SHV"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SHW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.SHY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.SIB"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.SIE"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SIH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SIN"
+msgstr "Vietnamez"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SIR"
+msgstr "Caută"
+
+msgid "ISO_639-3.SIU"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SIV"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SIX"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SIY"
+msgstr "Caută"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SJM"
+msgstr "Man"
+
+msgid "ISO_639-3.SJN"
+msgstr "Caută"
+
+msgid "ISO_639-3.SJP"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.SJR"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SJW"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.SKB"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SKC"
+msgstr "Man"
+
+msgid "ISO_639-3.SKG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKH"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SKI"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovacă"
+
+msgid "ISO_639-3.SKM"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SKR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKS"
+msgstr "Margini"
+
+msgid "ISO_639-3.SKU"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SKY"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.SLI"
+msgstr "Germană"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovacă"
+
+msgid "ISO_639-3.SLN"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Man"
+
+msgid "ISO_639-3.SLR"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SLU"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMB"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.SMD"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SME"
+msgstr "Coreean"
+
+msgid "ISO_639-3.SMH"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SMK"
+msgstr "Caută"
+
+msgid "ISO_639-3.SMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMN"
+msgstr "Caută"
+
+msgid "ISO_639-3.SMP"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SMU"
+msgstr "Română"
+
+msgid "ISO_639-3.SMX"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SND"
+msgstr "Caută"
+
+msgid "ISO_639-3.SNI"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SNK"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SNL"
+msgstr "Caută"
+
+msgid "ISO_639-3.SNN"
+msgstr "Caută"
+
+msgid "ISO_639-3.SNO"
+msgstr "Spaniolă"
+
+msgid "ISO_639-3.SNP"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.SNR"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.SNU"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SNV"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SOA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.SOD"
+msgstr "Caută"
+
+msgid "ISO_639-3.SOG"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.SOH"
+msgstr "Bură"
+
+msgid "ISO_639-3.SOI"
+msgstr "Caută"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.SOL"
+msgstr "Stop"
+
+msgid "ISO_639-3.SOO"
+msgstr "Caută"
+
+msgid "ISO_639-3.SOP"
+msgstr "Caută"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.SOR"
+msgstr "Caută"
+
+msgid "ISO_639-3.SOS"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.SOW"
+msgstr "Man"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovacă"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spaniolă"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.SPG"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SPI"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SPS"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SPU"
+msgstr "Spaniolă"
+
+msgid "ISO_639-3.SPV"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.SQM"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabic"
+
+msgid "ISO_639-3.SQU"
+msgstr "Spaniolă"
+
+msgid "ISO_639-3.SRA"
+msgstr "Margini"
+
+msgid "ISO_639-3.SRB"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SRC"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SRD"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SRE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SRF"
+msgstr "Caută"
+
+msgid "ISO_639-3.SRI"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SRO"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.SRP"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SRS"
+msgstr "Margini"
+
+msgid "ISO_639-3.SRT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.SRW"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SRY"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SSD"
+msgstr "Caută"
+
+msgid "ISO_639-3.SSE"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SSF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.SSG"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabic"
+
+msgid "ISO_639-3.SSI"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SSN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Slovacă"
+
+msgid "ISO_639-3.SST"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.SSU"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.STB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.STD"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.STK"
+msgstr "Arabic"
+
+msgid "ISO_639-3.STM"
+msgstr "Germană"
+
+msgid "ISO_639-3.STO"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SUE"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SUX"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SVA"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.SVE"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SVS"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SVX"
+msgstr "Română"
+
+msgid "ISO_639-3.SWE"
+msgstr "Suedeză"
+
+msgid "ISO_639-3.SWF"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.SWG"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SWK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SWM"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SWO"
+msgstr "Caută"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Margini"
+
+msgid "ISO_639-3.SWS"
+msgstr "Bielorusă"
+
+msgid "ISO_639-3.SWW"
+msgstr "Slovacă"
+
+msgid "ISO_639-3.SWY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SXK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SXL"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SXM"
+msgstr "Coreean"
+
+msgid "ISO_639-3.SXN"
+msgstr "Caută"
+
+msgid "ISO_639-3.SXS"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SYA"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.SYB"
+msgstr "Coreean"
+
+msgid "ISO_639-3.SYM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SYN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.SYR"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.SYX"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.SZN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SZW"
+msgstr "Margini"
+
+msgid "ISO_639-3.TAA"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.TAD"
+msgstr "Fals"
+
+msgid "ISO_639-3.TAE"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TAG"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TAH"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TAK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TAL"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TAM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TAO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TAU"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.TAW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TAX"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TBA"
+msgstr "Bură"
+
+msgid "ISO_639-3.TBC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TBE"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TBF"
+msgstr "Man"
+
+msgid "ISO_639-3.TBG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Caută"
+
+msgid "ISO_639-3.TBO"
+msgstr "Catalană"
+
+msgid "ISO_639-3.TBX"
+msgstr "Adresă"
+
+msgid "ISO_639-3.TCC"
+msgstr "Margini"
+
+msgid "ISO_639-3.TCD"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.TCI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TCP"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TDB"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TDI"
+msgstr "Adresă"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TDM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TEC"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TEH"
+msgstr "Cehă"
+
+msgid "ISO_639-3.TEK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TEY"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TFN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.TGB"
+msgstr "Română"
+
+msgid "ISO_639-3.TGC"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TGD"
+msgstr "Caută"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Daneză"
+
+msgid "ISO_639-3.TGK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TGN"
+msgstr "Caută"
+
+msgid "ISO_639-3.TGP"
+msgstr "Caută"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TGR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.TGU"
+msgstr "Caută"
+
+msgid "ISO_639-3.TGX"
+msgstr "Daneză"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Catalană"
+
+msgid "ISO_639-3.THA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.THE"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.THF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.THN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.THR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.THS"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.THT"
+msgstr "Letonă"
+
+msgid "ISO_639-3.THU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.THW"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.THY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TIC"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TIF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TIG"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TII"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TIK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TIM"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TIN"
+msgstr "Caută"
+
+msgid "ISO_639-3.TIP"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TIR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TIU"
+msgstr "Caută"
+
+msgid "ISO_639-3.TJL"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TKG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TKX"
+msgstr "Caută"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TLH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TLK"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TLO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TLR"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.TLT"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TLX"
+msgstr "Cehă"
+
+msgid "ISO_639-3.TMC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TMD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TMW"
+msgstr "Germană"
+
+msgid "ISO_639-3.TMY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TNH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TNI"
+msgstr "Man"
+
+msgid "ISO_639-3.TNK"
+msgstr "Altul"
+
+msgid "ISO_639-3.TNM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TNO"
+msgstr "de la:"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Adresă"
+
+msgid "ISO_639-3.TOD"
+msgstr "Română"
+
+msgid "ISO_639-3.TOW"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.TOX"
+msgstr "Română"
+
+msgid "ISO_639-3.TPF"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TPG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TPM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TPY"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TQL"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TRA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TRD"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TRE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TRM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TRT"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TSB"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estoniană"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TSX"
+msgstr "Margini"
+
+msgid "ISO_639-3.TTG"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.TTI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TTR"
+msgstr "Germană"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TTV"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TTW"
+msgstr "Caută"
+
+msgid "ISO_639-3.TUH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TUI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TVO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.TWF"
+msgstr "Coreean"
+
+msgid "ISO_639-3.TWL"
+msgstr "Margini"
+
+msgid "ISO_639-3.TWM"
+msgstr "Caută"
+
+msgid "ISO_639-3.TWN"
+msgstr "Suedeză"
+
+msgid "ISO_639-3.TWU"
+msgstr "Germană"
+
+msgid "ISO_639-3.TWW"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.TXA"
+msgstr "de la:"
+
+msgid "ISO_639-3.TXG"
+msgstr "Caută"
+
+msgid "ISO_639-3.TXH"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TXM"
+msgstr "Caută"
+
+msgid "ISO_639-3.TXN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.TXR"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TXX"
+msgstr "Letonă"
+
+msgid "ISO_639-3.TXY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TYA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TYE"
+msgstr "Caută"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TYN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.TZH"
+msgstr "Baltic"
+
+msgid "ISO_639-3.TZL"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.TZO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.TZX"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.UAN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.UBA"
+msgstr "Caută"
+
+msgid "ISO_639-3.UDG"
+msgstr "Caută"
+
+msgid "ISO_639-3.UHA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.UHN"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.UIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.UKA"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ULA"
+msgstr "Caută"
+
+msgid "ISO_639-3.ULI"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.ULK"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.ULW"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.UMC"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.UMN"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.UND"
+msgstr "Afişare"
+
+msgid "ISO_639-3.UNG"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.UNM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.UNN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.UNR"
+msgstr "Man"
+
+msgid "ISO_639-3.UNU"
+msgstr "Caută"
+
+msgid "ISO_639-3.UNX"
+msgstr "Man"
+
+msgid "ISO_639-3.URA"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.URC"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.URG"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.URL"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.URM"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.URN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.URT"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.URX"
+msgstr "de la:"
+
+msgid "ISO_639-3.URY"
+msgstr "Opera"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.VAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.VAN"
+msgstr "Catalană"
+
+msgid "ISO_639-3.VAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAV"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.VAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.VEC"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.VGR"
+msgstr "Margini"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vietnamez"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.VKK"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.VKO"
+msgstr "Coreean"
+
+msgid "ISO_639-3.VLP"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.VMB"
+msgstr "Arabic"
+
+msgid "ISO_639-3.VMD"
+msgstr "Caută"
+
+msgid "ISO_639-3.VME"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VMG"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.VMH"
+msgstr "Margini"
+
+msgid "ISO_639-3.VML"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VMR"
+msgstr "Fals"
+
+msgid "ISO_639-3.VMW"
+msgstr "Man"
+
+msgid "ISO_639-3.VNK"
+msgstr "Adresă"
+
+msgid "ISO_639-3.VRA"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.WAE"
+msgstr "Fals"
+
+msgid "ISO_639-3.WAI"
+msgstr "Feroenă"
+
+msgid "ISO_639-3.WAJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WAL"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Germană"
+
+msgid "ISO_639-3.WAV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WAW"
+msgstr "Margini"
+
+msgid "ISO_639-3.WAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBH"
+msgstr "Man"
+
+msgid "ISO_639-3.WBI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Margini"
+
+msgid "ISO_639-3.WBQ"
+msgstr "Man"
+
+msgid "ISO_639-3.WDK"
+msgstr "Man"
+
+msgid "ISO_639-3.WER"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.WET"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.WEU"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.WGA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WGY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WHG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.WHU"
+msgstr "Coreean"
+
+msgid "ISO_639-3.WII"
+msgstr "Caută"
+
+msgid "ISO_639-3.WJA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WJI"
+msgstr "Margini"
+
+msgid "ISO_639-3.WKB"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.WKL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WKU"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.WLA"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.WLE"
+msgstr "Coreean"
+
+msgid "ISO_639-3.WLG"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.WLI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galeon"
+
+msgid "ISO_639-3.WLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WLY"
+msgstr "Italiană"
+
+msgid "ISO_639-3.WMB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WMC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WMD"
+msgstr "Man"
+
+msgid "ISO_639-3.WMI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.WMW"
+msgstr "Margini"
+
+msgid "ISO_639-3.WMX"
+msgstr "de la:"
+
+msgid "ISO_639-3.WND"
+msgstr "Man"
+
+msgid "ISO_639-3.WNN"
+msgstr "Arabic"
+
+msgid "ISO_639-3.WNO"
+msgstr "Adresă"
+
+msgid "ISO_639-3.WNP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WNY"
+msgstr "Man"
+
+msgid "ISO_639-3.WOA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WOD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.WOE"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.WOI"
+msgstr "Caută"
+
+msgid "ISO_639-3.WOO"
+msgstr "Margini"
+
+msgid "ISO_639-3.WOR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WPC"
+msgstr "Margini"
+
+msgid "ISO_639-3.WRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRB"
+msgstr "Margini"
+
+msgid "ISO_639-3.WRK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRO"
+msgstr "Caută"
+
+msgid "ISO_639-3.WRP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.WRR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRS"
+msgstr "Margini"
+
+msgid "ISO_639-3.WRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRY"
+msgstr "Margini"
+
+msgid "ISO_639-3.WSI"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.WSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WSU"
+msgstr "Bască"
+
+msgid "ISO_639-3.WTM"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.WUU"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.WUX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WXW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.XAB"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.XAC"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.XAD"
+msgstr "Arabic"
+
+msgid "ISO_639-3.XAG"
+msgstr "Bură"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arabic"
+
+msgid "ISO_639-3.XAL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XAO"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.XAR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.XAU"
+msgstr "Germană"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.XBD"
+msgstr "Man"
+
+msgid "ISO_639-3.XBE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretonă"
+
+msgid "ISO_639-3.XBN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.XBR"
+msgstr "Altul"
+
+msgid "ISO_639-3.XBY"
+msgstr "Catalană"
+
+msgid "ISO_639-3.XCO"
+msgstr "Croată"
+
+msgid "ISO_639-3.XCR"
+msgstr "Margini"
+
+msgid "ISO_639-3.XCU"
+msgstr "Croată"
+
+msgid "ISO_639-3.XCY"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.XDA"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XDY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XED"
+msgstr "Caută"
+
+msgid "ISO_639-3.XES"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGD"
+msgstr "Caută"
+
+msgid "ISO_639-3.XGG"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XGI"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGM"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.XGR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XGU"
+msgstr "Caută"
+
+msgid "ISO_639-3.XHA"
+msgstr "Arabic"
+
+msgid "ISO_639-3.XHD"
+msgstr "Caută"
+
+msgid "ISO_639-3.XHE"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.XHR"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.XHU"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.XHV"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.XIB"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.XII"
+msgstr "Caută"
+
+msgid "ISO_639-3.XIL"
+msgstr "Italiană"
+
+msgid "ISO_639-3.XIR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.XIS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XJB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XJT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XKE"
+msgstr "Evreiesc"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XKT"
+msgstr "Adresă"
+
+msgid "ISO_639-3.XKX"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.XLC"
+msgstr "Letonă"
+
+msgid "ISO_639-3.XLD"
+msgstr "Adresă"
+
+msgid "ISO_639-3.XLE"
+msgstr "Română"
+
+msgid "ISO_639-3.XLI"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.XLS"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.XMB"
+msgstr "Caută"
+
+msgid "ISO_639-3.XME"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.XMF"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.XMG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Margini"
+
+msgid "ISO_639-3.XMK"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.XMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMO"
+msgstr "Margini"
+
+msgid "ISO_639-3.XMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMX"
+msgstr "Man"
+
+msgid "ISO_639-3.XNG"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.XNH"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.XNI"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.XNK"
+msgstr "Maghiară"
+
+msgid "ISO_639-3.XNN"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XNR"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.XNS"
+msgstr "Daneză"
+
+msgid "ISO_639-3.XNT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XOD"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XOG"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.XON"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XOP"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XOW"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XPA"
+msgstr "Opera"
+
+msgid "ISO_639-3.XPC"
+msgstr "Cehă"
+
+msgid "ISO_639-3.XPG"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.XPI"
+msgstr "Poloneză"
+
+msgid "ISO_639-3.XPR"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.XPS"
+msgstr "Tipărire"
+
+msgid "ISO_639-3.XQA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.XRE"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.XRG"
+msgstr "Caută"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arabic"
+
+msgid "ISO_639-3.XRN"
+msgstr "Bură"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XRU"
+msgstr "Margini"
+
+msgid "ISO_639-3.XRW"
+msgstr "Margini"
+
+msgid "ISO_639-3.XSB"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.XSC"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.XSD"
+msgstr "Caută"
+
+msgid "ISO_639-3.XSE"
+msgstr "Germană"
+
+msgid "ISO_639-3.XSM"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XSO"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.XSR"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.XSS"
+msgstr "Rusesc"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slovenă"
+
+msgid "ISO_639-3.XSY"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.XTV"
+msgstr "Margini"
+
+msgid "ISO_639-3.XTW"
+msgstr "Margini"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Română"
+
+msgid "ISO_639-3.XUM"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.XUR"
+msgstr "Croată"
+
+msgid "ISO_639-3.XUU"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XVI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.XVO"
+msgstr "Română"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estoniană"
+
+msgid "ISO_639-3.XWA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XWK"
+msgstr "Caută"
+
+msgid "ISO_639-3.XXB"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.XXR"
+msgstr "Coreean"
+
+msgid "ISO_639-3.XXT"
+msgstr "Germană"
+
+msgid "ISO_639-3.XYB"
+msgstr "Man"
+
+msgid "ISO_639-3.XYK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XYL"
+msgstr "Fals"
+
+msgid "ISO_639-3.XZM"
+msgstr "Macedoneană"
+
+msgid "ISO_639-3.YAD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japonez"
+
+msgid "ISO_639-3.YAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBK"
+msgstr "Română"
+
+msgid "ISO_639-3.YBM"
+msgstr "Coreean"
+
+msgid "ISO_639-3.YBO"
+msgstr "Caută"
+
+msgid "ISO_639-3.YCH"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.YCL"
+msgstr "Adresă"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indoneziană"
+
+msgid "ISO_639-3.YDA"
+msgstr "Man"
+
+msgid "ISO_639-3.YEC"
+msgstr "Franceză"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Islandeză"
+
+msgid "ISO_639-3.YER"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.YES"
+msgstr "Caută"
+
+msgid "ISO_639-3.YEV"
+msgstr "Man"
+
+msgid "ISO_639-3.YGA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YGI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.YGP"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.YGS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.YGW"
+msgstr "Margini"
+
+msgid "ISO_639-3.YHA"
+msgstr "Caută"
+
+msgid "ISO_639-3.YHD"
+msgstr "Arabic"
+
+msgid "ISO_639-3.YHS"
+msgstr "Coreean"
+
+msgid "ISO_639-3.YIA"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.YIF"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.YIM"
+msgstr "Letonă"
+
+msgid "ISO_639-3.YIN"
+msgstr "Caută"
+
+msgid "ISO_639-3.YIP"
+msgstr "de la:"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Margini"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.YIU"
+msgstr "Arabic"
+
+msgid "ISO_639-3.YIX"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.YKA"
+msgstr "Bură"
+
+msgid "ISO_639-3.YKL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YKM"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.YKO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YKT"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.YKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YLB"
+msgstr "Japonez"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japonez"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.YLO"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japonez"
+
+msgid "ISO_639-3.YMD"
+msgstr "Man"
+
+msgid "ISO_639-3.YMH"
+msgstr "Margini"
+
+msgid "ISO_639-3.YMI"
+msgstr "Margini"
+
+msgid "ISO_639-3.YMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YMO"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.YMR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YMS"
+msgstr "Română"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.YNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YNE"
+msgstr "Caută"
+
+msgid "ISO_639-3.YNG"
+msgstr "Caută"
+
+msgid "ISO_639-3.YNN"
+msgstr "Man"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Baltic"
+
+msgid "ISO_639-3.YNS"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.YOG"
+msgstr "Caută"
+
+msgid "ISO_639-3.YOI"
+msgstr "Coreean"
+
+msgid "ISO_639-3.YOL"
+msgstr "Coreean"
+
+msgid "ISO_639-3.YON"
+msgstr "Caută"
+
+msgid "ISO_639-3.YPA"
+msgstr "Catalană"
+
+msgid "ISO_639-3.YPG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPM"
+msgstr "Alias no_u"
+
+msgid "ISO_639-3.YPO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YRY"
+msgstr "Catalană"
+
+msgid "ISO_639-3.YSD"
+msgstr "Sârbă"
+
+msgid "ISO_639-3.YSG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.YSN"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.YSY"
+msgstr "Norvegiană"
+
+msgid "ISO_639-3.YTA"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.YTL"
+msgstr "Catalană"
+
+msgid "ISO_639-3.YTP"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.YUC"
+msgstr "Olandeză"
+
+msgid "ISO_639-3.YUD"
+msgstr "Arabic"
+
+msgid "ISO_639-3.YUE"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.YUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YVA"
+msgstr "Margini"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.YXA"
+msgstr "Man"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Albaneză"
+
+msgid "ISO_639-3.YZG"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Fără serif"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Germană"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulgară"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Germană"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Baltic"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Baltic"
+
+msgid "ISO_639-3.ZGA"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Fals"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Opera"
+
+msgid "ISO_639-3.ZIW"
+msgstr "US Le_gal"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Letonă"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Ucrainian"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Thailandeză"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lituaniană"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZME"
+msgstr "Man"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZML"
+msgstr "Fals"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Man"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Fals"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Grecesc"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Margini"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Coreean"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Turcesc"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Caută"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Chinezesc"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Caută"

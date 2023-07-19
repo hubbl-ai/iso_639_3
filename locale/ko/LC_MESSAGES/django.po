@@ -1,0 +1,8596 @@
+# Korean translations of ISO 639 Language names
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Kang, JeongHee <Keizi@mail.co.kr>, 2000.
+# Eungkyu Song <eungkyu@sparcs.org>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-06-13 15:46+0900\n"
+"Last-Translator: Eungkyu Song <eungkyu@sparcs.org>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AAF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AAG"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AAK"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AAT"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.AAW"
+msgstr "찾기"
+
+msgid "ISO_639-3.AAZ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ABD"
+msgstr "여백"
+
+msgid "ISO_639-3.ABE"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ABG"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ABH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ABQ"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ABV"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ABW"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.ABZ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ACE"
+msgstr "중국어"
+
+msgid "ISO_639-3.ACI"
+msgstr "여백"
+
+msgid "ISO_639-3.ACN"
+msgstr "찾기"
+
+msgid "ISO_639-3.ACR"
+msgstr "중국어"
+
+msgid "ISO_639-3.ACW"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ACX"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ACY"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ADF"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ADL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.ADN"
+msgstr "찾기"
+
+msgid "ISO_639-3.ADY"
+msgstr "찾기"
+
+msgid "ISO_639-3.AEA"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AEC"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AEE"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AEU"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AEW"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AEZ"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AFB"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AFD"
+msgstr "찾기"
+
+msgid "ISO_639-3.AFK"
+msgstr "찾기"
+
+msgid "ISO_639-3.AFP"
+msgstr "태국어"
+
+msgid "ISO_639-3.AFR"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AGA"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AGB"
+msgstr "그리스어"
+
+msgid "ISO_639-3.AGD"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AGE"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.AGF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AGH"
+msgstr "발트어"
+
+msgid "ISO_639-3.AGI"
+msgstr "터키어"
+
+msgid "ISO_639-3.AGM"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.AGO"
+msgstr "태국어"
+
+msgid "ISO_639-3.AGW"
+msgstr "태국어"
+
+msgid "ISO_639-3.AHA"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AHK"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AHR"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AIA"
+msgstr "여백"
+
+msgid "ISO_639-3.AIC"
+msgstr "찾기"
+
+msgid "ISO_639-3.AIE"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AIJ"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.AIR"
+msgstr "한국어"
+
+msgid "ISO_639-3.AIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AIW"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AIX"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AJN"
+msgstr "찾기"
+
+msgid "ISO_639-3.AJT"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AJU"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AJZ"
+msgstr "터키어"
+
+msgid "ISO_639-3.AKA"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AKB"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.AKF"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AKK"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.AKL"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AKM"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AKQ"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AKR"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AKW"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AKZ"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ALD"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ALH"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ALJ"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ALK"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-3.ALN"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.ALS"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.AMC"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AMH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AMJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.AMK"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AML"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AMN"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AMQ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AMY"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ANC"
+msgstr "찾기"
+
+msgid "ISO_639-3.ANI"
+msgstr "찾기"
+
+msgid "ISO_639-3.ANK"
+msgstr "독일어"
+
+msgid "ISO_639-3.ANN"
+msgstr "처음:"
+
+msgid "ISO_639-3.ANP"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.ANQ"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.ANR"
+msgstr "찾기"
+
+msgid "ISO_639-3.ANS"
+msgstr "독일어"
+
+msgid "ISO_639-3.ANW"
+msgstr "찾기"
+
+msgid "ISO_639-3.ANY"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.AOD"
+msgstr "여백"
+
+msgid "ISO_639-3.AOF"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.AOH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AOJ"
+msgstr "러시아어"
+
+msgid "ISO_639-3.AOR"
+msgstr "한국어"
+
+msgid "ISO_639-3.AOS"
+msgstr "태국어"
+
+msgid "ISO_639-3.AOT"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.APB"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.APD"
+msgstr "페로스어"
+
+msgid "ISO_639-3.APF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.APG"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.APH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.API"
+msgstr "발트어"
+
+msgid "ISO_639-3.APW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AQC"
+msgstr "중국어"
+
+msgid "ISO_639-3.AQT"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.AQZ"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.ARA"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ARD"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ARE"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ARG"
+msgstr "페로스어"
+
+msgid "ISO_639-3.ARH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ARI"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.ARJ"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.ARL"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ARN"
+msgstr "여백"
+
+msgid "ISO_639-3.ARO"
+msgstr "페로스어"
+
+msgid "ISO_639-3.ARQ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ARS"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ARY"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.ASI"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.ASK"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.ASO"
+msgstr "주소"
+
+msgid "ISO_639-3.AST"
+msgstr "에스토니아어"
+
+msgid "ISO_639-3.ATB"
+msgstr "찾기"
+
+msgid "ISO_639-3.ATN"
+msgstr "에스토니아어"
+
+msgid "ISO_639-3.ATR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ATX"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ATZ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AUB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUH"
+msgstr "태국어"
+
+msgid "ISO_639-3.AUK"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.AUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AUQ"
+msgstr "영어"
+
+msgid "ISO_639-3.AUR"
+msgstr "그리스어"
+
+msgid "ISO_639-3.AUZ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AVA"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AVB"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AVI"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AVK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AVN"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AVS"
+msgstr "태국어"
+
+msgid "ISO_639-3.AWM"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AWX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AXL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.AYA"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AYH"
+msgstr "찾기"
+
+msgid "ISO_639-3.AYL"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.AYN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.AZA"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.AZJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.BAG"
+msgstr "터키어"
+
+msgid "ISO_639-3.BAJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BAN"
+msgstr "중국어"
+
+msgid "ISO_639-3.BAR"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BAY"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BBB"
+msgstr "태국어"
+
+msgid "ISO_639-3.BBD"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BBE"
+msgstr "발트어"
+
+msgid "ISO_639-3.BBF"
+msgstr "태국어"
+
+msgid "ISO_639-3.BBG"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.BBH"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BBI"
+msgstr "태국어"
+
+msgid "ISO_639-3.BBL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BBQ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.BBV"
+msgstr "한국어"
+
+msgid "ISO_639-3.BBW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BBX"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BBY"
+msgstr "발트어"
+
+msgid "ISO_639-3.BCF"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BCG"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BCH"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BCJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BCK"
+msgstr "터키어"
+
+msgid "ISO_639-3.BCO"
+msgstr "터키어"
+
+msgid "ISO_639-3.BCQ"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BCR"
+msgstr "중국어"
+
+msgid "ISO_639-3.BCT"
+msgstr "찾기"
+
+msgid "ISO_639-3.BCW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BCY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BDE"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BDF"
+msgstr "태국어"
+
+msgid "ISO_639-3.BDG"
+msgstr "발트어"
+
+msgid "ISO_639-3.BDJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BDK"
+msgstr "터키어"
+
+msgid "ISO_639-3.BDL"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.BDO"
+msgstr "여백"
+
+msgid "ISO_639-3.BDQ"
+msgstr "여백"
+
+msgid "ISO_639-3.BDU"
+msgstr "처음:"
+
+msgid "ISO_639-3.BDW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BEG"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BEH"
+msgstr "태국어"
+
+msgid "ISO_639-3.BEK"
+msgstr "발트어"
+
+msgid "ISO_639-3.BEL"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BEN"
+msgstr "발트어"
+
+msgid "ISO_639-3.BEO"
+msgstr "발트어"
+
+msgid "ISO_639-3.BEP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BES"
+msgstr "중국어"
+
+msgid "ISO_639-3.BEU"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BEW"
+msgstr "발트어"
+
+msgid "ISO_639-3.BFA"
+msgstr "태국어"
+
+msgid "ISO_639-3.BFC"
+msgstr "여백"
+
+msgid "ISO_639-3.BFG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BFR"
+msgstr "태국어"
+
+msgid "ISO_639-3.BFT"
+msgstr "찾기"
+
+msgid "ISO_639-3.BFU"
+msgstr "여백"
+
+msgid "ISO_639-3.BFW"
+msgstr "찾기"
+
+msgid "ISO_639-3.BFX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BGE"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BGG"
+msgstr "중국어"
+
+msgid "ISO_639-3.BGK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BGN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.BGQ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BGR"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.BGW"
+msgstr "태국어"
+
+msgid "ISO_639-3.BGY"
+msgstr "발트어"
+
+msgid "ISO_639-3.BGZ"
+msgstr "발트어"
+
+msgid "ISO_639-3.BHA"
+msgstr "태국어"
+
+msgid "ISO_639-3.BHB"
+msgstr "찾기"
+
+msgid "ISO_639-3.BHC"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BHD"
+msgstr "태국어"
+
+msgid "ISO_639-3.BHE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHG"
+msgstr "거짓"
+
+msgid "ISO_639-3.BHH"
+msgstr "태국어"
+
+msgid "ISO_639-3.BHI"
+msgstr "태국어"
+
+msgid "ISO_639-3.BHJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BHL"
+msgstr "찾기"
+
+msgid "ISO_639-3.BHM"
+msgstr "태국어"
+
+msgid "ISO_639-3.BHP"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BHR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHU"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BHV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHW"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BHX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BHZ"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.BIB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BIC"
+msgstr "태국어"
+
+msgid "ISO_639-3.BID"
+msgstr "찾기"
+
+msgid "ISO_639-3.BIG"
+msgstr "찾기"
+
+msgid "ISO_639-3.BIN"
+msgstr "찾기"
+
+msgid "ISO_639-3.BIO"
+msgstr "찾기"
+
+msgid "ISO_639-3.BIP"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BIQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BIR"
+msgstr "태국어"
+
+msgid "ISO_639-3.BIT"
+msgstr "처음:"
+
+msgid "ISO_639-3.BIU"
+msgstr "중국어"
+
+msgid "ISO_639-3.BIX"
+msgstr "태국어"
+
+msgid "ISO_639-3.BIY"
+msgstr "태국어"
+
+msgid "ISO_639-3.BIZ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BJB"
+msgstr "발트어"
+
+msgid "ISO_639-3.BJC"
+msgstr "태국어"
+
+msgid "ISO_639-3.BJH"
+msgstr "중국어"
+
+msgid "ISO_639-3.BJI"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BJJ"
+msgstr "터키어"
+
+msgid "ISO_639-3.BJN"
+msgstr "여백"
+
+msgid "ISO_639-3.BJR"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BJS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BJV"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BJY"
+msgstr "발트어"
+
+msgid "ISO_639-3.BJZ"
+msgstr "여백"
+
+msgid "ISO_639-3.BKD"
+msgstr "찾기"
+
+msgid "ISO_639-3.BKF"
+msgstr "그리스어"
+
+msgid "ISO_639-3.BKG"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BKI"
+msgstr "태국어"
+
+msgid "ISO_639-3.BKN"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BKS"
+msgstr "한국어"
+
+msgid "ISO_639-3.BKT"
+msgstr "찾기"
+
+msgid "ISO_639-3.BKX"
+msgstr "주소"
+
+msgid "ISO_639-3.BLG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BLH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BLI"
+msgstr "찾기"
+
+msgid "ISO_639-3.BLJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.BLL"
+msgstr "찾기"
+
+msgid "ISO_639-3.BLR"
+msgstr "찾기"
+
+msgid "ISO_639-3.BLS"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BMD"
+msgstr "터키어"
+
+msgid "ISO_639-3.BMH"
+msgstr "한국어"
+
+msgid "ISO_639-3.BMI"
+msgstr "태국어"
+
+msgid "ISO_639-3.BMO"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.BMP"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BMR"
+msgstr "거짓"
+
+msgid "ISO_639-3.BMS"
+msgstr "터키어"
+
+msgid "ISO_639-3.BMX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BNB"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BNC"
+msgstr "찾기"
+
+msgid "ISO_639-3.BND"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.BNF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BNG"
+msgstr "발트어"
+
+msgid "ISO_639-3.BNI"
+msgstr "찾기"
+
+msgid "ISO_639-3.BNK"
+msgstr "그리스어"
+
+msgid "ISO_639-3.BNL"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BNQ"
+msgstr "주소"
+
+msgid "ISO_639-3.BNU"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BNW"
+msgstr "찾기"
+
+msgid "ISO_639-3.BNZ"
+msgstr "그리스어"
+
+msgid "ISO_639-3.BOA"
+msgstr "한국어"
+
+msgid "ISO_639-3.BOB"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.BOF"
+msgstr "찾기"
+
+msgid "ISO_639-3.BOH"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BOM"
+msgstr "처음:"
+
+msgid "ISO_639-3.BON"
+msgstr "찾기"
+
+msgid "ISO_639-3.BOP"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BOS"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BOU"
+msgstr "찾기"
+
+msgid "ISO_639-3.BOW"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BPA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BPH"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.BPJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BPK"
+msgstr "처음:"
+
+msgid "ISO_639-3.BPO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BPP"
+msgstr "한국어"
+
+msgid "ISO_639-3.BPQ"
+msgstr "여백"
+
+msgid "ISO_639-3.BPV"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.BQB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQI"
+msgstr "태국어"
+
+msgid "ISO_639-3.BQJ"
+msgstr "여백"
+
+msgid "ISO_639-3.BQP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BQQ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BQS"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BQV"
+msgstr "한국어"
+
+msgid "ISO_639-3.BQX"
+msgstr "발트어"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BRE"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BRF"
+msgstr "독일어"
+
+msgid "ISO_639-3.BRG"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BRJ"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BRO"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BRS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BRT"
+msgstr "태국어"
+
+msgid "ISO_639-3.BRU"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.BRV"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.BRW"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BRX"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.BRY"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BRZ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BSB"
+msgstr "찾기"
+
+msgid "ISO_639-3.BSC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BSE"
+msgstr "태국어"
+
+msgid "ISO_639-3.BSG"
+msgstr "태국어"
+
+msgid "ISO_639-3.BSH"
+msgstr "주소"
+
+msgid "ISO_639-3.BSI"
+msgstr "여백"
+
+msgid "ISO_639-3.BSJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BSK"
+msgstr "태국어"
+
+msgid "ISO_639-3.BSM"
+msgstr "태국어"
+
+msgid "ISO_639-3.BSN"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BST"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BSU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BSW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BTA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BTF"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BTI"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BTJ"
+msgstr "일본어"
+
+msgid "ISO_639-3.BTR"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BTU"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BTV"
+msgstr "태국어"
+
+msgid "ISO_639-3.BUA"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BUB"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BUC"
+msgstr "태국어"
+
+msgid "ISO_639-3.BUG"
+msgstr "중국어"
+
+msgid "ISO_639-3.BUI"
+msgstr "발트어"
+
+msgid "ISO_639-3.BUK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BUL"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BUN"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.BUO"
+msgstr "터키어"
+
+msgid "ISO_639-3.BUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BUQ"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BUT"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BUW"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BVA"
+msgstr "한국어"
+
+msgid "ISO_639-3.BVB"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BVC"
+msgstr "중국어"
+
+msgid "ISO_639-3.BVH"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BVK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BVN"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BVP"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.BVQ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BVR"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BVT"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.BVU"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BVV"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BVW"
+msgstr "찾기"
+
+msgid "ISO_639-3.BVY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BVZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BWD"
+msgstr "한국어"
+
+msgid "ISO_639-3.BWG"
+msgstr "한국어"
+
+msgid "ISO_639-3.BWI"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BWM"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BWZ"
+msgstr "찾기"
+
+msgid "ISO_639-3.BXA"
+msgstr "태국어"
+
+msgid "ISO_639-3.BXG"
+msgstr "발트어"
+
+msgid "ISO_639-3.BXM"
+msgstr "한국어"
+
+msgid "ISO_639-3.BXN"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BXO"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BXR"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BXS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BXU"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BXZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.BYA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BYF"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BYH"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BYK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BYM"
+msgstr "태국어"
+
+msgid "ISO_639-3.BYN"
+msgstr "태국어"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BYR"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BYS"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.BYW"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.BYZ"
+msgstr "여백"
+
+msgid "ISO_639-3.BZA"
+msgstr "찾기"
+
+msgid "ISO_639-3.BZB"
+msgstr "찾기"
+
+msgid "ISO_639-3.BZD"
+msgstr "태국어"
+
+msgid "ISO_639-3.BZF"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.BZG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZI"
+msgstr "바스크어"
+
+msgid "ISO_639-3.BZO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.BZQ"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.BZR"
+msgstr "태국어"
+
+msgid "ISO_639-3.BZT"
+msgstr "찾기"
+
+msgid "ISO_639-3.BZU"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.BZV"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.BZZ"
+msgstr "주소"
+
+msgid "ISO_639-3.CAC"
+msgstr "중국어"
+
+msgid "ISO_639-3.CAF"
+msgstr "여백"
+
+msgid "ISO_639-3.CAH"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CAK"
+msgstr "태국어"
+
+msgid "ISO_639-3.CAL"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.CAN"
+msgstr "여백"
+
+msgid "ISO_639-3.CAR"
+msgstr "갤리언"
+
+msgid "ISO_639-3.CAS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.CAT"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CBC"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CBD"
+msgstr "여백"
+
+msgid "ISO_639-3.CBI"
+msgstr "체크어"
+
+msgid "ISO_639-3.CBK"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CBL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.CBV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CBW"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.CBY"
+msgstr "여백"
+
+msgid "ISO_639-3.CCA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CCG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CCM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CDA"
+msgstr "색상"
+
+msgid "ISO_639-3.CDE"
+msgstr "체크어"
+
+msgid "ISO_639-3.CDG"
+msgstr "여백"
+
+msgid "ISO_639-3.CDI"
+msgstr "색상"
+
+msgid "ISO_639-3.CDO"
+msgstr "중국어"
+
+msgid "ISO_639-3.CDY"
+msgstr "색상"
+
+msgid "ISO_639-3.CDZ"
+msgstr "한국어"
+
+msgid "ISO_639-3.CEA"
+msgstr "발트어"
+
+msgid "ISO_639-3.CEK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.CEN"
+msgstr "중국어"
+
+msgid "ISO_639-3.CES"
+msgstr "체크어"
+
+msgid "ISO_639-3.CFD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CFM"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.CHC"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CHE"
+msgstr "체크어"
+
+msgid "ISO_639-3.CHK"
+msgstr "중국어"
+
+msgid "ISO_639-3.CHM"
+msgstr "러시아어"
+
+msgid "ISO_639-3.CHX"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CIE"
+msgstr "중국어"
+
+msgid "ISO_639-3.CIK"
+msgstr "터키어"
+
+msgid "ISO_639-3.CIM"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.CIP"
+msgstr "중국어"
+
+msgid "ISO_639-3.CIR"
+msgstr "찾기"
+
+msgid "ISO_639-3.CIY"
+msgstr "태국어"
+
+msgid "ISO_639-3.CJA"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.CJI"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CJK"
+msgstr "중국어"
+
+msgid "ISO_639-3.CJM"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.CJN"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.CJV"
+msgstr "중국어"
+
+msgid "ISO_639-3.CJY"
+msgstr "중국어"
+
+msgid "ISO_639-3.CKB"
+msgstr "터키어"
+
+msgid "ISO_639-3.CKL"
+msgstr "여백"
+
+msgid "ISO_639-3.CKN"
+msgstr "중국어"
+
+msgid "ISO_639-3.CKT"
+msgstr "중국어"
+
+msgid "ISO_639-3.CKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CKV"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CLA"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.CLE"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.CLJ"
+msgstr "중국어"
+
+msgid "ISO_639-3.CLL"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CLT"
+msgstr "중국어"
+
+msgid "ISO_639-3.CLU"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CME"
+msgstr "독일어"
+
+msgid "ISO_639-3.CML"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.CMN"
+msgstr "발트어"
+
+msgid "ISO_639-3.CMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CNG"
+msgstr "한국어"
+
+msgid "ISO_639-3.CNH"
+msgstr "중국어"
+
+msgid "ISO_639-3.CNK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.CNL"
+msgstr "발트어"
+
+msgid "ISO_639-3.CNO"
+msgstr "색상"
+
+msgid "ISO_639-3.CNW"
+msgstr "발트어"
+
+msgid "ISO_639-3.CNX"
+msgstr "색상"
+
+msgid "ISO_639-3.COE"
+msgstr "한국어"
+
+msgid "ISO_639-3.COO"
+msgstr "처음:"
+
+msgid "ISO_639-3.COR"
+msgstr "색상"
+
+msgid "ISO_639-3.COU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.COX"
+msgstr "주소"
+
+msgid "ISO_639-3.COZ"
+msgstr "체크어"
+
+msgid "ISO_639-3.CPI"
+msgstr "중국어"
+
+msgid "ISO_639-3.CPN"
+msgstr "체크어"
+
+msgid "ISO_639-3.CPX"
+msgstr "중국어"
+
+msgid "ISO_639-3.CRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.CRE"
+msgstr "그리스어"
+
+msgid "ISO_639-3.CRF"
+msgstr "터키어"
+
+msgid "ISO_639-3.CRR"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.CRX"
+msgstr "여백"
+
+msgid "ISO_639-3.CRY"
+msgstr "색상"
+
+msgid "ISO_639-3.CSJ"
+msgstr "중국어"
+
+msgid "ISO_639-3.CST"
+msgstr "한국어"
+
+msgid "ISO_639-3.CSV"
+msgstr "중국어"
+
+msgid "ISO_639-3.CSY"
+msgstr "발트어"
+
+msgid "ISO_639-3.CTC"
+msgstr "체크어"
+
+msgid "ISO_639-3.CTD"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.CTG"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.CTH"
+msgstr "중국어"
+
+msgid "ISO_639-3.CTS"
+msgstr "한국어"
+
+msgid "ISO_639-3.CTU"
+msgstr "색상"
+
+msgid "ISO_639-3.CUH"
+msgstr "중국어"
+
+msgid "ISO_639-3.CUI"
+msgstr "여백"
+
+msgid "ISO_639-3.CUL"
+msgstr "찾기"
+
+msgid "ISO_639-3.CUU"
+msgstr "태국어"
+
+msgid "ISO_639-3.CUW"
+msgstr "중국어"
+
+msgid "ISO_639-3.CVG"
+msgstr "중국어"
+
+msgid "ISO_639-3.CWB"
+msgstr "여백"
+
+msgid "ISO_639-3.CWE"
+msgstr "기타"
+
+msgid "ISO_639-3.CZH"
+msgstr "중국어"
+
+msgid "ISO_639-3.CZK"
+msgstr "한국어"
+
+msgid "ISO_639-3.CZT"
+msgstr "발트어"
+
+msgid "ISO_639-3.DAC"
+msgstr "태국어"
+
+msgid "ISO_639-3.DAD"
+msgstr "여백"
+
+msgid "ISO_639-3.DAE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DAG"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DAM"
+msgstr "여백"
+
+msgid "ISO_639-3.DAN"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DAO"
+msgstr "발트어"
+
+msgid "ISO_639-3.DAQ"
+msgstr "여백"
+
+msgid "ISO_639-3.DAR"
+msgstr "여백"
+
+msgid "ISO_639-3.DAV"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.DAX"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DBA"
+msgstr "찾기"
+
+msgid "ISO_639-3.DBJ"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.DBM"
+msgstr "여백"
+
+msgid "ISO_639-3.DBO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DBW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.DEC"
+msgstr "태국어"
+
+msgid "ISO_639-3.DED"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DEH"
+msgstr "태국어"
+
+msgid "ISO_639-3.DER"
+msgstr "여백"
+
+msgid "ISO_639-3.DES"
+msgstr "출력"
+
+msgid "ISO_639-3.DEU"
+msgstr "독일어"
+
+msgid "ISO_639-3.DGG"
+msgstr "찾기"
+
+msgid "ISO_639-3.DGI"
+msgstr "한국어"
+
+msgid "ISO_639-3.DGK"
+msgstr "여백"
+
+msgid "ISO_639-3.DGL"
+msgstr "찾기"
+
+msgid "ISO_639-3.DGN"
+msgstr "여백"
+
+msgid "ISO_639-3.DGX"
+msgstr "여백"
+
+msgid "ISO_639-3.DGZ"
+msgstr "여백"
+
+msgid "ISO_639-3.DHG"
+msgstr "찾기"
+
+msgid "ISO_639-3.DHN"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DHO"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.DHR"
+msgstr "여백"
+
+msgid "ISO_639-3.DHS"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DHU"
+msgstr "여백"
+
+msgid "ISO_639-3.DHX"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.DIC"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.DIF"
+msgstr "찾기"
+
+msgid "ISO_639-3.DIJ"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DIK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.DIP"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.DIR"
+msgstr "찾기"
+
+msgid "ISO_639-3.DIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DIT"
+msgstr "태국어"
+
+msgid "ISO_639-3.DIU"
+msgstr "찾기"
+
+msgid "ISO_639-3.DIV"
+msgstr "찾기"
+
+msgid "ISO_639-3.DIW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.DJE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DJI"
+msgstr "찾기"
+
+msgid "ISO_639-3.DJO"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.DJU"
+msgstr "한국어"
+
+msgid "ISO_639-3.DKK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DKX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DLG"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.DLK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DLM"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.DLN"
+msgstr "여백"
+
+msgid "ISO_639-3.DMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DML"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.DMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DMX"
+msgstr "독일어"
+
+msgid "ISO_639-3.DND"
+msgstr "여백"
+
+msgid "ISO_639-3.DNG"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.DNJ"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DNK"
+msgstr "발트어"
+
+msgid "ISO_639-3.DNR"
+msgstr "여백"
+
+msgid "ISO_639-3.DNU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DNV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DNW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.DOH"
+msgstr "여백"
+
+msgid "ISO_639-3.DOK"
+msgstr "찾기"
+
+msgid "ISO_639-3.DOO"
+msgstr "여백"
+
+msgid "ISO_639-3.DOP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DOR"
+msgstr "여백"
+
+msgid "ISO_639-3.DOT"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DOX"
+msgstr "러시아어"
+
+msgid "ISO_639-3.DOY"
+msgstr "처음:"
+
+msgid "ISO_639-3.DOZ"
+msgstr "여백"
+
+msgid "ISO_639-3.DRB"
+msgstr "여백"
+
+msgid "ISO_639-3.DRC"
+msgstr "찾기"
+
+msgid "ISO_639-3.DRD"
+msgstr "여백"
+
+msgid "ISO_639-3.DRG"
+msgstr "영어"
+
+msgid "ISO_639-3.DRL"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DRS"
+msgstr "그리스어"
+
+msgid "ISO_639-3.DRY"
+msgstr "여백"
+
+msgid "ISO_639-3.DSB"
+msgstr "독일어"
+
+msgid "ISO_639-3.DSI"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DSO"
+msgstr "출력"
+
+msgid "ISO_639-3.DTA"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.DTY"
+msgstr "발트어"
+
+msgid "ISO_639-3.DUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUO"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.DUP"
+msgstr "주소"
+
+msgid "ISO_639-3.DUV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DUZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DVA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DWA"
+msgstr "찾기"
+
+msgid "ISO_639-3.DWR"
+msgstr "주소"
+
+msgid "ISO_639-3.DWU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DWW"
+msgstr "여백"
+
+msgid "ISO_639-3.DWY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.DYA"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.DZA"
+msgstr "태국어"
+
+msgid "ISO_639-3.DZG"
+msgstr "여백"
+
+msgid "ISO_639-3.DZL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.EAA"
+msgstr "한국어"
+
+msgid "ISO_639-3.EBK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ECR"
+msgstr "한국어"
+
+msgid "ISO_639-3.EGL"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.EIV"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.EKC"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.EKG"
+msgstr "여백"
+
+msgid "ISO_639-3.EKK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.EKR"
+msgstr "일본어"
+
+msgid "ISO_639-3.EKY"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.EMG"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.EMN"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.EMU"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ENA"
+msgstr "발트어"
+
+msgid "ISO_639-3.ENB"
+msgstr "여백"
+
+msgid "ISO_639-3.ENG"
+msgstr "영어"
+
+msgid "ISO_639-3.ENQ"
+msgstr "발트어"
+
+msgid "ISO_639-3.EPO"
+msgstr "에스페란토어"
+
+msgid "ISO_639-3.ERA"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.ERG"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.ERO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ESG"
+msgstr "찾기"
+
+msgid "ISO_639-3.EST"
+msgstr "에스토니아어"
+
+msgid "ISO_639-3.ESY"
+msgstr "한국어"
+
+msgid "ISO_639-3.EUS"
+msgstr "바스크어"
+
+msgid "ISO_639-3.EYO"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.FAA"
+msgstr "바스크어"
+
+msgid "ISO_639-3.FAF"
+msgstr "주소"
+
+msgid "ISO_639-3.FAH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FAJ"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.FAO"
+msgstr "페로스어"
+
+msgid "ISO_639-3.FAP"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.FAR"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.FAS"
+msgstr "출력"
+
+msgid "ISO_639-3.FAT"
+msgstr "주소"
+
+msgid "ISO_639-3.FAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FAY"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FAZ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FBL"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.FER"
+msgstr "페로스어"
+
+msgid "ISO_639-3.FIJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.FIL"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FIN"
+msgstr "핀란드어"
+
+msgid "ISO_639-3.FIP"
+msgstr "찾기"
+
+msgid "ISO_639-3.FIR"
+msgstr "찾기"
+
+msgid "ISO_639-3.FIW"
+msgstr "찾기"
+
+msgid "ISO_639-3.FKV"
+msgstr "핀란드어"
+
+msgid "ISO_639-3.FLI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.FLL"
+msgstr "한국어"
+
+msgid "ISO_639-3.FLY"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.FMU"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FNG"
+msgstr "찾기"
+
+msgid "ISO_639-3.FNI"
+msgstr "주소"
+
+msgid "ISO_639-3.FOM"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.FOR"
+msgstr "한국어"
+
+msgid "ISO_639-3.FQS"
+msgstr "페로스어"
+
+msgid "ISO_639-3.FRA"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.FRC"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.FRK"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.FRP"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.FRR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FRS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FRY"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FUF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.FUI"
+msgstr "태국어"
+
+msgid "ISO_639-3.FUR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.FUU"
+msgstr "터키어"
+
+msgid "ISO_639-3.GAB"
+msgstr "여백"
+
+msgid "ISO_639-3.GAF"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GAH"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.GAI"
+msgstr "여백"
+
+msgid "ISO_639-3.GAL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.GAM"
+msgstr "여백"
+
+msgid "ISO_639-3.GAN"
+msgstr "중국어"
+
+msgid "ISO_639-3.GAO"
+msgstr "주소"
+
+msgid "ISO_639-3.GAT"
+msgstr "발트어"
+
+msgid "ISO_639-3.GBD"
+msgstr "여백"
+
+msgid "ISO_639-3.GBF"
+msgstr "찾기"
+
+msgid "ISO_639-3.GBJ"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.GBK"
+msgstr "찾기"
+
+msgid "ISO_639-3.GBL"
+msgstr "태국어"
+
+msgid "ISO_639-3.GBM"
+msgstr "여백"
+
+msgid "ISO_639-3.GBY"
+msgstr "여백"
+
+msgid "ISO_639-3.GCC"
+msgstr "여백"
+
+msgid "ISO_639-3.GCD"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.GCE"
+msgstr "갤리언"
+
+msgid "ISO_639-3.GCN"
+msgstr "갤리언"
+
+msgid "ISO_639-3.GDI"
+msgstr "찾기"
+
+msgid "ISO_639-3.GDK"
+msgstr "찾기"
+
+msgid "ISO_639-3.GDL"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.GDN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.GDQ"
+msgstr "여백"
+
+msgid "ISO_639-3.GDT"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.GDX"
+msgstr "찾기"
+
+msgid "ISO_639-3.GEA"
+msgstr "독일어"
+
+msgid "ISO_639-3.GEB"
+msgstr "터키어"
+
+msgid "ISO_639-3.GEG"
+msgstr "발트어"
+
+msgid "ISO_639-3.GEI"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GEJ"
+msgstr "독일어"
+
+msgid "ISO_639-3.GEQ"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GEW"
+msgstr "독일어"
+
+msgid "ISO_639-3.GEX"
+msgstr "한국어"
+
+msgid "ISO_639-3.GEZ"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GGE"
+msgstr "페로스어"
+
+msgid "ISO_639-3.GGK"
+msgstr "한국어"
+
+msgid "ISO_639-3.GHR"
+msgstr "독일어"
+
+msgid "ISO_639-3.GHT"
+msgstr "중국어"
+
+msgid "ISO_639-3.GIC"
+msgstr "태국어"
+
+msgid "ISO_639-3.GID"
+msgstr "찾기"
+
+msgid "ISO_639-3.GIG"
+msgstr "여백"
+
+msgid "ISO_639-3.GIL"
+msgstr "베트남어"
+
+msgid "ISO_639-3.GIQ"
+msgstr "독일어"
+
+msgid "ISO_639-3.GIR"
+msgstr "독일어"
+
+msgid "ISO_639-3.GIU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GIW"
+msgstr "독일어"
+
+msgid "ISO_639-3.GJM"
+msgstr "찾기"
+
+msgid "ISO_639-3.GJN"
+msgstr "찾기"
+
+msgid "ISO_639-3.GJU"
+msgstr "여백"
+
+msgid "ISO_639-3.GKE"
+msgstr "찾기"
+
+msgid "ISO_639-3.GKN"
+msgstr "한국어"
+
+msgid "ISO_639-3.GLD"
+msgstr "찾기"
+
+msgid "ISO_639-3.GLE"
+msgstr "아일랜드어"
+
+msgid "ISO_639-3.GLG"
+msgstr "갤리언"
+
+msgid "ISO_639-3.GLH"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.GLL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.GLV"
+msgstr "여백"
+
+msgid "ISO_639-3.GMA"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.GMV"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GNB"
+msgstr "찾기"
+
+msgid "ISO_639-3.GNC"
+msgstr "여백"
+
+msgid "ISO_639-3.GNE"
+msgstr "찾기"
+
+msgid "ISO_639-3.GNH"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.GNI"
+msgstr "찾기"
+
+msgid "ISO_639-3.GNM"
+msgstr "독일어"
+
+msgid "ISO_639-3.GNQ"
+msgstr "여백"
+
+msgid "ISO_639-3.GNW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.GNZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.GOA"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GOD"
+msgstr "찾기"
+
+msgid "ISO_639-3.GOE"
+msgstr "찾기"
+
+msgid "ISO_639-3.GOF"
+msgstr "한국어"
+
+msgid "ISO_639-3.GOK"
+msgstr "한국어"
+
+msgid "ISO_639-3.GON"
+msgstr "찾기"
+
+msgid "ISO_639-3.GOS"
+msgstr "찾기"
+
+msgid "ISO_639-3.GOY"
+msgstr "찾기"
+
+msgid "ISO_639-3.GPN"
+msgstr "태국어"
+
+msgid "ISO_639-3.GQA"
+msgstr "여백"
+
+msgid "ISO_639-3.GQU"
+msgstr "바스크어"
+
+msgid "ISO_639-3.GRB"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GRG"
+msgstr "여백"
+
+msgid "ISO_639-3.GRI"
+msgstr "태국어"
+
+msgid "ISO_639-3.GRO"
+msgstr "독일어"
+
+msgid "ISO_639-3.GRR"
+msgstr "주소"
+
+msgid "ISO_639-3.GRS"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GRT"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GRU"
+msgstr "중국어"
+
+msgid "ISO_639-3.GRX"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.GSW"
+msgstr "독일어"
+
+msgid "ISO_639-3.GUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GUR"
+msgstr "페로스어"
+
+msgid "ISO_639-3.GVE"
+msgstr "네덜란드어"
+
+msgid "ISO_639-3.GVF"
+msgstr "찾기"
+
+msgid "ISO_639-3.GVL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GVM"
+msgstr "독일어"
+
+msgid "ISO_639-3.GVR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.GWA"
+msgstr "여백"
+
+msgid "ISO_639-3.GWC"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.GWE"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GWF"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GWN"
+msgstr "여백"
+
+msgid "ISO_639-3.GWR"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GWW"
+msgstr "찾기"
+
+msgid "ISO_639-3.GYB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GYE"
+msgstr "독일어"
+
+msgid "ISO_639-3.GYF"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.GYI"
+msgstr "그리스어"
+
+msgid "ISO_639-3.GYL"
+msgstr "태국어"
+
+msgid "ISO_639-3.GYR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.GZI"
+msgstr "태국어"
+
+msgid "ISO_639-3.GZN"
+msgstr "독일어"
+
+msgid "ISO_639-3.HAC"
+msgstr "독일어"
+
+msgid "ISO_639-3.HAD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAG"
+msgstr "찾기"
+
+msgid "ISO_639-3.HAI"
+msgstr "찾기"
+
+msgid "ISO_639-3.HAJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.HAK"
+msgstr "중국어"
+
+msgid "ISO_639-3.HAL"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.HAM"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HAN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.HAP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAR"
+msgstr "여백"
+
+msgid "ISO_639-3.HAS"
+msgstr "찾기"
+
+msgid "ISO_639-3.HAT"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.HAU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HBN"
+msgstr "출력"
+
+msgid "ISO_639-3.HBO"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HBS"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.HBU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HDY"
+msgstr "찾기"
+
+msgid "ISO_639-3.HEB"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HEH"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HER"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HGW"
+msgstr "찾기"
+
+msgid "ISO_639-3.HHR"
+msgstr "기타"
+
+msgid "ISO_639-3.HHY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HIA"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.HIB"
+msgstr "찾기"
+
+msgid "ISO_639-3.HID"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HIF"
+msgstr "찾기"
+
+msgid "ISO_639-3.HIG"
+msgstr "기타"
+
+msgid "ISO_639-3.HII"
+msgstr "찾기"
+
+msgid "ISO_639-3.HIN"
+msgstr "찾기"
+
+msgid "ISO_639-3.HIR"
+msgstr "찾기"
+
+msgid "ISO_639-3.HJI"
+msgstr "찾기"
+
+msgid "ISO_639-3.HKA"
+msgstr "기타"
+
+msgid "ISO_639-3.HKE"
+msgstr "찾기"
+
+msgid "ISO_639-3.HLA"
+msgstr "찾기"
+
+msgid "ISO_639-3.HLB"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.HLE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HLT"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.HMJ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.HMO"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.HMT"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.HMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HMW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.HNI"
+msgstr "찾기"
+
+msgid "ISO_639-3.HNU"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.HOA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HOE"
+msgstr "처음:"
+
+msgid "ISO_639-3.HOJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.HOM"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.HOR"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HOW"
+msgstr "찾기"
+
+msgid "ISO_639-3.HRE"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.HRO"
+msgstr "찾기"
+
+msgid "ISO_639-3.HRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HRV"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.HRW"
+msgstr "여백"
+
+msgid "ISO_639-3.HRX"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.HRZ"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.HSB"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.HSN"
+msgstr "중국어"
+
+msgid "ISO_639-3.HSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HTS"
+msgstr "찾기"
+
+msgid "ISO_639-3.HUB"
+msgstr "찾기"
+
+msgid "ISO_639-3.HUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUD"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.HUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUM"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.HUN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.HUO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HUS"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.HUT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.HWO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IAI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IAR"
+msgstr "여백"
+
+msgid "ISO_639-3.IBD"
+msgstr "찾기"
+
+msgid "ISO_639-3.IBG"
+msgstr "찾기"
+
+msgid "ISO_639-3.IBL"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.IBY"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.IDB"
+msgstr "포르투갈어"
+
+msgid "ISO_639-3.IDR"
+msgstr "찾기"
+
+msgid "ISO_639-3.IDS"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.IGL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.IGN"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.IGS"
+msgstr "표시"
+
+msgid "ISO_639-3.III"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.IJE"
+msgstr "찾기"
+
+msgid "ISO_639-3.IKR"
+msgstr "한국어"
+
+msgid "ISO_639-3.IKS"
+msgstr "한국어"
+
+msgid "ISO_639-3.ILB"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.ILE"
+msgstr "표시"
+
+msgid "ISO_639-3.ILI"
+msgstr "터키어"
+
+msgid "ISO_639-3.ILM"
+msgstr "러시아어"
+
+msgid "ISO_639-3.IMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.IMO"
+msgstr "영어"
+
+msgid "ISO_639-3.IMS"
+msgstr "여백"
+
+msgid "ISO_639-3.IMY"
+msgstr "여백"
+
+msgid "ISO_639-3.INB"
+msgstr "발트어"
+
+msgid "ISO_639-3.IND"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.INH"
+msgstr "영어"
+
+msgid "ISO_639-3.INN"
+msgstr "찾기"
+
+msgid "ISO_639-3.IPK"
+msgstr "인도어"
+
+msgid "ISO_639-3.IRU"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.IRX"
+msgstr "기타"
+
+msgid "ISO_639-3.IRY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ISA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ISH"
+msgstr "에스토니아어"
+
+msgid "ISO_639-3.ISL"
+msgstr "아이슬란드어"
+
+msgid "ISO_639-3.ISM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ITA"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.ITD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ITE"
+msgstr "표시"
+
+msgid "ISO_639-3.ITK"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.ITR"
+msgstr "표시"
+
+msgid "ISO_639-3.ITV"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.ITY"
+msgstr "찾기"
+
+msgid "ISO_639-3.IVB"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.IVV"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.IZH"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.JAC"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.JAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JAN"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JAU"
+msgstr "터키어"
+
+msgid "ISO_639-3.JAV"
+msgstr "일본어"
+
+msgid "ISO_639-3.JAY"
+msgstr "찾기"
+
+msgid "ISO_639-3.JBE"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.JBJ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.JBK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.JCT"
+msgstr "한국어"
+
+msgid "ISO_639-3.JDT"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.JEB"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.JEG"
+msgstr "발트어"
+
+msgid "ISO_639-3.JER"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.JET"
+msgstr "여백"
+
+msgid "ISO_639-3.JGE"
+msgstr "출력"
+
+msgid "ISO_639-3.JHI"
+msgstr "한국어"
+
+msgid "ISO_639-3.JKR"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.JKU"
+msgstr "주소"
+
+msgid "ISO_639-3.JLE"
+msgstr "찾기"
+
+msgid "ISO_639-3.JMC"
+msgstr "여백"
+
+msgid "ISO_639-3.JMN"
+msgstr "터키어"
+
+msgid "ISO_639-3.JND"
+msgstr "여백"
+
+msgid "ISO_639-3.JNI"
+msgstr "태국어"
+
+msgid "ISO_639-3.JNS"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.JPN"
+msgstr "일본어"
+
+msgid "ISO_639-3.JPR"
+msgstr "출력"
+
+msgid "ISO_639-3.JRA"
+msgstr "여백"
+
+msgid "ISO_639-3.JRB"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.JUK"
+msgstr "일본어"
+
+msgid "ISO_639-3.JUL"
+msgstr "터키어"
+
+msgid "ISO_639-3.JUN"
+msgstr "찾기"
+
+msgid "ISO_639-3.JUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JUT"
+msgstr "터키어"
+
+msgid "ISO_639-3.JUY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.JVD"
+msgstr "여백"
+
+msgid "ISO_639-3.JVN"
+msgstr "일본어"
+
+msgid "ISO_639-3.JYE"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.KAD"
+msgstr "여백"
+
+msgid "ISO_639-3.KAE"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.KAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KAI"
+msgstr "한국어"
+
+msgid "ISO_639-3.KAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KAU"
+msgstr "터키어"
+
+msgid "ISO_639-3.KBE"
+msgstr "터키어"
+
+msgid "ISO_639-3.KBI"
+msgstr "주소"
+
+msgid "ISO_639-3.KBJ"
+msgstr "터키어"
+
+msgid "ISO_639-3.KBL"
+msgstr "터키어"
+
+msgid "ISO_639-3.KBP"
+msgstr "태국어"
+
+msgid "ISO_639-3.KBS"
+msgstr "한국어"
+
+msgid "ISO_639-3.KBT"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.KBU"
+msgstr "터키어"
+
+msgid "ISO_639-3.KBV"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.KBW"
+msgstr "태국어"
+
+msgid "ISO_639-3.KBY"
+msgstr "터키어"
+
+msgid "ISO_639-3.KBZ"
+msgstr "네덜란드어"
+
+msgid "ISO_639-3.KCC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KCE"
+msgstr "태국어"
+
+msgid "ISO_639-3.KCF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KCI"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.KCJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KCK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KCO"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KCP"
+msgstr "찾기"
+
+msgid "ISO_639-3.KCR"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.KCS"
+msgstr "한국어"
+
+msgid "ISO_639-3.KCT"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.KCW"
+msgstr "여백"
+
+msgid "ISO_639-3.KCY"
+msgstr "한국어"
+
+msgid "ISO_639-3.KDC"
+msgstr "터키어"
+
+msgid "ISO_639-3.KDE"
+msgstr "거짓"
+
+msgid "ISO_639-3.KDF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KDG"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.KDR"
+msgstr "터키어"
+
+msgid "ISO_639-3.KDU"
+msgstr "여백"
+
+msgid "ISO_639-3.KDW"
+msgstr "한국어"
+
+msgid "ISO_639-3.KDY"
+msgstr "기타"
+
+msgid "ISO_639-3.KEA"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.KED"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.KEG"
+msgstr "일본어"
+
+msgid "ISO_639-3.KEH"
+msgstr "기타"
+
+msgid "ISO_639-3.KEJ"
+msgstr "여백"
+
+msgid "ISO_639-3.KEN"
+msgstr "한국어"
+
+msgid "ISO_639-3.KEQ"
+msgstr "기타"
+
+msgid "ISO_639-3.KER"
+msgstr "기타"
+
+msgid "ISO_639-3.KEY"
+msgstr "인도어"
+
+msgid "ISO_639-3.KEZ"
+msgstr "중국어"
+
+msgid "ISO_639-3.KFA"
+msgstr "한국어"
+
+msgid "ISO_639-3.KFB"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KFD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KFE"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.KFF"
+msgstr "한국어"
+
+msgid "ISO_639-3.KFG"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFH"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFK"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFM"
+msgstr "태국어"
+
+msgid "ISO_639-3.KFN"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFP"
+msgstr "한국어"
+
+msgid "ISO_639-3.KFR"
+msgstr "태국어"
+
+msgid "ISO_639-3.KFS"
+msgstr "태국어"
+
+msgid "ISO_639-3.KFT"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFU"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFV"
+msgstr "터키어"
+
+msgid "ISO_639-3.KFW"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.KFX"
+msgstr "태국어"
+
+msgid "ISO_639-3.KFY"
+msgstr "터키어"
+
+msgid "ISO_639-3.KGB"
+msgstr "한국어"
+
+msgid "ISO_639-3.KGD"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.KGE"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.KGL"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.KGN"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.KGP"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.KGV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KGW"
+msgstr "터키어"
+
+msgid "ISO_639-3.KHA"
+msgstr "태국어"
+
+msgid "ISO_639-3.KHE"
+msgstr "한국어"
+
+msgid "ISO_639-3.KHF"
+msgstr "기타"
+
+msgid "ISO_639-3.KHJ"
+msgstr "터키어"
+
+msgid "ISO_639-3.KHL"
+msgstr "터키어"
+
+msgid "ISO_639-3.KHN"
+msgstr "중국어"
+
+msgid "ISO_639-3.KHO"
+msgstr "중국어"
+
+msgid "ISO_639-3.KHP"
+msgstr "여백"
+
+msgid "ISO_639-3.KHR"
+msgstr "태국어"
+
+msgid "ISO_639-3.KHS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KHT"
+msgstr "태국어"
+
+msgid "ISO_639-3.KHV"
+msgstr "태국어"
+
+msgid "ISO_639-3.KHX"
+msgstr "터키어"
+
+msgid "ISO_639-3.KIB"
+msgstr "한국어"
+
+msgid "ISO_639-3.KID"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.KIH"
+msgstr "기타"
+
+msgid "ISO_639-3.KIL"
+msgstr "터키어"
+
+msgid "ISO_639-3.KIM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KIQ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KIS"
+msgstr "터키어"
+
+msgid "ISO_639-3.KIW"
+msgstr "한국어"
+
+msgid "ISO_639-3.KIX"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.KJA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KJC"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.KJE"
+msgstr "한국어"
+
+msgid "ISO_639-3.KJG"
+msgstr "기타"
+
+msgid "ISO_639-3.KJO"
+msgstr "터키어"
+
+msgid "ISO_639-3.KJQ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KJR"
+msgstr "터키어"
+
+msgid "ISO_639-3.KKA"
+msgstr "여백"
+
+msgid "ISO_639-3.KKF"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.KKK"
+msgstr "한국어"
+
+msgid "ISO_639-3.KKL"
+msgstr "한국어"
+
+msgid "ISO_639-3.KKO"
+msgstr "한국어"
+
+msgid "ISO_639-3.KKQ"
+msgstr "태국어"
+
+msgid "ISO_639-3.KKT"
+msgstr "한국어"
+
+msgid "ISO_639-3.KKU"
+msgstr "태국어"
+
+msgid "ISO_639-3.KKV"
+msgstr "한국어"
+
+msgid "ISO_639-3.KKX"
+msgstr "태국어"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLG"
+msgstr "찾기"
+
+msgid "ISO_639-3.KLJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KLL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLM"
+msgstr "여백"
+
+msgid "ISO_639-3.KLN"
+msgstr "한국어"
+
+msgid "ISO_639-3.KLP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KLR"
+msgstr "태국어"
+
+msgid "ISO_639-3.KLW"
+msgstr "주소"
+
+msgid "ISO_639-3.KLY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KMA"
+msgstr "한국어"
+
+msgid "ISO_639-3.KMD"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.KMH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KMK"
+msgstr "태국어"
+
+msgid "ISO_639-3.KML"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.KMR"
+msgstr "한국어"
+
+msgid "ISO_639-3.KMU"
+msgstr "터키어"
+
+msgid "ISO_639-3.KMY"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.KNC"
+msgstr "터키어"
+
+msgid "ISO_639-3.KND"
+msgstr "한국어"
+
+msgid "ISO_639-3.KNE"
+msgstr "한국어"
+
+msgid "ISO_639-3.KNF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KNI"
+msgstr "터키어"
+
+msgid "ISO_639-3.KNJ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KNK"
+msgstr "한국어"
+
+msgid "ISO_639-3.KOC"
+msgstr "주소"
+
+msgid "ISO_639-3.KOD"
+msgstr "찾기"
+
+msgid "ISO_639-3.KOF"
+msgstr "터키어"
+
+msgid "ISO_639-3.KOG"
+msgstr "찾기"
+
+msgid "ISO_639-3.KOK"
+msgstr "한국어"
+
+msgid "ISO_639-3.KOO"
+msgstr "한국어"
+
+msgid "ISO_639-3.KOR"
+msgstr "한국어"
+
+msgid "ISO_639-3.KOS"
+msgstr "한국어"
+
+msgid "ISO_639-3.KOT"
+msgstr "여백"
+
+msgid "ISO_639-3.KOU"
+msgstr "한국어"
+
+msgid "ISO_639-3.KOZ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KPD"
+msgstr "한국어"
+
+msgid "ISO_639-3.KPH"
+msgstr "찾기"
+
+msgid "ISO_639-3.KPK"
+msgstr "한국어"
+
+msgid "ISO_639-3.KPL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KPR"
+msgstr "한국어"
+
+msgid "ISO_639-3.KPS"
+msgstr "태국어"
+
+msgid "ISO_639-3.KPY"
+msgstr "한국어"
+
+msgid "ISO_639-3.KQB"
+msgstr "한국어"
+
+msgid "ISO_639-3.KQE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KQG"
+msgstr "기타"
+
+msgid "ISO_639-3.KQM"
+msgstr "태국어"
+
+msgid "ISO_639-3.KQO"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KQQ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KQR"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.KQU"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.KQW"
+msgstr "여백"
+
+msgid "ISO_639-3.KQY"
+msgstr "한국어"
+
+msgid "ISO_639-3.KQZ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KRA"
+msgstr "태국어"
+
+msgid "ISO_639-3.KRB"
+msgstr "한국어"
+
+msgid "ISO_639-3.KRE"
+msgstr "여백"
+
+msgid "ISO_639-3.KRH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.KRI"
+msgstr "터키어"
+
+msgid "ISO_639-3.KRK"
+msgstr "그리스어"
+
+msgid "ISO_639-3.KRL"
+msgstr "한국어"
+
+msgid "ISO_639-3.KRM"
+msgstr "터키어"
+
+msgid "ISO_639-3.KRT"
+msgstr "터키어"
+
+msgid "ISO_639-3.KRU"
+msgstr "터키어"
+
+msgid "ISO_639-3.KRV"
+msgstr "터키어"
+
+msgid "ISO_639-3.KRW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KRX"
+msgstr "한국어"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSD"
+msgstr "터키어"
+
+msgid "ISO_639-3.KSE"
+msgstr "터키어"
+
+msgid "ISO_639-3.KSF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSI"
+msgstr "터키어"
+
+msgid "ISO_639-3.KSJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KSO"
+msgstr "한국어"
+
+msgid "ISO_639-3.KSR"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.KSV"
+msgstr "터키어"
+
+msgid "ISO_639-3.KSX"
+msgstr "한국어"
+
+msgid "ISO_639-3.KSZ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KTA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KTD"
+msgstr "한국어"
+
+msgid "ISO_639-3.KTF"
+msgstr "태국어"
+
+msgid "ISO_639-3.KTH"
+msgstr "한국어"
+
+msgid "ISO_639-3.KTK"
+msgstr "터키어"
+
+msgid "ISO_639-3.KTM"
+msgstr "터키어"
+
+msgid "ISO_639-3.KTV"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KUC"
+msgstr "찾기"
+
+msgid "ISO_639-3.KUF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KUG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KUH"
+msgstr "태국어"
+
+msgid "ISO_639-3.KUJ"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.KUO"
+msgstr "터키어"
+
+msgid "ISO_639-3.KUQ"
+msgstr "한국어"
+
+msgid "ISO_639-3.KUR"
+msgstr "터키어"
+
+msgid "ISO_639-3.KUV"
+msgstr "터키어"
+
+msgid "ISO_639-3.KVB"
+msgstr "터키어"
+
+msgid "ISO_639-3.KVC"
+msgstr "한국어"
+
+msgid "ISO_639-3.KVD"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.KVI"
+msgstr "찾기"
+
+msgid "ISO_639-3.KVL"
+msgstr "한국어"
+
+msgid "ISO_639-3.KVP"
+msgstr "한국어"
+
+msgid "ISO_639-3.KVV"
+msgstr "한국어"
+
+msgid "ISO_639-3.KVW"
+msgstr "출력"
+
+msgid "ISO_639-3.KWC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.KWD"
+msgstr "태국어"
+
+msgid "ISO_639-3.KWE"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.KWF"
+msgstr "한국어"
+
+msgid "ISO_639-3.KWH"
+msgstr "한국어"
+
+msgid "ISO_639-3.KWJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.KWN"
+msgstr "발트어"
+
+msgid "ISO_639-3.KWP"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.KWR"
+msgstr "기타"
+
+msgid "ISO_639-3.KWW"
+msgstr "찾기"
+
+msgid "ISO_639-3.KWY"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KWZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.KXA"
+msgstr "터키어"
+
+msgid "ISO_639-3.KXC"
+msgstr "처음:"
+
+msgid "ISO_639-3.KXD"
+msgstr "찾기"
+
+msgid "ISO_639-3.KXJ"
+msgstr "발트어"
+
+msgid "ISO_639-3.KXN"
+msgstr "터키어"
+
+msgid "ISO_639-3.KXP"
+msgstr "여백"
+
+msgid "ISO_639-3.KXS"
+msgstr "터키어"
+
+msgid "ISO_639-3.KXV"
+msgstr "터키어"
+
+msgid "ISO_639-3.KXW"
+msgstr "한국어"
+
+msgid "ISO_639-3.KXY"
+msgstr "찾기"
+
+msgid "ISO_639-3.KXZ"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.KYD"
+msgstr "한국어"
+
+msgid "ISO_639-3.KYH"
+msgstr "한국어"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KYL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KYM"
+msgstr "발트어"
+
+msgid "ISO_639-3.KYO"
+msgstr "한국어"
+
+msgid "ISO_639-3.KYP"
+msgstr "찾기"
+
+msgid "ISO_639-3.KYQ"
+msgstr "발트어"
+
+msgid "ISO_639-3.KYS"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.KYU"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KZA"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.KZD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.KZE"
+msgstr "한국어"
+
+msgid "ISO_639-3.KZG"
+msgstr "한국어"
+
+msgid "ISO_639-3.KZL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.KZM"
+msgstr "태국어"
+
+msgid "ISO_639-3.KZN"
+msgstr "한국어"
+
+msgid "ISO_639-3.KZO"
+msgstr "터키어"
+
+msgid "ISO_639-3.KZQ"
+msgstr "태국어"
+
+msgid "ISO_639-3.KZR"
+msgstr "한국어"
+
+msgid "ISO_639-3.KZX"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.LAB"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LAD"
+msgstr "주소"
+
+msgid "ISO_639-3.LAG"
+msgstr "찾기"
+
+msgid "ISO_639-3.LAL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.LAT"
+msgstr "주소"
+
+msgid "ISO_639-3.LAV"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LAY"
+msgstr "태국어"
+
+msgid "ISO_639-3.LBA"
+msgstr "태국어"
+
+msgid "ISO_639-3.LBC"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LBF"
+msgstr "핀란드어"
+
+msgid "ISO_639-3.LBI"
+msgstr "주소"
+
+msgid "ISO_639-3.LBJ"
+msgstr "주소"
+
+msgid "ISO_639-3.LBK"
+msgstr "터키어"
+
+msgid "ISO_639-3.LBM"
+msgstr "찾기"
+
+msgid "ISO_639-3.LBN"
+msgstr "주소"
+
+msgid "ISO_639-3.LBO"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LBT"
+msgstr "주소"
+
+msgid "ISO_639-3.LBW"
+msgstr "태국어"
+
+msgid "ISO_639-3.LBZ"
+msgstr "주소"
+
+msgid "ISO_639-3.LCH"
+msgstr "태국어"
+
+msgid "ISO_639-3.LCL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LCP"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.LDD"
+msgstr "태국어"
+
+msgid "ISO_639-3.LDI"
+msgstr "여백"
+
+msgid "ISO_639-3.LDL"
+msgstr "한국어"
+
+msgid "ISO_639-3.LDM"
+msgstr "주소"
+
+msgid "ISO_639-3.LDN"
+msgstr "주소"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LEM"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.LES"
+msgstr "일본어"
+
+msgid "ISO_639-3.LEX"
+msgstr "찾기"
+
+msgid "ISO_639-3.LFN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGG"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.LGK"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LGL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LGQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.LGT"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.LHH"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.LHN"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LHT"
+msgstr "찾기"
+
+msgid "ISO_639-3.LHU"
+msgstr "여백"
+
+msgid "ISO_639-3.LIC"
+msgstr "찾기"
+
+msgid "ISO_639-3.LIE"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LIF"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LIJ"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LIM"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LIN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LIR"
+msgstr "영어"
+
+msgid "ISO_639-3.LIT"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LIU"
+msgstr "여백"
+
+msgid "ISO_639-3.LIW"
+msgstr "색상"
+
+msgid "ISO_639-3.LJE"
+msgstr "태국어"
+
+msgid "ISO_639-3.LJI"
+msgstr "주소"
+
+msgid "ISO_639-3.LJL"
+msgstr "주소"
+
+msgid "ISO_639-3.LJP"
+msgstr "찾기"
+
+msgid "ISO_639-3.LJW"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.LKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LKC"
+msgstr "찾기"
+
+msgid "ISO_639-3.LKD"
+msgstr "거짓"
+
+msgid "ISO_639-3.LKE"
+msgstr "한국어"
+
+msgid "ISO_639-3.LKI"
+msgstr "주소"
+
+msgid "ISO_639-3.LKM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LKN"
+msgstr "거짓"
+
+msgid "ISO_639-3.LKO"
+msgstr "태국어"
+
+msgid "ISO_639-3.LKS"
+msgstr "한국어"
+
+msgid "ISO_639-3.LKT"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LKU"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.LLD"
+msgstr "주소"
+
+msgid "ISO_639-3.LLF"
+msgstr "찾기"
+
+msgid "ISO_639-3.LLH"
+msgstr "바스크어"
+
+msgid "ISO_639-3.LLL"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LLM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LLO"
+msgstr "기타"
+
+msgid "ISO_639-3.LLX"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LMB"
+msgstr "여백"
+
+msgid "ISO_639-3.LMC"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LMG"
+msgstr "찾기"
+
+msgid "ISO_639-3.LML"
+msgstr "주소"
+
+msgid "ISO_639-3.LMN"
+msgstr "주소"
+
+msgid "ISO_639-3.LMP"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LNB"
+msgstr "여백"
+
+msgid "ISO_639-3.LNH"
+msgstr "주소"
+
+msgid "ISO_639-3.LNI"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LNM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LNS"
+msgstr "주소"
+
+msgid "ISO_639-3.LNW"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.LOC"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.LOE"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.LOH"
+msgstr "여백"
+
+msgid "ISO_639-3.LOO"
+msgstr "처음:"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LOS"
+msgstr "찾기"
+
+msgid "ISO_639-3.LPO"
+msgstr "주소"
+
+msgid "ISO_639-3.LRA"
+msgstr "태국어"
+
+msgid "ISO_639-3.LRC"
+msgstr "한국어"
+
+msgid "ISO_639-3.LRE"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LRG"
+msgstr "여백"
+
+msgid "ISO_639-3.LRI"
+msgstr "여백"
+
+msgid "ISO_639-3.LRK"
+msgstr "여백"
+
+msgid "ISO_639-3.LRL"
+msgstr "여백"
+
+msgid "ISO_639-3.LRM"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.LRN"
+msgstr "한국어"
+
+msgid "ISO_639-3.LRO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LRZ"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.LSD"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LSH"
+msgstr "아일랜드어"
+
+msgid "ISO_639-3.LSI"
+msgstr "태국어"
+
+msgid "ISO_639-3.LSM"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.LSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LTG"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.LTI"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.LTN"
+msgstr "주소"
+
+msgid "ISO_639-3.LTO"
+msgstr "처음:"
+
+msgid "ISO_639-3.LTS"
+msgstr "색상"
+
+msgid "ISO_639-3.LTU"
+msgstr "주소"
+
+msgid "ISO_639-3.LUC"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LUD"
+msgstr "주소"
+
+msgid "ISO_639-3.LUF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LUJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.LUM"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LUR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LUS"
+msgstr "태국어"
+
+msgid "ISO_639-3.LUV"
+msgstr "주소"
+
+msgid "ISO_639-3.LVS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.LWG"
+msgstr "찾기"
+
+msgid "ISO_639-3.LWH"
+msgstr "주소"
+
+msgid "ISO_639-3.LWM"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.LYG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.LYN"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.LZH"
+msgstr "중국어"
+
+msgid "ISO_639-3.LZN"
+msgstr "찾기"
+
+msgid "ISO_639-3.MAD"
+msgstr "거짓"
+
+msgid "ISO_639-3.MAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAH"
+msgstr "거짓"
+
+msgid "ISO_639-3.MAM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MAW"
+msgstr "여백"
+
+msgid "ISO_639-3.MAZ"
+msgstr "터키어"
+
+msgid "ISO_639-3.MBC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBE"
+msgstr "거짓"
+
+msgid "ISO_639-3.MBF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MBS"
+msgstr "여백"
+
+msgid "ISO_639-3.MBW"
+msgstr "여백"
+
+msgid "ISO_639-3.MBY"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.MCA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCH"
+msgstr "여백"
+
+msgid "ISO_639-3.MCI"
+msgstr "거짓"
+
+msgid "ISO_639-3.MCJ"
+msgstr "여백"
+
+msgid "ISO_639-3.MCK"
+msgstr "여백"
+
+msgid "ISO_639-3.MCN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MCT"
+msgstr "발트어"
+
+msgid "ISO_639-3.MCZ"
+msgstr "여백"
+
+msgid "ISO_639-3.MDB"
+msgstr "여백"
+
+msgid "ISO_639-3.MDG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MDH"
+msgstr "여백"
+
+msgid "ISO_639-3.MDN"
+msgstr "여백"
+
+msgid "ISO_639-3.MDP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MDR"
+msgstr "여백"
+
+msgid "ISO_639-3.MDW"
+msgstr "여백"
+
+msgid "ISO_639-3.MDX"
+msgstr "찾기"
+
+msgid "ISO_639-3.MEC"
+msgstr "여백"
+
+msgid "ISO_639-3.MED"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MEL"
+msgstr "터키어"
+
+msgid "ISO_639-3.MEM"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.MES"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MET"
+msgstr "여백"
+
+msgid "ISO_639-3.MEV"
+msgstr "여백"
+
+msgid "ISO_639-3.MEW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFA"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.MFB"
+msgstr "발트어"
+
+msgid "ISO_639-3.MFE"
+msgstr "여백"
+
+msgid "ISO_639-3.MFF"
+msgstr "찾기"
+
+msgid "ISO_639-3.MFH"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.MFI"
+msgstr "여백"
+
+msgid "ISO_639-3.MFK"
+msgstr "한국어"
+
+msgid "ISO_639-3.MFL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.MFP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFR"
+msgstr "여백"
+
+msgid "ISO_639-3.MFV"
+msgstr "여백"
+
+msgid "ISO_639-3.MFY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MFZ"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.MGB"
+msgstr "여백"
+
+msgid "ISO_639-3.MGD"
+msgstr "여백"
+
+msgid "ISO_639-3.MGE"
+msgstr "여백"
+
+msgid "ISO_639-3.MGF"
+msgstr "거짓"
+
+msgid "ISO_639-3.MGK"
+msgstr "거짓"
+
+msgid "ISO_639-3.MGN"
+msgstr "여백"
+
+msgid "ISO_639-3.MGP"
+msgstr "한국어"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MGU"
+msgstr "여백"
+
+msgid "ISO_639-3.MHA"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.MHE"
+msgstr "찾기"
+
+msgid "ISO_639-3.MHF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MHG"
+msgstr "여백"
+
+msgid "ISO_639-3.MHI"
+msgstr "여백"
+
+msgid "ISO_639-3.MHK"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.MHP"
+msgstr "중국어"
+
+msgid "ISO_639-3.MHQ"
+msgstr "여백"
+
+msgid "ISO_639-3.MHS"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.MHT"
+msgstr "여백"
+
+msgid "ISO_639-3.MHX"
+msgstr "여백"
+
+msgid "ISO_639-3.MHY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MIA"
+msgstr "여백"
+
+msgid "ISO_639-3.MID"
+msgstr "여백"
+
+msgid "ISO_639-3.MIJ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.MIK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJJ"
+msgstr "여백"
+
+msgid "ISO_639-3.MJK"
+msgstr "여백"
+
+msgid "ISO_639-3.MJL"
+msgstr "여백"
+
+msgid "ISO_639-3.MJP"
+msgstr "여백"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJR"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.MJU"
+msgstr "여백"
+
+msgid "ISO_639-3.MJV"
+msgstr "여백"
+
+msgid "ISO_639-3.MJW"
+msgstr "터키어"
+
+msgid "ISO_639-3.MJX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MJY"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.MJZ"
+msgstr "여백"
+
+msgid "ISO_639-3.MKA"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.MKD"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.MKE"
+msgstr "여백"
+
+msgid "ISO_639-3.MKI"
+msgstr "태국어"
+
+msgid "ISO_639-3.MKJ"
+msgstr "거짓"
+
+msgid "ISO_639-3.MKR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MKV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MKY"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLE"
+msgstr "여백"
+
+msgid "ISO_639-3.MLF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLH"
+msgstr "일본어"
+
+msgid "ISO_639-3.MLK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLP"
+msgstr "여백"
+
+msgid "ISO_639-3.MLQ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MLS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLT"
+msgstr "거짓"
+
+msgid "ISO_639-3.MLX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMD"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.MME"
+msgstr "거짓"
+
+msgid "ISO_639-3.MMF"
+msgstr "여백"
+
+msgid "ISO_639-3.MMI"
+msgstr "여백"
+
+msgid "ISO_639-3.MMJ"
+msgstr "여백"
+
+msgid "ISO_639-3.MMM"
+msgstr "여백"
+
+msgid "ISO_639-3.MMN"
+msgstr "여백"
+
+msgid "ISO_639-3.MMO"
+msgstr "여백"
+
+msgid "ISO_639-3.MMP"
+msgstr "찾기"
+
+msgid "ISO_639-3.MMQ"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.MMR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MMV"
+msgstr "찾기"
+
+msgid "ISO_639-3.MMX"
+msgstr "여백"
+
+msgid "ISO_639-3.MNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MNB"
+msgstr "여백"
+
+msgid "ISO_639-3.MNC"
+msgstr "여백"
+
+msgid "ISO_639-3.MNF"
+msgstr "여백"
+
+msgid "ISO_639-3.MNI"
+msgstr "터키어"
+
+msgid "ISO_639-3.MNK"
+msgstr "여백"
+
+msgid "ISO_639-3.MNL"
+msgstr "터키어"
+
+msgid "ISO_639-3.MNM"
+msgstr "여백"
+
+msgid "ISO_639-3.MNP"
+msgstr "중국어"
+
+msgid "ISO_639-3.MNQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.MNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MNY"
+msgstr "여백"
+
+msgid "ISO_639-3.MNZ"
+msgstr "여백"
+
+msgid "ISO_639-3.MOA"
+msgstr "여백"
+
+msgid "ISO_639-3.MOD"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MOI"
+msgstr "여백"
+
+msgid "ISO_639-3.MOK"
+msgstr "여백"
+
+msgid "ISO_639-3.MOM"
+msgstr "찾기"
+
+msgid "ISO_639-3.MOR"
+msgstr "여백"
+
+msgid "ISO_639-3.MOS"
+msgstr "여백"
+
+msgid "ISO_639-3.MPC"
+msgstr "여백"
+
+msgid "ISO_639-3.MPD"
+msgstr "중국어"
+
+msgid "ISO_639-3.MPE"
+msgstr "여백"
+
+msgid "ISO_639-3.MPG"
+msgstr "여백"
+
+msgid "ISO_639-3.MPH"
+msgstr "여백"
+
+msgid "ISO_639-3.MPI"
+msgstr "거짓"
+
+msgid "ISO_639-3.MPN"
+msgstr "찾기"
+
+msgid "ISO_639-3.MPQ"
+msgstr "거짓"
+
+msgid "ISO_639-3.MPT"
+msgstr "여백"
+
+msgid "ISO_639-3.MPV"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.MPW"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.MPY"
+msgstr "여백"
+
+msgid "ISO_639-3.MQA"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.MQE"
+msgstr "거짓"
+
+msgid "ISO_639-3.MQI"
+msgstr "여백"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MQP"
+msgstr "여백"
+
+msgid "ISO_639-3.MQR"
+msgstr "여백"
+
+msgid "ISO_639-3.MQS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MQU"
+msgstr "여백"
+
+msgid "ISO_639-3.MQV"
+msgstr "여백"
+
+msgid "ISO_639-3.MQW"
+msgstr "여백"
+
+msgid "ISO_639-3.MQY"
+msgstr "여백"
+
+msgid "ISO_639-3.MRA"
+msgstr "여백"
+
+msgid "ISO_639-3.MRB"
+msgstr "여백"
+
+msgid "ISO_639-3.MRC"
+msgstr "여백"
+
+msgid "ISO_639-3.MRD"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MRG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MRH"
+msgstr "여백"
+
+msgid "ISO_639-3.MRI"
+msgstr "여백"
+
+msgid "ISO_639-3.MRJ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MRR"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.MRS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MRV"
+msgstr "여백"
+
+msgid "ISO_639-3.MRW"
+msgstr "여백"
+
+msgid "ISO_639-3.MRX"
+msgstr "여백"
+
+msgid "ISO_639-3.MRY"
+msgstr "여백"
+
+msgid "ISO_639-3.MRZ"
+msgstr "여백"
+
+msgid "ISO_639-3.MSC"
+msgstr "여백"
+
+msgid "ISO_639-3.MSE"
+msgstr "거짓"
+
+msgid "ISO_639-3.MSG"
+msgstr "여백"
+
+msgid "ISO_639-3.MSH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSK"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.MSS"
+msgstr "거짓"
+
+msgid "ISO_639-3.MSV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MSY"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.MSZ"
+msgstr "여백"
+
+msgid "ISO_639-3.MTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MTM"
+msgstr "여백"
+
+msgid "ISO_639-3.MTN"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.MTR"
+msgstr "여백"
+
+msgid "ISO_639-3.MTS"
+msgstr "한국어"
+
+msgid "ISO_639-3.MTY"
+msgstr "찾기"
+
+msgid "ISO_639-3.MUA"
+msgstr "여백"
+
+msgid "ISO_639-3.MUI"
+msgstr "여백"
+
+msgid "ISO_639-3.MUJ"
+msgstr "여백"
+
+msgid "ISO_639-3.MUM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MUO"
+msgstr "찾기"
+
+msgid "ISO_639-3.MUP"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.MUR"
+msgstr "거짓"
+
+msgid "ISO_639-3.MUS"
+msgstr "그리스어"
+
+msgid "ISO_639-3.MUT"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.MUU"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.MUX"
+msgstr "발트어"
+
+msgid "ISO_639-3.MUY"
+msgstr "여백"
+
+msgid "ISO_639-3.MUZ"
+msgstr "여백"
+
+msgid "ISO_639-3.MVA"
+msgstr "여백"
+
+msgid "ISO_639-3.MVD"
+msgstr "여백"
+
+msgid "ISO_639-3.MVO"
+msgstr "여백"
+
+msgid "ISO_639-3.MVP"
+msgstr "여백"
+
+msgid "ISO_639-3.MVQ"
+msgstr "여백"
+
+msgid "ISO_639-3.MVR"
+msgstr "여백"
+
+msgid "ISO_639-3.MVS"
+msgstr "거짓"
+
+msgid "ISO_639-3.MVU"
+msgstr "여백"
+
+msgid "ISO_639-3.MVZ"
+msgstr "출력"
+
+msgid "ISO_639-3.MWB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MWI"
+msgstr "주소"
+
+msgid "ISO_639-3.MWK"
+msgstr "여백"
+
+msgid "ISO_639-3.MWL"
+msgstr "거짓"
+
+msgid "ISO_639-3.MWQ"
+msgstr "발트어"
+
+msgid "ISO_639-3.MWR"
+msgstr "여백"
+
+msgid "ISO_639-3.MWV"
+msgstr "여백"
+
+msgid "ISO_639-3.MWX"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.MWY"
+msgstr "여백"
+
+msgid "ISO_639-3.MWZ"
+msgstr "찾기"
+
+msgid "ISO_639-3.MXC"
+msgstr "여백"
+
+msgid "ISO_639-3.MXD"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.MXF"
+msgstr "거짓"
+
+msgid "ISO_639-3.MXG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.MXI"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.MXN"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.MXR"
+msgstr "러시아어"
+
+msgid "ISO_639-3.MXX"
+msgstr "여백"
+
+msgid "ISO_639-3.MYB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYG"
+msgstr "여백"
+
+msgid "ISO_639-3.MYH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYI"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYL"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.MYR"
+msgstr "여백"
+
+msgid "ISO_639-3.MYS"
+msgstr "거짓"
+
+msgid "ISO_639-3.MYX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MYY"
+msgstr "여백"
+
+msgid "ISO_639-3.MZD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.MZE"
+msgstr "여백"
+
+msgid "ISO_639-3.MZJ"
+msgstr "여백"
+
+msgid "ISO_639-3.MZS"
+msgstr "일본어"
+
+msgid "ISO_639-3.MZT"
+msgstr "찾기"
+
+msgid "ISO_639-3.MZV"
+msgstr "여백"
+
+msgid "ISO_639-3.MZX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAA"
+msgstr "갤리언"
+
+msgid "ISO_639-3.NAC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NAF"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.NAJ"
+msgstr "발트어"
+
+msgid "ISO_639-3.NAL"
+msgstr "발트어"
+
+msgid "ISO_639-3.NAN"
+msgstr "중국어"
+
+msgid "ISO_639-3.NAW"
+msgstr "터키어"
+
+msgid "ISO_639-3.NAX"
+msgstr "찾기"
+
+msgid "ISO_639-3.NBC"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.NBH"
+msgstr "찾기"
+
+msgid "ISO_639-3.NBJ"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.NBN"
+msgstr "터키어"
+
+msgid "ISO_639-3.NBU"
+msgstr "찾기"
+
+msgid "ISO_639-3.NCB"
+msgstr "한국어"
+
+msgid "ISO_639-3.NCE"
+msgstr "일본어"
+
+msgid "ISO_639-3.NCF"
+msgstr "멈춤"
+
+msgid "ISO_639-3.NCH"
+msgstr "한국어"
+
+msgid "ISO_639-3.NCN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NDA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NDF"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.NDH"
+msgstr "발트어"
+
+msgid "ISO_639-3.NDS"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.NDX"
+msgstr "찾기"
+
+msgid "ISO_639-3.NDZ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NEF"
+msgstr "베트남어"
+
+msgid "ISO_639-3.NEG"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.NEM"
+msgstr "발트어"
+
+msgid "ISO_639-3.NEP"
+msgstr "한국어"
+
+msgid "ISO_639-3.NEQ"
+msgstr "터키어"
+
+msgid "ISO_639-3.NER"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.NES"
+msgstr "터키어"
+
+msgid "ISO_639-3.NEW"
+msgstr "여백"
+
+msgid "ISO_639-3.NFD"
+msgstr "태국어"
+
+msgid "ISO_639-3.NGJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NGK"
+msgstr "찾기"
+
+msgid "ISO_639-3.NGO"
+msgstr "찾기"
+
+msgid "ISO_639-3.NGX"
+msgstr "찾기"
+
+msgid "ISO_639-3.NGY"
+msgstr "터키어"
+
+msgid "ISO_639-3.NHA"
+msgstr "찾기"
+
+msgid "ISO_639-3.NHB"
+msgstr "발트어"
+
+msgid "ISO_639-3.NHF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NHH"
+msgstr "태국어"
+
+msgid "ISO_639-3.NHO"
+msgstr "태국어"
+
+msgid "ISO_639-3.NIB"
+msgstr "찾기"
+
+msgid "ISO_639-3.NID"
+msgstr "찾기"
+
+msgid "ISO_639-3.NIE"
+msgstr "발트어"
+
+msgid "ISO_639-3.NIJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NIO"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.NIQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NIR"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.NIX"
+msgstr "독일어"
+
+msgid "ISO_639-3.NIY"
+msgstr "찾기"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NJM"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.NJN"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.NJZ"
+msgstr "터키어"
+
+msgid "ISO_639-3.NKA"
+msgstr "찾기"
+
+msgid "ISO_639-3.NKB"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.NKD"
+msgstr "한국어"
+
+msgid "ISO_639-3.NKG"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.NKI"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.NKJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NKN"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NKZ"
+msgstr "여백"
+
+msgid "ISO_639-3.NLC"
+msgstr "갤리언"
+
+msgid "ISO_639-3.NLD"
+msgstr "네덜란드어"
+
+msgid "ISO_639-3.NLG"
+msgstr "독일어"
+
+msgid "ISO_639-3.NLI"
+msgstr "발트어"
+
+msgid "ISO_639-3.NLJ"
+msgstr "발트어"
+
+msgid "ISO_639-3.NLL"
+msgstr "발트어"
+
+msgid "ISO_639-3.NLQ"
+msgstr "터키어"
+
+msgid "ISO_639-3.NLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NLX"
+msgstr "발트어"
+
+msgid "ISO_639-3.NLZ"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.NMA"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.NMB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NMC"
+msgstr "찾기"
+
+msgid "ISO_639-3.NMF"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.NMG"
+msgstr "태국어"
+
+msgid "ISO_639-3.NML"
+msgstr "발트어"
+
+msgid "ISO_639-3.NMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NMR"
+msgstr "태국어"
+
+msgid "ISO_639-3.NMV"
+msgstr "찾기"
+
+msgid "ISO_639-3.NMW"
+msgstr "찾기"
+
+msgid "ISO_639-3.NNF"
+msgstr "찾기"
+
+msgid "ISO_639-3.NNG"
+msgstr "여백"
+
+msgid "ISO_639-3.NNM"
+msgstr "태국어"
+
+msgid "ISO_639-3.NNO"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.NNU"
+msgstr "찾기"
+
+msgid "ISO_639-3.NOB"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.NOD"
+msgstr "한국어"
+
+msgid "ISO_639-3.NOF"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.NOG"
+msgstr "찾기"
+
+msgid "ISO_639-3.NOI"
+msgstr "찾기"
+
+msgid "ISO_639-3.NOJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NOL"
+msgstr "태국어"
+
+msgid "ISO_639-3.NON"
+msgstr "출력"
+
+msgid "ISO_639-3.NOR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.NOZ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NPG"
+msgstr "찾기"
+
+msgid "ISO_639-3.NPI"
+msgstr "한국어"
+
+msgid "ISO_639-3.NPS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NQY"
+msgstr "터키어"
+
+msgid "ISO_639-3.NRB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRC"
+msgstr "찾기"
+
+msgid "ISO_639-3.NRK"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NRM"
+msgstr "처음:"
+
+msgid "ISO_639-3.NRN"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.NRR"
+msgstr "찾기"
+
+msgid "ISO_639-3.NRT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NSA"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.NSC"
+msgstr "태국어"
+
+msgid "ISO_639-3.NSE"
+msgstr "발트어"
+
+msgid "ISO_639-3.NSF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.NSG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NSS"
+msgstr "발트어"
+
+msgid "ISO_639-3.NSV"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.NSY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NTG"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.NTU"
+msgstr "찾기"
+
+msgid "ISO_639-3.NTX"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.NTY"
+msgstr "주소"
+
+msgid "ISO_639-3.NUA"
+msgstr "찾기"
+
+msgid "ISO_639-3.NUD"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.NUG"
+msgstr "발트어"
+
+msgid "ISO_639-3.NUR"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.NUX"
+msgstr "그리스어"
+
+msgid "ISO_639-3.NVH"
+msgstr "출력"
+
+msgid "ISO_639-3.NWR"
+msgstr "여백"
+
+msgid "ISO_639-3.NXI"
+msgstr "터키어"
+
+msgid "ISO_639-3.NXM"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.NXQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NXU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.NXX"
+msgstr "여백"
+
+msgid "ISO_639-3.NYA"
+msgstr "찾기"
+
+msgid "ISO_639-3.NYC"
+msgstr "발트어"
+
+msgid "ISO_639-3.NYF"
+msgstr "독일어"
+
+msgid "ISO_639-3.NYH"
+msgstr "터키어"
+
+msgid "ISO_639-3.NYJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NYQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.NYR"
+msgstr "발트어"
+
+msgid "ISO_639-3.OAA"
+msgstr "처음:"
+
+msgid "ISO_639-3.OAC"
+msgstr "처음:"
+
+msgid "ISO_639-3.OAR"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.OBR"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.OBT"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.OCH"
+msgstr "중국어"
+
+msgid "ISO_639-3.OCO"
+msgstr "색상"
+
+msgid "ISO_639-3.ODT"
+msgstr "네덜란드어"
+
+msgid "ISO_639-3.ODU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.OFS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.OGE"
+msgstr "출력"
+
+msgid "ISO_639-3.OGO"
+msgstr "태국어"
+
+msgid "ISO_639-3.OHU"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.OJB"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.OJP"
+msgstr "일본어"
+
+msgid "ISO_639-3.OJW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.OKB"
+msgstr "처음:"
+
+msgid "ISO_639-3.OKD"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.OKK"
+msgstr "태국어"
+
+msgid "ISO_639-3.OKL"
+msgstr "한국어"
+
+msgid "ISO_639-3.OKR"
+msgstr "찾기"
+
+msgid "ISO_639-3.OKV"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.OLD"
+msgstr "여백"
+
+msgid "ISO_639-3.OLM"
+msgstr "처음:"
+
+msgid "ISO_639-3.OLR"
+msgstr "처음:"
+
+msgid "ISO_639-3.OLT"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.OMK"
+msgstr "처음:"
+
+msgid "ISO_639-3.OML"
+msgstr "처음:"
+
+msgid "ISO_639-3.OMN"
+msgstr "여백"
+
+msgid "ISO_639-3.OMP"
+msgstr "터키어"
+
+msgid "ISO_639-3.OMR"
+msgstr "여백"
+
+msgid "ISO_639-3.ONB"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ONP"
+msgstr "한국어"
+
+msgid "ISO_639-3.ONR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ONW"
+msgstr "출력"
+
+msgid "ISO_639-3.OOS"
+msgstr "러시아어"
+
+msgid "ISO_639-3.ORA"
+msgstr "처음:"
+
+msgid "ISO_639-3.ORC"
+msgstr "처음:"
+
+msgid "ISO_639-3.ORI"
+msgstr "한국어"
+
+msgid "ISO_639-3.ORM"
+msgstr "처음:"
+
+msgid "ISO_639-3.ORO"
+msgstr "처음:"
+
+msgid "ISO_639-3.ORR"
+msgstr "처음:"
+
+msgid "ISO_639-3.ORT"
+msgstr "터키어"
+
+msgid "ISO_639-3.ORV"
+msgstr "러시아어"
+
+msgid "ISO_639-3.ORX"
+msgstr "처음:"
+
+msgid "ISO_639-3.ORZ"
+msgstr "처음:"
+
+msgid "ISO_639-3.OSC"
+msgstr "러시아어"
+
+msgid "ISO_639-3.OSI"
+msgstr "러시아어"
+
+msgid "ISO_639-3.OSO"
+msgstr "처음:"
+
+msgid "ISO_639-3.OSP"
+msgstr "스페인어"
+
+msgid "ISO_639-3.OSS"
+msgstr "러시아어"
+
+msgid "ISO_639-3.OSX"
+msgstr "출력"
+
+msgid "ISO_639-3.OTB"
+msgstr "출력"
+
+msgid "ISO_639-3.OTD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.OTK"
+msgstr "터키어"
+
+msgid "ISO_639-3.OTR"
+msgstr "처음:"
+
+msgid "ISO_639-3.OTY"
+msgstr "태국어"
+
+msgid "ISO_639-3.OWL"
+msgstr "출력"
+
+msgid "ISO_639-3.PAG"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PAH"
+msgstr "태국어"
+
+msgid "ISO_639-3.PAO"
+msgstr "한국어"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PAR"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PAS"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PAT"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.PAY"
+msgstr "체크어"
+
+msgid "ISO_639-3.PBI"
+msgstr "여백"
+
+msgid "ISO_639-3.PBN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PBO"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PBP"
+msgstr "여백"
+
+msgid "ISO_639-3.PBR"
+msgstr "여백"
+
+msgid "ISO_639-3.PBV"
+msgstr "여백"
+
+msgid "ISO_639-3.PCF"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PCG"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PCH"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.PCI"
+msgstr "여백"
+
+msgid "ISO_639-3.PCJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.PCK"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.PCL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PDI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PDN"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.PDU"
+msgstr "한국어"
+
+msgid "ISO_639-3.PEA"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.PEE"
+msgstr "태국어"
+
+msgid "ISO_639-3.PEF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.PEH"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.PEJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.PEK"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.PEL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PES"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.PFL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PGG"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PGI"
+msgstr "터키어"
+
+msgid "ISO_639-3.PGN"
+msgstr "갤리언"
+
+msgid "ISO_639-3.PGS"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PGZ"
+msgstr "한국어"
+
+msgid "ISO_639-3.PHA"
+msgstr "찾기"
+
+msgid "ISO_639-3.PHH"
+msgstr "중국어"
+
+msgid "ISO_639-3.PHN"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.PHT"
+msgstr "태국어"
+
+msgid "ISO_639-3.PHV"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PIC"
+msgstr "찾기"
+
+msgid "ISO_639-3.PII"
+msgstr "찾기"
+
+msgid "ISO_639-3.PIM"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.PIP"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.PIS"
+msgstr "찾기"
+
+msgid "ISO_639-3.PIV"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PKB"
+msgstr "처음:"
+
+msgid "ISO_639-3.PKH"
+msgstr "여백"
+
+msgid "ISO_639-3.PKT"
+msgstr "거짓"
+
+msgid "ISO_639-3.PLA"
+msgstr "여백"
+
+msgid "ISO_639-3.PLD"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLE"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLH"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLJ"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLP"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLQ"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PLU"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PLZ"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.PMB"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PMD"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PMK"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PML"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.PMM"
+msgstr "처음:"
+
+msgid "ISO_639-3.PMS"
+msgstr "베트남어"
+
+msgid "ISO_639-3.PMY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PNB"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.PNC"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PNE"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.PNJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.PNK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PNL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PNP"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PNR"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PNS"
+msgstr "한국어"
+
+msgid "ISO_639-3.PNT"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.PNX"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.PNY"
+msgstr "찾기"
+
+msgid "ISO_639-3.POC"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.POL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PON"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.POR"
+msgstr "포르투갈어"
+
+msgid "ISO_639-3.POX"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.PPE"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PPI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PPQ"
+msgstr "출력"
+
+msgid "ISO_639-3.PPT"
+msgstr "한국어"
+
+msgid "ISO_639-3.PRB"
+msgstr "태국어"
+
+msgid "ISO_639-3.PRF"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PRG"
+msgstr "출력"
+
+msgid "ISO_639-3.PRI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PRM"
+msgstr "찾기"
+
+msgid "ISO_639-3.PRP"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PRR"
+msgstr "터키어"
+
+msgid "ISO_639-3.PRT"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PRU"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PRW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PSN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PSQ"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.PTN"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.PTR"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PTU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PTY"
+msgstr "출력"
+
+msgid "ISO_639-3.PUT"
+msgstr "네덜란드어"
+
+msgid "ISO_639-3.PUW"
+msgstr "포르투갈어"
+
+msgid "ISO_639-3.PUX"
+msgstr "한국어"
+
+msgid "ISO_639-3.PWA"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PWB"
+msgstr "여백"
+
+msgid "ISO_639-3.PWN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.PWO"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.PWR"
+msgstr "여백"
+
+msgid "ISO_639-3.PWW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.PZN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QUC"
+msgstr "기타"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.QYP"
+msgstr "찾기"
+
+msgid "ISO_639-3.RAA"
+msgstr "발트어"
+
+msgid "ISO_639-3.RAC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RAF"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.RAL"
+msgstr "거짓"
+
+msgid "ISO_639-3.RAM"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.RAN"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RAQ"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.RAR"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RAS"
+msgstr "발트어"
+
+msgid "ISO_639-3.RAW"
+msgstr "찾기"
+
+msgid "ISO_639-3.RAX"
+msgstr "찾기"
+
+msgid "ISO_639-3.REE"
+msgstr "찾기"
+
+msgid "ISO_639-3.REI"
+msgstr "발트어"
+
+msgid "ISO_639-3.REJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.REN"
+msgstr "발트어"
+
+msgid "ISO_639-3.RGA"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RGN"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RHG"
+msgstr "찾기"
+
+msgid "ISO_639-3.RHP"
+msgstr "찾기"
+
+msgid "ISO_639-3.RIA"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.RJG"
+msgstr "찾기"
+
+msgid "ISO_639-3.RJI"
+msgstr "태국어"
+
+msgid "ISO_639-3.RKI"
+msgstr "중국어"
+
+msgid "ISO_639-3.RKM"
+msgstr "여백"
+
+msgid "ISO_639-3.RKT"
+msgstr "터키어"
+
+msgid "ISO_639-3.RKW"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.RMA"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMG"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.RMH"
+msgstr "터키어"
+
+msgid "ISO_639-3.RMI"
+msgstr "한국어"
+
+msgid "ISO_639-3.RMK"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RML"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMM"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMO"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMT"
+msgstr "여백"
+
+msgid "ISO_639-3.RMU"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMV"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMW"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMX"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMY"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RMZ"
+msgstr "여백"
+
+msgid "ISO_639-3.RNG"
+msgstr "찾기"
+
+msgid "ISO_639-3.RNL"
+msgstr "찾기"
+
+msgid "ISO_639-3.RNN"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RNR"
+msgstr "여백"
+
+msgid "ISO_639-3.ROE"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.ROF"
+msgstr "처음:"
+
+msgid "ISO_639-3.ROG"
+msgstr "한국어"
+
+msgid "ISO_639-3.ROH"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.ROL"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.ROM"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RON"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.ROR"
+msgstr "찾기"
+
+msgid "ISO_639-3.RPT"
+msgstr "주소"
+
+msgid "ISO_639-3.RRI"
+msgstr "찾기"
+
+msgid "ISO_639-3.RRO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RSB"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RSM"
+msgstr "한국어"
+
+msgid "ISO_639-3.RTC"
+msgstr "중국어"
+
+msgid "ISO_639-3.RTH"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.RTM"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RTS"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.RUC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.RUE"
+msgstr "러시아어"
+
+msgid "ISO_639-3.RUG"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RUK"
+msgstr "중국어"
+
+msgid "ISO_639-3.RUO"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RUP"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RUQ"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RUS"
+msgstr "러시아어"
+
+msgid "ISO_639-3.RUZ"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.RWO"
+msgstr "여백"
+
+msgid "ISO_639-3.RWR"
+msgstr "여백"
+
+msgid "ISO_639-3.RXD"
+msgstr "태국어"
+
+msgid "ISO_639-3.RXW"
+msgstr "여백"
+
+msgid "ISO_639-3.SAA"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SAB"
+msgstr "중국어"
+
+msgid "ISO_639-3.SAC"
+msgstr "여백"
+
+msgid "ISO_639-3.SAE"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SAJ"
+msgstr "여백"
+
+msgid "ISO_639-3.SAK"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SAM"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SAN"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SAO"
+msgstr "거짓"
+
+msgid "ISO_639-3.SAS"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SAU"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SAY"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SBE"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.SBK"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SBL"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SBM"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.SBN"
+msgstr "찾기"
+
+msgid "ISO_639-3.SBS"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SBV"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SBX"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SBY"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.SCE"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.SCH"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SCK"
+msgstr "여백"
+
+msgid "ISO_639-3.SCN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SCO"
+msgstr "멈춤"
+
+msgid "ISO_639-3.SCW"
+msgstr "찾기"
+
+msgid "ISO_639-3.SCX"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SDB"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SDC"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SDF"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.SDH"
+msgstr "터키어"
+
+msgid "ISO_639-3.SDJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.SDK"
+msgstr "찾기"
+
+msgid "ISO_639-3.SDN"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SDR"
+msgstr "여백"
+
+msgid "ISO_639-3.SED"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SEH"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SEI"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SEK"
+msgstr "한국어"
+
+msgid "ISO_639-3.SEO"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SER"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SET"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SEZ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SGB"
+msgstr "주소"
+
+msgid "ISO_639-3.SGC"
+msgstr "찾기"
+
+msgid "ISO_639-3.SGD"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SGE"
+msgstr "찾기"
+
+msgid "ISO_639-3.SGK"
+msgstr "찾기"
+
+msgid "ISO_639-3.SGM"
+msgstr "찾기"
+
+msgid "ISO_639-3.SGP"
+msgstr "찾기"
+
+msgid "ISO_639-3.SGR"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SGS"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.SGU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SGY"
+msgstr "찾기"
+
+msgid "ISO_639-3.SHC"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SHO"
+msgstr "찾기"
+
+msgid "ISO_639-3.SHQ"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SHR"
+msgstr "찾기"
+
+msgid "ISO_639-3.SHT"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SHU"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SHV"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SHW"
+msgstr "태국어"
+
+msgid "ISO_639-3.SHY"
+msgstr "태국어"
+
+msgid "ISO_639-3.SIB"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.SIE"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SIH"
+msgstr "터키어"
+
+msgid "ISO_639-3.SIK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SIN"
+msgstr "베트남어"
+
+msgid "ISO_639-3.SIQ"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SIR"
+msgstr "찾기"
+
+msgid "ISO_639-3.SIU"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SIV"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SIX"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SIY"
+msgstr "찾기"
+
+msgid "ISO_639-3.SIZ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SJM"
+msgstr "여백"
+
+msgid "ISO_639-3.SJN"
+msgstr "찾기"
+
+msgid "ISO_639-3.SJP"
+msgstr "터키어"
+
+msgid "ISO_639-3.SJR"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SJW"
+msgstr "중국어"
+
+msgid "ISO_639-3.SKB"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SKC"
+msgstr "여백"
+
+msgid "ISO_639-3.SKG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKH"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SKI"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SKK"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-3.SKM"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.SKQ"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SKR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SKS"
+msgstr "여백"
+
+msgid "ISO_639-3.SKU"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SKY"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.SLI"
+msgstr "독일어"
+
+msgid "ISO_639-3.SLK"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-3.SLN"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SLQ"
+msgstr "여백"
+
+msgid "ISO_639-3.SLR"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SLT"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SLU"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.SLV"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMB"
+msgstr "태국어"
+
+msgid "ISO_639-3.SMD"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SME"
+msgstr "한국어"
+
+msgid "ISO_639-3.SMH"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SMK"
+msgstr "찾기"
+
+msgid "ISO_639-3.SMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SMN"
+msgstr "찾기"
+
+msgid "ISO_639-3.SMP"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SMU"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.SMX"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SMY"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SND"
+msgstr "찾기"
+
+msgid "ISO_639-3.SNI"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SNK"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SNL"
+msgstr "찾기"
+
+msgid "ISO_639-3.SNN"
+msgstr "찾기"
+
+msgid "ISO_639-3.SNO"
+msgstr "스페인어"
+
+msgid "ISO_639-3.SNP"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.SNR"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.SNU"
+msgstr "발트어"
+
+msgid "ISO_639-3.SNV"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SOA"
+msgstr "태국어"
+
+msgid "ISO_639-3.SOD"
+msgstr "찾기"
+
+msgid "ISO_639-3.SOG"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.SOH"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.SOI"
+msgstr "찾기"
+
+msgid "ISO_639-3.SOJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.SOL"
+msgstr "멈춤"
+
+msgid "ISO_639-3.SOO"
+msgstr "찾기"
+
+msgid "ISO_639-3.SOP"
+msgstr "찾기"
+
+msgid "ISO_639-3.SOQ"
+msgstr "터키어"
+
+msgid "ISO_639-3.SOR"
+msgstr "찾기"
+
+msgid "ISO_639-3.SOS"
+msgstr "그리스어"
+
+msgid "ISO_639-3.SOW"
+msgstr "여백"
+
+msgid "ISO_639-3.SOX"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-3.SOZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.SPA"
+msgstr "스페인어"
+
+msgid "ISO_639-3.SPB"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.SPG"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SPI"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SPS"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SPU"
+msgstr "스페인어"
+
+msgid "ISO_639-3.SPV"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SQI"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.SQM"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SQR"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.SQU"
+msgstr "스페인어"
+
+msgid "ISO_639-3.SRA"
+msgstr "여백"
+
+msgid "ISO_639-3.SRB"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SRC"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SRD"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SRE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SRF"
+msgstr "찾기"
+
+msgid "ISO_639-3.SRI"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SRN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SRO"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.SRP"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SRS"
+msgstr "여백"
+
+msgid "ISO_639-3.SRT"
+msgstr "터키어"
+
+msgid "ISO_639-3.SRW"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SRY"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SSD"
+msgstr "찾기"
+
+msgid "ISO_639-3.SSE"
+msgstr "발트어"
+
+msgid "ISO_639-3.SSF"
+msgstr "태국어"
+
+msgid "ISO_639-3.SSG"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SSH"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.SSI"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SSJ"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SSL"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SSN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SSQ"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-3.SST"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.SSU"
+msgstr "태국어"
+
+msgid "ISO_639-3.STB"
+msgstr "한국어"
+
+msgid "ISO_639-3.STD"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.STK"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.STM"
+msgstr "독일어"
+
+msgid "ISO_639-3.STO"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SUA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SUC"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SUE"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SUQ"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SUX"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SVA"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.SVE"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SVS"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SVX"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.SWE"
+msgstr "스웨덴어"
+
+msgid "ISO_639-3.SWF"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.SWG"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SWJ"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SWK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SWM"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SWO"
+msgstr "찾기"
+
+msgid "ISO_639-3.SWQ"
+msgstr "여백"
+
+msgid "ISO_639-3.SWS"
+msgstr "벨로루시어"
+
+msgid "ISO_639-3.SWW"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-3.SWY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SXC"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SXK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SXL"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SXM"
+msgstr "한국어"
+
+msgid "ISO_639-3.SXN"
+msgstr "찾기"
+
+msgid "ISO_639-3.SXS"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SYA"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.SYB"
+msgstr "한국어"
+
+msgid "ISO_639-3.SYM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SYN"
+msgstr "발트어"
+
+msgid "ISO_639-3.SYR"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.SYX"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.SZL"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.SZN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.SZW"
+msgstr "여백"
+
+msgid "ISO_639-3.TAA"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.TAD"
+msgstr "거짓"
+
+msgid "ISO_639-3.TAE"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TAG"
+msgstr "태국어"
+
+msgid "ISO_639-3.TAH"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TAK"
+msgstr "태국어"
+
+msgid "ISO_639-3.TAL"
+msgstr "태국어"
+
+msgid "ISO_639-3.TAM"
+msgstr "태국어"
+
+msgid "ISO_639-3.TAO"
+msgstr "태국어"
+
+msgid "ISO_639-3.TAU"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.TAW"
+msgstr "태국어"
+
+msgid "ISO_639-3.TAX"
+msgstr "태국어"
+
+msgid "ISO_639-3.TBA"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.TBC"
+msgstr "태국어"
+
+msgid "ISO_639-3.TBE"
+msgstr "태국어"
+
+msgid "ISO_639-3.TBF"
+msgstr "여백"
+
+msgid "ISO_639-3.TBG"
+msgstr "한국어"
+
+msgid "ISO_639-3.TBJ"
+msgstr "찾기"
+
+msgid "ISO_639-3.TBO"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.TBX"
+msgstr "주소"
+
+msgid "ISO_639-3.TCC"
+msgstr "여백"
+
+msgid "ISO_639-3.TCD"
+msgstr "중국어"
+
+msgid "ISO_639-3.TCI"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TCP"
+msgstr "발트어"
+
+msgid "ISO_639-3.TCQ"
+msgstr "태국어"
+
+msgid "ISO_639-3.TCZ"
+msgstr "발트어"
+
+msgid "ISO_639-3.TDB"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.TDG"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TDI"
+msgstr "주소"
+
+msgid "ISO_639-3.TDJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.TDM"
+msgstr "태국어"
+
+msgid "ISO_639-3.TDQ"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TEC"
+msgstr "터키어"
+
+msgid "ISO_639-3.TEH"
+msgstr "체크어"
+
+msgid "ISO_639-3.TEK"
+msgstr "터키어"
+
+msgid "ISO_639-3.TEY"
+msgstr "터키어"
+
+msgid "ISO_639-3.TFN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.TGB"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.TGC"
+msgstr "터키어"
+
+msgid "ISO_639-3.TGD"
+msgstr "찾기"
+
+msgid "ISO_639-3.TGJ"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.TGK"
+msgstr "태국어"
+
+msgid "ISO_639-3.TGN"
+msgstr "찾기"
+
+msgid "ISO_639-3.TGP"
+msgstr "찾기"
+
+msgid "ISO_639-3.TGQ"
+msgstr "터키어"
+
+msgid "ISO_639-3.TGR"
+msgstr "한국어"
+
+msgid "ISO_639-3.TGU"
+msgstr "찾기"
+
+msgid "ISO_639-3.TGX"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.TGZ"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.THA"
+msgstr "태국어"
+
+msgid "ISO_639-3.THE"
+msgstr "중국어"
+
+msgid "ISO_639-3.THF"
+msgstr "태국어"
+
+msgid "ISO_639-3.THN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.THR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.THS"
+msgstr "태국어"
+
+msgid "ISO_639-3.THT"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.THU"
+msgstr "터키어"
+
+msgid "ISO_639-3.THW"
+msgstr "태국어"
+
+msgid "ISO_639-3.THY"
+msgstr "태국어"
+
+msgid "ISO_639-3.TIC"
+msgstr "터키어"
+
+msgid "ISO_639-3.TIF"
+msgstr "태국어"
+
+msgid "ISO_639-3.TIG"
+msgstr "터키어"
+
+msgid "ISO_639-3.TII"
+msgstr "터키어"
+
+msgid "ISO_639-3.TIK"
+msgstr "터키어"
+
+msgid "ISO_639-3.TIM"
+msgstr "터키어"
+
+msgid "ISO_639-3.TIN"
+msgstr "찾기"
+
+msgid "ISO_639-3.TIP"
+msgstr "터키어"
+
+msgid "ISO_639-3.TIR"
+msgstr "터키어"
+
+msgid "ISO_639-3.TIU"
+msgstr "찾기"
+
+msgid "ISO_639-3.TJL"
+msgstr "태국어"
+
+msgid "ISO_639-3.TKB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TKG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TKX"
+msgstr "찾기"
+
+msgid "ISO_639-3.TKZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.TLH"
+msgstr "태국어"
+
+msgid "ISO_639-3.TLK"
+msgstr "태국어"
+
+msgid "ISO_639-3.TLO"
+msgstr "태국어"
+
+msgid "ISO_639-3.TLR"
+msgstr "중국어"
+
+msgid "ISO_639-3.TLT"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TLX"
+msgstr "체크어"
+
+msgid "ISO_639-3.TMC"
+msgstr "태국어"
+
+msgid "ISO_639-3.TMD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TMK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TMN"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.TMS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TMW"
+msgstr "독일어"
+
+msgid "ISO_639-3.TMY"
+msgstr "태국어"
+
+msgid "ISO_639-3.TNA"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TNB"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TNH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TNI"
+msgstr "여백"
+
+msgid "ISO_639-3.TNK"
+msgstr "기타"
+
+msgid "ISO_639-3.TNM"
+msgstr "태국어"
+
+msgid "ISO_639-3.TNO"
+msgstr "처음:"
+
+msgid "ISO_639-3.TNQ"
+msgstr "주소"
+
+msgid "ISO_639-3.TOD"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.TOW"
+msgstr "그리스어"
+
+msgid "ISO_639-3.TOX"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.TPF"
+msgstr "태국어"
+
+msgid "ISO_639-3.TPG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TPM"
+msgstr "태국어"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TPY"
+msgstr "태국어"
+
+msgid "ISO_639-3.TQL"
+msgstr "발트어"
+
+msgid "ISO_639-3.TQT"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TRA"
+msgstr "태국어"
+
+msgid "ISO_639-3.TRD"
+msgstr "터키어"
+
+msgid "ISO_639-3.TRE"
+msgstr "한국어"
+
+msgid "ISO_639-3.TRH"
+msgstr "터키어"
+
+msgid "ISO_639-3.TRJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.TRM"
+msgstr "태국어"
+
+msgid "ISO_639-3.TRT"
+msgstr "터키어"
+
+msgid "ISO_639-3.TSB"
+msgstr "태국어"
+
+msgid "ISO_639-3.TSD"
+msgstr "에스토니아어"
+
+msgid "ISO_639-3.TSI"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TSW"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TSX"
+msgstr "여백"
+
+msgid "ISO_639-3.TTG"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.TTI"
+msgstr "태국어"
+
+msgid "ISO_639-3.TTR"
+msgstr "독일어"
+
+msgid "ISO_639-3.TTS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TTV"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TTW"
+msgstr "찾기"
+
+msgid "ISO_639-3.TUH"
+msgstr "태국어"
+
+msgid "ISO_639-3.TUI"
+msgstr "터키어"
+
+msgid "ISO_639-3.TUL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TUQ"
+msgstr "발트어"
+
+msgid "ISO_639-3.TUR"
+msgstr "터키어"
+
+msgid "ISO_639-3.TUY"
+msgstr "터키어"
+
+msgid "ISO_639-3.TUZ"
+msgstr "터키어"
+
+msgid "ISO_639-3.TVO"
+msgstr "터키어"
+
+msgid "ISO_639-3.TWB"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.TWE"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.TWF"
+msgstr "한국어"
+
+msgid "ISO_639-3.TWL"
+msgstr "여백"
+
+msgid "ISO_639-3.TWM"
+msgstr "찾기"
+
+msgid "ISO_639-3.TWN"
+msgstr "스웨덴어"
+
+msgid "ISO_639-3.TWU"
+msgstr "독일어"
+
+msgid "ISO_639-3.TWW"
+msgstr "여백"
+
+msgid "ISO_639-3.TXA"
+msgstr "처음:"
+
+msgid "ISO_639-3.TXG"
+msgstr "찾기"
+
+msgid "ISO_639-3.TXH"
+msgstr "태국어"
+
+msgid "ISO_639-3.TXM"
+msgstr "찾기"
+
+msgid "ISO_639-3.TXN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.TXR"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TXX"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.TXY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TYA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.TYE"
+msgstr "찾기"
+
+msgid "ISO_639-3.TYJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.TYN"
+msgstr "한국어"
+
+msgid "ISO_639-3.TZH"
+msgstr "발트어"
+
+msgid "ISO_639-3.TZL"
+msgstr "러시아어"
+
+msgid "ISO_639-3.TZO"
+msgstr "태국어"
+
+msgid "ISO_639-3.TZX"
+msgstr "태국어"
+
+msgid "ISO_639-3.UAN"
+msgstr "한국어"
+
+msgid "ISO_639-3.UBA"
+msgstr "찾기"
+
+msgid "ISO_639-3.UDG"
+msgstr "찾기"
+
+msgid "ISO_639-3.UHA"
+msgstr "태국어"
+
+msgid "ISO_639-3.UHN"
+msgstr "태국어"
+
+msgid "ISO_639-3.UIS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.UKA"
+msgstr "터키어"
+
+msgid "ISO_639-3.UKR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ULA"
+msgstr "찾기"
+
+msgid "ISO_639-3.ULI"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.ULK"
+msgstr "출력"
+
+msgid "ISO_639-3.ULW"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.UMC"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.UMN"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.UND"
+msgstr "표시"
+
+msgid "ISO_639-3.UNG"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.UNM"
+msgstr "태국어"
+
+msgid "ISO_639-3.UNN"
+msgstr "한국어"
+
+msgid "ISO_639-3.UNR"
+msgstr "여백"
+
+msgid "ISO_639-3.UNU"
+msgstr "찾기"
+
+msgid "ISO_639-3.UNX"
+msgstr "여백"
+
+msgid "ISO_639-3.URA"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.URC"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.URG"
+msgstr "터키어"
+
+msgid "ISO_639-3.URL"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.URM"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.URN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.URT"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.URX"
+msgstr "처음:"
+
+msgid "ISO_639-3.USP"
+msgstr "에스페란토어"
+
+msgid "ISO_639-3.UTA"
+msgstr "러시아어"
+
+msgid "ISO_639-3.VAF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAJ"
+msgstr "중국어"
+
+msgid "ISO_639-3.VAN"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.VAS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VAV"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.VAY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VBK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.VEC"
+msgstr "러시아어"
+
+msgid "ISO_639-3.VGR"
+msgstr "여백"
+
+msgid "ISO_639-3.VIE"
+msgstr "베트남어"
+
+msgid "ISO_639-3.VKJ"
+msgstr "한국어"
+
+msgid "ISO_639-3.VKK"
+msgstr "터키어"
+
+msgid "ISO_639-3.VKO"
+msgstr "한국어"
+
+msgid "ISO_639-3.VLP"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.VMB"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.VMD"
+msgstr "찾기"
+
+msgid "ISO_639-3.VME"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VMG"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.VMH"
+msgstr "여백"
+
+msgid "ISO_639-3.VML"
+msgstr "Balsa"
+
+msgid "ISO_639-3.VMR"
+msgstr "거짓"
+
+msgid "ISO_639-3.VMW"
+msgstr "여백"
+
+msgid "ISO_639-3.VNK"
+msgstr "주소"
+
+msgid "ISO_639-3.VRA"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.VRS"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.VRT"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.WAE"
+msgstr "거짓"
+
+msgid "ISO_639-3.WAI"
+msgstr "페로스어"
+
+msgid "ISO_639-3.WAJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WAL"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.WAQ"
+msgstr "독일어"
+
+msgid "ISO_639-3.WAV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WAW"
+msgstr "여백"
+
+msgid "ISO_639-3.WAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBF"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WBH"
+msgstr "여백"
+
+msgid "ISO_639-3.WBI"
+msgstr "태국어"
+
+msgid "ISO_639-3.WBJ"
+msgstr "여백"
+
+msgid "ISO_639-3.WBQ"
+msgstr "여백"
+
+msgid "ISO_639-3.WDK"
+msgstr "여백"
+
+msgid "ISO_639-3.WET"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.WEU"
+msgstr "중국어"
+
+msgid "ISO_639-3.WGA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WGY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WHG"
+msgstr "한국어"
+
+msgid "ISO_639-3.WHU"
+msgstr "한국어"
+
+msgid "ISO_639-3.WII"
+msgstr "찾기"
+
+msgid "ISO_639-3.WJA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WJI"
+msgstr "여백"
+
+msgid "ISO_639-3.WKB"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.WKL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WKU"
+msgstr "터키어"
+
+msgid "ISO_639-3.WLA"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.WLE"
+msgstr "한국어"
+
+msgid "ISO_639-3.WLG"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.WLI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.WLS"
+msgstr "갤리언"
+
+msgid "ISO_639-3.WLW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WLY"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.WMB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WMC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WMD"
+msgstr "여백"
+
+msgid "ISO_639-3.WMI"
+msgstr "태국어"
+
+msgid "ISO_639-3.WMM"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.WMW"
+msgstr "여백"
+
+msgid "ISO_639-3.WMX"
+msgstr "처음:"
+
+msgid "ISO_639-3.WND"
+msgstr "여백"
+
+msgid "ISO_639-3.WNN"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.WNO"
+msgstr "주소"
+
+msgid "ISO_639-3.WNP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WNY"
+msgstr "여백"
+
+msgid "ISO_639-3.WOA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WOD"
+msgstr "한국어"
+
+msgid "ISO_639-3.WOE"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.WOI"
+msgstr "찾기"
+
+msgid "ISO_639-3.WOO"
+msgstr "여백"
+
+msgid "ISO_639-3.WOR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WPC"
+msgstr "여백"
+
+msgid "ISO_639-3.WRA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRB"
+msgstr "여백"
+
+msgid "ISO_639-3.WRK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRO"
+msgstr "찾기"
+
+msgid "ISO_639-3.WRP"
+msgstr "한국어"
+
+msgid "ISO_639-3.WRR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRS"
+msgstr "여백"
+
+msgid "ISO_639-3.WRU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRV"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WRY"
+msgstr "여백"
+
+msgid "ISO_639-3.WSI"
+msgstr "태국어"
+
+msgid "ISO_639-3.WSK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WSS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WSU"
+msgstr "바스크어"
+
+msgid "ISO_639-3.WTM"
+msgstr "여백"
+
+msgid "ISO_639-3.WUU"
+msgstr "중국어"
+
+msgid "ISO_639-3.WUX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WWW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WXW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.WYY"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.XAB"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.XAC"
+msgstr "태국어"
+
+msgid "ISO_639-3.XAD"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.XAG"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.XAJ"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.XAL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XAO"
+msgstr "태국어"
+
+msgid "ISO_639-3.XAQ"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.XAR"
+msgstr "터키어"
+
+msgid "ISO_639-3.XAU"
+msgstr "독일어"
+
+msgid "ISO_639-3.XBC"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.XBD"
+msgstr "여백"
+
+msgid "ISO_639-3.XBE"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XBG"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.XBJ"
+msgstr "태국어"
+
+msgid "ISO_639-3.XBM"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.XBN"
+msgstr "발트어"
+
+msgid "ISO_639-3.XBO"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.XBR"
+msgstr "기타"
+
+msgid "ISO_639-3.XBY"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.XCO"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.XCR"
+msgstr "여백"
+
+msgid "ISO_639-3.XCU"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.XCY"
+msgstr "중국어"
+
+msgid "ISO_639-3.XDA"
+msgstr "한국어"
+
+msgid "ISO_639-3.XDC"
+msgstr "갤리언"
+
+msgid "ISO_639-3.XDY"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XED"
+msgstr "찾기"
+
+msgid "ISO_639-3.XFA"
+msgstr "갤리언"
+
+msgid "ISO_639-3.XGA"
+msgstr "갤리언"
+
+msgid "ISO_639-3.XGD"
+msgstr "찾기"
+
+msgid "ISO_639-3.XGG"
+msgstr "한국어"
+
+msgid "ISO_639-3.XGI"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.XGL"
+msgstr "갤리언"
+
+msgid "ISO_639-3.XGM"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.XGR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XGU"
+msgstr "찾기"
+
+msgid "ISO_639-3.XHA"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.XHD"
+msgstr "찾기"
+
+msgid "ISO_639-3.XHE"
+msgstr "태국어"
+
+msgid "ISO_639-3.XHR"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.XHU"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.XHV"
+msgstr "태국어"
+
+msgid "ISO_639-3.XIB"
+msgstr "출력"
+
+msgid "ISO_639-3.XII"
+msgstr "찾기"
+
+msgid "ISO_639-3.XIL"
+msgstr "이탈리아어"
+
+msgid "ISO_639-3.XIR"
+msgstr "터키어"
+
+msgid "ISO_639-3.XIS"
+msgstr "한국어"
+
+msgid "ISO_639-3.XJB"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XJT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XKE"
+msgstr "헤브루어"
+
+msgid "ISO_639-3.XKJ"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.XKQ"
+msgstr "한국어"
+
+msgid "ISO_639-3.XKT"
+msgstr "주소"
+
+msgid "ISO_639-3.XKX"
+msgstr "한국어"
+
+msgid "ISO_639-3.XKY"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.XKZ"
+msgstr "터키어"
+
+msgid "ISO_639-3.XLC"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.XLD"
+msgstr "주소"
+
+msgid "ISO_639-3.XLE"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.XLI"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.XLN"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.XLS"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.XMB"
+msgstr "찾기"
+
+msgid "ISO_639-3.XME"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.XMF"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.XMG"
+msgstr "발트어"
+
+msgid "ISO_639-3.XMJ"
+msgstr "여백"
+
+msgid "ISO_639-3.XMK"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.XMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMO"
+msgstr "여백"
+
+msgid "ISO_639-3.XMU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMW"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XMX"
+msgstr "여백"
+
+msgid "ISO_639-3.XNG"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.XNH"
+msgstr "터키어"
+
+msgid "ISO_639-3.XNI"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.XNK"
+msgstr "헝가리어"
+
+msgid "ISO_639-3.XNN"
+msgstr "한국어"
+
+msgid "ISO_639-3.XNR"
+msgstr "터키어"
+
+msgid "ISO_639-3.XNS"
+msgstr "덴마크어"
+
+msgid "ISO_639-3.XNT"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XOD"
+msgstr "한국어"
+
+msgid "ISO_639-3.XOG"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.XON"
+msgstr "한국어"
+
+msgid "ISO_639-3.XOP"
+msgstr "한국어"
+
+msgid "ISO_639-3.XOW"
+msgstr "한국어"
+
+msgid "ISO_639-3.XPA"
+msgstr "터키어"
+
+msgid "ISO_639-3.XPC"
+msgstr "체크어"
+
+msgid "ISO_639-3.XPG"
+msgstr "출력"
+
+msgid "ISO_639-3.XPI"
+msgstr "폴란드어"
+
+msgid "ISO_639-3.XPR"
+msgstr "출력"
+
+msgid "ISO_639-3.XPS"
+msgstr "출력"
+
+msgid "ISO_639-3.XQA"
+msgstr "태국어"
+
+msgid "ISO_639-3.XQT"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.XRE"
+msgstr "그리스어"
+
+msgid "ISO_639-3.XRG"
+msgstr "찾기"
+
+msgid "ISO_639-3.XRM"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.XRN"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.XRQ"
+msgstr "한국어"
+
+msgid "ISO_639-3.XRU"
+msgstr "여백"
+
+msgid "ISO_639-3.XRW"
+msgstr "여백"
+
+msgid "ISO_639-3.XSB"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.XSC"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.XSD"
+msgstr "찾기"
+
+msgid "ISO_639-3.XSE"
+msgstr "독일어"
+
+msgid "ISO_639-3.XSM"
+msgstr "한국어"
+
+msgid "ISO_639-3.XSO"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.XSR"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.XSS"
+msgstr "러시아어"
+
+msgid "ISO_639-3.XSV"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-3.XSY"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.XTV"
+msgstr "여백"
+
+msgid "ISO_639-3.XTW"
+msgstr "여백"
+
+msgid "ISO_639-3.XTZ"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.XUM"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.XUN"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.XUR"
+msgstr "크로아티아어"
+
+msgid "ISO_639-3.XUU"
+msgstr "한국어"
+
+msgid "ISO_639-3.XVI"
+msgstr "터키어"
+
+msgid "ISO_639-3.XVO"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.XVS"
+msgstr "에스토니아어"
+
+msgid "ISO_639-3.XWA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XWK"
+msgstr "찾기"
+
+msgid "ISO_639-3.XXB"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.XXR"
+msgstr "한국어"
+
+msgid "ISO_639-3.XXT"
+msgstr "독일어"
+
+msgid "ISO_639-3.XYB"
+msgstr "여백"
+
+msgid "ISO_639-3.XYK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.XYL"
+msgstr "거짓"
+
+msgid "ISO_639-3.XZM"
+msgstr "마케도니아어"
+
+msgid "ISO_639-3.YAD"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAK"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAN"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YAP"
+msgstr "일본어"
+
+msgid "ISO_639-3.YAX"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YBK"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.YBM"
+msgstr "한국어"
+
+msgid "ISO_639-3.YBO"
+msgstr "찾기"
+
+msgid "ISO_639-3.YCH"
+msgstr "중국어"
+
+msgid "ISO_639-3.YCL"
+msgstr "주소"
+
+msgid "ISO_639-3.YCP"
+msgstr "인도네시아어"
+
+msgid "ISO_639-3.YDA"
+msgstr "여백"
+
+msgid "ISO_639-3.YEC"
+msgstr "프랑스어"
+
+msgid "ISO_639-3.YEJ"
+msgstr "아이슬란드어"
+
+msgid "ISO_639-3.YER"
+msgstr "태국어"
+
+msgid "ISO_639-3.YES"
+msgstr "찾기"
+
+msgid "ISO_639-3.YEV"
+msgstr "여백"
+
+msgid "ISO_639-3.YGA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YGI"
+msgstr "터키어"
+
+msgid "ISO_639-3.YGP"
+msgstr "그리스어"
+
+msgid "ISO_639-3.YGR"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.YGS"
+msgstr "한국어"
+
+msgid "ISO_639-3.YGW"
+msgstr "여백"
+
+msgid "ISO_639-3.YHA"
+msgstr "찾기"
+
+msgid "ISO_639-3.YHD"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.YHS"
+msgstr "한국어"
+
+msgid "ISO_639-3.YIA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.YIF"
+msgstr "중국어"
+
+msgid "ISO_639-3.YIH"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.YIM"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.YIN"
+msgstr "찾기"
+
+msgid "ISO_639-3.YIP"
+msgstr "처음:"
+
+msgid "ISO_639-3.YIQ"
+msgstr "여백"
+
+msgid "ISO_639-3.YIR"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.YIU"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.YIX"
+msgstr "터키어"
+
+msgid "ISO_639-3.YKA"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-3.YKL"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YKM"
+msgstr "태국어"
+
+msgid "ISO_639-3.YKO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YKT"
+msgstr "태국어"
+
+msgid "ISO_639-3.YKU"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YLB"
+msgstr "일본어"
+
+msgid "ISO_639-3.YLE"
+msgstr "일본어"
+
+msgid "ISO_639-3.YLM"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.YLO"
+msgstr "발트어"
+
+msgid "ISO_639-3.YMB"
+msgstr "일본어"
+
+msgid "ISO_639-3.YMD"
+msgstr "여백"
+
+msgid "ISO_639-3.YMH"
+msgstr "여백"
+
+msgid "ISO_639-3.YMI"
+msgstr "여백"
+
+msgid "ISO_639-3.YMM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YMO"
+msgstr "터키어"
+
+msgid "ISO_639-3.YMR"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YMS"
+msgstr "루마니아어"
+
+msgid "ISO_639-3.YMZ"
+msgstr "여백"
+
+msgid "ISO_639-3.YNA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YNE"
+msgstr "찾기"
+
+msgid "ISO_639-3.YNG"
+msgstr "찾기"
+
+msgid "ISO_639-3.YNN"
+msgstr "여백"
+
+msgid "ISO_639-3.YNQ"
+msgstr "발트어"
+
+msgid "ISO_639-3.YNS"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.YOG"
+msgstr "찾기"
+
+msgid "ISO_639-3.YOI"
+msgstr "한국어"
+
+msgid "ISO_639-3.YOL"
+msgstr "한국어"
+
+msgid "ISO_639-3.YON"
+msgstr "찾기"
+
+msgid "ISO_639-3.YPA"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.YPG"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPH"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPM"
+msgstr "여백"
+
+msgid "ISO_639-3.YPO"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YRY"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.YSD"
+msgstr "세르비아어"
+
+msgid "ISO_639-3.YSG"
+msgstr "발트어"
+
+msgid "ISO_639-3.YSN"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.YSY"
+msgstr "노르웨이어"
+
+msgid "ISO_639-3.YTA"
+msgstr "태국어"
+
+msgid "ISO_639-3.YTL"
+msgstr "카탈로니아어"
+
+msgid "ISO_639-3.YTP"
+msgstr "태국어"
+
+msgid "ISO_639-3.YUC"
+msgstr "네덜란드어"
+
+msgid "ISO_639-3.YUD"
+msgstr "아라비아어"
+
+msgid "ISO_639-3.YUE"
+msgstr "중국어"
+
+msgid "ISO_639-3.YUP"
+msgstr "Balsa"
+
+msgid "ISO_639-3.YVA"
+msgstr "여백"
+
+msgid "ISO_639-3.YWL"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.YXA"
+msgstr "여백"
+
+msgid "ISO_639-3.YXG"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.YYZ"
+msgstr "알바니아어"
+
+msgid "ISO_639-3.YZG"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZAG"
+msgstr "여백"
+
+msgid "ISO_639-3.ZAH"
+msgstr "여백"
+
+msgid "ISO_639-3.ZAU"
+msgstr "산-세리프"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "여백"
+
+msgid "ISO_639-3.ZBC"
+msgstr "터키어"
+
+msgid "ISO_639-3.ZBE"
+msgstr "독일어"
+
+msgid "ISO_639-3.ZBT"
+msgstr "불가리아어"
+
+msgid "ISO_639-3.ZBW"
+msgstr "독일어"
+
+msgid "ISO_639-3.ZEG"
+msgstr "발트어"
+
+msgid "ISO_639-3.ZEN"
+msgstr "발트어"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ZGB"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZGM"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZGN"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZGR"
+msgstr "여백"
+
+msgid "ISO_639-3.ZHA"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZHD"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZHI"
+msgstr "터키어"
+
+msgid "ISO_639-3.ZHN"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZHO"
+msgstr "중국어"
+
+msgid "ISO_639-3.ZIM"
+msgstr "거짓"
+
+msgid "ISO_639-3.ZIR"
+msgstr "터키어"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Le_gal"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ZKH"
+msgstr "한국어"
+
+msgid "ISO_639-3.ZKN"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZKT"
+msgstr "라트비아어"
+
+msgid "ISO_639-3.ZKU"
+msgstr "한국어"
+
+msgid "ISO_639-3.ZKV"
+msgstr "우크라이나어"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "태국어"
+
+msgid "ISO_639-3.ZLN"
+msgstr "리투아니아어"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZMD"
+msgstr "여백"
+
+msgid "ISO_639-3.ZME"
+msgstr "여백"
+
+msgid "ISO_639-3.ZMG"
+msgstr "여백"
+
+msgid "ISO_639-3.ZML"
+msgstr "거짓"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZMT"
+msgstr "여백"
+
+msgid "ISO_639-3.ZMU"
+msgstr "여백"
+
+msgid "ISO_639-3.ZMY"
+msgstr "여백"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "여백"
+
+msgid "ISO_639-3.ZNG"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZNK"
+msgstr "여백"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZPC"
+msgstr "중국어"
+
+msgid "ISO_639-3.ZPV"
+msgstr "중국어"
+
+msgid "ISO_639-3.ZQE"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZRG"
+msgstr "거짓"
+
+msgid "ISO_639-3.ZRN"
+msgstr "그리스어"
+
+msgid "ISO_639-3.ZRS"
+msgstr "여백"
+
+msgid "ISO_639-3.ZSA"
+msgstr "여백"
+
+msgid "ISO_639-3.ZSK"
+msgstr "한국어"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZUH"
+msgstr "한국어"
+
+msgid "ISO_639-3.ZUM"
+msgstr "터키어"
+
+msgid "ISO_639-3.ZYB"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZYG"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZYN"
+msgstr "찾기"
+
+msgid "ISO_639-3.ZYP"
+msgstr "중국어"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Balsa"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "찾기"

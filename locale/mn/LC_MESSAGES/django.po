@@ -1,0 +1,12385 @@
+# Mongolian translations of iso-639 names
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# This file is distributed under the GPL
+# Alastair McKinstry, <mckinstry@computer.org>, 2003.
+# Translations from kde-i18n-3.1:
+# Sanlig Badral <badral@chinggis.com>, 2002, 2003
+# Alastair McKinstry, 2004 - translations from ICU-3.0
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2003-02-17 12:05+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Mongolian <mn@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AAD"
+msgstr "Самали"
+
+msgid "ISO_639-3.AAF"
+msgstr "Канад"
+
+msgid "ISO_639-3.AAG"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AAK"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AAL"
+msgstr "Афаар"
+
+msgid "ISO_639-3.AAR"
+msgstr "Афаар"
+
+msgid "ISO_639-3.AAT"
+msgstr "Албани"
+
+msgid "ISO_639-3.AAW"
+msgstr "Шона"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.ABD"
+msgstr "Канад"
+
+msgid "ISO_639-3.ABE"
+msgstr "Фрис"
+
+msgid "ISO_639-3.ABG"
+msgstr "Албани"
+
+msgid "ISO_639-3.ABH"
+msgstr "Араб"
+
+msgid "ISO_639-3.ABK"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.ABL"
+msgstr "Санго"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.ABV"
+msgstr "Албани"
+
+msgid "ISO_639-3.ABW"
+msgstr "Пали"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Араб"
+
+msgid "ISO_639-3.ACE"
+msgstr "Хятад"
+
+msgid "ISO_639-3.ACI"
+msgstr "Маори"
+
+msgid "ISO_639-3.ACN"
+msgstr "Шона"
+
+msgid "ISO_639-3.ACR"
+msgstr "Хятад"
+
+msgid "ISO_639-3.ACW"
+msgstr "Араб"
+
+msgid "ISO_639-3.ACX"
+msgstr "Араб"
+
+msgid "ISO_639-3.ACY"
+msgstr "Араб"
+
+msgid "ISO_639-3.ADD"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.ADF"
+msgstr "Араб"
+
+msgid "ISO_639-3.ADI"
+msgstr "Свахили"
+
+msgid "ISO_639-3.ADL"
+msgstr "Гали"
+
+msgid "ISO_639-3.ADN"
+msgstr "Санго"
+
+msgid "ISO_639-3.ADR"
+msgstr "Аямара"
+
+msgid "ISO_639-3.ADW"
+msgstr "Венда"
+
+msgid "ISO_639-3.ADX"
+msgstr "Төвд"
+
+msgid "ISO_639-3.ADY"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.AEA"
+msgstr "Албани"
+
+msgid "ISO_639-3.AEC"
+msgstr "Араб"
+
+msgid "ISO_639-3.AEE"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AEU"
+msgstr "Кикуюу"
+
+msgid "ISO_639-3.AEW"
+msgstr "Араб"
+
+msgid "ISO_639-3.AEY"
+msgstr "Ассамес"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AFB"
+msgstr "Араб"
+
+msgid "ISO_639-3.AFD"
+msgstr "Рунди"
+
+msgid "ISO_639-3.AFG"
+msgstr "Малагас"
+
+msgid "ISO_639-3.AFK"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.AFP"
+msgstr "Тай"
+
+msgid "ISO_639-3.AFR"
+msgstr "Африк"
+
+msgid "ISO_639-3.AGA"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AGD"
+msgstr "Араб"
+
+msgid "ISO_639-3.AGE"
+msgstr "Лингал"
+
+msgid "ISO_639-3.AGF"
+msgstr "Албани"
+
+msgid "ISO_639-3.AGG"
+msgstr "Санго"
+
+msgid "ISO_639-3.AGH"
+msgstr "Непал"
+
+msgid "ISO_639-3.AGI"
+msgstr "Тигран"
+
+msgid "ISO_639-3.AGM"
+msgstr "Каталан"
+
+msgid "ISO_639-3.AGO"
+msgstr "Цвана"
+
+msgid "ISO_639-3.AGW"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.AGY"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AHA"
+msgstr "Свати"
+
+msgid "ISO_639-3.AHB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.AHH"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.AHK"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AHL"
+msgstr "Идо"
+
+msgid "ISO_639-3.AHR"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AIA"
+msgstr "Маори"
+
+msgid "ISO_639-3.AIC"
+msgstr "Хинди"
+
+msgid "ISO_639-3.AIE"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Литва"
+
+msgid "ISO_639-3.AIR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.AIS"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.AIW"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AIX"
+msgstr "Шона"
+
+msgid "ISO_639-3.AJN"
+msgstr "Рунди"
+
+msgid "ISO_639-3.AJP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AJT"
+msgstr "Араб"
+
+msgid "ISO_639-3.AJU"
+msgstr "Араб"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Күрд"
+
+msgid "ISO_639-3.AKA"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKB"
+msgstr "Индонези"
+
+msgid "ISO_639-3.AKE"
+msgstr "Свахили"
+
+msgid "ISO_639-3.AKF"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKK"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKL"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKM"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKR"
+msgstr "Араб"
+
+msgid "ISO_639-3.AKW"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Албани"
+
+msgid "ISO_639-3.ALA"
+msgstr "Санго"
+
+msgid "ISO_639-3.ALD"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.ALH"
+msgstr "Албани"
+
+msgid "ISO_639-3.ALI"
+msgstr "Самоан"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Албани"
+
+msgid "ISO_639-3.ALK"
+msgstr "Словак"
+
+msgid "ISO_639-3.ALL"
+msgstr "Афаар"
+
+msgid "ISO_639-3.ALN"
+msgstr "Албани"
+
+msgid "ISO_639-3.ALS"
+msgstr "Албани"
+
+msgid "ISO_639-3.ALT"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ALX"
+msgstr "Самали"
+
+msgid "ISO_639-3.AMC"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AMH"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Санго"
+
+msgid "ISO_639-3.AMK"
+msgstr "Араб"
+
+msgid "ISO_639-3.AML"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.AMN"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AMP"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AMR"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AMS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.AMY"
+msgstr "Араб"
+
+msgid "ISO_639-3.ANB"
+msgstr "Венда"
+
+msgid "ISO_639-3.ANC"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.ANH"
+msgstr "Венда"
+
+msgid "ISO_639-3.ANI"
+msgstr "Рунди"
+
+msgid "ISO_639-3.ANK"
+msgstr "Самали"
+
+msgid "ISO_639-3.ANL"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.ANN"
+msgstr "Волоф"
+
+msgid "ISO_639-3.ANP"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Индонези"
+
+msgid "ISO_639-3.ANR"
+msgstr "Синди"
+
+msgid "ISO_639-3.ANS"
+msgstr "Герман"
+
+msgid "ISO_639-3.ANV"
+msgstr "Венда"
+
+msgid "ISO_639-3.ANW"
+msgstr "Санго"
+
+msgid "ISO_639-3.ANY"
+msgstr "Албани"
+
+msgid "ISO_639-3.AOA"
+msgstr "Монгол"
+
+msgid "ISO_639-3.AOD"
+msgstr "Канад"
+
+msgid "ISO_639-3.AOF"
+msgstr "Болгар"
+
+msgid "ISO_639-3.AOH"
+msgstr "Араб"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Орос"
+
+msgid "ISO_639-3.AOR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.AOS"
+msgstr "Тажик"
+
+msgid "ISO_639-3.AOT"
+msgstr "Индонези"
+
+msgid "ISO_639-3.APB"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.APC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.APD"
+msgstr "Фароес"
+
+msgid "ISO_639-3.APF"
+msgstr "Албани"
+
+msgid "ISO_639-3.APG"
+msgstr "Албани"
+
+msgid "ISO_639-3.APH"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.API"
+msgstr "Непал"
+
+msgid "ISO_639-3.APO"
+msgstr "Зулу"
+
+msgid "ISO_639-3.APP"
+msgstr "Аямара"
+
+msgid "ISO_639-3.APW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.AQC"
+msgstr "Хятад"
+
+msgid "ISO_639-3.AQN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AQT"
+msgstr "Лингал"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Науру"
+
+msgid "ISO_639-3.ARA"
+msgstr "Араб"
+
+msgid "ISO_639-3.ARD"
+msgstr "Албани"
+
+msgid "ISO_639-3.ARE"
+msgstr "Фрис"
+
+msgid "ISO_639-3.ARG"
+msgstr "Фароес"
+
+msgid "ISO_639-3.ARH"
+msgstr "Араб"
+
+msgid "ISO_639-3.ARI"
+msgstr "Африк"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Навахо"
+
+msgid "ISO_639-3.ARL"
+msgstr "Араб"
+
+msgid "ISO_639-3.ARN"
+msgstr "Манкс"
+
+msgid "ISO_639-3.ARO"
+msgstr "Фароес"
+
+msgid "ISO_639-3.ARP"
+msgstr "Навахо"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Араб"
+
+msgid "ISO_639-3.ARS"
+msgstr "Араб"
+
+msgid "ISO_639-3.ARY"
+msgstr "Араб"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.ASD"
+msgstr "Ассамес"
+
+msgid "ISO_639-3.ASI"
+msgstr "Болгар"
+
+msgid "ISO_639-3.ASJ"
+msgstr "Свахили"
+
+msgid "ISO_639-3.ASK"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.ASM"
+msgstr "Ассамес"
+
+msgid "ISO_639-3.ASO"
+msgstr "Санго"
+
+msgid "ISO_639-3.AST"
+msgstr "Авестан"
+
+msgid "ISO_639-3.ASV"
+msgstr "Цонга"
+
+msgid "ISO_639-3.ATB"
+msgstr "Хинди"
+
+msgid "ISO_639-3.ATM"
+msgstr "Авестан"
+
+msgid "ISO_639-3.ATN"
+msgstr "Авестан"
+
+msgid "ISO_639-3.ATR"
+msgstr "Малай"
+
+msgid "ISO_639-3.ATV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ATX"
+msgstr "Албани"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AUB"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.AUC"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.AUG"
+msgstr "Венда"
+
+msgid "ISO_639-3.AUH"
+msgstr "Тай"
+
+msgid "ISO_639-3.AUJ"
+msgstr "Свахили"
+
+msgid "ISO_639-3.AUK"
+msgstr "Хереро"
+
+msgid "ISO_639-3.AUL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.AUP"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Англи"
+
+msgid "ISO_639-3.AUW"
+msgstr "Свахили"
+
+msgid "ISO_639-3.AUY"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Араб"
+
+msgid "ISO_639-3.AVA"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AVB"
+msgstr "Зулу"
+
+msgid "ISO_639-3.AVE"
+msgstr "Авестан"
+
+msgid "ISO_639-3.AVI"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AVK"
+msgstr "Хайза"
+
+msgid "ISO_639-3.AVN"
+msgstr "Амхарик"
+
+msgid "ISO_639-3.AVS"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.AWA"
+msgstr "Свахили"
+
+msgid "ISO_639-3.AWM"
+msgstr "Араб"
+
+msgid "ISO_639-3.AWO"
+msgstr "Свахили"
+
+msgid "ISO_639-3.AWU"
+msgstr "Свати"
+
+msgid "ISO_639-3.AWX"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AXE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.AXL"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AXM"
+msgstr "Армен"
+
+msgid "ISO_639-3.AYA"
+msgstr "Афаар"
+
+msgid "ISO_639-3.AYC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AYE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.AYG"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.AYH"
+msgstr "Хинди"
+
+msgid "ISO_639-3.AYI"
+msgstr "Георги"
+
+msgid "ISO_639-3.AYL"
+msgstr "Араб"
+
+msgid "ISO_639-3.AYM"
+msgstr "Аямара"
+
+msgid "ISO_639-3.AYN"
+msgstr "Албани"
+
+msgid "ISO_639-3.AYR"
+msgstr "Свати"
+
+msgid "ISO_639-3.AYS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Марати"
+
+msgid "ISO_639-3.AZA"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.AZB"
+msgstr "Азербежайн"
+
+msgid "ISO_639-3.AZD"
+msgstr "Малагас"
+
+msgid "ISO_639-3.AZE"
+msgstr "Азербежайн"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Азербежайн"
+
+msgid "ISO_639-3.BAA"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BAC"
+msgstr "Канад"
+
+msgid "ISO_639-3.BAG"
+msgstr "Турк"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BAK"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BAM"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BAN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BAP"
+msgstr "Канад"
+
+msgid "ISO_639-3.BAR"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BAV"
+msgstr "Венда"
+
+msgid "ISO_639-3.BAX"
+msgstr "Канад"
+
+msgid "ISO_639-3.BAY"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BBB"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BBD"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BBE"
+msgstr "Канад"
+
+msgid "ISO_639-3.BBF"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BBG"
+msgstr "Араб"
+
+msgid "ISO_639-3.BBH"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BBI"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BBL"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BBM"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BBP"
+msgstr "Свати"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Самали"
+
+msgid "ISO_639-3.BBS"
+msgstr "Канад"
+
+msgid "ISO_639-3.BBV"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BBW"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BBX"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BBY"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BCA"
+msgstr "Свати"
+
+msgid "ISO_639-3.BCC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BCE"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.BCF"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BCG"
+msgstr "Канад"
+
+msgid "ISO_639-3.BCH"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BCK"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BCL"
+msgstr "Свати"
+
+msgid "ISO_639-3.BCO"
+msgstr "Күрд"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Франц"
+
+msgid "ISO_639-3.BCR"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BCS"
+msgstr "Санго"
+
+msgid "ISO_639-3.BCT"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BCU"
+msgstr "Свахили"
+
+msgid "ISO_639-3.BCW"
+msgstr "Канад"
+
+msgid "ISO_639-3.BCY"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BDB"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BDD"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.BDE"
+msgstr "Канад"
+
+msgid "ISO_639-3.BDF"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BDG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BDI"
+msgstr "Науру"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BDK"
+msgstr "Күрд"
+
+msgid "ISO_639-3.BDL"
+msgstr "Индонези"
+
+msgid "ISO_639-3.BDO"
+msgstr "Маори"
+
+msgid "ISO_639-3.BDP"
+msgstr "Венда"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Канад"
+
+msgid "ISO_639-3.BDU"
+msgstr "Оромо"
+
+msgid "ISO_639-3.BDW"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BDY"
+msgstr "Канад"
+
+msgid "ISO_639-3.BDZ"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BED"
+msgstr "Канад"
+
+msgid "ISO_639-3.BEF"
+msgstr "Канад"
+
+msgid "ISO_639-3.BEG"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BEH"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BEK"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BEL"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BEN"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BEO"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BEP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BES"
+msgstr "Бурн"
+
+msgid "ISO_639-3.BEU"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BEW"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BFA"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BFC"
+msgstr "Канад"
+
+msgid "ISO_639-3.BFG"
+msgstr "Канад"
+
+msgid "ISO_639-3.BFM"
+msgstr "Венда"
+
+msgid "ISO_639-3.BFN"
+msgstr "Венда"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Канад"
+
+msgid "ISO_639-3.BFR"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BFS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BFT"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BFU"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.BFW"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BFX"
+msgstr "Канад"
+
+msgid "ISO_639-3.BFY"
+msgstr "Марати"
+
+msgid "ISO_639-3.BFZ"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.BGB"
+msgstr "Санго"
+
+msgid "ISO_639-3.BGC"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.BGE"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BGF"
+msgstr "Канад"
+
+msgid "ISO_639-3.BGG"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BGI"
+msgstr "Канад"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BGK"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BGN"
+msgstr "Фрис"
+
+msgid "ISO_639-3.BGO"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BGR"
+msgstr "Валлон"
+
+msgid "ISO_639-3.BGU"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BGW"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BGY"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BHA"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BHB"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BHC"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BHD"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BHE"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BHF"
+msgstr "Орияа"
+
+msgid "ISO_639-3.BHG"
+msgstr "Бурн"
+
+msgid "ISO_639-3.BHH"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BHI"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BHL"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BHM"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BHP"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BHR"
+msgstr "Малагас"
+
+msgid "ISO_639-3.BHS"
+msgstr "Малай"
+
+msgid "ISO_639-3.BHU"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BHV"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BHW"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BHX"
+msgstr "Малай"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Индонези"
+
+msgid "ISO_639-3.BIA"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BIB"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BIC"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BID"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BIF"
+msgstr "Канад"
+
+msgid "ISO_639-3.BIG"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BIM"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BIN"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BIO"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.BIP"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BIR"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BIS"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BIT"
+msgstr "Оромо"
+
+msgid "ISO_639-3.BIU"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BIV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BIX"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BIY"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BJA"
+msgstr "Венда"
+
+msgid "ISO_639-3.BJB"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BJC"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BJH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BJI"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Күрд"
+
+msgid "ISO_639-3.BJN"
+msgstr "Канад"
+
+msgid "ISO_639-3.BJO"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BJR"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BJS"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BJV"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BJY"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Марати"
+
+msgid "ISO_639-3.BKA"
+msgstr "Казак"
+
+msgid "ISO_639-3.BKD"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BKG"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BKI"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BKJ"
+msgstr "Сундан"
+
+msgid "ISO_639-3.BKN"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BKQ"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BKS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BKT"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BKW"
+msgstr "Үзбек"
+
+msgid "ISO_639-3.BKX"
+msgstr "Латин"
+
+msgid "ISO_639-3.BLB"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BLD"
+msgstr "Санго"
+
+msgid "ISO_639-3.BLG"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BLH"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.BLI"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BLL"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BLN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BLP"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BLR"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BLS"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BLV"
+msgstr "Волоф"
+
+msgid "ISO_639-3.BLW"
+msgstr "Малагас"
+
+msgid "ISO_639-3.BLZ"
+msgstr "Канад"
+
+msgid "ISO_639-3.BMD"
+msgstr "Күрд"
+
+msgid "ISO_639-3.BMH"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BMI"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BML"
+msgstr "Самали"
+
+msgid "ISO_639-3.BMO"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BMP"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BMR"
+msgstr "Тахит"
+
+msgid "ISO_639-3.BMS"
+msgstr "Күрд"
+
+msgid "ISO_639-3.BMV"
+msgstr "Бурн"
+
+msgid "ISO_639-3.BMW"
+msgstr "Самали"
+
+msgid "ISO_639-3.BMX"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BNB"
+msgstr "Босни"
+
+msgid "ISO_639-3.BNC"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BND"
+msgstr "Индонези"
+
+msgid "ISO_639-3.BNE"
+msgstr "Канад"
+
+msgid "ISO_639-3.BNF"
+msgstr "Санго"
+
+msgid "ISO_639-3.BNG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BNI"
+msgstr "Санго"
+
+msgid "ISO_639-3.BNK"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BNL"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BNM"
+msgstr "Канад"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Свати"
+
+msgid "ISO_639-3.BNS"
+msgstr "Рунди"
+
+msgid "ISO_639-3.BNU"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BNW"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BOA"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.BOB"
+msgstr "Афаар"
+
+msgid "ISO_639-3.BOD"
+msgstr "Төвд"
+
+msgid "ISO_639-3.BOE"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.BOF"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BOG"
+msgstr "Малагас"
+
+msgid "ISO_639-3.BOH"
+msgstr "Самали"
+
+msgid "ISO_639-3.BOK"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BOM"
+msgstr "Оромо"
+
+msgid "ISO_639-3.BON"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BOP"
+msgstr "Босни"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BOS"
+msgstr "Босни"
+
+msgid "ISO_639-3.BOT"
+msgstr "Санго"
+
+msgid "ISO_639-3.BOU"
+msgstr "Рунди"
+
+msgid "ISO_639-3.BOV"
+msgstr "Тви"
+
+msgid "ISO_639-3.BOW"
+msgstr "Румын"
+
+msgid "ISO_639-3.BPA"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BPB"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BPD"
+msgstr "Канад"
+
+msgid "ISO_639-3.BPG"
+msgstr "Санго"
+
+msgid "ISO_639-3.BPH"
+msgstr "Польш"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BPK"
+msgstr "Оромо"
+
+msgid "ISO_639-3.BPO"
+msgstr "Марати"
+
+msgid "ISO_639-3.BPP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.BPU"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BPV"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.BPZ"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BQB"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BQH"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BQI"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Канад"
+
+msgid "ISO_639-3.BQL"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BQO"
+msgstr "Валлон"
+
+msgid "ISO_639-3.BQP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BQR"
+msgstr "Бурн"
+
+msgid "ISO_639-3.BQS"
+msgstr "Босни"
+
+msgid "ISO_639-3.BQV"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BQX"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BQY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BRE"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BRF"
+msgstr "Герман"
+
+msgid "ISO_639-3.BRG"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BRH"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BRN"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.BRO"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BRQ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.BRS"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BRT"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BRU"
+msgstr "Фрис"
+
+msgid "ISO_639-3.BRV"
+msgstr "Фрис"
+
+msgid "ISO_639-3.BRW"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BRX"
+msgstr "Индонези"
+
+msgid "ISO_639-3.BRY"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BSB"
+msgstr "Рунди"
+
+msgid "ISO_639-3.BSC"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BSE"
+msgstr "Тай"
+
+msgid "ISO_639-3.BSF"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BSG"
+msgstr "Башкир"
+
+msgid "ISO_639-3.BSH"
+msgstr "Свати"
+
+msgid "ISO_639-3.BSI"
+msgstr "Маори"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BSK"
+msgstr "Тай"
+
+msgid "ISO_639-3.BSM"
+msgstr "Тай"
+
+msgid "ISO_639-3.BSN"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BSO"
+msgstr "Пушто"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BST"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BSU"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BSW"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BTA"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BTF"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BTI"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Япон"
+
+msgid "ISO_639-3.BTR"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BTU"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BTV"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BUA"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BUB"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BUC"
+msgstr "Тай"
+
+msgid "ISO_639-3.BUG"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BUI"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BUK"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BUL"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BUN"
+msgstr "Хереро"
+
+msgid "ISO_639-3.BUO"
+msgstr "Хереро"
+
+msgid "ISO_639-3.BUP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BUT"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BUW"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BUZ"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.BVA"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BVB"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BVC"
+msgstr "Хятад"
+
+msgid "ISO_639-3.BVH"
+msgstr "Бурн"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BVK"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BVM"
+msgstr "Канад"
+
+msgid "ISO_639-3.BVN"
+msgstr "Венда"
+
+msgid "ISO_639-3.BVO"
+msgstr "Волоф"
+
+msgid "ISO_639-3.BVP"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BVR"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BVT"
+msgstr "Индонези"
+
+msgid "ISO_639-3.BVU"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BVV"
+msgstr "Канад"
+
+msgid "ISO_639-3.BVW"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.BVY"
+msgstr "Санго"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Тай"
+
+msgid "ISO_639-3.BWD"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BWG"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.BWI"
+msgstr "Канад"
+
+msgid "ISO_639-3.BWM"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BXA"
+msgstr "Киргиз"
+
+msgid "ISO_639-3.BXB"
+msgstr "Канад"
+
+msgid "ISO_639-3.BXC"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BXG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.BXM"
+msgstr "Монгол"
+
+msgid "ISO_639-3.BXN"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BXO"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BXR"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BXS"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BXU"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BYA"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BYB"
+msgstr "Орияа"
+
+msgid "ISO_639-3.BYF"
+msgstr "Бретон"
+
+msgid "ISO_639-3.BYG"
+msgstr "Санго"
+
+msgid "ISO_639-3.BYH"
+msgstr "Марати"
+
+msgid "ISO_639-3.BYI"
+msgstr "Кикуюу"
+
+msgid "ISO_639-3.BYK"
+msgstr "Самоан"
+
+msgid "ISO_639-3.BYM"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BYN"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.BYR"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BYS"
+msgstr "Болгар"
+
+msgid "ISO_639-3.BYW"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Канад"
+
+msgid "ISO_639-3.BZA"
+msgstr "Канад"
+
+msgid "ISO_639-3.BZB"
+msgstr "Санго"
+
+msgid "ISO_639-3.BZD"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BZF"
+msgstr "Босни"
+
+msgid "ISO_639-3.BZG"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BZI"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.BZO"
+msgstr "Аямара"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Индонези"
+
+msgid "ISO_639-3.BZR"
+msgstr "Бихари"
+
+msgid "ISO_639-3.BZT"
+msgstr "Хинди"
+
+msgid "ISO_639-3.BZU"
+msgstr "Бурн"
+
+msgid "ISO_639-3.BZV"
+msgstr "Коми"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Свати"
+
+msgid "ISO_639-3.CAB"
+msgstr "Канад"
+
+msgid "ISO_639-3.CAC"
+msgstr "Шона"
+
+msgid "ISO_639-3.CAE"
+msgstr "Георги"
+
+msgid "ISO_639-3.CAF"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.CAH"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CAJ"
+msgstr "Шона"
+
+msgid "ISO_639-3.CAK"
+msgstr "Тажик"
+
+msgid "ISO_639-3.CAL"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.CAN"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.CAR"
+msgstr "Галици"
+
+msgid "ISO_639-3.CAS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.CAT"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CAW"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.CBC"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CBD"
+msgstr "Маори"
+
+msgid "ISO_639-3.CBI"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CBK"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CBL"
+msgstr "Валлон"
+
+msgid "ISO_639-3.CBN"
+msgstr "Науру"
+
+msgid "ISO_639-3.CBV"
+msgstr "Хайза"
+
+msgid "ISO_639-3.CBW"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.CBY"
+msgstr "Маори"
+
+msgid "ISO_639-3.CCA"
+msgstr "Хайза"
+
+msgid "ISO_639-3.CCC"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.CCG"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.CCH"
+msgstr "Ассамес"
+
+msgid "ISO_639-3.CCJ"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.CCL"
+msgstr "Свахили"
+
+msgid "ISO_639-3.CCM"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.CDA"
+msgstr "Корни"
+
+msgid "ISO_639-3.CDE"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CDG"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.CDI"
+msgstr "Корни"
+
+msgid "ISO_639-3.CDJ"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.CDO"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CDS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.CDY"
+msgstr "Шона"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.CEA"
+msgstr "Непал"
+
+msgid "ISO_639-3.CEG"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.CEK"
+msgstr "Фрис"
+
+msgid "ISO_639-3.CEN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CES"
+msgstr "Чех"
+
+msgid "ISO_639-3.CFD"
+msgstr "Малай"
+
+msgid "ISO_639-3.CFM"
+msgstr "Валлон"
+
+msgid "ISO_639-3.CHA"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.CHC"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CHE"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CHK"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CHM"
+msgstr "Орос"
+
+msgid "ISO_639-3.CHU"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.CHV"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.CHX"
+msgstr "Свати"
+
+msgid "ISO_639-3.CHY"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CIE"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CIK"
+msgstr "Күрд"
+
+msgid "ISO_639-3.CIM"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.CIP"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CIR"
+msgstr "Хинди"
+
+msgid "ISO_639-3.CIY"
+msgstr "Тай"
+
+msgid "ISO_639-3.CJA"
+msgstr "Фрис"
+
+msgid "ISO_639-3.CJI"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CJK"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CJM"
+msgstr "Фрис"
+
+msgid "ISO_639-3.CJN"
+msgstr "Индонези"
+
+msgid "ISO_639-3.CJS"
+msgstr "Шона"
+
+msgid "ISO_639-3.CJV"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CJY"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CKB"
+msgstr "Күрд"
+
+msgid "ISO_639-3.CKL"
+msgstr "Маори"
+
+msgid "ISO_639-3.CKN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CKQ"
+msgstr "Казак"
+
+msgid "ISO_639-3.CKR"
+msgstr "Казак"
+
+msgid "ISO_639-3.CKT"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CKU"
+msgstr "Марати"
+
+msgid "ISO_639-3.CKV"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CLA"
+msgstr "Араб"
+
+msgid "ISO_639-3.CLE"
+msgstr "Валлон"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.CLL"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CLM"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.CLT"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.CLU"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CMA"
+msgstr "Марати"
+
+msgid "ISO_639-3.CME"
+msgstr "Герман"
+
+msgid "ISO_639-3.CMG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.CML"
+msgstr "Каталан"
+
+msgid "ISO_639-3.CMN"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.CMO"
+msgstr "Свати"
+
+msgid "ISO_639-3.CMR"
+msgstr "Свахили"
+
+msgid "ISO_639-3.CMS"
+msgstr "Марати"
+
+msgid "ISO_639-3.CNA"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.CNG"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.CNH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CNK"
+msgstr "Свахили"
+
+msgid "ISO_639-3.CNL"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.CNO"
+msgstr "Корни"
+
+msgid "ISO_639-3.CNS"
+msgstr "Свати"
+
+msgid "ISO_639-3.CNW"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.CNX"
+msgstr "Корни"
+
+msgid "ISO_639-3.COE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.COG"
+msgstr "Шона"
+
+msgid "ISO_639-3.COO"
+msgstr "Оромо"
+
+msgid "ISO_639-3.COR"
+msgstr "Корни"
+
+msgid "ISO_639-3.COS"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.COU"
+msgstr "Малай"
+
+msgid "ISO_639-3.COX"
+msgstr "Свати"
+
+msgid "ISO_639-3.COZ"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CPI"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CPN"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CPX"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CRA"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.CRF"
+msgstr "Турк"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.CRL"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.CRR"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.CRV"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.CRX"
+msgstr "Маори"
+
+msgid "ISO_639-3.CRY"
+msgstr "Корни"
+
+msgid "ISO_639-3.CSB"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.CSC"
+msgstr "Малагас"
+
+msgid "ISO_639-3.CSF"
+msgstr "Малагас"
+
+msgid "ISO_639-3.CSH"
+msgstr "Свахили"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.CSQ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.CSS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.CST"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.CSV"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.CSY"
+msgstr "Свахили"
+
+msgid "ISO_639-3.CTA"
+msgstr "Хереро"
+
+msgid "ISO_639-3.CTC"
+msgstr "Чечень"
+
+msgid "ISO_639-3.CTD"
+msgstr "Валлон"
+
+msgid "ISO_639-3.CTG"
+msgstr "Литва"
+
+msgid "ISO_639-3.CTH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CTS"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.CTT"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.CTU"
+msgstr "Корни"
+
+msgid "ISO_639-3.CUA"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.CUH"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.CUI"
+msgstr "Маори"
+
+msgid "ISO_639-3.CUL"
+msgstr "Хинди"
+
+msgid "ISO_639-3.CUU"
+msgstr "Тай"
+
+msgid "ISO_639-3.CUW"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CVG"
+msgstr "Шона"
+
+msgid "ISO_639-3.CWA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.CWB"
+msgstr "Санго"
+
+msgid "ISO_639-3.CWE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.CYM"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.CZH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.CZK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.CZT"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.DAC"
+msgstr "Тамил"
+
+msgid "ISO_639-3.DAD"
+msgstr "Маори"
+
+msgid "ISO_639-3.DAE"
+msgstr "Хайза"
+
+msgid "ISO_639-3.DAG"
+msgstr "Дани"
+
+msgid "ISO_639-3.DAL"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.DAM"
+msgstr "Марати"
+
+msgid "ISO_639-3.DAN"
+msgstr "Дани"
+
+msgid "ISO_639-3.DAO"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.DAR"
+msgstr "Марати"
+
+msgid "ISO_639-3.DAV"
+msgstr "Татаар"
+
+msgid "ISO_639-3.DAX"
+msgstr "Дани"
+
+msgid "ISO_639-3.DAZ"
+msgstr "Лао"
+
+msgid "ISO_639-3.DBA"
+msgstr "Санго"
+
+msgid "ISO_639-3.DBB"
+msgstr "Хереро"
+
+msgid "ISO_639-3.DBI"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Итали"
+
+msgid "ISO_639-3.DBM"
+msgstr "Маори"
+
+msgid "ISO_639-3.DBO"
+msgstr "Зулу"
+
+msgid "ISO_639-3.DBP"
+msgstr "Свати"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.DBW"
+msgstr "Украйн"
+
+msgid "ISO_639-3.DDJ"
+msgstr "Науру"
+
+msgid "ISO_639-3.DDO"
+msgstr "Самоан"
+
+msgid "ISO_639-3.DEC"
+msgstr "Тажик"
+
+msgid "ISO_639-3.DED"
+msgstr "Венда"
+
+msgid "ISO_639-3.DEH"
+msgstr "Непал"
+
+msgid "ISO_639-3.DER"
+msgstr "Маори"
+
+msgid "ISO_639-3.DES"
+msgstr "Авестан"
+
+msgid "ISO_639-3.DEU"
+msgstr "Герман"
+
+msgid "ISO_639-3.DGA"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DGG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.DGI"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DGK"
+msgstr "Марати"
+
+msgid "ISO_639-3.DGL"
+msgstr "Рунди"
+
+msgid "ISO_639-3.DGN"
+msgstr "Марати"
+
+msgid "ISO_639-3.DGX"
+msgstr "Маори"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Марати"
+
+msgid "ISO_639-3.DHD"
+msgstr "Венда"
+
+msgid "ISO_639-3.DHG"
+msgstr "Шона"
+
+msgid "ISO_639-3.DHM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.DHN"
+msgstr "Дани"
+
+msgid "ISO_639-3.DHO"
+msgstr "Георги"
+
+msgid "ISO_639-3.DHR"
+msgstr "Марати"
+
+msgid "ISO_639-3.DHS"
+msgstr "Дани"
+
+msgid "ISO_639-3.DHU"
+msgstr "Марати"
+
+msgid "ISO_639-3.DHX"
+msgstr "Унгар"
+
+msgid "ISO_639-3.DIA"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DIB"
+msgstr "Свати"
+
+msgid "ISO_639-3.DIC"
+msgstr "Лао"
+
+msgid "ISO_639-3.DID"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DIF"
+msgstr "Хинди"
+
+msgid "ISO_639-3.DIH"
+msgstr "Коми"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Дани"
+
+msgid "ISO_639-3.DIK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DIN"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DIP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DIQ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.DIR"
+msgstr "Хинди"
+
+msgid "ISO_639-3.DIS"
+msgstr "Хайза"
+
+msgid "ISO_639-3.DIT"
+msgstr "Бихари"
+
+msgid "ISO_639-3.DIU"
+msgstr "Хинди"
+
+msgid "ISO_639-3.DIV"
+msgstr "Хинди"
+
+msgid "ISO_639-3.DIW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DIZ"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DJB"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DJE"
+msgstr "Малай"
+
+msgid "ISO_639-3.DJI"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DJO"
+msgstr "Санго"
+
+msgid "ISO_639-3.DJU"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.DKK"
+msgstr "Малай"
+
+msgid "ISO_639-3.DKS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DKX"
+msgstr "Малагас"
+
+msgid "ISO_639-3.DLG"
+msgstr "Георги"
+
+msgid "ISO_639-3.DLK"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.DLM"
+msgstr "Итали"
+
+msgid "ISO_639-3.DLN"
+msgstr "Марати"
+
+msgid "ISO_639-3.DMA"
+msgstr "Монгол"
+
+msgid "ISO_639-3.DMC"
+msgstr "Татаар"
+
+msgid "ISO_639-3.DMK"
+msgstr "Самали"
+
+msgid "ISO_639-3.DML"
+msgstr "Гали"
+
+msgid "ISO_639-3.DMM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.DMS"
+msgstr "Малай"
+
+msgid "ISO_639-3.DMV"
+msgstr "Хайза"
+
+msgid "ISO_639-3.DMX"
+msgstr "Герман"
+
+msgid "ISO_639-3.DND"
+msgstr "Канад"
+
+msgid "ISO_639-3.DNG"
+msgstr "Унгар"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Дани"
+
+msgid "ISO_639-3.DNK"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DNR"
+msgstr "Канад"
+
+msgid "ISO_639-3.DNU"
+msgstr "Канад"
+
+msgid "ISO_639-3.DNV"
+msgstr "Канад"
+
+msgid "ISO_639-3.DNW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.DOC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.DOH"
+msgstr "Монгол"
+
+msgid "ISO_639-3.DOK"
+msgstr "Монгол"
+
+msgid "ISO_639-3.DOO"
+msgstr "Санго"
+
+msgid "ISO_639-3.DOP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.DOR"
+msgstr "Маори"
+
+msgid "ISO_639-3.DOT"
+msgstr "Дани"
+
+msgid "ISO_639-3.DOX"
+msgstr "Орос"
+
+msgid "ISO_639-3.DOY"
+msgstr "Оромо"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.DPP"
+msgstr "Татаар"
+
+msgid "ISO_639-3.DRB"
+msgstr "Марати"
+
+msgid "ISO_639-3.DRC"
+msgstr "Хинди"
+
+msgid "ISO_639-3.DRD"
+msgstr "Орияа"
+
+msgid "ISO_639-3.DRE"
+msgstr "Волоф"
+
+msgid "ISO_639-3.DRG"
+msgstr "Англи"
+
+msgid "ISO_639-3.DRL"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Малай"
+
+msgid "ISO_639-3.DRS"
+msgstr "Венда"
+
+msgid "ISO_639-3.DRU"
+msgstr "Рунди"
+
+msgid "ISO_639-3.DRY"
+msgstr "Марати"
+
+msgid "ISO_639-3.DSB"
+msgstr "Герман"
+
+msgid "ISO_639-3.DSI"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DSO"
+msgstr "Венда"
+
+msgid "ISO_639-3.DTA"
+msgstr "Монгол"
+
+msgid "ISO_639-3.DTP"
+msgstr "Каталан"
+
+msgid "ISO_639-3.DTR"
+msgstr "Венда"
+
+msgid "ISO_639-3.DTY"
+msgstr "Непал"
+
+msgid "ISO_639-3.DUA"
+msgstr "Малай"
+
+msgid "ISO_639-3.DUB"
+msgstr "Малай"
+
+msgid "ISO_639-3.DUC"
+msgstr "Венда"
+
+msgid "ISO_639-3.DUO"
+msgstr "Албани"
+
+msgid "ISO_639-3.DUP"
+msgstr "Санго"
+
+msgid "ISO_639-3.DUV"
+msgstr "Малай"
+
+msgid "ISO_639-3.DUZ"
+msgstr "Малай"
+
+msgid "ISO_639-3.DVA"
+msgstr "Малай"
+
+msgid "ISO_639-3.DWA"
+msgstr "Хинди"
+
+msgid "ISO_639-3.DWR"
+msgstr "Лао"
+
+msgid "ISO_639-3.DWU"
+msgstr "Малай"
+
+msgid "ISO_639-3.DWW"
+msgstr "Марати"
+
+msgid "ISO_639-3.DWY"
+msgstr "Малай"
+
+msgid "ISO_639-3.DYA"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.DZA"
+msgstr "Зулу"
+
+msgid "ISO_639-3.DZG"
+msgstr "Марати"
+
+msgid "ISO_639-3.DZL"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.DZO"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.EAA"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.EBK"
+msgstr "Фрис"
+
+msgid "ISO_639-3.ECR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.EGL"
+msgstr "Самоан"
+
+msgid "ISO_639-3.EIV"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.EKC"
+msgstr "Фрис"
+
+msgid "ISO_639-3.EKG"
+msgstr "Маори"
+
+msgid "ISO_639-3.EKK"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.EKO"
+msgstr "Коми"
+
+msgid "ISO_639-3.EKR"
+msgstr "Япон"
+
+msgid "ISO_639-3.EKY"
+msgstr "Фрис"
+
+msgid "ISO_639-3.ELI"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.ELL"
+msgstr "Грек, шинэ (1453-)"
+
+msgid "ISO_639-3.EMG"
+msgstr "Фрис"
+
+msgid "ISO_639-3.EMK"
+msgstr "Малагас"
+
+msgid "ISO_639-3.EMN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.EMU"
+msgstr "Фрис"
+
+msgid "ISO_639-3.ENA"
+msgstr "Непал"
+
+msgid "ISO_639-3.ENB"
+msgstr "Марати"
+
+msgid "ISO_639-3.END"
+msgstr "Венда"
+
+msgid "ISO_639-3.ENG"
+msgstr "Англи"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.EPO"
+msgstr "Аспиранто"
+
+msgid "ISO_639-3.ERA"
+msgstr "Каталан"
+
+msgid "ISO_639-3.ERG"
+msgstr "Словиен"
+
+msgid "ISO_639-3.ERH"
+msgstr "Орияа"
+
+msgid "ISO_639-3.ERK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ERO"
+msgstr "Хайза"
+
+msgid "ISO_639-3.ESG"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.EST"
+msgstr "Эстони"
+
+msgid "ISO_639-3.ESU"
+msgstr "Свати"
+
+msgid "ISO_639-3.ESY"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ETR"
+msgstr "Волоф"
+
+msgid "ISO_639-3.ETT"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.EUS"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.EVH"
+msgstr "Үзбек"
+
+msgid "ISO_639-3.EYA"
+msgstr "Орияа"
+
+msgid "ISO_639-3.EYO"
+msgstr "Хереро"
+
+msgid "ISO_639-3.EZE"
+msgstr "Үзбек"
+
+msgid "ISO_639-3.FAA"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.FAD"
+msgstr "Марати"
+
+msgid "ISO_639-3.FAF"
+msgstr "Свати"
+
+msgid "ISO_639-3.FAH"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Тахит"
+
+msgid "ISO_639-3.FAL"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.FAO"
+msgstr "Фароес"
+
+msgid "ISO_639-3.FAP"
+msgstr "Пали"
+
+msgid "ISO_639-3.FAR"
+msgstr "Каталан"
+
+msgid "ISO_639-3.FAS"
+msgstr "Перс"
+
+msgid "ISO_639-3.FAT"
+msgstr "Свати"
+
+msgid "ISO_639-3.FAX"
+msgstr "Малай"
+
+msgid "ISO_639-3.FAY"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.FBL"
+msgstr "Албани"
+
+msgid "ISO_639-3.FER"
+msgstr "Фароес"
+
+msgid "ISO_639-3.FGR"
+msgstr "Монгол"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Фижиан"
+
+msgid "ISO_639-3.FIL"
+msgstr "Фрис"
+
+msgid "ISO_639-3.FIN"
+msgstr "Финнлянд"
+
+msgid "ISO_639-3.FIP"
+msgstr "Фижиан"
+
+msgid "ISO_639-3.FIR"
+msgstr "Фижиан"
+
+msgid "ISO_639-3.FIW"
+msgstr "Санго"
+
+msgid "ISO_639-3.FKV"
+msgstr "Финнлянд"
+
+msgid "ISO_639-3.FLI"
+msgstr "Пали"
+
+msgid "ISO_639-3.FLL"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.FLY"
+msgstr "Тахит"
+
+msgid "ISO_639-3.FMU"
+msgstr "Фрис"
+
+msgid "ISO_639-3.FNG"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.FNI"
+msgstr "Свати"
+
+msgid "ISO_639-3.FOM"
+msgstr "Самали"
+
+msgid "ISO_639-3.FOR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.FQS"
+msgstr "Фароес"
+
+msgid "ISO_639-3.FRA"
+msgstr "Франц"
+
+msgid "ISO_639-3.FRC"
+msgstr "Франц"
+
+msgid "ISO_639-3.FRK"
+msgstr "Дани"
+
+msgid "ISO_639-3.FRP"
+msgstr "Аямара"
+
+msgid "ISO_639-3.FRR"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.FRS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.FRY"
+msgstr "Фрис"
+
+msgid "ISO_639-3.FSS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.FUF"
+msgstr "Малай"
+
+msgid "ISO_639-3.FUI"
+msgstr "Бихари"
+
+msgid "ISO_639-3.FUJ"
+msgstr "Коми"
+
+msgid "ISO_639-3.FUR"
+msgstr "Фрис"
+
+msgid "ISO_639-3.FUU"
+msgstr "Науру"
+
+msgid "ISO_639-3.GAB"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GAD"
+msgstr "Канад"
+
+msgid "ISO_639-3.GAF"
+msgstr "Венда"
+
+msgid "ISO_639-3.GAH"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.GAI"
+msgstr "Маори"
+
+msgid "ISO_639-3.GAL"
+msgstr "Гали"
+
+msgid "ISO_639-3.GAM"
+msgstr "Канад"
+
+msgid "ISO_639-3.GAN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.GAO"
+msgstr "Канад"
+
+msgid "ISO_639-3.GAP"
+msgstr "Гали"
+
+msgid "ISO_639-3.GAQ"
+msgstr "Татаар"
+
+msgid "ISO_639-3.GAT"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.GAZ"
+msgstr "Свати"
+
+msgid "ISO_639-3.GBD"
+msgstr "Марати"
+
+msgid "ISO_639-3.GBF"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GBI"
+msgstr "Гали"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Индонези"
+
+msgid "ISO_639-3.GBK"
+msgstr "Канад"
+
+msgid "ISO_639-3.GBL"
+msgstr "Тамил"
+
+msgid "ISO_639-3.GBM"
+msgstr "Марати"
+
+msgid "ISO_639-3.GBO"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.GBV"
+msgstr "Канад"
+
+msgid "ISO_639-3.GBY"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GCC"
+msgstr "Маори"
+
+msgid "ISO_639-3.GCD"
+msgstr "Канад"
+
+msgid "ISO_639-3.GCE"
+msgstr "Гали"
+
+msgid "ISO_639-3.GCN"
+msgstr "Канад"
+
+msgid "ISO_639-3.GDG"
+msgstr "Канад"
+
+msgid "ISO_639-3.GDI"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GDJ"
+msgstr "Гуярати"
+
+msgid "ISO_639-3.GDK"
+msgstr "Канад"
+
+msgid "ISO_639-3.GDL"
+msgstr "Дани"
+
+msgid "ISO_639-3.GDM"
+msgstr "Канад"
+
+msgid "ISO_639-3.GDN"
+msgstr "Украйн"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Маори"
+
+msgid "ISO_639-3.GDS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.GDT"
+msgstr "Унгар"
+
+msgid "ISO_639-3.GDX"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GEA"
+msgstr "Герман"
+
+msgid "ISO_639-3.GEB"
+msgstr "Тигран"
+
+msgid "ISO_639-3.GED"
+msgstr "Канад"
+
+msgid "ISO_639-3.GEG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.GEI"
+msgstr "Еврей"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Герман"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Герман"
+
+msgid "ISO_639-3.GEW"
+msgstr "Герман"
+
+msgid "ISO_639-3.GEX"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.GEY"
+msgstr "Орияа"
+
+msgid "ISO_639-3.GFK"
+msgstr "Татаар"
+
+msgid "ISO_639-3.GFT"
+msgstr "Гуярати"
+
+msgid "ISO_639-3.GGA"
+msgstr "Лао"
+
+msgid "ISO_639-3.GGE"
+msgstr "Фароес"
+
+msgid "ISO_639-3.GGK"
+msgstr "Унгар"
+
+msgid "ISO_639-3.GGL"
+msgstr "Канад"
+
+msgid "ISO_639-3.GHE"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.GHH"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.GHO"
+msgstr "Аямара"
+
+msgid "ISO_639-3.GHR"
+msgstr "Герман"
+
+msgid "ISO_639-3.GHT"
+msgstr "Хятад"
+
+msgid "ISO_639-3.GIB"
+msgstr "Канад"
+
+msgid "ISO_639-3.GIC"
+msgstr "Тамил"
+
+msgid "ISO_639-3.GID"
+msgstr "Канад"
+
+msgid "ISO_639-3.GIG"
+msgstr "Георги"
+
+msgid "ISO_639-3.GIL"
+msgstr "Ветьнам"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Гали"
+
+msgid "ISO_639-3.GIR"
+msgstr "Гали"
+
+msgid "ISO_639-3.GIU"
+msgstr "Малай"
+
+msgid "ISO_639-3.GIW"
+msgstr "Гали"
+
+msgid "ISO_639-3.GIX"
+msgstr "Бислама"
+
+msgid "ISO_639-3.GJI"
+msgstr "Гали"
+
+msgid "ISO_639-3.GJM"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GJN"
+msgstr "Шона"
+
+msgid "ISO_639-3.GJR"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GJU"
+msgstr "Гуярати"
+
+msgid "ISO_639-3.GKE"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.GKN"
+msgstr "Гали"
+
+msgid "ISO_639-3.GLD"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.GLE"
+msgstr "Ирланд"
+
+msgid "ISO_639-3.GLG"
+msgstr "Галици"
+
+msgid "ISO_639-3.GLH"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.GLL"
+msgstr "Лингал"
+
+msgid "ISO_639-3.GLO"
+msgstr "Валлон"
+
+msgid "ISO_639-3.GLV"
+msgstr "Манкс"
+
+msgid "ISO_639-3.GLW"
+msgstr "Канад"
+
+msgid "ISO_639-3.GMA"
+msgstr "Армен"
+
+msgid "ISO_639-3.GMU"
+msgstr "Зулу"
+
+msgid "ISO_639-3.GMV"
+msgstr "Лао"
+
+msgid "ISO_639-3.GMX"
+msgstr "Марати"
+
+msgid "ISO_639-3.GNA"
+msgstr "Канад"
+
+msgid "ISO_639-3.GNB"
+msgstr "Санго"
+
+msgid "ISO_639-3.GNC"
+msgstr "Манкс"
+
+msgid "ISO_639-3.GNE"
+msgstr "Канад"
+
+msgid "ISO_639-3.GNG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.GNH"
+msgstr "Хереро"
+
+msgid "ISO_639-3.GNI"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GNK"
+msgstr "Канад"
+
+msgid "ISO_639-3.GNM"
+msgstr "Герман"
+
+msgid "ISO_639-3.GNO"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Канад"
+
+msgid "ISO_639-3.GNT"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GNU"
+msgstr "Канад"
+
+msgid "ISO_639-3.GNW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GOD"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GOE"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GOF"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.GOG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.GOK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.GON"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GOP"
+msgstr "Хереро"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Георги"
+
+msgid "ISO_639-3.GOS"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GOU"
+msgstr "Татаар"
+
+msgid "ISO_639-3.GOY"
+msgstr "Рунди"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GPN"
+msgstr "Тай"
+
+msgid "ISO_639-3.GQA"
+msgstr "Канад"
+
+msgid "ISO_639-3.GQU"
+msgstr "Баскүе"
+
+msgid "ISO_639-3.GRC"
+msgstr "Грек, шинэ (1453-)"
+
+msgid "ISO_639-3.GRG"
+msgstr "Маори"
+
+msgid "ISO_639-3.GRI"
+msgstr "Бихари"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.GRN"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GRO"
+msgstr "Герман"
+
+msgid "ISO_639-3.GRR"
+msgstr "Свати"
+
+msgid "ISO_639-3.GRU"
+msgstr "Хятад"
+
+msgid "ISO_639-3.GRV"
+msgstr "Свати"
+
+msgid "ISO_639-3.GRW"
+msgstr "Венда"
+
+msgid "ISO_639-3.GRX"
+msgstr "Болгар"
+
+msgid "ISO_639-3.GSP"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.GSW"
+msgstr "Герман"
+
+msgid "ISO_639-3.GUA"
+msgstr "Свахили"
+
+msgid "ISO_639-3.GUB"
+msgstr "Гуярати"
+
+msgid "ISO_639-3.GUC"
+msgstr "Малай"
+
+msgid "ISO_639-3.GUE"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GUG"
+msgstr "Малагас"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Гуярати"
+
+msgid "ISO_639-3.GUM"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GUR"
+msgstr "Фароес"
+
+msgid "ISO_639-3.GUS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.GUW"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GVC"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GVE"
+msgstr "Нидерланд"
+
+msgid "ISO_639-3.GVF"
+msgstr "Хинди"
+
+msgid "ISO_639-3.GVL"
+msgstr "Малай"
+
+msgid "ISO_639-3.GVM"
+msgstr "Герман"
+
+msgid "ISO_639-3.GVR"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.GVS"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GVY"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GWA"
+msgstr "Маори"
+
+msgid "ISO_639-3.GWC"
+msgstr "Валлон"
+
+msgid "ISO_639-3.GWD"
+msgstr "Канад"
+
+msgid "ISO_639-3.GWG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.GWN"
+msgstr "Канад"
+
+msgid "ISO_639-3.GWR"
+msgstr "Хереро"
+
+msgid "ISO_639-3.GWT"
+msgstr "Гуярати"
+
+msgid "ISO_639-3.GWW"
+msgstr "Хинди"
+
+msgid "ISO_639-3.GWX"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GXX"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.GYB"
+msgstr "Науру"
+
+msgid "ISO_639-3.GYD"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.GYE"
+msgstr "Герман"
+
+msgid "ISO_639-3.GYF"
+msgstr "Лингал"
+
+msgid "ISO_639-3.GYL"
+msgstr "Тамил"
+
+msgid "ISO_639-3.GYR"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.GYY"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.GZA"
+msgstr "Канад"
+
+msgid "ISO_639-3.GZI"
+msgstr "Тай"
+
+msgid "ISO_639-3.GZN"
+msgstr "Канад"
+
+msgid "ISO_639-3.HAC"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.HAD"
+msgstr "Татаар"
+
+msgid "ISO_639-3.HAG"
+msgstr "Санго"
+
+msgid "ISO_639-3.HAH"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.HAI"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HAJ"
+msgstr "Санго"
+
+msgid "ISO_639-3.HAK"
+msgstr "Хятад"
+
+msgid "ISO_639-3.HAL"
+msgstr "Каталан"
+
+msgid "ISO_639-3.HAM"
+msgstr "Непал"
+
+msgid "ISO_639-3.HAN"
+msgstr "Унгар"
+
+msgid "ISO_639-3.HAP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HAR"
+msgstr "Марати"
+
+msgid "ISO_639-3.HAS"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HAT"
+msgstr "Тахит"
+
+msgid "ISO_639-3.HAU"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HAV"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HAW"
+msgstr "Тахит"
+
+msgid "ISO_639-3.HAX"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HAY"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HBA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.HBB"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HBN"
+msgstr "Перс"
+
+msgid "ISO_639-3.HBO"
+msgstr "Еврей"
+
+msgid "ISO_639-3.HBS"
+msgstr "Хорват"
+
+msgid "ISO_639-3.HBU"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HDN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HDY"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HEA"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.HEB"
+msgstr "Еврей"
+
+msgid "ISO_639-3.HEH"
+msgstr "Хереро"
+
+msgid "ISO_639-3.HEM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.HER"
+msgstr "Хереро"
+
+msgid "ISO_639-3.HGW"
+msgstr "Тахит"
+
+msgid "ISO_639-3.HHR"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.HHY"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HIA"
+msgstr "Самоан"
+
+msgid "ISO_639-3.HIB"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HID"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HIF"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HIG"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.HII"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HIN"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HIO"
+msgstr "Цонга"
+
+msgid "ISO_639-3.HIR"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HJI"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HKA"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.HKE"
+msgstr "Рунди"
+
+msgid "ISO_639-3.HKS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.HLA"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HLB"
+msgstr "Пали"
+
+msgid "ISO_639-3.HLE"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HLT"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.HMA"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HME"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HMG"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.HMH"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HMI"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Герман"
+
+msgid "ISO_639-3.HMM"
+msgstr "Свати"
+
+msgid "ISO_639-3.HMO"
+msgstr "Хири моту"
+
+msgid "ISO_639-3.HMP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HMQ"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.HMR"
+msgstr "Аямара"
+
+msgid "ISO_639-3.HMS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HMT"
+msgstr "Араб"
+
+msgid "ISO_639-3.HMU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.HMW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.HMY"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.HND"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HNI"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HNO"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.HNU"
+msgstr "Унгар"
+
+msgid "ISO_639-3.HOA"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HOE"
+msgstr "Оромо"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HOM"
+msgstr "Самали"
+
+msgid "ISO_639-3.HOR"
+msgstr "Хереро"
+
+msgid "ISO_639-3.HOW"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HPS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.HRE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.HRO"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HRU"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HRV"
+msgstr "Хорват"
+
+msgid "ISO_639-3.HRW"
+msgstr "Марати"
+
+msgid "ISO_639-3.HRX"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.HSB"
+msgstr "Серби"
+
+msgid "ISO_639-3.HSL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.HSN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.HSS"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HTS"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HTU"
+msgstr "Хири моту"
+
+msgid "ISO_639-3.HUB"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HUC"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HUD"
+msgstr "Зулу"
+
+msgid "ISO_639-3.HUF"
+msgstr "Бурн"
+
+msgid "ISO_639-3.HUJ"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.HUK"
+msgstr "Зулу"
+
+msgid "ISO_639-3.HUL"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HUM"
+msgstr "Унгар"
+
+msgid "ISO_639-3.HUN"
+msgstr "Унгар"
+
+msgid "ISO_639-3.HUO"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HUP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HUQ"
+msgstr "Татаар"
+
+msgid "ISO_639-3.HUS"
+msgstr "Болгар"
+
+msgid "ISO_639-3.HUT"
+msgstr "Хайза"
+
+msgid "ISO_639-3.HUZ"
+msgstr "Рунди"
+
+msgid "ISO_639-3.HWO"
+msgstr "Цвана"
+
+msgid "ISO_639-3.HYE"
+msgstr "Армен"
+
+msgid "ISO_639-3.IAI"
+msgstr "Марати"
+
+msgid "ISO_639-3.IAR"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.IBD"
+msgstr "Хинди"
+
+msgid "ISO_639-3.IBG"
+msgstr "Санго"
+
+msgid "ISO_639-3.IBL"
+msgstr "Итали"
+
+msgid "ISO_639-3.IBY"
+msgstr "Албани"
+
+msgid "ISO_639-3.IDB"
+msgstr "Португали"
+
+msgid "ISO_639-3.IDC"
+msgstr "Идо"
+
+msgid "ISO_639-3.IDE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.IDI"
+msgstr "Идо"
+
+msgid "ISO_639-3.IDO"
+msgstr "Идо"
+
+msgid "ISO_639-3.IDR"
+msgstr "Рунди"
+
+msgid "ISO_639-3.IDS"
+msgstr "Индонези"
+
+msgid "ISO_639-3.IDU"
+msgstr "Идо"
+
+msgid "ISO_639-3.IFB"
+msgstr "Канад"
+
+msgid "ISO_639-3.IFF"
+msgstr "Идо"
+
+msgid "ISO_639-3.IFU"
+msgstr "Монгол"
+
+msgid "ISO_639-3.IGB"
+msgstr "Орияа"
+
+msgid "ISO_639-3.IGE"
+msgstr "Венда"
+
+msgid "ISO_639-3.IGG"
+msgstr "Канад"
+
+msgid "ISO_639-3.IGL"
+msgstr "Лингал"
+
+msgid "ISO_639-3.IGN"
+msgstr "Итали"
+
+msgid "ISO_639-3.IGS"
+msgstr "Интэрлингуа"
+
+msgid "ISO_639-3.III"
+msgstr "Сиху Юи"
+
+msgid "ISO_639-3.IJE"
+msgstr "Хинди"
+
+msgid "ISO_639-3.IJN"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.IJS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.IKI"
+msgstr "Идо"
+
+msgid "ISO_639-3.IKL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.IKR"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.IKS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.IKU"
+msgstr "Инуктитут"
+
+msgid "ISO_639-3.ILB"
+msgstr "Итали"
+
+msgid "ISO_639-3.ILE"
+msgstr "Интэрлингуэ"
+
+msgid "ISO_639-3.ILI"
+msgstr "Турк"
+
+msgid "ISO_639-3.ILK"
+msgstr "Монгол"
+
+msgid "ISO_639-3.ILM"
+msgstr "Орос"
+
+msgid "ISO_639-3.IMA"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.IMO"
+msgstr "Англи"
+
+msgid "ISO_639-3.IMS"
+msgstr "Маори"
+
+msgid "ISO_639-3.IMY"
+msgstr "Манкс"
+
+msgid "ISO_639-3.INB"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.IND"
+msgstr "Индонези"
+
+msgid "ISO_639-3.INH"
+msgstr "Англи"
+
+msgid "ISO_639-3.INM"
+msgstr "Төвд"
+
+msgid "ISO_639-3.INN"
+msgstr "Хинди"
+
+msgid "ISO_639-3.INS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.IPK"
+msgstr "Инупиак"
+
+msgid "ISO_639-3.IRU"
+msgstr "Фрис"
+
+msgid "ISO_639-3.IRX"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.IRY"
+msgstr "Малай"
+
+msgid "ISO_639-3.ISA"
+msgstr "Марати"
+
+msgid "ISO_639-3.ISE"
+msgstr "Малагас"
+
+msgid "ISO_639-3.ISH"
+msgstr "Эстони"
+
+msgid "ISO_639-3.ISL"
+msgstr "Исланд"
+
+msgid "ISO_639-3.ISM"
+msgstr "Марати"
+
+msgid "ISO_639-3.ITA"
+msgstr "Итали"
+
+msgid "ISO_639-3.ITD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ITE"
+msgstr "Интэрлингуэ"
+
+msgid "ISO_639-3.ITK"
+msgstr "Итали"
+
+msgid "ISO_639-3.ITR"
+msgstr "Интэрлингуэ"
+
+msgid "ISO_639-3.ITV"
+msgstr "Итали"
+
+msgid "ISO_639-3.ITW"
+msgstr "Идо"
+
+msgid "ISO_639-3.ITY"
+msgstr "Канад"
+
+msgid "ISO_639-3.IVB"
+msgstr "Каталан"
+
+msgid "ISO_639-3.IVV"
+msgstr "Авестан"
+
+msgid "ISO_639-3.IZH"
+msgstr "Унгар"
+
+msgid "ISO_639-3.IZR"
+msgstr "Хереро"
+
+msgid "ISO_639-3.JAC"
+msgstr "Словиен"
+
+msgid "ISO_639-3.JAD"
+msgstr "Канад"
+
+msgid "ISO_639-3.JAF"
+msgstr "Малай"
+
+msgid "ISO_639-3.JAN"
+msgstr "Араб"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Малай"
+
+msgid "ISO_639-3.JAT"
+msgstr "Марати"
+
+msgid "ISO_639-3.JAU"
+msgstr "Науру"
+
+msgid "ISO_639-3.JAV"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.JAY"
+msgstr "Шона"
+
+msgid "ISO_639-3.JBE"
+msgstr "Араб"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Араб"
+
+msgid "ISO_639-3.JBK"
+msgstr "Болгар"
+
+msgid "ISO_639-3.JBW"
+msgstr "Лао"
+
+msgid "ISO_639-3.JCT"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.JDG"
+msgstr "Марати"
+
+msgid "ISO_639-3.JDT"
+msgstr "Араб"
+
+msgid "ISO_639-3.JEB"
+msgstr "Хереро"
+
+msgid "ISO_639-3.JEG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.JER"
+msgstr "Хереро"
+
+msgid "ISO_639-3.JET"
+msgstr "Манкс"
+
+msgid "ISO_639-3.JGE"
+msgstr "Перс"
+
+msgid "ISO_639-3.JHI"
+msgstr "Тай"
+
+msgid "ISO_639-3.JHS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.JIA"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.JIC"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.JIO"
+msgstr "Самоан"
+
+msgid "ISO_639-3.JIV"
+msgstr "Шона"
+
+msgid "ISO_639-3.JJR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.JKR"
+msgstr "Индонези"
+
+msgid "ISO_639-3.JKU"
+msgstr "Латин"
+
+msgid "ISO_639-3.JLE"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.JLS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.JMA"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.JMB"
+msgstr "Рунди"
+
+msgid "ISO_639-3.JMC"
+msgstr "Манкс"
+
+msgid "ISO_639-3.JMN"
+msgstr "Науру"
+
+msgid "ISO_639-3.JMR"
+msgstr "Аямара"
+
+msgid "ISO_639-3.JNA"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.JND"
+msgstr "Канад"
+
+msgid "ISO_639-3.JNG"
+msgstr "Самоан"
+
+msgid "ISO_639-3.JNI"
+msgstr "Тажик"
+
+msgid "ISO_639-3.JNL"
+msgstr "Свати"
+
+msgid "ISO_639-3.JNS"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.JOB"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.JOW"
+msgstr "Зулу"
+
+msgid "ISO_639-3.JPN"
+msgstr "Япон"
+
+msgid "ISO_639-3.JPR"
+msgstr "Перс"
+
+msgid "ISO_639-3.JRA"
+msgstr "Марати"
+
+msgid "ISO_639-3.JRB"
+msgstr "Араб"
+
+msgid "ISO_639-3.JUK"
+msgstr "Япон"
+
+msgid "ISO_639-3.JUL"
+msgstr "Тигран"
+
+msgid "ISO_639-3.JUN"
+msgstr "Санго"
+
+msgid "ISO_639-3.JUP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.JUS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.JUT"
+msgstr "Күрд"
+
+msgid "ISO_639-3.JUY"
+msgstr "Малай"
+
+msgid "ISO_639-3.JVD"
+msgstr "Санго"
+
+msgid "ISO_639-3.JVN"
+msgstr "Жава"
+
+msgid "ISO_639-3.JYE"
+msgstr "Араб"
+
+msgid "ISO_639-3.KAD"
+msgstr "Канад"
+
+msgid "ISO_639-3.KAE"
+msgstr "Унгар"
+
+msgid "ISO_639-3.KAF"
+msgstr "Свати"
+
+msgid "ISO_639-3.KAG"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KAI"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KAK"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KAL"
+msgstr "Калаалисут"
+
+msgid "ISO_639-3.KAN"
+msgstr "Канад"
+
+msgid "ISO_639-3.KAS"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.KAT"
+msgstr "Георги"
+
+msgid "ISO_639-3.KAU"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KAX"
+msgstr "Лао"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Казак"
+
+msgid "ISO_639-3.KBA"
+msgstr "Казак"
+
+msgid "ISO_639-3.KBD"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KBE"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KBG"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KBI"
+msgstr "Свати"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KBL"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KBP"
+msgstr "Тай"
+
+msgid "ISO_639-3.KBQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KBR"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KBS"
+msgstr "Сундан"
+
+msgid "ISO_639-3.KBT"
+msgstr "Свахили"
+
+msgid "ISO_639-3.KBU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KBV"
+msgstr "Индонези"
+
+msgid "ISO_639-3.KBW"
+msgstr "Тай"
+
+msgid "ISO_639-3.KBY"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Нидерланд"
+
+msgid "ISO_639-3.KCA"
+msgstr "Шона"
+
+msgid "ISO_639-3.KCB"
+msgstr "Казак"
+
+msgid "ISO_639-3.KCC"
+msgstr "Лингал"
+
+msgid "ISO_639-3.KCE"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.KCF"
+msgstr "Украйн"
+
+msgid "ISO_639-3.KCH"
+msgstr "Монгол"
+
+msgid "ISO_639-3.KCI"
+msgstr "Румын"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KCK"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KCO"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.KCP"
+msgstr "Канад"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KCR"
+msgstr "Каталан"
+
+msgid "ISO_639-3.KCS"
+msgstr "Санго"
+
+msgid "ISO_639-3.KCT"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KCW"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KCY"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Санго"
+
+msgid "ISO_639-3.KDA"
+msgstr "Коми"
+
+msgid "ISO_639-3.KDC"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KDE"
+msgstr "Венда"
+
+msgid "ISO_639-3.KDF"
+msgstr "Марати"
+
+msgid "ISO_639-3.KDG"
+msgstr "Серби"
+
+msgid "ISO_639-3.KDI"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KDM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KDN"
+msgstr "Венда"
+
+msgid "ISO_639-3.KDR"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KDT"
+msgstr "Кикуюу"
+
+msgid "ISO_639-3.KDU"
+msgstr "Канад"
+
+msgid "ISO_639-3.KDW"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KDX"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KDY"
+msgstr "Хереро"
+
+msgid "ISO_639-3.KDZ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KEA"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KED"
+msgstr "Еврей"
+
+msgid "ISO_639-3.KEG"
+msgstr "Япон"
+
+msgid "ISO_639-3.KEH"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Канад"
+
+msgid "ISO_639-3.KEM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KEN"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KEO"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KEP"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KER"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KES"
+msgstr "Санго"
+
+msgid "ISO_639-3.KEV"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KEX"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KEY"
+msgstr "Инупиак"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Хятад"
+
+msgid "ISO_639-3.KFA"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KFB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KFD"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KFE"
+msgstr "Индонези"
+
+msgid "ISO_639-3.KFF"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KFG"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KFH"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KFI"
+msgstr "Канад"
+
+msgid "ISO_639-3.KFK"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KFL"
+msgstr "Санго"
+
+msgid "ISO_639-3.KFM"
+msgstr "Тай"
+
+msgid "ISO_639-3.KFN"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KFP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KFR"
+msgstr "Тай"
+
+msgid "ISO_639-3.KFS"
+msgstr "Бихари"
+
+msgid "ISO_639-3.KFT"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KFU"
+msgstr "Татаар"
+
+msgid "ISO_639-3.KFV"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KFW"
+msgstr "Латви"
+
+msgid "ISO_639-3.KFX"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.KFY"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KGB"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KGD"
+msgstr "Каталан"
+
+msgid "ISO_639-3.KGE"
+msgstr "Коми"
+
+msgid "ISO_639-3.KGG"
+msgstr "Венда"
+
+msgid "ISO_639-3.KGJ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.KGL"
+msgstr "Унгар"
+
+msgid "ISO_639-3.KGN"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KGO"
+msgstr "Санго"
+
+msgid "ISO_639-3.KGP"
+msgstr "Латви"
+
+msgid "ISO_639-3.KGQ"
+msgstr "Чаморро"
+
+msgid "ISO_639-3.KGU"
+msgstr "Санго"
+
+msgid "ISO_639-3.KGV"
+msgstr "Малай"
+
+msgid "ISO_639-3.KGW"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KGX"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KHA"
+msgstr "Тай"
+
+msgid "ISO_639-3.KHE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KHF"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KHG"
+msgstr "Төвд"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KHK"
+msgstr "Монгол"
+
+msgid "ISO_639-3.KHL"
+msgstr "Тай"
+
+msgid "ISO_639-3.KHM"
+msgstr "Свати"
+
+msgid "ISO_639-3.KHN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.KHO"
+msgstr "Хятад"
+
+msgid "ISO_639-3.KHP"
+msgstr "Маори"
+
+msgid "ISO_639-3.KHR"
+msgstr "Тай"
+
+msgid "ISO_639-3.KHS"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KHT"
+msgstr "Тай"
+
+msgid "ISO_639-3.KHV"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.KHX"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KHZ"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KIB"
+msgstr "Самали"
+
+msgid "ISO_639-3.KID"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KIE"
+msgstr "Төвд"
+
+msgid "ISO_639-3.KIG"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KIH"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KIK"
+msgstr "Кикуюу"
+
+msgid "ISO_639-3.KIL"
+msgstr "Орияа"
+
+msgid "ISO_639-3.KIM"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KIN"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KIR"
+msgstr "Киргиз"
+
+msgid "ISO_639-3.KIS"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KIU"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KIV"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KIW"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KIX"
+msgstr "Латви"
+
+msgid "ISO_639-3.KJA"
+msgstr "Малай"
+
+msgid "ISO_639-3.KJC"
+msgstr "Каталан"
+
+msgid "ISO_639-3.KJD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KJE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KJG"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KJI"
+msgstr "Аямара"
+
+msgid "ISO_639-3.KJO"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KJR"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KJU"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KJV"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KJX"
+msgstr "Самоан"
+
+msgid "ISO_639-3.KJY"
+msgstr "Орияа"
+
+msgid "ISO_639-3.KKA"
+msgstr "Канад"
+
+msgid "ISO_639-3.KKD"
+msgstr "Кикуюу"
+
+msgid "ISO_639-3.KKF"
+msgstr "Румын"
+
+msgid "ISO_639-3.KKI"
+msgstr "Зулу"
+
+msgid "ISO_639-3.KKJ"
+msgstr "Казак"
+
+msgid "ISO_639-3.KKK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KKL"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KKM"
+msgstr "Санго"
+
+msgid "ISO_639-3.KKO"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Кикуюу"
+
+msgid "ISO_639-3.KKT"
+msgstr "Коми"
+
+msgid "ISO_639-3.KKU"
+msgstr "Тамил"
+
+msgid "ISO_639-3.KKV"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KKX"
+msgstr "Коми"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.KLF"
+msgstr "Венда"
+
+msgid "ISO_639-3.KLG"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KLL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KLM"
+msgstr "Монгол"
+
+msgid "ISO_639-3.KLN"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KLO"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KLP"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KLR"
+msgstr "Тай"
+
+msgid "ISO_639-3.KLS"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KLT"
+msgstr "Венда"
+
+msgid "ISO_639-3.KLU"
+msgstr "Валлон"
+
+msgid "ISO_639-3.KLW"
+msgstr "Венда"
+
+msgid "ISO_639-3.KLY"
+msgstr "Валлон"
+
+msgid "ISO_639-3.KLZ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KMA"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KMC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KMD"
+msgstr "Самоан"
+
+msgid "ISO_639-3.KMH"
+msgstr "Валлон"
+
+msgid "ISO_639-3.KMK"
+msgstr "Тай"
+
+msgid "ISO_639-3.KML"
+msgstr "Самоан"
+
+msgid "ISO_639-3.KMO"
+msgstr "Коми"
+
+msgid "ISO_639-3.KMQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KMR"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KMS"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KMU"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KMY"
+msgstr "Коми"
+
+msgid "ISO_639-3.KNC"
+msgstr "Свати"
+
+msgid "ISO_639-3.KND"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KNE"
+msgstr "Канад"
+
+msgid "ISO_639-3.KNF"
+msgstr "Малай"
+
+msgid "ISO_639-3.KNG"
+msgstr "Санго"
+
+msgid "ISO_639-3.KNI"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KNK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KNM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KNN"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KNP"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.KNR"
+msgstr "Канад"
+
+msgid "ISO_639-3.KNX"
+msgstr "Венда"
+
+msgid "ISO_639-3.KOA"
+msgstr "Санго"
+
+msgid "ISO_639-3.KOC"
+msgstr "Свати"
+
+msgid "ISO_639-3.KOD"
+msgstr "Коми"
+
+msgid "ISO_639-3.KOF"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KOG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.KOH"
+msgstr "Санго"
+
+msgid "ISO_639-3.KOK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KOM"
+msgstr "Коми"
+
+msgid "ISO_639-3.KON"
+msgstr "Санго"
+
+msgid "ISO_639-3.KOO"
+msgstr "Санго"
+
+msgid "ISO_639-3.KOR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KOS"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KOT"
+msgstr "Марати"
+
+msgid "ISO_639-3.KOU"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KOW"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KPD"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KPF"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KPH"
+msgstr "Санго"
+
+msgid "ISO_639-3.KPI"
+msgstr "Коми"
+
+msgid "ISO_639-3.KPK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KPL"
+msgstr "Малай"
+
+msgid "ISO_639-3.KPM"
+msgstr "Санго"
+
+msgid "ISO_639-3.KPR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KPS"
+msgstr "Тай"
+
+msgid "ISO_639-3.KPT"
+msgstr "Канад"
+
+msgid "ISO_639-3.KPU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KPW"
+msgstr "Санго"
+
+msgid "ISO_639-3.KPY"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KQB"
+msgstr "Коми"
+
+msgid "ISO_639-3.KQE"
+msgstr "Малагас"
+
+msgid "ISO_639-3.KQF"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KQG"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KQH"
+msgstr "Канад"
+
+msgid "ISO_639-3.KQJ"
+msgstr "Коми"
+
+msgid "ISO_639-3.KQM"
+msgstr "Чхоса"
+
+msgid "ISO_639-3.KQN"
+msgstr "Канад"
+
+msgid "ISO_639-3.KQO"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KQR"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.KQS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KQU"
+msgstr "Серби"
+
+msgid "ISO_639-3.KQW"
+msgstr "Канад"
+
+msgid "ISO_639-3.KQY"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KRA"
+msgstr "Тай"
+
+msgid "ISO_639-3.KRB"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KRE"
+msgstr "Канад"
+
+msgid "ISO_639-3.KRH"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KRI"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KRJ"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.KRK"
+msgstr "Хереро"
+
+msgid "ISO_639-3.KRL"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KRM"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KRN"
+msgstr "Санго"
+
+msgid "ISO_639-3.KRP"
+msgstr "Санго"
+
+msgid "ISO_639-3.KRT"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KRU"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KRV"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KRW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KRX"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Канад"
+
+msgid "ISO_639-3.KSB"
+msgstr "Аямара"
+
+msgid "ISO_639-3.KSC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KSD"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KSE"
+msgstr "Рунди"
+
+msgid "ISO_639-3.KSF"
+msgstr "Хайза"
+
+msgid "ISO_639-3.KSI"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KSK"
+msgstr "Канад"
+
+msgid "ISO_639-3.KSL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.KSM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KSN"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.KSO"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KSP"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KSQ"
+msgstr "Коми"
+
+msgid "ISO_639-3.KSR"
+msgstr "Бретон"
+
+msgid "ISO_639-3.KSS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KSU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KSV"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KSX"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KTA"
+msgstr "Татаар"
+
+msgid "ISO_639-3.KTB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KTD"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KTE"
+msgstr "Науру"
+
+msgid "ISO_639-3.KTF"
+msgstr "Коми"
+
+msgid "ISO_639-3.KTH"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.KTK"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KTM"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KTQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KTS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KTV"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KUA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KUC"
+msgstr "Хинди"
+
+msgid "ISO_639-3.KUF"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.KUG"
+msgstr "Хайза"
+
+msgid "ISO_639-3.KUH"
+msgstr "Тай"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Болгар"
+
+msgid "ISO_639-3.KUN"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KUO"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Канад"
+
+msgid "ISO_639-3.KUR"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KUV"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KUZ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KVB"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KVC"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KVD"
+msgstr "Индонези"
+
+msgid "ISO_639-3.KVE"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KVF"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KVH"
+msgstr "Коми"
+
+msgid "ISO_639-3.KVI"
+msgstr "Санго"
+
+msgid "ISO_639-3.KVL"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KVM"
+msgstr "Венда"
+
+msgid "ISO_639-3.KVP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KVV"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KVW"
+msgstr "Перс"
+
+msgid "ISO_639-3.KWC"
+msgstr "Лингал"
+
+msgid "ISO_639-3.KWD"
+msgstr "Свати"
+
+msgid "ISO_639-3.KWE"
+msgstr "Серби"
+
+msgid "ISO_639-3.KWF"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KWH"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Цвана"
+
+msgid "ISO_639-3.KWL"
+msgstr "Афаар"
+
+msgid "ISO_639-3.KWM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KWN"
+msgstr "Свати"
+
+msgid "ISO_639-3.KWO"
+msgstr "Коми"
+
+msgid "ISO_639-3.KWP"
+msgstr "Георги"
+
+msgid "ISO_639-3.KWR"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.KWW"
+msgstr "Хинди"
+
+msgid "ISO_639-3.KWY"
+msgstr "Украйн"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Свахили"
+
+msgid "ISO_639-3.KXA"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.KXC"
+msgstr "Санго"
+
+msgid "ISO_639-3.KXD"
+msgstr "Рунди"
+
+msgid "ISO_639-3.KXJ"
+msgstr "Непал"
+
+msgid "ISO_639-3.KXM"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KXN"
+msgstr "Свати"
+
+msgid "ISO_639-3.KXP"
+msgstr "Аямара"
+
+msgid "ISO_639-3.KXS"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KXT"
+msgstr "Коми"
+
+msgid "ISO_639-3.KXV"
+msgstr "Күрд"
+
+msgid "ISO_639-3.KXW"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KXY"
+msgstr "Санго"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.KYA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KYC"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KYD"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KYF"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KYG"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.KYH"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Малай"
+
+msgid "ISO_639-3.KYK"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KYL"
+msgstr "Малай"
+
+msgid "ISO_639-3.KYM"
+msgstr "Свахили"
+
+msgid "ISO_639-3.KYN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.KYO"
+msgstr "Санго"
+
+msgid "ISO_639-3.KYP"
+msgstr "Санго"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.KYS"
+msgstr "Араб"
+
+msgid "ISO_639-3.KYT"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.KYU"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KYW"
+msgstr "Самали"
+
+msgid "ISO_639-3.KYY"
+msgstr "Аямара"
+
+msgid "ISO_639-3.KZA"
+msgstr "Фрис"
+
+msgid "ISO_639-3.KZD"
+msgstr "Канад"
+
+msgid "ISO_639-3.KZE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KZG"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KZK"
+msgstr "Науру"
+
+msgid "ISO_639-3.KZL"
+msgstr "Гали"
+
+msgid "ISO_639-3.KZM"
+msgstr "Тай"
+
+msgid "ISO_639-3.KZN"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KZO"
+msgstr "Санго"
+
+msgid "ISO_639-3.KZP"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Тажик"
+
+msgid "ISO_639-3.KZR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.KZX"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.KZZ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LAA"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.LAB"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LAD"
+msgstr "Латин"
+
+msgid "ISO_639-3.LAF"
+msgstr "Лао"
+
+msgid "ISO_639-3.LAG"
+msgstr "Санго"
+
+msgid "ISO_639-3.LAH"
+msgstr "Канад"
+
+msgid "ISO_639-3.LAI"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LAL"
+msgstr "Пали"
+
+msgid "ISO_639-3.LAN"
+msgstr "Науру"
+
+msgid "ISO_639-3.LAO"
+msgstr "Лао"
+
+msgid "ISO_639-3.LAR"
+msgstr "Марати"
+
+msgid "ISO_639-3.LAT"
+msgstr "Латин"
+
+msgid "ISO_639-3.LAU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LAV"
+msgstr "Латви"
+
+msgid "ISO_639-3.LAX"
+msgstr "Цвана"
+
+msgid "ISO_639-3.LAY"
+msgstr "Аямара"
+
+msgid "ISO_639-3.LBA"
+msgstr "Тай"
+
+msgid "ISO_639-3.LBC"
+msgstr "Латви"
+
+msgid "ISO_639-3.LBE"
+msgstr "Лао"
+
+msgid "ISO_639-3.LBF"
+msgstr "Тахит"
+
+msgid "ISO_639-3.LBG"
+msgstr "Самоан"
+
+msgid "ISO_639-3.LBI"
+msgstr "Латин"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Свахили"
+
+msgid "ISO_639-3.LBK"
+msgstr "Свати"
+
+msgid "ISO_639-3.LBM"
+msgstr "Рунди"
+
+msgid "ISO_639-3.LBN"
+msgstr "Латин"
+
+msgid "ISO_639-3.LBO"
+msgstr "Латви"
+
+msgid "ISO_639-3.LBQ"
+msgstr "Аямара"
+
+msgid "ISO_639-3.LBS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.LBT"
+msgstr "Латин"
+
+msgid "ISO_639-3.LBW"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.LBX"
+msgstr "Тахит"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Латин"
+
+msgid "ISO_639-3.LCH"
+msgstr "Тай"
+
+msgid "ISO_639-3.LCL"
+msgstr "Бислама"
+
+msgid "ISO_639-3.LCM"
+msgstr "Цонга"
+
+msgid "ISO_639-3.LCP"
+msgstr "Фрис"
+
+msgid "ISO_639-3.LDD"
+msgstr "Тай"
+
+msgid "ISO_639-3.LDI"
+msgstr "Марати"
+
+msgid "ISO_639-3.LDK"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.LDL"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.LDM"
+msgstr "Канад"
+
+msgid "ISO_639-3.LDN"
+msgstr "Латин"
+
+msgid "ISO_639-3.LDO"
+msgstr "Лао"
+
+msgid "ISO_639-3.LDP"
+msgstr "Цонга"
+
+msgid "ISO_639-3.LEA"
+msgstr "Канад"
+
+msgid "ISO_639-3.LED"
+msgstr "Венда"
+
+msgid "ISO_639-3.LEH"
+msgstr "Венда"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LEM"
+msgstr "Румын"
+
+msgid "ISO_639-3.LEN"
+msgstr "Венда"
+
+msgid "ISO_639-3.LEP"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.LES"
+msgstr "Япон"
+
+msgid "ISO_639-3.LEV"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LEX"
+msgstr "Санго"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Георги"
+
+msgid "ISO_639-3.LFN"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LGA"
+msgstr "Венда"
+
+msgid "ISO_639-3.LGG"
+msgstr "Болгар"
+
+msgid "ISO_639-3.LGK"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LGL"
+msgstr "Валлон"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.LGR"
+msgstr "Санго"
+
+msgid "ISO_639-3.LGT"
+msgstr "Пали"
+
+msgid "ISO_639-3.LHH"
+msgstr "Индонези"
+
+msgid "ISO_639-3.LHM"
+msgstr "Коми"
+
+msgid "ISO_639-3.LHN"
+msgstr "Канад"
+
+msgid "ISO_639-3.LHT"
+msgstr "Цонга"
+
+msgid "ISO_639-3.LHU"
+msgstr "Манкс"
+
+msgid "ISO_639-3.LIA"
+msgstr "Свати"
+
+msgid "ISO_639-3.LIC"
+msgstr "Хинди"
+
+msgid "ISO_639-3.LIE"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LIF"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.LIK"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.LIM"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.LIN"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LIR"
+msgstr "Англи"
+
+msgid "ISO_639-3.LIT"
+msgstr "Литва"
+
+msgid "ISO_639-3.LIU"
+msgstr "Маори"
+
+msgid "ISO_639-3.LIV"
+msgstr "Тви"
+
+msgid "ISO_639-3.LIW"
+msgstr "Корни"
+
+msgid "ISO_639-3.LIY"
+msgstr "Аямара"
+
+msgid "ISO_639-3.LJE"
+msgstr "Тамил"
+
+msgid "ISO_639-3.LJI"
+msgstr "Латин"
+
+msgid "ISO_639-3.LJL"
+msgstr "Латин"
+
+msgid "ISO_639-3.LJP"
+msgstr "Санго"
+
+msgid "ISO_639-3.LJW"
+msgstr "Араб"
+
+msgid "ISO_639-3.LKB"
+msgstr "Малай"
+
+msgid "ISO_639-3.LKC"
+msgstr "Санго"
+
+msgid "ISO_639-3.LKD"
+msgstr "Лао"
+
+msgid "ISO_639-3.LKE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.LKH"
+msgstr "Канад"
+
+msgid "ISO_639-3.LKI"
+msgstr "Латин"
+
+msgid "ISO_639-3.LKJ"
+msgstr "Рунди"
+
+msgid "ISO_639-3.LKM"
+msgstr "Валлон"
+
+msgid "ISO_639-3.LKN"
+msgstr "Лао"
+
+msgid "ISO_639-3.LKO"
+msgstr "Тай"
+
+msgid "ISO_639-3.LKS"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.LKT"
+msgstr "Лао"
+
+msgid "ISO_639-3.LKU"
+msgstr "Унгар"
+
+msgid "ISO_639-3.LLB"
+msgstr "Волоф"
+
+msgid "ISO_639-3.LLD"
+msgstr "Латин"
+
+msgid "ISO_639-3.LLF"
+msgstr "Хинди"
+
+msgid "ISO_639-3.LLH"
+msgstr "Лао"
+
+msgid "ISO_639-3.LLL"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LLM"
+msgstr "Марати"
+
+msgid "ISO_639-3.LLO"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.LLP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.LLQ"
+msgstr "Волапук"
+
+msgid "ISO_639-3.LLU"
+msgstr "Лао"
+
+msgid "ISO_639-3.LLX"
+msgstr "Латви"
+
+msgid "ISO_639-3.LMB"
+msgstr "Маори"
+
+msgid "ISO_639-3.LMC"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.LMD"
+msgstr "Венда"
+
+msgid "ISO_639-3.LMG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.LMI"
+msgstr "Коми"
+
+msgid "ISO_639-3.LMK"
+msgstr "Самоан"
+
+msgid "ISO_639-3.LML"
+msgstr "Санго"
+
+msgid "ISO_639-3.LMN"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LMP"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.LMR"
+msgstr "Аямара"
+
+msgid "ISO_639-3.LMY"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LMZ"
+msgstr "Бурн"
+
+msgid "ISO_639-3.LNB"
+msgstr "Манкс"
+
+msgid "ISO_639-3.LND"
+msgstr "Венда"
+
+msgid "ISO_639-3.LNG"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.LNH"
+msgstr "Лао"
+
+msgid "ISO_639-3.LNI"
+msgstr "Свати"
+
+msgid "ISO_639-3.LNL"
+msgstr "Свати"
+
+msgid "ISO_639-3.LNM"
+msgstr "Канад"
+
+msgid "ISO_639-3.LNS"
+msgstr "Латин"
+
+msgid "ISO_639-3.LNU"
+msgstr "Венда"
+
+msgid "ISO_639-3.LNW"
+msgstr "Пали"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Монгол"
+
+msgid "ISO_639-3.LOC"
+msgstr "Индонези"
+
+msgid "ISO_639-3.LOE"
+msgstr "Каталан"
+
+msgid "ISO_639-3.LOF"
+msgstr "Монгол"
+
+msgid "ISO_639-3.LOG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.LOH"
+msgstr "Непал"
+
+msgid "ISO_639-3.LOJ"
+msgstr "Лао"
+
+msgid "ISO_639-3.LOL"
+msgstr "Монгол"
+
+msgid "ISO_639-3.LOO"
+msgstr "Оромо"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LOS"
+msgstr "Рунди"
+
+msgid "ISO_639-3.LOX"
+msgstr "Венда"
+
+msgid "ISO_639-3.LPN"
+msgstr "Науру"
+
+msgid "ISO_639-3.LPO"
+msgstr "Латин"
+
+msgid "ISO_639-3.LRA"
+msgstr "Бихари"
+
+msgid "ISO_639-3.LRC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.LRE"
+msgstr "Латви"
+
+msgid "ISO_639-3.LRG"
+msgstr "Марати"
+
+msgid "ISO_639-3.LRI"
+msgstr "Марати"
+
+msgid "ISO_639-3.LRK"
+msgstr "Маори"
+
+msgid "ISO_639-3.LRL"
+msgstr "Маори"
+
+msgid "ISO_639-3.LRM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.LRN"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.LRO"
+msgstr "Лао"
+
+msgid "ISO_639-3.LRR"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Коми"
+
+msgid "ISO_639-3.LSD"
+msgstr "Литва"
+
+msgid "ISO_639-3.LSH"
+msgstr "Ирланд"
+
+msgid "ISO_639-3.LSI"
+msgstr "Тай"
+
+msgid "ISO_639-3.LSL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.LSM"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.LSO"
+msgstr "Малагас"
+
+msgid "ISO_639-3.LSP"
+msgstr "Малагас"
+
+msgid "ISO_639-3.LSS"
+msgstr "Марати"
+
+msgid "ISO_639-3.LST"
+msgstr "Малагас"
+
+msgid "ISO_639-3.LSY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.LTG"
+msgstr "Каталан"
+
+msgid "ISO_639-3.LTI"
+msgstr "Индонези"
+
+msgid "ISO_639-3.LTN"
+msgstr "Латин"
+
+msgid "ISO_639-3.LTO"
+msgstr "Оромо"
+
+msgid "ISO_639-3.LTS"
+msgstr "Корни"
+
+msgid "ISO_639-3.LTU"
+msgstr "Латин"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Льюксембург"
+
+msgid "ISO_639-3.LUC"
+msgstr "Лингал"
+
+msgid "ISO_639-3.LUD"
+msgstr "Венда"
+
+msgid "ISO_639-3.LUE"
+msgstr "Зулу"
+
+msgid "ISO_639-3.LUF"
+msgstr "Венда"
+
+msgid "ISO_639-3.LUG"
+msgstr "Канад"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Венда"
+
+msgid "ISO_639-3.LUM"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.LUN"
+msgstr "Венда"
+
+msgid "ISO_639-3.LUR"
+msgstr "Малай"
+
+msgid "ISO_639-3.LUS"
+msgstr "Тай"
+
+msgid "ISO_639-3.LUV"
+msgstr "Латин"
+
+msgid "ISO_639-3.LUY"
+msgstr "Венда"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.LVS"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.LWG"
+msgstr "Санго"
+
+msgid "ISO_639-3.LWH"
+msgstr "Латин"
+
+msgid "ISO_639-3.LWM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.LWU"
+msgstr "Венда"
+
+msgid "ISO_639-3.LYA"
+msgstr "Казак"
+
+msgid "ISO_639-3.LYG"
+msgstr "Венда"
+
+msgid "ISO_639-3.LYN"
+msgstr "Венда"
+
+msgid "ISO_639-3.LZH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.LZN"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.LZZ"
+msgstr "Лао"
+
+msgid "ISO_639-3.MAD"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MAF"
+msgstr "Малай"
+
+msgid "ISO_639-3.MAG"
+msgstr "Марати"
+
+msgid "ISO_639-3.MAH"
+msgstr "Маршалл"
+
+msgid "ISO_639-3.MAI"
+msgstr "Свахили"
+
+msgid "ISO_639-3.MAL"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MAM"
+msgstr "Малай"
+
+msgid "ISO_639-3.MAN"
+msgstr "Санго"
+
+msgid "ISO_639-3.MAR"
+msgstr "Марати"
+
+msgid "ISO_639-3.MAS"
+msgstr "Марати"
+
+msgid "ISO_639-3.MAW"
+msgstr "Маори"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Свати"
+
+msgid "ISO_639-3.MBC"
+msgstr "Марати"
+
+msgid "ISO_639-3.MBE"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MBF"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MBH"
+msgstr "Санго"
+
+msgid "ISO_639-3.MBK"
+msgstr "Малай"
+
+msgid "ISO_639-3.MBM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MBP"
+msgstr "Малай"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MBS"
+msgstr "Канад"
+
+msgid "ISO_639-3.MBW"
+msgstr "Маори"
+
+msgid "ISO_639-3.MBY"
+msgstr "Макидони"
+
+msgid "ISO_639-3.MCA"
+msgstr "Малай"
+
+msgid "ISO_639-3.MCH"
+msgstr "Марати"
+
+msgid "ISO_639-3.MCI"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MCK"
+msgstr "Венда"
+
+msgid "ISO_639-3.MCN"
+msgstr "Марати"
+
+msgid "ISO_639-3.MCP"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MCR"
+msgstr "Венда"
+
+msgid "ISO_639-3.MCS"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MCT"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MCY"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MDB"
+msgstr "Маори"
+
+msgid "ISO_639-3.MDG"
+msgstr "Марати"
+
+msgid "ISO_639-3.MDH"
+msgstr "Санго"
+
+msgid "ISO_639-3.MDL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MDM"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MDN"
+msgstr "Марати"
+
+msgid "ISO_639-3.MDP"
+msgstr "Малай"
+
+msgid "ISO_639-3.MDR"
+msgstr "Канад"
+
+msgid "ISO_639-3.MDT"
+msgstr "Хереро"
+
+msgid "ISO_639-3.MDU"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MDW"
+msgstr "Маори"
+
+msgid "ISO_639-3.MDX"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.MEA"
+msgstr "Венда"
+
+msgid "ISO_639-3.MEC"
+msgstr "Маори"
+
+msgid "ISO_639-3.MED"
+msgstr "Малай"
+
+msgid "ISO_639-3.MEE"
+msgstr "Венда"
+
+msgid "ISO_639-3.MEH"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MEK"
+msgstr "Венда"
+
+msgid "ISO_639-3.MEL"
+msgstr "Свати"
+
+msgid "ISO_639-3.MEM"
+msgstr "Лингал"
+
+msgid "ISO_639-3.MEQ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.MES"
+msgstr "Марати"
+
+msgid "ISO_639-3.MET"
+msgstr "Маори"
+
+msgid "ISO_639-3.MEU"
+msgstr "Хири моту"
+
+msgid "ISO_639-3.MEV"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MEW"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MFA"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MFB"
+msgstr "Канад"
+
+msgid "ISO_639-3.MFE"
+msgstr "Маори"
+
+msgid "ISO_639-3.MFF"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.MFH"
+msgstr "Свати"
+
+msgid "ISO_639-3.MFI"
+msgstr "Канад"
+
+msgid "ISO_639-3.MFK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MFL"
+msgstr "Пали"
+
+msgid "ISO_639-3.MFP"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MFQ"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.MFR"
+msgstr "Свахили"
+
+msgid "ISO_639-3.MFS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MFT"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MFV"
+msgstr "Канад"
+
+msgid "ISO_639-3.MFY"
+msgstr "Малай"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.MGB"
+msgstr "Марати"
+
+msgid "ISO_639-3.MGD"
+msgstr "Маори"
+
+msgid "ISO_639-3.MGE"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MGF"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MGG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Армен"
+
+msgid "ISO_639-3.MGK"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MGM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MGN"
+msgstr "Марати"
+
+msgid "ISO_639-3.MGP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Малай"
+
+msgid "ISO_639-3.MGT"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MGU"
+msgstr "Маори"
+
+msgid "ISO_639-3.MGV"
+msgstr "Санго"
+
+msgid "ISO_639-3.MHA"
+msgstr "Индонези"
+
+msgid "ISO_639-3.MHB"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MHC"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MHE"
+msgstr "Хинди"
+
+msgid "ISO_639-3.MHF"
+msgstr "Аямара"
+
+msgid "ISO_639-3.MHG"
+msgstr "Маори"
+
+msgid "ISO_639-3.MHI"
+msgstr "Маори"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MHK"
+msgstr "Унгар"
+
+msgid "ISO_639-3.MHP"
+msgstr "Хятад"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Канад"
+
+msgid "ISO_639-3.MHS"
+msgstr "Индонези"
+
+msgid "ISO_639-3.MHT"
+msgstr "Канад"
+
+msgid "ISO_639-3.MHX"
+msgstr "Маори"
+
+msgid "ISO_639-3.MHY"
+msgstr "Малай"
+
+msgid "ISO_639-3.MHZ"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.MIA"
+msgstr "Маори"
+
+msgid "ISO_639-3.MIC"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MID"
+msgstr "Канад"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Афаар"
+
+msgid "ISO_639-3.MIK"
+msgstr "Марати"
+
+msgid "ISO_639-3.MIT"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.MJB"
+msgstr "Марати"
+
+msgid "ISO_639-3.MJH"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MJK"
+msgstr "Татаар"
+
+msgid "ISO_639-3.MJL"
+msgstr "Канад"
+
+msgid "ISO_639-3.MJM"
+msgstr "Венда"
+
+msgid "ISO_639-3.MJP"
+msgstr "Канад"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Малай"
+
+msgid "ISO_639-3.MJR"
+msgstr "Молдав"
+
+msgid "ISO_639-3.MJU"
+msgstr "Канад"
+
+msgid "ISO_639-3.MJV"
+msgstr "Канад"
+
+msgid "ISO_639-3.MJW"
+msgstr "Күрд"
+
+msgid "ISO_639-3.MJX"
+msgstr "Марати"
+
+msgid "ISO_639-3.MJY"
+msgstr "Тахит"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MKA"
+msgstr "Еврей"
+
+msgid "ISO_639-3.MKB"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MKD"
+msgstr "Макидони"
+
+msgid "ISO_639-3.MKE"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MKF"
+msgstr "Орияа"
+
+msgid "ISO_639-3.MKI"
+msgstr "Тай"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MKR"
+msgstr "Малай"
+
+msgid "ISO_639-3.MKV"
+msgstr "Малай"
+
+msgid "ISO_639-3.MKY"
+msgstr "Самоан"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MLA"
+msgstr "Малай"
+
+msgid "ISO_639-3.MLC"
+msgstr "Самоан"
+
+msgid "ISO_639-3.MLE"
+msgstr "Канад"
+
+msgid "ISO_639-3.MLF"
+msgstr "Малай"
+
+msgid "ISO_639-3.MLG"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MLH"
+msgstr "Япон"
+
+msgid "ISO_639-3.MLK"
+msgstr "Цвана"
+
+msgid "ISO_639-3.MLL"
+msgstr "Малай"
+
+msgid "ISO_639-3.MLM"
+msgstr "Малай"
+
+msgid "ISO_639-3.MLN"
+msgstr "Санго"
+
+msgid "ISO_639-3.MLP"
+msgstr "Марати"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Фрис"
+
+msgid "ISO_639-3.MLS"
+msgstr "Марати"
+
+msgid "ISO_639-3.MLT"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MLV"
+msgstr "Молдав"
+
+msgid "ISO_639-3.MLX"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Малай"
+
+msgid "ISO_639-3.MMA"
+msgstr "Малай"
+
+msgid "ISO_639-3.MMB"
+msgstr "Коми"
+
+msgid "ISO_639-3.MMD"
+msgstr "Макидони"
+
+msgid "ISO_639-3.MME"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MMF"
+msgstr "Венда"
+
+msgid "ISO_639-3.MMI"
+msgstr "Маори"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MMM"
+msgstr "Маори"
+
+msgid "ISO_639-3.MMN"
+msgstr "Канад"
+
+msgid "ISO_639-3.MMO"
+msgstr "Канад"
+
+msgid "ISO_639-3.MMP"
+msgstr "Свати"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.MMR"
+msgstr "Фрис"
+
+msgid "ISO_639-3.MMT"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MMU"
+msgstr "Малай"
+
+msgid "ISO_639-3.MMV"
+msgstr "Марати"
+
+msgid "ISO_639-3.MMX"
+msgstr "Канад"
+
+msgid "ISO_639-3.MMZ"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MNA"
+msgstr "Малай"
+
+msgid "ISO_639-3.MNB"
+msgstr "Венда"
+
+msgid "ISO_639-3.MNC"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MNE"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MNF"
+msgstr "Рунди"
+
+msgid "ISO_639-3.MNI"
+msgstr "Күрд"
+
+msgid "ISO_639-3.MNJ"
+msgstr "Рунди"
+
+msgid "ISO_639-3.MNK"
+msgstr "Санго"
+
+msgid "ISO_639-3.MNL"
+msgstr "Тигран"
+
+msgid "ISO_639-3.MNM"
+msgstr "Канад"
+
+msgid "ISO_639-3.MNN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MNP"
+msgstr "Хятад"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.MNS"
+msgstr "Марати"
+
+msgid "ISO_639-3.MNW"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MNX"
+msgstr "Санго"
+
+msgid "ISO_639-3.MNY"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.MOA"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MOD"
+msgstr "Молдав"
+
+msgid "ISO_639-3.MOE"
+msgstr "Марати"
+
+msgid "ISO_639-3.MOG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOI"
+msgstr "Маори"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOK"
+msgstr "Маори"
+
+msgid "ISO_639-3.MOM"
+msgstr "Санго"
+
+msgid "ISO_639-3.MON"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOO"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOR"
+msgstr "Маори"
+
+msgid "ISO_639-3.MOS"
+msgstr "Маори"
+
+msgid "ISO_639-3.MOU"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOW"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOX"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Зулу"
+
+msgid "ISO_639-3.MPA"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MPC"
+msgstr "Канад"
+
+msgid "ISO_639-3.MPD"
+msgstr "Хятад"
+
+msgid "ISO_639-3.MPE"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MPG"
+msgstr "Марати"
+
+msgid "ISO_639-3.MPH"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MPI"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MPN"
+msgstr "Хинди"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MPT"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MPV"
+msgstr "Рунди"
+
+msgid "ISO_639-3.MPW"
+msgstr "Макидони"
+
+msgid "ISO_639-3.MPY"
+msgstr "Маори"
+
+msgid "ISO_639-3.MQA"
+msgstr "Индонези"
+
+msgid "ISO_639-3.MQC"
+msgstr "Санго"
+
+msgid "ISO_639-3.MQE"
+msgstr "Марати"
+
+msgid "ISO_639-3.MQI"
+msgstr "Маори"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Марати"
+
+msgid "ISO_639-3.MQM"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MQN"
+msgstr "Венда"
+
+msgid "ISO_639-3.MQP"
+msgstr "Канад"
+
+msgid "ISO_639-3.MQR"
+msgstr "Канад"
+
+msgid "ISO_639-3.MQS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.MQU"
+msgstr "Канад"
+
+msgid "ISO_639-3.MQV"
+msgstr "Маори"
+
+msgid "ISO_639-3.MQW"
+msgstr "Маори"
+
+msgid "ISO_639-3.MQY"
+msgstr "Канад"
+
+msgid "ISO_639-3.MRA"
+msgstr "Маори"
+
+msgid "ISO_639-3.MRB"
+msgstr "Маори"
+
+msgid "ISO_639-3.MRC"
+msgstr "Маори"
+
+msgid "ISO_639-3.MRD"
+msgstr "Фрис"
+
+msgid "ISO_639-3.MRG"
+msgstr "Марати"
+
+msgid "ISO_639-3.MRH"
+msgstr "Марати"
+
+msgid "ISO_639-3.MRI"
+msgstr "Маори"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Фрис"
+
+msgid "ISO_639-3.MRP"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.MRQ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MRR"
+msgstr "Индонези"
+
+msgid "ISO_639-3.MRS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MRV"
+msgstr "Канад"
+
+msgid "ISO_639-3.MRW"
+msgstr "Канад"
+
+msgid "ISO_639-3.MRX"
+msgstr "Маори"
+
+msgid "ISO_639-3.MRY"
+msgstr "Канад"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.MSC"
+msgstr "Канад"
+
+msgid "ISO_639-3.MSD"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MSE"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MSG"
+msgstr "Маори"
+
+msgid "ISO_639-3.MSH"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MSK"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.MSL"
+msgstr "Волоф"
+
+msgid "ISO_639-3.MSS"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MSV"
+msgstr "Марати"
+
+msgid "ISO_639-3.MSY"
+msgstr "Араб"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.MTC"
+msgstr "Рунди"
+
+msgid "ISO_639-3.MTD"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MTE"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.MTJ"
+msgstr "Цонга"
+
+msgid "ISO_639-3.MTL"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MTM"
+msgstr "Маори"
+
+msgid "ISO_639-3.MTN"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MTR"
+msgstr "Непал"
+
+msgid "ISO_639-3.MTS"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.MTW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MTY"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.MUA"
+msgstr "Санго"
+
+msgid "ISO_639-3.MUC"
+msgstr "Рунди"
+
+msgid "ISO_639-3.MUI"
+msgstr "Маори"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Маори"
+
+msgid "ISO_639-3.MUK"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MUM"
+msgstr "Малай"
+
+msgid "ISO_639-3.MUO"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.MUP"
+msgstr "Пали"
+
+msgid "ISO_639-3.MUR"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MUT"
+msgstr "Фрис"
+
+msgid "ISO_639-3.MUU"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.MUX"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MUY"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.MVA"
+msgstr "Канад"
+
+msgid "ISO_639-3.MVD"
+msgstr "Маори"
+
+msgid "ISO_639-3.MVF"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MVO"
+msgstr "Маори"
+
+msgid "ISO_639-3.MVP"
+msgstr "Маори"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.MVR"
+msgstr "Марати"
+
+msgid "ISO_639-3.MVS"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MVU"
+msgstr "Марати"
+
+msgid "ISO_639-3.MVW"
+msgstr "Санго"
+
+msgid "ISO_639-3.MVX"
+msgstr "Непал"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Авестан"
+
+msgid "ISO_639-3.MWB"
+msgstr "Малай"
+
+msgid "ISO_639-3.MWI"
+msgstr "Лао"
+
+msgid "ISO_639-3.MWK"
+msgstr "Санго"
+
+msgid "ISO_639-3.MWL"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MWN"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.MWO"
+msgstr "Свати"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.MWR"
+msgstr "Марати"
+
+msgid "ISO_639-3.MWT"
+msgstr "Венда"
+
+msgid "ISO_639-3.MWV"
+msgstr "Марати"
+
+msgid "ISO_639-3.MWX"
+msgstr "Макидони"
+
+msgid "ISO_639-3.MWY"
+msgstr "Маори"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MXC"
+msgstr "Канад"
+
+msgid "ISO_639-3.MXD"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MXF"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MXG"
+msgstr "Лингал"
+
+msgid "ISO_639-3.MXI"
+msgstr "Араб"
+
+msgid "ISO_639-3.MXK"
+msgstr "Монгол"
+
+msgid "ISO_639-3.MXM"
+msgstr "Хереро"
+
+msgid "ISO_639-3.MXN"
+msgstr "Индонези"
+
+msgid "ISO_639-3.MXR"
+msgstr "Орос"
+
+msgid "ISO_639-3.MXW"
+msgstr "Валлон"
+
+msgid "ISO_639-3.MXX"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MXY"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.MXZ"
+msgstr "Свати"
+
+msgid "ISO_639-3.MYA"
+msgstr "Бурн"
+
+msgid "ISO_639-3.MYB"
+msgstr "Малай"
+
+msgid "ISO_639-3.MYD"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.MYE"
+msgstr "Венда"
+
+msgid "ISO_639-3.MYF"
+msgstr "Аямара"
+
+msgid "ISO_639-3.MYG"
+msgstr "Канад"
+
+msgid "ISO_639-3.MYH"
+msgstr "Марати"
+
+msgid "ISO_639-3.MYI"
+msgstr "Индонези"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MYL"
+msgstr "Самали"
+
+msgid "ISO_639-3.MYM"
+msgstr "Венда"
+
+msgid "ISO_639-3.MYR"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MYS"
+msgstr "Малтес"
+
+msgid "ISO_639-3.MYV"
+msgstr "Орияа"
+
+msgid "ISO_639-3.MYX"
+msgstr "Марати"
+
+msgid "ISO_639-3.MYY"
+msgstr "Манкс"
+
+msgid "ISO_639-3.MZC"
+msgstr "Малагас"
+
+msgid "ISO_639-3.MZD"
+msgstr "Малай"
+
+msgid "ISO_639-3.MZE"
+msgstr "Марати"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Канад"
+
+msgid "ISO_639-3.MZP"
+msgstr "Молдав"
+
+msgid "ISO_639-3.MZS"
+msgstr "Жава"
+
+msgid "ISO_639-3.MZT"
+msgstr "Свахили"
+
+msgid "ISO_639-3.MZV"
+msgstr "Канад"
+
+msgid "ISO_639-3.MZX"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.MZY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.NAA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NAB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NAC"
+msgstr "Малай"
+
+msgid "ISO_639-3.NAF"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Науру"
+
+msgid "ISO_639-3.NAK"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NAL"
+msgstr "Непал"
+
+msgid "ISO_639-3.NAN"
+msgstr "Хятад"
+
+msgid "ISO_639-3.NAO"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NAP"
+msgstr "Непал"
+
+msgid "ISO_639-3.NAS"
+msgstr "Навахо"
+
+msgid "ISO_639-3.NAU"
+msgstr "Науру"
+
+msgid "ISO_639-3.NAV"
+msgstr "Навахо"
+
+msgid "ISO_639-3.NAW"
+msgstr "Науру"
+
+msgid "ISO_639-3.NAX"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NBB"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NBC"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.NBH"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.NBN"
+msgstr "Күрд"
+
+msgid "ISO_639-3.NBP"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NBU"
+msgstr "Цонга"
+
+msgid "ISO_639-3.NBW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NBY"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NCA"
+msgstr "Идо"
+
+msgid "ISO_639-3.NCB"
+msgstr "Свати"
+
+msgid "ISO_639-3.NCC"
+msgstr "Шона"
+
+msgid "ISO_639-3.NCE"
+msgstr "Япон"
+
+msgid "ISO_639-3.NCF"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NCH"
+msgstr "Малагас"
+
+msgid "ISO_639-3.NCJ"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.NCK"
+msgstr "Аямара"
+
+msgid "ISO_639-3.NCM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NCN"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NDA"
+msgstr "Хайза"
+
+msgid "ISO_639-3.NDC"
+msgstr "Науру"
+
+msgid "ISO_639-3.NDF"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.NDH"
+msgstr "Непал"
+
+msgid "ISO_639-3.NDJ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NDL"
+msgstr "Волоф"
+
+msgid "ISO_639-3.NDM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.NDN"
+msgstr "Рунди"
+
+msgid "ISO_639-3.NDO"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NDP"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NDR"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NDS"
+msgstr "Армен"
+
+msgid "ISO_639-3.NDT"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NDV"
+msgstr "Урду"
+
+msgid "ISO_639-3.NDX"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NEF"
+msgstr "Ветьнам"
+
+msgid "ISO_639-3.NEG"
+msgstr "Норвеги"
+
+msgid "ISO_639-3.NEH"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NEM"
+msgstr "Непал"
+
+msgid "ISO_639-3.NEP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Свати"
+
+msgid "ISO_639-3.NER"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.NES"
+msgstr "Күрд"
+
+msgid "ISO_639-3.NEU"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NEV"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NEW"
+msgstr "Непал"
+
+msgid "ISO_639-3.NFD"
+msgstr "Свати"
+
+msgid "ISO_639-3.NGB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NGK"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.NGO"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NGP"
+msgstr "Зулу"
+
+msgid "ISO_639-3.NGX"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NGY"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NHA"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NHB"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.NHE"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NHF"
+msgstr "Малай"
+
+msgid "ISO_639-3.NHH"
+msgstr "Непал"
+
+msgid "ISO_639-3.NHN"
+msgstr "Свати"
+
+msgid "ISO_639-3.NHO"
+msgstr "Тажик"
+
+msgid "ISO_639-3.NHR"
+msgstr "Науру"
+
+msgid "ISO_639-3.NHW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NHY"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.NIB"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NID"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NIE"
+msgstr "Непал"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NIK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NIL"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NIM"
+msgstr "Бислама"
+
+msgid "ISO_639-3.NIO"
+msgstr "Унгар"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NIR"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.NIT"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NIU"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NIW"
+msgstr "Самоан"
+
+msgid "ISO_639-3.NIX"
+msgstr "Герман"
+
+msgid "ISO_639-3.NIY"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Лингал"
+
+msgid "ISO_639-3.NJI"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.NJJ"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NJM"
+msgstr "Каталан"
+
+msgid "ISO_639-3.NJN"
+msgstr "Латви"
+
+msgid "ISO_639-3.NJS"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NJX"
+msgstr "Рунди"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Турк"
+
+msgid "ISO_639-3.NKA"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NKB"
+msgstr "Латви"
+
+msgid "ISO_639-3.NKC"
+msgstr "Монгол"
+
+msgid "ISO_639-3.NKD"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.NKG"
+msgstr "Норвеги"
+
+msgid "ISO_639-3.NKI"
+msgstr "Цонга"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NKM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NKN"
+msgstr "Лингал"
+
+msgid "ISO_639-3.NKO"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NKU"
+msgstr "Санго"
+
+msgid "ISO_639-3.NKW"
+msgstr "Науру"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Непал"
+
+msgid "ISO_639-3.NLC"
+msgstr "Галици"
+
+msgid "ISO_639-3.NLD"
+msgstr "Нидерланд"
+
+msgid "ISO_639-3.NLG"
+msgstr "Гали"
+
+msgid "ISO_639-3.NLI"
+msgstr "Свати"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Непал"
+
+msgid "ISO_639-3.NLL"
+msgstr "Непал"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Навахо"
+
+msgid "ISO_639-3.NLW"
+msgstr "Малагас"
+
+msgid "ISO_639-3.NLX"
+msgstr "Непал"
+
+msgid "ISO_639-3.NLY"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Санго"
+
+msgid "ISO_639-3.NMA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NMB"
+msgstr "Аямара"
+
+msgid "ISO_639-3.NMC"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NMD"
+msgstr "Науру"
+
+msgid "ISO_639-3.NMF"
+msgstr "Индонези"
+
+msgid "ISO_639-3.NMG"
+msgstr "Свати"
+
+msgid "ISO_639-3.NMI"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NMK"
+msgstr "Аямара"
+
+msgid "ISO_639-3.NML"
+msgstr "Непал"
+
+msgid "ISO_639-3.NMM"
+msgstr "Санго"
+
+msgid "ISO_639-3.NMP"
+msgstr "Науру"
+
+msgid "ISO_639-3.NMQ"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NMR"
+msgstr "Бихари"
+
+msgid "ISO_639-3.NMV"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NMW"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NNB"
+msgstr "Сундан"
+
+msgid "ISO_639-3.NNF"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NNG"
+msgstr "Маори"
+
+msgid "ISO_639-3.NNJ"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NNK"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NNL"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.NNM"
+msgstr "Тамил"
+
+msgid "ISO_639-3.NNO"
+msgstr "Норвеги (Nynorsk)"
+
+msgid "ISO_639-3.NNR"
+msgstr "Науру"
+
+msgid "ISO_639-3.NNU"
+msgstr "Санго"
+
+msgid "ISO_639-3.NNW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NNY"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NNZ"
+msgstr "Канад"
+
+msgid "ISO_639-3.NOB"
+msgstr "Норвеги (Bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NOF"
+msgstr "Румын"
+
+msgid "ISO_639-3.NOG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NOI"
+msgstr "Хинди"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NOL"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.NON"
+msgstr "Перс"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Санго"
+
+msgid "ISO_639-3.NOR"
+msgstr "Фрис"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NPA"
+msgstr "Науру"
+
+msgid "ISO_639-3.NPG"
+msgstr "Навахо"
+
+msgid "ISO_639-3.NPI"
+msgstr "Малагас"
+
+msgid "ISO_639-3.NPN"
+msgstr "Монгол"
+
+msgid "ISO_639-3.NPS"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NPY"
+msgstr "Науру"
+
+msgid "ISO_639-3.NQG"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NQM"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NQN"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NQO"
+msgstr "Коми"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Науру"
+
+msgid "ISO_639-3.NQY"
+msgstr "Науру"
+
+msgid "ISO_639-3.NRB"
+msgstr "Малай"
+
+msgid "ISO_639-3.NRC"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.NRE"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.NRG"
+msgstr "Санго"
+
+msgid "ISO_639-3.NRK"
+msgstr "Лингал"
+
+msgid "ISO_639-3.NRL"
+msgstr "Науру"
+
+msgid "ISO_639-3.NRM"
+msgstr "Оромо"
+
+msgid "ISO_639-3.NRN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NRR"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NRT"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NRU"
+msgstr "Малай"
+
+msgid "ISO_639-3.NRX"
+msgstr "Науру"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Лингал"
+
+msgid "ISO_639-3.NSA"
+msgstr "Санго"
+
+msgid "ISO_639-3.NSC"
+msgstr "Тай"
+
+msgid "ISO_639-3.NSD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NSE"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.NSF"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NSG"
+msgstr "Хайза"
+
+msgid "ISO_639-3.NSK"
+msgstr "Марати"
+
+msgid "ISO_639-3.NSN"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NSQ"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.NSS"
+msgstr "Непал"
+
+msgid "ISO_639-3.NSV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NSW"
+msgstr "Науру"
+
+msgid "ISO_639-3.NSX"
+msgstr "Санго"
+
+msgid "ISO_639-3.NSY"
+msgstr "Хайза"
+
+msgid "ISO_639-3.NSZ"
+msgstr "Төвд"
+
+msgid "ISO_639-3.NTD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NTG"
+msgstr "Канад"
+
+msgid "ISO_639-3.NTP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NTU"
+msgstr "Санго"
+
+msgid "ISO_639-3.NTX"
+msgstr "Самоан"
+
+msgid "ISO_639-3.NTY"
+msgstr "Свати"
+
+msgid "ISO_639-3.NUA"
+msgstr "Санго"
+
+msgid "ISO_639-3.NUD"
+msgstr "Лингал"
+
+msgid "ISO_639-3.NUF"
+msgstr "Науру"
+
+msgid "ISO_639-3.NUG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.NUH"
+msgstr "Венда"
+
+msgid "ISO_639-3.NUN"
+msgstr "Санго"
+
+msgid "ISO_639-3.NUR"
+msgstr "Болгар"
+
+msgid "ISO_639-3.NUS"
+msgstr "Науру"
+
+msgid "ISO_639-3.NUV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NUX"
+msgstr "Венда"
+
+msgid "ISO_639-3.NVH"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.NWB"
+msgstr "Монгол"
+
+msgid "ISO_639-3.NWI"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.NWR"
+msgstr "Непал"
+
+msgid "ISO_639-3.NXI"
+msgstr "Науру"
+
+msgid "ISO_639-3.NXM"
+msgstr "Серби"
+
+msgid "ISO_639-3.NXO"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.NXU"
+msgstr "Науру"
+
+msgid "ISO_639-3.NXX"
+msgstr "Непал"
+
+msgid "ISO_639-3.NYA"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYB"
+msgstr "Санго"
+
+msgid "ISO_639-3.NYC"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYF"
+msgstr "Герман"
+
+msgid "ISO_639-3.NYH"
+msgstr "Тигран"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYK"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYP"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Хинди"
+
+msgid "ISO_639-3.NYR"
+msgstr "Непал"
+
+msgid "ISO_639-3.NYS"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYW"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.NYX"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.OAA"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OAC"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OAR"
+msgstr "Араб"
+
+msgid "ISO_639-3.OBK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.OBR"
+msgstr "Бурн"
+
+msgid "ISO_639-3.OBT"
+msgstr "Бретон"
+
+msgid "ISO_639-3.OCH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.OCI"
+msgstr "Окситан"
+
+msgid "ISO_639-3.OCO"
+msgstr "Корни"
+
+msgid "ISO_639-3.ODA"
+msgstr "Урду"
+
+msgid "ISO_639-3.ODT"
+msgstr "Нидерланд"
+
+msgid "ISO_639-3.ODU"
+msgstr "Малай"
+
+msgid "ISO_639-3.OFS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.OGB"
+msgstr "Орияа"
+
+msgid "ISO_639-3.OGE"
+msgstr "Георги"
+
+msgid "ISO_639-3.OGO"
+msgstr "Шона"
+
+msgid "ISO_639-3.OHU"
+msgstr "Унгар"
+
+msgid "ISO_639-3.OJB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.OJC"
+msgstr "Свати"
+
+msgid "ISO_639-3.OJP"
+msgstr "Япон"
+
+msgid "ISO_639-3.OJW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.OKB"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OKD"
+msgstr "Георги"
+
+msgid "ISO_639-3.OKG"
+msgstr "Санго"
+
+msgid "ISO_639-3.OKK"
+msgstr "Коми"
+
+msgid "ISO_639-3.OKL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.OKR"
+msgstr "Киргиз"
+
+msgid "ISO_639-3.OKV"
+msgstr "Хорват"
+
+msgid "ISO_639-3.OLD"
+msgstr "Маори"
+
+msgid "ISO_639-3.OLM"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OLR"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OLT"
+msgstr "Литва"
+
+msgid "ISO_639-3.OLU"
+msgstr "Зулу"
+
+msgid "ISO_639-3.OMB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.OMK"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OML"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OMN"
+msgstr "Монгол"
+
+msgid "ISO_639-3.OMP"
+msgstr "Күрд"
+
+msgid "ISO_639-3.OMR"
+msgstr "Марати"
+
+msgid "ISO_639-3.OMW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ONB"
+msgstr "Лингал"
+
+msgid "ISO_639-3.ONP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ONR"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ONW"
+msgstr "Перс"
+
+msgid "ISO_639-3.OOS"
+msgstr "Оссетиан"
+
+msgid "ISO_639-3.OPT"
+msgstr "Татаар"
+
+msgid "ISO_639-3.ORA"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ORC"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ORG"
+msgstr "Орияа"
+
+msgid "ISO_639-3.ORI"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ORM"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ORO"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ORR"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ORT"
+msgstr "Тигран"
+
+msgid "ISO_639-3.ORV"
+msgstr "Орос"
+
+msgid "ISO_639-3.ORX"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ORY"
+msgstr "Орияа"
+
+msgid "ISO_639-3.ORZ"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OSC"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.OSI"
+msgstr "Оссетиан"
+
+msgid "ISO_639-3.OSO"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OSP"
+msgstr "Испани"
+
+msgid "ISO_639-3.OSS"
+msgstr "Орос"
+
+msgid "ISO_639-3.OSU"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.OSX"
+msgstr "Перс"
+
+msgid "ISO_639-3.OTB"
+msgstr "Төвд"
+
+msgid "ISO_639-3.OTD"
+msgstr "Канад"
+
+msgid "ISO_639-3.OTK"
+msgstr "Турк"
+
+msgid "ISO_639-3.OTR"
+msgstr "Оромо"
+
+msgid "ISO_639-3.OTY"
+msgstr "Тамил"
+
+msgid "ISO_639-3.OUI"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.OWL"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.OYD"
+msgstr "Орияа"
+
+msgid "ISO_639-3.OYM"
+msgstr "Валлон"
+
+msgid "ISO_639-3.PAG"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PAH"
+msgstr "Тай"
+
+msgid "ISO_639-3.PAL"
+msgstr "Пали"
+
+msgid "ISO_639-3.PAN"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.PAO"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Малай"
+
+msgid "ISO_639-3.PAR"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PAS"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PAT"
+msgstr "Каталан"
+
+msgid "ISO_639-3.PAY"
+msgstr "Чех"
+
+msgid "ISO_639-3.PBI"
+msgstr "Марати"
+
+msgid "ISO_639-3.PBN"
+msgstr "Хайза"
+
+msgid "ISO_639-3.PBO"
+msgstr "Пали"
+
+msgid "ISO_639-3.PBP"
+msgstr "Аямара"
+
+msgid "ISO_639-3.PBR"
+msgstr "Марати"
+
+msgid "ISO_639-3.PBS"
+msgstr "Свати"
+
+msgid "ISO_639-3.PBT"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PBU"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PBV"
+msgstr "Канад"
+
+msgid "ISO_639-3.PCB"
+msgstr "Непал"
+
+msgid "ISO_639-3.PCF"
+msgstr "Пали"
+
+msgid "ISO_639-3.PCG"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PCH"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.PCI"
+msgstr "Марати"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.PCK"
+msgstr "Болгар"
+
+msgid "ISO_639-3.PCL"
+msgstr "Свахили"
+
+msgid "ISO_639-3.PDI"
+msgstr "Пали"
+
+msgid "ISO_639-3.PDN"
+msgstr "Словиен"
+
+msgid "ISO_639-3.PDU"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.PEA"
+msgstr "Индонези"
+
+msgid "ISO_639-3.PEE"
+msgstr "Тажик"
+
+msgid "ISO_639-3.PEF"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PEG"
+msgstr "Санго"
+
+msgid "ISO_639-3.PEH"
+msgstr "Босни"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PEK"
+msgstr "Франц"
+
+msgid "ISO_639-3.PEL"
+msgstr "Пали"
+
+msgid "ISO_639-3.PEM"
+msgstr "Венда"
+
+msgid "ISO_639-3.PEP"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PES"
+msgstr "Индонези"
+
+msgid "ISO_639-3.PFE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.PFL"
+msgstr "Польш"
+
+msgid "ISO_639-3.PGG"
+msgstr "Свати"
+
+msgid "ISO_639-3.PGI"
+msgstr "Пали"
+
+msgid "ISO_639-3.PGK"
+msgstr "Турк"
+
+msgid "ISO_639-3.PGN"
+msgstr "Галици"
+
+msgid "ISO_639-3.PGS"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.PHA"
+msgstr "Санго"
+
+msgid "ISO_639-3.PHH"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.PHN"
+msgstr "Словиен"
+
+msgid "ISO_639-3.PHO"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.PHQ"
+msgstr "Шона"
+
+msgid "ISO_639-3.PHT"
+msgstr "Тай"
+
+msgid "ISO_639-3.PHU"
+msgstr "Шона"
+
+msgid "ISO_639-3.PHV"
+msgstr "Пали"
+
+msgid "ISO_639-3.PIC"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.PII"
+msgstr "Хинди"
+
+msgid "ISO_639-3.PIL"
+msgstr "Лао"
+
+msgid "ISO_639-3.PIM"
+msgstr "Хорват"
+
+msgid "ISO_639-3.PIP"
+msgstr "Хереро"
+
+msgid "ISO_639-3.PIS"
+msgstr "Фижиан"
+
+msgid "ISO_639-3.PIV"
+msgstr "Пали"
+
+msgid "ISO_639-3.PKB"
+msgstr "Оромо"
+
+msgid "ISO_639-3.PKH"
+msgstr "Манкс"
+
+msgid "ISO_639-3.PKT"
+msgstr "Малтес"
+
+msgid "ISO_639-3.PLA"
+msgstr "Манкс"
+
+msgid "ISO_639-3.PLC"
+msgstr "Свати"
+
+msgid "ISO_639-3.PLD"
+msgstr "Польш"
+
+msgid "ISO_639-3.PLE"
+msgstr "Пали"
+
+msgid "ISO_639-3.PLH"
+msgstr "Пали"
+
+msgid "ISO_639-3.PLI"
+msgstr "Пали"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Польш"
+
+msgid "ISO_639-3.PLP"
+msgstr "Пали"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Пали"
+
+msgid "ISO_639-3.PLT"
+msgstr "Малагас"
+
+msgid "ISO_639-3.PLU"
+msgstr "Пали"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Каталан"
+
+msgid "ISO_639-3.PMA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.PMB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.PMD"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PMF"
+msgstr "Самоан"
+
+msgid "ISO_639-3.PMI"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PMK"
+msgstr "Пали"
+
+msgid "ISO_639-3.PML"
+msgstr "Лингал"
+
+msgid "ISO_639-3.PMM"
+msgstr "Оромо"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PMR"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.PMS"
+msgstr "Ветьнам"
+
+msgid "ISO_639-3.PMT"
+msgstr "Самоан"
+
+msgid "ISO_639-3.PMY"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PNB"
+msgstr "Фрис"
+
+msgid "ISO_639-3.PNC"
+msgstr "Пали"
+
+msgid "ISO_639-3.PNE"
+msgstr "Фрис"
+
+msgid "ISO_639-3.PNG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.PNK"
+msgstr "Венда"
+
+msgid "ISO_639-3.PNL"
+msgstr "Пали"
+
+msgid "ISO_639-3.PNP"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PNR"
+msgstr "Пали"
+
+msgid "ISO_639-3.PNS"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.PNT"
+msgstr "Словиен"
+
+msgid "ISO_639-3.PNX"
+msgstr "Словиен"
+
+msgid "ISO_639-3.PNY"
+msgstr "Хинди"
+
+msgid "ISO_639-3.POC"
+msgstr "Шона"
+
+msgid "ISO_639-3.POL"
+msgstr "Польш"
+
+msgid "ISO_639-3.POM"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PON"
+msgstr "Индонези"
+
+msgid "ISO_639-3.POO"
+msgstr "Свати"
+
+msgid "ISO_639-3.POR"
+msgstr "Португали"
+
+msgid "ISO_639-3.POX"
+msgstr "Молдав"
+
+msgid "ISO_639-3.PPE"
+msgstr "Пали"
+
+msgid "ISO_639-3.PPI"
+msgstr "Пали"
+
+msgid "ISO_639-3.PPP"
+msgstr "Венда"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Перс"
+
+msgid "ISO_639-3.PPT"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.PRB"
+msgstr "Венда"
+
+msgid "ISO_639-3.PRC"
+msgstr "Марати"
+
+msgid "ISO_639-3.PRF"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PRG"
+msgstr "Перс"
+
+msgid "ISO_639-3.PRI"
+msgstr "Пали"
+
+msgid "ISO_639-3.PRM"
+msgstr "Окситан"
+
+msgid "ISO_639-3.PRP"
+msgstr "Пали"
+
+msgid "ISO_639-3.PRR"
+msgstr "Күрд"
+
+msgid "ISO_639-3.PRT"
+msgstr "Пали"
+
+msgid "ISO_639-3.PRU"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.PRW"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.PSE"
+msgstr "Свати"
+
+msgid "ISO_639-3.PSH"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PSI"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PSM"
+msgstr "Хайза"
+
+msgid "ISO_639-3.PSN"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Пали"
+
+msgid "ISO_639-3.PSS"
+msgstr "Санго"
+
+msgid "ISO_639-3.PST"
+msgstr "Свати"
+
+msgid "ISO_639-3.PTN"
+msgstr "Каталан"
+
+msgid "ISO_639-3.PTR"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PTU"
+msgstr "Аямара"
+
+msgid "ISO_639-3.PTY"
+msgstr "Перс"
+
+msgid "ISO_639-3.PUB"
+msgstr "Науру"
+
+msgid "ISO_639-3.PUO"
+msgstr "Пушто"
+
+msgid "ISO_639-3.PUP"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.PUS"
+msgstr "Пушто"
+
+msgid "ISO_639-3.PUT"
+msgstr "Пушто"
+
+msgid "ISO_639-3.PUW"
+msgstr "Португали"
+
+msgid "ISO_639-3.PUX"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.PWA"
+msgstr "Тахит"
+
+msgid "ISO_639-3.PWB"
+msgstr "Марати"
+
+msgid "ISO_639-3.PWN"
+msgstr "Унгар"
+
+msgid "ISO_639-3.PWO"
+msgstr "Фрис"
+
+msgid "ISO_639-3.PWR"
+msgstr "Непал"
+
+msgid "ISO_639-3.PWW"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.PYS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.PZN"
+msgstr "Науру"
+
+msgid "ISO_639-3.QUA"
+msgstr "Хайза"
+
+msgid "ISO_639-3.QUC"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.QUE"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QUP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.QUX"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QUY"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QVP"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QVY"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QVZ"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.QXC"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QXP"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Марати"
+
+msgid "ISO_639-3.QXS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.QYA"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.QYP"
+msgstr "Марати"
+
+msgid "ISO_639-3.RAA"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.RAC"
+msgstr "Хайза"
+
+msgid "ISO_639-3.RAF"
+msgstr "Фрис"
+
+msgid "ISO_639-3.RAG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.RAH"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.RAI"
+msgstr "Самоан"
+
+msgid "ISO_639-3.RAL"
+msgstr "Малтес"
+
+msgid "ISO_639-3.RAM"
+msgstr "Каталан"
+
+msgid "ISO_639-3.RAN"
+msgstr "Румын"
+
+msgid "ISO_639-3.RAO"
+msgstr "Лао"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.RAR"
+msgstr "Босни"
+
+msgid "ISO_639-3.RAS"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.RAV"
+msgstr "Самоан"
+
+msgid "ISO_639-3.RAW"
+msgstr "Санго"
+
+msgid "ISO_639-3.RAX"
+msgstr "Санго"
+
+msgid "ISO_639-3.RBK"
+msgstr "Самоан"
+
+msgid "ISO_639-3.RBP"
+msgstr "Аямара"
+
+msgid "ISO_639-3.RDB"
+msgstr "Рунди"
+
+msgid "ISO_639-3.REE"
+msgstr "Санго"
+
+msgid "ISO_639-3.REI"
+msgstr "Гали"
+
+msgid "ISO_639-3.REJ"
+msgstr "Санго"
+
+msgid "ISO_639-3.REL"
+msgstr "Венда"
+
+msgid "ISO_639-3.REN"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.RES"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.RGA"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.RGN"
+msgstr "Румын"
+
+msgid "ISO_639-3.RGS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.RHG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.RHP"
+msgstr "Шона"
+
+msgid "ISO_639-3.RIA"
+msgstr "Индонези"
+
+msgid "ISO_639-3.RIE"
+msgstr "Төвд"
+
+msgid "ISO_639-3.RIM"
+msgstr "Науру"
+
+msgid "ISO_639-3.RIN"
+msgstr "Науру"
+
+msgid "ISO_639-3.RIR"
+msgstr "Рунди"
+
+msgid "ISO_639-3.RIU"
+msgstr "Рунди"
+
+msgid "ISO_639-3.RJG"
+msgstr "Санго"
+
+msgid "ISO_639-3.RJI"
+msgstr "Тажик"
+
+msgid "ISO_639-3.RKI"
+msgstr "Хятад"
+
+msgid "ISO_639-3.RKM"
+msgstr "Марати"
+
+msgid "ISO_639-3.RKT"
+msgstr "Күрд"
+
+msgid "ISO_639-3.RKW"
+msgstr "Араб"
+
+msgid "ISO_639-3.RMA"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMG"
+msgstr "Норвеги"
+
+msgid "ISO_639-3.RMH"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.RMI"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.RMK"
+msgstr "Румын"
+
+msgid "ISO_639-3.RML"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMM"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMO"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMT"
+msgstr "Маори"
+
+msgid "ISO_639-3.RMU"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMV"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMW"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMX"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMY"
+msgstr "Румын"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.RND"
+msgstr "Рунди"
+
+msgid "ISO_639-3.RNG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.RNL"
+msgstr "Санго"
+
+msgid "ISO_639-3.RNN"
+msgstr "Румын"
+
+msgid "ISO_639-3.RNP"
+msgstr "Санго"
+
+msgid "ISO_639-3.RNR"
+msgstr "Непал"
+
+msgid "ISO_639-3.ROD"
+msgstr "Монгол"
+
+msgid "ISO_639-3.ROE"
+msgstr "Румын"
+
+msgid "ISO_639-3.ROF"
+msgstr "Оромо"
+
+msgid "ISO_639-3.ROG"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ROH"
+msgstr "Румын"
+
+msgid "ISO_639-3.ROL"
+msgstr "Румын"
+
+msgid "ISO_639-3.ROM"
+msgstr "Румын"
+
+msgid "ISO_639-3.RON"
+msgstr "Румын"
+
+msgid "ISO_639-3.ROR"
+msgstr "Цонга"
+
+msgid "ISO_639-3.ROU"
+msgstr "Рунди"
+
+msgid "ISO_639-3.RPT"
+msgstr "Латин"
+
+msgid "ISO_639-3.RRI"
+msgstr "Хинди"
+
+msgid "ISO_639-3.RRO"
+msgstr "Малай"
+
+msgid "ISO_639-3.RSB"
+msgstr "Румын"
+
+msgid "ISO_639-3.RSM"
+msgstr "Малагас"
+
+msgid "ISO_639-3.RTC"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.RTH"
+msgstr "Каталан"
+
+msgid "ISO_639-3.RTM"
+msgstr "Румын"
+
+msgid "ISO_639-3.RTS"
+msgstr "Болгар"
+
+msgid "ISO_639-3.RUC"
+msgstr "Рунди"
+
+msgid "ISO_639-3.RUE"
+msgstr "Орос"
+
+msgid "ISO_639-3.RUG"
+msgstr "Румын"
+
+msgid "ISO_639-3.RUK"
+msgstr "Хятад"
+
+msgid "ISO_639-3.RUN"
+msgstr "Рунди"
+
+msgid "ISO_639-3.RUO"
+msgstr "Румын"
+
+msgid "ISO_639-3.RUP"
+msgstr "Румын"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Румын"
+
+msgid "ISO_639-3.RUS"
+msgstr "Орос"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Румын"
+
+msgid "ISO_639-3.RWO"
+msgstr "Марати"
+
+msgid "ISO_639-3.RWR"
+msgstr "Марати"
+
+msgid "ISO_639-3.RXD"
+msgstr "Бихари"
+
+msgid "ISO_639-3.RXW"
+msgstr "Марати"
+
+msgid "ISO_639-3.RYN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.RYS"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.RYU"
+msgstr "Свати"
+
+msgid "ISO_639-3.SAA"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SAB"
+msgstr "Хятад"
+
+msgid "ISO_639-3.SAC"
+msgstr "Непал"
+
+msgid "ISO_639-3.SAD"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SAE"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SAF"
+msgstr "Свати"
+
+msgid "ISO_639-3.SAG"
+msgstr "Санго"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Манкс"
+
+msgid "ISO_639-3.SAK"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SAM"
+msgstr "Серби"
+
+msgid "ISO_639-3.SAN"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SAO"
+msgstr "Бурн"
+
+msgid "ISO_639-3.SAQ"
+msgstr "Науру"
+
+msgid "ISO_639-3.SAS"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SAT"
+msgstr "Свати"
+
+msgid "ISO_639-3.SAU"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SAW"
+msgstr "Свати"
+
+msgid "ISO_639-3.SAX"
+msgstr "Шона"
+
+msgid "ISO_639-3.SAY"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SBA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.SBB"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SBD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SBE"
+msgstr "Самали"
+
+msgid "ISO_639-3.SBG"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SBI"
+msgstr "Свати"
+
+msgid "ISO_639-3.SBK"
+msgstr "Свати"
+
+msgid "ISO_639-3.SBL"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.SBM"
+msgstr "Каталан"
+
+msgid "ISO_639-3.SBN"
+msgstr "Синди"
+
+msgid "ISO_639-3.SBS"
+msgstr "Серби"
+
+msgid "ISO_639-3.SBT"
+msgstr "Коми"
+
+msgid "ISO_639-3.SBV"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SBW"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.SBX"
+msgstr "Серби"
+
+msgid "ISO_639-3.SBY"
+msgstr "Самали"
+
+msgid "ISO_639-3.SCE"
+msgstr "Монгол"
+
+msgid "ISO_639-3.SCG"
+msgstr "Санго"
+
+msgid "ISO_639-3.SCH"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SCK"
+msgstr "Маори"
+
+msgid "ISO_639-3.SCL"
+msgstr "Шона"
+
+msgid "ISO_639-3.SCN"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SCV"
+msgstr "Шона"
+
+msgid "ISO_639-3.SCW"
+msgstr "Шона"
+
+msgid "ISO_639-3.SCX"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SDB"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SDC"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SDF"
+msgstr "Самали"
+
+msgid "ISO_639-3.SDG"
+msgstr "Свати"
+
+msgid "ISO_639-3.SDH"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Рунди"
+
+msgid "ISO_639-3.SDK"
+msgstr "Рунди"
+
+msgid "ISO_639-3.SDM"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SDN"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SDR"
+msgstr "Маори"
+
+msgid "ISO_639-3.SDS"
+msgstr "Венда"
+
+msgid "ISO_639-3.SDU"
+msgstr "Канад"
+
+msgid "ISO_639-3.SEA"
+msgstr "Самали"
+
+msgid "ISO_639-3.SED"
+msgstr "Санго"
+
+msgid "ISO_639-3.SEH"
+msgstr "Венда"
+
+msgid "ISO_639-3.SEI"
+msgstr "Серби"
+
+msgid "ISO_639-3.SEJ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SEK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.SEO"
+msgstr "Серби"
+
+msgid "ISO_639-3.SER"
+msgstr "Серби"
+
+msgid "ISO_639-3.SET"
+msgstr "Свати"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Свати"
+
+msgid "ISO_639-3.SFE"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SFW"
+msgstr "Свати"
+
+msgid "ISO_639-3.SGB"
+msgstr "Свати"
+
+msgid "ISO_639-3.SGC"
+msgstr "Хинди"
+
+msgid "ISO_639-3.SGD"
+msgstr "Серби"
+
+msgid "ISO_639-3.SGE"
+msgstr "Шона"
+
+msgid "ISO_639-3.SGK"
+msgstr "Санго"
+
+msgid "ISO_639-3.SGM"
+msgstr "Шона"
+
+msgid "ISO_639-3.SGP"
+msgstr "Санго"
+
+msgid "ISO_639-3.SGR"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SGS"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SGU"
+msgstr "Малагас"
+
+msgid "ISO_639-3.SGY"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHB"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.SHC"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SHD"
+msgstr "Самали"
+
+msgid "ISO_639-3.SHE"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHG"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHH"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHL"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHN"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHO"
+msgstr "Шона"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SHR"
+msgstr "Синди"
+
+msgid "ISO_639-3.SHT"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SHU"
+msgstr "Албани"
+
+msgid "ISO_639-3.SHV"
+msgstr "Серби"
+
+msgid "ISO_639-3.SHW"
+msgstr "Свати"
+
+msgid "ISO_639-3.SHY"
+msgstr "Тай"
+
+msgid "ISO_639-3.SIB"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SID"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SIE"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SIF"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SIH"
+msgstr "Тигран"
+
+msgid "ISO_639-3.SIK"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SIN"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Шона"
+
+msgid "ISO_639-3.SIR"
+msgstr "Хинди"
+
+msgid "ISO_639-3.SIU"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SIV"
+msgstr "Серби"
+
+msgid "ISO_639-3.SIW"
+msgstr "Свати"
+
+msgid "ISO_639-3.SIX"
+msgstr "Серби"
+
+msgid "ISO_639-3.SIY"
+msgstr "Синди"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Свати"
+
+msgid "ISO_639-3.SJA"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SJL"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.SJM"
+msgstr "Манкс"
+
+msgid "ISO_639-3.SJN"
+msgstr "Синди"
+
+msgid "ISO_639-3.SJP"
+msgstr "Күрд"
+
+msgid "ISO_639-3.SJR"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SJW"
+msgstr "Шона"
+
+msgid "ISO_639-3.SKB"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SKC"
+msgstr "Канад"
+
+msgid "ISO_639-3.SKD"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.SKG"
+msgstr "Малагас"
+
+msgid "ISO_639-3.SKH"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SKI"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.SKK"
+msgstr "Словак"
+
+msgid "ISO_639-3.SKM"
+msgstr "Монгол"
+
+msgid "ISO_639-3.SKP"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SKR"
+msgstr "Малай"
+
+msgid "ISO_639-3.SKS"
+msgstr "Маори"
+
+msgid "ISO_639-3.SKT"
+msgstr "Свати"
+
+msgid "ISO_639-3.SKU"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SKY"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.SKZ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SLE"
+msgstr "Шона"
+
+msgid "ISO_639-3.SLH"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.SLI"
+msgstr "Герман"
+
+msgid "ISO_639-3.SLK"
+msgstr "Словак"
+
+msgid "ISO_639-3.SLL"
+msgstr "Свати"
+
+msgid "ISO_639-3.SLN"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Манкс"
+
+msgid "ISO_639-3.SLR"
+msgstr "Татаар"
+
+msgid "ISO_639-3.SLT"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SLU"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.SLV"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SLW"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Малай"
+
+msgid "ISO_639-3.SMA"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SMB"
+msgstr "Бихари"
+
+msgid "ISO_639-3.SMC"
+msgstr "Самали"
+
+msgid "ISO_639-3.SMD"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SME"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SMG"
+msgstr "Самали"
+
+msgid "ISO_639-3.SMH"
+msgstr "Серби"
+
+msgid "ISO_639-3.SMK"
+msgstr "Хинди"
+
+msgid "ISO_639-3.SML"
+msgstr "Свати"
+
+msgid "ISO_639-3.SMM"
+msgstr "Марати"
+
+msgid "ISO_639-3.SMN"
+msgstr "Синди"
+
+msgid "ISO_639-3.SMO"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SMP"
+msgstr "Серби"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SMU"
+msgstr "Самали"
+
+msgid "ISO_639-3.SMX"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.SMY"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SNA"
+msgstr "Шона"
+
+msgid "ISO_639-3.SND"
+msgstr "Синди"
+
+msgid "ISO_639-3.SNF"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.SNH"
+msgstr "Шона"
+
+msgid "ISO_639-3.SNI"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SNK"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SNL"
+msgstr "Санго"
+
+msgid "ISO_639-3.SNM"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SNN"
+msgstr "Шона"
+
+msgid "ISO_639-3.SNO"
+msgstr "Испани"
+
+msgid "ISO_639-3.SNP"
+msgstr "Георги"
+
+msgid "ISO_639-3.SNR"
+msgstr "Шона"
+
+msgid "ISO_639-3.SNU"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.SNV"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SNW"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SNX"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SNZ"
+msgstr "Науру"
+
+msgid "ISO_639-3.SOA"
+msgstr "Тай"
+
+msgid "ISO_639-3.SOD"
+msgstr "Шона"
+
+msgid "ISO_639-3.SOG"
+msgstr "Георги"
+
+msgid "ISO_639-3.SOH"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.SOI"
+msgstr "Шона"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Самали"
+
+msgid "ISO_639-3.SOL"
+msgstr "Волоф"
+
+msgid "ISO_639-3.SOM"
+msgstr "Самали"
+
+msgid "ISO_639-3.SOO"
+msgstr "Санго"
+
+msgid "ISO_639-3.SOP"
+msgstr "Шона"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Күрд"
+
+msgid "ISO_639-3.SOR"
+msgstr "Самали"
+
+msgid "ISO_639-3.SOS"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SOT"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SOU"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SOW"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SOX"
+msgstr "Словак"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Тамил"
+
+msgid "ISO_639-3.SPA"
+msgstr "Испани"
+
+msgid "ISO_639-3.SPB"
+msgstr "Индонези"
+
+msgid "ISO_639-3.SPG"
+msgstr "Шона"
+
+msgid "ISO_639-3.SPI"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SPK"
+msgstr "Санго"
+
+msgid "ISO_639-3.SPO"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SPS"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SPU"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SPV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SQH"
+msgstr "Шона"
+
+msgid "ISO_639-3.SQI"
+msgstr "Албани"
+
+msgid "ISO_639-3.SQK"
+msgstr "Малагас"
+
+msgid "ISO_639-3.SQM"
+msgstr "Серби"
+
+msgid "ISO_639-3.SQR"
+msgstr "Араб"
+
+msgid "ISO_639-3.SQU"
+msgstr "Испани"
+
+msgid "ISO_639-3.SRA"
+msgstr "Марати"
+
+msgid "ISO_639-3.SRB"
+msgstr "Шона"
+
+msgid "ISO_639-3.SRC"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SRD"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SRE"
+msgstr "Малай"
+
+msgid "ISO_639-3.SRF"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.SRH"
+msgstr "Свахили"
+
+msgid "ISO_639-3.SRI"
+msgstr "Серби"
+
+msgid "ISO_639-3.SRM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SRN"
+msgstr "Украйн"
+
+msgid "ISO_639-3.SRO"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.SRP"
+msgstr "Серби"
+
+msgid "ISO_639-3.SRR"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SRS"
+msgstr "Маори"
+
+msgid "ISO_639-3.SRT"
+msgstr "Күрд"
+
+msgid "ISO_639-3.SRV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SRW"
+msgstr "Серби"
+
+msgid "ISO_639-3.SRY"
+msgstr "Серби"
+
+msgid "ISO_639-3.SRZ"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.SSB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SSD"
+msgstr "Хинди"
+
+msgid "ISO_639-3.SSE"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.SSF"
+msgstr "Тай"
+
+msgid "ISO_639-3.SSG"
+msgstr "Серби"
+
+msgid "ISO_639-3.SSH"
+msgstr "Араб"
+
+msgid "ISO_639-3.SSI"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SSK"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.SSL"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SSN"
+msgstr "Валлон"
+
+msgid "ISO_639-3.SSO"
+msgstr "Санго"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Шона"
+
+msgid "ISO_639-3.SST"
+msgstr "Унгар"
+
+msgid "ISO_639-3.SSU"
+msgstr "Тай"
+
+msgid "ISO_639-3.SSW"
+msgstr "Свати"
+
+msgid "ISO_639-3.SSY"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.STB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.STD"
+msgstr "Словиен"
+
+msgid "ISO_639-3.STG"
+msgstr "Хереро"
+
+msgid "ISO_639-3.STH"
+msgstr "Шона"
+
+msgid "ISO_639-3.STK"
+msgstr "Араб"
+
+msgid "ISO_639-3.STM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.STO"
+msgstr "Словиен"
+
+msgid "ISO_639-3.STP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.STS"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.STU"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SUA"
+msgstr "Малай"
+
+msgid "ISO_639-3.SUC"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SUE"
+msgstr "Серби"
+
+msgid "ISO_639-3.SUG"
+msgstr "Санго"
+
+msgid "ISO_639-3.SUN"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Серби"
+
+msgid "ISO_639-3.SUX"
+msgstr "Серби"
+
+msgid "ISO_639-3.SVA"
+msgstr "Шона"
+
+msgid "ISO_639-3.SVE"
+msgstr "Серби"
+
+msgid "ISO_639-3.SVM"
+msgstr "Санго"
+
+msgid "ISO_639-3.SVS"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SVX"
+msgstr "Словиен"
+
+msgid "ISO_639-3.SWB"
+msgstr "Свахили"
+
+msgid "ISO_639-3.SWE"
+msgstr "Швед"
+
+msgid "ISO_639-3.SWF"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SWG"
+msgstr "Серби"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Серби"
+
+msgid "ISO_639-3.SWK"
+msgstr "Свати"
+
+msgid "ISO_639-3.SWM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SWO"
+msgstr "Шона"
+
+msgid "ISO_639-3.SWP"
+msgstr "Зулу"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Марати"
+
+msgid "ISO_639-3.SWR"
+msgstr "Сундан"
+
+msgid "ISO_639-3.SWS"
+msgstr "Цагаан орос"
+
+msgid "ISO_639-3.SWT"
+msgstr "Свахили"
+
+msgid "ISO_639-3.SWV"
+msgstr "Свати"
+
+msgid "ISO_639-3.SWW"
+msgstr "Свати"
+
+msgid "ISO_639-3.SWY"
+msgstr "Малай"
+
+msgid "ISO_639-3.SXB"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.SXC"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SXE"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.SXK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.SXL"
+msgstr "Серби"
+
+msgid "ISO_639-3.SXM"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SXN"
+msgstr "Санго"
+
+msgid "ISO_639-3.SXR"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SXS"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.SYA"
+msgstr "Санго"
+
+msgid "ISO_639-3.SYB"
+msgstr "Свати"
+
+msgid "ISO_639-3.SYM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SYN"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.SYR"
+msgstr "Серби"
+
+msgid "ISO_639-3.SYX"
+msgstr "Самоан"
+
+msgid "ISO_639-3.SYY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.SZA"
+msgstr "Самали"
+
+msgid "ISO_639-3.SZD"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SZE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.SZL"
+msgstr "Фрис"
+
+msgid "ISO_639-3.SZN"
+msgstr "Малай"
+
+msgid "ISO_639-3.SZP"
+msgstr "Санго"
+
+msgid "ISO_639-3.SZW"
+msgstr "Свати"
+
+msgid "ISO_639-3.TAA"
+msgstr "Унгар"
+
+msgid "ISO_639-3.TAB"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.TAD"
+msgstr "Бурн"
+
+msgid "ISO_639-3.TAE"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TAG"
+msgstr "Тай"
+
+msgid "ISO_639-3.TAH"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TAJ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.TAK"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TAL"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TAM"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TAN"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TAO"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TAR"
+msgstr "Свати"
+
+msgid "ISO_639-3.TAT"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TAU"
+msgstr "Унгар"
+
+msgid "ISO_639-3.TAW"
+msgstr "Тай"
+
+msgid "ISO_639-3.TAX"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TBA"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.TBC"
+msgstr "Тай"
+
+msgid "ISO_639-3.TBE"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TBF"
+msgstr "Канад"
+
+msgid "ISO_639-3.TBG"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.TBI"
+msgstr "Канад"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TBO"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TBP"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TBS"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TBU"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TBX"
+msgstr "Латин"
+
+msgid "ISO_639-3.TBY"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TCC"
+msgstr "Марати"
+
+msgid "ISO_639-3.TCD"
+msgstr "Тай"
+
+msgid "ISO_639-3.TCE"
+msgstr "Хятад"
+
+msgid "ISO_639-3.TCG"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TCI"
+msgstr "Малай"
+
+msgid "ISO_639-3.TCO"
+msgstr "Санго"
+
+msgid "ISO_639-3.TCP"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Тай"
+
+msgid "ISO_639-3.TCT"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TCU"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TCX"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TCY"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.TDA"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TDB"
+msgstr "Унгар"
+
+msgid "ISO_639-3.TDG"
+msgstr "Фрис"
+
+msgid "ISO_639-3.TDH"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TDI"
+msgstr "Латин"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Тажик"
+
+msgid "ISO_639-3.TDK"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.TDM"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TDN"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TDO"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TDV"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEC"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEF"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEH"
+msgstr "Чечень"
+
+msgid "ISO_639-3.TEK"
+msgstr "Турк"
+
+msgid "ISO_639-3.TEL"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TEO"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEP"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEQ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TER"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEV"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TEY"
+msgstr "Турк"
+
+msgid "ISO_639-3.TFN"
+msgstr "Унгар"
+
+msgid "ISO_639-3.TFO"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TFR"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TFT"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TGB"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TGC"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TGD"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.TGI"
+msgstr "Венда"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Дани"
+
+msgid "ISO_639-3.TGK"
+msgstr "Тажик"
+
+msgid "ISO_639-3.TGL"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TGN"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TGO"
+msgstr "Сундан"
+
+msgid "ISO_639-3.TGP"
+msgstr "Санго"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TGR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.TGS"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TGT"
+msgstr "Свати"
+
+msgid "ISO_639-3.TGU"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TGX"
+msgstr "Дани"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Каталан"
+
+msgid "ISO_639-3.THA"
+msgstr "Тай"
+
+msgid "ISO_639-3.THE"
+msgstr "Хятад"
+
+msgid "ISO_639-3.THF"
+msgstr "Тай"
+
+msgid "ISO_639-3.THH"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.THN"
+msgstr "Цвана"
+
+msgid "ISO_639-3.THR"
+msgstr "Канад"
+
+msgid "ISO_639-3.THS"
+msgstr "Тай"
+
+msgid "ISO_639-3.THT"
+msgstr "Тахит"
+
+msgid "ISO_639-3.THU"
+msgstr "Турк"
+
+msgid "ISO_639-3.THW"
+msgstr "Тай"
+
+msgid "ISO_639-3.THY"
+msgstr "Тай"
+
+msgid "ISO_639-3.TIC"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TIF"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TIG"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TII"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TIJ"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TIK"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TIM"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TIN"
+msgstr "Хинди"
+
+msgid "ISO_639-3.TIO"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TIP"
+msgstr "Турк"
+
+msgid "ISO_639-3.TIR"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TIT"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TIU"
+msgstr "Санго"
+
+msgid "ISO_639-3.TIV"
+msgstr "Тви"
+
+msgid "ISO_639-3.TIW"
+msgstr "Тви"
+
+msgid "ISO_639-3.TIX"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TJI"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TJL"
+msgstr "Тай"
+
+msgid "ISO_639-3.TJS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TKB"
+msgstr "Хайза"
+
+msgid "ISO_639-3.TKE"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TKG"
+msgstr "Малагас"
+
+msgid "ISO_639-3.TKL"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TKM"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TKQ"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TKS"
+msgstr "Авестан"
+
+msgid "ISO_639-3.TKV"
+msgstr "Панжаби"
+
+msgid "ISO_639-3.TKW"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TKX"
+msgstr "Санго"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Тажик"
+
+msgid "ISO_639-3.TLA"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.TLB"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TLD"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TLF"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TLG"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TLH"
+msgstr "Тай"
+
+msgid "ISO_639-3.TLK"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TLL"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TLO"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TLR"
+msgstr "Хятад"
+
+msgid "ISO_639-3.TLS"
+msgstr "Тагалог"
+
+msgid "ISO_639-3.TLT"
+msgstr "Латви"
+
+msgid "ISO_639-3.TLU"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TLV"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TLX"
+msgstr "Чечень"
+
+msgid "ISO_639-3.TMC"
+msgstr "Тажик"
+
+msgid "ISO_639-3.TMD"
+msgstr "Хайза"
+
+msgid "ISO_639-3.TMG"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TMJ"
+msgstr "Самоан"
+
+msgid "ISO_639-3.TMK"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.TMN"
+msgstr "Индонези"
+
+msgid "ISO_639-3.TMQ"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TMS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.TMW"
+msgstr "Герман"
+
+msgid "ISO_639-3.TMY"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TNA"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TNB"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TNG"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TNH"
+msgstr "Марати"
+
+msgid "ISO_639-3.TNI"
+msgstr "Канад"
+
+msgid "ISO_639-3.TNK"
+msgstr "Хмэр"
+
+msgid "ISO_639-3.TNM"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TNN"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.TNO"
+msgstr "Оромо"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Латин"
+
+msgid "ISO_639-3.TNW"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TNX"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TNY"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TOB"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.TOD"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TOG"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.TOH"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.TOI"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.TOL"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TOM"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TON"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.TOX"
+msgstr "Босни"
+
+msgid "ISO_639-3.TPA"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TPF"
+msgstr "Тай"
+
+msgid "ISO_639-3.TPG"
+msgstr "Малай"
+
+msgid "ISO_639-3.TPK"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TPM"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.TPU"
+msgstr "Самоан"
+
+msgid "ISO_639-3.TPV"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TPY"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TQL"
+msgstr "Непал"
+
+msgid "ISO_639-3.TQN"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TQP"
+msgstr "Коми"
+
+msgid "ISO_639-3.TQQ"
+msgstr "Рунди"
+
+msgid "ISO_639-3.TQR"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TQT"
+msgstr "Фрис"
+
+msgid "ISO_639-3.TQW"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TRA"
+msgstr "Киргиз"
+
+msgid "ISO_639-3.TRB"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TRD"
+msgstr "Турк"
+
+msgid "ISO_639-3.TRE"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.TRH"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TRL"
+msgstr "Гали"
+
+msgid "ISO_639-3.TRM"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TRR"
+msgstr "Башкир"
+
+msgid "ISO_639-3.TRT"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TRW"
+msgstr "Самали"
+
+msgid "ISO_639-3.TRY"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TSA"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TSB"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TSC"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TSD"
+msgstr "Эстони"
+
+msgid "ISO_639-3.TSH"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TSI"
+msgstr "Фрис"
+
+msgid "ISO_639-3.TSJ"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TSN"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TSO"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TSP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TSQ"
+msgstr "Малагас"
+
+msgid "ISO_639-3.TSS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.TSU"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TSV"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TSW"
+msgstr "Фрис"
+
+msgid "ISO_639-3.TSX"
+msgstr "Маори"
+
+msgid "ISO_639-3.TSY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.TSZ"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.TTB"
+msgstr "Канад"
+
+msgid "ISO_639-3.TTG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.TTI"
+msgstr "Тай"
+
+msgid "ISO_639-3.TTL"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TTM"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TTN"
+msgstr "Тви"
+
+msgid "ISO_639-3.TTP"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TTR"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TTS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TTU"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TTV"
+msgstr "Төвд"
+
+msgid "ISO_639-3.TTW"
+msgstr "Санго"
+
+msgid "ISO_639-3.TTY"
+msgstr "Свати"
+
+msgid "ISO_639-3.TUF"
+msgstr "Свати"
+
+msgid "ISO_639-3.TUG"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TUH"
+msgstr "Тамил"
+
+msgid "ISO_639-3.TUI"
+msgstr "Турк"
+
+msgid "ISO_639-3.TUJ"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TUK"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TUL"
+msgstr "Малай"
+
+msgid "ISO_639-3.TUN"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.TUR"
+msgstr "Турк"
+
+msgid "ISO_639-3.TUV"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TUY"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Турк"
+
+msgid "ISO_639-3.TVD"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TVK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TVL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.TVN"
+msgstr "Самоан"
+
+msgid "ISO_639-3.TVO"
+msgstr "Тигран"
+
+msgid "ISO_639-3.TVS"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TVU"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.TVW"
+msgstr "Венда"
+
+msgid "ISO_639-3.TWA"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TWB"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TWE"
+msgstr "Индонези"
+
+msgid "ISO_639-3.TWF"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TWG"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TWI"
+msgstr "Тви"
+
+msgid "ISO_639-3.TWL"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TWM"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TWN"
+msgstr "Тви"
+
+msgid "ISO_639-3.TWO"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TWQ"
+msgstr "Цвана"
+
+msgid "ISO_639-3.TWR"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.TWU"
+msgstr "Герман"
+
+msgid "ISO_639-3.TWW"
+msgstr "Тви"
+
+msgid "ISO_639-3.TWX"
+msgstr "Хереро"
+
+msgid "ISO_639-3.TWY"
+msgstr "Самоан"
+
+msgid "ISO_639-3.TXA"
+msgstr "Оромо"
+
+msgid "ISO_639-3.TXB"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.TXG"
+msgstr "Санго"
+
+msgid "ISO_639-3.TXH"
+msgstr "Тай"
+
+msgid "ISO_639-3.TXM"
+msgstr "Коми"
+
+msgid "ISO_639-3.TXN"
+msgstr "Унгар"
+
+msgid "ISO_639-3.TXQ"
+msgstr "Тви"
+
+msgid "ISO_639-3.TXR"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TXS"
+msgstr "Цонга"
+
+msgid "ISO_639-3.TXX"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TXY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.TYA"
+msgstr "Татаар"
+
+msgid "ISO_639-3.TYE"
+msgstr "Канад"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Тай"
+
+msgid "ISO_639-3.TYL"
+msgstr "Лао"
+
+msgid "ISO_639-3.TYN"
+msgstr "Коми"
+
+msgid "ISO_639-3.TYV"
+msgstr "Тахит"
+
+msgid "ISO_639-3.TZH"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TZJ"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TZL"
+msgstr "Орос"
+
+msgid "ISO_639-3.TZN"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.TZO"
+msgstr "Тай"
+
+msgid "ISO_639-3.TZX"
+msgstr "Тажик"
+
+msgid "ISO_639-3.UAN"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.UBA"
+msgstr "Санго"
+
+msgid "ISO_639-3.UBR"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.UBY"
+msgstr "Үзбек"
+
+msgid "ISO_639-3.UDG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.UDJ"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.UDL"
+msgstr "Валлон"
+
+msgid "ISO_639-3.UDM"
+msgstr "Урду"
+
+msgid "ISO_639-3.UDU"
+msgstr "Урду"
+
+msgid "ISO_639-3.UES"
+msgstr "Санго"
+
+msgid "ISO_639-3.UGN"
+msgstr "Малагас"
+
+msgid "ISO_639-3.UGO"
+msgstr "Монгол"
+
+msgid "ISO_639-3.UGY"
+msgstr "Малагас"
+
+msgid "ISO_639-3.UHA"
+msgstr "Тай"
+
+msgid "ISO_639-3.UHN"
+msgstr "Тамил"
+
+msgid "ISO_639-3.UIG"
+msgstr "Уйгур"
+
+msgid "ISO_639-3.UIS"
+msgstr "Марати"
+
+msgid "ISO_639-3.UKA"
+msgstr "Күрд"
+
+msgid "ISO_639-3.UKR"
+msgstr "Украйн"
+
+msgid "ISO_639-3.ULA"
+msgstr "Санго"
+
+msgid "ISO_639-3.ULI"
+msgstr "Литва"
+
+msgid "ISO_639-3.ULK"
+msgstr "Перс"
+
+msgid "ISO_639-3.ULW"
+msgstr "Албани"
+
+msgid "ISO_639-3.UMC"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.UMM"
+msgstr "Самоан"
+
+msgid "ISO_639-3.UMN"
+msgstr "Самоан"
+
+msgid "ISO_639-3.UMR"
+msgstr "Аямара"
+
+msgid "ISO_639-3.UMS"
+msgstr "Венда"
+
+msgid "ISO_639-3.UND"
+msgstr "Интэрлингуэ"
+
+msgid "ISO_639-3.UNG"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.UNM"
+msgstr "Тамил"
+
+msgid "ISO_639-3.UNN"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.UNR"
+msgstr "Канад"
+
+msgid "ISO_639-3.UNU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.UNX"
+msgstr "Венда"
+
+msgid "ISO_639-3.UPI"
+msgstr "Венда"
+
+msgid "ISO_639-3.URA"
+msgstr "Украйн"
+
+msgid "ISO_639-3.URC"
+msgstr "Украйн"
+
+msgid "ISO_639-3.URD"
+msgstr "Урду"
+
+msgid "ISO_639-3.URE"
+msgstr "Урду"
+
+msgid "ISO_639-3.URF"
+msgstr "Свахили"
+
+msgid "ISO_639-3.URG"
+msgstr "Тигран"
+
+msgid "ISO_639-3.URL"
+msgstr "Пали"
+
+msgid "ISO_639-3.URM"
+msgstr "Украйн"
+
+msgid "ISO_639-3.URN"
+msgstr "Украйн"
+
+msgid "ISO_639-3.URT"
+msgstr "Урду"
+
+msgid "ISO_639-3.URU"
+msgstr "Урду"
+
+msgid "ISO_639-3.URV"
+msgstr "Урду"
+
+msgid "ISO_639-3.URX"
+msgstr "Оромо"
+
+msgid "ISO_639-3.URY"
+msgstr "Орияа"
+
+msgid "ISO_639-3.USP"
+msgstr "Аспиранто"
+
+msgid "ISO_639-3.UTA"
+msgstr "Оссетиан"
+
+msgid "ISO_639-3.UTE"
+msgstr "Нордэрн Сами"
+
+msgid "ISO_639-3.UTP"
+msgstr "Тонга (исландын тонга)"
+
+msgid "ISO_639-3.UUM"
+msgstr "Урду"
+
+msgid "ISO_639-3.UZB"
+msgstr "Үзбек"
+
+msgid "ISO_639-3.UZN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.UZS"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.VAF"
+msgstr "Марати"
+
+msgid "ISO_639-3.VAG"
+msgstr "Малай"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Хятад"
+
+msgid "ISO_639-3.VAN"
+msgstr "Самоан"
+
+msgid "ISO_639-3.VAO"
+msgstr "Лао"
+
+msgid "ISO_639-3.VAS"
+msgstr "Марати"
+
+msgid "ISO_639-3.VAV"
+msgstr "Пали"
+
+msgid "ISO_639-3.VAY"
+msgstr "Малай"
+
+msgid "ISO_639-3.VBB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.VBK"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.VEC"
+msgstr "Армен"
+
+msgid "ISO_639-3.VED"
+msgstr "Венда"
+
+msgid "ISO_639-3.VEN"
+msgstr "Венда"
+
+msgid "ISO_639-3.VER"
+msgstr "Монгол"
+
+msgid "ISO_639-3.VGR"
+msgstr "Марати"
+
+msgid "ISO_639-3.VID"
+msgstr "Венда"
+
+msgid "ISO_639-3.VIE"
+msgstr "Ветьнам"
+
+msgid "ISO_639-3.VIN"
+msgstr "Венда"
+
+msgid "ISO_639-3.VIV"
+msgstr "Венда"
+
+msgid "ISO_639-3.VKA"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.VKK"
+msgstr "Күрд"
+
+msgid "ISO_639-3.VKM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.VKO"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.VKU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.VLP"
+msgstr "Пали"
+
+msgid "ISO_639-3.VMA"
+msgstr "Марати"
+
+msgid "ISO_639-3.VMB"
+msgstr "Аямара"
+
+msgid "ISO_639-3.VMD"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.VME"
+msgstr "Малагас"
+
+msgid "ISO_639-3.VMG"
+msgstr "Венда"
+
+msgid "ISO_639-3.VMH"
+msgstr "Марати"
+
+msgid "ISO_639-3.VML"
+msgstr "Малагас"
+
+msgid "ISO_639-3.VMR"
+msgstr "Венда"
+
+msgid "ISO_639-3.VMS"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.VMW"
+msgstr "Манкс"
+
+msgid "ISO_639-3.VNK"
+msgstr "Санго"
+
+msgid "ISO_639-3.VNP"
+msgstr "Волапук"
+
+msgid "ISO_639-3.VOL"
+msgstr "Волапук"
+
+msgid "ISO_639-3.VRA"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.VRS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.VRT"
+msgstr "Аямара"
+
+msgid "ISO_639-3.VSI"
+msgstr "Малагас"
+
+msgid "ISO_639-3.VSV"
+msgstr "Малагас"
+
+msgid "ISO_639-3.VTO"
+msgstr "Хири моту"
+
+msgid "ISO_639-3.VWA"
+msgstr "Свахили"
+
+msgid "ISO_639-3.WAA"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.WAD"
+msgstr "Сундан"
+
+msgid "ISO_639-3.WAE"
+msgstr "Малтес"
+
+msgid "ISO_639-3.WAI"
+msgstr "Фароес"
+
+msgid "ISO_639-3.WAJ"
+msgstr "Малай"
+
+msgid "ISO_639-3.WAL"
+msgstr "Молдав"
+
+msgid "ISO_639-3.WAN"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WAO"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Герман"
+
+msgid "ISO_639-3.WAS"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WAT"
+msgstr "Канад"
+
+msgid "ISO_639-3.WAV"
+msgstr "Малай"
+
+msgid "ISO_639-3.WAW"
+msgstr "Марати"
+
+msgid "ISO_639-3.WAX"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WAY"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.WBA"
+msgstr "Малай"
+
+msgid "ISO_639-3.WBB"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WBE"
+msgstr "Малай"
+
+msgid "ISO_639-3.WBF"
+msgstr "Малай"
+
+msgid "ISO_639-3.WBH"
+msgstr "Канад"
+
+msgid "ISO_639-3.WBI"
+msgstr "Тажик"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Марати"
+
+msgid "ISO_639-3.WBK"
+msgstr "Марати"
+
+msgid "ISO_639-3.WBL"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WBQ"
+msgstr "Канад"
+
+msgid "ISO_639-3.WBT"
+msgstr "Самоан"
+
+msgid "ISO_639-3.WDK"
+msgstr "Аямара"
+
+msgid "ISO_639-3.WED"
+msgstr "Венда"
+
+msgid "ISO_639-3.WEH"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WER"
+msgstr "Непал"
+
+msgid "ISO_639-3.WET"
+msgstr "Пали"
+
+msgid "ISO_639-3.WEU"
+msgstr "Хятад"
+
+msgid "ISO_639-3.WGA"
+msgstr "Малай"
+
+msgid "ISO_639-3.WGI"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WGY"
+msgstr "Малай"
+
+msgid "ISO_639-3.WHG"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.WHU"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.WIB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.WII"
+msgstr "Төвд"
+
+msgid "ISO_639-3.WJA"
+msgstr "Малай"
+
+msgid "ISO_639-3.WJI"
+msgstr "Маори"
+
+msgid "ISO_639-3.WKA"
+msgstr "Казак"
+
+msgid "ISO_639-3.WKB"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.WKL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.WKU"
+msgstr "Венда"
+
+msgid "ISO_639-3.WLA"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WLE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.WLG"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.WLI"
+msgstr "Свахили"
+
+msgid "ISO_639-3.WLK"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WLN"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WLO"
+msgstr "Волоф"
+
+msgid "ISO_639-3.WLR"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WLS"
+msgstr "Галици"
+
+msgid "ISO_639-3.WLW"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WLY"
+msgstr "Итали"
+
+msgid "ISO_639-3.WMB"
+msgstr "Аямара"
+
+msgid "ISO_639-3.WMC"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WMD"
+msgstr "Санго"
+
+msgid "ISO_639-3.WMI"
+msgstr "Тамил"
+
+msgid "ISO_639-3.WMM"
+msgstr "Индонези"
+
+msgid "ISO_639-3.WMS"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WMW"
+msgstr "Марати"
+
+msgid "ISO_639-3.WMX"
+msgstr "Оромо"
+
+msgid "ISO_639-3.WND"
+msgstr "Канад"
+
+msgid "ISO_639-3.WNG"
+msgstr "Санго"
+
+msgid "ISO_639-3.WNN"
+msgstr "Аямара"
+
+msgid "ISO_639-3.WNO"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WNP"
+msgstr "Малай"
+
+msgid "ISO_639-3.WNU"
+msgstr "Цвана"
+
+msgid "ISO_639-3.WNY"
+msgstr "Канад"
+
+msgid "ISO_639-3.WOA"
+msgstr "Малай"
+
+msgid "ISO_639-3.WOB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.WOC"
+msgstr "Волоф"
+
+msgid "ISO_639-3.WOD"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.WOE"
+msgstr "Молдав"
+
+msgid "ISO_639-3.WOF"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.WOI"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.WOK"
+msgstr "Санго"
+
+msgid "ISO_639-3.WOL"
+msgstr "Волоф"
+
+msgid "ISO_639-3.WON"
+msgstr "Санго"
+
+msgid "ISO_639-3.WOO"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.WOR"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.WPC"
+msgstr "Маори"
+
+msgid "ISO_639-3.WRA"
+msgstr "Малай"
+
+msgid "ISO_639-3.WRB"
+msgstr "Марати"
+
+msgid "ISO_639-3.WRK"
+msgstr "Малай"
+
+msgid "ISO_639-3.WRN"
+msgstr "Малай"
+
+msgid "ISO_639-3.WRO"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.WRP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.WRR"
+msgstr "Малай"
+
+msgid "ISO_639-3.WRS"
+msgstr "Маори"
+
+msgid "ISO_639-3.WRU"
+msgstr "Малай"
+
+msgid "ISO_639-3.WRV"
+msgstr "Малай"
+
+msgid "ISO_639-3.WRY"
+msgstr "Марати"
+
+msgid "ISO_639-3.WSI"
+msgstr "Тай"
+
+msgid "ISO_639-3.WSK"
+msgstr "Башкир"
+
+msgid "ISO_639-3.WSS"
+msgstr "Хайза"
+
+msgid "ISO_639-3.WSU"
+msgstr "Уэльс"
+
+msgid "ISO_639-3.WTM"
+msgstr "Свати"
+
+msgid "ISO_639-3.WUB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.WUL"
+msgstr "Самоан"
+
+msgid "ISO_639-3.WUU"
+msgstr "Хятад"
+
+msgid "ISO_639-3.WUX"
+msgstr "Венда"
+
+msgid "ISO_639-3.WWA"
+msgstr "Валлон"
+
+msgid "ISO_639-3.WWB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.WWR"
+msgstr "Малай"
+
+msgid "ISO_639-3.WWW"
+msgstr "Малай"
+
+msgid "ISO_639-3.WXW"
+msgstr "Малай"
+
+msgid "ISO_639-3.WYI"
+msgstr "Туркмен"
+
+msgid "ISO_639-3.WYY"
+msgstr "Фрис"
+
+msgid "ISO_639-3.XAB"
+msgstr "Серби"
+
+msgid "ISO_639-3.XAC"
+msgstr "Тай"
+
+msgid "ISO_639-3.XAD"
+msgstr "Свахили"
+
+msgid "ISO_639-3.XAE"
+msgstr "Армен"
+
+msgid "ISO_639-3.XAG"
+msgstr "Шона"
+
+msgid "ISO_639-3.XAI"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Араб"
+
+msgid "ISO_639-3.XAL"
+msgstr "Валлон"
+
+msgid "ISO_639-3.XAO"
+msgstr "Тай"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Литва"
+
+msgid "ISO_639-3.XAR"
+msgstr "Күрд"
+
+msgid "ISO_639-3.XAS"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XAU"
+msgstr "Күрд"
+
+msgid "ISO_639-3.XAW"
+msgstr "Герман"
+
+msgid "ISO_639-3.XBC"
+msgstr "Болгар"
+
+msgid "ISO_639-3.XBD"
+msgstr "Канад"
+
+msgid "ISO_639-3.XBE"
+msgstr "Аямара"
+
+msgid "ISO_639-3.XBG"
+msgstr "Болгар"
+
+msgid "ISO_639-3.XBI"
+msgstr "Коми"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Бихари"
+
+msgid "ISO_639-3.XBM"
+msgstr "Бретон"
+
+msgid "ISO_639-3.XBN"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.XBO"
+msgstr "Болгар"
+
+msgid "ISO_639-3.XBR"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XBW"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XBY"
+msgstr "Свати"
+
+msgid "ISO_639-3.XCL"
+msgstr "Армен"
+
+msgid "ISO_639-3.XCO"
+msgstr "Корсикан"
+
+msgid "ISO_639-3.XCR"
+msgstr "Маори"
+
+msgid "ISO_639-3.XCU"
+msgstr "Хорват"
+
+msgid "ISO_639-3.XCV"
+msgstr "Чуваш"
+
+msgid "ISO_639-3.XCY"
+msgstr "Хятад"
+
+msgid "ISO_639-3.XDA"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XDC"
+msgstr "Галици"
+
+msgid "ISO_639-3.XDY"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.XED"
+msgstr "Хинди"
+
+msgid "ISO_639-3.XEM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XES"
+msgstr "Непал"
+
+msgid "ISO_639-3.XFA"
+msgstr "Галици"
+
+msgid "ISO_639-3.XGA"
+msgstr "Галици"
+
+msgid "ISO_639-3.XGD"
+msgstr "Канад"
+
+msgid "ISO_639-3.XGG"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XGI"
+msgstr "Канад"
+
+msgid "ISO_639-3.XGL"
+msgstr "Канад"
+
+msgid "ISO_639-3.XGM"
+msgstr "Аямара"
+
+msgid "ISO_639-3.XGR"
+msgstr "Гуяран"
+
+msgid "ISO_639-3.XGU"
+msgstr "Санго"
+
+msgid "ISO_639-3.XHA"
+msgstr "Араб"
+
+msgid "ISO_639-3.XHC"
+msgstr "Рунди"
+
+msgid "ISO_639-3.XHD"
+msgstr "Хинди"
+
+msgid "ISO_639-3.XHE"
+msgstr "Тай"
+
+msgid "ISO_639-3.XHO"
+msgstr "Чхоса"
+
+msgid "ISO_639-3.XHR"
+msgstr "Серби"
+
+msgid "ISO_639-3.XHU"
+msgstr "Унгар"
+
+msgid "ISO_639-3.XHV"
+msgstr "Тай"
+
+msgid "ISO_639-3.XIB"
+msgstr "Перс"
+
+msgid "ISO_639-3.XII"
+msgstr "Хинди"
+
+msgid "ISO_639-3.XIL"
+msgstr "Итали"
+
+msgid "ISO_639-3.XIN"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.XIR"
+msgstr "Тигран"
+
+msgid "ISO_639-3.XIS"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XIV"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XJB"
+msgstr "Санго"
+
+msgid "ISO_639-3.XJT"
+msgstr "Канад"
+
+msgid "ISO_639-3.XKB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.XKD"
+msgstr "Венда"
+
+msgid "ISO_639-3.XKE"
+msgstr "Хереро"
+
+msgid "ISO_639-3.XKF"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.XKI"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Свати"
+
+msgid "ISO_639-3.XKP"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XKT"
+msgstr "Свати"
+
+msgid "ISO_639-3.XKU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XKW"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XKX"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XKY"
+msgstr "Украйн"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Күрд"
+
+msgid "ISO_639-3.XLA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XLC"
+msgstr "Латви"
+
+msgid "ISO_639-3.XLD"
+msgstr "Латин"
+
+msgid "ISO_639-3.XLE"
+msgstr "Румын"
+
+msgid "ISO_639-3.XLI"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.XLN"
+msgstr "Албани"
+
+msgid "ISO_639-3.XLS"
+msgstr "Литва"
+
+msgid "ISO_639-3.XMB"
+msgstr "Монгол"
+
+msgid "ISO_639-3.XME"
+msgstr "Макидони"
+
+msgid "ISO_639-3.XMF"
+msgstr "Монгол"
+
+msgid "ISO_639-3.XMG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Марати"
+
+msgid "ISO_639-3.XMK"
+msgstr "Макидони"
+
+msgid "ISO_639-3.XML"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XMM"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.XMO"
+msgstr "Маори"
+
+msgid "ISO_639-3.XMT"
+msgstr "Марати"
+
+msgid "ISO_639-3.XMU"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XMW"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XMX"
+msgstr "Манкс"
+
+msgid "ISO_639-3.XNG"
+msgstr "Монгол"
+
+msgid "ISO_639-3.XNH"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XNI"
+msgstr "Науру"
+
+msgid "ISO_639-3.XNK"
+msgstr "Унгар"
+
+msgid "ISO_639-3.XNN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.XNR"
+msgstr "Күрд"
+
+msgid "ISO_639-3.XNS"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.XNT"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XOD"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XOG"
+msgstr "Георги"
+
+msgid "ISO_639-3.XON"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XOP"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XOR"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.XOW"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XPA"
+msgstr "Орияа"
+
+msgid "ISO_639-3.XPC"
+msgstr "Чечень"
+
+msgid "ISO_639-3.XPG"
+msgstr "Перс"
+
+msgid "ISO_639-3.XPI"
+msgstr "Польш"
+
+msgid "ISO_639-3.XPR"
+msgstr "Перс"
+
+msgid "ISO_639-3.XPS"
+msgstr "Перс"
+
+msgid "ISO_639-3.XPT"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XPU"
+msgstr "Рунди"
+
+msgid "ISO_639-3.XPY"
+msgstr "Пушто"
+
+msgid "ISO_639-3.XQA"
+msgstr "Бихари"
+
+msgid "ISO_639-3.XQT"
+msgstr "Албани"
+
+msgid "ISO_639-3.XRE"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XRG"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.XRM"
+msgstr "Араб"
+
+msgid "ISO_639-3.XRN"
+msgstr "Армен"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.XRR"
+msgstr "Гали"
+
+msgid "ISO_639-3.XRU"
+msgstr "Марати"
+
+msgid "ISO_639-3.XRW"
+msgstr "Марати"
+
+msgid "ISO_639-3.XSA"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.XSB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XSC"
+msgstr "Шона"
+
+msgid "ISO_639-3.XSD"
+msgstr "Синди"
+
+msgid "ISO_639-3.XSE"
+msgstr "Самоан"
+
+msgid "ISO_639-3.XSH"
+msgstr "Самоан"
+
+msgid "ISO_639-3.XSI"
+msgstr "Самоан"
+
+msgid "ISO_639-3.XSL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.XSM"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.XSO"
+msgstr "Санго"
+
+msgid "ISO_639-3.XSP"
+msgstr "Свахили"
+
+msgid "ISO_639-3.XSR"
+msgstr "Серби"
+
+msgid "ISO_639-3.XSS"
+msgstr "Орос"
+
+msgid "ISO_639-3.XSV"
+msgstr "Словиен"
+
+msgid "ISO_639-3.XSY"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.XTO"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.XTV"
+msgstr "Марати"
+
+msgid "ISO_639-3.XTW"
+msgstr "Цвана"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Румын"
+
+msgid "ISO_639-3.XUA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XUG"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XUL"
+msgstr "Венда"
+
+msgid "ISO_639-3.XUM"
+msgstr "Лимбург"
+
+msgid "ISO_639-3.XUN"
+msgstr "Украйн"
+
+msgid "ISO_639-3.XUR"
+msgstr "Хорват"
+
+msgid "ISO_639-3.XUU"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.XVI"
+msgstr "Кашмири"
+
+msgid "ISO_639-3.XVN"
+msgstr "Свати"
+
+msgid "ISO_639-3.XVO"
+msgstr "Босни"
+
+msgid "ISO_639-3.XVS"
+msgstr "Эстони"
+
+msgid "ISO_639-3.XWA"
+msgstr "Казак"
+
+msgid "ISO_639-3.XWC"
+msgstr "Валлон"
+
+msgid "ISO_639-3.XWK"
+msgstr "Санго"
+
+msgid "ISO_639-3.XXB"
+msgstr "Индонези"
+
+msgid "ISO_639-3.XXM"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.XXR"
+msgstr "Санго"
+
+msgid "ISO_639-3.XXT"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.XYB"
+msgstr "Лао"
+
+msgid "ISO_639-3.XYK"
+msgstr "Малай"
+
+msgid "ISO_639-3.XYL"
+msgstr "Малтес"
+
+msgid "ISO_639-3.XZH"
+msgstr "Жуанг"
+
+msgid "ISO_639-3.XZM"
+msgstr "Макидони"
+
+msgid "ISO_639-3.YAD"
+msgstr "Хайза"
+
+msgid "ISO_639-3.YAI"
+msgstr "Лао"
+
+msgid "ISO_639-3.YAK"
+msgstr "Лао"
+
+msgid "ISO_639-3.YAM"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YAN"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.YAO"
+msgstr "Лао"
+
+msgid "ISO_639-3.YAP"
+msgstr "Япон"
+
+msgid "ISO_639-3.YAR"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.YAT"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YAU"
+msgstr "Цвана"
+
+msgid "ISO_639-3.YAX"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YBA"
+msgstr "Малай"
+
+msgid "ISO_639-3.YBB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Хайза"
+
+msgid "ISO_639-3.YBK"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.YBM"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.YBO"
+msgstr "Лао"
+
+msgid "ISO_639-3.YBX"
+msgstr "Лао"
+
+msgid "ISO_639-3.YCH"
+msgstr "Хятад"
+
+msgid "ISO_639-3.YCL"
+msgstr "Волоф"
+
+msgid "ISO_639-3.YCN"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.YCP"
+msgstr "Индонези"
+
+msgid "ISO_639-3.YDA"
+msgstr "Канад"
+
+msgid "ISO_639-3.YDD"
+msgstr "Юүд"
+
+msgid "ISO_639-3.YDG"
+msgstr "Юүд"
+
+msgid "ISO_639-3.YDK"
+msgstr "Юүд"
+
+msgid "ISO_639-3.YEC"
+msgstr "Франц"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Исланд"
+
+msgid "ISO_639-3.YER"
+msgstr "Тажик"
+
+msgid "ISO_639-3.YES"
+msgstr "Нянжа"
+
+msgid "ISO_639-3.YEV"
+msgstr "Венда"
+
+msgid "ISO_639-3.YGA"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.YGI"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.YGM"
+msgstr "Лао"
+
+msgid "ISO_639-3.YGP"
+msgstr "Венда"
+
+msgid "ISO_639-3.YGR"
+msgstr "Болгар"
+
+msgid "ISO_639-3.YGS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.YGW"
+msgstr "Марати"
+
+msgid "ISO_639-3.YHA"
+msgstr "Санго"
+
+msgid "ISO_639-3.YHD"
+msgstr "Араб"
+
+msgid "ISO_639-3.YHS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.YIA"
+msgstr "Лингал"
+
+msgid "ISO_639-3.YID"
+msgstr "Юүд"
+
+msgid "ISO_639-3.YIF"
+msgstr "Хятад"
+
+msgid "ISO_639-3.YIH"
+msgstr "Юүд"
+
+msgid "ISO_639-3.YII"
+msgstr "Юүд"
+
+msgid "ISO_639-3.YIM"
+msgstr "Латви"
+
+msgid "ISO_639-3.YIN"
+msgstr "Синди"
+
+msgid "ISO_639-3.YIP"
+msgstr "Волоф"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Маори"
+
+msgid "ISO_639-3.YIR"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.YIS"
+msgstr "Фрис"
+
+msgid "ISO_639-3.YIU"
+msgstr "Свахили"
+
+msgid "ISO_639-3.YIV"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.YIX"
+msgstr "Күрд"
+
+msgid "ISO_639-3.YKA"
+msgstr "Абкааз"
+
+msgid "ISO_639-3.YKG"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.YKL"
+msgstr "Малай"
+
+msgid "ISO_639-3.YKM"
+msgstr "Тай"
+
+msgid "ISO_639-3.YKO"
+msgstr "Хайза"
+
+msgid "ISO_639-3.YKR"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.YKT"
+msgstr "Сардиниан"
+
+msgid "ISO_639-3.YKU"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YKY"
+msgstr "Лао"
+
+msgid "ISO_639-3.YLB"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.YLE"
+msgstr "Япон"
+
+msgid "ISO_639-3.YLG"
+msgstr "Тэлүгү"
+
+msgid "ISO_639-3.YLM"
+msgstr "Болгар"
+
+msgid "ISO_639-3.YLO"
+msgstr "Науру"
+
+msgid "ISO_639-3.YMB"
+msgstr "Япон"
+
+msgid "ISO_639-3.YMC"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.YMD"
+msgstr "Венда"
+
+msgid "ISO_639-3.YME"
+msgstr "Лао"
+
+msgid "ISO_639-3.YMH"
+msgstr "Маори"
+
+msgid "ISO_639-3.YMI"
+msgstr "Маори"
+
+msgid "ISO_639-3.YMM"
+msgstr "Малай"
+
+msgid "ISO_639-3.YMN"
+msgstr "Канад"
+
+msgid "ISO_639-3.YMO"
+msgstr "Самоан"
+
+msgid "ISO_639-3.YMP"
+msgstr "Күрд"
+
+msgid "ISO_639-3.YMR"
+msgstr "Малай"
+
+msgid "ISO_639-3.YMS"
+msgstr "Босни"
+
+msgid "ISO_639-3.YMX"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.YNA"
+msgstr "Санго"
+
+msgid "ISO_639-3.YND"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.YNE"
+msgstr "Санго"
+
+msgid "ISO_639-3.YNG"
+msgstr "Санго"
+
+msgid "ISO_639-3.YNN"
+msgstr "Канад"
+
+msgid "ISO_639-3.YNO"
+msgstr "Монгол"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Венда"
+
+msgid "ISO_639-3.YNS"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.YNU"
+msgstr "Канад"
+
+msgid "ISO_639-3.YOB"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.YOG"
+msgstr "Ндонга"
+
+msgid "ISO_639-3.YOI"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.YOL"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.YON"
+msgstr "Монгол"
+
+msgid "ISO_639-3.YOR"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.YOY"
+msgstr "Лао"
+
+msgid "ISO_639-3.YPA"
+msgstr "Каталан"
+
+msgid "ISO_639-3.YPG"
+msgstr "Пали"
+
+msgid "ISO_639-3.YPH"
+msgstr "Пали"
+
+msgid "ISO_639-3.YPM"
+msgstr "Непал"
+
+msgid "ISO_639-3.YPO"
+msgstr "Пали"
+
+msgid "ISO_639-3.YPP"
+msgstr "Пали"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Пали"
+
+msgid "ISO_639-3.YRB"
+msgstr "Ёруба"
+
+msgid "ISO_639-3.YRE"
+msgstr "Лао"
+
+msgid "ISO_639-3.YRY"
+msgstr "Каталан"
+
+msgid "ISO_639-3.YSD"
+msgstr "Самоан"
+
+msgid "ISO_639-3.YSG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.YSN"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.YSP"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.YSY"
+msgstr "Георги"
+
+msgid "ISO_639-3.YTA"
+msgstr "Зулу"
+
+msgid "ISO_639-3.YTL"
+msgstr "Монгол"
+
+msgid "ISO_639-3.YTP"
+msgstr "Санго"
+
+msgid "ISO_639-3.YUB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YUC"
+msgstr "Нидерланд"
+
+msgid "ISO_639-3.YUD"
+msgstr "Араб"
+
+msgid "ISO_639-3.YUE"
+msgstr "Хятад"
+
+msgid "ISO_639-3.YUL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.YUM"
+msgstr "Куэчуа"
+
+msgid "ISO_639-3.YUP"
+msgstr "Хайза"
+
+msgid "ISO_639-3.YUT"
+msgstr "Монгол"
+
+msgid "ISO_639-3.YUX"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.YVA"
+msgstr "Марати"
+
+msgid "ISO_639-3.YWG"
+msgstr "Тахит"
+
+msgid "ISO_639-3.YWL"
+msgstr "Фрис"
+
+msgid "ISO_639-3.YWR"
+msgstr "Науру"
+
+msgid "ISO_639-3.YXA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.YXG"
+msgstr "Болгар"
+
+msgid "ISO_639-3.YXL"
+msgstr "Кинярванда"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Свахили"
+
+msgid "ISO_639-3.YZG"
+msgstr "Санго"
+
+msgid "ISO_639-3.YZK"
+msgstr "Санго"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "Валлон"
+
+msgid "ISO_639-3.ZAK"
+msgstr "Свати"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Санскрит"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Маори"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Свати"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Герман"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Болгар"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Герман"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Бенгаль"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Лингал"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Рунди"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Маори"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Рунди"
+
+msgid "ISO_639-3.ZHB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Рунди"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Тигран"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Хятад"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Чхоса"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Малтес"
+
+msgid "ISO_639-3.ZIN"
+msgstr "Жонгка"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Орияа"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Лингал"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Фрис"
+
+msgid "ISO_639-3.ZKA"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.ZKB"
+msgstr "Коми"
+
+msgid "ISO_639-3.ZKG"
+msgstr "Санго"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ZKK"
+msgstr "Канад"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Канад"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Төвд"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Армен"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Тай"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZLM"
+msgstr "Малагас"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZMB"
+msgstr "Куаняма"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Малай"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Маори"
+
+msgid "ISO_639-3.ZME"
+msgstr "Канад"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZML"
+msgstr "Бурн"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Волоф"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Монгол"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Канад"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Маори"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Канад"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Санго"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Малагас"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Лао"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Хятад"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Хятад"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Бурн"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Хереро"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Марати"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Маори"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Маори"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ZSL"
+msgstr "Малагас"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Малаялам"
+
+msgid "ISO_639-3.ZSR"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Науру"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Солонгос"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Зулу"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Күрд"
+
+msgid "ISO_639-3.ZUN"
+msgstr "Рунди"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Рунди"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Сото, Соутерн"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Хятад"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Малай"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Жуанг"

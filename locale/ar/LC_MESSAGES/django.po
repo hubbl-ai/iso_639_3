@@ -1,0 +1,8629 @@
+# Arabic translations of ISO 639 Language names
+# Copyright (C) 2002,2004 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Translations from kde-i18n/desktop.po:
+# Mohammad Gamal <f2c2001@yahoo.com>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-04 22:08+0000\n"
+"Last-Translator: Mohammad Gamal <f2c2001@yahoo.com>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "العربية"
+
+msgid "ISO_639-3.AAF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AAG"
+msgstr "العربية"
+
+msgid "ISO_639-3.AAK"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AAT"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AAW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.AAZ"
+msgstr "العربية"
+
+msgid "ISO_639-3.ABD"
+msgstr "المالطية"
+
+msgid "ISO_639-3.ABE"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ABG"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ABH"
+msgstr "العربية"
+
+msgid "ISO_639-3.ABK"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ABQ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ABV"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ABW"
+msgstr "البولندية"
+
+msgid "ISO_639-3.ABZ"
+msgstr "العربية"
+
+msgid "ISO_639-3.ACE"
+msgstr "الصينية"
+
+msgid "ISO_639-3.ACI"
+msgstr "الموري"
+
+msgid "ISO_639-3.ACN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ACR"
+msgstr "الصينية"
+
+msgid "ISO_639-3.ACW"
+msgstr "العربية"
+
+msgid "ISO_639-3.ACX"
+msgstr "العربية"
+
+msgid "ISO_639-3.ACY"
+msgstr "العربية"
+
+msgid "ISO_639-3.ADD"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.ADF"
+msgstr "العربية"
+
+msgid "ISO_639-3.ADL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.ADN"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ADR"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.ADX"
+msgstr "التبتية"
+
+msgid "ISO_639-3.ADY"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.AEA"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AEC"
+msgstr "العربية"
+
+msgid "ISO_639-3.AEE"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AEU"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AEW"
+msgstr "العربية"
+
+msgid "ISO_639-3.AEZ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AFB"
+msgstr "العربية"
+
+msgid "ISO_639-3.AFD"
+msgstr "الهندية"
+
+msgid "ISO_639-3.AFK"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.AFP"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AFR"
+msgstr "الأفريكانس"
+
+msgid "ISO_639-3.AGA"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AGB"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.AGD"
+msgstr "العربية"
+
+msgid "ISO_639-3.AGE"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.AGF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AGG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.AGH"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.AGI"
+msgstr "التركية"
+
+msgid "ISO_639-3.AGM"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.AGO"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AGW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AHA"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.AHH"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.AHK"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AHR"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AIA"
+msgstr "الموري"
+
+msgid "ISO_639-3.AIC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AIE"
+msgstr "العربية"
+
+msgid "ISO_639-3.AIJ"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.AIR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.AIS"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.AIW"
+msgstr "العربية"
+
+msgid "ISO_639-3.AIX"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.AJN"
+msgstr "الهندية"
+
+msgid "ISO_639-3.AJT"
+msgstr "العربية"
+
+msgid "ISO_639-3.AJU"
+msgstr "العربية"
+
+msgid "ISO_639-3.AJZ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.AKA"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKB"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.AKF"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKK"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKL"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKM"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKQ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKR"
+msgstr "العربية"
+
+msgid "ISO_639-3.AKW"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AKZ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ALD"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ALH"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ALJ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ALK"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.ALN"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ALS"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AMC"
+msgstr "العربية"
+
+msgid "ISO_639-3.AMH"
+msgstr "العربية"
+
+msgid "ISO_639-3.AMJ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AMK"
+msgstr "العربية"
+
+msgid "ISO_639-3.AML"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.AMN"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AMQ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AMY"
+msgstr "العربية"
+
+msgid "ISO_639-3.ANC"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.ANI"
+msgstr "الهندية"
+
+msgid "ISO_639-3.ANK"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.ANP"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ANQ"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.ANS"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.ANW"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ANY"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AOA"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.AOF"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.AOH"
+msgstr "العربية"
+
+msgid "ISO_639-3.AOJ"
+msgstr "الروسية"
+
+msgid "ISO_639-3.AOR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.AOS"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AOT"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.APD"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.APF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.APG"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.APH"
+msgstr "العربية"
+
+msgid "ISO_639-3.API"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.APO"
+msgstr "الزولو"
+
+msgid "ISO_639-3.APW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AQC"
+msgstr "الصينية"
+
+msgid "ISO_639-3.AQT"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.AQZ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ARA"
+msgstr "العربية"
+
+msgid "ISO_639-3.ARD"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ARE"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ARH"
+msgstr "العربية"
+
+msgid "ISO_639-3.ARI"
+msgstr "الأفريكانس"
+
+msgid "ISO_639-3.ARJ"
+msgstr "الأفريكانس"
+
+msgid "ISO_639-3.ARL"
+msgstr "العربية"
+
+msgid "ISO_639-3.ARN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.ARO"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ARQ"
+msgstr "العربية"
+
+msgid "ISO_639-3.ARS"
+msgstr "العربية"
+
+msgid "ISO_639-3.ARY"
+msgstr "العربية"
+
+msgid "ISO_639-3.ASI"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.ASJ"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.ASK"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.ASO"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.AST"
+msgstr "الإستونية"
+
+msgid "ISO_639-3.ATN"
+msgstr "الإستونية"
+
+msgid "ISO_639-3.ATR"
+msgstr "الموري"
+
+msgid "ISO_639-3.ATX"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ATZ"
+msgstr "العربية"
+
+msgid "ISO_639-3.AUB"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.AUC"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.AUH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AUK"
+msgstr "العبرية"
+
+msgid "ISO_639-3.AUL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.AUP"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.AUQ"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.AUR"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.AUZ"
+msgstr "العربية"
+
+msgid "ISO_639-3.AVA"
+msgstr "العربية"
+
+msgid "ISO_639-3.AVB"
+msgstr "الزولو"
+
+msgid "ISO_639-3.AVI"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AVK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.AVN"
+msgstr "العربية"
+
+msgid "ISO_639-3.AVS"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.AWM"
+msgstr "العربية"
+
+msgid "ISO_639-3.AXL"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.AXM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.AYA"
+msgstr "العربية"
+
+msgid "ISO_639-3.AYH"
+msgstr "العربية"
+
+msgid "ISO_639-3.AYI"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.AYL"
+msgstr "العربية"
+
+msgid "ISO_639-3.AYN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.AYZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.AZA"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AZB"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AZE"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.AZJ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.BAG"
+msgstr "التركية"
+
+msgid "ISO_639-3.BAJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BAN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BAR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BAV"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BAY"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BBB"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BBD"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BBE"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BBF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BBG"
+msgstr "العربية"
+
+msgid "ISO_639-3.BBH"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BBI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BBL"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BBQ"
+msgstr "العربية"
+
+msgid "ISO_639-3.BBV"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BBW"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BBX"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BBY"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BCF"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BCG"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BCH"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BCJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BCK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.BCO"
+msgstr "الكردية"
+
+msgid "ISO_639-3.BCQ"
+msgstr "الفرنسية"
+
+msgid "ISO_639-3.BCR"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BCT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BCW"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BCY"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BDB"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BDD"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BDE"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BDF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BDG"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BDJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BDK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.BDL"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.BDO"
+msgstr "الموري"
+
+msgid "ISO_639-3.BDQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BDW"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BEG"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BEH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BEK"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BEL"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BEN"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BEO"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BEP"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BES"
+msgstr "البورمية"
+
+msgid "ISO_639-3.BEU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BEW"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BFA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BFG"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.BFQ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BFR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BFT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BFU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BFW"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BFX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.BFY"
+msgstr "الموري"
+
+msgid "ISO_639-3.BGB"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BGC"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BGE"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BGG"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BGJ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BGK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BGN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.BGO"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.BGQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BGR"
+msgstr "الوالون"
+
+msgid "ISO_639-3.BGU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BGW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BGY"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BGZ"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BHA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHB"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHC"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BHD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHE"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BHG"
+msgstr "المالطية"
+
+msgid "ISO_639-3.BHH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHL"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BHP"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BHR"
+msgstr "الموري"
+
+msgid "ISO_639-3.BHU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BHV"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BHW"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BHX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.BHZ"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.BIB"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BIC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BID"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIG"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIN"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.BIP"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BIQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIU"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BIX"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIY"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BIZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BJB"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BJC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BJH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BJI"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BJJ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.BJN"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BJR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BJS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BJV"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BJY"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BJZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.BKD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BKF"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.BKG"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BKI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BKN"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BKS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BKT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BKX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.BLD"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BLG"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BLI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BLJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BLL"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BLR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BLS"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BMD"
+msgstr "الكردية"
+
+msgid "ISO_639-3.BMH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BMI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BMO"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.BMP"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BMR"
+msgstr "المالطية"
+
+msgid "ISO_639-3.BMS"
+msgstr "الكردية"
+
+msgid "ISO_639-3.BMV"
+msgstr "البورمية"
+
+msgid "ISO_639-3.BMX"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BMZ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BNB"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BNC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BND"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.BNF"
+msgstr "الموري"
+
+msgid "ISO_639-3.BNG"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BNI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BNK"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.BNL"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BNQ"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.BNU"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BNW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BNZ"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.BOA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BOB"
+msgstr "العربية"
+
+msgid "ISO_639-3.BOD"
+msgstr "التبتية"
+
+msgid "ISO_639-3.BOF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BOH"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BOK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BON"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BOP"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BOQ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BOS"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BOT"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BOU"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BOW"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BPA"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BPG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BPH"
+msgstr "البولندية"
+
+msgid "ISO_639-3.BPJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BPO"
+msgstr "الموري"
+
+msgid "ISO_639-3.BPP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BPQ"
+msgstr "الوالون"
+
+msgid "ISO_639-3.BPU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BPV"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BQB"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BQH"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BQI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BQO"
+msgstr "الوالون"
+
+msgid "ISO_639-3.BQP"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BQQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BQR"
+msgstr "البورمية"
+
+msgid "ISO_639-3.BQS"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BQV"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BQX"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BQZ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BRE"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BRF"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.BRG"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BRH"
+msgstr "الموري"
+
+msgid "ISO_639-3.BRJ"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BRO"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BRS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BRT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BRU"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.BRV"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.BRW"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BRX"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.BRY"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BRZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSB"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSC"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BSE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSG"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSH"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.BSI"
+msgstr "الموري"
+
+msgid "ISO_639-3.BSJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSK"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BSN"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BSQ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BST"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BSU"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BSW"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BTA"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BTF"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BTI"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BTJ"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.BTR"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BTU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BTV"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BUA"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BUB"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BUC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BUG"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BUI"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BUK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BUL"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BUN"
+msgstr "العبرية"
+
+msgid "ISO_639-3.BUO"
+msgstr "التركية"
+
+msgid "ISO_639-3.BUP"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BUQ"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BUT"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BUW"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BVA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BVB"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BVC"
+msgstr "الصينية"
+
+msgid "ISO_639-3.BVH"
+msgstr "البورمية"
+
+msgid "ISO_639-3.BVJ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BVK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BVN"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BVO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BVP"
+msgstr "الصربية"
+
+msgid "ISO_639-3.BVQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BVR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BVT"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.BVU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BVV"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BVW"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.BVY"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.BVZ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BWG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.BWI"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BWM"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BWZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BXA"
+msgstr "الموري"
+
+msgid "ISO_639-3.BXC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BXG"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.BXM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.BXN"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BXO"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BXR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BXS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BXU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BXZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BYA"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BYF"
+msgstr "البريتون"
+
+msgid "ISO_639-3.BYH"
+msgstr "الموري"
+
+msgid "ISO_639-3.BYK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BYM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BYN"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BYQ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BYR"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BYS"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.BYW"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.BYZ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BZA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BZB"
+msgstr "الهندية"
+
+msgid "ISO_639-3.BZD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BZF"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.BZG"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BZI"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BZO"
+msgstr "الباسك"
+
+msgid "ISO_639-3.BZQ"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.BZR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BZT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.BZU"
+msgstr "البورمية"
+
+msgid "ISO_639-3.BZV"
+msgstr "الوالون"
+
+msgid "ISO_639-3.BZZ"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.CAC"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.CAE"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.CAF"
+msgstr "الموري"
+
+msgid "ISO_639-3.CAH"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CAJ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.CAK"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.CAL"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.CAN"
+msgstr "الموري"
+
+msgid "ISO_639-3.CAR"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.CAS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.CAT"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CBC"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CBD"
+msgstr "الموري"
+
+msgid "ISO_639-3.CBI"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CBK"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CBL"
+msgstr "الوالون"
+
+msgid "ISO_639-3.CBW"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CBY"
+msgstr "الموري"
+
+msgid "ISO_639-3.CCG"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.CCL"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.CCM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.CDA"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.CDE"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CDG"
+msgstr "الموري"
+
+msgid "ISO_639-3.CDI"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.CDO"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CDY"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.CDZ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.CEA"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.CEK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.CEN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CES"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CFD"
+msgstr "الموري"
+
+msgid "ISO_639-3.CFM"
+msgstr "الوالون"
+
+msgid "ISO_639-3.CHC"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CHE"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CHK"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CHM"
+msgstr "الروسية"
+
+msgid "ISO_639-3.CHX"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CIE"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CIK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.CIM"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.CIP"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.CIY"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.CJA"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.CJI"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CJK"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CJM"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.CJN"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.CJS"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.CJV"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CJY"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CKB"
+msgstr "الكردية"
+
+msgid "ISO_639-3.CKL"
+msgstr "الموري"
+
+msgid "ISO_639-3.CKN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CKT"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CKU"
+msgstr "الموري"
+
+msgid "ISO_639-3.CKV"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CLA"
+msgstr "العربية"
+
+msgid "ISO_639-3.CLE"
+msgstr "الوالون"
+
+msgid "ISO_639-3.CLJ"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CLL"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CLM"
+msgstr "الوالون"
+
+msgid "ISO_639-3.CLT"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CLU"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CMA"
+msgstr "الموري"
+
+msgid "ISO_639-3.CME"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.CMG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.CML"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.CMN"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.CMS"
+msgstr "الموري"
+
+msgid "ISO_639-3.CNG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.CNH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CNK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.CNL"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.CNO"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.CNW"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.CNX"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.COE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.COG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.COR"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.COS"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.COX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.COZ"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CPI"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CPN"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CPX"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CRA"
+msgstr "الموري"
+
+msgid "ISO_639-3.CRE"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.CRF"
+msgstr "التركية"
+
+msgid "ISO_639-3.CRR"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.CRX"
+msgstr "الموري"
+
+msgid "ISO_639-3.CRY"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.CSJ"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CST"
+msgstr "الكورية"
+
+msgid "ISO_639-3.CSV"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CSY"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.CTC"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.CTD"
+msgstr "الوالون"
+
+msgid "ISO_639-3.CTG"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.CTH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CTS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.CTU"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.CUH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CUI"
+msgstr "الموري"
+
+msgid "ISO_639-3.CUL"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.CUU"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.CUW"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CVG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.CWB"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.CWE"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.CYM"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.CZH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.CZK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.CZT"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.DAC"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.DAD"
+msgstr "الموري"
+
+msgid "ISO_639-3.DAG"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DAL"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.DAM"
+msgstr "الموري"
+
+msgid "ISO_639-3.DAN"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DAO"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.DAQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.DAR"
+msgstr "الموري"
+
+msgid "ISO_639-3.DAV"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.DAX"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DBA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.DBI"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.DBJ"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.DBM"
+msgstr "الموري"
+
+msgid "ISO_639-3.DBO"
+msgstr "الزولو"
+
+msgid "ISO_639-3.DBQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.DBW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.DCC"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.DEC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.DEH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.DER"
+msgstr "الموري"
+
+msgid "ISO_639-3.DES"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.DEU"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.DGG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.DGI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.DGK"
+msgstr "الموري"
+
+msgid "ISO_639-3.DGL"
+msgstr "الهندية"
+
+msgid "ISO_639-3.DGN"
+msgstr "الموري"
+
+msgid "ISO_639-3.DGX"
+msgstr "الموري"
+
+msgid "ISO_639-3.DGZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.DHG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.DHN"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DHO"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.DHR"
+msgstr "الموري"
+
+msgid "ISO_639-3.DHS"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DHU"
+msgstr "الموري"
+
+msgid "ISO_639-3.DHV"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.DHX"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.DIC"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.DID"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.DIF"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.DIJ"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DIK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.DIM"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.DIP"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.DIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.DIS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.DIT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.DIU"
+msgstr "التركية"
+
+msgid "ISO_639-3.DIV"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.DIW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.DJO"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.DJU"
+msgstr "الكورية"
+
+msgid "ISO_639-3.DKX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.DLG"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.DLK"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.DLM"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.DLN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.DML"
+msgstr "البولندية"
+
+msgid "ISO_639-3.DMM"
+msgstr "الموري"
+
+msgid "ISO_639-3.DMX"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.DNG"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.DNJ"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DNK"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.DNV"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.DNW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.DOH"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.DOK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.DOO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.DOR"
+msgstr "الموري"
+
+msgid "ISO_639-3.DOT"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DOX"
+msgstr "الروسية"
+
+msgid "ISO_639-3.DOZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.DRB"
+msgstr "الموري"
+
+msgid "ISO_639-3.DRC"
+msgstr "الهندية"
+
+msgid "ISO_639-3.DRD"
+msgstr "الموري"
+
+msgid "ISO_639-3.DRG"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.DRL"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.DRQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.DRS"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.DRY"
+msgstr "الموري"
+
+msgid "ISO_639-3.DSB"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.DSI"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DSO"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.DTA"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.DTY"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.DUO"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.DUP"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.DUR"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.DVA"
+msgstr "الزولو"
+
+msgid "ISO_639-3.DWA"
+msgstr "التركية"
+
+msgid "ISO_639-3.DWR"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.DWW"
+msgstr "الموري"
+
+msgid "ISO_639-3.DYA"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.DZA"
+msgstr "الزولو"
+
+msgid "ISO_639-3.DZG"
+msgstr "الموري"
+
+msgid "ISO_639-3.DZL"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.DZO"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.EAA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.EBK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ECR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.EGL"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.EIV"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.EKC"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.EKG"
+msgstr "الموري"
+
+msgid "ISO_639-3.EKK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.EKR"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.EKY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ELI"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.EMG"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.EMN"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.EMU"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ENA"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.ENB"
+msgstr "الموري"
+
+msgid "ISO_639-3.ENG"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.ENQ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.EPO"
+msgstr "الإسبرانتو"
+
+msgid "ISO_639-3.ERA"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.ERG"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.EST"
+msgstr "الإستونية"
+
+msgid "ISO_639-3.ESY"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ETT"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.EUS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.EYO"
+msgstr "العبرية"
+
+msgid "ISO_639-3.FAA"
+msgstr "الباسك"
+
+msgid "ISO_639-3.FAD"
+msgstr "الموري"
+
+msgid "ISO_639-3.FAF"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.FAH"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.FAJ"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.FAP"
+msgstr "البولندية"
+
+msgid "ISO_639-3.FAR"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.FAS"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.FAT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.FAX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.FAY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FAZ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FBL"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.FGR"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.FIL"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FIN"
+msgstr "الفنلندية"
+
+msgid "ISO_639-3.FIR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FKV"
+msgstr "الفنلندية"
+
+msgid "ISO_639-3.FLI"
+msgstr "البولندية"
+
+msgid "ISO_639-3.FLL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.FLY"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.FMU"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FNG"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.FNI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.FOM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.FOR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.FRA"
+msgstr "الفرنسية"
+
+msgid "ISO_639-3.FRC"
+msgstr "الفرنسية"
+
+msgid "ISO_639-3.FRK"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.FRP"
+msgstr "العربية"
+
+msgid "ISO_639-3.FRR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FRS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FRY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FUI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.FUR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.FUU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.GAB"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GAF"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GAH"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.GAI"
+msgstr "الموري"
+
+msgid "ISO_639-3.GAL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.GAN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.GAO"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.GAT"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.GBD"
+msgstr "الموري"
+
+msgid "ISO_639-3.GBF"
+msgstr "الهندية"
+
+msgid "ISO_639-3.GBJ"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.GBL"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.GBM"
+msgstr "الموري"
+
+msgid "ISO_639-3.GBY"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GCC"
+msgstr "الموري"
+
+msgid "ISO_639-3.GCD"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.GCE"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.GCN"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.GDI"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GDJ"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-3.GDK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GDL"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.GDN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.GDQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.GDT"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.GEA"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GEB"
+msgstr "التركية"
+
+msgid "ISO_639-3.GEG"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.GEI"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GEJ"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GEQ"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GEW"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GEX"
+msgstr "الكورية"
+
+msgid "ISO_639-3.GEZ"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GFT"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-3.GGE"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GGK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.GHR"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GHT"
+msgstr "الصينية"
+
+msgid "ISO_639-3.GIC"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.GIG"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GIL"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-3.GIQ"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GIR"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GIU"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.GIW"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GJM"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GJN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.GJR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GJU"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-3.GKE"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.GKN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.GLD"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.GLE"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.GLG"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.GLH"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.GLO"
+msgstr "الوالون"
+
+msgid "ISO_639-3.GMA"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.GMU"
+msgstr "الزولو"
+
+msgid "ISO_639-3.GMV"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GMX"
+msgstr "الموري"
+
+msgid "ISO_639-3.GNA"
+msgstr "الباسك"
+
+msgid "ISO_639-3.GNE"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GNG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.GNH"
+msgstr "العبرية"
+
+msgid "ISO_639-3.GNM"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GNQ"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GNT"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GNW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.GNZ"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GOA"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GOF"
+msgstr "الكورية"
+
+msgid "ISO_639-3.GOG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.GOQ"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GOZ"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GPN"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.GQU"
+msgstr "الباسك"
+
+msgid "ISO_639-3.GRB"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GRG"
+msgstr "الموري"
+
+msgid "ISO_639-3.GRI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.GRN"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GRO"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GRR"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.GRS"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GRT"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GRU"
+msgstr "الصينية"
+
+msgid "ISO_639-3.GRX"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GSP"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.GSW"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GUA"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.GUB"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-3.GUE"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GUJ"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-3.GUM"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GUW"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GVC"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GVE"
+msgstr "الهولندية"
+
+msgid "ISO_639-3.GVF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.GVL"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.GVM"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GVR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.GVS"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GVY"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GWA"
+msgstr "الموري"
+
+msgid "ISO_639-3.GWC"
+msgstr "الوالون"
+
+msgid "ISO_639-3.GWE"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GWF"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GWG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.GWR"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GWT"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-3.GWW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.GWX"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GYE"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.GYI"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.GYL"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.GYR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.GZI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.GZN"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.HAC"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.HAH"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.HAK"
+msgstr "الصينية"
+
+msgid "ISO_639-3.HAL"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.HAM"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HAN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.HAR"
+msgstr "الموري"
+
+msgid "ISO_639-3.HAS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.HAT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.HBN"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.HBO"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HBS"
+msgstr "الكرواتية"
+
+msgid "ISO_639-3.HEB"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HEH"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HER"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HGW"
+msgstr "الموري"
+
+msgid "ISO_639-3.HHR"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.HHY"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.HIA"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.HIB"
+msgstr "التركية"
+
+msgid "ISO_639-3.HIF"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HIG"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.HII"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HIN"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.HJI"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HKA"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.HKE"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HLA"
+msgstr "البولندية"
+
+msgid "ISO_639-3.HLB"
+msgstr "البولندية"
+
+msgid "ISO_639-3.HLT"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.HMJ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.HMO"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.HMT"
+msgstr "العربية"
+
+msgid "ISO_639-3.HMW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.HNI"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HNU"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.HOJ"
+msgstr "التركية"
+
+msgid "ISO_639-3.HOM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.HOR"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HOV"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.HOW"
+msgstr "الهندية"
+
+msgid "ISO_639-3.HRE"
+msgstr "العبرية"
+
+msgid "ISO_639-3.HRO"
+msgstr "التركية"
+
+msgid "ISO_639-3.HRV"
+msgstr "الكرواتية"
+
+msgid "ISO_639-3.HRW"
+msgstr "الموري"
+
+msgid "ISO_639-3.HRX"
+msgstr "الموري"
+
+msgid "ISO_639-3.HRZ"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.HSB"
+msgstr "الصربية"
+
+msgid "ISO_639-3.HSN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.HUD"
+msgstr "الزولو"
+
+msgid "ISO_639-3.HUF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.HUK"
+msgstr "الزولو"
+
+msgid "ISO_639-3.HUM"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.HUN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.HUS"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.HYE"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.IAI"
+msgstr "الموري"
+
+msgid "ISO_639-3.IAR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.IBL"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.IBY"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.IDB"
+msgstr "البرتغالية"
+
+msgid "ISO_639-3.IDC"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.IDR"
+msgstr "الهندية"
+
+msgid "ISO_639-3.IDS"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.IFU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.IGL"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.IGN"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.III"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.IJE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.IKL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.IKR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.IKS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ILB"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.ILI"
+msgstr "التركية"
+
+msgid "ISO_639-3.ILK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.ILM"
+msgstr "الروسية"
+
+msgid "ISO_639-3.IMA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.IMO"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.IMS"
+msgstr "الموري"
+
+msgid "ISO_639-3.INB"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.IND"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.INH"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.INN"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.IRU"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.IRX"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.ISA"
+msgstr "الموري"
+
+msgid "ISO_639-3.ISH"
+msgstr "الإستونية"
+
+msgid "ISO_639-3.ISL"
+msgstr "الآيسلندية"
+
+msgid "ISO_639-3.ISM"
+msgstr "الموري"
+
+msgid "ISO_639-3.ITA"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.ITD"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.ITK"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.ITR"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.ITV"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.ITY"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.IVB"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.IVV"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.IZH"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.JAC"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.JAF"
+msgstr "الموري"
+
+msgid "ISO_639-3.JAN"
+msgstr "العربية"
+
+msgid "ISO_639-3.JAQ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.JAT"
+msgstr "الموري"
+
+msgid "ISO_639-3.JAU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.JAV"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.JAY"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.JBE"
+msgstr "العربية"
+
+msgid "ISO_639-3.JBJ"
+msgstr "العربية"
+
+msgid "ISO_639-3.JBK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.JCT"
+msgstr "الكورية"
+
+msgid "ISO_639-3.JDG"
+msgstr "الموري"
+
+msgid "ISO_639-3.JDT"
+msgstr "العربية"
+
+msgid "ISO_639-3.JEB"
+msgstr "العبرية"
+
+msgid "ISO_639-3.JER"
+msgstr "العبرية"
+
+msgid "ISO_639-3.JGE"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.JHI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.JIV"
+msgstr "الكورية"
+
+msgid "ISO_639-3.JKR"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.JKU"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.JLE"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.JMB"
+msgstr "الزولو"
+
+msgid "ISO_639-3.JMN"
+msgstr "الكردية"
+
+msgid "ISO_639-3.JNI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.JNS"
+msgstr "الموري"
+
+msgid "ISO_639-3.JOW"
+msgstr "الزولو"
+
+msgid "ISO_639-3.JPN"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.JPR"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.JRA"
+msgstr "الموري"
+
+msgid "ISO_639-3.JRB"
+msgstr "العربية"
+
+msgid "ISO_639-3.JUK"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.JUL"
+msgstr "التركية"
+
+msgid "ISO_639-3.JUT"
+msgstr "الكردية"
+
+msgid "ISO_639-3.JVD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.JVN"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.JYE"
+msgstr "العربية"
+
+msgid "ISO_639-3.KAE"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.KAF"
+msgstr "الباسك"
+
+msgid "ISO_639-3.KAI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KAK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.KAT"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.KAU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KBA"
+msgstr "الوالون"
+
+msgid "ISO_639-3.KBE"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KBI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.KBJ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KBL"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KBP"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KBS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KBT"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.KBU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KBV"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.KBW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KBY"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KBZ"
+msgstr "الهولندية"
+
+msgid "ISO_639-3.KCA"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.KCE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KCF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KCH"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KCI"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.KCJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KCP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KCQ"
+msgstr "الوالون"
+
+msgid "ISO_639-3.KCR"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.KCS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KCT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.KCW"
+msgstr "الموري"
+
+msgid "ISO_639-3.KCY"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KCZ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KDC"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KDE"
+msgstr "المالطية"
+
+msgid "ISO_639-3.KDF"
+msgstr "الموري"
+
+msgid "ISO_639-3.KDG"
+msgstr "الصربية"
+
+msgid "ISO_639-3.KDJ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.KDR"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KDW"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KDY"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KEA"
+msgstr "الصربية"
+
+msgid "ISO_639-3.KED"
+msgstr "العبرية"
+
+msgid "ISO_639-3.KEG"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.KEH"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KEJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KEN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KEQ"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KER"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KEZ"
+msgstr "الصينية"
+
+msgid "ISO_639-3.KFA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KFB"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KFD"
+msgstr "الموري"
+
+msgid "ISO_639-3.KFE"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.KFF"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KFG"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFH"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KFN"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KFR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KFS"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KFT"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFV"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KFW"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.KFX"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KFY"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KGB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KGD"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.KGE"
+msgstr "الصربية"
+
+msgid "ISO_639-3.KGL"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.KGN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KGO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KGP"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.KGV"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KGW"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KHA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KHE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KHF"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KHG"
+msgstr "التبتية"
+
+msgid "ISO_639-3.KHJ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KHK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KHL"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KHN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.KHO"
+msgstr "الصينية"
+
+msgid "ISO_639-3.KHP"
+msgstr "الموري"
+
+msgid "ISO_639-3.KHR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KHS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.KHT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KHV"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KHX"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KIB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KID"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.KIE"
+msgstr "التبتية"
+
+msgid "ISO_639-3.KIH"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KIL"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KIM"
+msgstr "الموري"
+
+msgid "ISO_639-3.KIQ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KIS"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KIW"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KIX"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.KJA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.KJC"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.KJE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KJG"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KJO"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KJQ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KJR"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.KKI"
+msgstr "الزولو"
+
+msgid "ISO_639-3.KKK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KKL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KKM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KKO"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KKQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KKT"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KKU"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.KKV"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KKX"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KKZ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.KLG"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.KLJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KLL"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.KLM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KLN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KLP"
+msgstr "الباسك"
+
+msgid "ISO_639-3.KLR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KLU"
+msgstr "الوالون"
+
+msgid "ISO_639-3.KLW"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.KLY"
+msgstr "الوالون"
+
+msgid "ISO_639-3.KMA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KMD"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.KMH"
+msgstr "الوالون"
+
+msgid "ISO_639-3.KMK"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KML"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.KMR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KMU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KMY"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.KNC"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KND"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KNE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KNF"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.KNG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KNI"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KNJ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KNK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KOC"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.KOF"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KOG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.KOK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KOO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KOR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KOS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KOT"
+msgstr "الموري"
+
+msgid "ISO_639-3.KOU"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KOZ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KPD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KPK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KPL"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.KPR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KPS"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KPT"
+msgstr "الموري"
+
+msgid "ISO_639-3.KPY"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KQB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KQG"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KQM"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.KQO"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KQQ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KQR"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.KQU"
+msgstr "الصربية"
+
+msgid "ISO_639-3.KQY"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KQZ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KRA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KRB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KRE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KRH"
+msgstr "العربية"
+
+msgid "ISO_639-3.KRI"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KRK"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.KRL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KRM"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KRT"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KRU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KRV"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KRW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KRX"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KRZ"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.KSD"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KSE"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KSF"
+msgstr "الباسك"
+
+msgid "ISO_639-3.KSI"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KSJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KSK"
+msgstr "الباسك"
+
+msgid "ISO_639-3.KSL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.KSO"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KSR"
+msgstr "البريتون"
+
+msgid "ISO_639-3.KSV"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KSX"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KSZ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KTD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KTF"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.KTH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KTK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KTM"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KTV"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KUC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KUF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KUH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KUJ"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.KUO"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KUQ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KUR"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KUV"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KVB"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KVC"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KVD"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.KVI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KVL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KVP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KVV"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KVW"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.KWD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KWE"
+msgstr "الصربية"
+
+msgid "ISO_639-3.KWF"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KWH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KWN"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.KWP"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.KWR"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.KWW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KWY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KWZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KXA"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KXC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.KXD"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.KXN"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KXS"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KXV"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KXW"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KXZ"
+msgstr "العبرية"
+
+msgid "ISO_639-3.KYD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KYH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KYJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KYL"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.KYM"
+msgstr "الموري"
+
+msgid "ISO_639-3.KYO"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KYP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KYQ"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.KYS"
+msgstr "العربية"
+
+msgid "ISO_639-3.KYU"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KZA"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.KZD"
+msgstr "الموري"
+
+msgid "ISO_639-3.KZE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KZG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KZL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.KZM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KZN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KZO"
+msgstr "الكردية"
+
+msgid "ISO_639-3.KZQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.KZR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.KZX"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.LAB"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.LAD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LAG"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LAL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.LAR"
+msgstr "الموري"
+
+msgid "ISO_639-3.LAT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LAV"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LAY"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LBA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LBC"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LBF"
+msgstr "الفنلندية"
+
+msgid "ISO_639-3.LBI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LBJ"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LBK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.LBN"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LBO"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LBT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LBW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LBZ"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LCH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LCM"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.LCP"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.LDD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LDI"
+msgstr "الموري"
+
+msgid "ISO_639-3.LDL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LDM"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LDN"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LEJ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LEM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.LES"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.LEX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LEZ"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.LGG"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.LGL"
+msgstr "الوالون"
+
+msgid "ISO_639-3.LGQ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.LGR"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LGT"
+msgstr "البولندية"
+
+msgid "ISO_639-3.LHH"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.LHN"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LHT"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.LIF"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LIJ"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LIM"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LIR"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.LIT"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LIU"
+msgstr "الموري"
+
+msgid "ISO_639-3.LIW"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.LJE"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.LJI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LJL"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LJP"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LJW"
+msgstr "العربية"
+
+msgid "ISO_639-3.LKB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LKC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LKD"
+msgstr "المالطية"
+
+msgid "ISO_639-3.LKE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LKI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LKM"
+msgstr "الوالون"
+
+msgid "ISO_639-3.LKN"
+msgstr "المالطية"
+
+msgid "ISO_639-3.LKO"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LKS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LKT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LKU"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.LLD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LLF"
+msgstr "التركية"
+
+msgid "ISO_639-3.LLH"
+msgstr "الباسك"
+
+msgid "ISO_639-3.LLM"
+msgstr "الموري"
+
+msgid "ISO_639-3.LLO"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.LLX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LMB"
+msgstr "الموري"
+
+msgid "ISO_639-3.LMC"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LMG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.LML"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LMN"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LMP"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LMZ"
+msgstr "البورمية"
+
+msgid "ISO_639-3.LNB"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.LNH"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LNI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LNS"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LNU"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.LNW"
+msgstr "البولندية"
+
+msgid "ISO_639-3.LNZ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LOC"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.LOE"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.LOF"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LOG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LOH"
+msgstr "الموري"
+
+msgid "ISO_639-3.LOL"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LPO"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LRA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LRC"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LRE"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LRG"
+msgstr "الموري"
+
+msgid "ISO_639-3.LRI"
+msgstr "الموري"
+
+msgid "ISO_639-3.LRK"
+msgstr "الموري"
+
+msgid "ISO_639-3.LRL"
+msgstr "الموري"
+
+msgid "ISO_639-3.LRM"
+msgstr "العربية"
+
+msgid "ISO_639-3.LRN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LRO"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.LRZ"
+msgstr "الصربية"
+
+msgid "ISO_639-3.LSD"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LSH"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.LSI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LSM"
+msgstr "الوالون"
+
+msgid "ISO_639-3.LSS"
+msgstr "الموري"
+
+msgid "ISO_639-3.LTG"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.LTI"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.LTN"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LTO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.LTS"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.LTU"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LUD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LUE"
+msgstr "الزولو"
+
+msgid "ISO_639-3.LUF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LUJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LUM"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LUS"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.LUV"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LVS"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.LWG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.LWH"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LWM"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.LYG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.LYN"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.LZH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.LZN"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.MAD"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MAF"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MAG"
+msgstr "الموري"
+
+msgid "ISO_639-3.MAH"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MAI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MAM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MAR"
+msgstr "الموري"
+
+msgid "ISO_639-3.MAS"
+msgstr "الموري"
+
+msgid "ISO_639-3.MAW"
+msgstr "الموري"
+
+msgid "ISO_639-3.MAZ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.MBC"
+msgstr "الموري"
+
+msgid "ISO_639-3.MBE"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MBF"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MBK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MBP"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MBQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MBS"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MBW"
+msgstr "الموري"
+
+msgid "ISO_639-3.MBY"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MCA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MCH"
+msgstr "الموري"
+
+msgid "ISO_639-3.MCI"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MCJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MCM"
+msgstr "البرتغالية البرازيلية"
+
+msgid "ISO_639-3.MCN"
+msgstr "الموري"
+
+msgid "ISO_639-3.MCP"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MCS"
+msgstr "الموري"
+
+msgid "ISO_639-3.MCT"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MCZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MDB"
+msgstr "الموري"
+
+msgid "ISO_639-3.MDG"
+msgstr "الموري"
+
+msgid "ISO_639-3.MDH"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MDM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MDN"
+msgstr "الموري"
+
+msgid "ISO_639-3.MDP"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MDU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MDW"
+msgstr "الموري"
+
+msgid "ISO_639-3.MDX"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.MEC"
+msgstr "الموري"
+
+msgid "ISO_639-3.MED"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MEL"
+msgstr "الكردية"
+
+msgid "ISO_639-3.MEM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MES"
+msgstr "الموري"
+
+msgid "ISO_639-3.MET"
+msgstr "الموري"
+
+msgid "ISO_639-3.MEV"
+msgstr "الموري"
+
+msgid "ISO_639-3.MEW"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MFA"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.MFB"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.MFE"
+msgstr "الموري"
+
+msgid "ISO_639-3.MFF"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.MFH"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.MFI"
+msgstr "الوالون"
+
+msgid "ISO_639-3.MFK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.MFL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.MFP"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MFR"
+msgstr "الموري"
+
+msgid "ISO_639-3.MFT"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MFY"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MFZ"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.MGB"
+msgstr "الموري"
+
+msgid "ISO_639-3.MGD"
+msgstr "الموري"
+
+msgid "ISO_639-3.MGE"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MGF"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MGG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MGJ"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.MGK"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MGN"
+msgstr "الموري"
+
+msgid "ISO_639-3.MGP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.MGQ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MGT"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MGU"
+msgstr "الموري"
+
+msgid "ISO_639-3.MGV"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MHA"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.MHB"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MHC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MHE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.MHF"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MHG"
+msgstr "الموري"
+
+msgid "ISO_639-3.MHI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MHJ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MHK"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.MHP"
+msgstr "الصينية"
+
+msgid "ISO_639-3.MHQ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MHS"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.MHX"
+msgstr "الموري"
+
+msgid "ISO_639-3.MHY"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MIA"
+msgstr "الموري"
+
+msgid "ISO_639-3.MIC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MID"
+msgstr "الموري"
+
+msgid "ISO_639-3.MIJ"
+msgstr "العربية"
+
+msgid "ISO_639-3.MIK"
+msgstr "الموري"
+
+msgid "ISO_639-3.MJB"
+msgstr "الموري"
+
+msgid "ISO_639-3.MJJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MJL"
+msgstr "الموري"
+
+msgid "ISO_639-3.MJQ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MJR"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MJV"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MJW"
+msgstr "الكردية"
+
+msgid "ISO_639-3.MJX"
+msgstr "الموري"
+
+msgid "ISO_639-3.MJY"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MJZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MKA"
+msgstr "العبرية"
+
+msgid "ISO_639-3.MKD"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MKE"
+msgstr "الموري"
+
+msgid "ISO_639-3.MKI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.MKJ"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MKR"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MKV"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MKY"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.MKZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MLA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MLF"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MLH"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.MLK"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.MLL"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MLM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MLN"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MLP"
+msgstr "الموري"
+
+msgid "ISO_639-3.MLQ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MLS"
+msgstr "الموري"
+
+msgid "ISO_639-3.MLT"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MLV"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MLX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MLZ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MMA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MMD"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MME"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MMI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MMJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MMM"
+msgstr "الموري"
+
+msgid "ISO_639-3.MMO"
+msgstr "الموري"
+
+msgid "ISO_639-3.MMP"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.MMQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MMR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MMU"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MMV"
+msgstr "الموري"
+
+msgid "ISO_639-3.MMX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MNA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MNI"
+msgstr "الكردية"
+
+msgid "ISO_639-3.MNL"
+msgstr "التركية"
+
+msgid "ISO_639-3.MNM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MNP"
+msgstr "الصينية"
+
+msgid "ISO_639-3.MNQ"
+msgstr "التركية"
+
+msgid "ISO_639-3.MNS"
+msgstr "الموري"
+
+msgid "ISO_639-3.MNW"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MNZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MOD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MOE"
+msgstr "الموري"
+
+msgid "ISO_639-3.MOG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MOJ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOK"
+msgstr "الموري"
+
+msgid "ISO_639-3.MOM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MON"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOR"
+msgstr "الموري"
+
+msgid "ISO_639-3.MOS"
+msgstr "الموري"
+
+msgid "ISO_639-3.MOU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOW"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOX"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MOZ"
+msgstr "الزولو"
+
+msgid "ISO_639-3.MPA"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MPC"
+msgstr "الموري"
+
+msgid "ISO_639-3.MPD"
+msgstr "الصينية"
+
+msgid "ISO_639-3.MPG"
+msgstr "الموري"
+
+msgid "ISO_639-3.MPH"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MPI"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MPN"
+msgstr "الهندية"
+
+msgid "ISO_639-3.MPQ"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MPT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MPV"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.MPW"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MPY"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQA"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.MQC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MQE"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQP"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MQR"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MQS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MQU"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQV"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQW"
+msgstr "الموري"
+
+msgid "ISO_639-3.MQY"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRA"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRB"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRC"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRD"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MRG"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRH"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRJ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MRR"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.MRX"
+msgstr "الموري"
+
+msgid "ISO_639-3.MRY"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MRZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MSC"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MSE"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MSG"
+msgstr "الموري"
+
+msgid "ISO_639-3.MSH"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MSK"
+msgstr "الموري"
+
+msgid "ISO_639-3.MSL"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MSS"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MSV"
+msgstr "الموري"
+
+msgid "ISO_639-3.MSY"
+msgstr "العربية"
+
+msgid "ISO_639-3.MSZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MTD"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MTL"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MTM"
+msgstr "الموري"
+
+msgid "ISO_639-3.MTN"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.MTQ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MTR"
+msgstr "الموري"
+
+msgid "ISO_639-3.MTS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.MTY"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.MUC"
+msgstr "الزولو"
+
+msgid "ISO_639-3.MUI"
+msgstr "الموري"
+
+msgid "ISO_639-3.MUJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MUK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MUM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MUO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.MUP"
+msgstr "البولندية"
+
+msgid "ISO_639-3.MUR"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MUS"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.MUT"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MUX"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MUZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MVD"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVF"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MVO"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVP"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVR"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVS"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MVU"
+msgstr "الموري"
+
+msgid "ISO_639-3.MVZ"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.MWI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MWK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.MWL"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MWQ"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.MWR"
+msgstr "الموري"
+
+msgid "ISO_639-3.MWT"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MWV"
+msgstr "الموري"
+
+msgid "ISO_639-3.MWX"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MWY"
+msgstr "الموري"
+
+msgid "ISO_639-3.MWZ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MXD"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MXF"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MXG"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MXI"
+msgstr "العربية"
+
+msgid "ISO_639-3.MXK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MXN"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.MXR"
+msgstr "الروسية"
+
+msgid "ISO_639-3.MXW"
+msgstr "الوالون"
+
+msgid "ISO_639-3.MXX"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.MYA"
+msgstr "البورمية"
+
+msgid "ISO_639-3.MYB"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MYG"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MYH"
+msgstr "الموري"
+
+msgid "ISO_639-3.MYI"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.MYJ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MYL"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.MYS"
+msgstr "المالطية"
+
+msgid "ISO_639-3.MYX"
+msgstr "الموري"
+
+msgid "ISO_639-3.MYY"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.MZD"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MZE"
+msgstr "الموري"
+
+msgid "ISO_639-3.MZJ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MZP"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.MZS"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.MZT"
+msgstr "الموري"
+
+msgid "ISO_639-3.MZV"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.MZX"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.NAA"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.NAJ"
+msgstr "الزولو"
+
+msgid "ISO_639-3.NAL"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NAN"
+msgstr "الصينية"
+
+msgid "ISO_639-3.NAW"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NAX"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NBB"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NBC"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NBH"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NBJ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NBN"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NBP"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NBU"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NBY"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NCB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NCC"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.NCE"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.NCF"
+msgstr "سوذو الشمالية"
+
+msgid "ISO_639-3.NCH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NDA"
+msgstr "الباسك"
+
+msgid "ISO_639-3.NDC"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDF"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.NDH"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NDM"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDP"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDR"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDS"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.NDT"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDX"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NDZ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NEF"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-3.NEG"
+msgstr "النرويجية"
+
+msgid "ISO_639-3.NEM"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NEP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NEQ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NER"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.NES"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NEU"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NEW"
+msgstr "الموري"
+
+msgid "ISO_639-3.NFD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NGJ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NGO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NGP"
+msgstr "الزولو"
+
+msgid "ISO_639-3.NGX"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NGY"
+msgstr "التبتية"
+
+msgid "ISO_639-3.NHA"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NHB"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.NHH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NHO"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NIB"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NID"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NIE"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NIJ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NIO"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.NIQ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NIR"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.NIX"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.NIY"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NIZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NJI"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.NJM"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.NJN"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NJZ"
+msgstr "التركية"
+
+msgid "ISO_639-3.NKA"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NKB"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NKC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NKD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NKG"
+msgstr "النرويجية"
+
+msgid "ISO_639-3.NKI"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NKJ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NKO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NKU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NKZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.NLC"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.NLD"
+msgstr "الهولندية"
+
+msgid "ISO_639-3.NLG"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.NLI"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.NLJ"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NLL"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NLQ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NLW"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.NLX"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NLZ"
+msgstr "البولندية"
+
+msgid "ISO_639-3.NMA"
+msgstr "العربية"
+
+msgid "ISO_639-3.NMB"
+msgstr "الباسك"
+
+msgid "ISO_639-3.NMC"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NMF"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.NMG"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NML"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NMR"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NMV"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NMW"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NNF"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NNG"
+msgstr "الموري"
+
+msgid "ISO_639-3.NNM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.NNO"
+msgstr "النرويجية (نينورسك)"
+
+msgid "ISO_639-3.NNY"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NOB"
+msgstr "النرويجية (بوكماال)"
+
+msgid "ISO_639-3.NOD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NOF"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.NOG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NOI"
+msgstr "التركية"
+
+msgid "ISO_639-3.NOJ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NOL"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NON"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.NOQ"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NOR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.NOZ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NPG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NPI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NPN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NPS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.NQM"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NQQ"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.NQY"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NRB"
+msgstr "الموري"
+
+msgid "ISO_639-3.NRC"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NRN"
+msgstr "النرويجية"
+
+msgid "ISO_639-3.NRR"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NRT"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.NRU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.NRZ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.NSA"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NSC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NSE"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NSF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.NSG"
+msgstr "الباسك"
+
+msgid "ISO_639-3.NSK"
+msgstr "الموري"
+
+msgid "ISO_639-3.NSN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.NSS"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NSV"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.NSX"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NSY"
+msgstr "الباسك"
+
+msgid "ISO_639-3.NTD"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.NTG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NTX"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.NTY"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.NUA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.NUD"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NUG"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.NUH"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NUN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NUR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.NUX"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.NVH"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.NWR"
+msgstr "الموري"
+
+msgid "ISO_639-3.NXI"
+msgstr "الكردية"
+
+msgid "ISO_639-3.NXM"
+msgstr "الصربية"
+
+msgid "ISO_639-3.NXO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NXQ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NXX"
+msgstr "الموري"
+
+msgid "ISO_639-3.NYA"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NYC"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.NYF"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.NYH"
+msgstr "التركية"
+
+msgid "ISO_639-3.NYJ"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.NYQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.NYR"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.NYS"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.OAR"
+msgstr "العربية"
+
+msgid "ISO_639-3.OBR"
+msgstr "البورمية"
+
+msgid "ISO_639-3.OBT"
+msgstr "البريتون"
+
+msgid "ISO_639-3.OCA"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.OCH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.OCO"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-3.ODT"
+msgstr "الهولندية"
+
+msgid "ISO_639-3.OFS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.OGE"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.OGO"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.OHU"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.OIA"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.OJB"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.OJP"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.OJW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.OKD"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.OKK"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.OKL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.OKR"
+msgstr "التركية"
+
+msgid "ISO_639-3.OKV"
+msgstr "الكرواتية"
+
+msgid "ISO_639-3.OLD"
+msgstr "الموري"
+
+msgid "ISO_639-3.OLR"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.OLT"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.OLU"
+msgstr "الزولو"
+
+msgid "ISO_639-3.OMN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.OMP"
+msgstr "الكردية"
+
+msgid "ISO_639-3.OMR"
+msgstr "الموري"
+
+msgid "ISO_639-3.ONB"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.ONP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ONR"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.ONW"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.OOS"
+msgstr "الروسية"
+
+msgid "ISO_639-3.ORC"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.ORI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ORT"
+msgstr "التركية"
+
+msgid "ISO_639-3.ORV"
+msgstr "الروسية"
+
+msgid "ISO_639-3.OSC"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.OSI"
+msgstr "الروسية"
+
+msgid "ISO_639-3.OSP"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.OSS"
+msgstr "الروسية"
+
+msgid "ISO_639-3.OSX"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.OTB"
+msgstr "التبتية"
+
+msgid "ISO_639-3.OTD"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.OTK"
+msgstr "التركية"
+
+msgid "ISO_639-3.OTY"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.OUI"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.OWL"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.OYM"
+msgstr "الوالون"
+
+msgid "ISO_639-3.PAG"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PAH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PAO"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PAR"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PAS"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PAT"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.PAY"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.PBI"
+msgstr "الموري"
+
+msgid "ISO_639-3.PBN"
+msgstr "الباسك"
+
+msgid "ISO_639-3.PBO"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PBR"
+msgstr "الموري"
+
+msgid "ISO_639-3.PCF"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PCG"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PCH"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.PCI"
+msgstr "الموري"
+
+msgid "ISO_639-3.PCJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PCK"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.PCL"
+msgstr "الموري"
+
+msgid "ISO_639-3.PDI"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PDN"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.PDU"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PEA"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.PEE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PEF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.PEG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.PEH"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.PEJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PEK"
+msgstr "الفرنسية"
+
+msgid "ISO_639-3.PEL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PES"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.PFL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PGG"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PGI"
+msgstr "التركية"
+
+msgid "ISO_639-3.PGN"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.PGS"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PGZ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PHH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.PHN"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.PHQ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.PHT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PHU"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.PHV"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PIC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PII"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PIM"
+msgstr "الكرواتية"
+
+msgid "ISO_639-3.PIP"
+msgstr "العبرية"
+
+msgid "ISO_639-3.PIV"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PKT"
+msgstr "المالطية"
+
+msgid "ISO_639-3.PLA"
+msgstr "الموري"
+
+msgid "ISO_639-3.PLD"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLE"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLH"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLI"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLJ"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLP"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLQ"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLU"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PLZ"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.PMB"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PMD"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PMK"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PMS"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-3.PMY"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.PNB"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.PNC"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PNE"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.PNG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.PNJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PNL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PNP"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PNR"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PNS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PNT"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.PNX"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.PNY"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.POC"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.POL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PON"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.POR"
+msgstr "البرتغالية"
+
+msgid "ISO_639-3.POX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.PPE"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PPI"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PPQ"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.PPT"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PRB"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.PRC"
+msgstr "الموري"
+
+msgid "ISO_639-3.PRF"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PRG"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.PRI"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PRM"
+msgstr "التركية"
+
+msgid "ISO_639-3.PRP"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PRR"
+msgstr "الكردية"
+
+msgid "ISO_639-3.PRT"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PRU"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.PRW"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.PSH"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.PSI"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.PSN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PSQ"
+msgstr "البولندية"
+
+msgid "ISO_639-3.PTN"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.PTR"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PTU"
+msgstr "الباسك"
+
+msgid "ISO_639-3.PTY"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.PUP"
+msgstr "الزولو"
+
+msgid "ISO_639-3.PUT"
+msgstr "الهولندية"
+
+msgid "ISO_639-3.PUW"
+msgstr "البرتغالية"
+
+msgid "ISO_639-3.PUX"
+msgstr "الكورية"
+
+msgid "ISO_639-3.PWA"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PWB"
+msgstr "الموري"
+
+msgid "ISO_639-3.PWN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.PWO"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.PWR"
+msgstr "الموري"
+
+msgid "ISO_639-3.PWW"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.PZN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.QUC"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.QXQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.QYP"
+msgstr "الموري"
+
+msgid "ISO_639-3.RAA"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.RAC"
+msgstr "الباسك"
+
+msgid "ISO_639-3.RAF"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.RAG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.RAL"
+msgstr "المالطية"
+
+msgid "ISO_639-3.RAM"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.RAN"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RAQ"
+msgstr "الوالون"
+
+msgid "ISO_639-3.RAR"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RAS"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.RAX"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.REI"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.REN"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.RES"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.RGA"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RGN"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RHG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RHP"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.RIA"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.RJG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RJI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.RKI"
+msgstr "الصينية"
+
+msgid "ISO_639-3.RKM"
+msgstr "الموري"
+
+msgid "ISO_639-3.RKT"
+msgstr "الكردية"
+
+msgid "ISO_639-3.RKW"
+msgstr "العربية"
+
+msgid "ISO_639-3.RMA"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMB"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMG"
+msgstr "النرويجية"
+
+msgid "ISO_639-3.RMH"
+msgstr "التركية"
+
+msgid "ISO_639-3.RMI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.RMK"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RML"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMO"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMT"
+msgstr "الموري"
+
+msgid "ISO_639-3.RMU"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMV"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMW"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMX"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMY"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RMZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.RNG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RNL"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RNN"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RNP"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.RNR"
+msgstr "الموري"
+
+msgid "ISO_639-3.ROD"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.ROE"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.ROG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ROH"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.ROL"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.ROM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RON"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.ROR"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.RPT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.RRI"
+msgstr "التركية"
+
+msgid "ISO_639-3.RSB"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RSM"
+msgstr "الكورية"
+
+msgid "ISO_639-3.RTC"
+msgstr "الصينية"
+
+msgid "ISO_639-3.RTH"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.RTM"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RTS"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.RUC"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.RUE"
+msgstr "الروسية"
+
+msgid "ISO_639-3.RUG"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RUK"
+msgstr "الصينية"
+
+msgid "ISO_639-3.RUO"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RUP"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RUQ"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RUS"
+msgstr "الروسية"
+
+msgid "ISO_639-3.RUZ"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.RWO"
+msgstr "الموري"
+
+msgid "ISO_639-3.RWR"
+msgstr "الموري"
+
+msgid "ISO_639-3.RXD"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.RXW"
+msgstr "الموري"
+
+msgid "ISO_639-3.SAB"
+msgstr "الصينية"
+
+msgid "ISO_639-3.SAC"
+msgstr "الموري"
+
+msgid "ISO_639-3.SAE"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SAK"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SAM"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SAO"
+msgstr "المالطية"
+
+msgid "ISO_639-3.SAU"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SAX"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SAY"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SBE"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.SBL"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SBM"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.SBS"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SBV"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SBX"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SBY"
+msgstr "البولندية"
+
+msgid "ISO_639-3.SCE"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SCH"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SCK"
+msgstr "الموري"
+
+msgid "ISO_639-3.SCL"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SCN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SCO"
+msgstr "سوذو الشمالية"
+
+msgid "ISO_639-3.SCV"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SCW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SCX"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SDB"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SDC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SDF"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SDH"
+msgstr "الكردية"
+
+msgid "ISO_639-3.SDK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.SDN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SDR"
+msgstr "الموري"
+
+msgid "ISO_639-3.SDU"
+msgstr "الاردية"
+
+msgid "ISO_639-3.SED"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SEH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SEI"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SEK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.SEO"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SER"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SET"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SEZ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SGB"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.SGC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SGD"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SGE"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SGK"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.SGM"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SGR"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SGS"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.SGU"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SGY"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHC"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SHE"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHJ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHL"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHO"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHQ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SHR"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SHT"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SHU"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SHV"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SHW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SHY"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SIB"
+msgstr "العبرية"
+
+msgid "ISO_639-3.SIH"
+msgstr "التركية"
+
+msgid "ISO_639-3.SIK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SIN"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-3.SIQ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.SIU"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SIV"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SIW"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SIX"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SIY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SJL"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.SJN"
+msgstr "الهندية"
+
+msgid "ISO_639-3.SJP"
+msgstr "الكردية"
+
+msgid "ISO_639-3.SJW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SKB"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SKC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SKG"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SKH"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SKI"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SKK"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SKM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SKQ"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SKR"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SKS"
+msgstr "الموري"
+
+msgid "ISO_639-3.SKY"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.SLE"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SLI"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.SLK"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SLN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SLR"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SLT"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SLU"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.SLV"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SLZ"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SMB"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SME"
+msgstr "الكورية"
+
+msgid "ISO_639-3.SMH"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SMK"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SMM"
+msgstr "الموري"
+
+msgid "ISO_639-3.SMN"
+msgstr "الهندية"
+
+msgid "ISO_639-3.SMP"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SMQ"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SMU"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.SMY"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SNA"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SNF"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.SNH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SNK"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SNL"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SNN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SNO"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.SNP"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.SNR"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SNU"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.SNV"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SOA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SOD"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SOG"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.SOH"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.SOI"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SOJ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SOL"
+msgstr "سوذو الشمالية"
+
+msgid "ISO_639-3.SOO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SOP"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SOQ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.SOR"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SOS"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.SOW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SOX"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SOZ"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.SPA"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.SPB"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.SPG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SPI"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SPK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SPS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.SPU"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.SPV"
+msgstr "الكردية"
+
+msgid "ISO_639-3.SQH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SQI"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.SQM"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SQR"
+msgstr "العربية"
+
+msgid "ISO_639-3.SQU"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.SRA"
+msgstr "الموري"
+
+msgid "ISO_639-3.SRB"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SRC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SRD"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SRE"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SRF"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.SRH"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SRI"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SRN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SRO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.SRP"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SRS"
+msgstr "الموري"
+
+msgid "ISO_639-3.SRT"
+msgstr "الكردية"
+
+msgid "ISO_639-3.SRW"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SRY"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SSD"
+msgstr "التركية"
+
+msgid "ISO_639-3.SSE"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.SSF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SSG"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SSH"
+msgstr "العربية"
+
+msgid "ISO_639-3.SSI"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.SSJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.SSK"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SSL"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SSN"
+msgstr "الوالون"
+
+msgid "ISO_639-3.SSQ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SST"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.SSU"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.SSY"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.STB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.STD"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.STG"
+msgstr "التبتية"
+
+msgid "ISO_639-3.STH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.STK"
+msgstr "العربية"
+
+msgid "ISO_639-3.STM"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.STO"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.SUC"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SUE"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SUQ"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SUX"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SVA"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SVE"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SVX"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SWE"
+msgstr "السويدية"
+
+msgid "ISO_639-3.SWF"
+msgstr "العبرية"
+
+msgid "ISO_639-3.SWG"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SWJ"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SWK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SWM"
+msgstr "الباسك"
+
+msgid "ISO_639-3.SWO"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SWP"
+msgstr "الزولو"
+
+msgid "ISO_639-3.SWQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.SWS"
+msgstr "بلاروسي"
+
+msgid "ISO_639-3.SWT"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.SWW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SXC"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SXE"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.SXK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.SXL"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SXM"
+msgstr "الكورية"
+
+msgid "ISO_639-3.SXN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.SXS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.SYA"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.SYB"
+msgstr "الكورية"
+
+msgid "ISO_639-3.SYM"
+msgstr "الوالون"
+
+msgid "ISO_639-3.SYR"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SYX"
+msgstr "الصربية"
+
+msgid "ISO_639-3.SZL"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.SZN"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-3.SZW"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.TAA"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.TAD"
+msgstr "المالطية"
+
+msgid "ISO_639-3.TAE"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TAG"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TAH"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TAK"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TAL"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TAM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TAN"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TAO"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TAU"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.TAW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TAX"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TBA"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.TBC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TBE"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TBG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.TBI"
+msgstr "الوالون"
+
+msgid "ISO_639-3.TBJ"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TBO"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.TBX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TCC"
+msgstr "الموري"
+
+msgid "ISO_639-3.TCD"
+msgstr "الصينية"
+
+msgid "ISO_639-3.TCG"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TCP"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.TCQ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TCY"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TCZ"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.TDA"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TDB"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.TDG"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TDH"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TDI"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TDJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TDM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TDQ"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TEC"
+msgstr "التركية"
+
+msgid "ISO_639-3.TEH"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.TEK"
+msgstr "التركية"
+
+msgid "ISO_639-3.TEY"
+msgstr "التركية"
+
+msgid "ISO_639-3.TFN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.TFR"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TGB"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.TGC"
+msgstr "التركية"
+
+msgid "ISO_639-3.TGD"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.TGJ"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.TGK"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TGL"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TGN"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TGP"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TGQ"
+msgstr "التركية"
+
+msgid "ISO_639-3.TGR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.TGU"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TGX"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.TGZ"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.THA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.THE"
+msgstr "الصينية"
+
+msgid "ISO_639-3.THF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.THN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.THR"
+msgstr "الكردية"
+
+msgid "ISO_639-3.THS"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.THT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.THU"
+msgstr "التركية"
+
+msgid "ISO_639-3.THW"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.THY"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TIC"
+msgstr "التركية"
+
+msgid "ISO_639-3.TIF"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TIG"
+msgstr "التركية"
+
+msgid "ISO_639-3.TII"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TIK"
+msgstr "التركية"
+
+msgid "ISO_639-3.TIM"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TIN"
+msgstr "الهندية"
+
+msgid "ISO_639-3.TIP"
+msgstr "التركية"
+
+msgid "ISO_639-3.TIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.TIU"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.TJL"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TKB"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.TKS"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TKW"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TKX"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TKZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TLD"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TLH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TLK"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TLL"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TLO"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TLR"
+msgstr "الصينية"
+
+msgid "ISO_639-3.TLS"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TLT"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.TLU"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TLV"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TLX"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.TMC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TMD"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.TMK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TMN"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.TMS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TMW"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.TMY"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TNA"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TNB"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TNG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.TNH"
+msgstr "الموري"
+
+msgid "ISO_639-3.TNI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TNK"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.TNM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TNQ"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TOD"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.TOH"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.TOM"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TOW"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.TOX"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.TPF"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TPM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TPY"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TQL"
+msgstr "النيبالية"
+
+msgid "ISO_639-3.TQT"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TRA"
+msgstr "الموري"
+
+msgid "ISO_639-3.TRD"
+msgstr "التركية"
+
+msgid "ISO_639-3.TRE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.TRH"
+msgstr "التركية"
+
+msgid "ISO_639-3.TRJ"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TRM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TRR"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.TRT"
+msgstr "التركية"
+
+msgid "ISO_639-3.TSB"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TSD"
+msgstr "الإستونية"
+
+msgid "ISO_639-3.TSH"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TSI"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TSV"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.TSW"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TSX"
+msgstr "الموري"
+
+msgid "ISO_639-3.TTB"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.TTG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.TTI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TTR"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.TTS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TTV"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TTW"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.TUH"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.TUI"
+msgstr "التركية"
+
+msgid "ISO_639-3.TUL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TUQ"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.TUR"
+msgstr "التركية"
+
+msgid "ISO_639-3.TUY"
+msgstr "التركية"
+
+msgid "ISO_639-3.TUZ"
+msgstr "التركية"
+
+msgid "ISO_639-3.TVD"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TVL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.TVO"
+msgstr "التركية"
+
+msgid "ISO_639-3.TVS"
+msgstr "التبتية"
+
+msgid "ISO_639-3.TVW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.TWB"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.TWE"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.TWF"
+msgstr "الكورية"
+
+msgid "ISO_639-3.TWL"
+msgstr "الموري"
+
+msgid "ISO_639-3.TWM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.TWN"
+msgstr "السويدية"
+
+msgid "ISO_639-3.TWU"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.TWW"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.TXA"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-3.TXB"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.TXH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TXM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TXN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.TXR"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TXX"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.TYE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.TYJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TYN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.TZH"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.TZL"
+msgstr "الروسية"
+
+msgid "ISO_639-3.TZO"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.TZX"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.UAN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.UBR"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.UDG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.UDJ"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.UDL"
+msgstr "الوالون"
+
+msgid "ISO_639-3.UDU"
+msgstr "الاردية"
+
+msgid "ISO_639-3.UGO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.UHA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.UHN"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.UIG"
+msgstr "الاغورية"
+
+msgid "ISO_639-3.UIS"
+msgstr "الموري"
+
+msgid "ISO_639-3.UKA"
+msgstr "الكردية"
+
+msgid "ISO_639-3.UKR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ULI"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.ULK"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.ULW"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.UMC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.UMN"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.UNG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.UNM"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.UNN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.UNR"
+msgstr "الموري"
+
+msgid "ISO_639-3.UNU"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.UNX"
+msgstr "الموري"
+
+msgid "ISO_639-3.URA"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.URC"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.URD"
+msgstr "الاردية"
+
+msgid "ISO_639-3.URE"
+msgstr "الاردية"
+
+msgid "ISO_639-3.URF"
+msgstr "الموري"
+
+msgid "ISO_639-3.URG"
+msgstr "التركية"
+
+msgid "ISO_639-3.URL"
+msgstr "البولندية"
+
+msgid "ISO_639-3.URM"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.URN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.URT"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.URU"
+msgstr "الاردية"
+
+msgid "ISO_639-3.URV"
+msgstr "الاردية"
+
+msgid "ISO_639-3.USP"
+msgstr "الإسبرانتو"
+
+msgid "ISO_639-3.UTA"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.UUM"
+msgstr "الاردية"
+
+msgid "ISO_639-3.VAF"
+msgstr "الموري"
+
+msgid "ISO_639-3.VAG"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.VAJ"
+msgstr "الصينية"
+
+msgid "ISO_639-3.VAN"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.VAS"
+msgstr "الموري"
+
+msgid "ISO_639-3.VAV"
+msgstr "البولندية"
+
+msgid "ISO_639-3.VBK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.VEC"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.VER"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.VGR"
+msgstr "الموري"
+
+msgid "ISO_639-3.VIE"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-3.VKJ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.VKK"
+msgstr "الكردية"
+
+msgid "ISO_639-3.VKO"
+msgstr "الكورية"
+
+msgid "ISO_639-3.VKP"
+msgstr "البرتغالية البرازيلية"
+
+msgid "ISO_639-3.VLP"
+msgstr "البولندية"
+
+msgid "ISO_639-3.VMA"
+msgstr "الموري"
+
+msgid "ISO_639-3.VMB"
+msgstr "العربية"
+
+msgid "ISO_639-3.VMD"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.VME"
+msgstr "المالطية"
+
+msgid "ISO_639-3.VMG"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.VMH"
+msgstr "الموري"
+
+msgid "ISO_639-3.VML"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.VMR"
+msgstr "المالطية"
+
+msgid "ISO_639-3.VNK"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.VRA"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.VRS"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.VRT"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.WAE"
+msgstr "المالطية"
+
+msgid "ISO_639-3.WAI"
+msgstr "المالطية"
+
+msgid "ISO_639-3.WAL"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.WAN"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WAO"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WAQ"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.WAS"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WAV"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WAW"
+msgstr "الموري"
+
+msgid "ISO_639-3.WAX"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WBA"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WBB"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WBF"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WBI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.WBJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.WBK"
+msgstr "الموري"
+
+msgid "ISO_639-3.WBL"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WDK"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.WEH"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WET"
+msgstr "البولندية"
+
+msgid "ISO_639-3.WEU"
+msgstr "الصينية"
+
+msgid "ISO_639-3.WGI"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WHG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.WHU"
+msgstr "الكورية"
+
+msgid "ISO_639-3.WII"
+msgstr "الهندية"
+
+msgid "ISO_639-3.WJA"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WJI"
+msgstr "الموري"
+
+msgid "ISO_639-3.WKB"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.WKL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.WKU"
+msgstr "الكردية"
+
+msgid "ISO_639-3.WLA"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WLE"
+msgstr "الكورية"
+
+msgid "ISO_639-3.WLG"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.WLI"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.WLK"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WLN"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WLR"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WLS"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.WLW"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WLY"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.WMC"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WMD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.WMI"
+msgstr "التاميلية"
+
+msgid "ISO_639-3.WMM"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.WMS"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WMW"
+msgstr "الموري"
+
+msgid "ISO_639-3.WMX"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.WNN"
+msgstr "العربية"
+
+msgid "ISO_639-3.WNO"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WOC"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.WOD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.WOE"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.WOF"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.WOK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.WON"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.WOO"
+msgstr "الموري"
+
+msgid "ISO_639-3.WOR"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.WPC"
+msgstr "الموري"
+
+msgid "ISO_639-3.WRB"
+msgstr "الموري"
+
+msgid "ISO_639-3.WRK"
+msgstr "الموري"
+
+msgid "ISO_639-3.WRN"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.WRO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.WRP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.WRS"
+msgstr "الموري"
+
+msgid "ISO_639-3.WRY"
+msgstr "الموري"
+
+msgid "ISO_639-3.WSI"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.WSK"
+msgstr "الباسك"
+
+msgid "ISO_639-3.WSS"
+msgstr "الباسك"
+
+msgid "ISO_639-3.WSU"
+msgstr "الويلزية"
+
+msgid "ISO_639-3.WTM"
+msgstr "الموري"
+
+msgid "ISO_639-3.WUL"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.WUU"
+msgstr "الصينية"
+
+msgid "ISO_639-3.WWA"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WWB"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WWR"
+msgstr "الموري"
+
+msgid "ISO_639-3.WWW"
+msgstr "الوالون"
+
+msgid "ISO_639-3.WXW"
+msgstr "الهندية"
+
+msgid "ISO_639-3.WYY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.XAB"
+msgstr "الصربية"
+
+msgid "ISO_639-3.XAC"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XAD"
+msgstr "العربية"
+
+msgid "ISO_639-3.XAE"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.XAG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.XAJ"
+msgstr "العربية"
+
+msgid "ISO_639-3.XAL"
+msgstr "الوالون"
+
+msgid "ISO_639-3.XAO"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XAQ"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.XAR"
+msgstr "الكردية"
+
+msgid "ISO_639-3.XAU"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.XBC"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.XBD"
+msgstr "الوالون"
+
+msgid "ISO_639-3.XBE"
+msgstr "الباسك"
+
+msgid "ISO_639-3.XBG"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.XBJ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XBM"
+msgstr "البريتون"
+
+msgid "ISO_639-3.XBN"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.XBO"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.XBR"
+msgstr "الخميرية"
+
+msgid "ISO_639-3.XBY"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.XCL"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.XCO"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.XCR"
+msgstr "الموري"
+
+msgid "ISO_639-3.XCU"
+msgstr "الكرواتية"
+
+msgid "ISO_639-3.XCY"
+msgstr "الصينية"
+
+msgid "ISO_639-3.XDA"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XDC"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.XDY"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.XED"
+msgstr "الهندية"
+
+msgid "ISO_639-3.XFA"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.XGA"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.XGD"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.XGG"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XGI"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XGL"
+msgstr "الغاليكية"
+
+msgid "ISO_639-3.XGM"
+msgstr "الصربية"
+
+msgid "ISO_639-3.XGR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.XGU"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.XHA"
+msgstr "العربية"
+
+msgid "ISO_639-3.XHE"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XHO"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.XHR"
+msgstr "الصربية"
+
+msgid "ISO_639-3.XHU"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.XHV"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XIB"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.XII"
+msgstr "التركية"
+
+msgid "ISO_639-3.XIL"
+msgstr "الإيطالية"
+
+msgid "ISO_639-3.XIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.XIS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XJT"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.XKE"
+msgstr "العبرية"
+
+msgid "ISO_639-3.XKF"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.XKJ"
+msgstr "البولندية"
+
+msgid "ISO_639-3.XKQ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XKT"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.XKX"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XKY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.XKZ"
+msgstr "الكردية"
+
+msgid "ISO_639-3.XLC"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.XLD"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.XLE"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.XLI"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.XLN"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.XLS"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.XMB"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XME"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XMF"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XMJ"
+msgstr "الموري"
+
+msgid "ISO_639-3.XMK"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XMM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.XMO"
+msgstr "الموري"
+
+msgid "ISO_639-3.XMT"
+msgstr "الموري"
+
+msgid "ISO_639-3.XMU"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.XMX"
+msgstr "المالطية"
+
+msgid "ISO_639-3.XNG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XNH"
+msgstr "الكردية"
+
+msgid "ISO_639-3.XNI"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.XNK"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-3.XNN"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XNR"
+msgstr "الكردية"
+
+msgid "ISO_639-3.XNS"
+msgstr "الدنماركية"
+
+msgid "ISO_639-3.XNT"
+msgstr "الموري"
+
+msgid "ISO_639-3.XOD"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XOG"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.XON"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XOP"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XOW"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XPA"
+msgstr "التركية"
+
+msgid "ISO_639-3.XPC"
+msgstr "التشيكية"
+
+msgid "ISO_639-3.XPG"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.XPI"
+msgstr "البولندية"
+
+msgid "ISO_639-3.XPR"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.XPS"
+msgstr "الفارسي"
+
+msgid "ISO_639-3.XQA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XQT"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.XRE"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.XRG"
+msgstr "المالطية"
+
+msgid "ISO_639-3.XRM"
+msgstr "العربية"
+
+msgid "ISO_639-3.XRN"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.XRQ"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XRU"
+msgstr "الموري"
+
+msgid "ISO_639-3.XRW"
+msgstr "الموري"
+
+msgid "ISO_639-3.XSB"
+msgstr "الصربية"
+
+msgid "ISO_639-3.XSC"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.XSE"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.XSH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.XSM"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XSO"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.XSP"
+msgstr "السواحلية"
+
+msgid "ISO_639-3.XSR"
+msgstr "الصربية"
+
+msgid "ISO_639-3.XSS"
+msgstr "الروسية"
+
+msgid "ISO_639-3.XSV"
+msgstr "السلوفينية"
+
+msgid "ISO_639-3.XTO"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.XTV"
+msgstr "الموري"
+
+msgid "ISO_639-3.XTW"
+msgstr "الموري"
+
+msgid "ISO_639-3.XTZ"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.XUM"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.XUN"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.XUR"
+msgstr "الكرواتية"
+
+msgid "ISO_639-3.XUU"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XVI"
+msgstr "الكردية"
+
+msgid "ISO_639-3.XVO"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.XVS"
+msgstr "الإستونية"
+
+msgid "ISO_639-3.XWA"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.XWC"
+msgstr "الوالون"
+
+msgid "ISO_639-3.XWK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XXB"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.XXR"
+msgstr "الكورية"
+
+msgid "ISO_639-3.XXT"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-3.XYB"
+msgstr "الموري"
+
+msgid "ISO_639-3.XYK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.XYL"
+msgstr "المالطية"
+
+msgid "ISO_639-3.XZM"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YAK"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.YAN"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.YAP"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.YBA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.YBJ"
+msgstr "الباسك"
+
+msgid "ISO_639-3.YBK"
+msgstr "الزونخاية"
+
+msgid "ISO_639-3.YBM"
+msgstr "الكورية"
+
+msgid "ISO_639-3.YCH"
+msgstr "الصينية"
+
+msgid "ISO_639-3.YCL"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.YCP"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-3.YDA"
+msgstr "العربية"
+
+msgid "ISO_639-3.YEC"
+msgstr "الفرنسية"
+
+msgid "ISO_639-3.YEJ"
+msgstr "الآيسلندية"
+
+msgid "ISO_639-3.YER"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.YES"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.YGA"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.YGI"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.YGP"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.YGR"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.YGS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.YGW"
+msgstr "الموري"
+
+msgid "ISO_639-3.YHA"
+msgstr "البنغالية"
+
+msgid "ISO_639-3.YHD"
+msgstr "العربية"
+
+msgid "ISO_639-3.YHS"
+msgstr "الكورية"
+
+msgid "ISO_639-3.YIF"
+msgstr "الصينية"
+
+msgid "ISO_639-3.YIH"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.YIM"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.YIP"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YIQ"
+msgstr "الموري"
+
+msgid "ISO_639-3.YIR"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.YIU"
+msgstr "العربية"
+
+msgid "ISO_639-3.YIX"
+msgstr "الكردية"
+
+msgid "ISO_639-3.YKA"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-3.YKL"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.YKM"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.YKO"
+msgstr "الباسك"
+
+msgid "ISO_639-3.YKT"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.YKU"
+msgstr "الباسك"
+
+msgid "ISO_639-3.YLB"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.YLE"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.YLM"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.YLO"
+msgstr "الزولو"
+
+msgid "ISO_639-3.YMB"
+msgstr "اليابانية"
+
+msgid "ISO_639-3.YMD"
+msgstr "الموري"
+
+msgid "ISO_639-3.YMH"
+msgstr "الموري"
+
+msgid "ISO_639-3.YMI"
+msgstr "الموري"
+
+msgid "ISO_639-3.YMM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.YMO"
+msgstr "الكردية"
+
+msgid "ISO_639-3.YMR"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.YMS"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.YMZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.YNA"
+msgstr "الزولو"
+
+msgid "ISO_639-3.YNE"
+msgstr "اللاتفية"
+
+msgid "ISO_639-3.YNG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YNO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YNS"
+msgstr "الموري"
+
+msgid "ISO_639-3.YOG"
+msgstr "البوسنية"
+
+msgid "ISO_639-3.YOI"
+msgstr "الكورية"
+
+msgid "ISO_639-3.YOL"
+msgstr "الكورية"
+
+msgid "ISO_639-3.YON"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YPA"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.YPG"
+msgstr "البولندية"
+
+msgid "ISO_639-3.YPH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.YPM"
+msgstr "الموري"
+
+msgid "ISO_639-3.YPO"
+msgstr "البولندية"
+
+msgid "ISO_639-3.YPP"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.YPZ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.YRY"
+msgstr "الكاتالانية"
+
+msgid "ISO_639-3.YSD"
+msgstr "الصربية"
+
+msgid "ISO_639-3.YSN"
+msgstr "الأسبانية"
+
+msgid "ISO_639-3.YSY"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.YTA"
+msgstr "الزولو"
+
+msgid "ISO_639-3.YTL"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YTP"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.YUC"
+msgstr "الهولندية"
+
+msgid "ISO_639-3.YUD"
+msgstr "العربية"
+
+msgid "ISO_639-3.YUE"
+msgstr "الصينية"
+
+msgid "ISO_639-3.YUL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.YUT"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.YVA"
+msgstr "الموري"
+
+msgid "ISO_639-3.YWL"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.YXA"
+msgstr "الموري"
+
+msgid "ISO_639-3.YXG"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.YYZ"
+msgstr "المالديفية"
+
+msgid "ISO_639-3.YZG"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.YZK"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZAG"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZAH"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "الوالون"
+
+msgid "ISO_639-3.ZAL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZBC"
+msgstr "الكردية"
+
+msgid "ISO_639-3.ZBE"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.ZBT"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.ZBW"
+msgstr "الألمانية"
+
+msgid "ISO_639-3.ZGB"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZGM"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZGN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZGR"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZHA"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZHD"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZHI"
+msgstr "التركية"
+
+msgid "ISO_639-3.ZHN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZHO"
+msgstr "الصينية"
+
+msgid "ISO_639-3.ZHW"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZIM"
+msgstr "المالطية"
+
+msgid "ISO_639-3.ZIR"
+msgstr "التركية"
+
+msgid "ISO_639-3.ZIW"
+msgstr "الزولو"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-3.ZKH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ZKN"
+msgstr "البلغارية"
+
+msgid "ISO_639-3.ZKT"
+msgstr "الأوكسيتانية"
+
+msgid "ISO_639-3.ZKU"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ZKV"
+msgstr "الرومانية"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "التايلاندية"
+
+msgid "ISO_639-3.ZLN"
+msgstr "الليتوانية"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZMC"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.ZMD"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZMG"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZML"
+msgstr "المالطية"
+
+msgid "ISO_639-3.ZMO"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.ZMP"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.ZMS"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZMT"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZMU"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZMY"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZNG"
+msgstr "المقدونية"
+
+msgid "ISO_639-3.ZNK"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZNS"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZOM"
+msgstr "الزولو"
+
+msgid "ISO_639-3.ZPC"
+msgstr "الصينية"
+
+msgid "ISO_639-3.ZPV"
+msgstr "الصينية"
+
+msgid "ISO_639-3.ZQE"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZRG"
+msgstr "المالطية"
+
+msgid "ISO_639-3.ZRN"
+msgstr "اليونانية"
+
+msgid "ISO_639-3.ZRP"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZRS"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZSA"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZSK"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ZSM"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-3.ZSU"
+msgstr "الزولو"
+
+msgid "ISO_639-3.ZUH"
+msgstr "الكورية"
+
+msgid "ISO_639-3.ZUL"
+msgstr "الزولو"
+
+msgid "ISO_639-3.ZUM"
+msgstr "الكردية"
+
+msgid "ISO_639-3.ZYB"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZYG"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZYN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-3.ZYP"
+msgstr "الصينية"
+
+msgid "ISO_639-3.ZZA"
+msgstr "الموري"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "الهاوسا"

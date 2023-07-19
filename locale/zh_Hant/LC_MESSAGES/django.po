@@ -1,0 +1,8091 @@
+# Traditional Chinese translation for ISO 639 Language names
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# JOE MAN <trmetal@yahoo.com.hk>, 2001. (translations from Galeon)
+# Alastair McKinstry <mckinstry@computer.org>, 2001
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-11-27 12:07+0800\n"
+"Last-Translator: Joe Man <trmetal@yahoo.com.hk>\n"
+"Language-Team: Traditional Chinese <zh-l10n@linux.org.tw>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AAF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AAG"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AAK"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AAT"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.AAZ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ABD"
+msgstr "Man"
+
+msgid "ISO_639-3.ABE"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ABG"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ABH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ABQ"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ABV"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ABW"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.ABZ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ACE"
+msgstr "中文"
+
+msgid "ISO_639-3.ACI"
+msgstr "邊界"
+
+msgid "ISO_639-3.ACN"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ACR"
+msgstr "中文"
+
+msgid "ISO_639-3.ACW"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ACX"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ACY"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ADF"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ADL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.ADN"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AEA"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AEC"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AEE"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AEU"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AEW"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AEZ"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AFB"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AFD"
+msgstr "尋找："
+
+msgid "ISO_639-3.AFK"
+msgstr "邊界"
+
+msgid "ISO_639-3.AFP"
+msgstr "泰國"
+
+msgid "ISO_639-3.AFR"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AGA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AGB"
+msgstr "希臘"
+
+msgid "ISO_639-3.AGD"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AGE"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.AGF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AGH"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.AGI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.AGM"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.AGO"
+msgstr "泰國"
+
+msgid "ISO_639-3.AGW"
+msgstr "泰國"
+
+msgid "ISO_639-3.AHA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AHK"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AHR"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AIA"
+msgstr "邊界"
+
+msgid "ISO_639-3.AIC"
+msgstr "尋找："
+
+msgid "ISO_639-3.AIE"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AIJ"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.AIR"
+msgstr "韓國"
+
+msgid "ISO_639-3.AIS"
+msgstr "邊界"
+
+msgid "ISO_639-3.AIW"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AIX"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AJN"
+msgstr "尋找："
+
+msgid "ISO_639-3.AJT"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AJU"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AJZ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.AKA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AKB"
+msgstr "印尼文"
+
+msgid "ISO_639-3.AKF"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AKK"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.AKL"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AKM"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AKQ"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AKR"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AKW"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AKZ"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ALD"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ALH"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ALJ"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ALK"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.ALN"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.ALS"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.AMC"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AMH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AMJ"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AMK"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AML"
+msgstr "邊界"
+
+msgid "ISO_639-3.AMN"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AMQ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AMY"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ANC"
+msgstr "邊界"
+
+msgid "ISO_639-3.ANI"
+msgstr "尋找："
+
+msgid "ISO_639-3.ANK"
+msgstr "德文"
+
+msgid "ISO_639-3.ANN"
+msgstr "從："
+
+msgid "ISO_639-3.ANP"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ANQ"
+msgstr "印尼文"
+
+msgid "ISO_639-3.ANS"
+msgstr "德文"
+
+msgid "ISO_639-3.ANW"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ANY"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.AOD"
+msgstr "Man"
+
+msgid "ISO_639-3.AOF"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.AOH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AOJ"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.AOR"
+msgstr "韓國"
+
+msgid "ISO_639-3.AOS"
+msgstr "泰國"
+
+msgid "ISO_639-3.AOT"
+msgstr "印尼文"
+
+msgid "ISO_639-3.APB"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.APD"
+msgstr "法羅文"
+
+msgid "ISO_639-3.APF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.APG"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.APH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.API"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.APW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AQC"
+msgstr "中文"
+
+msgid "ISO_639-3.AQT"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.AQZ"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ARA"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ARD"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ARE"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ARG"
+msgstr "法羅文"
+
+msgid "ISO_639-3.ARH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ARI"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ARJ"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ARL"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ARN"
+msgstr "Man"
+
+msgid "ISO_639-3.ARO"
+msgstr "法羅文"
+
+msgid "ISO_639-3.ARQ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ARS"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ARY"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.ASI"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.ASK"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.ASO"
+msgstr "位置"
+
+msgid "ISO_639-3.AST"
+msgstr "愛沙尼亞文"
+
+msgid "ISO_639-3.ATB"
+msgstr "尋找："
+
+msgid "ISO_639-3.ATN"
+msgstr "愛沙尼亞文"
+
+msgid "ISO_639-3.ATR"
+msgstr "邊界"
+
+msgid "ISO_639-3.ATX"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ATZ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AUB"
+msgstr "中文"
+
+msgid "ISO_639-3.AUC"
+msgstr "邊界"
+
+msgid "ISO_639-3.AUH"
+msgstr "泰國"
+
+msgid "ISO_639-3.AUK"
+msgstr "希伯來"
+
+msgid "ISO_639-3.AUQ"
+msgstr "英文"
+
+msgid "ISO_639-3.AUR"
+msgstr "希臘"
+
+msgid "ISO_639-3.AUZ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AVA"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AVB"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AVI"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AVK"
+msgstr "暫停"
+
+msgid "ISO_639-3.AVN"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AVS"
+msgstr "泰國"
+
+msgid "ISO_639-3.AWM"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AXL"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AYA"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.AYH"
+msgstr "尋找："
+
+msgid "ISO_639-3.AYL"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.AYN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.AZA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.AZB"
+msgstr "亞塞拜疆文"
+
+msgid "ISO_639-3.AZE"
+msgstr "亞塞拜疆文"
+
+msgid "ISO_639-3.AZJ"
+msgstr "亞塞拜疆文"
+
+msgid "ISO_639-3.BAG"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BAJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BAN"
+msgstr "中文"
+
+msgid "ISO_639-3.BAR"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BAY"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BBB"
+msgstr "泰國"
+
+msgid "ISO_639-3.BBD"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BBE"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BBF"
+msgstr "泰國"
+
+msgid "ISO_639-3.BBG"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.BBH"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BBI"
+msgstr "泰國"
+
+msgid "ISO_639-3.BBL"
+msgstr "暫停"
+
+msgid "ISO_639-3.BBQ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.BBV"
+msgstr "韓國"
+
+msgid "ISO_639-3.BBW"
+msgstr "暫停"
+
+msgid "ISO_639-3.BBX"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BBY"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BCF"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BCG"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BCH"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BCJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BCK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BCO"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BCQ"
+msgstr "法文"
+
+msgid "ISO_639-3.BCR"
+msgstr "中文"
+
+msgid "ISO_639-3.BCT"
+msgstr "尋找："
+
+msgid "ISO_639-3.BCW"
+msgstr "暫停"
+
+msgid "ISO_639-3.BCY"
+msgstr "暫停"
+
+msgid "ISO_639-3.BDB"
+msgstr "暫停"
+
+msgid "ISO_639-3.BDD"
+msgstr "暫停"
+
+msgid "ISO_639-3.BDE"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BDF"
+msgstr "泰國"
+
+msgid "ISO_639-3.BDG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BDJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BDK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BDL"
+msgstr "印尼文"
+
+msgid "ISO_639-3.BDO"
+msgstr "邊界"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Man"
+
+msgid "ISO_639-3.BDU"
+msgstr "從："
+
+msgid "ISO_639-3.BDW"
+msgstr "暫停"
+
+msgid "ISO_639-3.BEG"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BEH"
+msgstr "泰國"
+
+msgid "ISO_639-3.BEK"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BEL"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BEN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BEO"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BEP"
+msgstr "暫停"
+
+msgid "ISO_639-3.BES"
+msgstr "中文"
+
+msgid "ISO_639-3.BEU"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BEW"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BFA"
+msgstr "泰國"
+
+msgid "ISO_639-3.BFC"
+msgstr "Man"
+
+msgid "ISO_639-3.BFG"
+msgstr "Man"
+
+msgid "ISO_639-3.BFQ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BFR"
+msgstr "泰國"
+
+msgid "ISO_639-3.BFT"
+msgstr "尋找："
+
+msgid "ISO_639-3.BFU"
+msgstr "邊界"
+
+msgid "ISO_639-3.BFW"
+msgstr "尋找："
+
+msgid "ISO_639-3.BFX"
+msgstr "Man"
+
+msgid "ISO_639-3.BGE"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BGG"
+msgstr "中文"
+
+msgid "ISO_639-3.BGK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BGN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.BGQ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BGR"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.BGW"
+msgstr "泰國"
+
+msgid "ISO_639-3.BGY"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BGZ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BHA"
+msgstr "泰國"
+
+msgid "ISO_639-3.BHB"
+msgstr "尋找："
+
+msgid "ISO_639-3.BHC"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BHD"
+msgstr "泰國"
+
+msgid "ISO_639-3.BHE"
+msgstr "暫停"
+
+msgid "ISO_639-3.BHG"
+msgstr "否"
+
+msgid "ISO_639-3.BHH"
+msgstr "泰國"
+
+msgid "ISO_639-3.BHI"
+msgstr "泰國"
+
+msgid "ISO_639-3.BHJ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BHL"
+msgstr "尋找："
+
+msgid "ISO_639-3.BHM"
+msgstr "泰國"
+
+msgid "ISO_639-3.BHP"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BHR"
+msgstr "邊界"
+
+msgid "ISO_639-3.BHU"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BHV"
+msgstr "暫停"
+
+msgid "ISO_639-3.BHW"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BHX"
+msgstr "暫停"
+
+msgid "ISO_639-3.BHZ"
+msgstr "印尼文"
+
+msgid "ISO_639-3.BIB"
+msgstr "暫停"
+
+msgid "ISO_639-3.BIC"
+msgstr "泰國"
+
+msgid "ISO_639-3.BID"
+msgstr "尋找："
+
+msgid "ISO_639-3.BIG"
+msgstr "尋找："
+
+msgid "ISO_639-3.BIN"
+msgstr "尋找："
+
+msgid "ISO_639-3.BIO"
+msgstr "邊界"
+
+msgid "ISO_639-3.BIP"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BIQ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BIR"
+msgstr "泰國"
+
+msgid "ISO_639-3.BIT"
+msgstr "從："
+
+msgid "ISO_639-3.BIU"
+msgstr "中文"
+
+msgid "ISO_639-3.BIX"
+msgstr "泰國"
+
+msgid "ISO_639-3.BIY"
+msgstr "泰國"
+
+msgid "ISO_639-3.BIZ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BJB"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BJC"
+msgstr "泰國"
+
+msgid "ISO_639-3.BJH"
+msgstr "中文"
+
+msgid "ISO_639-3.BJI"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BJJ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BJN"
+msgstr "Man"
+
+msgid "ISO_639-3.BJR"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BJS"
+msgstr "暫停"
+
+msgid "ISO_639-3.BJV"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BJY"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BJZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.BKD"
+msgstr "尋找："
+
+msgid "ISO_639-3.BKF"
+msgstr "希臘"
+
+msgid "ISO_639-3.BKG"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BKI"
+msgstr "泰國"
+
+msgid "ISO_639-3.BKN"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BKS"
+msgstr "韓國"
+
+msgid "ISO_639-3.BKT"
+msgstr "尋找："
+
+msgid "ISO_639-3.BKX"
+msgstr "位置"
+
+msgid "ISO_639-3.BLG"
+msgstr "暫停"
+
+msgid "ISO_639-3.BLI"
+msgstr "尋找："
+
+msgid "ISO_639-3.BLJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.BLL"
+msgstr "尋找："
+
+msgid "ISO_639-3.BLR"
+msgstr "尋找："
+
+msgid "ISO_639-3.BLS"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BMD"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BMH"
+msgstr "韓國"
+
+msgid "ISO_639-3.BMI"
+msgstr "泰國"
+
+msgid "ISO_639-3.BMO"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.BMP"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BMR"
+msgstr "否"
+
+msgid "ISO_639-3.BMS"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BMX"
+msgstr "暫停"
+
+msgid "ISO_639-3.BMZ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BNB"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BNC"
+msgstr "尋找："
+
+msgid "ISO_639-3.BND"
+msgstr "印尼文"
+
+msgid "ISO_639-3.BNF"
+msgstr "邊界"
+
+msgid "ISO_639-3.BNG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BNI"
+msgstr "尋找："
+
+msgid "ISO_639-3.BNK"
+msgstr "希臘"
+
+msgid "ISO_639-3.BNL"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BNQ"
+msgstr "位置"
+
+msgid "ISO_639-3.BNU"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BNW"
+msgstr "尋找："
+
+msgid "ISO_639-3.BNZ"
+msgstr "希臘"
+
+msgid "ISO_639-3.BOA"
+msgstr "韓國"
+
+msgid "ISO_639-3.BOB"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.BOF"
+msgstr "尋找："
+
+msgid "ISO_639-3.BOH"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BOM"
+msgstr "從："
+
+msgid "ISO_639-3.BON"
+msgstr "尋找："
+
+msgid "ISO_639-3.BOP"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BOQ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BOS"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BOU"
+msgstr "尋找："
+
+msgid "ISO_639-3.BOW"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BPA"
+msgstr "暫停"
+
+msgid "ISO_639-3.BPH"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.BPJ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BPK"
+msgstr "從："
+
+msgid "ISO_639-3.BPO"
+msgstr "邊界"
+
+msgid "ISO_639-3.BPP"
+msgstr "韓國"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Man"
+
+msgid "ISO_639-3.BPV"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.BQB"
+msgstr "暫停"
+
+msgid "ISO_639-3.BQH"
+msgstr "暫停"
+
+msgid "ISO_639-3.BQI"
+msgstr "泰國"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Man"
+
+msgid "ISO_639-3.BQP"
+msgstr "暫停"
+
+msgid "ISO_639-3.BQQ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BQS"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BQV"
+msgstr "韓國"
+
+msgid "ISO_639-3.BQX"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BQZ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BRE"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BRF"
+msgstr "德文"
+
+msgid "ISO_639-3.BRG"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BRJ"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BRO"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BRS"
+msgstr "暫停"
+
+msgid "ISO_639-3.BRT"
+msgstr "泰國"
+
+msgid "ISO_639-3.BRU"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.BRV"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.BRW"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BRX"
+msgstr "印尼文"
+
+msgid "ISO_639-3.BRY"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BRZ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BSB"
+msgstr "尋找："
+
+msgid "ISO_639-3.BSC"
+msgstr "暫停"
+
+msgid "ISO_639-3.BSE"
+msgstr "泰國"
+
+msgid "ISO_639-3.BSG"
+msgstr "泰國"
+
+msgid "ISO_639-3.BSH"
+msgstr "位置"
+
+msgid "ISO_639-3.BSI"
+msgstr "邊界"
+
+msgid "ISO_639-3.BSJ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BSK"
+msgstr "泰國"
+
+msgid "ISO_639-3.BSM"
+msgstr "泰國"
+
+msgid "ISO_639-3.BSN"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BSQ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BST"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BSU"
+msgstr "暫停"
+
+msgid "ISO_639-3.BSW"
+msgstr "暫停"
+
+msgid "ISO_639-3.BTA"
+msgstr "暫停"
+
+msgid "ISO_639-3.BTF"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BTI"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BTJ"
+msgstr "日本"
+
+msgid "ISO_639-3.BTR"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BTU"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BTV"
+msgstr "泰國"
+
+msgid "ISO_639-3.BUA"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BUB"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BUC"
+msgstr "泰國"
+
+msgid "ISO_639-3.BUG"
+msgstr "中文"
+
+msgid "ISO_639-3.BUI"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BUK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BUL"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BUN"
+msgstr "希伯來"
+
+msgid "ISO_639-3.BUO"
+msgstr "土耳其"
+
+msgid "ISO_639-3.BUP"
+msgstr "暫停"
+
+msgid "ISO_639-3.BUQ"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BUT"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BUW"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BVA"
+msgstr "韓國"
+
+msgid "ISO_639-3.BVB"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BVC"
+msgstr "中文"
+
+msgid "ISO_639-3.BVH"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BVJ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BVK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BVN"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BVP"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.BVQ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BVR"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BVT"
+msgstr "印尼文"
+
+msgid "ISO_639-3.BVU"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BVV"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BVW"
+msgstr "邊界"
+
+msgid "ISO_639-3.BVY"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.BVZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BWD"
+msgstr "韓國"
+
+msgid "ISO_639-3.BWG"
+msgstr "韓國"
+
+msgid "ISO_639-3.BWI"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BWM"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BWZ"
+msgstr "尋找："
+
+msgid "ISO_639-3.BXA"
+msgstr "泰國"
+
+msgid "ISO_639-3.BXG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.BXM"
+msgstr "韓國"
+
+msgid "ISO_639-3.BXN"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BXO"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BXR"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BXS"
+msgstr "暫停"
+
+msgid "ISO_639-3.BXU"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BXZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.BYA"
+msgstr "暫停"
+
+msgid "ISO_639-3.BYF"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BYH"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BYK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BYM"
+msgstr "泰國"
+
+msgid "ISO_639-3.BYN"
+msgstr "泰國"
+
+msgid "ISO_639-3.BYQ"
+msgstr "暫停"
+
+msgid "ISO_639-3.BYR"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BYS"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.BYW"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Man"
+
+msgid "ISO_639-3.BZA"
+msgstr "尋找："
+
+msgid "ISO_639-3.BZB"
+msgstr "尋找："
+
+msgid "ISO_639-3.BZD"
+msgstr "泰國"
+
+msgid "ISO_639-3.BZF"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.BZG"
+msgstr "暫停"
+
+msgid "ISO_639-3.BZI"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.BZO"
+msgstr "暫停"
+
+msgid "ISO_639-3.BZQ"
+msgstr "印尼文"
+
+msgid "ISO_639-3.BZR"
+msgstr "泰國"
+
+msgid "ISO_639-3.BZT"
+msgstr "尋找："
+
+msgid "ISO_639-3.BZU"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.BZV"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.BZZ"
+msgstr "位置"
+
+msgid "ISO_639-3.CAC"
+msgstr "中文"
+
+msgid "ISO_639-3.CAF"
+msgstr "邊界"
+
+msgid "ISO_639-3.CAH"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CAK"
+msgstr "泰國"
+
+msgid "ISO_639-3.CAL"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.CAN"
+msgstr "邊界"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galeon"
+
+msgid "ISO_639-3.CAS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.CAT"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CBC"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CBD"
+msgstr "邊界"
+
+msgid "ISO_639-3.CBI"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CBK"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CBL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.CBV"
+msgstr "暫停"
+
+msgid "ISO_639-3.CBW"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.CBY"
+msgstr "邊界"
+
+msgid "ISO_639-3.CCA"
+msgstr "暫停"
+
+msgid "ISO_639-3.CCG"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.CDA"
+msgstr "色彩"
+
+msgid "ISO_639-3.CDE"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CDG"
+msgstr "邊界"
+
+msgid "ISO_639-3.CDI"
+msgstr "色彩"
+
+msgid "ISO_639-3.CDO"
+msgstr "中文"
+
+msgid "ISO_639-3.CDY"
+msgstr "色彩"
+
+msgid "ISO_639-3.CDZ"
+msgstr "韓國"
+
+msgid "ISO_639-3.CEA"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.CEK"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.CEN"
+msgstr "中文"
+
+msgid "ISO_639-3.CES"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CFD"
+msgstr "邊界"
+
+msgid "ISO_639-3.CFM"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.CHC"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CHE"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CHK"
+msgstr "中文"
+
+msgid "ISO_639-3.CHM"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.CHX"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CIE"
+msgstr "中文"
+
+msgid "ISO_639-3.CIK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.CIM"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.CIP"
+msgstr "中文"
+
+msgid "ISO_639-3.CIR"
+msgstr "尋找："
+
+msgid "ISO_639-3.CIY"
+msgstr "泰國"
+
+msgid "ISO_639-3.CJA"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.CJI"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CJK"
+msgstr "中文"
+
+msgid "ISO_639-3.CJM"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.CJN"
+msgstr "印尼文"
+
+msgid "ISO_639-3.CJV"
+msgstr "中文"
+
+msgid "ISO_639-3.CJY"
+msgstr "中文"
+
+msgid "ISO_639-3.CKB"
+msgstr "土耳其"
+
+msgid "ISO_639-3.CKL"
+msgstr "邊界"
+
+msgid "ISO_639-3.CKN"
+msgstr "中文"
+
+msgid "ISO_639-3.CKT"
+msgstr "中文"
+
+msgid "ISO_639-3.CKU"
+msgstr "邊界"
+
+msgid "ISO_639-3.CKV"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CLA"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.CLE"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.CLJ"
+msgstr "中文"
+
+msgid "ISO_639-3.CLL"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CLT"
+msgstr "中文"
+
+msgid "ISO_639-3.CLU"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CMA"
+msgstr "邊界"
+
+msgid "ISO_639-3.CME"
+msgstr "德文"
+
+msgid "ISO_639-3.CML"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.CMN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.CMS"
+msgstr "邊界"
+
+msgid "ISO_639-3.CNG"
+msgstr "韓國"
+
+msgid "ISO_639-3.CNH"
+msgstr "中文"
+
+msgid "ISO_639-3.CNK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.CNL"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.CNO"
+msgstr "色彩"
+
+msgid "ISO_639-3.CNW"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.CNX"
+msgstr "色彩"
+
+msgid "ISO_639-3.COE"
+msgstr "韓國"
+
+msgid "ISO_639-3.COO"
+msgstr "從："
+
+msgid "ISO_639-3.COR"
+msgstr "色彩"
+
+msgid "ISO_639-3.COX"
+msgstr "位置"
+
+msgid "ISO_639-3.COZ"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CPI"
+msgstr "中文"
+
+msgid "ISO_639-3.CPN"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CPX"
+msgstr "中文"
+
+msgid "ISO_639-3.CRA"
+msgstr "邊界"
+
+msgid "ISO_639-3.CRE"
+msgstr "希臘"
+
+msgid "ISO_639-3.CRF"
+msgstr "土耳其"
+
+msgid "ISO_639-3.CRR"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.CRX"
+msgstr "邊界"
+
+msgid "ISO_639-3.CRY"
+msgstr "色彩"
+
+msgid "ISO_639-3.CSJ"
+msgstr "中文"
+
+msgid "ISO_639-3.CST"
+msgstr "韓國"
+
+msgid "ISO_639-3.CSV"
+msgstr "中文"
+
+msgid "ISO_639-3.CSY"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.CTC"
+msgstr "捷克文"
+
+msgid "ISO_639-3.CTD"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.CTG"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.CTH"
+msgstr "中文"
+
+msgid "ISO_639-3.CTS"
+msgstr "韓國"
+
+msgid "ISO_639-3.CTU"
+msgstr "色彩"
+
+msgid "ISO_639-3.CUH"
+msgstr "中文"
+
+msgid "ISO_639-3.CUI"
+msgstr "邊界"
+
+msgid "ISO_639-3.CUL"
+msgstr "尋找："
+
+msgid "ISO_639-3.CUU"
+msgstr "泰國"
+
+msgid "ISO_639-3.CUW"
+msgstr "中文"
+
+msgid "ISO_639-3.CVG"
+msgstr "中文"
+
+msgid "ISO_639-3.CWB"
+msgstr "Man"
+
+msgid "ISO_639-3.CWE"
+msgstr "其它"
+
+msgid "ISO_639-3.CZH"
+msgstr "中文"
+
+msgid "ISO_639-3.CZK"
+msgstr "韓國"
+
+msgid "ISO_639-3.CZT"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.DAC"
+msgstr "泰國"
+
+msgid "ISO_639-3.DAD"
+msgstr "邊界"
+
+msgid "ISO_639-3.DAE"
+msgstr "暫停"
+
+msgid "ISO_639-3.DAG"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DAM"
+msgstr "邊界"
+
+msgid "ISO_639-3.DAN"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DAO"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Man"
+
+msgid "ISO_639-3.DAR"
+msgstr "邊界"
+
+msgid "ISO_639-3.DAV"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.DAX"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DBA"
+msgstr "尋找："
+
+msgid "ISO_639-3.DBJ"
+msgstr "意大利文"
+
+msgid "ISO_639-3.DBM"
+msgstr "邊界"
+
+msgid "ISO_639-3.DBQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.DBW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.DEC"
+msgstr "泰國"
+
+msgid "ISO_639-3.DEH"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.DER"
+msgstr "邊界"
+
+msgid "ISO_639-3.DES"
+msgstr "列印"
+
+msgid "ISO_639-3.DEU"
+msgstr "德文"
+
+msgid "ISO_639-3.DGG"
+msgstr "邊界"
+
+msgid "ISO_639-3.DGI"
+msgstr "韓國"
+
+msgid "ISO_639-3.DGK"
+msgstr "邊界"
+
+msgid "ISO_639-3.DGL"
+msgstr "尋找："
+
+msgid "ISO_639-3.DGN"
+msgstr "邊界"
+
+msgid "ISO_639-3.DGX"
+msgstr "邊界"
+
+msgid "ISO_639-3.DGZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.DHG"
+msgstr "Man"
+
+msgid "ISO_639-3.DHN"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DHO"
+msgstr "挪威文"
+
+msgid "ISO_639-3.DHR"
+msgstr "邊界"
+
+msgid "ISO_639-3.DHS"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DHU"
+msgstr "邊界"
+
+msgid "ISO_639-3.DHX"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.DIC"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.DIF"
+msgstr "尋找："
+
+msgid "ISO_639-3.DIJ"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DIK"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.DIP"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.DIR"
+msgstr "尋找："
+
+msgid "ISO_639-3.DIS"
+msgstr "暫停"
+
+msgid "ISO_639-3.DIT"
+msgstr "泰國"
+
+msgid "ISO_639-3.DIU"
+msgstr "尋找："
+
+msgid "ISO_639-3.DIV"
+msgstr "尋找："
+
+msgid "ISO_639-3.DIW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.DJO"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.DJU"
+msgstr "韓國"
+
+msgid "ISO_639-3.DLG"
+msgstr "挪威文"
+
+msgid "ISO_639-3.DLK"
+msgstr "邊界"
+
+msgid "ISO_639-3.DLM"
+msgstr "意大利文"
+
+msgid "ISO_639-3.DLN"
+msgstr "邊界"
+
+msgid "ISO_639-3.DML"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.DMM"
+msgstr "邊界"
+
+msgid "ISO_639-3.DMV"
+msgstr "暫停"
+
+msgid "ISO_639-3.DMX"
+msgstr "德文"
+
+msgid "ISO_639-3.DND"
+msgstr "Man"
+
+msgid "ISO_639-3.DNG"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.DNJ"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DNK"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.DNR"
+msgstr "Man"
+
+msgid "ISO_639-3.DNV"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.DNW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.DOH"
+msgstr "邊界"
+
+msgid "ISO_639-3.DOK"
+msgstr "尋找："
+
+msgid "ISO_639-3.DOO"
+msgstr "邊界"
+
+msgid "ISO_639-3.DOP"
+msgstr "暫停"
+
+msgid "ISO_639-3.DOR"
+msgstr "邊界"
+
+msgid "ISO_639-3.DOT"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DOX"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.DOY"
+msgstr "從："
+
+msgid "ISO_639-3.DOZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.DRB"
+msgstr "邊界"
+
+msgid "ISO_639-3.DRC"
+msgstr "尋找："
+
+msgid "ISO_639-3.DRD"
+msgstr "邊界"
+
+msgid "ISO_639-3.DRG"
+msgstr "英文"
+
+msgid "ISO_639-3.DRL"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.DRQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.DRS"
+msgstr "希臘"
+
+msgid "ISO_639-3.DRY"
+msgstr "邊界"
+
+msgid "ISO_639-3.DSB"
+msgstr "德文"
+
+msgid "ISO_639-3.DSI"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DSO"
+msgstr "列印"
+
+msgid "ISO_639-3.DTA"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.DTY"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.DUO"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.DUP"
+msgstr "位置"
+
+msgid "ISO_639-3.DWA"
+msgstr "尋找："
+
+msgid "ISO_639-3.DWR"
+msgstr "位置"
+
+msgid "ISO_639-3.DWW"
+msgstr "邊界"
+
+msgid "ISO_639-3.DYA"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.DZA"
+msgstr "泰國"
+
+msgid "ISO_639-3.DZG"
+msgstr "邊界"
+
+msgid "ISO_639-3.EAA"
+msgstr "韓國"
+
+msgid "ISO_639-3.EBK"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ECR"
+msgstr "韓國"
+
+msgid "ISO_639-3.EGL"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.EIV"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.EKC"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.EKG"
+msgstr "邊界"
+
+msgid "ISO_639-3.EKK"
+msgstr "Man"
+
+msgid "ISO_639-3.EKR"
+msgstr "日本"
+
+msgid "ISO_639-3.EKY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.EMG"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.EMN"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.EMU"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ENA"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.ENB"
+msgstr "邊界"
+
+msgid "ISO_639-3.ENG"
+msgstr "英文"
+
+msgid "ISO_639-3.ENQ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.EPO"
+msgstr "世界語"
+
+msgid "ISO_639-3.ERA"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.ERG"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.ERO"
+msgstr "暫停"
+
+msgid "ISO_639-3.ESG"
+msgstr "尋找："
+
+msgid "ISO_639-3.EST"
+msgstr "愛沙尼亞文"
+
+msgid "ISO_639-3.ESY"
+msgstr "韓國"
+
+msgid "ISO_639-3.EUS"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.EYO"
+msgstr "希伯來"
+
+msgid "ISO_639-3.FAA"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.FAF"
+msgstr "位置"
+
+msgid "ISO_639-3.FAH"
+msgstr "Galeon"
+
+msgid "ISO_639-3.FAJ"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.FAO"
+msgstr "法羅文"
+
+msgid "ISO_639-3.FAP"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.FAR"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.FAS"
+msgstr "列印"
+
+msgid "ISO_639-3.FAT"
+msgstr "位置"
+
+msgid "ISO_639-3.FAY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FAZ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FBL"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.FER"
+msgstr "法羅文"
+
+msgid "ISO_639-3.FIL"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FIN"
+msgstr "芬蘭文"
+
+msgid "ISO_639-3.FIR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FKV"
+msgstr "芬蘭文"
+
+msgid "ISO_639-3.FLI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.FLL"
+msgstr "韓國"
+
+msgid "ISO_639-3.FLY"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.FMU"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FNI"
+msgstr "位置"
+
+msgid "ISO_639-3.FOM"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.FOR"
+msgstr "韓國"
+
+msgid "ISO_639-3.FQS"
+msgstr "法羅文"
+
+msgid "ISO_639-3.FRA"
+msgstr "法文"
+
+msgid "ISO_639-3.FRC"
+msgstr "法文"
+
+msgid "ISO_639-3.FRK"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.FRP"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.FRR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FRS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FRY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FUI"
+msgstr "泰國"
+
+msgid "ISO_639-3.FUR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.FUU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.GAB"
+msgstr "邊界"
+
+msgid "ISO_639-3.GAF"
+msgstr "希臘"
+
+msgid "ISO_639-3.GAH"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.GAI"
+msgstr "邊界"
+
+msgid "ISO_639-3.GAL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.GAM"
+msgstr "Man"
+
+msgid "ISO_639-3.GAN"
+msgstr "中文"
+
+msgid "ISO_639-3.GAO"
+msgstr "位置"
+
+msgid "ISO_639-3.GAT"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.GBD"
+msgstr "邊界"
+
+msgid "ISO_639-3.GBF"
+msgstr "尋找："
+
+msgid "ISO_639-3.GBJ"
+msgstr "印尼文"
+
+msgid "ISO_639-3.GBK"
+msgstr "尋找："
+
+msgid "ISO_639-3.GBL"
+msgstr "泰國"
+
+msgid "ISO_639-3.GBM"
+msgstr "邊界"
+
+msgid "ISO_639-3.GBY"
+msgstr "邊界"
+
+msgid "ISO_639-3.GCC"
+msgstr "邊界"
+
+msgid "ISO_639-3.GCD"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GDI"
+msgstr "尋找："
+
+msgid "ISO_639-3.GDL"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.GDN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.GDQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.GDT"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.GDX"
+msgstr "尋找："
+
+msgid "ISO_639-3.GEA"
+msgstr "德文"
+
+msgid "ISO_639-3.GEB"
+msgstr "土耳其"
+
+msgid "ISO_639-3.GEG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.GEI"
+msgstr "希臘"
+
+msgid "ISO_639-3.GEJ"
+msgstr "德文"
+
+msgid "ISO_639-3.GEQ"
+msgstr "希臘"
+
+msgid "ISO_639-3.GEW"
+msgstr "德文"
+
+msgid "ISO_639-3.GEX"
+msgstr "韓國"
+
+msgid "ISO_639-3.GEZ"
+msgstr "希臘"
+
+msgid "ISO_639-3.GGE"
+msgstr "法羅文"
+
+msgid "ISO_639-3.GGK"
+msgstr "韓國"
+
+msgid "ISO_639-3.GHR"
+msgstr "德文"
+
+msgid "ISO_639-3.GHT"
+msgstr "中文"
+
+msgid "ISO_639-3.GIC"
+msgstr "泰國"
+
+msgid "ISO_639-3.GID"
+msgstr "尋找："
+
+msgid "ISO_639-3.GIG"
+msgstr "邊界"
+
+msgid "ISO_639-3.GIL"
+msgstr "越南"
+
+msgid "ISO_639-3.GIQ"
+msgstr "德文"
+
+msgid "ISO_639-3.GIR"
+msgstr "德文"
+
+msgid "ISO_639-3.GIW"
+msgstr "德文"
+
+msgid "ISO_639-3.GJM"
+msgstr "尋找："
+
+msgid "ISO_639-3.GJN"
+msgstr "尋找："
+
+msgid "ISO_639-3.GJU"
+msgstr "邊界"
+
+msgid "ISO_639-3.GKE"
+msgstr "邊界"
+
+msgid "ISO_639-3.GKN"
+msgstr "韓國"
+
+msgid "ISO_639-3.GLD"
+msgstr "邊界"
+
+msgid "ISO_639-3.GLE"
+msgstr "愛爾蘭文"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galeon"
+
+msgid "ISO_639-3.GLH"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.GLL"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.GLV"
+msgstr "Man"
+
+msgid "ISO_639-3.GMA"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.GMV"
+msgstr "希臘"
+
+msgid "ISO_639-3.GNA"
+msgstr "暫停"
+
+msgid "ISO_639-3.GNC"
+msgstr "Man"
+
+msgid "ISO_639-3.GNE"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.GNH"
+msgstr "希伯來"
+
+msgid "ISO_639-3.GNI"
+msgstr "尋找："
+
+msgid "ISO_639-3.GNM"
+msgstr "德文"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Man"
+
+msgid "ISO_639-3.GNW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.GNZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.GOA"
+msgstr "希臘"
+
+msgid "ISO_639-3.GOD"
+msgstr "尋找："
+
+msgid "ISO_639-3.GOE"
+msgstr "尋找："
+
+msgid "ISO_639-3.GOF"
+msgstr "韓國"
+
+msgid "ISO_639-3.GOK"
+msgstr "韓國"
+
+msgid "ISO_639-3.GON"
+msgstr "尋找："
+
+msgid "ISO_639-3.GOS"
+msgstr "尋找："
+
+msgid "ISO_639-3.GOY"
+msgstr "尋找："
+
+msgid "ISO_639-3.GPN"
+msgstr "泰國"
+
+msgid "ISO_639-3.GQA"
+msgstr "Man"
+
+msgid "ISO_639-3.GQU"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.GRB"
+msgstr "希臘"
+
+msgid "ISO_639-3.GRG"
+msgstr "邊界"
+
+msgid "ISO_639-3.GRI"
+msgstr "泰國"
+
+msgid "ISO_639-3.GRO"
+msgstr "德文"
+
+msgid "ISO_639-3.GRR"
+msgstr "位置"
+
+msgid "ISO_639-3.GRS"
+msgstr "希臘"
+
+msgid "ISO_639-3.GRT"
+msgstr "希臘"
+
+msgid "ISO_639-3.GRU"
+msgstr "中文"
+
+msgid "ISO_639-3.GRX"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.GSW"
+msgstr "德文"
+
+msgid "ISO_639-3.GUR"
+msgstr "法羅文"
+
+msgid "ISO_639-3.GVE"
+msgstr "荷蘭文"
+
+msgid "ISO_639-3.GVF"
+msgstr "尋找："
+
+msgid "ISO_639-3.GVM"
+msgstr "德文"
+
+msgid "ISO_639-3.GVR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.GWA"
+msgstr "邊界"
+
+msgid "ISO_639-3.GWC"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.GWE"
+msgstr "希臘"
+
+msgid "ISO_639-3.GWF"
+msgstr "希臘"
+
+msgid "ISO_639-3.GWN"
+msgstr "Man"
+
+msgid "ISO_639-3.GWR"
+msgstr "希臘"
+
+msgid "ISO_639-3.GWW"
+msgstr "尋找："
+
+msgid "ISO_639-3.GYB"
+msgstr "暫停"
+
+msgid "ISO_639-3.GYE"
+msgstr "德文"
+
+msgid "ISO_639-3.GYF"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.GYI"
+msgstr "希臘"
+
+msgid "ISO_639-3.GYL"
+msgstr "泰國"
+
+msgid "ISO_639-3.GZI"
+msgstr "泰國"
+
+msgid "ISO_639-3.GZN"
+msgstr "德文"
+
+msgid "ISO_639-3.HAC"
+msgstr "德文"
+
+msgid "ISO_639-3.HAD"
+msgstr "暫停"
+
+msgid "ISO_639-3.HAG"
+msgstr "暫停"
+
+msgid "ISO_639-3.HAI"
+msgstr "尋找："
+
+msgid "ISO_639-3.HAK"
+msgstr "中文"
+
+msgid "ISO_639-3.HAL"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.HAM"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.HAN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.HAP"
+msgstr "暫停"
+
+msgid "ISO_639-3.HAQ"
+msgstr "暫停"
+
+msgid "ISO_639-3.HAR"
+msgstr "邊界"
+
+msgid "ISO_639-3.HAS"
+msgstr "尋找："
+
+msgid "ISO_639-3.HAT"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.HAU"
+msgstr "暫停"
+
+msgid "ISO_639-3.HAV"
+msgstr "暫停"
+
+msgid "ISO_639-3.HAY"
+msgstr "暫停"
+
+msgid "ISO_639-3.HBA"
+msgstr "暫停"
+
+msgid "ISO_639-3.HBB"
+msgstr "暫停"
+
+msgid "ISO_639-3.HBN"
+msgstr "列印"
+
+msgid "ISO_639-3.HBO"
+msgstr "希伯來"
+
+msgid "ISO_639-3.HBS"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.HBU"
+msgstr "暫停"
+
+msgid "ISO_639-3.HDY"
+msgstr "尋找："
+
+msgid "ISO_639-3.HEB"
+msgstr "希伯來"
+
+msgid "ISO_639-3.HEH"
+msgstr "希伯來"
+
+msgid "ISO_639-3.HER"
+msgstr "希伯來"
+
+msgid "ISO_639-3.HGW"
+msgstr "尋找："
+
+msgid "ISO_639-3.HHR"
+msgstr "其它"
+
+msgid "ISO_639-3.HHY"
+msgstr "暫停"
+
+msgid "ISO_639-3.HIA"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.HIB"
+msgstr "尋找："
+
+msgid "ISO_639-3.HID"
+msgstr "暫停"
+
+msgid "ISO_639-3.HIF"
+msgstr "尋找："
+
+msgid "ISO_639-3.HIG"
+msgstr "其它"
+
+msgid "ISO_639-3.HII"
+msgstr "尋找："
+
+msgid "ISO_639-3.HIN"
+msgstr "尋找："
+
+msgid "ISO_639-3.HIR"
+msgstr "尋找："
+
+msgid "ISO_639-3.HJI"
+msgstr "尋找："
+
+msgid "ISO_639-3.HKA"
+msgstr "其它"
+
+msgid "ISO_639-3.HKE"
+msgstr "尋找："
+
+msgid "ISO_639-3.HLA"
+msgstr "尋找："
+
+msgid "ISO_639-3.HLB"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.HLE"
+msgstr "暫停"
+
+msgid "ISO_639-3.HLT"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.HMJ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.HMO"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.HMT"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.HMU"
+msgstr "暫停"
+
+msgid "ISO_639-3.HMW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.HNI"
+msgstr "尋找："
+
+msgid "ISO_639-3.HNU"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.HOA"
+msgstr "暫停"
+
+msgid "ISO_639-3.HOE"
+msgstr "從："
+
+msgid "ISO_639-3.HOJ"
+msgstr "尋找："
+
+msgid "ISO_639-3.HOM"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.HOR"
+msgstr "希伯來"
+
+msgid "ISO_639-3.HOW"
+msgstr "尋找："
+
+msgid "ISO_639-3.HRE"
+msgstr "希伯來"
+
+msgid "ISO_639-3.HRO"
+msgstr "尋找："
+
+msgid "ISO_639-3.HRU"
+msgstr "暫停"
+
+msgid "ISO_639-3.HRV"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.HRW"
+msgstr "邊界"
+
+msgid "ISO_639-3.HRX"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.HRZ"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.HSB"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.HSN"
+msgstr "中文"
+
+msgid "ISO_639-3.HSS"
+msgstr "暫停"
+
+msgid "ISO_639-3.HTS"
+msgstr "尋找："
+
+msgid "ISO_639-3.HUB"
+msgstr "尋找："
+
+msgid "ISO_639-3.HUC"
+msgstr "暫停"
+
+msgid "ISO_639-3.HUD"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.HUL"
+msgstr "暫停"
+
+msgid "ISO_639-3.HUM"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.HUN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.HUO"
+msgstr "暫停"
+
+msgid "ISO_639-3.HUP"
+msgstr "暫停"
+
+msgid "ISO_639-3.HUS"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.HUT"
+msgstr "暫停"
+
+msgid "ISO_639-3.HWO"
+msgstr "暫停"
+
+msgid "ISO_639-3.IAI"
+msgstr "邊界"
+
+msgid "ISO_639-3.IAR"
+msgstr "邊界"
+
+msgid "ISO_639-3.IBD"
+msgstr "尋找："
+
+msgid "ISO_639-3.IBL"
+msgstr "意大利文"
+
+msgid "ISO_639-3.IBY"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.IDB"
+msgstr "葡萄牙文"
+
+msgid "ISO_639-3.IDR"
+msgstr "尋找："
+
+msgid "ISO_639-3.IDS"
+msgstr "印尼文"
+
+msgid "ISO_639-3.IGL"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.IGN"
+msgstr "意大利文"
+
+msgid "ISO_639-3.IGS"
+msgstr "頁面處理"
+
+msgid "ISO_639-3.III"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.IJE"
+msgstr "尋找："
+
+msgid "ISO_639-3.IKR"
+msgstr "韓國"
+
+msgid "ISO_639-3.IKS"
+msgstr "韓國"
+
+msgid "ISO_639-3.ILB"
+msgstr "意大利文"
+
+msgid "ISO_639-3.ILE"
+msgstr "頁面處理"
+
+msgid "ISO_639-3.ILI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.ILM"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.IMA"
+msgstr "否"
+
+msgid "ISO_639-3.IMO"
+msgstr "英文"
+
+msgid "ISO_639-3.IMS"
+msgstr "邊界"
+
+msgid "ISO_639-3.IMY"
+msgstr "Man"
+
+msgid "ISO_639-3.INB"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.IND"
+msgstr "印尼文"
+
+msgid "ISO_639-3.INH"
+msgstr "英文"
+
+msgid "ISO_639-3.INN"
+msgstr "尋找："
+
+msgid "ISO_639-3.IPK"
+msgstr "印度"
+
+msgid "ISO_639-3.IRU"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.IRX"
+msgstr "其它"
+
+msgid "ISO_639-3.ISA"
+msgstr "邊界"
+
+msgid "ISO_639-3.ISH"
+msgstr "愛沙尼亞文"
+
+msgid "ISO_639-3.ISL"
+msgstr "冰島文"
+
+msgid "ISO_639-3.ISM"
+msgstr "邊界"
+
+msgid "ISO_639-3.ITA"
+msgstr "意大利文"
+
+msgid "ISO_639-3.ITD"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ITE"
+msgstr "頁面處理"
+
+msgid "ISO_639-3.ITK"
+msgstr "意大利文"
+
+msgid "ISO_639-3.ITR"
+msgstr "頁面處理"
+
+msgid "ISO_639-3.ITV"
+msgstr "意大利文"
+
+msgid "ISO_639-3.ITY"
+msgstr "挪威文"
+
+msgid "ISO_639-3.IVB"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.IVV"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.IZH"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.JAC"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.JAF"
+msgstr "邊界"
+
+msgid "ISO_639-3.JAN"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.JAU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.JAV"
+msgstr "日本"
+
+msgid "ISO_639-3.JAY"
+msgstr "Man"
+
+msgid "ISO_639-3.JBE"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.JBJ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.JBK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.JCT"
+msgstr "韓國"
+
+msgid "ISO_639-3.JDT"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.JEB"
+msgstr "希伯來"
+
+msgid "ISO_639-3.JEG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.JER"
+msgstr "希伯來"
+
+msgid "ISO_639-3.JET"
+msgstr "Man"
+
+msgid "ISO_639-3.JGE"
+msgstr "列印"
+
+msgid "ISO_639-3.JHI"
+msgstr "韓國"
+
+msgid "ISO_639-3.JKR"
+msgstr "印尼文"
+
+msgid "ISO_639-3.JKU"
+msgstr "位置"
+
+msgid "ISO_639-3.JLE"
+msgstr "邊界"
+
+msgid "ISO_639-3.JMC"
+msgstr "Man"
+
+msgid "ISO_639-3.JMN"
+msgstr "土耳其"
+
+msgid "ISO_639-3.JND"
+msgstr "Man"
+
+msgid "ISO_639-3.JNI"
+msgstr "泰國"
+
+msgid "ISO_639-3.JNS"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.JPN"
+msgstr "日本"
+
+msgid "ISO_639-3.JPR"
+msgstr "列印"
+
+msgid "ISO_639-3.JRA"
+msgstr "邊界"
+
+msgid "ISO_639-3.JRB"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.JUK"
+msgstr "日本"
+
+msgid "ISO_639-3.JUL"
+msgstr "土耳其"
+
+msgid "ISO_639-3.JUP"
+msgstr "暫停"
+
+msgid "ISO_639-3.JUT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.JVD"
+msgstr "Man"
+
+msgid "ISO_639-3.JVN"
+msgstr "日本"
+
+msgid "ISO_639-3.JYE"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.KAD"
+msgstr "Man"
+
+msgid "ISO_639-3.KAE"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.KAF"
+msgstr "暫停"
+
+msgid "ISO_639-3.KAI"
+msgstr "韓國"
+
+msgid "ISO_639-3.KAK"
+msgstr "韓國"
+
+msgid "ISO_639-3.KAU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KBE"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KBI"
+msgstr "位置"
+
+msgid "ISO_639-3.KBJ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KBL"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KBP"
+msgstr "泰國"
+
+msgid "ISO_639-3.KBS"
+msgstr "韓國"
+
+msgid "ISO_639-3.KBT"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.KBU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KBV"
+msgstr "印尼文"
+
+msgid "ISO_639-3.KBW"
+msgstr "泰國"
+
+msgid "ISO_639-3.KBY"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KBZ"
+msgstr "荷蘭文"
+
+msgid "ISO_639-3.KCC"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.KCE"
+msgstr "泰國"
+
+msgid "ISO_639-3.KCF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KCI"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.KCJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KCO"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.KCP"
+msgstr "韓國"
+
+msgid "ISO_639-3.KCR"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.KCS"
+msgstr "韓國"
+
+msgid "ISO_639-3.KCT"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.KCW"
+msgstr "邊界"
+
+msgid "ISO_639-3.KCY"
+msgstr "韓國"
+
+msgid "ISO_639-3.KDC"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KDE"
+msgstr "否"
+
+msgid "ISO_639-3.KDF"
+msgstr "邊界"
+
+msgid "ISO_639-3.KDG"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.KDR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KDU"
+msgstr "Man"
+
+msgid "ISO_639-3.KDW"
+msgstr "韓國"
+
+msgid "ISO_639-3.KDY"
+msgstr "其它"
+
+msgid "ISO_639-3.KEA"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.KED"
+msgstr "希伯來"
+
+msgid "ISO_639-3.KEG"
+msgstr "日本"
+
+msgid "ISO_639-3.KEH"
+msgstr "其它"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Man"
+
+msgid "ISO_639-3.KEN"
+msgstr "韓國"
+
+msgid "ISO_639-3.KEQ"
+msgstr "其它"
+
+msgid "ISO_639-3.KER"
+msgstr "其它"
+
+msgid "ISO_639-3.KEY"
+msgstr "印度"
+
+msgid "ISO_639-3.KEZ"
+msgstr "中文"
+
+msgid "ISO_639-3.KFA"
+msgstr "韓國"
+
+msgid "ISO_639-3.KFB"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KFD"
+msgstr "邊界"
+
+msgid "ISO_639-3.KFE"
+msgstr "印尼文"
+
+msgid "ISO_639-3.KFF"
+msgstr "韓國"
+
+msgid "ISO_639-3.KFG"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFM"
+msgstr "泰國"
+
+msgid "ISO_639-3.KFN"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFP"
+msgstr "韓國"
+
+msgid "ISO_639-3.KFR"
+msgstr "泰國"
+
+msgid "ISO_639-3.KFS"
+msgstr "泰國"
+
+msgid "ISO_639-3.KFT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFV"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KFW"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.KFX"
+msgstr "泰國"
+
+msgid "ISO_639-3.KFY"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KGB"
+msgstr "韓國"
+
+msgid "ISO_639-3.KGD"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.KGE"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.KGL"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.KGN"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.KGP"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.KGV"
+msgstr "韓國"
+
+msgid "ISO_639-3.KGW"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KHA"
+msgstr "泰國"
+
+msgid "ISO_639-3.KHE"
+msgstr "韓國"
+
+msgid "ISO_639-3.KHF"
+msgstr "其它"
+
+msgid "ISO_639-3.KHJ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KHL"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KHN"
+msgstr "中文"
+
+msgid "ISO_639-3.KHO"
+msgstr "中文"
+
+msgid "ISO_639-3.KHP"
+msgstr "邊界"
+
+msgid "ISO_639-3.KHR"
+msgstr "泰國"
+
+msgid "ISO_639-3.KHS"
+msgstr "暫停"
+
+msgid "ISO_639-3.KHT"
+msgstr "泰國"
+
+msgid "ISO_639-3.KHV"
+msgstr "泰國"
+
+msgid "ISO_639-3.KHX"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KIB"
+msgstr "韓國"
+
+msgid "ISO_639-3.KID"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.KIH"
+msgstr "其它"
+
+msgid "ISO_639-3.KIL"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KIM"
+msgstr "邊界"
+
+msgid "ISO_639-3.KIQ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KIS"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KIW"
+msgstr "韓國"
+
+msgid "ISO_639-3.KIX"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.KJC"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.KJE"
+msgstr "韓國"
+
+msgid "ISO_639-3.KJG"
+msgstr "其它"
+
+msgid "ISO_639-3.KJO"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KJQ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KJR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KKA"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.KKK"
+msgstr "韓國"
+
+msgid "ISO_639-3.KKL"
+msgstr "韓國"
+
+msgid "ISO_639-3.KKO"
+msgstr "韓國"
+
+msgid "ISO_639-3.KKQ"
+msgstr "泰國"
+
+msgid "ISO_639-3.KKT"
+msgstr "韓國"
+
+msgid "ISO_639-3.KKU"
+msgstr "泰國"
+
+msgid "ISO_639-3.KKV"
+msgstr "韓國"
+
+msgid "ISO_639-3.KKX"
+msgstr "泰國"
+
+msgid "ISO_639-3.KKZ"
+msgstr "暫停"
+
+msgid "ISO_639-3.KLG"
+msgstr "否"
+
+msgid "ISO_639-3.KLJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KLL"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.KLM"
+msgstr "邊界"
+
+msgid "ISO_639-3.KLN"
+msgstr "韓國"
+
+msgid "ISO_639-3.KLP"
+msgstr "暫停"
+
+msgid "ISO_639-3.KLR"
+msgstr "泰國"
+
+msgid "ISO_639-3.KLW"
+msgstr "位置"
+
+msgid "ISO_639-3.KMA"
+msgstr "韓國"
+
+msgid "ISO_639-3.KMD"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.KMK"
+msgstr "泰國"
+
+msgid "ISO_639-3.KML"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.KMR"
+msgstr "韓國"
+
+msgid "ISO_639-3.KMU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KMY"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.KNC"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KND"
+msgstr "韓國"
+
+msgid "ISO_639-3.KNE"
+msgstr "韓國"
+
+msgid "ISO_639-3.KNI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KNJ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KNK"
+msgstr "韓國"
+
+msgid "ISO_639-3.KOC"
+msgstr "位置"
+
+msgid "ISO_639-3.KOD"
+msgstr "尋找："
+
+msgid "ISO_639-3.KOF"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KOG"
+msgstr "邊界"
+
+msgid "ISO_639-3.KOK"
+msgstr "韓國"
+
+msgid "ISO_639-3.KOO"
+msgstr "韓國"
+
+msgid "ISO_639-3.KOR"
+msgstr "韓國"
+
+msgid "ISO_639-3.KOS"
+msgstr "韓國"
+
+msgid "ISO_639-3.KOT"
+msgstr "邊界"
+
+msgid "ISO_639-3.KOU"
+msgstr "韓國"
+
+msgid "ISO_639-3.KOZ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KPD"
+msgstr "韓國"
+
+msgid "ISO_639-3.KPK"
+msgstr "韓國"
+
+msgid "ISO_639-3.KPR"
+msgstr "韓國"
+
+msgid "ISO_639-3.KPS"
+msgstr "泰國"
+
+msgid "ISO_639-3.KPY"
+msgstr "韓國"
+
+msgid "ISO_639-3.KQB"
+msgstr "韓國"
+
+msgid "ISO_639-3.KQG"
+msgstr "其它"
+
+msgid "ISO_639-3.KQM"
+msgstr "泰國"
+
+msgid "ISO_639-3.KQO"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KQQ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KQR"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.KQU"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.KQW"
+msgstr "Man"
+
+msgid "ISO_639-3.KQY"
+msgstr "韓國"
+
+msgid "ISO_639-3.KQZ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KRA"
+msgstr "泰國"
+
+msgid "ISO_639-3.KRB"
+msgstr "韓國"
+
+msgid "ISO_639-3.KRE"
+msgstr "Man"
+
+msgid "ISO_639-3.KRH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.KRI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KRK"
+msgstr "希臘"
+
+msgid "ISO_639-3.KRL"
+msgstr "韓國"
+
+msgid "ISO_639-3.KRM"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KRT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KRU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KRV"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KRW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KRX"
+msgstr "韓國"
+
+msgid "ISO_639-3.KRZ"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.KSD"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KSE"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KSF"
+msgstr "暫停"
+
+msgid "ISO_639-3.KSI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KSJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KSK"
+msgstr "暫停"
+
+msgid "ISO_639-3.KSO"
+msgstr "韓國"
+
+msgid "ISO_639-3.KSR"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.KSV"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KSX"
+msgstr "韓國"
+
+msgid "ISO_639-3.KSZ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KTA"
+msgstr "暫停"
+
+msgid "ISO_639-3.KTD"
+msgstr "韓國"
+
+msgid "ISO_639-3.KTF"
+msgstr "泰國"
+
+msgid "ISO_639-3.KTH"
+msgstr "韓國"
+
+msgid "ISO_639-3.KTK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KTM"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KTV"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KUC"
+msgstr "尋找："
+
+msgid "ISO_639-3.KUF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KUG"
+msgstr "暫停"
+
+msgid "ISO_639-3.KUH"
+msgstr "泰國"
+
+msgid "ISO_639-3.KUJ"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.KUO"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KUQ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KUR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KUV"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KVB"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KVC"
+msgstr "韓國"
+
+msgid "ISO_639-3.KVD"
+msgstr "印尼文"
+
+msgid "ISO_639-3.KVI"
+msgstr "韓國"
+
+msgid "ISO_639-3.KVL"
+msgstr "韓國"
+
+msgid "ISO_639-3.KVP"
+msgstr "韓國"
+
+msgid "ISO_639-3.KVV"
+msgstr "韓國"
+
+msgid "ISO_639-3.KVW"
+msgstr "列印"
+
+msgid "ISO_639-3.KWC"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.KWD"
+msgstr "泰國"
+
+msgid "ISO_639-3.KWE"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.KWF"
+msgstr "韓國"
+
+msgid "ISO_639-3.KWH"
+msgstr "韓國"
+
+msgid "ISO_639-3.KWN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.KWP"
+msgstr "挪威文"
+
+msgid "ISO_639-3.KWR"
+msgstr "其它"
+
+msgid "ISO_639-3.KWW"
+msgstr "尋找："
+
+msgid "ISO_639-3.KWY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KWZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.KXA"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KXC"
+msgstr "從："
+
+msgid "ISO_639-3.KXD"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.KXN"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KXP"
+msgstr "Man"
+
+msgid "ISO_639-3.KXS"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KXV"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KXW"
+msgstr "韓國"
+
+msgid "ISO_639-3.KXZ"
+msgstr "希伯來"
+
+msgid "ISO_639-3.KYD"
+msgstr "韓國"
+
+msgid "ISO_639-3.KYH"
+msgstr "韓國"
+
+msgid "ISO_639-3.KYJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.KYM"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.KYO"
+msgstr "韓國"
+
+msgid "ISO_639-3.KYP"
+msgstr "韓國"
+
+msgid "ISO_639-3.KYQ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.KYS"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.KYU"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KZA"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.KZD"
+msgstr "邊界"
+
+msgid "ISO_639-3.KZE"
+msgstr "韓國"
+
+msgid "ISO_639-3.KZG"
+msgstr "韓國"
+
+msgid "ISO_639-3.KZL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.KZM"
+msgstr "泰國"
+
+msgid "ISO_639-3.KZN"
+msgstr "韓國"
+
+msgid "ISO_639-3.KZO"
+msgstr "土耳其"
+
+msgid "ISO_639-3.KZQ"
+msgstr "泰國"
+
+msgid "ISO_639-3.KZR"
+msgstr "韓國"
+
+msgid "ISO_639-3.KZX"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.LAB"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LAD"
+msgstr "位置"
+
+msgid "ISO_639-3.LAG"
+msgstr "位置"
+
+msgid "ISO_639-3.LAL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.LAT"
+msgstr "位置"
+
+msgid "ISO_639-3.LAV"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LAY"
+msgstr "泰國"
+
+msgid "ISO_639-3.LBA"
+msgstr "泰國"
+
+msgid "ISO_639-3.LBC"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LBF"
+msgstr "芬蘭文"
+
+msgid "ISO_639-3.LBI"
+msgstr "位置"
+
+msgid "ISO_639-3.LBJ"
+msgstr "位置"
+
+msgid "ISO_639-3.LBK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.LBM"
+msgstr "尋找："
+
+msgid "ISO_639-3.LBN"
+msgstr "位置"
+
+msgid "ISO_639-3.LBO"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LBT"
+msgstr "位置"
+
+msgid "ISO_639-3.LBW"
+msgstr "泰國"
+
+msgid "ISO_639-3.LBZ"
+msgstr "位置"
+
+msgid "ISO_639-3.LCH"
+msgstr "泰國"
+
+msgid "ISO_639-3.LCL"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LCP"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.LDD"
+msgstr "泰國"
+
+msgid "ISO_639-3.LDI"
+msgstr "邊界"
+
+msgid "ISO_639-3.LDL"
+msgstr "韓國"
+
+msgid "ISO_639-3.LDM"
+msgstr "位置"
+
+msgid "ISO_639-3.LDN"
+msgstr "位置"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LEM"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.LES"
+msgstr "日本"
+
+msgid "ISO_639-3.LEX"
+msgstr "位置"
+
+msgid "ISO_639-3.LFN"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LGA"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LGG"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.LGK"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LGQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.LGT"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.LHH"
+msgstr "印尼文"
+
+msgid "ISO_639-3.LHN"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LHT"
+msgstr "邊界"
+
+msgid "ISO_639-3.LHU"
+msgstr "Man"
+
+msgid "ISO_639-3.LIC"
+msgstr "尋找："
+
+msgid "ISO_639-3.LIE"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LIF"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LIJ"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LIM"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LIN"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LIR"
+msgstr "英文"
+
+msgid "ISO_639-3.LIT"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LIU"
+msgstr "邊界"
+
+msgid "ISO_639-3.LIW"
+msgstr "色彩"
+
+msgid "ISO_639-3.LJE"
+msgstr "泰國"
+
+msgid "ISO_639-3.LJI"
+msgstr "位置"
+
+msgid "ISO_639-3.LJL"
+msgstr "位置"
+
+msgid "ISO_639-3.LJP"
+msgstr "位置"
+
+msgid "ISO_639-3.LJW"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.LKB"
+msgstr "韓國"
+
+msgid "ISO_639-3.LKC"
+msgstr "韓國"
+
+msgid "ISO_639-3.LKD"
+msgstr "否"
+
+msgid "ISO_639-3.LKE"
+msgstr "韓國"
+
+msgid "ISO_639-3.LKI"
+msgstr "位置"
+
+msgid "ISO_639-3.LKM"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.LKN"
+msgstr "否"
+
+msgid "ISO_639-3.LKO"
+msgstr "泰國"
+
+msgid "ISO_639-3.LKS"
+msgstr "韓國"
+
+msgid "ISO_639-3.LKT"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LKU"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.LLD"
+msgstr "位置"
+
+msgid "ISO_639-3.LLF"
+msgstr "尋找："
+
+msgid "ISO_639-3.LLH"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.LLL"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LLM"
+msgstr "邊界"
+
+msgid "ISO_639-3.LLO"
+msgstr "其它"
+
+msgid "ISO_639-3.LLX"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LMB"
+msgstr "邊界"
+
+msgid "ISO_639-3.LMC"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LMG"
+msgstr "邊界"
+
+msgid "ISO_639-3.LML"
+msgstr "位置"
+
+msgid "ISO_639-3.LMN"
+msgstr "位置"
+
+msgid "ISO_639-3.LMP"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LNB"
+msgstr "Man"
+
+msgid "ISO_639-3.LNH"
+msgstr "位置"
+
+msgid "ISO_639-3.LNI"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LNM"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LNS"
+msgstr "位置"
+
+msgid "ISO_639-3.LNW"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.LOC"
+msgstr "印尼文"
+
+msgid "ISO_639-3.LOE"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.LOH"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.LOO"
+msgstr "從："
+
+msgid "ISO_639-3.LOQ"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LOS"
+msgstr "尋找："
+
+msgid "ISO_639-3.LPO"
+msgstr "位置"
+
+msgid "ISO_639-3.LRA"
+msgstr "泰國"
+
+msgid "ISO_639-3.LRC"
+msgstr "韓國"
+
+msgid "ISO_639-3.LRE"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LRG"
+msgstr "邊界"
+
+msgid "ISO_639-3.LRI"
+msgstr "邊界"
+
+msgid "ISO_639-3.LRK"
+msgstr "邊界"
+
+msgid "ISO_639-3.LRL"
+msgstr "邊界"
+
+msgid "ISO_639-3.LRM"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.LRN"
+msgstr "韓國"
+
+msgid "ISO_639-3.LRO"
+msgstr "位置"
+
+msgid "ISO_639-3.LRZ"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.LSD"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LSH"
+msgstr "愛爾蘭文"
+
+msgid "ISO_639-3.LSI"
+msgstr "泰國"
+
+msgid "ISO_639-3.LSM"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.LSS"
+msgstr "邊界"
+
+msgid "ISO_639-3.LTG"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.LTI"
+msgstr "印尼文"
+
+msgid "ISO_639-3.LTN"
+msgstr "位置"
+
+msgid "ISO_639-3.LTO"
+msgstr "從："
+
+msgid "ISO_639-3.LTS"
+msgstr "色彩"
+
+msgid "ISO_639-3.LTU"
+msgstr "位置"
+
+msgid "ISO_639-3.LUC"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LUD"
+msgstr "位置"
+
+msgid "ISO_639-3.LUF"
+msgstr "暫停"
+
+msgid "ISO_639-3.LUJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.LUM"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LUR"
+msgstr "暫停"
+
+msgid "ISO_639-3.LUS"
+msgstr "泰國"
+
+msgid "ISO_639-3.LUV"
+msgstr "位置"
+
+msgid "ISO_639-3.LVS"
+msgstr "Man"
+
+msgid "ISO_639-3.LWG"
+msgstr "暫停"
+
+msgid "ISO_639-3.LWH"
+msgstr "位置"
+
+msgid "ISO_639-3.LWM"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.LYG"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.LYN"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.LZH"
+msgstr "中文"
+
+msgid "ISO_639-3.LZN"
+msgstr "邊界"
+
+msgid "ISO_639-3.MAD"
+msgstr "否"
+
+msgid "ISO_639-3.MAF"
+msgstr "邊界"
+
+msgid "ISO_639-3.MAH"
+msgstr "否"
+
+msgid "ISO_639-3.MAM"
+msgstr "邊界"
+
+msgid "ISO_639-3.MAS"
+msgstr "邊界"
+
+msgid "ISO_639-3.MAW"
+msgstr "邊界"
+
+msgid "ISO_639-3.MAZ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.MBC"
+msgstr "邊界"
+
+msgid "ISO_639-3.MBE"
+msgstr "否"
+
+msgid "ISO_639-3.MBF"
+msgstr "暫停"
+
+msgid "ISO_639-3.MBK"
+msgstr "邊界"
+
+msgid "ISO_639-3.MBQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MBS"
+msgstr "Man"
+
+msgid "ISO_639-3.MBW"
+msgstr "邊界"
+
+msgid "ISO_639-3.MBY"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.MCA"
+msgstr "邊界"
+
+msgid "ISO_639-3.MCH"
+msgstr "邊界"
+
+msgid "ISO_639-3.MCI"
+msgstr "否"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Man"
+
+msgid "ISO_639-3.MCK"
+msgstr "Man"
+
+msgid "ISO_639-3.MCN"
+msgstr "邊界"
+
+msgid "ISO_639-3.MCP"
+msgstr "邊界"
+
+msgid "ISO_639-3.MCS"
+msgstr "邊界"
+
+msgid "ISO_639-3.MCT"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.MCZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MDB"
+msgstr "邊界"
+
+msgid "ISO_639-3.MDG"
+msgstr "邊界"
+
+msgid "ISO_639-3.MDH"
+msgstr "Man"
+
+msgid "ISO_639-3.MDN"
+msgstr "邊界"
+
+msgid "ISO_639-3.MDP"
+msgstr "邊界"
+
+msgid "ISO_639-3.MDR"
+msgstr "Man"
+
+msgid "ISO_639-3.MDW"
+msgstr "邊界"
+
+msgid "ISO_639-3.MDX"
+msgstr "尋找："
+
+msgid "ISO_639-3.MEC"
+msgstr "邊界"
+
+msgid "ISO_639-3.MEL"
+msgstr "土耳其"
+
+msgid "ISO_639-3.MEM"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.MES"
+msgstr "邊界"
+
+msgid "ISO_639-3.MET"
+msgstr "邊界"
+
+msgid "ISO_639-3.MEV"
+msgstr "邊界"
+
+msgid "ISO_639-3.MEW"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.MFA"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.MFB"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.MFE"
+msgstr "邊界"
+
+msgid "ISO_639-3.MFF"
+msgstr "邊界"
+
+msgid "ISO_639-3.MFH"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.MFI"
+msgstr "Man"
+
+msgid "ISO_639-3.MFK"
+msgstr "韓國"
+
+msgid "ISO_639-3.MFL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.MFP"
+msgstr "邊界"
+
+msgid "ISO_639-3.MFR"
+msgstr "邊界"
+
+msgid "ISO_639-3.MFV"
+msgstr "Man"
+
+msgid "ISO_639-3.MFY"
+msgstr "邊界"
+
+msgid "ISO_639-3.MFZ"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.MGB"
+msgstr "邊界"
+
+msgid "ISO_639-3.MGD"
+msgstr "邊界"
+
+msgid "ISO_639-3.MGE"
+msgstr "Man"
+
+msgid "ISO_639-3.MGF"
+msgstr "否"
+
+msgid "ISO_639-3.MGK"
+msgstr "否"
+
+msgid "ISO_639-3.MGN"
+msgstr "Man"
+
+msgid "ISO_639-3.MGP"
+msgstr "韓國"
+
+msgid "ISO_639-3.MGQ"
+msgstr "意大利文"
+
+msgid "ISO_639-3.MGU"
+msgstr "邊界"
+
+msgid "ISO_639-3.MHA"
+msgstr "印尼文"
+
+msgid "ISO_639-3.MHE"
+msgstr "尋找："
+
+msgid "ISO_639-3.MHF"
+msgstr "邊界"
+
+msgid "ISO_639-3.MHG"
+msgstr "邊界"
+
+msgid "ISO_639-3.MHI"
+msgstr "邊界"
+
+msgid "ISO_639-3.MHK"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.MHP"
+msgstr "中文"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Man"
+
+msgid "ISO_639-3.MHS"
+msgstr "印尼文"
+
+msgid "ISO_639-3.MHT"
+msgstr "Man"
+
+msgid "ISO_639-3.MHX"
+msgstr "邊界"
+
+msgid "ISO_639-3.MIA"
+msgstr "邊界"
+
+msgid "ISO_639-3.MID"
+msgstr "Man"
+
+msgid "ISO_639-3.MIJ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.MIK"
+msgstr "邊界"
+
+msgid "ISO_639-3.MJB"
+msgstr "邊界"
+
+msgid "ISO_639-3.MJJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MJK"
+msgstr "Man"
+
+msgid "ISO_639-3.MJL"
+msgstr "Man"
+
+msgid "ISO_639-3.MJP"
+msgstr "Man"
+
+msgid "ISO_639-3.MJR"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.MJU"
+msgstr "Man"
+
+msgid "ISO_639-3.MJV"
+msgstr "Man"
+
+msgid "ISO_639-3.MJW"
+msgstr "土耳其"
+
+msgid "ISO_639-3.MJX"
+msgstr "邊界"
+
+msgid "ISO_639-3.MJY"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.MJZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MKA"
+msgstr "希伯來"
+
+msgid "ISO_639-3.MKD"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.MKE"
+msgstr "Man"
+
+msgid "ISO_639-3.MKI"
+msgstr "泰國"
+
+msgid "ISO_639-3.MKJ"
+msgstr "否"
+
+msgid "ISO_639-3.MKR"
+msgstr "否"
+
+msgid "ISO_639-3.MKV"
+msgstr "邊界"
+
+msgid "ISO_639-3.MKY"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.MKZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MLA"
+msgstr "邊界"
+
+msgid "ISO_639-3.MLE"
+msgstr "Man"
+
+msgid "ISO_639-3.MLF"
+msgstr "否"
+
+msgid "ISO_639-3.MLH"
+msgstr "日本"
+
+msgid "ISO_639-3.MLK"
+msgstr "暫停"
+
+msgid "ISO_639-3.MLP"
+msgstr "邊界"
+
+msgid "ISO_639-3.MLQ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MLS"
+msgstr "邊界"
+
+msgid "ISO_639-3.MLT"
+msgstr "否"
+
+msgid "ISO_639-3.MMA"
+msgstr "邊界"
+
+msgid "ISO_639-3.MMD"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.MME"
+msgstr "否"
+
+msgid "ISO_639-3.MMF"
+msgstr "Man"
+
+msgid "ISO_639-3.MMI"
+msgstr "邊界"
+
+msgid "ISO_639-3.MMJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MMM"
+msgstr "邊界"
+
+msgid "ISO_639-3.MMN"
+msgstr "Man"
+
+msgid "ISO_639-3.MMO"
+msgstr "Man"
+
+msgid "ISO_639-3.MMP"
+msgstr "邊界"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.MMR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MMU"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.MMV"
+msgstr "尋找："
+
+msgid "ISO_639-3.MMX"
+msgstr "Man"
+
+msgid "ISO_639-3.MNB"
+msgstr "Man"
+
+msgid "ISO_639-3.MNC"
+msgstr "Man"
+
+msgid "ISO_639-3.MNF"
+msgstr "Man"
+
+msgid "ISO_639-3.MNI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.MNK"
+msgstr "Man"
+
+msgid "ISO_639-3.MNL"
+msgstr "土耳其"
+
+msgid "ISO_639-3.MNM"
+msgstr "Man"
+
+msgid "ISO_639-3.MNP"
+msgstr "中文"
+
+msgid "ISO_639-3.MNQ"
+msgstr "尋找："
+
+msgid "ISO_639-3.MNS"
+msgstr "邊界"
+
+msgid "ISO_639-3.MNY"
+msgstr "Man"
+
+msgid "ISO_639-3.MNZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MOA"
+msgstr "Man"
+
+msgid "ISO_639-3.MOD"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MOI"
+msgstr "邊界"
+
+msgid "ISO_639-3.MOK"
+msgstr "邊界"
+
+msgid "ISO_639-3.MOM"
+msgstr "Man"
+
+msgid "ISO_639-3.MOR"
+msgstr "邊界"
+
+msgid "ISO_639-3.MOS"
+msgstr "邊界"
+
+msgid "ISO_639-3.MPC"
+msgstr "Man"
+
+msgid "ISO_639-3.MPD"
+msgstr "中文"
+
+msgid "ISO_639-3.MPE"
+msgstr "Man"
+
+msgid "ISO_639-3.MPG"
+msgstr "邊界"
+
+msgid "ISO_639-3.MPH"
+msgstr "Man"
+
+msgid "ISO_639-3.MPI"
+msgstr "否"
+
+msgid "ISO_639-3.MPN"
+msgstr "尋找："
+
+msgid "ISO_639-3.MPQ"
+msgstr "否"
+
+msgid "ISO_639-3.MPT"
+msgstr "Man"
+
+msgid "ISO_639-3.MPV"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.MPW"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.MPY"
+msgstr "邊界"
+
+msgid "ISO_639-3.MQA"
+msgstr "印尼文"
+
+msgid "ISO_639-3.MQE"
+msgstr "否"
+
+msgid "ISO_639-3.MQI"
+msgstr "邊界"
+
+msgid "ISO_639-3.MQJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MQP"
+msgstr "Man"
+
+msgid "ISO_639-3.MQR"
+msgstr "Man"
+
+msgid "ISO_639-3.MQS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MQU"
+msgstr "Man"
+
+msgid "ISO_639-3.MQV"
+msgstr "邊界"
+
+msgid "ISO_639-3.MQW"
+msgstr "邊界"
+
+msgid "ISO_639-3.MQY"
+msgstr "Man"
+
+msgid "ISO_639-3.MRA"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRB"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRC"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRD"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MRG"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRH"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRI"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRJ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MRR"
+msgstr "印尼文"
+
+msgid "ISO_639-3.MRV"
+msgstr "Man"
+
+msgid "ISO_639-3.MRW"
+msgstr "Man"
+
+msgid "ISO_639-3.MRX"
+msgstr "邊界"
+
+msgid "ISO_639-3.MRY"
+msgstr "Man"
+
+msgid "ISO_639-3.MRZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MSC"
+msgstr "Man"
+
+msgid "ISO_639-3.MSE"
+msgstr "否"
+
+msgid "ISO_639-3.MSG"
+msgstr "邊界"
+
+msgid "ISO_639-3.MSK"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.MSS"
+msgstr "否"
+
+msgid "ISO_639-3.MSV"
+msgstr "邊界"
+
+msgid "ISO_639-3.MSY"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.MSZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MTM"
+msgstr "邊界"
+
+msgid "ISO_639-3.MTN"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.MTR"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.MTS"
+msgstr "韓國"
+
+msgid "ISO_639-3.MTY"
+msgstr "邊界"
+
+msgid "ISO_639-3.MUA"
+msgstr "Man"
+
+msgid "ISO_639-3.MUI"
+msgstr "邊界"
+
+msgid "ISO_639-3.MUJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MUO"
+msgstr "邊界"
+
+msgid "ISO_639-3.MUP"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.MUR"
+msgstr "否"
+
+msgid "ISO_639-3.MUS"
+msgstr "希臘"
+
+msgid "ISO_639-3.MUT"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.MUU"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.MUX"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.MUY"
+msgstr "Man"
+
+msgid "ISO_639-3.MUZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVA"
+msgstr "Man"
+
+msgid "ISO_639-3.MVD"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVO"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVP"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVR"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVS"
+msgstr "否"
+
+msgid "ISO_639-3.MVU"
+msgstr "邊界"
+
+msgid "ISO_639-3.MVX"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.MVZ"
+msgstr "列印"
+
+msgid "ISO_639-3.MWI"
+msgstr "位置"
+
+msgid "ISO_639-3.MWK"
+msgstr "Man"
+
+msgid "ISO_639-3.MWL"
+msgstr "否"
+
+msgid "ISO_639-3.MWQ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.MWR"
+msgstr "邊界"
+
+msgid "ISO_639-3.MWV"
+msgstr "邊界"
+
+msgid "ISO_639-3.MWX"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.MWY"
+msgstr "邊界"
+
+msgid "ISO_639-3.MWZ"
+msgstr "尋找："
+
+msgid "ISO_639-3.MXC"
+msgstr "Man"
+
+msgid "ISO_639-3.MXD"
+msgstr "挪威文"
+
+msgid "ISO_639-3.MXF"
+msgstr "否"
+
+msgid "ISO_639-3.MXG"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.MXI"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.MXN"
+msgstr "印尼文"
+
+msgid "ISO_639-3.MXR"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.MXX"
+msgstr "Man"
+
+msgid "ISO_639-3.MYG"
+msgstr "Man"
+
+msgid "ISO_639-3.MYH"
+msgstr "邊界"
+
+msgid "ISO_639-3.MYI"
+msgstr "印尼文"
+
+msgid "ISO_639-3.MYL"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.MYR"
+msgstr "Man"
+
+msgid "ISO_639-3.MYS"
+msgstr "否"
+
+msgid "ISO_639-3.MYX"
+msgstr "邊界"
+
+msgid "ISO_639-3.MYY"
+msgstr "Man"
+
+msgid "ISO_639-3.MZE"
+msgstr "邊界"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Man"
+
+msgid "ISO_639-3.MZS"
+msgstr "日本"
+
+msgid "ISO_639-3.MZT"
+msgstr "尋找："
+
+msgid "ISO_639-3.MZV"
+msgstr "Man"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NAC"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.NAF"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.NAJ"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NAL"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NAN"
+msgstr "中文"
+
+msgid "ISO_639-3.NAP"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NAW"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NAX"
+msgstr "邊界"
+
+msgid "ISO_639-3.NBC"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.NBH"
+msgstr "邊界"
+
+msgid "ISO_639-3.NBJ"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.NBN"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NCB"
+msgstr "韓國"
+
+msgid "ISO_639-3.NCE"
+msgstr "日本"
+
+msgid "ISO_639-3.NCF"
+msgstr "停止"
+
+msgid "ISO_639-3.NCH"
+msgstr "韓國"
+
+msgid "ISO_639-3.NCN"
+msgstr "暫停"
+
+msgid "ISO_639-3.NDA"
+msgstr "暫停"
+
+msgid "ISO_639-3.NDF"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.NDH"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NDS"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NDX"
+msgstr "邊界"
+
+msgid "ISO_639-3.NDZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NEF"
+msgstr "越南"
+
+msgid "ISO_639-3.NEG"
+msgstr "挪威文"
+
+msgid "ISO_639-3.NEM"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NEP"
+msgstr "韓國"
+
+msgid "ISO_639-3.NEQ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NER"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.NES"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NEW"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NFD"
+msgstr "泰國"
+
+msgid "ISO_639-3.NGJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NGO"
+msgstr "邊界"
+
+msgid "ISO_639-3.NGX"
+msgstr "邊界"
+
+msgid "ISO_639-3.NGY"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NHA"
+msgstr "邊界"
+
+msgid "ISO_639-3.NHB"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.NHH"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NHO"
+msgstr "泰國"
+
+msgid "ISO_639-3.NHR"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NIB"
+msgstr "邊界"
+
+msgid "ISO_639-3.NID"
+msgstr "邊界"
+
+msgid "ISO_639-3.NIE"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NIJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NIO"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.NIQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NIR"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.NIX"
+msgstr "德文"
+
+msgid "ISO_639-3.NIY"
+msgstr "邊界"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.NJM"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.NJN"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.NJZ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NKA"
+msgstr "邊界"
+
+msgid "ISO_639-3.NKB"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.NKD"
+msgstr "韓國"
+
+msgid "ISO_639-3.NKG"
+msgstr "挪威文"
+
+msgid "ISO_639-3.NKI"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.NKJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NKN"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.NKU"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.NKZ"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.NLD"
+msgstr "荷蘭文"
+
+msgid "ISO_639-3.NLG"
+msgstr "德文"
+
+msgid "ISO_639-3.NLI"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.NLJ"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NLL"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NLQ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NLW"
+msgstr "邊界"
+
+msgid "ISO_639-3.NLX"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NLZ"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.NMA"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.NMB"
+msgstr "暫停"
+
+msgid "ISO_639-3.NMC"
+msgstr "邊界"
+
+msgid "ISO_639-3.NMF"
+msgstr "印尼文"
+
+msgid "ISO_639-3.NMG"
+msgstr "泰國"
+
+msgid "ISO_639-3.NML"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NMR"
+msgstr "泰國"
+
+msgid "ISO_639-3.NMV"
+msgstr "邊界"
+
+msgid "ISO_639-3.NMW"
+msgstr "邊界"
+
+msgid "ISO_639-3.NNF"
+msgstr "邊界"
+
+msgid "ISO_639-3.NNG"
+msgstr "邊界"
+
+msgid "ISO_639-3.NNM"
+msgstr "泰國"
+
+msgid "ISO_639-3.NNO"
+msgstr "挪威文"
+
+msgid "ISO_639-3.NOB"
+msgstr "挪威文"
+
+msgid "ISO_639-3.NOD"
+msgstr "韓國"
+
+msgid "ISO_639-3.NOF"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.NOG"
+msgstr "邊界"
+
+msgid "ISO_639-3.NOI"
+msgstr "尋找："
+
+msgid "ISO_639-3.NOJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NOL"
+msgstr "泰國"
+
+msgid "ISO_639-3.NON"
+msgstr "列印"
+
+msgid "ISO_639-3.NOR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.NOZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NPG"
+msgstr "邊界"
+
+msgid "ISO_639-3.NPI"
+msgstr "韓國"
+
+msgid "ISO_639-3.NPS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.NQY"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NRB"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NRC"
+msgstr "邊界"
+
+msgid "ISO_639-3.NRK"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.NRM"
+msgstr "從："
+
+msgid "ISO_639-3.NRN"
+msgstr "挪威文"
+
+msgid "ISO_639-3.NRR"
+msgstr "邊界"
+
+msgid "ISO_639-3.NRT"
+msgstr "韓國"
+
+msgid "ISO_639-3.NRU"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.NSA"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.NSC"
+msgstr "泰國"
+
+msgid "ISO_639-3.NSE"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.NSF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.NSG"
+msgstr "暫停"
+
+msgid "ISO_639-3.NSK"
+msgstr "邊界"
+
+msgid "ISO_639-3.NSS"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NSV"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.NSY"
+msgstr "暫停"
+
+msgid "ISO_639-3.NTD"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.NTG"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.NTX"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.NTY"
+msgstr "位置"
+
+msgid "ISO_639-3.NUA"
+msgstr "暫停"
+
+msgid "ISO_639-3.NUD"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.NUG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.NUR"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.NUS"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NUX"
+msgstr "希臘"
+
+msgid "ISO_639-3.NVH"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NWR"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NXI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NXM"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.NXQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.NXX"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.NYA"
+msgstr "邊界"
+
+msgid "ISO_639-3.NYC"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.NYF"
+msgstr "德文"
+
+msgid "ISO_639-3.NYH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.NYQ"
+msgstr "尋找："
+
+msgid "ISO_639-3.NYR"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.OAA"
+msgstr "從："
+
+msgid "ISO_639-3.OAC"
+msgstr "從："
+
+msgid "ISO_639-3.OAR"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.OBR"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.OBT"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.OCH"
+msgstr "中文"
+
+msgid "ISO_639-3.OCO"
+msgstr "色彩"
+
+msgid "ISO_639-3.ODT"
+msgstr "荷蘭文"
+
+msgid "ISO_639-3.OFS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.OGE"
+msgstr "列印"
+
+msgid "ISO_639-3.OGO"
+msgstr "泰國"
+
+msgid "ISO_639-3.OHU"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.OJB"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.OJP"
+msgstr "日本"
+
+msgid "ISO_639-3.OJW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.OKB"
+msgstr "從："
+
+msgid "ISO_639-3.OKD"
+msgstr "挪威文"
+
+msgid "ISO_639-3.OKK"
+msgstr "泰國"
+
+msgid "ISO_639-3.OKL"
+msgstr "韓國"
+
+msgid "ISO_639-3.OKR"
+msgstr "尋找："
+
+msgid "ISO_639-3.OKV"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.OLD"
+msgstr "邊界"
+
+msgid "ISO_639-3.OLM"
+msgstr "從："
+
+msgid "ISO_639-3.OLR"
+msgstr "從："
+
+msgid "ISO_639-3.OLT"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.OMK"
+msgstr "從："
+
+msgid "ISO_639-3.OML"
+msgstr "從："
+
+msgid "ISO_639-3.OMN"
+msgstr "Man"
+
+msgid "ISO_639-3.OMP"
+msgstr "土耳其"
+
+msgid "ISO_639-3.OMR"
+msgstr "邊界"
+
+msgid "ISO_639-3.ONB"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.ONP"
+msgstr "韓國"
+
+msgid "ISO_639-3.ONR"
+msgstr "韓國"
+
+msgid "ISO_639-3.ONW"
+msgstr "列印"
+
+msgid "ISO_639-3.OOS"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.ORA"
+msgstr "從："
+
+msgid "ISO_639-3.ORC"
+msgstr "從："
+
+msgid "ISO_639-3.ORI"
+msgstr "韓國"
+
+msgid "ISO_639-3.ORM"
+msgstr "從："
+
+msgid "ISO_639-3.ORO"
+msgstr "從："
+
+msgid "ISO_639-3.ORR"
+msgstr "從："
+
+msgid "ISO_639-3.ORT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.ORV"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.ORX"
+msgstr "從："
+
+msgid "ISO_639-3.ORZ"
+msgstr "從："
+
+msgid "ISO_639-3.OSC"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.OSI"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.OSO"
+msgstr "從："
+
+msgid "ISO_639-3.OSP"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.OSS"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.OSX"
+msgstr "列印"
+
+msgid "ISO_639-3.OTB"
+msgstr "列印"
+
+msgid "ISO_639-3.OTD"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.OTK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.OTR"
+msgstr "從："
+
+msgid "ISO_639-3.OTY"
+msgstr "泰國"
+
+msgid "ISO_639-3.OWL"
+msgstr "列印"
+
+msgid "ISO_639-3.PAG"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PAH"
+msgstr "泰國"
+
+msgid "ISO_639-3.PAO"
+msgstr "韓國"
+
+msgid "ISO_639-3.PAR"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PAS"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PAT"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.PAY"
+msgstr "捷克文"
+
+msgid "ISO_639-3.PBI"
+msgstr "邊界"
+
+msgid "ISO_639-3.PBN"
+msgstr "暫停"
+
+msgid "ISO_639-3.PBO"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PBP"
+msgstr "Man"
+
+msgid "ISO_639-3.PBR"
+msgstr "邊界"
+
+msgid "ISO_639-3.PBV"
+msgstr "Man"
+
+msgid "ISO_639-3.PCB"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.PCF"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PCG"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PCH"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.PCI"
+msgstr "邊界"
+
+msgid "ISO_639-3.PCJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.PCK"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.PCL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PDI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PDN"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.PDU"
+msgstr "韓國"
+
+msgid "ISO_639-3.PEA"
+msgstr "印尼文"
+
+msgid "ISO_639-3.PEE"
+msgstr "泰國"
+
+msgid "ISO_639-3.PEF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.PEH"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.PEJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.PEK"
+msgstr "法文"
+
+msgid "ISO_639-3.PEL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PES"
+msgstr "印尼文"
+
+msgid "ISO_639-3.PFL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PGG"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PGI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galeon"
+
+msgid "ISO_639-3.PGS"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PGZ"
+msgstr "韓國"
+
+msgid "ISO_639-3.PHH"
+msgstr "中文"
+
+msgid "ISO_639-3.PHN"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.PHT"
+msgstr "泰國"
+
+msgid "ISO_639-3.PHV"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PIC"
+msgstr "尋找："
+
+msgid "ISO_639-3.PII"
+msgstr "尋找："
+
+msgid "ISO_639-3.PIM"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.PIP"
+msgstr "希伯來"
+
+msgid "ISO_639-3.PIV"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PKB"
+msgstr "從："
+
+msgid "ISO_639-3.PKH"
+msgstr "Man"
+
+msgid "ISO_639-3.PKT"
+msgstr "否"
+
+msgid "ISO_639-3.PLA"
+msgstr "Man"
+
+msgid "ISO_639-3.PLD"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLE"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLH"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLJ"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLP"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLQ"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLU"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PLZ"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.PMB"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PMD"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PMK"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PML"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.PMM"
+msgstr "從："
+
+msgid "ISO_639-3.PMS"
+msgstr "越南"
+
+msgid "ISO_639-3.PMY"
+msgstr "中文"
+
+msgid "ISO_639-3.PNB"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.PNC"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PNE"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.PNJ"
+msgstr "尋找："
+
+msgid "ISO_639-3.PNK"
+msgstr "暫停"
+
+msgid "ISO_639-3.PNL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PNP"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PNR"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PNS"
+msgstr "韓國"
+
+msgid "ISO_639-3.PNT"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.PNX"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.PNY"
+msgstr "尋找："
+
+msgid "ISO_639-3.POC"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.POL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PON"
+msgstr "印尼文"
+
+msgid "ISO_639-3.POR"
+msgstr "葡萄牙文"
+
+msgid "ISO_639-3.POX"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.PPE"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PPI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PPQ"
+msgstr "列印"
+
+msgid "ISO_639-3.PPT"
+msgstr "韓國"
+
+msgid "ISO_639-3.PRB"
+msgstr "泰國"
+
+msgid "ISO_639-3.PRF"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PRG"
+msgstr "列印"
+
+msgid "ISO_639-3.PRI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PRM"
+msgstr "尋找："
+
+msgid "ISO_639-3.PRP"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PRR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.PRT"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PRU"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PRW"
+msgstr "中文"
+
+msgid "ISO_639-3.PSH"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.PSI"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.PSM"
+msgstr "暫停"
+
+msgid "ISO_639-3.PSN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PSQ"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.PTN"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.PTR"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PTU"
+msgstr "暫停"
+
+msgid "ISO_639-3.PTY"
+msgstr "列印"
+
+msgid "ISO_639-3.PUT"
+msgstr "荷蘭文"
+
+msgid "ISO_639-3.PUW"
+msgstr "葡萄牙文"
+
+msgid "ISO_639-3.PUX"
+msgstr "韓國"
+
+msgid "ISO_639-3.PWA"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PWB"
+msgstr "邊界"
+
+msgid "ISO_639-3.PWN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.PWO"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.PWR"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.PZN"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.QUA"
+msgstr "暫停"
+
+msgid "ISO_639-3.QUC"
+msgstr "其它"
+
+msgid "ISO_639-3.QXQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.QYP"
+msgstr "尋找："
+
+msgid "ISO_639-3.RAA"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.RAC"
+msgstr "暫停"
+
+msgid "ISO_639-3.RAF"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.RAL"
+msgstr "否"
+
+msgid "ISO_639-3.RAM"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.RAN"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.RAR"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RAS"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.RAX"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.REI"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.REN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.RGA"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RGN"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RHG"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RIA"
+msgstr "印尼文"
+
+msgid "ISO_639-3.RJI"
+msgstr "泰國"
+
+msgid "ISO_639-3.RKI"
+msgstr "中文"
+
+msgid "ISO_639-3.RKM"
+msgstr "邊界"
+
+msgid "ISO_639-3.RKT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.RKW"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.RMA"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMG"
+msgstr "挪威文"
+
+msgid "ISO_639-3.RMH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.RMI"
+msgstr "韓國"
+
+msgid "ISO_639-3.RMK"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RML"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMM"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMO"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMT"
+msgstr "邊界"
+
+msgid "ISO_639-3.RMU"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMV"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMW"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMX"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMY"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RMZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.RNG"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RNL"
+msgstr "邊界"
+
+msgid "ISO_639-3.RNN"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RNR"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.ROE"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.ROF"
+msgstr "從："
+
+msgid "ISO_639-3.ROG"
+msgstr "韓國"
+
+msgid "ISO_639-3.ROH"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.ROL"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.ROM"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RON"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RPT"
+msgstr "位置"
+
+msgid "ISO_639-3.RRI"
+msgstr "尋找："
+
+msgid "ISO_639-3.RRO"
+msgstr "尋找："
+
+msgid "ISO_639-3.RSB"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RSM"
+msgstr "韓國"
+
+msgid "ISO_639-3.RTC"
+msgstr "中文"
+
+msgid "ISO_639-3.RTH"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.RTM"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RTS"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.RUC"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.RUE"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.RUG"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RUK"
+msgstr "中文"
+
+msgid "ISO_639-3.RUO"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RUP"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RUQ"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RUS"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.RUZ"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.RWO"
+msgstr "邊界"
+
+msgid "ISO_639-3.RWR"
+msgstr "邊界"
+
+msgid "ISO_639-3.RXD"
+msgstr "泰國"
+
+msgid "ISO_639-3.RXW"
+msgstr "邊界"
+
+msgid "ISO_639-3.SAA"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SAB"
+msgstr "中文"
+
+msgid "ISO_639-3.SAC"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.SAE"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Man"
+
+msgid "ISO_639-3.SAK"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SAM"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SAO"
+msgstr "否"
+
+msgid "ISO_639-3.SAS"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SAU"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SAY"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SBE"
+msgstr "意大利文"
+
+msgid "ISO_639-3.SBK"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SBL"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SBM"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.SBS"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SBV"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SBX"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SBY"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.SCE"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.SCH"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SCK"
+msgstr "邊界"
+
+msgid "ISO_639-3.SCN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SCO"
+msgstr "停止"
+
+msgid "ISO_639-3.SCX"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SDB"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SDC"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SDF"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.SDH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.SDK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.SDN"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SDR"
+msgstr "Man"
+
+msgid "ISO_639-3.SED"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SEH"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SEI"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SEK"
+msgstr "韓國"
+
+msgid "ISO_639-3.SEO"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SER"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SET"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SEZ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SGB"
+msgstr "位置"
+
+msgid "ISO_639-3.SGC"
+msgstr "尋找："
+
+msgid "ISO_639-3.SGD"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SGE"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.SGK"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.SGM"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.SGR"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SGS"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.SGU"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SGY"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SHC"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SHT"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SHU"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SHV"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SHW"
+msgstr "泰國"
+
+msgid "ISO_639-3.SHY"
+msgstr "泰國"
+
+msgid "ISO_639-3.SIB"
+msgstr "希伯來"
+
+msgid "ISO_639-3.SIE"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SIH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.SIK"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SIN"
+msgstr "越南"
+
+msgid "ISO_639-3.SIQ"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SIR"
+msgstr "尋找："
+
+msgid "ISO_639-3.SIU"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SIV"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SIX"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SIY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SJM"
+msgstr "Man"
+
+msgid "ISO_639-3.SJN"
+msgstr "尋找："
+
+msgid "ISO_639-3.SJP"
+msgstr "土耳其"
+
+msgid "ISO_639-3.SJR"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SJW"
+msgstr "中文"
+
+msgid "ISO_639-3.SKB"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SKC"
+msgstr "Man"
+
+msgid "ISO_639-3.SKH"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SKI"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SKK"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.SKM"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.SKQ"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SKR"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SKS"
+msgstr "邊界"
+
+msgid "ISO_639-3.SKU"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SKY"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.SLI"
+msgstr "德文"
+
+msgid "ISO_639-3.SLK"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.SLN"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Man"
+
+msgid "ISO_639-3.SLR"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SLT"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SLU"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.SLV"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SLZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.SMB"
+msgstr "泰國"
+
+msgid "ISO_639-3.SMD"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SME"
+msgstr "韓國"
+
+msgid "ISO_639-3.SMH"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SMK"
+msgstr "尋找："
+
+msgid "ISO_639-3.SMM"
+msgstr "邊界"
+
+msgid "ISO_639-3.SMN"
+msgstr "尋找："
+
+msgid "ISO_639-3.SMP"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SMU"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.SMX"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SMY"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SNI"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SNK"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SNL"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SNO"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SNP"
+msgstr "挪威文"
+
+msgid "ISO_639-3.SNR"
+msgstr "挪威文"
+
+msgid "ISO_639-3.SNU"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.SNV"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SOA"
+msgstr "泰國"
+
+msgid "ISO_639-3.SOG"
+msgstr "挪威文"
+
+msgid "ISO_639-3.SOH"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.SOJ"
+msgstr "挪威文"
+
+msgid "ISO_639-3.SOL"
+msgstr "停止"
+
+msgid "ISO_639-3.SOP"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SOQ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.SOS"
+msgstr "希臘"
+
+msgid "ISO_639-3.SOW"
+msgstr "Man"
+
+msgid "ISO_639-3.SOX"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.SOZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.SPA"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SPB"
+msgstr "印尼文"
+
+msgid "ISO_639-3.SPG"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SPI"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SPS"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SPU"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SPV"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SQI"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.SQM"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SQR"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.SQU"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SRA"
+msgstr "邊界"
+
+msgid "ISO_639-3.SRB"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SRC"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SRD"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SRE"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SRF"
+msgstr "邊界"
+
+msgid "ISO_639-3.SRI"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SRN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SRO"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.SRP"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SRS"
+msgstr "邊界"
+
+msgid "ISO_639-3.SRT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.SRW"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SRY"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SSD"
+msgstr "尋找："
+
+msgid "ISO_639-3.SSE"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.SSF"
+msgstr "泰國"
+
+msgid "ISO_639-3.SSG"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SSH"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.SSI"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SSL"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SSN"
+msgstr "暫停"
+
+msgid "ISO_639-3.SSQ"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.SST"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.SSU"
+msgstr "泰國"
+
+msgid "ISO_639-3.STB"
+msgstr "韓國"
+
+msgid "ISO_639-3.STD"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.STK"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.STM"
+msgstr "德文"
+
+msgid "ISO_639-3.STO"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SUC"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SUE"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SUQ"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SUX"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SVA"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.SVE"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SVS"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SVX"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.SWE"
+msgstr "瑞典文"
+
+msgid "ISO_639-3.SWF"
+msgstr "希伯來"
+
+msgid "ISO_639-3.SWG"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SWJ"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SWK"
+msgstr "中文"
+
+msgid "ISO_639-3.SWM"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SWO"
+msgstr "邊界"
+
+msgid "ISO_639-3.SWQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.SWS"
+msgstr "白俄羅斯文"
+
+msgid "ISO_639-3.SWW"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.SWY"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SXC"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SXL"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SXM"
+msgstr "韓國"
+
+msgid "ISO_639-3.SXN"
+msgstr "西班牙文"
+
+msgid "ISO_639-3.SXS"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SYA"
+msgstr "挪威文"
+
+msgid "ISO_639-3.SYB"
+msgstr "韓國"
+
+msgid "ISO_639-3.SYM"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SYN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.SYR"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.SYX"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.SZL"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.SZN"
+msgstr "斯洛伐克文"
+
+msgid "ISO_639-3.SZW"
+msgstr "邊界"
+
+msgid "ISO_639-3.TAA"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.TAD"
+msgstr "否"
+
+msgid "ISO_639-3.TAE"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TAG"
+msgstr "泰國"
+
+msgid "ISO_639-3.TAH"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TAK"
+msgstr "泰國"
+
+msgid "ISO_639-3.TAL"
+msgstr "泰國"
+
+msgid "ISO_639-3.TAM"
+msgstr "泰國"
+
+msgid "ISO_639-3.TAO"
+msgstr "泰國"
+
+msgid "ISO_639-3.TAU"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.TAW"
+msgstr "泰國"
+
+msgid "ISO_639-3.TAX"
+msgstr "泰國"
+
+msgid "ISO_639-3.TBA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.TBC"
+msgstr "泰國"
+
+msgid "ISO_639-3.TBE"
+msgstr "泰國"
+
+msgid "ISO_639-3.TBF"
+msgstr "Man"
+
+msgid "ISO_639-3.TBG"
+msgstr "韓國"
+
+msgid "ISO_639-3.TBJ"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TBO"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.TBX"
+msgstr "位置"
+
+msgid "ISO_639-3.TCC"
+msgstr "邊界"
+
+msgid "ISO_639-3.TCD"
+msgstr "中文"
+
+msgid "ISO_639-3.TCP"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.TCQ"
+msgstr "泰國"
+
+msgid "ISO_639-3.TCZ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.TDB"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.TDG"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TDI"
+msgstr "位置"
+
+msgid "ISO_639-3.TDJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.TDM"
+msgstr "泰國"
+
+msgid "ISO_639-3.TDQ"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TEC"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TEH"
+msgstr "捷克文"
+
+msgid "ISO_639-3.TEK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TEY"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TFN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.TGB"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.TGC"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TGD"
+msgstr "邊界"
+
+msgid "ISO_639-3.TGJ"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.TGK"
+msgstr "泰國"
+
+msgid "ISO_639-3.TGN"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.TGQ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TGR"
+msgstr "韓國"
+
+msgid "ISO_639-3.TGX"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.TGZ"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.THA"
+msgstr "泰國"
+
+msgid "ISO_639-3.THE"
+msgstr "中文"
+
+msgid "ISO_639-3.THF"
+msgstr "泰國"
+
+msgid "ISO_639-3.THN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.THR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.THS"
+msgstr "泰國"
+
+msgid "ISO_639-3.THT"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.THU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.THW"
+msgstr "泰國"
+
+msgid "ISO_639-3.THY"
+msgstr "泰國"
+
+msgid "ISO_639-3.TIC"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TIF"
+msgstr "泰國"
+
+msgid "ISO_639-3.TIG"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TII"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TIK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TIM"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TIN"
+msgstr "尋找："
+
+msgid "ISO_639-3.TIP"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TIR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TIU"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.TJL"
+msgstr "泰國"
+
+msgid "ISO_639-3.TKB"
+msgstr "中文"
+
+msgid "ISO_639-3.TKZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.TLH"
+msgstr "泰國"
+
+msgid "ISO_639-3.TLK"
+msgstr "泰國"
+
+msgid "ISO_639-3.TLO"
+msgstr "泰國"
+
+msgid "ISO_639-3.TLR"
+msgstr "中文"
+
+msgid "ISO_639-3.TLT"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TLX"
+msgstr "捷克文"
+
+msgid "ISO_639-3.TMC"
+msgstr "泰國"
+
+msgid "ISO_639-3.TMD"
+msgstr "暫停"
+
+msgid "ISO_639-3.TMK"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TMN"
+msgstr "印尼文"
+
+msgid "ISO_639-3.TMS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TMW"
+msgstr "德文"
+
+msgid "ISO_639-3.TMY"
+msgstr "泰國"
+
+msgid "ISO_639-3.TNA"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TNB"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TNH"
+msgstr "邊界"
+
+msgid "ISO_639-3.TNI"
+msgstr "Man"
+
+msgid "ISO_639-3.TNK"
+msgstr "其它"
+
+msgid "ISO_639-3.TNM"
+msgstr "泰國"
+
+msgid "ISO_639-3.TNO"
+msgstr "從："
+
+msgid "ISO_639-3.TNQ"
+msgstr "位置"
+
+msgid "ISO_639-3.TOD"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.TOW"
+msgstr "希臘"
+
+msgid "ISO_639-3.TOX"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.TPF"
+msgstr "泰國"
+
+msgid "ISO_639-3.TPM"
+msgstr "泰國"
+
+msgid "ISO_639-3.TPQ"
+msgstr "暫停"
+
+msgid "ISO_639-3.TPY"
+msgstr "泰國"
+
+msgid "ISO_639-3.TQL"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.TQT"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TRA"
+msgstr "泰國"
+
+msgid "ISO_639-3.TRD"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TRE"
+msgstr "韓國"
+
+msgid "ISO_639-3.TRH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TRJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.TRM"
+msgstr "泰國"
+
+msgid "ISO_639-3.TRT"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TSB"
+msgstr "泰國"
+
+msgid "ISO_639-3.TSD"
+msgstr "愛沙尼亞文"
+
+msgid "ISO_639-3.TSI"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TSW"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TSX"
+msgstr "邊界"
+
+msgid "ISO_639-3.TTG"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.TTI"
+msgstr "泰國"
+
+msgid "ISO_639-3.TTR"
+msgstr "德文"
+
+msgid "ISO_639-3.TTS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TTV"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TTW"
+msgstr "邊界"
+
+msgid "ISO_639-3.TUH"
+msgstr "泰國"
+
+msgid "ISO_639-3.TUI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TUQ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.TUR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TUY"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TUZ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TVO"
+msgstr "土耳其"
+
+msgid "ISO_639-3.TWB"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.TWE"
+msgstr "印尼文"
+
+msgid "ISO_639-3.TWF"
+msgstr "韓國"
+
+msgid "ISO_639-3.TWL"
+msgstr "邊界"
+
+msgid "ISO_639-3.TWN"
+msgstr "瑞典文"
+
+msgid "ISO_639-3.TWU"
+msgstr "德文"
+
+msgid "ISO_639-3.TWW"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.TXA"
+msgstr "從："
+
+msgid "ISO_639-3.TXH"
+msgstr "泰國"
+
+msgid "ISO_639-3.TXM"
+msgstr "尋找："
+
+msgid "ISO_639-3.TXN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.TXR"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TXX"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.TYA"
+msgstr "暫停"
+
+msgid "ISO_639-3.TYE"
+msgstr "韓國"
+
+msgid "ISO_639-3.TYJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.TYN"
+msgstr "韓國"
+
+msgid "ISO_639-3.TZH"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.TZL"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.TZO"
+msgstr "泰國"
+
+msgid "ISO_639-3.TZX"
+msgstr "泰國"
+
+msgid "ISO_639-3.UAN"
+msgstr "韓國"
+
+msgid "ISO_639-3.UDG"
+msgstr "邊界"
+
+msgid "ISO_639-3.UHA"
+msgstr "泰國"
+
+msgid "ISO_639-3.UHN"
+msgstr "泰國"
+
+msgid "ISO_639-3.UIS"
+msgstr "邊界"
+
+msgid "ISO_639-3.UKA"
+msgstr "土耳其"
+
+msgid "ISO_639-3.UKR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ULI"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.ULK"
+msgstr "列印"
+
+msgid "ISO_639-3.ULW"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.UMC"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.UMN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.UND"
+msgstr "頁面處理"
+
+msgid "ISO_639-3.UNG"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.UNM"
+msgstr "泰國"
+
+msgid "ISO_639-3.UNN"
+msgstr "韓國"
+
+msgid "ISO_639-3.UNR"
+msgstr "Man"
+
+msgid "ISO_639-3.UNU"
+msgstr "邊界"
+
+msgid "ISO_639-3.UNX"
+msgstr "Man"
+
+msgid "ISO_639-3.URA"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.URC"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.URG"
+msgstr "土耳其"
+
+msgid "ISO_639-3.URL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.URM"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.URN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.URT"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.URX"
+msgstr "從："
+
+msgid "ISO_639-3.USP"
+msgstr "世界語"
+
+msgid "ISO_639-3.UTA"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.VAF"
+msgstr "邊界"
+
+msgid "ISO_639-3.VAJ"
+msgstr "中文"
+
+msgid "ISO_639-3.VAN"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.VAS"
+msgstr "邊界"
+
+msgid "ISO_639-3.VAV"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.VBK"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.VEC"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.VGR"
+msgstr "邊界"
+
+msgid "ISO_639-3.VIE"
+msgstr "越南"
+
+msgid "ISO_639-3.VKJ"
+msgstr "韓國"
+
+msgid "ISO_639-3.VKK"
+msgstr "土耳其"
+
+msgid "ISO_639-3.VKO"
+msgstr "韓國"
+
+msgid "ISO_639-3.VLP"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.VMB"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.VMD"
+msgstr "邊界"
+
+msgid "ISO_639-3.VME"
+msgstr "否"
+
+msgid "ISO_639-3.VMG"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.VMH"
+msgstr "邊界"
+
+msgid "ISO_639-3.VML"
+msgstr "Man"
+
+msgid "ISO_639-3.VMR"
+msgstr "否"
+
+msgid "ISO_639-3.VMW"
+msgstr "Man"
+
+msgid "ISO_639-3.VNK"
+msgstr "位置"
+
+msgid "ISO_639-3.VRA"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.VRS"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.VRT"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.WAE"
+msgstr "否"
+
+msgid "ISO_639-3.WAI"
+msgstr "法羅文"
+
+msgid "ISO_639-3.WAL"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.WAQ"
+msgstr "德文"
+
+msgid "ISO_639-3.WAW"
+msgstr "邊界"
+
+msgid "ISO_639-3.WBF"
+msgstr "邊界"
+
+msgid "ISO_639-3.WBH"
+msgstr "Man"
+
+msgid "ISO_639-3.WBI"
+msgstr "泰國"
+
+msgid "ISO_639-3.WBJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.WBQ"
+msgstr "Man"
+
+msgid "ISO_639-3.WDK"
+msgstr "Man"
+
+msgid "ISO_639-3.WER"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.WET"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.WEU"
+msgstr "中文"
+
+msgid "ISO_639-3.WHG"
+msgstr "韓國"
+
+msgid "ISO_639-3.WHU"
+msgstr "韓國"
+
+msgid "ISO_639-3.WII"
+msgstr "尋找："
+
+msgid "ISO_639-3.WJI"
+msgstr "邊界"
+
+msgid "ISO_639-3.WKB"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.WKL"
+msgstr "韓國"
+
+msgid "ISO_639-3.WKU"
+msgstr "土耳其"
+
+msgid "ISO_639-3.WLA"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.WLE"
+msgstr "韓國"
+
+msgid "ISO_639-3.WLG"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.WLI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galeon"
+
+msgid "ISO_639-3.WLW"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.WLY"
+msgstr "意大利文"
+
+msgid "ISO_639-3.WMD"
+msgstr "Man"
+
+msgid "ISO_639-3.WMI"
+msgstr "泰國"
+
+msgid "ISO_639-3.WMM"
+msgstr "印尼文"
+
+msgid "ISO_639-3.WMW"
+msgstr "邊界"
+
+msgid "ISO_639-3.WMX"
+msgstr "從："
+
+msgid "ISO_639-3.WND"
+msgstr "Man"
+
+msgid "ISO_639-3.WNN"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.WNO"
+msgstr "位置"
+
+msgid "ISO_639-3.WNY"
+msgstr "Man"
+
+msgid "ISO_639-3.WOD"
+msgstr "韓國"
+
+msgid "ISO_639-3.WOE"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.WOO"
+msgstr "邊界"
+
+msgid "ISO_639-3.WOR"
+msgstr "邊界"
+
+msgid "ISO_639-3.WPC"
+msgstr "邊界"
+
+msgid "ISO_639-3.WRB"
+msgstr "邊界"
+
+msgid "ISO_639-3.WRK"
+msgstr "邊界"
+
+msgid "ISO_639-3.WRN"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.WRO"
+msgstr "邊界"
+
+msgid "ISO_639-3.WRP"
+msgstr "韓國"
+
+msgid "ISO_639-3.WRS"
+msgstr "邊界"
+
+msgid "ISO_639-3.WRY"
+msgstr "邊界"
+
+msgid "ISO_639-3.WSI"
+msgstr "泰國"
+
+msgid "ISO_639-3.WSK"
+msgstr "暫停"
+
+msgid "ISO_639-3.WSS"
+msgstr "暫停"
+
+msgid "ISO_639-3.WSU"
+msgstr "巴斯克文"
+
+msgid "ISO_639-3.WTM"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.WUU"
+msgstr "中文"
+
+msgid "ISO_639-3.WWR"
+msgstr "邊界"
+
+msgid "ISO_639-3.WWW"
+msgstr "邊界"
+
+msgid "ISO_639-3.WXW"
+msgstr "尋找："
+
+msgid "ISO_639-3.WYY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.XAB"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.XAC"
+msgstr "泰國"
+
+msgid "ISO_639-3.XAD"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.XAG"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.XAJ"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.XAL"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.XAO"
+msgstr "泰國"
+
+msgid "ISO_639-3.XAQ"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.XAR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XAU"
+msgstr "德文"
+
+msgid "ISO_639-3.XBC"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.XBD"
+msgstr "Man"
+
+msgid "ISO_639-3.XBE"
+msgstr "暫停"
+
+msgid "ISO_639-3.XBG"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.XBJ"
+msgstr "泰國"
+
+msgid "ISO_639-3.XBM"
+msgstr "布列塔尼文"
+
+msgid "ISO_639-3.XBN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.XBO"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.XBR"
+msgstr "其它"
+
+msgid "ISO_639-3.XBY"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.XCO"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.XCR"
+msgstr "邊界"
+
+msgid "ISO_639-3.XCU"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.XCY"
+msgstr "中文"
+
+msgid "ISO_639-3.XDA"
+msgstr "韓國"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XDY"
+msgstr "中文"
+
+msgid "ISO_639-3.XED"
+msgstr "尋找："
+
+msgid "ISO_639-3.XES"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGD"
+msgstr "Man"
+
+msgid "ISO_639-3.XGG"
+msgstr "韓國"
+
+msgid "ISO_639-3.XGI"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galeon"
+
+msgid "ISO_639-3.XGM"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.XHA"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.XHD"
+msgstr "尋找："
+
+msgid "ISO_639-3.XHE"
+msgstr "泰國"
+
+msgid "ISO_639-3.XHR"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.XHU"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.XHV"
+msgstr "泰國"
+
+msgid "ISO_639-3.XIB"
+msgstr "列印"
+
+msgid "ISO_639-3.XII"
+msgstr "尋找："
+
+msgid "ISO_639-3.XIL"
+msgstr "意大利文"
+
+msgid "ISO_639-3.XIR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XIS"
+msgstr "韓國"
+
+msgid "ISO_639-3.XJT"
+msgstr "韓國"
+
+msgid "ISO_639-3.XKE"
+msgstr "希伯來"
+
+msgid "ISO_639-3.XKJ"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.XKQ"
+msgstr "韓國"
+
+msgid "ISO_639-3.XKT"
+msgstr "位置"
+
+msgid "ISO_639-3.XKX"
+msgstr "韓國"
+
+msgid "ISO_639-3.XKY"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.XKZ"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XLC"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.XLD"
+msgstr "位置"
+
+msgid "ISO_639-3.XLE"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.XLI"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.XLN"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.XLS"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.XME"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.XMF"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.XMG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.XMJ"
+msgstr "邊界"
+
+msgid "ISO_639-3.XMK"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.XMO"
+msgstr "邊界"
+
+msgid "ISO_639-3.XMU"
+msgstr "Man"
+
+msgid "ISO_639-3.XMX"
+msgstr "Man"
+
+msgid "ISO_639-3.XNG"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.XNH"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XNI"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.XNK"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.XNN"
+msgstr "韓國"
+
+msgid "ISO_639-3.XNR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XNS"
+msgstr "丹麥文"
+
+msgid "ISO_639-3.XNT"
+msgstr "邊界"
+
+msgid "ISO_639-3.XOD"
+msgstr "韓國"
+
+msgid "ISO_639-3.XOG"
+msgstr "挪威文"
+
+msgid "ISO_639-3.XON"
+msgstr "韓國"
+
+msgid "ISO_639-3.XOP"
+msgstr "韓國"
+
+msgid "ISO_639-3.XOW"
+msgstr "韓國"
+
+msgid "ISO_639-3.XPA"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XPC"
+msgstr "捷克文"
+
+msgid "ISO_639-3.XPG"
+msgstr "列印"
+
+msgid "ISO_639-3.XPI"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.XPR"
+msgstr "列印"
+
+msgid "ISO_639-3.XPS"
+msgstr "列印"
+
+msgid "ISO_639-3.XQA"
+msgstr "泰國"
+
+msgid "ISO_639-3.XQT"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.XRE"
+msgstr "希臘"
+
+msgid "ISO_639-3.XRG"
+msgstr "否"
+
+msgid "ISO_639-3.XRM"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.XRN"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.XRQ"
+msgstr "韓國"
+
+msgid "ISO_639-3.XRU"
+msgstr "邊界"
+
+msgid "ISO_639-3.XRW"
+msgstr "邊界"
+
+msgid "ISO_639-3.XSB"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.XSC"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.XSE"
+msgstr "德文"
+
+msgid "ISO_639-3.XSM"
+msgstr "韓國"
+
+msgid "ISO_639-3.XSO"
+msgstr "挪威文"
+
+msgid "ISO_639-3.XSR"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.XSS"
+msgstr "俄羅斯文"
+
+msgid "ISO_639-3.XSV"
+msgstr "斯洛文尼亞文"
+
+msgid "ISO_639-3.XSY"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.XTV"
+msgstr "邊界"
+
+msgid "ISO_639-3.XTW"
+msgstr "邊界"
+
+msgid "ISO_639-3.XTZ"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.XUM"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.XUN"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.XUR"
+msgstr "克羅地亞文"
+
+msgid "ISO_639-3.XUU"
+msgstr "韓國"
+
+msgid "ISO_639-3.XVI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.XVO"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.XVS"
+msgstr "愛沙尼亞文"
+
+msgid "ISO_639-3.XWA"
+msgstr "泰國"
+
+msgid "ISO_639-3.XWK"
+msgstr "暫停"
+
+msgid "ISO_639-3.XXB"
+msgstr "印尼文"
+
+msgid "ISO_639-3.XXR"
+msgstr "韓國"
+
+msgid "ISO_639-3.XXT"
+msgstr "德文"
+
+msgid "ISO_639-3.XYB"
+msgstr "Man"
+
+msgid "ISO_639-3.XYL"
+msgstr "否"
+
+msgid "ISO_639-3.XZM"
+msgstr "馬其頓文"
+
+msgid "ISO_639-3.YAD"
+msgstr "暫停"
+
+msgid "ISO_639-3.YAK"
+msgstr "邊界"
+
+msgid "ISO_639-3.YAN"
+msgstr "邊界"
+
+msgid "ISO_639-3.YAP"
+msgstr "日本"
+
+msgid "ISO_639-3.YAX"
+msgstr "暫停"
+
+msgid "ISO_639-3.YBJ"
+msgstr "暫停"
+
+msgid "ISO_639-3.YBK"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.YBM"
+msgstr "韓國"
+
+msgid "ISO_639-3.YCH"
+msgstr "中文"
+
+msgid "ISO_639-3.YCL"
+msgstr "位置"
+
+msgid "ISO_639-3.YCP"
+msgstr "印尼文"
+
+msgid "ISO_639-3.YDA"
+msgstr "Man"
+
+msgid "ISO_639-3.YEC"
+msgstr "法文"
+
+msgid "ISO_639-3.YEJ"
+msgstr "冰島文"
+
+msgid "ISO_639-3.YER"
+msgstr "泰國"
+
+msgid "ISO_639-3.YES"
+msgstr "邊界"
+
+msgid "ISO_639-3.YEV"
+msgstr "Man"
+
+msgid "ISO_639-3.YGA"
+msgstr "邊界"
+
+msgid "ISO_639-3.YGI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.YGP"
+msgstr "希臘"
+
+msgid "ISO_639-3.YGR"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.YGS"
+msgstr "韓國"
+
+msgid "ISO_639-3.YGW"
+msgstr "邊界"
+
+msgid "ISO_639-3.YHA"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.YHD"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.YHS"
+msgstr "韓國"
+
+msgid "ISO_639-3.YIA"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.YIF"
+msgstr "中文"
+
+msgid "ISO_639-3.YIH"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.YIM"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.YIP"
+msgstr "從："
+
+msgid "ISO_639-3.YIQ"
+msgstr "邊界"
+
+msgid "ISO_639-3.YIR"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.YIU"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.YIX"
+msgstr "土耳其"
+
+msgid "ISO_639-3.YKA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.YKL"
+msgstr "泰國"
+
+msgid "ISO_639-3.YKM"
+msgstr "泰國"
+
+msgid "ISO_639-3.YKO"
+msgstr "暫停"
+
+msgid "ISO_639-3.YKT"
+msgstr "泰國"
+
+msgid "ISO_639-3.YKU"
+msgstr "暫停"
+
+msgid "ISO_639-3.YLB"
+msgstr "日本"
+
+msgid "ISO_639-3.YLE"
+msgstr "日本"
+
+msgid "ISO_639-3.YLM"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.YLO"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.YMB"
+msgstr "日本"
+
+msgid "ISO_639-3.YMD"
+msgstr "Man"
+
+msgid "ISO_639-3.YMH"
+msgstr "邊界"
+
+msgid "ISO_639-3.YMI"
+msgstr "邊界"
+
+msgid "ISO_639-3.YMM"
+msgstr "土耳其"
+
+msgid "ISO_639-3.YMR"
+msgstr "否"
+
+msgid "ISO_639-3.YMS"
+msgstr "羅馬尼亞文"
+
+msgid "ISO_639-3.YMZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.YNA"
+msgstr "南非荷蘭文"
+
+msgid "ISO_639-3.YNE"
+msgstr "位置"
+
+msgid "ISO_639-3.YNN"
+msgstr "Man"
+
+msgid "ISO_639-3.YNQ"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.YNS"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.YOG"
+msgstr "邊界"
+
+msgid "ISO_639-3.YOI"
+msgstr "韓國"
+
+msgid "ISO_639-3.YOL"
+msgstr "韓國"
+
+msgid "ISO_639-3.YPA"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.YPG"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.YPH"
+msgstr "泰國"
+
+msgid "ISO_639-3.YPM"
+msgstr "新增別名 (_A)"
+
+msgid "ISO_639-3.YPO"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.YPP"
+msgstr "暫停"
+
+msgid "ISO_639-3.YPZ"
+msgstr "波蘭文"
+
+msgid "ISO_639-3.YRY"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.YSD"
+msgstr "塞爾維亞文"
+
+msgid "ISO_639-3.YSG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.YSN"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.YSY"
+msgstr "挪威文"
+
+msgid "ISO_639-3.YTA"
+msgstr "泰國"
+
+msgid "ISO_639-3.YTL"
+msgstr "加泰隆文"
+
+msgid "ISO_639-3.YTP"
+msgstr "泰國"
+
+msgid "ISO_639-3.YUC"
+msgstr "荷蘭文"
+
+msgid "ISO_639-3.YUD"
+msgstr "阿拉伯"
+
+msgid "ISO_639-3.YUE"
+msgstr "中文"
+
+msgid "ISO_639-3.YUP"
+msgstr "暫停"
+
+msgid "ISO_639-3.YVA"
+msgstr "邊界"
+
+msgid "ISO_639-3.YWL"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.YXA"
+msgstr "Man"
+
+msgid "ISO_639-3.YXG"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.YYZ"
+msgstr "阿爾巴尼亞文"
+
+msgid "ISO_639-3.YZG"
+msgstr "Man"
+
+msgid "ISO_639-3.ZAG"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZAH"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZBC"
+msgstr "土耳其"
+
+msgid "ISO_639-3.ZBE"
+msgstr "德文"
+
+msgid "ISO_639-3.ZBT"
+msgstr "保加利亞文"
+
+msgid "ISO_639-3.ZBW"
+msgstr "德文"
+
+msgid "ISO_639-3.ZEG"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.ZEN"
+msgstr "波羅的海"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.ZGN"
+msgstr "韓國"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Sans serif(無襯線字體)"
+
+msgid "ISO_639-3.ZHI"
+msgstr "土耳其"
+
+msgid "ISO_639-3.ZHO"
+msgstr "中文"
+
+msgid "ISO_639-3.ZIM"
+msgstr "否"
+
+msgid "ISO_639-3.ZIR"
+msgstr "土耳其"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Legal (_G)"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ZKH"
+msgstr "韓國"
+
+msgid "ISO_639-3.ZKN"
+msgstr "匈牙利文"
+
+msgid "ISO_639-3.ZKT"
+msgstr "拉脫維亞文"
+
+msgid "ISO_639-3.ZKU"
+msgstr "韓國"
+
+msgid "ISO_639-3.ZKV"
+msgstr "烏黑蘭文"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "泰國"
+
+msgid "ISO_639-3.ZLN"
+msgstr "立陶宛文"
+
+msgid "ISO_639-3.ZMC"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZMD"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZME"
+msgstr "Man"
+
+msgid "ISO_639-3.ZMG"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZML"
+msgstr "否"
+
+msgid "ISO_639-3.ZMS"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Man"
+
+msgid "ISO_639-3.ZMU"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZMY"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Man"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Man"
+
+msgid "ISO_639-3.ZPC"
+msgstr "中文"
+
+msgid "ISO_639-3.ZPV"
+msgstr "中文"
+
+msgid "ISO_639-3.ZRG"
+msgstr "否"
+
+msgid "ISO_639-3.ZRN"
+msgstr "希臘"
+
+msgid "ISO_639-3.ZRS"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZSA"
+msgstr "邊界"
+
+msgid "ISO_639-3.ZSK"
+msgstr "韓國"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Man"
+
+msgid "ISO_639-3.ZUH"
+msgstr "韓國"
+
+msgid "ISO_639-3.ZUM"
+msgstr "土耳其"
+
+msgid "ISO_639-3.ZYP"
+msgstr "中文"
+
+msgid "ISO_639-3.ZZA"
+msgstr "邊界"

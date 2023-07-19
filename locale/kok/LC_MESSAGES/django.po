@@ -1,0 +1,8248 @@
+# Konkani translations of the ISO-639 language names
+# Copyright (C) 004 Alastair McKinstry <mckinstry@debian.org>
+# This file is distributed under the same license as the iso-codes package.
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+#   Data taken from ICU-2.8.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-04-14 07:10+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Konkani\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AAD"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.AAF"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.AAG"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AAL"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.AAR"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.AAT"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.AAZ"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.ABD"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.ABE"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.ABG"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ABH"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ABK"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.ABL"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.ABQ"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.ABV"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ABZ"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ACR"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.ACW"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ACX"
+msgstr "अृॣर॓ैृ॥नी"
+
+msgid "ISO_639-3.ACY"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ADD"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.ADF"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ADL"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.ADN"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.ADR"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.ADX"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.ADY"
+msgstr "उधूर"
+
+msgid "ISO_639-3.AEA"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.AEC"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AEE"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AEW"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.AEY"
+msgstr "अस॥ॕी"
+
+msgid "ISO_639-3.AEZ"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.AFB"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AFD"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.AFK"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.AFP"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.AFR"
+msgstr "अ॒ॴर०क॥नॴस"
+
+msgid "ISO_639-3.AGD"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AGE"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.AGG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.AGH"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.AGI"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.AGM"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.AGO"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.AGW"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.AGY"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AHH"
+msgstr "उधूर"
+
+msgid "ISO_639-3.AHK"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.AHR"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.AIE"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AIJ"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.AIR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.AIS"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.AIW"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.AIX"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.AJN"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.AJP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AJZ"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.AKL"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.AKR"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AKZ"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ALA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.ALD"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ALH"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ALI"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.ALJ"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ALK"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.ALL"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.ALN"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ALS"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ALT"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ALX"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.AMC"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.AMH"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.AMK"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.AML"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.AMN"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AMQ"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.AMR"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AMS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.AMY"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.ANI"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.ANK"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.ANL"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.ANN"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.ANR"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.ANS"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.ANY"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.AOA"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.AOH"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.AOJ"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.AOR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.AOS"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.AOT"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.APB"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.APC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.APD"
+msgstr "ृ॥वनीसॴ"
+
+msgid "ISO_639-3.APF"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.APG"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.APH"
+msgstr "अॕह॥र०कॴ"
+
+msgid "ISO_639-3.API"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.APP"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.APW"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.AQN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AQT"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.AQZ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.ARA"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ARD"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.ARE"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.ARH"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ARI"
+msgstr "अ॒ॴर०क॥नॴस"
+
+msgid "ISO_639-3.ARJ"
+msgstr "अ॒ॴर०क॥नॴस"
+
+msgid "ISO_639-3.ARL"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ARN"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.ARQ"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ARS"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ARY"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ASD"
+msgstr "अस॥ॕी"
+
+msgid "ISO_639-3.ASJ"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.ASM"
+msgstr "अस॥ॕी"
+
+msgid "ISO_639-3.ASO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.AST"
+msgstr "इसॴॆॲन०ॖनॴ"
+
+msgid "ISO_639-3.ASV"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.ATN"
+msgstr "इसॴॆॲन०ॖनॴ"
+
+msgid "ISO_639-3.ATV"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ATX"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.ATZ"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AUB"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.AUC"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.AUL"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.AUP"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.AUY"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.AUZ"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AVK"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.AVS"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.AWX"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AXL"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AXM"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.AYA"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.AYC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AYG"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.AYH"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AYL"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.AYM"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AYN"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.AYR"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.AYS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.AZA"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.AZB"
+msgstr "अृॣर॓ैृ॥नी"
+
+msgid "ISO_639-3.AZE"
+msgstr "अृॣर॓ैृ॥नी"
+
+msgid "ISO_639-3.AZJ"
+msgstr "अृॣर॓ैृ॥नी"
+
+msgid "ISO_639-3.BAG"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.BAJ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BAK"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BAR"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BAV"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BAY"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BBB"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BBD"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BBE"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BBF"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BBG"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BBH"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BBI"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BBL"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BBM"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BBQ"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.BBV"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.BBY"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BCC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BCF"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BCG"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BCH"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BCJ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BCK"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.BCQ"
+msgstr "॒ॴरेनॴु"
+
+msgid "ISO_639-3.BCT"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BCW"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.BCY"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BDB"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.BDD"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BDE"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BDF"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BDG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BDI"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.BDJ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BDL"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.BDO"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.BDQ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BDU"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.BDZ"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BEG"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BEH"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BEK"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BEL"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BEN"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BEO"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BES"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.BEU"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BEW"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BFA"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BFG"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.BFR"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BFS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BFT"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BFU"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.BFX"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.BFZ"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.BGC"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.BGE"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BGJ"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.BGN"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.BGO"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.BGQ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BGR"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BGU"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.BGW"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BGY"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BGZ"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BHA"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHB"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.BHC"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHD"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHF"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.BHG"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.BHH"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHI"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHJ"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BHM"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHP"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BHR"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.BHW"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BHX"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.BHZ"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.BIB"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BIC"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BIG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BIM"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BIO"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.BIP"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BIQ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BIR"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BIS"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BIT"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.BIV"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BIX"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BIY"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BIZ"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BJB"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BJC"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BJO"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BJR"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BJV"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BJY"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BJZ"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BKA"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.BKI"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BKN"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BKQ"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BKS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BKW"
+msgstr "उृॣ॓ेक"
+
+msgid "ISO_639-3.BLB"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BLD"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BLG"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.BLN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BLR"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BLS"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BLV"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.BLW"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.BMD"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.BMH"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.BMI"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BML"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.BMO"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.BMP"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BMR"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.BMV"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.BMW"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.BMX"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BNB"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.BNC"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BND"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.BNG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BNI"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BNK"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BNL"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BNS"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.BNU"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BOA"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.BOB"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.BOD"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.BOE"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.BOF"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.BOH"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.BOM"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.BOP"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.BOT"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BOV"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.BOW"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.BPA"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.BPH"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.BPJ"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.BPK"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.BPP"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.BPQ"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.BPV"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.BPZ"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BQB"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.BQH"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BQI"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BQL"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BQP"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.BQQ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BQR"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.BQV"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.BQX"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BRE"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BRF"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.BRG"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BRH"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BRJ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BRN"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.BRT"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BRU"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.BRV"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.BRW"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BRY"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.BSC"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BSE"
+msgstr "वेळॴषॴ"
+
+msgid "ISO_639-3.BSF"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BSG"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BSH"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.BSM"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BSN"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BSO"
+msgstr "॑॥षॴॆॲ (॑ुषॴॆॲ)"
+
+msgid "ISO_639-3.BSQ"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.BST"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BTA"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.BTF"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BTI"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.BTJ"
+msgstr "ृ॥॑नीसॴ"
+
+msgid "ISO_639-3.BTR"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BTU"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BTV"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BUC"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.BUI"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BUK"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BUL"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BUP"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.BUQ"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BUT"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BUZ"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.BVA"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BVB"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BVH"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.BVJ"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BVO"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.BVP"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.BVQ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BVR"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BVT"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.BVU"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BVW"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.BVY"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BWM"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.BWQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.BXA"
+msgstr "क०रॴग०ृॣ"
+
+msgid "ISO_639-3.BXG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.BXM"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.BXO"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.BXR"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.BXS"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.BXU"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.BXZ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BYA"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.BYB"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.BYF"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.BYG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.BYH"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.BYK"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BYM"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.BYN"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BYQ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.BYR"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BYW"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.BZA"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.BZB"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.BZD"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BZI"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.BZQ"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.BZR"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.BZU"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.BZV"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.CAC"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.CAF"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.CAH"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CAK"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.CAL"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.CAN"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.CAR"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.CAT"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CAW"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.CBC"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CBI"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.CBK"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CBL"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.CBN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.CBV"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.CBW"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.CCA"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.CCG"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.CCH"
+msgstr "अस॥ॕी"
+
+msgid "ISO_639-3.CCJ"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.CCL"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.CCM"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.CDA"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.CDE"
+msgstr "ृॣेकॴ"
+
+msgid "ISO_639-3.CDG"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.CDO"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CDY"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.CDZ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.CEA"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.CEK"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.CEN"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CES"
+msgstr "ृॣेकॴ"
+
+msgid "ISO_639-3.CFD"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.CHC"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CHK"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CHM"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.CHX"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CIE"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CIM"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.CIP"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CIR"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.CIY"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.CJA"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.CJI"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CJM"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.CJS"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.CJY"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CKB"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.CKN"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CKQ"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.CKR"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.CKV"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CLJ"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.CLL"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CLM"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.CLT"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.CLU"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CMA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.CME"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.CMG"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.CML"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.CMN"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.CNA"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.CNG"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.CNH"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CNK"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.CNL"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.CNW"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.COE"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.COG"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.COO"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.COS"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.COX"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.CPI"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CPX"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CRF"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.CRJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.CRL"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.CRR"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.CRY"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.CSJ"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.CSS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.CST"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.CSY"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.CTG"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CTS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.CTU"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.CUU"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.CVG"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.CWE"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.CYM"
+msgstr "वेळॴषॴ"
+
+msgid "ISO_639-3.CZH"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.CZK"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.CZT"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.DAC"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.DAD"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.DAG"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DAL"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.DAM"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.DAN"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DAO"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.DAQ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.DAV"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.DAX"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DAZ"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.DBA"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.DBI"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.DBJ"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.DBO"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.DBP"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.DBW"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.DDJ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.DEC"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.DEH"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.DER"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.DES"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.DEU"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.DGA"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DGG"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.DGI"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DGL"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.DGN"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.DHD"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.DHG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.DHN"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DHS"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DHX"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.DIC"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.DIJ"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DIK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DIP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DIT"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.DIV"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.DIW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DJI"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.DJO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.DKS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DKX"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.DLK"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.DLM"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.DMC"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.DMK"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.DMM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.DMX"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.DND"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.DNG"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.DNJ"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DNK"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.DNW"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.DOC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.DOH"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.DOO"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.DOT"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DOX"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.DOY"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.DPP"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.DRB"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DRC"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.DRD"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.DRE"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.DRL"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.DRU"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.DSB"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.DSI"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DSO"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.DTA"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.DTY"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.DUP"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.DWA"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.DWR"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.DYA"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.DZA"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.DZL"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.DZO"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.EAA"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.EBK"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.ECR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.EGL"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.EKC"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.EKG"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.EKK"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.EKY"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.ELL"
+msgstr "गॴरीकॴ"
+
+msgid "ISO_639-3.EMG"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.EMN"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.EMU"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.ENA"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.ENG"
+msgstr "आंगॴल"
+
+msgid "ISO_639-3.ENQ"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.EPO"
+msgstr "इसॴ॑र॥नॴॆॲ"
+
+msgid "ISO_639-3.ERA"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.ERK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ESG"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.EST"
+msgstr "इसॴॆॲन०ॖनॴ"
+
+msgid "ISO_639-3.ETR"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.ETT"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.EUS"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.EVH"
+msgstr "उृॣ॓ेक"
+
+msgid "ISO_639-3.EYO"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.EZE"
+msgstr "उृॣ॓ेक"
+
+msgid "ISO_639-3.FAA"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.FAF"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.FAH"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.FAJ"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.FAL"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.FAO"
+msgstr "॒ेरॲसॴ"
+
+msgid "ISO_639-3.FAP"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.FAR"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.FAS"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.FAX"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.FAY"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.FAZ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.FBL"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.FER"
+msgstr "॒ेरॲसॴ"
+
+msgid "ISO_639-3.FIJ"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.FIN"
+msgstr "॒०नॴन०षॴ"
+
+msgid "ISO_639-3.FIP"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.FIR"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.FKV"
+msgstr "॒०नॴन०षॴ"
+
+msgid "ISO_639-3.FLI"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.FLL"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.FLY"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.FMU"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.FNG"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.FNI"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.FOM"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.FOR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.FQS"
+msgstr "॒ेरॲसॴ"
+
+msgid "ISO_639-3.FRA"
+msgstr "॒ॴरेनॴु"
+
+msgid "ISO_639-3.FRC"
+msgstr "॒ॴरेनॴु"
+
+msgid "ISO_639-3.FRK"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.FRP"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.FRR"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.FRS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.FRY"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.FUI"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.FUU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.GAB"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GAI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.GAL"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.GAM"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.GAN"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.GAQ"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.GAT"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.GBF"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.GBL"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.GBM"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GBO"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GBY"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GCC"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.GCE"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.GCN"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.GDI"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.GDJ"
+msgstr "गुृर॥ती"
+
+msgid "ISO_639-3.GDK"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GDL"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.GDN"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.GDQ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.GDT"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.GEA"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GEB"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.GEG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.GEI"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.GEJ"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GEQ"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GEW"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GFK"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.GFT"
+msgstr "गुृर॥ती"
+
+msgid "ISO_639-3.GGA"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.GGE"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GGK"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.GHC"
+msgstr "सॴक॥ॆसॴ गेल०कॴ"
+
+msgid "ISO_639-3.GHE"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GHH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GHO"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.GHR"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GIC"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.GIG"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.GIQ"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GIR"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GIU"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.GIW"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GIX"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.GJM"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.GJN"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.GJR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GJU"
+msgstr "गुृर॥ती"
+
+msgid "ISO_639-3.GKE"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.GKN"
+msgstr "सॴक॥ॆसॴ गेल०कॴ"
+
+msgid "ISO_639-3.GLE"
+msgstr "ऐर०ष"
+
+msgid "ISO_639-3.GLG"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.GLH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GLL"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.GMA"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.GMU"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.GMV"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.GNA"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.GNE"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GNH"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.GNM"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GNO"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GNQ"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.GNT"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GNW"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.GNZ"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GOF"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.GOQ"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.GOU"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.GOZ"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GPN"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.GQU"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.GRC"
+msgstr "गॴरीकॴ"
+
+msgid "ISO_639-3.GRG"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.GRI"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.GRJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GRN"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GRO"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GSW"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GUA"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.GUB"
+msgstr "गुृर॥ती"
+
+msgid "ISO_639-3.GUC"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.GUE"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GUJ"
+msgstr "गुृर॥ती"
+
+msgid "ISO_639-3.GUM"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GUR"
+msgstr "॒ेरॲसॴ"
+
+msgid "ISO_639-3.GUW"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GVC"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GVE"
+msgstr "डुॴ"
+
+msgid "ISO_639-3.GVF"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.GVL"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.GVM"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GVR"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.GVS"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GVY"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GWA"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.GWT"
+msgstr "गुृर॥ती"
+
+msgid "ISO_639-3.GWW"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.GWX"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GXX"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.GYB"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.GYE"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.GYF"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.GYL"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.GYR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.GZN"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.HAC"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.HAD"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.HAG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.HAH"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.HAK"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.HAL"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.HAM"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.HAN"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.HAP"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HAR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.HAS"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HAT"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.HAU"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HAV"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HAX"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HAY"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HBA"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HBB"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HBN"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.HBO"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.HBS"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.HBU"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HDN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HEA"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HEB"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.HEH"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.HHR"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.HHY"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HIA"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.HID"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HIF"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.HIG"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.HII"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.HIN"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.HIO"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.HJI"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.HKA"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.HKE"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.HLA"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.HLE"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HLT"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.HMA"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HME"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMG"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMI"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMJ"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.HMP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMR"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.HMS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HMU"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HMW"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.HMY"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HND"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HNI"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.HNO"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HNU"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.HOA"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HOE"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.HOJ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.HOM"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.HOW"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.HRE"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.HRO"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.HRU"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HRV"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.HRX"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.HRZ"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.HSB"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.HSN"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.HSS"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HTS"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HUB"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HUC"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HUD"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.HUF"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.HUJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.HUK"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.HUL"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HUM"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.HUN"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.HUQ"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.HUS"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.HUT"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.HWO"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.HYE"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.IAR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.IBL"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.IBY"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.IDB"
+msgstr "॑ॲरॴुुगीृॣॴ"
+
+msgid "ISO_639-3.IDR"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.IDS"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.IGL"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.IGN"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.IGS"
+msgstr "इनॴॆरल०ंगॴव॥"
+
+msgid "ISO_639-3.III"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.IJE"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.IJS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.IKL"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.IKR"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.IKS"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.IKU"
+msgstr "इनॴॖुकॆॴॆ"
+
+msgid "ISO_639-3.ILB"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.ILE"
+msgstr "इनॴॆरल०ंगॴ"
+
+msgid "ISO_639-3.ILI"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.ILM"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.IMA"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.IMS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.INB"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.IND"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.IPK"
+msgstr "इनू॑ेॖ॥कॴ"
+
+msgid "ISO_639-3.IRX"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.IRY"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.ISH"
+msgstr "इसॴॆॲन०ॖनॴ"
+
+msgid "ISO_639-3.ISL"
+msgstr "आईसॴल॥नॴड०क"
+
+msgid "ISO_639-3.ITA"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.ITD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ITE"
+msgstr "इनॴॆरल०ंगॴ"
+
+msgid "ISO_639-3.ITK"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.ITR"
+msgstr "इनॴॆरल०ंगॴ"
+
+msgid "ISO_639-3.ITV"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.ITY"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.IVB"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.IVV"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.IZH"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.JAF"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.JAN"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.JAQ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.JAU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.JAV"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.JAY"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.JBJ"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.JBK"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.JCT"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.JER"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.JGE"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.JHI"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.JIO"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.JIV"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.JKR"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.JKU"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.JMB"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.JMN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.JMR"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.JNA"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.JNG"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.JNI"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.JNL"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.JNS"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.JOB"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.JOW"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.JPN"
+msgstr "ृ॥॑नीसॴ"
+
+msgid "ISO_639-3.JUK"
+msgstr "ृ॥॑नीसॴ"
+
+msgid "ISO_639-3.JUN"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.JUT"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.JVD"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.JVN"
+msgstr "ृ॥वनीसॴ"
+
+msgid "ISO_639-3.KAD"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KAF"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.KAG"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.KAK"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.KAL"
+msgstr "गॴरीनल॥नॴड०क"
+
+msgid "ISO_639-3.KAN"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KAS"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KAT"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.KAX"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.KAZ"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KBA"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KBI"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.KBJ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.KBP"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KBQ"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.KBR"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KBS"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KBT"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.KBV"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.KBY"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.KBZ"
+msgstr "डुॴ"
+
+msgid "ISO_639-3.KCB"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KCC"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.KCE"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KCF"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.KCI"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.KCJ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KCK"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.KCO"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.KCP"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KCQ"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.KCR"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.KCS"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KCT"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.KCY"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KDE"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.KDG"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.KDN"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KDR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.KDU"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KDW"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KDY"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KED"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.KEH"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KEJ"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KEN"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KEQ"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KER"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KEY"
+msgstr "इनू॑ेॖ॥कॴ"
+
+msgid "ISO_639-3.KFA"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KFB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KFD"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.KFF"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KFG"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KFH"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KFI"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KFP"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KFR"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KFS"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.KFU"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.KFW"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.KFX"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.KFY"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.KGD"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.KGE"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KGL"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.KGN"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.KGP"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.KHA"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.KHE"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KHF"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KHG"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.KHK"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KHP"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.KHR"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.KHS"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.KHT"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.KHV"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KHX"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KIB"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.KIE"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.KIH"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KIL"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.KIM"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.KIN"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.KIR"
+msgstr "क०रॴग०ृॣ"
+
+msgid "ISO_639-3.KIS"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KIW"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KIX"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.KJA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.KJC"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.KJD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KJG"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KJQ"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KJR"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KJX"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.KKA"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KKF"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.KKI"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.KKJ"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KKK"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KKQ"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.KKT"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KKU"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.KKV"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KKZ"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.KLG"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.KLJ"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KLL"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.KLM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.KLP"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KLS"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KLW"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.KLY"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.KMA"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KMC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KMD"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.KMH"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.KML"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.KMR"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KMU"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KMY"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.KND"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KNE"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KNF"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.KNI"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KNJ"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KNK"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KNM"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KNP"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.KNR"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KOC"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.KOK"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KOO"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KOR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KOT"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.KOU"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KOZ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KPD"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.KPK"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KPL"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.KPR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KPS"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.KPT"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KPY"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KQB"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KQE"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.KQG"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KQH"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KQM"
+msgstr "ॄॣॳस॥"
+
+msgid "ISO_639-3.KQN"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KQO"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KQQ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KQS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KQU"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.KQW"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KQY"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KQZ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KRA"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.KRE"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.KRJ"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.KRK"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KRL"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KRN"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.KRT"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.KRV"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KRW"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KSC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KSD"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KSE"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.KSI"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KSK"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KSL"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.KSN"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KSO"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KSP"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.KSR"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.KSS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KSX"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KSZ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KTA"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.KTD"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KTE"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.KTF"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KTH"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.KTK"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KTM"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KTS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KTV"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KUC"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.KUF"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.KUH"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KUJ"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KUN"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KUQ"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.KUR"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KUV"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KVC"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KVD"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.KVI"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.KVP"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KVV"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KVW"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.KWC"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.KWD"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.KWE"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.KWH"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KWJ"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.KWL"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.KWN"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.KWR"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.KWY"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.KWZ"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.KXA"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KXC"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.KXM"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KXN"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.KXP"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.KXW"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KXZ"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.KYG"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.KYL"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.KYM"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.KYN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.KYP"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.KYQ"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.KYS"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.KYU"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KYW"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.KYY"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.KZA"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.KZD"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.KZE"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KZG"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KZK"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.KZM"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.KZN"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.KZQ"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.KZR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.KZX"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.LAA"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.LAB"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LAF"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LAG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.LAL"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LAN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.LAO"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LAT"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LAV"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LAX"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.LAY"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.LBC"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LBE"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LBF"
+msgstr "॒०नॴन०षॴ"
+
+msgid "ISO_639-3.LBG"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LBI"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LBJ"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.LBK"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.LBN"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LBO"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LBT"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LBW"
+msgstr "ओल॥॑ुक"
+
+msgid "ISO_639-3.LCL"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.LCM"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.LCP"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.LDI"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.LDL"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LDM"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LDO"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LDP"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.LEJ"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LEM"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.LEP"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.LEX"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.LFN"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LGA"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LGG"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.LGK"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LGL"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.LGR"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.LHH"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.LHN"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LHT"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.LIE"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LIJ"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LIM"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LIN"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LIR"
+msgstr "आंगॴल"
+
+msgid "ISO_639-3.LIT"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LJE"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.LJI"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LJP"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.LJW"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.LKB"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.LKC"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.LKD"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LKI"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LKJ"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.LKM"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.LKN"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LKO"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LKS"
+msgstr "ॄॣॳस॥"
+
+msgid "ISO_639-3.LKT"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LKU"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.LLB"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.LLD"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LLH"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LLL"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LLO"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.LLP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.LLQ"
+msgstr "ओल॥॑ुक"
+
+msgid "ISO_639-3.LLU"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LLX"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LMB"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.LMC"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LMG"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LMK"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LML"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.LMY"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LMZ"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.LNB"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.LNH"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LNI"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LNM"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LNS"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LNU"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.LOC"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.LOE"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.LOH"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.LOJ"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LOO"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.LOQ"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LPN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.LRA"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.LRC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.LRE"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LRL"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.LRM"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.LRN"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.LRO"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.LRR"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.LRZ"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.LSD"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LSH"
+msgstr "ऐर०ष"
+
+msgid "ISO_639-3.LSI"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.LSM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LSS"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LTG"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.LTI"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.LTN"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LTO"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.LTS"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.LTU"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LUC"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LUD"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LUF"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.LUR"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.LUV"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LUZ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.LVS"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.LWG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.LWH"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.LWM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.LYA"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.LYG"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.LYN"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.LZH"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.LZN"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.LZZ"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.MAF"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MAH"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MAL"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MAM"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MAR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MAW"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MAZ"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.MBE"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MBF"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MBK"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MBP"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MBQ"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MBS"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MBW"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MBY"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MCA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MCI"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MCN"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.MCP"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MCT"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MCY"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MCZ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MDB"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MDG"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MDH"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MDP"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MDW"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MDX"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.MED"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MEH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MEL"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.MEM"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.MET"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MEV"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MEW"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MFA"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MFB"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.MFE"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MFF"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.MFH"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.MFK"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.MFL"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.MFP"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MFQ"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.MFY"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MFZ"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.MGD"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MGE"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MGF"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MGG"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MGJ"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.MGK"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MGP"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.MGQ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MGT"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MGU"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.MGV"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MHF"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MHG"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.MHI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MHJ"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MHK"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.MHP"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.MHQ"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MHS"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.MHX"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.MHY"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MHZ"
+msgstr "तॲंग॥"
+
+msgid "ISO_639-3.MIA"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.MIC"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MID"
+msgstr "आईसॴल॥नॴड०क"
+
+msgid "ISO_639-3.MIJ"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.MIT"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MJB"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MJJ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MJK"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.MJP"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MJQ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MJR"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.MJV"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MJW"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.MJY"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.MKA"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.MKB"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MKD"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MKF"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.MKI"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.MKJ"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MKR"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MKV"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MKY"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.MLA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MLC"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.MLF"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MLG"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MLK"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.MLL"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MLM"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MLN"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MLQ"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MLT"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MLV"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.MLX"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MLZ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MMA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MMD"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MME"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MMI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MMM"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MMN"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.MMO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MMP"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.MMQ"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.MMR"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MMT"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MMU"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MMX"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MMZ"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MNA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MNF"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.MNI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MNJ"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.MNL"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.MNM"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MNN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MNP"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.MNS"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.MNY"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MNZ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MOA"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.MOD"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.MOG"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MOI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MOK"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MOM"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MON"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MOR"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MOX"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MOZ"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.MPD"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.MPH"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MPN"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.MPQ"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MPT"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.MPV"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.MPW"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MPY"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MQA"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.MQC"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MQI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MQM"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MQP"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MQR"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.MQS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MQU"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MRA"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MRB"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MRC"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MRD"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MRG"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MRH"
+msgstr "मराठी"
+
+msgid "ISO_639-3.MRI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MRJ"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MRP"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.MRQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MRS"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MRX"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MRY"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MRZ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MSC"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MSG"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MSH"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MSL"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.MSS"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.MSV"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MTC"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.MTD"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MTE"
+msgstr "तॲंग॥"
+
+msgid "ISO_639-3.MTJ"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.MTL"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MTM"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MTN"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.MTR"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MTS"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.MTW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MTY"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.MUA"
+msgstr "सुंदनीस"
+
+msgid "ISO_639-3.MUC"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.MUM"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MUP"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MUT"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.MUX"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.MUZ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MVA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MVD"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MVF"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MVQ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MVS"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MVZ"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.MWI"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.MWL"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.MWN"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.MWQ"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.MWX"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MWZ"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.MXD"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.MXF"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MXG"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.MXI"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.MXN"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.MXR"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.MXW"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.MXX"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.MXY"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.MYA"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.MYB"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MYG"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.MYJ"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.MYL"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.MYS"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.MYX"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.MYY"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.MZD"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MZJ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MZP"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.MZS"
+msgstr "ृ॥वनीसॴ"
+
+msgid "ISO_639-3.MZV"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.MZX"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.NAA"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.NAB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NAC"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NAJ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NAL"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NAN"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.NAU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NAW"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NBC"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.NBJ"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.NBN"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.NBU"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.NBW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NCB"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.NCC"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.NCH"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.NCJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NCN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NDA"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.NDC"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NDF"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.NDH"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NDL"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.NDN"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.NDS"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.NEF"
+msgstr "व०ॖतॴन॥ॕीृॣ"
+
+msgid "ISO_639-3.NEG"
+msgstr "नॲरॴवेृ०ॖन"
+
+msgid "ISO_639-3.NEM"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NEP"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.NEQ"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.NEW"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.NFD"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.NGB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NGP"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.NGY"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.NHA"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NHB"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.NHE"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NHH"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.NHO"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.NHR"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NHW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NHY"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NIB"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.NIE"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NIJ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NIK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NIM"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.NIQ"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.NIT"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NIX"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.NIZ"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.NJI"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.NJM"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.NJN"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.NJX"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.NJZ"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.NKB"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.NKD"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.NKG"
+msgstr "नॲरॴवेृ०ॖन"
+
+msgid "ISO_639-3.NKI"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.NKN"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.NKU"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.NKW"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NKZ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NLC"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.NLD"
+msgstr "डुॴ"
+
+msgid "ISO_639-3.NLG"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.NLI"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.NLJ"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NLL"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NLQ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NLW"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.NLX"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NMA"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.NMB"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.NMD"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NMF"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.NMG"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.NMK"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NML"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NMM"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.NMP"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NMR"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.NNG"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.NNL"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NNM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.NNR"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NNU"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.NNW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NOB"
+msgstr "नॲरॴवेृ०ॖन"
+
+msgid "ISO_639-3.NOD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NOI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.NOJ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NOL"
+msgstr "ओल॥॑ुक"
+
+msgid "ISO_639-3.NON"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.NOR"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.NOZ"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NPA"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NPI"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.NPN"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.NPS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.NPY"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NQG"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NQQ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NQY"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NRB"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NRC"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.NRE"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NRG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.NRK"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.NRL"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NRM"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.NRN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NRT"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NRU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NRX"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NRZ"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.NSA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.NSD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NSE"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.NSF"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NSG"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.NSS"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NSV"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NSW"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NSX"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.NSY"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.NTD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NTG"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.NTP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NTX"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.NUA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.NUD"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.NUF"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NUG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.NUS"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NUV"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.NWI"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.NWR"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NXI"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NXQ"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NXU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NXX"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NYA"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.NYB"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.NYC"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.NYF"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.NYH"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.NYR"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.NYX"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.OAA"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OAC"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OBK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.OBR"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.OBT"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.OCH"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.OCI"
+msgstr "ओस०ॆ॥नॴ"
+
+msgid "ISO_639-3.ODT"
+msgstr "डुॴ"
+
+msgid "ISO_639-3.OFS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.OGB"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.OGE"
+msgstr "ृ॥रॴृ०ॖनॴ"
+
+msgid "ISO_639-3.OGO"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.OHU"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.OJB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.OJP"
+msgstr "ृ॥॑नीसॴ"
+
+msgid "ISO_639-3.OJW"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.OKB"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OKG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.OKK"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.OKL"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.OKR"
+msgstr "क०रॴग०ृॣ"
+
+msgid "ISO_639-3.OKV"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.OLD"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.OLM"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OLR"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OLT"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.OMK"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OML"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OMN"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.OMP"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.OMR"
+msgstr "मराठी"
+
+msgid "ISO_639-3.OMW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ONB"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.ONP"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.ONR"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ONW"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.OOS"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.OPT"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.ORA"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ORC"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ORG"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.ORI"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.ORM"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ORO"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ORR"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ORT"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.ORV"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.ORX"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ORY"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.ORZ"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OSC"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.OSO"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OSP"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.OSS"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.OSU"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.OSX"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.OTB"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.OTK"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.OTR"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.OTY"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.OUI"
+msgstr "उधूर"
+
+msgid "ISO_639-3.OWL"
+msgstr "वेळॴषॴ"
+
+msgid "ISO_639-3.OYD"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.PAH"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.PAN"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PAO"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PAQ"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.PAS"
+msgstr "ृ॥॑नीसॴ"
+
+msgid "ISO_639-3.PAT"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.PAY"
+msgstr "ृॣेकॴ"
+
+msgid "ISO_639-3.PBP"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.PBT"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PBU"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PCF"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.PCK"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.PEA"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.PEE"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.PEF"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PEG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.PEH"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.PEJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PEK"
+msgstr "॒ॴरेनॴु"
+
+msgid "ISO_639-3.PEP"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PEQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PES"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.PFL"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.PGG"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.PGN"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.PGZ"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.PHH"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.PHO"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PHT"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.PIC"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PII"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.PIM"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.PIS"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.PKB"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.PKT"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.PLA"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.PLD"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.PLJ"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.PLP"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.PLT"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.PLZ"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.PMB"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PMF"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.PMI"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PMJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PML"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.PMM"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.PMQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PMS"
+msgstr "व०ॖतॴन॥ॕीृॣ"
+
+msgid "ISO_639-3.PMT"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.PMY"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.PMZ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PNB"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.PNE"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.PNJ"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PNK"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.PNL"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.PNS"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.POC"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.POL"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.POM"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.POR"
+msgstr "॑ॲरॴुुगीृॣॴ"
+
+msgid "ISO_639-3.POX"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.PPQ"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.PRF"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.PRG"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.PRM"
+msgstr "ओस०ॆ॥नॴ"
+
+msgid "ISO_639-3.PRP"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.PRT"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.PRU"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.PSH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PSI"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PSM"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.PTN"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.PTU"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.PTY"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.PUB"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.PUO"
+msgstr "॑॥षॴॆॲ (॑ुषॴॆॲ)"
+
+msgid "ISO_639-3.PUP"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PUS"
+msgstr "॑॥षॴॆॲ (॑ुषॴॆॲ)"
+
+msgid "ISO_639-3.PUT"
+msgstr "॑॥षॴॆॲ (॑ुषॴॆॲ)"
+
+msgid "ISO_639-3.PUW"
+msgstr "॑ॲरॴुुगीृॣॴ"
+
+msgid "ISO_639-3.PUX"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.PWB"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.PWN"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.PWO"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.PWW"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.PZN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.QUC"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.QUE"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QUP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.QUX"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QUY"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QUZ"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QVP"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QVY"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QVZ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.QXC"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QXP"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.QXS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.QYA"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.RAA"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.RAF"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.RAG"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.RAI"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.RAL"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.RAM"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.RAN"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RAO"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.RAQ"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.RAR"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.RAS"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.RAV"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.RAX"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.RBK"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.RDB"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.REI"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.REL"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.REN"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.RES"
+msgstr "वेळॴषॴ"
+
+msgid "ISO_639-3.RGA"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.RGN"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RGS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.RHG"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.RIM"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.RIN"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.RIR"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.RIU"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.RJI"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.RKI"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.RKT"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.RKW"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.RMA"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMG"
+msgstr "नॲरॴवेृ०ॖन"
+
+msgid "ISO_639-3.RMH"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.RML"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMM"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMO"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMT"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.RMU"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMV"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMW"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMX"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RMY"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RND"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.RNG"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.RNL"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.RNR"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.ROE"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.ROF"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.ROG"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ROH"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.ROL"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RON"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.ROR"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.ROU"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.RPT"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.RSB"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RSM"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.RTC"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.RTH"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.RTM"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RTS"
+msgstr "॓रॴॕीृॣॴ"
+
+msgid "ISO_639-3.RUC"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.RUE"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.RUG"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RUK"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.RUN"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.RUO"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RUP"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RUQ"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.RUS"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.RXD"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.RXW"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.RYN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SAA"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SAC"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.SAE"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SAG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SAK"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SAM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SAN"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SAO"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.SAQ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.SAU"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SAW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SAY"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SBD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SBE"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SBI"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SBK"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SBL"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SBM"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.SBN"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SBS"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SBV"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SBX"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SBY"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SCE"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.SCG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SCH"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SCK"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SCL"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SCV"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SCW"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SDF"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SDG"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SDH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SDJ"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.SDK"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.SDR"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SDU"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.SEA"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SED"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SEH"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SEI"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SEK"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.SEO"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.SER"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SET"
+msgstr "सॴलॲवेन०ॖनॴ"
+
+msgid "ISO_639-3.SEZ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SFW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SGE"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.SGK"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SGM"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.SGP"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SGR"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SGS"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SGU"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.SGY"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SHC"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SHD"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SHE"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SHG"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SHH"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SHJ"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SHO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SHQ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.SHR"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SHU"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.SHV"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SHW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SHY"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.SIB"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SIF"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SIK"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.SIN"
+msgstr "सुंदनीस"
+
+msgid "ISO_639-3.SIQ"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SIR"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SIW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SIY"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SIZ"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SJL"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.SJN"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SJP"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SJW"
+msgstr "सुंदनीस"
+
+msgid "ISO_639-3.SKB"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SKC"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.SKD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SKG"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.SKK"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SKM"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.SKP"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SKR"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SKS"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.SKU"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SLE"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SLI"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SLK"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SLL"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SLN"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.SLR"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.SLT"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SLU"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.SLV"
+msgstr "सॴलॲवेन०ॖनॴ"
+
+msgid "ISO_639-3.SLZ"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.SMA"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SMB"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.SMC"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SMD"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SME"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SMG"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SMH"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.SMM"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.SMN"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SMO"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SMP"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SMQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SMU"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SMX"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SMY"
+msgstr "सॴलॲवेन०ॖनॴ"
+
+msgid "ISO_639-3.SNA"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SND"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.SNH"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SNI"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SNL"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SNM"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SNN"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SNO"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.SNP"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SNR"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SNU"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.SNV"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SNX"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SNZ"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.SOA"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.SOD"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SOI"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SOJ"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SOL"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.SOM"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SOO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SOP"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SOQ"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.SOR"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SOT"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SOU"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SOW"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SOX"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SOZ"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.SPA"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.SPB"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.SPG"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SPI"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SPK"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SPO"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SPS"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SPU"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SPV"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SQH"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SQI"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.SQM"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SQR"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.SQU"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.SRB"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SRE"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SRF"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.SRH"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.SRI"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SRM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SRN"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.SRP"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SRS"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SRT"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SRV"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SRW"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SRY"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SRZ"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.SSB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SSE"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.SSF"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.SSG"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SSH"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.SSI"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SSJ"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.SSK"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SSL"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.SSN"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.SSO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SSQ"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SSW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SSY"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.STB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.STG"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.STK"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.STM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.STP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.STU"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SUC"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.SUE"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.SUG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SUN"
+msgstr "सुंदनीस"
+
+msgid "ISO_639-3.SVA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SVE"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SVM"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SVX"
+msgstr "सॴलॲवेन०ॖनॴ"
+
+msgid "ISO_639-3.SWB"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.SWE"
+msgstr "सॴवीदीष"
+
+msgid "ISO_639-3.SWF"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.SWG"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SWK"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.SWM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SWO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SWS"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.SWT"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.SWV"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SWW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.SWY"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.SXB"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.SXC"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.SXE"
+msgstr "उधूर"
+
+msgid "ISO_639-3.SXK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.SXL"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SXN"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SXR"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SYA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SYB"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.SYM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SYX"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.SZA"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.SZL"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.SZN"
+msgstr "सॴलॲव॥क"
+
+msgid "ISO_639-3.SZP"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.SZW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.TAA"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TAD"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.TAE"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.TAG"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TAK"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TAL"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TAM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TAN"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TAO"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TAT"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TAU"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TAW"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TAX"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TBA"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.TBC"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TBE"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TBG"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.TBJ"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TBO"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TBP"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TBS"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TBU"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TBX"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.TBY"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TCD"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TCE"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TCG"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TCO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.TCP"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.TCU"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TCX"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TCY"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.TCZ"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.TDA"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TDG"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.TDH"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TDI"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.TDJ"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.TDM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TDN"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TDQ"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TEC"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TEK"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TEL"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TEO"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TEQ"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TEY"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TFN"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TFO"
+msgstr "अ॒॥र"
+
+msgid "ISO_639-3.TFR"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TGB"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TGC"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.TGJ"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.TGK"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.TGL"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TGN"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TGO"
+msgstr "सुंदनीस"
+
+msgid "ISO_639-3.TGP"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.TGQ"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.TGR"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TGU"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TGX"
+msgstr "ड॥न०ष"
+
+msgid "ISO_639-3.TGZ"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.THA"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.THE"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.THF"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.THH"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.THN"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.THS"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.THT"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.THU"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.THW"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.THY"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TIC"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.TIF"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TII"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TIJ"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TIK"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.TIM"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TIN"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.TIP"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TIR"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.TIT"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TIU"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.TIW"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.TIX"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TJI"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TJL"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TJS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TKB"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.TKE"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TKG"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.TKS"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TKV"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.TKW"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TKX"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.TKZ"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.TLA"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TLG"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TLH"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.TLK"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TLL"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TLO"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TLR"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.TLS"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TLT"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.TLU"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.TMC"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.TMD"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.TMJ"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.TMK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TMN"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.TMQ"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TMW"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.TMY"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TNA"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TNB"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TNG"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TNH"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.TNI"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TNK"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.TNM"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TNN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TNO"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.TNQ"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TNW"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TNX"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TNY"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TOB"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.TOD"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TOH"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TON"
+msgstr "तॲंग॥"
+
+msgid "ISO_639-3.TOX"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.TPA"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TPF"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TPM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TPU"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.TPV"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TPY"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TQL"
+msgstr "ने॑॥ळी"
+
+msgid "ISO_639-3.TQQ"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.TQR"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TQT"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.TQW"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TRA"
+msgstr "क०रॴग०ृॣ"
+
+msgid "ISO_639-3.TRD"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TRE"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.TRH"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TRJ"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TRL"
+msgstr "सॴक॥ॆसॴ गेल०कॴ"
+
+msgid "ISO_639-3.TRM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TRR"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.TRW"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.TRY"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TSA"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TSB"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TSC"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TSD"
+msgstr "इसॴॆॲन०ॖनॴ"
+
+msgid "ISO_639-3.TSH"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TSJ"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TSN"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TSO"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TSP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TSU"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TSV"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TSZ"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.TTB"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.TTG"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TTI"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TTM"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TTN"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.TTR"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.TTS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TTV"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.TTW"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TUG"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.TUH"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.TUI"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TUJ"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TUK"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TUQ"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.TUR"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TUV"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TUY"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TUZ"
+msgstr "तुरॴक०ष"
+
+msgid "ISO_639-3.TVK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TVN"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.TVS"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TVU"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.TVW"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.TWA"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TWB"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TWE"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.TWF"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TWI"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.TWL"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TWM"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TWN"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.TWO"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TWQ"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.TWR"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.TWU"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.TWW"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.TWY"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.TXA"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.TXB"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.TXH"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TXN"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.TXQ"
+msgstr "तॴव०"
+
+msgid "ISO_639-3.TXR"
+msgstr "॓ैलॲरुस०ॖनॴ"
+
+msgid "ISO_639-3.TXS"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.TXX"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TXY"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.TYA"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.TYE"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.TYJ"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TYL"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.TYN"
+msgstr "सॲॕ॥ळी"
+
+msgid "ISO_639-3.TZH"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.TZJ"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TZL"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.TZN"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.TZO"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.TZX"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.UAN"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.UBA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.UBR"
+msgstr "उधूर"
+
+msgid "ISO_639-3.UBY"
+msgstr "उृॣ॓ेक"
+
+msgid "ISO_639-3.UDG"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.UDJ"
+msgstr "उधूर"
+
+msgid "ISO_639-3.UDU"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.UHA"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.UHN"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.UIG"
+msgstr "उधूर"
+
+msgid "ISO_639-3.UKA"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.UKR"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.ULI"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.ULK"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.ULW"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.UMC"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.UMM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.UMN"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.UNM"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.UNN"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.UNR"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.UNU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.UNX"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.URA"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.URC"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.URD"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.URE"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.URG"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.URM"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.URN"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.URU"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.URV"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.URX"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.URY"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.USP"
+msgstr "इसॴ॑र॥नॴॆॲ"
+
+msgid "ISO_639-3.UTP"
+msgstr "तॲंग॥"
+
+msgid "ISO_639-3.UUM"
+msgstr "उरॴदू"
+
+msgid "ISO_639-3.UZB"
+msgstr "उृॣ॓ेक"
+
+msgid "ISO_639-3.UZN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.UZS"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.VAG"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.VAN"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.VAO"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.VAV"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.VBB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.VBK"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.VEC"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.VIE"
+msgstr "व०ॖतॴन॥ॕीृॣ"
+
+msgid "ISO_639-3.VKA"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.VKK"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.VKM"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.VKO"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.VMB"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.VMD"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.VME"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.VMG"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.VML"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.VNK"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.VNP"
+msgstr "ओल॥॑ुक"
+
+msgid "ISO_639-3.VOL"
+msgstr "ओल॥॑ुक"
+
+msgid "ISO_639-3.VRA"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.VRS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.WAA"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.WAE"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.WAI"
+msgstr "॒ेरॲसॴ"
+
+msgid "ISO_639-3.WAL"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.WAQ"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.WAT"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.WAX"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.WBF"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.WBH"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.WBI"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.WBT"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.WDK"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.WEH"
+msgstr "वेळॴषॴ"
+
+msgid "ISO_639-3.WET"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.WEU"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.WHG"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.WHU"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.WIB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.WII"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.WJI"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.WKA"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.WKB"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.WKL"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.WKU"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.WLA"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.WLE"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.WLG"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.WLI"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.WLO"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.WLS"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.WLW"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.WLY"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.WMI"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.WMM"
+msgstr "इनॴडॲनेष०ॖन"
+
+msgid "ISO_639-3.WMS"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.WMW"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.WMX"
+msgstr "ओरॲॕॲ (अ॒॥न)"
+
+msgid "ISO_639-3.WNG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.WNN"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.WNO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.WNU"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.WOC"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.WOD"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.WOE"
+msgstr "ॕॲलॴड॥व०ॖनॴ"
+
+msgid "ISO_639-3.WOF"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.WOI"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.WOL"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.WON"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.WOO"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.WOR"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.WPC"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.WRS"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.WRU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.WRY"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.WSK"
+msgstr "॓षॴक०र"
+
+msgid "ISO_639-3.WSS"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.WSU"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.WTM"
+msgstr "स०सॴव॥ती"
+
+msgid "ISO_639-3.WUL"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.WUU"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.WXW"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.WYI"
+msgstr "तुरॴकॕन"
+
+msgid "ISO_639-3.WYY"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.XAB"
+msgstr "तॕ०ळ"
+
+msgid "ISO_639-3.XAC"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.XAD"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.XAE"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.XAJ"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.XAL"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.XAQ"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.XAR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.XBC"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.XBE"
+msgstr "॓०सलॕ॥"
+
+msgid "ISO_639-3.XBG"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.XBJ"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.XBM"
+msgstr "॓ॴरेॆन"
+
+msgid "ISO_639-3.XBN"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.XBO"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.XBR"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.XBY"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.XCL"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.XCO"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.XCR"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.XCU"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.XDC"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.XDY"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.XED"
+msgstr "ह०नॴदी"
+
+msgid "ISO_639-3.XFA"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.XGA"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.XGD"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.XGG"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.XGI"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.XGL"
+msgstr "गेलीश०ॖन"
+
+msgid "ISO_639-3.XGM"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.XGR"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.XGU"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.XHA"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.XHE"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.XHO"
+msgstr "ॄॣॳस॥"
+
+msgid "ISO_639-3.XHR"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.XHU"
+msgstr "हंगेर०ॖनॴ"
+
+msgid "ISO_639-3.XIB"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.XII"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.XIL"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.XIR"
+msgstr "त०गॴर०नॴॖ॥"
+
+msgid "ISO_639-3.XIS"
+msgstr "ॄॣॳस॥"
+
+msgid "ISO_639-3.XJB"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.XJT"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.XKB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.XKE"
+msgstr "हे॓ॴरु"
+
+msgid "ISO_639-3.XKF"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.XKQ"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.XKU"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.XKX"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.XKY"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.XLC"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.XLD"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.XLE"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.XLI"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.XLN"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.XLS"
+msgstr "ल०थुआन०ॖनॴ"
+
+msgid "ISO_639-3.XMB"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.XME"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.XMF"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.XMK"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.XMM"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.XMO"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.XMW"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.XNG"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.XNI"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.XNK"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.XNN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.XNR"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.XNS"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.XNT"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.XOD"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.XOG"
+msgstr "शॲन॥"
+
+msgid "ISO_639-3.XON"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.XOR"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.XOW"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.XPA"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.XPG"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.XPI"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.XPR"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.XPS"
+msgstr "॑रॴष०ॖनॴ"
+
+msgid "ISO_639-3.XPT"
+msgstr "ऐॕर॥"
+
+msgid "ISO_639-3.XPU"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.XPY"
+msgstr "॑॥षॴॆॲ (॑ुषॴॆॲ)"
+
+msgid "ISO_639-3.XQA"
+msgstr "॓ीह॥री"
+
+msgid "ISO_639-3.XQT"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.XRG"
+msgstr "॒०ृी"
+
+msgid "ISO_639-3.XRM"
+msgstr "अरे॓०कॴ"
+
+msgid "ISO_639-3.XRN"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.XRQ"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.XRW"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.XSA"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.XSB"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.XSD"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.XSE"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.XSH"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.XSM"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.XSO"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.XSP"
+msgstr "सॴव॥ह०ली"
+
+msgid "ISO_639-3.XSR"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.XSS"
+msgstr "रषॴॖनॴ"
+
+msgid "ISO_639-3.XSV"
+msgstr "सॴलॲवेन०ॖनॴ"
+
+msgid "ISO_639-3.XSY"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.XTO"
+msgstr "अ॓खेृॣ०ॖन"
+
+msgid "ISO_639-3.XTW"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.XTZ"
+msgstr "रॲॕ॥न०ॖनॴ"
+
+msgid "ISO_639-3.XUM"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.XUN"
+msgstr "ॖुकॴरेन०ॖनॴ"
+
+msgid "ISO_639-3.XUR"
+msgstr "कॴरॲॖेष०ॖनॴ"
+
+msgid "ISO_639-3.XUU"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.XVI"
+msgstr "कशॴॕीरी"
+
+msgid "ISO_639-3.XVO"
+msgstr "कॲरॴश०ॖन"
+
+msgid "ISO_639-3.XVS"
+msgstr "इसॴॆॲन०ॖनॴ"
+
+msgid "ISO_639-3.XWA"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.XWK"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.XXR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.XXT"
+msgstr "तग॥लॲग"
+
+msgid "ISO_639-3.XYB"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.XYK"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.XYL"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.XZH"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.XZM"
+msgstr "ॕसीडॲन०ॖनॴ"
+
+msgid "ISO_639-3.YAD"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.YAK"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.YAN"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.YAU"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.YAX"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.YBA"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.YBJ"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.YBK"
+msgstr "॔ूॆ॥नी"
+
+msgid "ISO_639-3.YCH"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.YCL"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.YCN"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.YCP"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.YDA"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.YDD"
+msgstr "इदॴद०षॴ"
+
+msgid "ISO_639-3.YDG"
+msgstr "इदॴद०षॴ"
+
+msgid "ISO_639-3.YDK"
+msgstr "इदॴद०षॴ"
+
+msgid "ISO_639-3.YEC"
+msgstr "॒ॴरेनॴु"
+
+msgid "ISO_639-3.YEJ"
+msgstr "आईसॴल॥नॴड०क"
+
+msgid "ISO_639-3.YER"
+msgstr "तृ०क"
+
+msgid "ISO_639-3.YES"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.YGA"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.YGR"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.YGS"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.YHA"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.YHD"
+msgstr "इॆ॥ल०ॖन"
+
+msgid "ISO_639-3.YHS"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.YIA"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.YID"
+msgstr "इदॴद०षॴ"
+
+msgid "ISO_639-3.YIH"
+msgstr "इदॴद०षॴ"
+
+msgid "ISO_639-3.YII"
+msgstr "इदॴद०षॴ"
+
+msgid "ISO_639-3.YIM"
+msgstr "ल॥ॆॴव०ॖनॴ (लेॆॴॆ०षॴ)"
+
+msgid "ISO_639-3.YIN"
+msgstr "स०ंधी"
+
+msgid "ISO_639-3.YIP"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.YIQ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.YIR"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.YIS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.YIV"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.YKG"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.YKL"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.YKM"
+msgstr "ल॥ॆ०न"
+
+msgid "ISO_639-3.YKO"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.YKR"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.YKT"
+msgstr "हॳस॥"
+
+msgid "ISO_639-3.YKU"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.YLB"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.YLG"
+msgstr "तेलुगू"
+
+msgid "ISO_639-3.YLM"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.YLO"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.YMC"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.YMD"
+msgstr "क०रुनॴदी"
+
+msgid "ISO_639-3.YMH"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.YMI"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.YMM"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.YMO"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.YMR"
+msgstr "ॕलॖ"
+
+msgid "ISO_639-3.YMS"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.YMX"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.YMZ"
+msgstr "॑ंृ॥॓ी"
+
+msgid "ISO_639-3.YNA"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.YND"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.YNE"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.YNG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.YNN"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.YNO"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.YNS"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.YOB"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.YOI"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.YOL"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.YON"
+msgstr "तॴसॲग॥"
+
+msgid "ISO_639-3.YOR"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.YPA"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.YPG"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.YPH"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.YPM"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.YPO"
+msgstr "॑ॲल०ष"
+
+msgid "ISO_639-3.YPP"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.YPZ"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.YRB"
+msgstr "ॖूरु॓॥"
+
+msgid "ISO_639-3.YRY"
+msgstr "कॆल॥न"
+
+msgid "ISO_639-3.YSD"
+msgstr "सॕॲन"
+
+msgid "ISO_639-3.YSN"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.YSP"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.YSY"
+msgstr "सेरॴ॓०ॖनॴ"
+
+msgid "ISO_639-3.YTA"
+msgstr "तॆ॥र"
+
+msgid "ISO_639-3.YTL"
+msgstr "ॕंगॲल०ॖनॴ"
+
+msgid "ISO_639-3.YTP"
+msgstr "थ॥ई"
+
+msgid "ISO_639-3.YUC"
+msgstr "डुॴ"
+
+msgid "ISO_639-3.YUE"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.YUL"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.YUM"
+msgstr "कॴवेुॴव॥"
+
+msgid "ISO_639-3.YUX"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.YWG"
+msgstr "सेतॴसॴव॥न॥"
+
+msgid "ISO_639-3.YWL"
+msgstr "॒ॴर०श०ॖनॴ"
+
+msgid "ISO_639-3.YWR"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.YXA"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.YXG"
+msgstr "॓लॴगेर०ॖन"
+
+msgid "ISO_639-3.YXL"
+msgstr "क०नॴॖ॥रॴव॥नॴड॥"
+
+msgid "ISO_639-3.YYZ"
+msgstr "आलॴ॓ेन०ॖनॴ"
+
+msgid "ISO_639-3.YZG"
+msgstr "॓ंग॥ली"
+
+msgid "ISO_639-3.YZK"
+msgstr "ॄॣॳस॥"
+
+msgid "ISO_639-3.ZAL"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.ZAU"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.ZBC"
+msgstr "कुरॴद०ष"
+
+msgid "ISO_639-3.ZBE"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.ZBT"
+msgstr "॓॥सॴक"
+
+msgid "ISO_639-3.ZBW"
+msgstr "ृरॴॕन"
+
+msgid "ISO_639-3.ZGA"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.ZGB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZGM"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.ZGN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZGR"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.ZHA"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.ZHD"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.ZHN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZHO"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.ZHW"
+msgstr "ॄॣॳस॥"
+
+msgid "ISO_639-3.ZIM"
+msgstr "ॕ॥लतीसॴ"
+
+msgid "ISO_639-3.ZIR"
+msgstr "ओर०ॖ॥"
+
+msgid "ISO_639-3.ZIW"
+msgstr "ल०ंग॥ल॥"
+
+msgid "ISO_639-3.ZKH"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.ZKK"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.ZKN"
+msgstr "गॳर॥नी"
+
+msgid "ISO_639-3.ZKT"
+msgstr "त०॓ेत०ॖन"
+
+msgid "ISO_639-3.ZKU"
+msgstr "कनॴनड॥"
+
+msgid "ISO_639-3.ZKV"
+msgstr "आरॴॕीन०ॖनॴ"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZLN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZMC"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.ZMD"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.ZMO"
+msgstr "उलॲ॒ॣ"
+
+msgid "ISO_639-3.ZMU"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.ZMY"
+msgstr "ॕ॥ओरी"
+
+msgid "ISO_639-3.ZNG"
+msgstr "स॥ंगॴरॲ"
+
+msgid "ISO_639-3.ZNS"
+msgstr "ॕल॥गसी"
+
+msgid "ISO_639-3.ZOM"
+msgstr "ल॥ओत०ॖनॴ"
+
+msgid "ISO_639-3.ZPC"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.ZPD"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZPV"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.ZQE"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZRG"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.ZRN"
+msgstr "कं॓ॲड०ॖन"
+
+msgid "ISO_639-3.ZSA"
+msgstr "संसॴकृत"
+
+msgid "ISO_639-3.ZSK"
+msgstr "कॲर०ॖनॴ"
+
+msgid "ISO_639-3.ZSM"
+msgstr "ॕळ०ॖ॥ळॕ"
+
+msgid "ISO_639-3.ZSR"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZSU"
+msgstr "नॳरॲ"
+
+msgid "ISO_639-3.ZUH"
+msgstr "कॲंकणी"
+
+msgid "ISO_639-3.ZUL"
+msgstr "ृुलू"
+
+msgid "ISO_639-3.ZYB"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZYG"
+msgstr "ॄॴहुनॴग"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZYN"
+msgstr "सेसॲथॲ"
+
+msgid "ISO_639-3.ZYP"
+msgstr "ुीनीसॴ"
+
+msgid "ISO_639-3.ZZA"
+msgstr "कृॣखॴ"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "ॄॴहुनॴग"

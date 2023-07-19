@@ -1,0 +1,11861 @@
+# translation of iso_639-0.19.po to Afrikaans
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Ysbeer <ysbeer@af.org.za>, 2004.
+# Translations from KDE:
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Frikkie Thirion <frix@engineer.com>, 2001.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-01-12 22:33+0000\n"
+"Last-Translator: Ysbeer <ysbeer@af.org.za>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.2\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AAD"
+msgstr "Somalees"
+
+msgid "ISO_639-3.AAF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.AAG"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AAK"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AAL"
+msgstr "Afar"
+
+msgid "ISO_639-3.AAR"
+msgstr "Afar"
+
+msgid "ISO_639-3.AAT"
+msgstr "Albanees"
+
+msgid "ISO_639-3.AAW"
+msgstr "Shona"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.ABD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ABE"
+msgstr "Fries"
+
+msgid "ISO_639-3.ABG"
+msgstr "Albanees"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ABK"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.ABL"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.ABV"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.ABW"
+msgstr "Somalees"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ACE"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.ACI"
+msgstr "Maori"
+
+msgid "ISO_639-3.ACN"
+msgstr "Shona"
+
+msgid "ISO_639-3.ACR"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ADD"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ADI"
+msgstr "Swahili"
+
+msgid "ISO_639-3.ADL"
+msgstr "Laoties"
+
+msgid "ISO_639-3.ADN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ADR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.ADW"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ADX"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.ADY"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.AEA"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AEE"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AEU"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AEW"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AEY"
+msgstr "Assamese"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AFD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.AFK"
+msgstr "Swati"
+
+msgid "ISO_639-3.AFP"
+msgstr "Tais"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.AGA"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AGB"
+msgstr "Grieks"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AGE"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.AGF"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.AGG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.AGH"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.AGI"
+msgstr "Tigris"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.AGO"
+msgstr "Tswana"
+
+msgid "ISO_639-3.AGW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.AGY"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AHA"
+msgstr "Swati"
+
+msgid "ISO_639-3.AHH"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.AHK"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AHR"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.AIC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.AIE"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Litaus"
+
+msgid "ISO_639-3.AIR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.AIS"
+msgstr "Guarani"
+
+msgid "ISO_639-3.AIW"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AIX"
+msgstr "Shona"
+
+msgid "ISO_639-3.AJN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.AJP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.AKA"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.AKE"
+msgstr "Swahili"
+
+msgid "ISO_639-3.AKF"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKK"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKL"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKM"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AKW"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Albanees"
+
+msgid "ISO_639-3.ALA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ALD"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.ALH"
+msgstr "Albanees"
+
+msgid "ISO_639-3.ALI"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Albanees"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slowaaks"
+
+msgid "ISO_639-3.ALL"
+msgstr "Afar"
+
+msgid "ISO_639-3.ALN"
+msgstr "Albanees"
+
+msgid "ISO_639-3.ALS"
+msgstr "Albanees"
+
+msgid "ISO_639-3.ALT"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ALX"
+msgstr "Somalees"
+
+msgid "ISO_639-3.AMC"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Sangro"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AML"
+msgstr "Guarani"
+
+msgid "ISO_639-3.AMN"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AMS"
+msgstr "Fries"
+
+msgid "ISO_639-3.AMY"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ANB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ANC"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ANH"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.ANI"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ANK"
+msgstr "Somalees"
+
+msgid "ISO_639-3.ANL"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.ANN"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ANP"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.ANR"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.ANS"
+msgstr "Duits"
+
+msgid "ISO_639-3.ANV"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.ANW"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ANY"
+msgstr "Albanees"
+
+msgid "ISO_639-3.AOA"
+msgstr "Mongools"
+
+msgid "ISO_639-3.AOD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Russies"
+
+msgid "ISO_639-3.AOR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.AOS"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.APB"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.APC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.APD"
+msgstr "Färöers"
+
+msgid "ISO_639-3.APF"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.APG"
+msgstr "Albanees"
+
+msgid "ISO_639-3.APH"
+msgstr "Amharies"
+
+msgid "ISO_639-3.API"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.APO"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.APP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.APW"
+msgstr "Fries"
+
+msgid "ISO_639-3.AQC"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.AQN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AQT"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ARD"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.ARE"
+msgstr "Fries"
+
+msgid "ISO_639-3.ARG"
+msgstr "Färöers"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrikaans"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ARN"
+msgstr "Mans"
+
+msgid "ISO_639-3.ARO"
+msgstr "Färöers"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arabies"
+
+msgid "ISO_639-3.ASD"
+msgstr "Assamese"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.ASJ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.ASK"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.ASM"
+msgstr "Assamese"
+
+msgid "ISO_639-3.ASO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.AST"
+msgstr "Estoniaans"
+
+msgid "ISO_639-3.ASV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ATB"
+msgstr "Hindi"
+
+msgid "ISO_639-3.ATN"
+msgstr "Estoniaans"
+
+msgid "ISO_639-3.ATR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.ATV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ATX"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AUB"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.AUC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.AUG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.AUH"
+msgstr "Tais"
+
+msgid "ISO_639-3.AUJ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.AUK"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.AUL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.AUP"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Engels"
+
+msgid "ISO_639-3.AUR"
+msgstr "Grieks"
+
+msgid "ISO_639-3.AUW"
+msgstr "Swahili"
+
+msgid "ISO_639-3.AUY"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AVA"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AVB"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.AVI"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AVK"
+msgstr "Hausa"
+
+msgid "ISO_639-3.AVN"
+msgstr "Amharies"
+
+msgid "ISO_639-3.AVS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.AWA"
+msgstr "Swahili"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AWO"
+msgstr "Swahili"
+
+msgid "ISO_639-3.AWU"
+msgstr "Swati"
+
+msgid "ISO_639-3.AWX"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AXL"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AXM"
+msgstr "Armeens"
+
+msgid "ISO_639-3.AYA"
+msgstr "Afar"
+
+msgid "ISO_639-3.AYC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AYG"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.AYH"
+msgstr "Hindi"
+
+msgid "ISO_639-3.AYI"
+msgstr "Georgies"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabies"
+
+msgid "ISO_639-3.AYM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.AYN"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.AYR"
+msgstr "Swati"
+
+msgid "ISO_639-3.AYS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.AZA"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azerbaidjans"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azerbaidjans"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azerbaidjans"
+
+msgid "ISO_639-3.BAA"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BAC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BAG"
+msgstr "Turks"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BAK"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BAM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BAN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BAP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BAV"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BAX"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BAY"
+msgstr "Bask"
+
+msgid "ISO_639-3.BBB"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BBD"
+msgstr "Bask"
+
+msgid "ISO_639-3.BBE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BBF"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arabies"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BBI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BBL"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BBM"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BBP"
+msgstr "Swati"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.BBS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BBV"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BBW"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BBY"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BCA"
+msgstr "Swati"
+
+msgid "ISO_639-3.BCC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BCE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BCF"
+msgstr "Bask"
+
+msgid "ISO_639-3.BCG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BCK"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BCL"
+msgstr "Swati"
+
+msgid "ISO_639-3.BCO"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Frans"
+
+msgid "ISO_639-3.BCR"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BCS"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BCT"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BCU"
+msgstr "Swahili"
+
+msgid "ISO_639-3.BCW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BCY"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BDB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BDD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BDE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BDF"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BDG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BDI"
+msgstr "Nauru"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BDK"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BDP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BDU"
+msgstr "Oromees"
+
+msgid "ISO_639-3.BDW"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BDY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BDZ"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BED"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BEF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BEG"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BEH"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BEK"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BEL"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BEN"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BEO"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BEP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BES"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BEW"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BFA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BFC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BFG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BFN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BFR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BFS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BFT"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BFU"
+msgstr "Guarani"
+
+msgid "ISO_639-3.BFW"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BFX"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BFY"
+msgstr "Marafi"
+
+msgid "ISO_639-3.BFZ"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.BGB"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BGC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BGF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BGG"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BGI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BGN"
+msgstr "Fries"
+
+msgid "ISO_639-3.BGO"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BGR"
+msgstr "walloonse"
+
+msgid "ISO_639-3.BGU"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BGW"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BGY"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BHA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHB"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BHD"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHE"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BHF"
+msgstr "Oria"
+
+msgid "ISO_639-3.BHG"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BHH"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BHL"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BHM"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BHR"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.BHS"
+msgstr "Maleis"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BHV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BHX"
+msgstr "Maleis"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.BIA"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BIB"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BIC"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BID"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BIF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BIG"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BIM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BIN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BIO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BIR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIS"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BIT"
+msgstr "Oromees"
+
+msgid "ISO_639-3.BIU"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BIV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BIX"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIY"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BJA"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BJB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BJC"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BJH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.BJN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BJO"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BJS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BJV"
+msgstr "Breton"
+
+msgid "ISO_639-3.BJY"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.BKA"
+msgstr "Kazak"
+
+msgid "ISO_639-3.BKD"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BKF"
+msgstr "Grieks"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BKI"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BKJ"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BKQ"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BKS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BKT"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BKW"
+msgstr "Oezbekies"
+
+msgid "ISO_639-3.BKX"
+msgstr "Latyn"
+
+msgid "ISO_639-3.BLB"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BLD"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BLG"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BLH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BLI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BLL"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BLN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BLP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BLR"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BLS"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BLV"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BLW"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.BLZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BMD"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.BMH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BMI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BML"
+msgstr "Somalees"
+
+msgid "ISO_639-3.BMO"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BMR"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BMS"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.BMV"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BMW"
+msgstr "Somalees"
+
+msgid "ISO_639-3.BMX"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BNB"
+msgstr "Romeens"
+
+msgid "ISO_639-3.BNC"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BND"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.BNE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BNF"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BNG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BNI"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BNK"
+msgstr "Grieks"
+
+msgid "ISO_639-3.BNL"
+msgstr "Breton"
+
+msgid "ISO_639-3.BNM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Swati"
+
+msgid "ISO_639-3.BNS"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BNU"
+msgstr "Breton"
+
+msgid "ISO_639-3.BNW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Grieks"
+
+msgid "ISO_639-3.BOA"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.BOB"
+msgstr "Afar"
+
+msgid "ISO_639-3.BOD"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.BOE"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.BOF"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BOH"
+msgstr "Somalees"
+
+msgid "ISO_639-3.BOK"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BOM"
+msgstr "Oromees"
+
+msgid "ISO_639-3.BON"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BOP"
+msgstr "Romeens"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BOS"
+msgstr "Romeens"
+
+msgid "ISO_639-3.BOT"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BOU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BOV"
+msgstr "Twi"
+
+msgid "ISO_639-3.BOW"
+msgstr "Romeens"
+
+msgid "ISO_639-3.BPA"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BPB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BPD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BPG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BPH"
+msgstr "Pools"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BPK"
+msgstr "Oromees"
+
+msgid "ISO_639-3.BPO"
+msgstr "Marafi"
+
+msgid "ISO_639-3.BPP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.BPU"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BPV"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.BPZ"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BQB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BQH"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BQI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BQL"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BQO"
+msgstr "walloonse"
+
+msgid "ISO_639-3.BQP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BQR"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BQS"
+msgstr "Romeens"
+
+msgid "ISO_639-3.BQV"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BQX"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BRE"
+msgstr "Breton"
+
+msgid "ISO_639-3.BRF"
+msgstr "Duits"
+
+msgid "ISO_639-3.BRG"
+msgstr "Bask"
+
+msgid "ISO_639-3.BRH"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BRN"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BRS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BRT"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BRU"
+msgstr "Fries"
+
+msgid "ISO_639-3.BRV"
+msgstr "Fries"
+
+msgid "ISO_639-3.BRW"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BSB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BSC"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BSE"
+msgstr "Tais"
+
+msgid "ISO_639-3.BSF"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BSG"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.BSH"
+msgstr "Swati"
+
+msgid "ISO_639-3.BSI"
+msgstr "Maori"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BSK"
+msgstr "Tais"
+
+msgid "ISO_639-3.BSM"
+msgstr "Tais"
+
+msgid "ISO_639-3.BSN"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BSO"
+msgstr "Pasjtoe"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BST"
+msgstr "Bask"
+
+msgid "ISO_639-3.BSU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BSW"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BTA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japanees"
+
+msgid "ISO_639-3.BTR"
+msgstr "Breton"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BTV"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BUC"
+msgstr "Tais"
+
+msgid "ISO_639-3.BUG"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BUI"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BUN"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.BUO"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.BUP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Breton"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BUZ"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.BVA"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BVB"
+msgstr "Bask"
+
+msgid "ISO_639-3.BVC"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.BVH"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BVM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BVN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.BVO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BVP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BVV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BVW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.BVY"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Tais"
+
+msgid "ISO_639-3.BWD"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BWG"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.BWI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BXA"
+msgstr "Kirgisies"
+
+msgid "ISO_639-3.BXB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BXC"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BXG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.BXM"
+msgstr "Mongools"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BXS"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BYA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BYB"
+msgstr "Oria"
+
+msgid "ISO_639-3.BYF"
+msgstr "Breton"
+
+msgid "ISO_639-3.BYG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BYH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.BYK"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.BYM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BYN"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BYR"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.BYW"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BZA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.BZB"
+msgstr "Sangro"
+
+msgid "ISO_639-3.BZD"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BZF"
+msgstr "Romeens"
+
+msgid "ISO_639-3.BZG"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BZI"
+msgstr "Bask"
+
+msgid "ISO_639-3.BZO"
+msgstr "Aymara"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.BZR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.BZT"
+msgstr "Hindi"
+
+msgid "ISO_639-3.BZU"
+msgstr "Burmees"
+
+msgid "ISO_639-3.BZV"
+msgstr "Somalees"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Swati"
+
+msgid "ISO_639-3.CAB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.CAC"
+msgstr "Shona"
+
+msgid "ISO_639-3.CAE"
+msgstr "Georgies"
+
+msgid "ISO_639-3.CAF"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CAJ"
+msgstr "Shona"
+
+msgid "ISO_639-3.CAK"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.CAL"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.CAN"
+msgstr "Maori"
+
+msgid "ISO_639-3.CAR"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.CAS"
+msgstr "Fries"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CAW"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CBI"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CBL"
+msgstr "walloonse"
+
+msgid "ISO_639-3.CBN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.CBV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.CBW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.CBY"
+msgstr "Maori"
+
+msgid "ISO_639-3.CCA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.CCG"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.CCH"
+msgstr "Assamese"
+
+msgid "ISO_639-3.CCJ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.CCL"
+msgstr "Swahili"
+
+msgid "ISO_639-3.CCM"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.CDA"
+msgstr "Kornies"
+
+msgid "ISO_639-3.CDE"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.CDI"
+msgstr "Kornies"
+
+msgid "ISO_639-3.CDO"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CDY"
+msgstr "Shona"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.CEA"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.CEK"
+msgstr "Fries"
+
+msgid "ISO_639-3.CEN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CES"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CFD"
+msgstr "Maleis"
+
+msgid "ISO_639-3.CFM"
+msgstr "walloonse"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CHE"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CHK"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CHM"
+msgstr "Russies"
+
+msgid "ISO_639-3.CHX"
+msgstr "Swati"
+
+msgid "ISO_639-3.CIE"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CIK"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.CIM"
+msgstr "Litaus"
+
+msgid "ISO_639-3.CIP"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CIR"
+msgstr "Hindi"
+
+msgid "ISO_639-3.CIY"
+msgstr "Tais"
+
+msgid "ISO_639-3.CJA"
+msgstr "Fries"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CJK"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CJM"
+msgstr "Fries"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.CJS"
+msgstr "Shona"
+
+msgid "ISO_639-3.CJV"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CJY"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CKB"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.CKL"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CKQ"
+msgstr "Kazak"
+
+msgid "ISO_639-3.CKR"
+msgstr "Kazak"
+
+msgid "ISO_639-3.CKT"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CKU"
+msgstr "Marafi"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arabies"
+
+msgid "ISO_639-3.CLE"
+msgstr "walloonse"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CLM"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.CLT"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CMA"
+msgstr "Marafi"
+
+msgid "ISO_639-3.CME"
+msgstr "Duits"
+
+msgid "ISO_639-3.CMG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.CML"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.CMN"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.CMO"
+msgstr "Swati"
+
+msgid "ISO_639-3.CMR"
+msgstr "Swahili"
+
+msgid "ISO_639-3.CMS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.CNA"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.CNG"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CNH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CNK"
+msgstr "Swahili"
+
+msgid "ISO_639-3.CNL"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.CNO"
+msgstr "Kornies"
+
+msgid "ISO_639-3.CNS"
+msgstr "Swati"
+
+msgid "ISO_639-3.CNW"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.CNX"
+msgstr "Kornies"
+
+msgid "ISO_639-3.COE"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.COG"
+msgstr "Shona"
+
+msgid "ISO_639-3.COO"
+msgstr "Oromees"
+
+msgid "ISO_639-3.COR"
+msgstr "Kornies"
+
+msgid "ISO_639-3.COS"
+msgstr "Korsikaans"
+
+msgid "ISO_639-3.COU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.COX"
+msgstr "Swati"
+
+msgid "ISO_639-3.COZ"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CPI"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CPN"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CPX"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CRA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.CRE"
+msgstr "Grieks"
+
+msgid "ISO_639-3.CRF"
+msgstr "Turks"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CRL"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CRR"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.CRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.CRY"
+msgstr "Kornies"
+
+msgid "ISO_639-3.CSB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.CSH"
+msgstr "Swahili"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.CSS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CST"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CSV"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.CSY"
+msgstr "Swahili"
+
+msgid "ISO_639-3.CTA"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.CTC"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.CTD"
+msgstr "walloonse"
+
+msgid "ISO_639-3.CTG"
+msgstr "Litaus"
+
+msgid "ISO_639-3.CTH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CTS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.CTU"
+msgstr "Kornies"
+
+msgid "ISO_639-3.CUH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.CUL"
+msgstr "Hindi"
+
+msgid "ISO_639-3.CUU"
+msgstr "Tais"
+
+msgid "ISO_639-3.CUW"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CVG"
+msgstr "Shona"
+
+msgid "ISO_639-3.CWB"
+msgstr "Sangro"
+
+msgid "ISO_639-3.CWE"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.CYM"
+msgstr "Wallies"
+
+msgid "ISO_639-3.CZH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.CZK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.CZT"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamil"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAE"
+msgstr "Hausa"
+
+msgid "ISO_639-3.DAG"
+msgstr "Deens"
+
+msgid "ISO_639-3.DAL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.DAM"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DAN"
+msgstr "Deens"
+
+msgid "ISO_639-3.DAO"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.DAR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DAV"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.DAX"
+msgstr "Deens"
+
+msgid "ISO_639-3.DAZ"
+msgstr "Laoties"
+
+msgid "ISO_639-3.DBA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.DBB"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.DBI"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.DBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBO"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.DBP"
+msgstr "Swati"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DBW"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.DCC"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.DDJ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.DDO"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.DEC"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.DED"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DEH"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.DER"
+msgstr "Maori"
+
+msgid "ISO_639-3.DES"
+msgstr "Persies"
+
+msgid "ISO_639-3.DEU"
+msgstr "Duits"
+
+msgid "ISO_639-3.DGA"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DGG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.DGI"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DGK"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DGL"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DGN"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DGX"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DHD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DHG"
+msgstr "Shona"
+
+msgid "ISO_639-3.DHN"
+msgstr "Deens"
+
+msgid "ISO_639-3.DHO"
+msgstr "Georgies"
+
+msgid "ISO_639-3.DHR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DHS"
+msgstr "Deens"
+
+msgid "ISO_639-3.DHU"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DHX"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.DIA"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DIB"
+msgstr "Swati"
+
+msgid "ISO_639-3.DIC"
+msgstr "Laoties"
+
+msgid "ISO_639-3.DID"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DIF"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DIH"
+msgstr "Somalees"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Deens"
+
+msgid "ISO_639-3.DIK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DIN"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DIP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DIR"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DIS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.DIT"
+msgstr "Bihari"
+
+msgid "ISO_639-3.DIU"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DIV"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DIW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DIZ"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DJB"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DJE"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DJI"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DJO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.DJU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.DKK"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DKS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DKX"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.DLG"
+msgstr "Georgies"
+
+msgid "ISO_639-3.DLK"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.DLM"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.DLN"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DMA"
+msgstr "Mongools"
+
+msgid "ISO_639-3.DMC"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.DMK"
+msgstr "Somalees"
+
+msgid "ISO_639-3.DML"
+msgstr "Somalees"
+
+msgid "ISO_639-3.DMM"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DMS"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DMV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.DMX"
+msgstr "Duits"
+
+msgid "ISO_639-3.DND"
+msgstr "Kannada"
+
+msgid "ISO_639-3.DNG"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Deens"
+
+msgid "ISO_639-3.DNK"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DNR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.DNU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.DNV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.DNW"
+msgstr "Fries"
+
+msgid "ISO_639-3.DOC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.DOH"
+msgstr "Mongools"
+
+msgid "ISO_639-3.DOK"
+msgstr "Mongools"
+
+msgid "ISO_639-3.DOO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.DOP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.DOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DOT"
+msgstr "Deens"
+
+msgid "ISO_639-3.DOX"
+msgstr "Russies"
+
+msgid "ISO_639-3.DOY"
+msgstr "Oromees"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DPP"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.DRB"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DRC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DRD"
+msgstr "Oria"
+
+msgid "ISO_639-3.DRE"
+msgstr "Wolof"
+
+msgid "ISO_639-3.DRG"
+msgstr "Engels"
+
+msgid "ISO_639-3.DRL"
+msgstr "Kannada"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DRS"
+msgstr "Grieks"
+
+msgid "ISO_639-3.DRU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DRY"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DSB"
+msgstr "Duits"
+
+msgid "ISO_639-3.DSI"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DSO"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DTA"
+msgstr "Mongools"
+
+msgid "ISO_639-3.DTP"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.DTR"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DTY"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.DUA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DUB"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DUC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.DUO"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.DUP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.DUV"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DUZ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DVA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DWA"
+msgstr "Hindi"
+
+msgid "ISO_639-3.DWR"
+msgstr "Laoties"
+
+msgid "ISO_639-3.DWU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DWW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DWY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.DYA"
+msgstr "Deens"
+
+msgid "ISO_639-3.DZA"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.DZG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.DZL"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.DZO"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.EAA"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.EBK"
+msgstr "Fries"
+
+msgid "ISO_639-3.ECR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.EGL"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.EIV"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.EKC"
+msgstr "Fries"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.EKO"
+msgstr "Somalees"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japanees"
+
+msgid "ISO_639-3.EKY"
+msgstr "Fries"
+
+msgid "ISO_639-3.ELI"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.EMG"
+msgstr "Fries"
+
+msgid "ISO_639-3.EMN"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.EMU"
+msgstr "Fries"
+
+msgid "ISO_639-3.ENA"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.ENB"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ENG"
+msgstr "Engels"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.ERG"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.ERH"
+msgstr "Oria"
+
+msgid "ISO_639-3.ERK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ERO"
+msgstr "Hausa"
+
+msgid "ISO_639-3.ESG"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.EST"
+msgstr "Estoniaans"
+
+msgid "ISO_639-3.ESU"
+msgstr "Swati"
+
+msgid "ISO_639-3.ESY"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ETR"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ETT"
+msgstr "Korsikaans"
+
+msgid "ISO_639-3.EUS"
+msgstr "Bask"
+
+msgid "ISO_639-3.EVH"
+msgstr "Oezbekies"
+
+msgid "ISO_639-3.EYA"
+msgstr "Oria"
+
+msgid "ISO_639-3.EYO"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.EZE"
+msgstr "Oezbekies"
+
+msgid "ISO_639-3.FAA"
+msgstr "Bask"
+
+msgid "ISO_639-3.FAD"
+msgstr "Marafi"
+
+msgid "ISO_639-3.FAF"
+msgstr "Swati"
+
+msgid "ISO_639-3.FAH"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Letties"
+
+msgid "ISO_639-3.FAL"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.FAO"
+msgstr "Färöers"
+
+msgid "ISO_639-3.FAP"
+msgstr "Somalees"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.FAS"
+msgstr "Persies"
+
+msgid "ISO_639-3.FAT"
+msgstr "Swati"
+
+msgid "ISO_639-3.FAX"
+msgstr "Maleis"
+
+msgid "ISO_639-3.FAY"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.FBL"
+msgstr "Albanees"
+
+msgid "ISO_639-3.FER"
+msgstr "Färöers"
+
+msgid "ISO_639-3.FGR"
+msgstr "Mongools"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Fidjies"
+
+msgid "ISO_639-3.FIL"
+msgstr "Fries"
+
+msgid "ISO_639-3.FIN"
+msgstr "Fins"
+
+msgid "ISO_639-3.FIP"
+msgstr "Fidjies"
+
+msgid "ISO_639-3.FIR"
+msgstr "Fidjies"
+
+msgid "ISO_639-3.FIW"
+msgstr "Sangro"
+
+msgid "ISO_639-3.FKV"
+msgstr "Fins"
+
+msgid "ISO_639-3.FLI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.FLL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.FLY"
+msgstr "Letties"
+
+msgid "ISO_639-3.FMU"
+msgstr "Fries"
+
+msgid "ISO_639-3.FNG"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.FNI"
+msgstr "Swati"
+
+msgid "ISO_639-3.FOM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.FOR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.FQS"
+msgstr "Färöers"
+
+msgid "ISO_639-3.FRA"
+msgstr "Frans"
+
+msgid "ISO_639-3.FRC"
+msgstr "Frans"
+
+msgid "ISO_639-3.FRK"
+msgstr "Deens"
+
+msgid "ISO_639-3.FRP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.FRR"
+msgstr "Fries"
+
+msgid "ISO_639-3.FRS"
+msgstr "Fries"
+
+msgid "ISO_639-3.FRY"
+msgstr "Fries"
+
+msgid "ISO_639-3.FUF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.FUI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.FUJ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.FUR"
+msgstr "Fries"
+
+msgid "ISO_639-3.FUU"
+msgstr "Nauru"
+
+msgid "ISO_639-3.GAB"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GAD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GAF"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GAH"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.GAM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GAN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.GAO"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GAQ"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.GAT"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.GAZ"
+msgstr "Swati"
+
+msgid "ISO_639-3.GBD"
+msgstr "Marafi"
+
+msgid "ISO_639-3.GBF"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.GBK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GBM"
+msgstr "Marafi"
+
+msgid "ISO_639-3.GBO"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.GBV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GBY"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GCC"
+msgstr "Maori"
+
+msgid "ISO_639-3.GCD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GCE"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.GCN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GDG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GDI"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GDJ"
+msgstr "Goedjarati"
+
+msgid "ISO_639-3.GDK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GDL"
+msgstr "Deens"
+
+msgid "ISO_639-3.GDM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GDN"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.GDT"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.GDX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GEA"
+msgstr "Duits"
+
+msgid "ISO_639-3.GEB"
+msgstr "Tigris"
+
+msgid "ISO_639-3.GED"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GEG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.GEI"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Duits"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GEW"
+msgstr "Duits"
+
+msgid "ISO_639-3.GEX"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.GEY"
+msgstr "Oria"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GFK"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.GFT"
+msgstr "Goedjarati"
+
+msgid "ISO_639-3.GGA"
+msgstr "Laoties"
+
+msgid "ISO_639-3.GGE"
+msgstr "Färöers"
+
+msgid "ISO_639-3.GGK"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.GGL"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GHC"
+msgstr "Skotse Gaelies"
+
+msgid "ISO_639-3.GHE"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.GHH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.GHO"
+msgstr "Aymara"
+
+msgid "ISO_639-3.GHR"
+msgstr "Duits"
+
+msgid "ISO_639-3.GHT"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.GIB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GID"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GIG"
+msgstr "Georgies"
+
+msgid "ISO_639-3.GIL"
+msgstr "Viëtnamees"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Duits"
+
+msgid "ISO_639-3.GIR"
+msgstr "Duits"
+
+msgid "ISO_639-3.GIU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.GIW"
+msgstr "Duits"
+
+msgid "ISO_639-3.GIX"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.GJM"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GJN"
+msgstr "Shona"
+
+msgid "ISO_639-3.GJR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GJU"
+msgstr "Goedjarati"
+
+msgid "ISO_639-3.GKE"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.GKN"
+msgstr "Skotse Gaelies"
+
+msgid "ISO_639-3.GLD"
+msgstr "Swati"
+
+msgid "ISO_639-3.GLE"
+msgstr "Iers"
+
+msgid "ISO_639-3.GLG"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.GLH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.GLL"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.GLO"
+msgstr "walloonse"
+
+msgid "ISO_639-3.GLV"
+msgstr "Mans"
+
+msgid "ISO_639-3.GLW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GMA"
+msgstr "Armeens"
+
+msgid "ISO_639-3.GMU"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.GMV"
+msgstr "Laoties"
+
+msgid "ISO_639-3.GMX"
+msgstr "Marafi"
+
+msgid "ISO_639-3.GNA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GNB"
+msgstr "Sangro"
+
+msgid "ISO_639-3.GNC"
+msgstr "Mans"
+
+msgid "ISO_639-3.GNE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.GNH"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.GNI"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GNK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GNM"
+msgstr "Duits"
+
+msgid "ISO_639-3.GNO"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GNT"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GNU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GNW"
+msgstr "Fries"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GOA"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GOD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GOE"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GOF"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.GOG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.GOK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.GON"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Georgies"
+
+msgid "ISO_639-3.GOS"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GOU"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.GOY"
+msgstr "Rundi"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GPN"
+msgstr "Tais"
+
+msgid "ISO_639-3.GQA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GQU"
+msgstr "Bask"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.GRI"
+msgstr "Bihari"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.GRN"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GRO"
+msgstr "Duits"
+
+msgid "ISO_639-3.GRR"
+msgstr "Swati"
+
+msgid "ISO_639-3.GRS"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GRT"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GRU"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.GRV"
+msgstr "Swati"
+
+msgid "ISO_639-3.GRW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.GSP"
+msgstr "Wallies"
+
+msgid "ISO_639-3.GSW"
+msgstr "Duits"
+
+msgid "ISO_639-3.GUA"
+msgstr "Swahili"
+
+msgid "ISO_639-3.GUB"
+msgstr "Goedjarati"
+
+msgid "ISO_639-3.GUC"
+msgstr "Maleis"
+
+msgid "ISO_639-3.GUE"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Goedjarati"
+
+msgid "ISO_639-3.GUM"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GUR"
+msgstr "Färöers"
+
+msgid "ISO_639-3.GUW"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GVC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GVE"
+msgstr "Nederlands"
+
+msgid "ISO_639-3.GVF"
+msgstr "Hindi"
+
+msgid "ISO_639-3.GVL"
+msgstr "Maleis"
+
+msgid "ISO_639-3.GVM"
+msgstr "Duits"
+
+msgid "ISO_639-3.GVR"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.GVS"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GVY"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maori"
+
+msgid "ISO_639-3.GWC"
+msgstr "walloonse"
+
+msgid "ISO_639-3.GWD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GWE"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GWF"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GWG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.GWN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GWR"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GWT"
+msgstr "Goedjarati"
+
+msgid "ISO_639-3.GWW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.GWX"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GXX"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.GYB"
+msgstr "Nauru"
+
+msgid "ISO_639-3.GYD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GYE"
+msgstr "Duits"
+
+msgid "ISO_639-3.GYF"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.GYI"
+msgstr "Grieks"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.GYR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.GYY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GZA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.GZI"
+msgstr "Tais"
+
+msgid "ISO_639-3.GZN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.HAC"
+msgstr "Guarani"
+
+msgid "ISO_639-3.HAD"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.HAG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.HAH"
+msgstr "Wallies"
+
+msgid "ISO_639-3.HAI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HAJ"
+msgstr "Sangro"
+
+msgid "ISO_639-3.HAK"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.HAM"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.HAN"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.HAP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAQ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.HAS"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HAT"
+msgstr "Letties"
+
+msgid "ISO_639-3.HAU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAX"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HAY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBA"
+msgstr "Aymara"
+
+msgid "ISO_639-3.HBB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBN"
+msgstr "Persies"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.HBS"
+msgstr "Serwieskroaties"
+
+msgid "ISO_639-3.HBU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HDN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HDY"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HEA"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.HEH"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.HER"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.HGW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HHR"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.HHY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HIA"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.HIB"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HID"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HIF"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIG"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.HII"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HIO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.HIR"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HJI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HKA"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.HKE"
+msgstr "Rundi"
+
+msgid "ISO_639-3.HLA"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HLB"
+msgstr "Somalees"
+
+msgid "ISO_639-3.HLE"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HLT"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.HMA"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HME"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMG"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMI"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Duits"
+
+msgid "ISO_639-3.HMM"
+msgstr "Swati"
+
+msgid "ISO_639-3.HMO"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HMP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.HMS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arabies"
+
+msgid "ISO_639-3.HMU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HMW"
+msgstr "Fries"
+
+msgid "ISO_639-3.HMY"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HND"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HNI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HNO"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HNU"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.HOA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HOE"
+msgstr "Oromees"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HOM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.HOR"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.HOV"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.HOW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HRE"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.HRO"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HRU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HRV"
+msgstr "Kroaties"
+
+msgid "ISO_639-3.HRW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.HRX"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Guarani"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serwies"
+
+msgid "ISO_639-3.HSN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.HSS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HTS"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HUB"
+msgstr "Hindi"
+
+msgid "ISO_639-3.HUC"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUD"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.HUF"
+msgstr "Burmees"
+
+msgid "ISO_639-3.HUJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.HUK"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.HUL"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUM"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.HUN"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.HUO"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUQ"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.HUT"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUZ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.HWO"
+msgstr "Tswana"
+
+msgid "ISO_639-3.HYE"
+msgstr "Armeens"
+
+msgid "ISO_639-3.IAI"
+msgstr "Marafi"
+
+msgid "ISO_639-3.IAR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.IBD"
+msgstr "Hindi"
+
+msgid "ISO_639-3.IBG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.IBL"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.IBY"
+msgstr "Albanees"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugees"
+
+msgid "ISO_639-3.IDC"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.IDR"
+msgstr "Rundi"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.IFB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.IFU"
+msgstr "Mongools"
+
+msgid "ISO_639-3.IGB"
+msgstr "Oria"
+
+msgid "ISO_639-3.IGG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.IGL"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.IGN"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.IGS"
+msgstr "Interlingua"
+
+msgid "ISO_639-3.III"
+msgstr "Litaus"
+
+msgid "ISO_639-3.IJE"
+msgstr "Hindi"
+
+msgid "ISO_639-3.IJN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.IJS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.IKL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.IKR"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.IKS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.IKU"
+msgstr "Innuïties"
+
+msgid "ISO_639-3.ILB"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.ILE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ILI"
+msgstr "Turks"
+
+msgid "ISO_639-3.ILK"
+msgstr "Mongools"
+
+msgid "ISO_639-3.ILM"
+msgstr "Russies"
+
+msgid "ISO_639-3.IMA"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.IMO"
+msgstr "Engels"
+
+msgid "ISO_639-3.IMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.IMY"
+msgstr "Mans"
+
+msgid "ISO_639-3.INB"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.IND"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.INH"
+msgstr "Engels"
+
+msgid "ISO_639-3.INM"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.INN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.IPK"
+msgstr "Inupiak"
+
+msgid "ISO_639-3.IRU"
+msgstr "Fries"
+
+msgid "ISO_639-3.IRX"
+msgstr "Aymara"
+
+msgid "ISO_639-3.IRY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.ISA"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estoniaans"
+
+msgid "ISO_639-3.ISL"
+msgstr "Yslandies"
+
+msgid "ISO_639-3.ISM"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ITA"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.ITD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ITE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ITK"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.ITR"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ITV"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.ITY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.IVV"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.IZH"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.JAC"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.JAD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.JAF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arabies"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.JAT"
+msgstr "Marafi"
+
+msgid "ISO_639-3.JAU"
+msgstr "Nauru"
+
+msgid "ISO_639-3.JAV"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.JAY"
+msgstr "Shona"
+
+msgid "ISO_639-3.JBE"
+msgstr "Arabies"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arabies"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.JBW"
+msgstr "Laoties"
+
+msgid "ISO_639-3.JCT"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.JDG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.JDT"
+msgstr "Arabies"
+
+msgid "ISO_639-3.JEB"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.JEG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.JER"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.JET"
+msgstr "Mans"
+
+msgid "ISO_639-3.JGE"
+msgstr "Persies"
+
+msgid "ISO_639-3.JHI"
+msgstr "Tais"
+
+msgid "ISO_639-3.JIA"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.JIC"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.JIO"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.JIV"
+msgstr "Shona"
+
+msgid "ISO_639-3.JJR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.JKU"
+msgstr "Latyn"
+
+msgid "ISO_639-3.JLE"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.JMA"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.JMB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.JMC"
+msgstr "Mans"
+
+msgid "ISO_639-3.JMN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.JMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.JNA"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.JND"
+msgstr "Kannada"
+
+msgid "ISO_639-3.JNG"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.JNI"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.JNL"
+msgstr "Swati"
+
+msgid "ISO_639-3.JNS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.JOB"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.JOW"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japanees"
+
+msgid "ISO_639-3.JPR"
+msgstr "Persies"
+
+msgid "ISO_639-3.JRA"
+msgstr "Marafi"
+
+msgid "ISO_639-3.JRB"
+msgstr "Arabies"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japanees"
+
+msgid "ISO_639-3.JUL"
+msgstr "Tigris"
+
+msgid "ISO_639-3.JUN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.JUP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.JUT"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.JUY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.JVD"
+msgstr "Sangro"
+
+msgid "ISO_639-3.JVN"
+msgstr "Javanees"
+
+msgid "ISO_639-3.JYE"
+msgstr "Arabies"
+
+msgid "ISO_639-3.KAD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KAE"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.KAF"
+msgstr "Swati"
+
+msgid "ISO_639-3.KAG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KAI"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KAK"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.KAL"
+msgstr "Groenlands"
+
+msgid "ISO_639-3.KAN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KAS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KAT"
+msgstr "Georgies"
+
+msgid "ISO_639-3.KAU"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KAX"
+msgstr "Laoties"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Kazak"
+
+msgid "ISO_639-3.KBA"
+msgstr "Kazak"
+
+msgid "ISO_639-3.KBD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KBE"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KBG"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KBI"
+msgstr "Swati"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KBL"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KBP"
+msgstr "Tais"
+
+msgid "ISO_639-3.KBQ"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.KBR"
+msgstr "Kazak"
+
+msgid "ISO_639-3.KBS"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.KBT"
+msgstr "Swahili"
+
+msgid "ISO_639-3.KBU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.KBW"
+msgstr "Tais"
+
+msgid "ISO_639-3.KBY"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Nederlands"
+
+msgid "ISO_639-3.KCA"
+msgstr "Shona"
+
+msgid "ISO_639-3.KCB"
+msgstr "Kazak"
+
+msgid "ISO_639-3.KCC"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.KCE"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KCF"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.KCH"
+msgstr "Mongools"
+
+msgid "ISO_639-3.KCI"
+msgstr "Romeens"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KCK"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.KCO"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.KCP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KCQ"
+msgstr "walloonse"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.KCS"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KCT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KCW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KCY"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KDA"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KDC"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KDE"
+msgstr "Burmees"
+
+msgid "ISO_639-3.KDF"
+msgstr "Marafi"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serwies"
+
+msgid "ISO_639-3.KDI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KDJ"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.KDM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KDN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KDR"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KDU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KDW"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KDY"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KEA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KED"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japanees"
+
+msgid "ISO_639-3.KEH"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KEN"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KEP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KER"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KES"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KEV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KEX"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KEY"
+msgstr "Inupiak"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.KFA"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KFB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KFD"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.KFF"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KFG"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KFH"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KFI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KFK"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KFL"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KFM"
+msgstr "Tais"
+
+msgid "ISO_639-3.KFN"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KFP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KFR"
+msgstr "Tais"
+
+msgid "ISO_639-3.KFS"
+msgstr "Bihari"
+
+msgid "ISO_639-3.KFT"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KFU"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.KFV"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KFW"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.KFX"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.KFY"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KGB"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.KGE"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KGG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KGJ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KGL"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.KGN"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.KGO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KGP"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.KGU"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KGV"
+msgstr "Maleis"
+
+msgid "ISO_639-3.KGW"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KGX"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KHA"
+msgstr "Tais"
+
+msgid "ISO_639-3.KHE"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KHF"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KHG"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KHK"
+msgstr "Mongools"
+
+msgid "ISO_639-3.KHL"
+msgstr "Tais"
+
+msgid "ISO_639-3.KHM"
+msgstr "Swati"
+
+msgid "ISO_639-3.KHN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.KHO"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Tais"
+
+msgid "ISO_639-3.KHS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KHT"
+msgstr "Tais"
+
+msgid "ISO_639-3.KHV"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KHX"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KHZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KIB"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KID"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KIE"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.KIG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KIH"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KIL"
+msgstr "Oria"
+
+msgid "ISO_639-3.KIM"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.KIN"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KIR"
+msgstr "Kirgisies"
+
+msgid "ISO_639-3.KIS"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KIW"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KIX"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.KJA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.KJD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KJE"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KJG"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KJI"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KJO"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Fries"
+
+msgid "ISO_639-3.KJR"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KJU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KJX"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.KJY"
+msgstr "Oria"
+
+msgid "ISO_639-3.KKA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KKF"
+msgstr "Romeens"
+
+msgid "ISO_639-3.KKI"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.KKJ"
+msgstr "Kazak"
+
+msgid "ISO_639-3.KKK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KKL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KKM"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KKO"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.KKT"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamil"
+
+msgid "ISO_639-3.KKV"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KKX"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.KLG"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KLL"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.KLM"
+msgstr "Mongools"
+
+msgid "ISO_639-3.KLN"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KLO"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KLP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KLR"
+msgstr "Tais"
+
+msgid "ISO_639-3.KLS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KLT"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KLU"
+msgstr "walloonse"
+
+msgid "ISO_639-3.KLW"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KLY"
+msgstr "walloonse"
+
+msgid "ISO_639-3.KMA"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KMC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KMD"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.KMH"
+msgstr "walloonse"
+
+msgid "ISO_639-3.KMK"
+msgstr "Tais"
+
+msgid "ISO_639-3.KML"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.KMO"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KMQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KMR"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KMU"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KMY"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KNC"
+msgstr "Swati"
+
+msgid "ISO_639-3.KND"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KNE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KNF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.KNG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KNI"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Fries"
+
+msgid "ISO_639-3.KNK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KNM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KNP"
+msgstr "Tswana"
+
+msgid "ISO_639-3.KNR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KOA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KOC"
+msgstr "Swati"
+
+msgid "ISO_639-3.KOD"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KOF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KOG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.KOH"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KOK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KOM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KON"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KOO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KOR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KOS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KOT"
+msgstr "Marafi"
+
+msgid "ISO_639-3.KOU"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KOW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KPD"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.KPF"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KPH"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KPI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KPK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KPL"
+msgstr "Maleis"
+
+msgid "ISO_639-3.KPM"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KPR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KPS"
+msgstr "Tais"
+
+msgid "ISO_639-3.KPT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KPW"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KPY"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KQB"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KQE"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.KQF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQG"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KQH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQJ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KQM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KQN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQO"
+msgstr "Fries"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KQR"
+msgstr "Litaus"
+
+msgid "ISO_639-3.KQS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serwies"
+
+msgid "ISO_639-3.KQW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KQY"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KRA"
+msgstr "Tais"
+
+msgid "ISO_639-3.KRB"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KRE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KRH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KRI"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KRJ"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.KRK"
+msgstr "Grieks"
+
+msgid "ISO_639-3.KRL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KRM"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KRN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KRP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KRT"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KRU"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KRV"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KRW"
+msgstr "Fries"
+
+msgid "ISO_639-3.KRX"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KSC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KSD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSE"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KSF"
+msgstr "Hausa"
+
+msgid "ISO_639-3.KSI"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KSK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.KSM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSN"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KSO"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KSP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KSQ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KSR"
+msgstr "Breton"
+
+msgid "ISO_639-3.KSS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KSV"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KSX"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KTA"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.KTB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KTD"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KTE"
+msgstr "Nauru"
+
+msgid "ISO_639-3.KTF"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KTH"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.KTK"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KTM"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KTS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KTV"
+msgstr "Fries"
+
+msgid "ISO_639-3.KUA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KUC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.KUF"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.KUG"
+msgstr "Hausa"
+
+msgid "ISO_639-3.KUH"
+msgstr "Tais"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.KUN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KUO"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KUR"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KUV"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KUZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KVB"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KVC"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.KVE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KVF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KVH"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KVI"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KVL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KVP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KVV"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KVW"
+msgstr "Persies"
+
+msgid "ISO_639-3.KWC"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.KWD"
+msgstr "Swati"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serwies"
+
+msgid "ISO_639-3.KWF"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KWH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Tswana"
+
+msgid "ISO_639-3.KWL"
+msgstr "Afar"
+
+msgid "ISO_639-3.KWM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KWN"
+msgstr "Swati"
+
+msgid "ISO_639-3.KWO"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KWP"
+msgstr "Georgies"
+
+msgid "ISO_639-3.KWR"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.KWW"
+msgstr "Hindi"
+
+msgid "ISO_639-3.KWY"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.KXA"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.KXC"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KXD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.KXJ"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.KXM"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KXN"
+msgstr "Swati"
+
+msgid "ISO_639-3.KXP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KXS"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KXT"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KXV"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.KXW"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KXY"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.KYA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KYC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KYD"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KYF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KYG"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.KYH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.KYL"
+msgstr "Maleis"
+
+msgid "ISO_639-3.KYM"
+msgstr "Swahili"
+
+msgid "ISO_639-3.KYN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.KYO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KYP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arabies"
+
+msgid "ISO_639-3.KYT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KYU"
+msgstr "Fries"
+
+msgid "ISO_639-3.KYW"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KYY"
+msgstr "Aymara"
+
+msgid "ISO_639-3.KZA"
+msgstr "Fries"
+
+msgid "ISO_639-3.KZD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KZE"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KZG"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KZK"
+msgstr "Nauru"
+
+msgid "ISO_639-3.KZL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.KZM"
+msgstr "Tais"
+
+msgid "ISO_639-3.KZN"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KZO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.KZP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.KZR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.KZX"
+msgstr "Kannada"
+
+msgid "ISO_639-3.KZZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LAA"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.LAB"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LAD"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LAF"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LAG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LAH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LAI"
+msgstr "Aymara"
+
+msgid "ISO_639-3.LAL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.LAN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.LAO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LAR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.LAT"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LAU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LAV"
+msgstr "Letties"
+
+msgid "ISO_639-3.LAX"
+msgstr "Tswana"
+
+msgid "ISO_639-3.LAY"
+msgstr "Aymara"
+
+msgid "ISO_639-3.LBA"
+msgstr "Tais"
+
+msgid "ISO_639-3.LBC"
+msgstr "Letties"
+
+msgid "ISO_639-3.LBE"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LBF"
+msgstr "Fins"
+
+msgid "ISO_639-3.LBG"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.LBI"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.LBK"
+msgstr "Swati"
+
+msgid "ISO_639-3.LBM"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LBN"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LBO"
+msgstr "Letties"
+
+msgid "ISO_639-3.LBQ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.LBT"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LBW"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LCH"
+msgstr "Tais"
+
+msgid "ISO_639-3.LCL"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.LCM"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LCP"
+msgstr "Fries"
+
+msgid "ISO_639-3.LDD"
+msgstr "Tais"
+
+msgid "ISO_639-3.LDI"
+msgstr "Marafi"
+
+msgid "ISO_639-3.LDK"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.LDL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.LDM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LDN"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LDO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LDP"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LEA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LED"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LEM"
+msgstr "Romeens"
+
+msgid "ISO_639-3.LEN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LEP"
+msgstr "Quechua"
+
+msgid "ISO_639-3.LES"
+msgstr "Japanees"
+
+msgid "ISO_639-3.LEX"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Georgies"
+
+msgid "ISO_639-3.LFN"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LGA"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.LGK"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LGL"
+msgstr "walloonse"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LGR"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LGT"
+msgstr "Somalees"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.LHM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.LHN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LHT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LHU"
+msgstr "Mans"
+
+msgid "ISO_639-3.LIA"
+msgstr "Swati"
+
+msgid "ISO_639-3.LIC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.LIE"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LIF"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LIK"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.LIM"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LIN"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LIR"
+msgstr "Engels"
+
+msgid "ISO_639-3.LIT"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LIU"
+msgstr "Maori"
+
+msgid "ISO_639-3.LIV"
+msgstr "Twi"
+
+msgid "ISO_639-3.LIW"
+msgstr "Kornies"
+
+msgid "ISO_639-3.LIY"
+msgstr "Aymara"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamil"
+
+msgid "ISO_639-3.LJI"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LJL"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LJP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arabies"
+
+msgid "ISO_639-3.LKB"
+msgstr "Maleis"
+
+msgid "ISO_639-3.LKC"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LKD"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LKE"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.LKH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LKI"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LKJ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LKM"
+msgstr "walloonse"
+
+msgid "ISO_639-3.LKN"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LKO"
+msgstr "Tais"
+
+msgid "ISO_639-3.LKS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.LKT"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LKU"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.LLB"
+msgstr "Wolof"
+
+msgid "ISO_639-3.LLD"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LLF"
+msgstr "Hindi"
+
+msgid "ISO_639-3.LLH"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LLL"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LLM"
+msgstr "Marafi"
+
+msgid "ISO_639-3.LLO"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.LLP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.LLQ"
+msgstr "Volapük"
+
+msgid "ISO_639-3.LLU"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LLX"
+msgstr "Letties"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LMD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LMG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LMI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.LMK"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.LML"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LMN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LMP"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.LMY"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.LMZ"
+msgstr "Burmees"
+
+msgid "ISO_639-3.LNB"
+msgstr "Mans"
+
+msgid "ISO_639-3.LND"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LNG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LNH"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LNI"
+msgstr "Swati"
+
+msgid "ISO_639-3.LNL"
+msgstr "Swati"
+
+msgid "ISO_639-3.LNM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LNS"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LNU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LNW"
+msgstr "Somalees"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Mongools"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.LOF"
+msgstr "Mongools"
+
+msgid "ISO_639-3.LOG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.LOH"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.LOJ"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LOL"
+msgstr "Mongools"
+
+msgid "ISO_639-3.LOO"
+msgstr "Oromees"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LOS"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LOX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LPN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.LPO"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LRA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.LRC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.LRE"
+msgstr "Letties"
+
+msgid "ISO_639-3.LRG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.LRI"
+msgstr "Marafi"
+
+msgid "ISO_639-3.LRK"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRL"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRM"
+msgstr "Arabies"
+
+msgid "ISO_639-3.LRN"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.LRO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.LRR"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.LSD"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LSH"
+msgstr "Iers"
+
+msgid "ISO_639-3.LSI"
+msgstr "Tais"
+
+msgid "ISO_639-3.LSM"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.LSS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.LTN"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LTO"
+msgstr "Oromees"
+
+msgid "ISO_639-3.LTS"
+msgstr "Kornies"
+
+msgid "ISO_639-3.LTU"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Luxemburgs"
+
+msgid "ISO_639-3.LUC"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.LUD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LUE"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.LUF"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LUG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LUM"
+msgstr "Litaus"
+
+msgid "ISO_639-3.LUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LUR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.LUS"
+msgstr "Tais"
+
+msgid "ISO_639-3.LUV"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LUY"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.LVS"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.LWG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.LWH"
+msgstr "Latyn"
+
+msgid "ISO_639-3.LWM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.LWU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LYA"
+msgstr "Kazak"
+
+msgid "ISO_639-3.LYG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LYN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.LZH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.LZN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LZZ"
+msgstr "Laoties"
+
+msgid "ISO_639-3.MAD"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MAF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MAG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MAH"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MAI"
+msgstr "Swahili"
+
+msgid "ISO_639-3.MAL"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MAM"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MAN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MAR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MAS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Swati"
+
+msgid "ISO_639-3.MBC"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MBE"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MBF"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MBH"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MBK"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MBP"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MBS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.MCA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MCH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MCI"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Mans"
+
+msgid "ISO_639-3.MCK"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MCM"
+msgstr "braziliÃ« portugese"
+
+msgid "ISO_639-3.MCN"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MCP"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.MCS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MCT"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MCY"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MDH"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MDM"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MDN"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MDP"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MDR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MDU"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MDW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDX"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.MEA"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.MEC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MED"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MEH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MEL"
+msgstr "Swati"
+
+msgid "ISO_639-3.MEM"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.MES"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MET"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.MFA"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MFB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.MFH"
+msgstr "Swati"
+
+msgid "ISO_639-3.MFI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MFK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.MFL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.MFP"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MFQ"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.MFR"
+msgstr "Swahili"
+
+msgid "ISO_639-3.MFT"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MFV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MFY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MGB"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MGF"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MGG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Armeens"
+
+msgid "ISO_639-3.MGK"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MGM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.MGN"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MGP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MGT"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MGU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGV"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.MHB"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MHC"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MHE"
+msgstr "Hindi"
+
+msgid "ISO_639-3.MHF"
+msgstr "Aymara"
+
+msgid "ISO_639-3.MHG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MHK"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.MHP"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.MHT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MHX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIC"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MID"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Afar"
+
+msgid "ISO_639-3.MIK"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MIT"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MJB"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MJK"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.MJL"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MJP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MJR"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.MJU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MJV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MJW"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.MJX"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MJY"
+msgstr "Letties"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MKA"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.MKB"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MKD"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.MKE"
+msgstr "Mans"
+
+msgid "ISO_639-3.MKF"
+msgstr "Oria"
+
+msgid "ISO_639-3.MKI"
+msgstr "Tais"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MKR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MKV"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MKY"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MLA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MLC"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.MLE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MLF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MLG"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japanees"
+
+msgid "ISO_639-3.MLK"
+msgstr "Tswana"
+
+msgid "ISO_639-3.MLL"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MLM"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MLN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MLP"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Fries"
+
+msgid "ISO_639-3.MLS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MLT"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MLV"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.MLX"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MMA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MMB"
+msgstr "Somalees"
+
+msgid "ISO_639-3.MMD"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.MME"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MMF"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MMO"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MMP"
+msgstr "Swati"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.MMR"
+msgstr "Fries"
+
+msgid "ISO_639-3.MMT"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MMU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MMV"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MMX"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MMZ"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MNA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MNB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MNC"
+msgstr "Mans"
+
+msgid "ISO_639-3.MNF"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MNI"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.MNJ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MNK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MNL"
+msgstr "Tigris"
+
+msgid "ISO_639-3.MNM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MNN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MNP"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.MNS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MNW"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MNX"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MNY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOA"
+msgstr "Mans"
+
+msgid "ISO_639-3.MOD"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.MOE"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MOG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MON"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOO"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOU"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOW"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOX"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.MPA"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MPC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MPD"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.MPE"
+msgstr "Mans"
+
+msgid "ISO_639-3.MPG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MPH"
+msgstr "Mans"
+
+msgid "ISO_639-3.MPI"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MPN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MPT"
+msgstr "Mans"
+
+msgid "ISO_639-3.MPV"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MPW"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.MPY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.MQC"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MQE"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MQM"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MQP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MQR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MQS"
+msgstr "Fries"
+
+msgid "ISO_639-3.MQU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MQV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Fries"
+
+msgid "ISO_639-3.MRG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MRH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Fries"
+
+msgid "ISO_639-3.MRP"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.MRQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.MRS"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.MRV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MRW"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MSE"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSH"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MSK"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.MSL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.MSS"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MSV"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arabies"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MTD"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.MTJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.MTL"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MTR"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.MTS"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.MTW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MTY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.MUA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MUC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.MUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUK"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MUM"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MUO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.MUP"
+msgstr "Somalees"
+
+msgid "ISO_639-3.MUR"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MUS"
+msgstr "Grieks"
+
+msgid "ISO_639-3.MUT"
+msgstr "Fries"
+
+msgid "ISO_639-3.MUU"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.MUX"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MUY"
+msgstr "Mans"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVF"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MVO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MVS"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MVU"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MVW"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MVX"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Persies"
+
+msgid "ISO_639-3.MWB"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MWI"
+msgstr "Laoties"
+
+msgid "ISO_639-3.MWK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.MWL"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MWN"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.MWO"
+msgstr "Swati"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.MWR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MWT"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MWV"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MWX"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.MWY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MXC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MXD"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MXF"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MXG"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arabies"
+
+msgid "ISO_639-3.MXK"
+msgstr "Mongools"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.MXR"
+msgstr "Russies"
+
+msgid "ISO_639-3.MXW"
+msgstr "walloonse"
+
+msgid "ISO_639-3.MXX"
+msgstr "Mans"
+
+msgid "ISO_639-3.MXY"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.MXZ"
+msgstr "Swati"
+
+msgid "ISO_639-3.MYA"
+msgstr "Burmees"
+
+msgid "ISO_639-3.MYB"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MYF"
+msgstr "Aymara"
+
+msgid "ISO_639-3.MYG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MYH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.MYL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.MYR"
+msgstr "Mans"
+
+msgid "ISO_639-3.MYS"
+msgstr "Maltees"
+
+msgid "ISO_639-3.MYV"
+msgstr "Oria"
+
+msgid "ISO_639-3.MYX"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MYY"
+msgstr "Mans"
+
+msgid "ISO_639-3.MZD"
+msgstr "Maleis"
+
+msgid "ISO_639-3.MZE"
+msgstr "Marafi"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MZP"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.MZS"
+msgstr "Javanees"
+
+msgid "ISO_639-3.MZT"
+msgstr "Swahili"
+
+msgid "ISO_639-3.MZV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.MZX"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.NAA"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.NAB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NAC"
+msgstr "Maleis"
+
+msgid "ISO_639-3.NAF"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NAL"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NAN"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.NAP"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NAU"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NAW"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NAX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBB"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBC"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.NBH"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.NBN"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.NBP"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NBY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NCB"
+msgstr "Swati"
+
+msgid "ISO_639-3.NCC"
+msgstr "Shona"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japanees"
+
+msgid "ISO_639-3.NCF"
+msgstr "Sotho"
+
+msgid "ISO_639-3.NCH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.NCJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NCK"
+msgstr "Aymara"
+
+msgid "ISO_639-3.NCN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NDA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.NDC"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NDF"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.NDH"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NDJ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.NDL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.NDM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.NDN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.NDO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NDP"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NDR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NDS"
+msgstr "Armeens"
+
+msgid "ISO_639-3.NDT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NDV"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.NDX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NEF"
+msgstr "Viëtnamees"
+
+msgid "ISO_639-3.NEG"
+msgstr "Noors"
+
+msgid "ISO_639-3.NEM"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NEP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Swati"
+
+msgid "ISO_639-3.NER"
+msgstr "Kannada"
+
+msgid "ISO_639-3.NES"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.NEU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NEW"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NFD"
+msgstr "Swati"
+
+msgid "ISO_639-3.NGB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NGK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.NGO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NGP"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.NGX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NGY"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NHA"
+msgstr "Swati"
+
+msgid "ISO_639-3.NHB"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.NHE"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NHF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.NHH"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NHN"
+msgstr "Swati"
+
+msgid "ISO_639-3.NHO"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.NHR"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NHW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NHY"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NIB"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NID"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NIE"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NIK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NIL"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NIM"
+msgstr "Bislamees"
+
+msgid "ISO_639-3.NIO"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NIR"
+msgstr "Litaus"
+
+msgid "ISO_639-3.NIT"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NIU"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NIW"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.NIX"
+msgstr "Duits"
+
+msgid "ISO_639-3.NIY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.NJI"
+msgstr "Guarani"
+
+msgid "ISO_639-3.NJJ"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.NJN"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.NJS"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NJX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Turks"
+
+msgid "ISO_639-3.NKA"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NKB"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.NKC"
+msgstr "Mongools"
+
+msgid "ISO_639-3.NKD"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.NKG"
+msgstr "Noors"
+
+msgid "ISO_639-3.NKI"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NKN"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.NKO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NKU"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NKW"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NLC"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.NLD"
+msgstr "Nederlands"
+
+msgid "ISO_639-3.NLG"
+msgstr "Duits"
+
+msgid "ISO_639-3.NLI"
+msgstr "Swati"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NLL"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NLW"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.NLX"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NMA"
+msgstr "Arabies"
+
+msgid "ISO_639-3.NMB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.NMC"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NMD"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.NMG"
+msgstr "Swati"
+
+msgid "ISO_639-3.NMK"
+msgstr "Aymara"
+
+msgid "ISO_639-3.NML"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NMM"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NMP"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NMQ"
+msgstr "Aymara"
+
+msgid "ISO_639-3.NMR"
+msgstr "Bihari"
+
+msgid "ISO_639-3.NMV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NMW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NNB"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.NNF"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NNG"
+msgstr "Maori"
+
+msgid "ISO_639-3.NNL"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.NNO"
+msgstr "noÃ¶rweese (nynorsk)"
+
+msgid "ISO_639-3.NNR"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NNU"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NNW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NNY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NNZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.NOB"
+msgstr "noÃ¶rweese (bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NOF"
+msgstr "Romeens"
+
+msgid "ISO_639-3.NOG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NOI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NOL"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.NON"
+msgstr "Persies"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NOR"
+msgstr "Fries"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NPA"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NPG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NPI"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.NPN"
+msgstr "Mongools"
+
+msgid "ISO_639-3.NPS"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NPY"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NQG"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NQM"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NQN"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NQO"
+msgstr "Somalees"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NQY"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NRB"
+msgstr "Maleis"
+
+msgid "ISO_639-3.NRC"
+msgstr "Korsikaans"
+
+msgid "ISO_639-3.NRE"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NRG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NRK"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.NRL"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NRM"
+msgstr "Oromees"
+
+msgid "ISO_639-3.NRN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NRR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NRT"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NRU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.NRX"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.NSA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NSC"
+msgstr "Tais"
+
+msgid "ISO_639-3.NSD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NSE"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.NSF"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NSG"
+msgstr "Hausa"
+
+msgid "ISO_639-3.NSK"
+msgstr "Marafi"
+
+msgid "ISO_639-3.NSN"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NSQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NSS"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NSV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NSW"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NSX"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NSY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.NSZ"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.NTD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NTG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.NTP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NTU"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NTX"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.NTY"
+msgstr "Swati"
+
+msgid "ISO_639-3.NUA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NUD"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.NUF"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NUG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.NUH"
+msgstr "Rundi"
+
+msgid "ISO_639-3.NUN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.NUS"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NUV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NUX"
+msgstr "Grieks"
+
+msgid "ISO_639-3.NVH"
+msgstr "Mongools"
+
+msgid "ISO_639-3.NWI"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.NWR"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NXI"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serwies"
+
+msgid "ISO_639-3.NXO"
+msgstr "Aymara"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NXU"
+msgstr "Nauru"
+
+msgid "ISO_639-3.NXX"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NYA"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NYB"
+msgstr "Sangro"
+
+msgid "ISO_639-3.NYC"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.NYF"
+msgstr "Duits"
+
+msgid "ISO_639-3.NYH"
+msgstr "Tigris"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Hindi"
+
+msgid "ISO_639-3.NYR"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.NYS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NYX"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.OAA"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OAC"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OAR"
+msgstr "Arabies"
+
+msgid "ISO_639-3.OBK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.OBR"
+msgstr "Burmees"
+
+msgid "ISO_639-3.OBT"
+msgstr "Breton"
+
+msgid "ISO_639-3.OCA"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.OCH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.OCO"
+msgstr "Kornies"
+
+msgid "ISO_639-3.ODA"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.ODT"
+msgstr "Nederlands"
+
+msgid "ISO_639-3.ODU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.OFS"
+msgstr "Fries"
+
+msgid "ISO_639-3.OGB"
+msgstr "Oria"
+
+msgid "ISO_639-3.OGE"
+msgstr "Georgies"
+
+msgid "ISO_639-3.OGO"
+msgstr "Shona"
+
+msgid "ISO_639-3.OHU"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.OIA"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.OJB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.OJC"
+msgstr "Swati"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japanees"
+
+msgid "ISO_639-3.OJW"
+msgstr "Fries"
+
+msgid "ISO_639-3.OKB"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OKD"
+msgstr "Georgies"
+
+msgid "ISO_639-3.OKG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.OKK"
+msgstr "Somalees"
+
+msgid "ISO_639-3.OKL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.OKR"
+msgstr "Kirgisies"
+
+msgid "ISO_639-3.OKV"
+msgstr "Kroaties"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maori"
+
+msgid "ISO_639-3.OLM"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OLR"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.OLT"
+msgstr "Litaus"
+
+msgid "ISO_639-3.OLU"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.OMB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.OMK"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OML"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OMN"
+msgstr "Mongools"
+
+msgid "ISO_639-3.OMP"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.OMR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.OMW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ONB"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.ONP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ONR"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ONW"
+msgstr "Persies"
+
+msgid "ISO_639-3.OOS"
+msgstr "Russies"
+
+msgid "ISO_639-3.OPT"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.ORA"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ORC"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ORG"
+msgstr "Oria"
+
+msgid "ISO_639-3.ORI"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ORM"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ORO"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ORR"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ORT"
+msgstr "Tigris"
+
+msgid "ISO_639-3.ORV"
+msgstr "Russies"
+
+msgid "ISO_639-3.ORX"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ORY"
+msgstr "Oria"
+
+msgid "ISO_639-3.ORZ"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OSC"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.OSI"
+msgstr "Russies"
+
+msgid "ISO_639-3.OSO"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spaans"
+
+msgid "ISO_639-3.OSS"
+msgstr "Russies"
+
+msgid "ISO_639-3.OSU"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.OSX"
+msgstr "Persies"
+
+msgid "ISO_639-3.OTB"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.OTD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turks"
+
+msgid "ISO_639-3.OTR"
+msgstr "Oromees"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.OUI"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.OWL"
+msgstr "Wallies"
+
+msgid "ISO_639-3.OYD"
+msgstr "Oria"
+
+msgid "ISO_639-3.OYM"
+msgstr "walloonse"
+
+msgid "ISO_639-3.PAG"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PAH"
+msgstr "Tais"
+
+msgid "ISO_639-3.PAN"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.PAO"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PAQ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.PAR"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PAS"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.PAY"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.PBI"
+msgstr "Marafi"
+
+msgid "ISO_639-3.PBN"
+msgstr "Hausa"
+
+msgid "ISO_639-3.PBO"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PBP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.PBR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.PBS"
+msgstr "Swati"
+
+msgid "ISO_639-3.PBT"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PBU"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PBV"
+msgstr "Kannada"
+
+msgid "ISO_639-3.PCB"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.PCF"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PCG"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PCH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.PCI"
+msgstr "Marafi"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.PCL"
+msgstr "Swahili"
+
+msgid "ISO_639-3.PDI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PDN"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.PDU"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.PEE"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.PEF"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PEG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.PEH"
+msgstr "Romeens"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PEK"
+msgstr "Frans"
+
+msgid "ISO_639-3.PEL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PEP"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PES"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.PFL"
+msgstr "Pools"
+
+msgid "ISO_639-3.PGG"
+msgstr "Swati"
+
+msgid "ISO_639-3.PGI"
+msgstr "Turks"
+
+msgid "ISO_639-3.PGN"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.PGS"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PHA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.PHH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.PHN"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.PHO"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.PHQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.PHT"
+msgstr "Tais"
+
+msgid "ISO_639-3.PHU"
+msgstr "Shona"
+
+msgid "ISO_639-3.PHV"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PIC"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.PII"
+msgstr "Hindi"
+
+msgid "ISO_639-3.PIL"
+msgstr "Laoties"
+
+msgid "ISO_639-3.PIM"
+msgstr "Kroaties"
+
+msgid "ISO_639-3.PIP"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.PIS"
+msgstr "Fidjies"
+
+msgid "ISO_639-3.PIV"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PKB"
+msgstr "Oromees"
+
+msgid "ISO_639-3.PKH"
+msgstr "Mans"
+
+msgid "ISO_639-3.PKT"
+msgstr "Maltees"
+
+msgid "ISO_639-3.PLA"
+msgstr "Mans"
+
+msgid "ISO_639-3.PLC"
+msgstr "Swati"
+
+msgid "ISO_639-3.PLD"
+msgstr "Pools"
+
+msgid "ISO_639-3.PLE"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PLH"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PLI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Pools"
+
+msgid "ISO_639-3.PLP"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PLT"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.PLU"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.PMA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.PMB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.PMD"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PMF"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.PMI"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PMK"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PML"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.PMM"
+msgstr "Oromees"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PMR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.PMS"
+msgstr "Viëtnamees"
+
+msgid "ISO_639-3.PMT"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.PMY"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PNB"
+msgstr "Fries"
+
+msgid "ISO_639-3.PNC"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PNE"
+msgstr "Fries"
+
+msgid "ISO_639-3.PNG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.PNK"
+msgstr "Rundi"
+
+msgid "ISO_639-3.PNL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PNP"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PNR"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PNS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PNT"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.PNX"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.PNY"
+msgstr "Hindi"
+
+msgid "ISO_639-3.POC"
+msgstr "Shona"
+
+msgid "ISO_639-3.POL"
+msgstr "Pools"
+
+msgid "ISO_639-3.POM"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PON"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.POO"
+msgstr "Swati"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugees"
+
+msgid "ISO_639-3.POX"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.PPE"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PPI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Persies"
+
+msgid "ISO_639-3.PPT"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PRB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.PRC"
+msgstr "Marafi"
+
+msgid "ISO_639-3.PRF"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PRG"
+msgstr "Persies"
+
+msgid "ISO_639-3.PRI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PRM"
+msgstr "Kirgisies"
+
+msgid "ISO_639-3.PRP"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PRR"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.PRT"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PRU"
+msgstr "Guarani"
+
+msgid "ISO_639-3.PRW"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PSE"
+msgstr "Swati"
+
+msgid "ISO_639-3.PSH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PSI"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PSM"
+msgstr "Hausa"
+
+msgid "ISO_639-3.PSN"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.PSS"
+msgstr "Sangro"
+
+msgid "ISO_639-3.PST"
+msgstr "Swati"
+
+msgid "ISO_639-3.PTN"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.PTR"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PTU"
+msgstr "Aymara"
+
+msgid "ISO_639-3.PTY"
+msgstr "Persies"
+
+msgid "ISO_639-3.PUB"
+msgstr "Nauru"
+
+msgid "ISO_639-3.PUO"
+msgstr "Pasjtoe"
+
+msgid "ISO_639-3.PUP"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.PUS"
+msgstr "Pasjtoe"
+
+msgid "ISO_639-3.PUT"
+msgstr "Pasjtoe"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugees"
+
+msgid "ISO_639-3.PUX"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.PWA"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PWB"
+msgstr "Marafi"
+
+msgid "ISO_639-3.PWN"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.PWO"
+msgstr "Fries"
+
+msgid "ISO_639-3.PWR"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.PWW"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.PZN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.QUA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.QUC"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.QUE"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QUP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.QUX"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QUY"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QVP"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QVY"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QVZ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.QXC"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QXP"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.QXS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.QYA"
+msgstr "Quechua"
+
+msgid "ISO_639-3.QYP"
+msgstr "Marafi"
+
+msgid "ISO_639-3.RAA"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.RAC"
+msgstr "Hausa"
+
+msgid "ISO_639-3.RAF"
+msgstr "Fries"
+
+msgid "ISO_639-3.RAG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.RAI"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.RAL"
+msgstr "Maltees"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.RAN"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RAO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.RAR"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.RAS"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.RAV"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.RAW"
+msgstr "Sangro"
+
+msgid "ISO_639-3.RAX"
+msgstr "Sangro"
+
+msgid "ISO_639-3.RBK"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.RBP"
+msgstr "Aymara"
+
+msgid "ISO_639-3.RDB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.REE"
+msgstr "Sangro"
+
+msgid "ISO_639-3.REI"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.REJ"
+msgstr "Sangro"
+
+msgid "ISO_639-3.REL"
+msgstr "Rundi"
+
+msgid "ISO_639-3.REN"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.RES"
+msgstr "Wallies"
+
+msgid "ISO_639-3.RGA"
+msgstr "Korsikaans"
+
+msgid "ISO_639-3.RGN"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RGS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.RHG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.RHP"
+msgstr "Shona"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.RIE"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.RIM"
+msgstr "Nauru"
+
+msgid "ISO_639-3.RIN"
+msgstr "Nauru"
+
+msgid "ISO_639-3.RIR"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RIU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RJG"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.RJI"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.RKI"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.RKM"
+msgstr "Marafi"
+
+msgid "ISO_639-3.RKT"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arabies"
+
+msgid "ISO_639-3.RMA"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.RMB"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMG"
+msgstr "Noors"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.RMI"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.RMK"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RML"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMM"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMO"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.RMU"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMV"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMW"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMX"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMY"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.RND"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.RNL"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.RNN"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RNP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.RNR"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.ROD"
+msgstr "Mongools"
+
+msgid "ISO_639-3.ROE"
+msgstr "Romeens"
+
+msgid "ISO_639-3.ROF"
+msgstr "Oromees"
+
+msgid "ISO_639-3.ROG"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ROH"
+msgstr "Romeens"
+
+msgid "ISO_639-3.ROL"
+msgstr "Romeens"
+
+msgid "ISO_639-3.ROM"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RON"
+msgstr "Romeens"
+
+msgid "ISO_639-3.ROR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ROU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RPT"
+msgstr "Latyn"
+
+msgid "ISO_639-3.RRI"
+msgstr "Hindi"
+
+msgid "ISO_639-3.RRO"
+msgstr "Maleis"
+
+msgid "ISO_639-3.RSB"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RSM"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.RTC"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.RTM"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.RUC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RUE"
+msgstr "Russies"
+
+msgid "ISO_639-3.RUG"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RUK"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.RUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.RUO"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RUP"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RUS"
+msgstr "Russies"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Romeens"
+
+msgid "ISO_639-3.RWO"
+msgstr "Marafi"
+
+msgid "ISO_639-3.RWR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.RXD"
+msgstr "Bihari"
+
+msgid "ISO_639-3.RXW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.RYN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.RYS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.RYU"
+msgstr "Swati"
+
+msgid "ISO_639-3.SAA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SAB"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.SAC"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.SAD"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SAE"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SAF"
+msgstr "Swati"
+
+msgid "ISO_639-3.SAG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SAJ"
+msgstr "Mans"
+
+msgid "ISO_639-3.SAK"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SAM"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SAN"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SAO"
+msgstr "Burmees"
+
+msgid "ISO_639-3.SAQ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.SAS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SAT"
+msgstr "Swati"
+
+msgid "ISO_639-3.SAU"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SAW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SAX"
+msgstr "Shona"
+
+msgid "ISO_639-3.SAY"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SBB"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SBD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SBE"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SBI"
+msgstr "Swati"
+
+msgid "ISO_639-3.SBK"
+msgstr "Swati"
+
+msgid "ISO_639-3.SBL"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.SBN"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SBT"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SBV"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SBY"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SCE"
+msgstr "Mongools"
+
+msgid "ISO_639-3.SCG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SCH"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SCK"
+msgstr "Maori"
+
+msgid "ISO_639-3.SCL"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCN"
+msgstr "Fries"
+
+msgid "ISO_639-3.SCO"
+msgstr "Sotho"
+
+msgid "ISO_639-3.SCV"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCX"
+msgstr "Fries"
+
+msgid "ISO_639-3.SDB"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SDC"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SDF"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SDG"
+msgstr "Swati"
+
+msgid "ISO_639-3.SDH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.SDK"
+msgstr "Rundi"
+
+msgid "ISO_639-3.SDM"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SDN"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SDR"
+msgstr "Maori"
+
+msgid "ISO_639-3.SDU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.SEA"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SED"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SEH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SEK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SER"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SET"
+msgstr "Swati"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SFW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SGB"
+msgstr "Swati"
+
+msgid "ISO_639-3.SGC"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SGE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SGK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SGM"
+msgstr "Shona"
+
+msgid "ISO_639-3.SGP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SGR"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SGS"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SGU"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.SGY"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHB"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.SHC"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.SHD"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SHE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHG"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHL"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHN"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHO"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SHR"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.SHT"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SHU"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SHW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SHY"
+msgstr "Tais"
+
+msgid "ISO_639-3.SIB"
+msgstr "Hebreeus"
+
+msgid "ISO_639-3.SID"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SIE"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SIF"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SIH"
+msgstr "Tigris"
+
+msgid "ISO_639-3.SIK"
+msgstr "Fries"
+
+msgid "ISO_639-3.SIN"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SIR"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SIU"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SIW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SIX"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SIY"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Fries"
+
+msgid "ISO_639-3.SJL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.SJM"
+msgstr "Mans"
+
+msgid "ISO_639-3.SJN"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.SJP"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.SJR"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SJW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SKB"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SKC"
+msgstr "Kannada"
+
+msgid "ISO_639-3.SKD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SKG"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.SKH"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.SKI"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slowaaks"
+
+msgid "ISO_639-3.SKM"
+msgstr "Mongools"
+
+msgid "ISO_639-3.SKP"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.SKR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.SKS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SKT"
+msgstr "Swati"
+
+msgid "ISO_639-3.SKU"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SKY"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.SLE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SLH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SLI"
+msgstr "Duits"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slowaaks"
+
+msgid "ISO_639-3.SLL"
+msgstr "Swati"
+
+msgid "ISO_639-3.SLN"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SLQ"
+msgstr "Mans"
+
+msgid "ISO_639-3.SLR"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.SLT"
+msgstr "Fries"
+
+msgid "ISO_639-3.SLU"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.SLV"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.SLW"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SLX"
+msgstr "Groenlands"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.SMA"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SMB"
+msgstr "Bihari"
+
+msgid "ISO_639-3.SMC"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SMD"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SME"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SMG"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SMK"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SML"
+msgstr "Swati"
+
+msgid "ISO_639-3.SMM"
+msgstr "Marafi"
+
+msgid "ISO_639-3.SMN"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.SMO"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SMP"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SMU"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SMX"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SMY"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.SNA"
+msgstr "Shona"
+
+msgid "ISO_639-3.SND"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.SNF"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.SNH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNI"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SNK"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.SNL"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SNM"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SNN"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNO"
+msgstr "Spaans"
+
+msgid "ISO_639-3.SNP"
+msgstr "Georgies"
+
+msgid "ISO_639-3.SNR"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNU"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.SNV"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SNX"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SNZ"
+msgstr "Nauru"
+
+msgid "ISO_639-3.SOA"
+msgstr "Tais"
+
+msgid "ISO_639-3.SOD"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOG"
+msgstr "Georgies"
+
+msgid "ISO_639-3.SOH"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.SOI"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.SOM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SOO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SOP"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.SOR"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SOS"
+msgstr "Grieks"
+
+msgid "ISO_639-3.SOT"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SOU"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SOW"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slowaaks"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamil"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spaans"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.SPG"
+msgstr "Shona"
+
+msgid "ISO_639-3.SPI"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SPK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SPO"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SPS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SPU"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SPV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SQH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SQI"
+msgstr "Albanees"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabies"
+
+msgid "ISO_639-3.SQU"
+msgstr "Spaans"
+
+msgid "ISO_639-3.SRA"
+msgstr "Marafi"
+
+msgid "ISO_639-3.SRB"
+msgstr "Shona"
+
+msgid "ISO_639-3.SRC"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SRD"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SRE"
+msgstr "Maleis"
+
+msgid "ISO_639-3.SRF"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.SRH"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SRM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SRN"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.SRO"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRT"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.SRV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SRZ"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.SSB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SSD"
+msgstr "Hindi"
+
+msgid "ISO_639-3.SSE"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.SSF"
+msgstr "Tais"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabies"
+
+msgid "ISO_639-3.SSI"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SSK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.SSL"
+msgstr "Fries"
+
+msgid "ISO_639-3.SSN"
+msgstr "walloonse"
+
+msgid "ISO_639-3.SSO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SST"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.SSU"
+msgstr "Tais"
+
+msgid "ISO_639-3.SSW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SSY"
+msgstr "Wallies"
+
+msgid "ISO_639-3.STB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.STD"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.STG"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.STH"
+msgstr "Shona"
+
+msgid "ISO_639-3.STK"
+msgstr "Arabies"
+
+msgid "ISO_639-3.STM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.STO"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.STP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.STU"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SUA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.SUC"
+msgstr "Fries"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SUG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SUN"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SUX"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SVA"
+msgstr "Shona"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SVM"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SVS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SVX"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SWE"
+msgstr "Sweeds"
+
+msgid "ISO_639-3.SWF"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SWK"
+msgstr "Swati"
+
+msgid "ISO_639-3.SWM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SWO"
+msgstr "Shona"
+
+msgid "ISO_639-3.SWP"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.SWR"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.SWS"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-3.SWT"
+msgstr "Swahili"
+
+msgid "ISO_639-3.SWV"
+msgstr "Swati"
+
+msgid "ISO_639-3.SWW"
+msgstr "Swati"
+
+msgid "ISO_639-3.SWY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.SXB"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.SXC"
+msgstr "Fries"
+
+msgid "ISO_639-3.SXE"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.SXK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SXM"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.SXN"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SXR"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SXS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.SYA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SYB"
+msgstr "Swati"
+
+msgid "ISO_639-3.SYM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SYN"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.SYR"
+msgstr "Serwies"
+
+msgid "ISO_639-3.SYX"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.SZA"
+msgstr "Somalees"
+
+msgid "ISO_639-3.SZL"
+msgstr "Fries"
+
+msgid "ISO_639-3.SZN"
+msgstr "Maleis"
+
+msgid "ISO_639-3.SZP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.SZW"
+msgstr "Swati"
+
+msgid "ISO_639-3.TAA"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.TAB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TAD"
+msgstr "Burmees"
+
+msgid "ISO_639-3.TAE"
+msgstr "Letties"
+
+msgid "ISO_639-3.TAG"
+msgstr "Tais"
+
+msgid "ISO_639-3.TAH"
+msgstr "Letties"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAN"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TAR"
+msgstr "Swati"
+
+msgid "ISO_639-3.TAT"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TAU"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.TAW"
+msgstr "Tais"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TBA"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.TBC"
+msgstr "Tais"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TBF"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TBG"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.TBI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TBO"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TBP"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TBS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TBU"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TBX"
+msgstr "Latyn"
+
+msgid "ISO_639-3.TBY"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TCC"
+msgstr "Marafi"
+
+msgid "ISO_639-3.TCD"
+msgstr "Tais"
+
+msgid "ISO_639-3.TCE"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.TCG"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TCI"
+msgstr "Maleis"
+
+msgid "ISO_639-3.TCO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.TCP"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Tais"
+
+msgid "ISO_639-3.TCT"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TCU"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TCX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TCY"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.TDA"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TDB"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.TDG"
+msgstr "Fries"
+
+msgid "ISO_639-3.TDH"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TDI"
+msgstr "Latyn"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.TDK"
+msgstr "Aymara"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TDN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TDO"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TDV"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEC"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEF"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEH"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.TEK"
+msgstr "Turks"
+
+msgid "ISO_639-3.TEL"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TEO"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEP"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEQ"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TER"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEV"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TEY"
+msgstr "Turks"
+
+msgid "ISO_639-3.TFN"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.TFO"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TFR"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TFT"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TGB"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TGC"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TGD"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TGI"
+msgstr "Rundi"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Deens"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.TGL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TGN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TGO"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.TGP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TGR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.TGS"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TGT"
+msgstr "Swati"
+
+msgid "ISO_639-3.TGU"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TGX"
+msgstr "Deens"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.THA"
+msgstr "Tais"
+
+msgid "ISO_639-3.THE"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.THF"
+msgstr "Tais"
+
+msgid "ISO_639-3.THH"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.THN"
+msgstr "Tswana"
+
+msgid "ISO_639-3.THR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.THS"
+msgstr "Tais"
+
+msgid "ISO_639-3.THT"
+msgstr "Letties"
+
+msgid "ISO_639-3.THU"
+msgstr "Turks"
+
+msgid "ISO_639-3.THW"
+msgstr "Tais"
+
+msgid "ISO_639-3.THY"
+msgstr "Tais"
+
+msgid "ISO_639-3.TIC"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TIG"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TII"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TIJ"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TIK"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TIM"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TIN"
+msgstr "Hindi"
+
+msgid "ISO_639-3.TIO"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TIP"
+msgstr "Turks"
+
+msgid "ISO_639-3.TIR"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TIT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TIU"
+msgstr "Sangro"
+
+msgid "ISO_639-3.TIV"
+msgstr "Twi"
+
+msgid "ISO_639-3.TIW"
+msgstr "Twi"
+
+msgid "ISO_639-3.TIX"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TJI"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TJL"
+msgstr "Tais"
+
+msgid "ISO_639-3.TJS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TKB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TKE"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TKG"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.TKL"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TKM"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TKQ"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TKS"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TKV"
+msgstr "Punjabies"
+
+msgid "ISO_639-3.TKW"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TKX"
+msgstr "Sangro"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.TLA"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TLB"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TLD"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TLF"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TLG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TLH"
+msgstr "Tais"
+
+msgid "ISO_639-3.TLK"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TLL"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TLO"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TLR"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.TLS"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TLT"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.TLU"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TLV"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TLX"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.TMC"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.TMD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TMG"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TMJ"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.TMK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.TMQ"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TMS"
+msgstr "Fries"
+
+msgid "ISO_639-3.TMW"
+msgstr "Duits"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TNA"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TNB"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TNH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.TNI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TNK"
+msgstr "Kambodjaans"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TNN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TNO"
+msgstr "Oromees"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Latyn"
+
+msgid "ISO_639-3.TNW"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TNX"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TNY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOB"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.TOD"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOH"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOL"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TOM"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TOW"
+msgstr "Grieks"
+
+msgid "ISO_639-3.TOX"
+msgstr "Romeens"
+
+msgid "ISO_639-3.TPA"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TPF"
+msgstr "Tais"
+
+msgid "ISO_639-3.TPG"
+msgstr "Maleis"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TPQ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TPU"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.TPV"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TQL"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.TQN"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TQP"
+msgstr "Somalees"
+
+msgid "ISO_639-3.TQQ"
+msgstr "Rundi"
+
+msgid "ISO_639-3.TQR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TQT"
+msgstr "Fries"
+
+msgid "ISO_639-3.TQW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TRA"
+msgstr "Kirgisies"
+
+msgid "ISO_639-3.TRB"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TRD"
+msgstr "Turks"
+
+msgid "ISO_639-3.TRE"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TRL"
+msgstr "Skotse Gaelies"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TRR"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.TRT"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TRW"
+msgstr "Somalees"
+
+msgid "ISO_639-3.TRY"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TSA"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TSC"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estoniaans"
+
+msgid "ISO_639-3.TSH"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TSI"
+msgstr "Fries"
+
+msgid "ISO_639-3.TSJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSN"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TSO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TSU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSW"
+msgstr "Fries"
+
+msgid "ISO_639-3.TSX"
+msgstr "Maori"
+
+msgid "ISO_639-3.TSZ"
+msgstr "Quechua"
+
+msgid "ISO_639-3.TTB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TTG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.TTI"
+msgstr "Tais"
+
+msgid "ISO_639-3.TTL"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TTM"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TTN"
+msgstr "Twi"
+
+msgid "ISO_639-3.TTP"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TTR"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TTS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TTU"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TTV"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.TTW"
+msgstr "Sangro"
+
+msgid "ISO_639-3.TTY"
+msgstr "Swati"
+
+msgid "ISO_639-3.TUF"
+msgstr "Swati"
+
+msgid "ISO_639-3.TUG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamil"
+
+msgid "ISO_639-3.TUI"
+msgstr "Turks"
+
+msgid "ISO_639-3.TUJ"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TUK"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TUL"
+msgstr "Maleis"
+
+msgid "ISO_639-3.TUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turks"
+
+msgid "ISO_639-3.TUV"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Turks"
+
+msgid "ISO_639-3.TVD"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TVL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.TVN"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.TVO"
+msgstr "Tigris"
+
+msgid "ISO_639-3.TVS"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TVU"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TVW"
+msgstr "Shona"
+
+msgid "ISO_639-3.TWA"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TWB"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.TWF"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TWG"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TWI"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWL"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TWM"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TWN"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TWQ"
+msgstr "Tswana"
+
+msgid "ISO_639-3.TWR"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.TWU"
+msgstr "Duits"
+
+msgid "ISO_639-3.TWW"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWX"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.TWY"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.TXA"
+msgstr "Oromees"
+
+msgid "ISO_639-3.TXB"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.TXG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.TXH"
+msgstr "Tais"
+
+msgid "ISO_639-3.TXM"
+msgstr "Somalees"
+
+msgid "ISO_639-3.TXN"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.TXQ"
+msgstr "Twi"
+
+msgid "ISO_639-3.TXR"
+msgstr "Letties"
+
+msgid "ISO_639-3.TXS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TXX"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TXY"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.TYA"
+msgstr "Tartaars"
+
+msgid "ISO_639-3.TYE"
+msgstr "Kannada"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Tais"
+
+msgid "ISO_639-3.TYL"
+msgstr "Laoties"
+
+msgid "ISO_639-3.TYN"
+msgstr "Somalees"
+
+msgid "ISO_639-3.TZH"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TZJ"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TZL"
+msgstr "Russies"
+
+msgid "ISO_639-3.TZN"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.TZO"
+msgstr "Tais"
+
+msgid "ISO_639-3.TZX"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.UAN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.UBA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.UBR"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.UBY"
+msgstr "Oezbekies"
+
+msgid "ISO_639-3.UDG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.UDJ"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.UDL"
+msgstr "walloonse"
+
+msgid "ISO_639-3.UDM"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.UDU"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.UES"
+msgstr "Sangro"
+
+msgid "ISO_639-3.UGO"
+msgstr "Mongools"
+
+msgid "ISO_639-3.UHA"
+msgstr "Tais"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamil"
+
+msgid "ISO_639-3.UIG"
+msgstr "Oeigoers"
+
+msgid "ISO_639-3.UIS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.UKA"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.UKR"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.ULA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ULI"
+msgstr "Litaus"
+
+msgid "ISO_639-3.ULK"
+msgstr "Persies"
+
+msgid "ISO_639-3.ULW"
+msgstr "Albanees"
+
+msgid "ISO_639-3.UMC"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.UMM"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.UMN"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.UMR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.UND"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.UNG"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamil"
+
+msgid "ISO_639-3.UNN"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.UNR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.UNU"
+msgstr "Swati"
+
+msgid "ISO_639-3.UNX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.URA"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.URC"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.URD"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.URE"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.URF"
+msgstr "Swahili"
+
+msgid "ISO_639-3.URG"
+msgstr "Tigris"
+
+msgid "ISO_639-3.URL"
+msgstr "Somalees"
+
+msgid "ISO_639-3.URM"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.URN"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.URT"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.URU"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.URV"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.URX"
+msgstr "Oromees"
+
+msgid "ISO_639-3.URY"
+msgstr "Oria"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.UTE"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.UUM"
+msgstr "Oerdoe"
+
+msgid "ISO_639-3.UZB"
+msgstr "Oezbekies"
+
+msgid "ISO_639-3.UZN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.UZS"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.VAF"
+msgstr "Marafi"
+
+msgid "ISO_639-3.VAG"
+msgstr "Maleis"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.VAN"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.VAO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.VAS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.VAV"
+msgstr "Somalees"
+
+msgid "ISO_639-3.VAY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.VBB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.VBK"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.VEC"
+msgstr "Armeens"
+
+msgid "ISO_639-3.VER"
+msgstr "Mongools"
+
+msgid "ISO_639-3.VGR"
+msgstr "Marafi"
+
+msgid "ISO_639-3.VID"
+msgstr "Rundi"
+
+msgid "ISO_639-3.VIE"
+msgstr "Viëtnamees"
+
+msgid "ISO_639-3.VIN"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.VIV"
+msgstr "Rundi"
+
+msgid "ISO_639-3.VKA"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.VKK"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.VKM"
+msgstr "Kannada"
+
+msgid "ISO_639-3.VKO"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.VKP"
+msgstr "braziliÃ« portugese"
+
+msgid "ISO_639-3.VKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.VLP"
+msgstr "Somalees"
+
+msgid "ISO_639-3.VMA"
+msgstr "Marafi"
+
+msgid "ISO_639-3.VMB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.VMD"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.VME"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.VMG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.VMH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.VML"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.VMR"
+msgstr "Burmees"
+
+msgid "ISO_639-3.VMS"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.VMW"
+msgstr "Mans"
+
+msgid "ISO_639-3.VNK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.VNP"
+msgstr "Volapük"
+
+msgid "ISO_639-3.VOL"
+msgstr "Volapük"
+
+msgid "ISO_639-3.VRA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.VRS"
+msgstr "Fries"
+
+msgid "ISO_639-3.VRT"
+msgstr "Aymara"
+
+msgid "ISO_639-3.VWA"
+msgstr "Swahili"
+
+msgid "ISO_639-3.WAA"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.WAD"
+msgstr "Soedanees"
+
+msgid "ISO_639-3.WAE"
+msgstr "Maltees"
+
+msgid "ISO_639-3.WAI"
+msgstr "Färöers"
+
+msgid "ISO_639-3.WAJ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WAL"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.WAN"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WAO"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Duits"
+
+msgid "ISO_639-3.WAS"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WAT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WAV"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WAW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.WAX"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WBA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WBB"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WBE"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WBF"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WBH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WBI"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.WBK"
+msgstr "Marafi"
+
+msgid "ISO_639-3.WBL"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WBQ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WBT"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.WDK"
+msgstr "Aymara"
+
+msgid "ISO_639-3.WEH"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WER"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.WET"
+msgstr "Somalees"
+
+msgid "ISO_639-3.WEU"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.WGA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WGI"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WGY"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WHG"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.WHU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WIB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.WII"
+msgstr "Tibetaans"
+
+msgid "ISO_639-3.WJA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WJI"
+msgstr "Maori"
+
+msgid "ISO_639-3.WKA"
+msgstr "Kazak"
+
+msgid "ISO_639-3.WKB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WKL"
+msgstr "Groenlands"
+
+msgid "ISO_639-3.WKU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.WLA"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WLE"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.WLG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WLI"
+msgstr "Swahili"
+
+msgid "ISO_639-3.WLK"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WLN"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WLO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WLR"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WLS"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.WLW"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WLY"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.WMB"
+msgstr "Aymara"
+
+msgid "ISO_639-3.WMC"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WMD"
+msgstr "Sangro"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamil"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.WMS"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WMW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.WMX"
+msgstr "Oromees"
+
+msgid "ISO_639-3.WND"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WNG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.WNN"
+msgstr "Aymara"
+
+msgid "ISO_639-3.WNO"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WNP"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WNU"
+msgstr "Tswana"
+
+msgid "ISO_639-3.WNY"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WOA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WOB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.WOC"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WOD"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.WOE"
+msgstr "Moldawies"
+
+msgid "ISO_639-3.WOF"
+msgstr "Guarani"
+
+msgid "ISO_639-3.WOI"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.WOK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.WOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WON"
+msgstr "Sangro"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Korsikaans"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WRB"
+msgstr "Marafi"
+
+msgid "ISO_639-3.WRK"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WRN"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WRO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.WRP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.WRR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRU"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WRV"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WRY"
+msgstr "Marafi"
+
+msgid "ISO_639-3.WSI"
+msgstr "Tais"
+
+msgid "ISO_639-3.WSK"
+msgstr "Basjkirs"
+
+msgid "ISO_639-3.WSS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.WSU"
+msgstr "Wallies"
+
+msgid "ISO_639-3.WTM"
+msgstr "Swati"
+
+msgid "ISO_639-3.WUB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WUL"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.WUU"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.WUX"
+msgstr "Rundi"
+
+msgid "ISO_639-3.WWA"
+msgstr "walloonse"
+
+msgid "ISO_639-3.WWB"
+msgstr "Kannada"
+
+msgid "ISO_639-3.WWR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WWW"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WXW"
+msgstr "Maleis"
+
+msgid "ISO_639-3.WYI"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.WYY"
+msgstr "Fries"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serwies"
+
+msgid "ISO_639-3.XAC"
+msgstr "Tais"
+
+msgid "ISO_639-3.XAD"
+msgstr "Swahili"
+
+msgid "ISO_639-3.XAE"
+msgstr "Armeens"
+
+msgid "ISO_639-3.XAG"
+msgstr "Shona"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arabies"
+
+msgid "ISO_639-3.XAL"
+msgstr "walloonse"
+
+msgid "ISO_639-3.XAO"
+msgstr "Tais"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Litaus"
+
+msgid "ISO_639-3.XAR"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.XAS"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XAU"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.XAW"
+msgstr "Duits"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.XBD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XBE"
+msgstr "Aymara"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.XBI"
+msgstr "Somalees"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Bihari"
+
+msgid "ISO_639-3.XBM"
+msgstr "Breton"
+
+msgid "ISO_639-3.XBN"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.XBR"
+msgstr "Aymara"
+
+msgid "ISO_639-3.XBY"
+msgstr "Swati"
+
+msgid "ISO_639-3.XCL"
+msgstr "Armeens"
+
+msgid "ISO_639-3.XCO"
+msgstr "Korsikaans"
+
+msgid "ISO_639-3.XCR"
+msgstr "Maori"
+
+msgid "ISO_639-3.XCU"
+msgstr "Kroaties"
+
+msgid "ISO_639-3.XCY"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.XDA"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XDC"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.XDY"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.XED"
+msgstr "Hindi"
+
+msgid "ISO_639-3.XES"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.XFA"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.XGA"
+msgstr "Gallikans"
+
+msgid "ISO_639-3.XGD"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XGG"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XGI"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XGL"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XGM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.XGR"
+msgstr "Guarani"
+
+msgid "ISO_639-3.XGU"
+msgstr "Sangro"
+
+msgid "ISO_639-3.XHA"
+msgstr "Arabies"
+
+msgid "ISO_639-3.XHC"
+msgstr "Rundi"
+
+msgid "ISO_639-3.XHD"
+msgstr "Hindi"
+
+msgid "ISO_639-3.XHE"
+msgstr "Tais"
+
+msgid "ISO_639-3.XHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serwies"
+
+msgid "ISO_639-3.XHU"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.XHV"
+msgstr "Tais"
+
+msgid "ISO_639-3.XIB"
+msgstr "Persies"
+
+msgid "ISO_639-3.XII"
+msgstr "Hindi"
+
+msgid "ISO_639-3.XIL"
+msgstr "Italiaans"
+
+msgid "ISO_639-3.XIN"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.XIR"
+msgstr "Tigris"
+
+msgid "ISO_639-3.XIS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XJB"
+msgstr "Sangro"
+
+msgid "ISO_639-3.XJT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XKB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.XKE"
+msgstr "Turkmeens"
+
+msgid "ISO_639-3.XKF"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Groenlands"
+
+msgid "ISO_639-3.XKP"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XKT"
+msgstr "Swati"
+
+msgid "ISO_639-3.XKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XKV"
+msgstr "Groenlands"
+
+msgid "ISO_639-3.XKW"
+msgstr "Aymara"
+
+msgid "ISO_639-3.XKX"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XKY"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.XLC"
+msgstr "Letties"
+
+msgid "ISO_639-3.XLD"
+msgstr "Latyn"
+
+msgid "ISO_639-3.XLE"
+msgstr "Romeens"
+
+msgid "ISO_639-3.XLI"
+msgstr "Litaus"
+
+msgid "ISO_639-3.XLN"
+msgstr "Albanees"
+
+msgid "ISO_639-3.XLS"
+msgstr "Litaus"
+
+msgid "ISO_639-3.XMB"
+msgstr "Mongools"
+
+msgid "ISO_639-3.XME"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.XMF"
+msgstr "Mongools"
+
+msgid "ISO_639-3.XMG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Marafi"
+
+msgid "ISO_639-3.XMK"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.XMM"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMT"
+msgstr "Marafi"
+
+msgid "ISO_639-3.XMU"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.XMW"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.XMX"
+msgstr "Mans"
+
+msgid "ISO_639-3.XNG"
+msgstr "Mongools"
+
+msgid "ISO_639-3.XNH"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XNI"
+msgstr "Nauru"
+
+msgid "ISO_639-3.XNK"
+msgstr "Hongaars"
+
+msgid "ISO_639-3.XNN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.XNR"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.XNS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XNT"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.XOD"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XOG"
+msgstr "Georgies"
+
+msgid "ISO_639-3.XON"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XOP"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XOR"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.XOW"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XPA"
+msgstr "Oria"
+
+msgid "ISO_639-3.XPC"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-3.XPG"
+msgstr "Persies"
+
+msgid "ISO_639-3.XPI"
+msgstr "Pools"
+
+msgid "ISO_639-3.XPR"
+msgstr "Persies"
+
+msgid "ISO_639-3.XPS"
+msgstr "Persies"
+
+msgid "ISO_639-3.XPT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XPU"
+msgstr "Rundi"
+
+msgid "ISO_639-3.XPY"
+msgstr "Pasjtoe"
+
+msgid "ISO_639-3.XQA"
+msgstr "Bihari"
+
+msgid "ISO_639-3.XQT"
+msgstr "Albanees"
+
+msgid "ISO_639-3.XRE"
+msgstr "Grieks"
+
+msgid "ISO_639-3.XRG"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arabies"
+
+msgid "ISO_639-3.XRN"
+msgstr "Armeens"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.XRU"
+msgstr "Marafi"
+
+msgid "ISO_639-3.XRW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.XSA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XSB"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.XSC"
+msgstr "Shona"
+
+msgid "ISO_639-3.XSD"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.XSE"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.XSH"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.XSI"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.XSM"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XSO"
+msgstr "Sangro"
+
+msgid "ISO_639-3.XSP"
+msgstr "Swahili"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serwies"
+
+msgid "ISO_639-3.XSS"
+msgstr "Russies"
+
+msgid "ISO_639-3.XSV"
+msgstr "Sloveens"
+
+msgid "ISO_639-3.XSY"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.XTO"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.XTV"
+msgstr "Marafi"
+
+msgid "ISO_639-3.XTW"
+msgstr "Tswana"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Romeens"
+
+msgid "ISO_639-3.XUA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XUG"
+msgstr "Kannada"
+
+msgid "ISO_639-3.XUL"
+msgstr "Rundi"
+
+msgid "ISO_639-3.XUM"
+msgstr "Litaus"
+
+msgid "ISO_639-3.XUN"
+msgstr "Oekraïenies"
+
+msgid "ISO_639-3.XUR"
+msgstr "Kroaties"
+
+msgid "ISO_639-3.XUU"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.XVI"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-3.XVN"
+msgstr "Swati"
+
+msgid "ISO_639-3.XVO"
+msgstr "Romeens"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estoniaans"
+
+msgid "ISO_639-3.XWA"
+msgstr "Kazak"
+
+msgid "ISO_639-3.XWC"
+msgstr "walloonse"
+
+msgid "ISO_639-3.XWK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.XXB"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.XXR"
+msgstr "Sangro"
+
+msgid "ISO_639-3.XXT"
+msgstr "Aymara"
+
+msgid "ISO_639-3.XYB"
+msgstr "Laoties"
+
+msgid "ISO_639-3.XYK"
+msgstr "Maleis"
+
+msgid "ISO_639-3.XYL"
+msgstr "Maltees"
+
+msgid "ISO_639-3.XZH"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.XZM"
+msgstr "Masedonies"
+
+msgid "ISO_639-3.YAD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YAI"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YAK"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YAM"
+msgstr "Aymara"
+
+msgid "ISO_639-3.YAN"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.YAO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japanees"
+
+msgid "ISO_639-3.YAR"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YAU"
+msgstr "Tswana"
+
+msgid "ISO_639-3.YAX"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YBA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YBK"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.YBM"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.YBO"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YBX"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YCH"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.YCL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.YCN"
+msgstr "Quechua"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indonesies"
+
+msgid "ISO_639-3.YDA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YDD"
+msgstr "Jiddisj"
+
+msgid "ISO_639-3.YDG"
+msgstr "Jiddisj"
+
+msgid "ISO_639-3.YDK"
+msgstr "Jiddisj"
+
+msgid "ISO_639-3.YEC"
+msgstr "Frans"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Yslandies"
+
+msgid "ISO_639-3.YER"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-3.YES"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.YEV"
+msgstr "Rundi"
+
+msgid "ISO_639-3.YGA"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.YGI"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.YGM"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YGP"
+msgstr "Grieks"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.YGS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.YGW"
+msgstr "Marafi"
+
+msgid "ISO_639-3.YHA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.YHD"
+msgstr "Arabies"
+
+msgid "ISO_639-3.YHS"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.YIA"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.YID"
+msgstr "Jiddisj"
+
+msgid "ISO_639-3.YIF"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.YIH"
+msgstr "Jiddisj"
+
+msgid "ISO_639-3.YII"
+msgstr "Jiddisj"
+
+msgid "ISO_639-3.YIM"
+msgstr "Tongaans"
+
+msgid "ISO_639-3.YIN"
+msgstr "Sindhi"
+
+msgid "ISO_639-3.YIP"
+msgstr "Wolof"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YIR"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.YIS"
+msgstr "Fries"
+
+msgid "ISO_639-3.YIU"
+msgstr "Swahili"
+
+msgid "ISO_639-3.YIV"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.YIX"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.YKA"
+msgstr "Abgasies"
+
+msgid "ISO_639-3.YKG"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.YKL"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YKM"
+msgstr "Tais"
+
+msgid "ISO_639-3.YKO"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YKR"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.YKT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YKU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YKY"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YLB"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japanees"
+
+msgid "ISO_639-3.YLG"
+msgstr "Teloegoe"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.YLO"
+msgstr "Nauru"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japanees"
+
+msgid "ISO_639-3.YMC"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.YMD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.YME"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YMH"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YMN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YMO"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.YMR"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YMS"
+msgstr "Romeens"
+
+msgid "ISO_639-3.YMX"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Sangro"
+
+msgid "ISO_639-3.YND"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.YNE"
+msgstr "Sangro"
+
+msgid "ISO_639-3.YNG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.YNN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YNO"
+msgstr "Mongools"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.YNS"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.YNU"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YOB"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.YOG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.YOI"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.YOL"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.YON"
+msgstr "Mongools"
+
+msgid "ISO_639-3.YOR"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.YOY"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YPA"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.YPG"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YPH"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YPM"
+msgstr "Nepalees"
+
+msgid "ISO_639-3.YPO"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YPP"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Maleis"
+
+msgid "ISO_639-3.YRB"
+msgstr "Joroeba"
+
+msgid "ISO_639-3.YRE"
+msgstr "Laoties"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katelonies"
+
+msgid "ISO_639-3.YSD"
+msgstr "Samoaans"
+
+msgid "ISO_639-3.YSG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.YSN"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.YSP"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.YSY"
+msgstr "Georgies"
+
+msgid "ISO_639-3.YTA"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.YTL"
+msgstr "Mongools"
+
+msgid "ISO_639-3.YTP"
+msgstr "Sangro"
+
+msgid "ISO_639-3.YUC"
+msgstr "Nederlands"
+
+msgid "ISO_639-3.YUD"
+msgstr "Arabies"
+
+msgid "ISO_639-3.YUE"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.YUL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.YUM"
+msgstr "Quechua"
+
+msgid "ISO_639-3.YUP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YUT"
+msgstr "Mongools"
+
+msgid "ISO_639-3.YUX"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.YVA"
+msgstr "Marafi"
+
+msgid "ISO_639-3.YWG"
+msgstr "Tswana"
+
+msgid "ISO_639-3.YWL"
+msgstr "Fries"
+
+msgid "ISO_639-3.YWR"
+msgstr "Nauru"
+
+msgid "ISO_639-3.YXA"
+msgstr "Kannada"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.YXL"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Swahili"
+
+msgid "ISO_639-3.YZG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.YZK"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "walloonse"
+
+msgid "ISO_639-3.ZAK"
+msgstr "Swati"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.ZAU"
+msgstr "Sanskrit"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Swati"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Duits"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulgaars"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Duits"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.ZEN"
+msgstr "Bengalees"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Tigris"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Maltees"
+
+msgid "ISO_639-3.ZIN"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Oria"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Lingalees"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Fries"
+
+msgid "ISO_639-3.ZKB"
+msgstr "Somalees"
+
+msgid "ISO_639-3.ZKG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ZKK"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Okkitaan"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Armeens"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Tais"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Zhuang"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Litaus"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Maleis"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZME"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZML"
+msgstr "Burmees"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Mongools"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Kannada"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Sangro"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Malagassies"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Laoties"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Burmees"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Grieks"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Marafi"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Malabaars"
+
+msgid "ISO_639-3.ZSR"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Nauru"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Koreaans"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zoeloe"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Koerdies"
+
+msgid "ISO_639-3.ZUN"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Rundi"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Sjinees"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Maleis"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Zhuang"

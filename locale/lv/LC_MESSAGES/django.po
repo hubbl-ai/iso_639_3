@@ -1,0 +1,8200 @@
+# Latvian translations of ISO 639 Language names
+# Copyright (C) 2002,2004 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Translations from KDE:
+#   Andris Maziks <andzha@latnet.lv>
+#   Alastair McKinstry - translations from ICU-3.0
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-05 19:30+0000\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Latvian\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AAG"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AAK"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AAT"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AAW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ABD"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ABG"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ABK"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ABW"
+msgstr "Poļu"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ACE"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ACI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ACN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ACR"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ADL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.ADN"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ADR"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AEU"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AEW"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AFD"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AFK"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.AFP"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AFR"
+msgstr "Āfrikāņu"
+
+msgid "ISO_639-3.AGA"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AGB"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AGG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.AGI"
+msgstr "Turku"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.AGO"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AGW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AHA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AHK"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AHR"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AIA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.AIC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AIE"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.AIR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.AIS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.AIW"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AIX"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AJN"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.AKA"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.AKF"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKK"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKL"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKM"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AKW"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ALD"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ALH"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.ALN"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ALS"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AMC"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AMH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AML"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.AMN"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AMY"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ANC"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.ANK"
+msgstr "Vācu"
+
+msgid "ISO_639-3.ANP"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.ANS"
+msgstr "Vācu"
+
+msgid "ISO_639-3.ANW"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ANY"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AOA"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Krievu"
+
+msgid "ISO_639-3.AOR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.AOS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.APD"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.APF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.APG"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.APH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.API"
+msgstr "Poļu"
+
+msgid "ISO_639-3.APO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.APW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AQC"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ARI"
+msgstr "Āfrikāņu"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Āfrikāņu"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ARN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.ARO"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arābu"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.ASK"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.ASO"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.AST"
+msgstr "Igauņu"
+
+msgid "ISO_639-3.ATN"
+msgstr "Igauņu"
+
+msgid "ISO_639-3.ATR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AUB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AUC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.AUH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AUK"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.AUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.AUR"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AVA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AVB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AVI"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AVK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.AVN"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AVS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AXL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AXM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.AYA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AYI"
+msgstr "Vācu"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arābu"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.AZA"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AZB"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AZE"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.BAG"
+msgstr "Turku"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BAN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BAV"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BAY"
+msgstr "Basku"
+
+msgid "ISO_639-3.BBB"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BBD"
+msgstr "Basku"
+
+msgid "ISO_639-3.BBE"
+msgstr "Basku"
+
+msgid "ISO_639-3.BBF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arābu"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BBI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BBL"
+msgstr "Basku"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.BBV"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BBW"
+msgstr "Basku"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BCF"
+msgstr "Basku"
+
+msgid "ISO_639-3.BCG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BCK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.BCO"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Franču"
+
+msgid "ISO_639-3.BCR"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BCT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BCW"
+msgstr "Basku"
+
+msgid "ISO_639-3.BCY"
+msgstr "Basku"
+
+msgid "ISO_639-3.BDB"
+msgstr "Basku"
+
+msgid "ISO_639-3.BDD"
+msgstr "Basku"
+
+msgid "ISO_639-3.BDE"
+msgstr "Basku"
+
+msgid "ISO_639-3.BDF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BDG"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BDK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BDW"
+msgstr "Basku"
+
+msgid "ISO_639-3.BEG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BEH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BEK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BEL"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BEN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BEO"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.BEP"
+msgstr "Basku"
+
+msgid "ISO_639-3.BES"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BFA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BFG"
+msgstr "Basku"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BFR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BFT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BFU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BFW"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BFX"
+msgstr "Basku"
+
+msgid "ISO_639-3.BFY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BGB"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BGC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BGG"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BGR"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.BGU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BGW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BHA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHB"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BHD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHE"
+msgstr "Basku"
+
+msgid "ISO_639-3.BHG"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.BHH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BHR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BHV"
+msgstr "Basku"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BHX"
+msgstr "Basku"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.BIB"
+msgstr "Basku"
+
+msgid "ISO_639-3.BIC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BID"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIG"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIN"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIU"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BIX"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BJC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BJH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.BJN"
+msgstr "Basku"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BJS"
+msgstr "Basku"
+
+msgid "ISO_639-3.BJV"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BJY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BKD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BKF"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BKI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BKS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BKT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BKX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.BLD"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BLG"
+msgstr "Basku"
+
+msgid "ISO_639-3.BLI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BLL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BLR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BLS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BMD"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.BMH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BMI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BMO"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BMR"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.BMS"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.BMX"
+msgstr "Basku"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BNB"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BNC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BND"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.BNF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BNI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BNK"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.BNL"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.BNU"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BNW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.BOA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BOB"
+msgstr "Arābu"
+
+msgid "ISO_639-3.BOF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BOH"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BOK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BON"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BOP"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BOS"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BOT"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BOU"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BOW"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BPA"
+msgstr "Basku"
+
+msgid "ISO_639-3.BPG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BPH"
+msgstr "Poļu"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BPO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BPP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.BPU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BPV"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BQB"
+msgstr "Basku"
+
+msgid "ISO_639-3.BQH"
+msgstr "Basku"
+
+msgid "ISO_639-3.BQI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BQO"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.BQP"
+msgstr "Basku"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BQS"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BQV"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BQX"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BRF"
+msgstr "Vācu"
+
+msgid "ISO_639-3.BRG"
+msgstr "Basku"
+
+msgid "ISO_639-3.BRH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BRS"
+msgstr "Basku"
+
+msgid "ISO_639-3.BRT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.BRW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSB"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSC"
+msgstr "Basku"
+
+msgid "ISO_639-3.BSE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSG"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSH"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.BSI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BSN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BST"
+msgstr "Basku"
+
+msgid "ISO_639-3.BSU"
+msgstr "Basku"
+
+msgid "ISO_639-3.BSW"
+msgstr "Basku"
+
+msgid "ISO_639-3.BTA"
+msgstr "Basku"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.BTR"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BTV"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BUC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BUG"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BUI"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BUN"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.BUO"
+msgstr "Turku"
+
+msgid "ISO_639-3.BUP"
+msgstr "Basku"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BVA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BVB"
+msgstr "Basku"
+
+msgid "ISO_639-3.BVC"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BVO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BVP"
+msgstr "Serbu"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BVV"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BVW"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.BVY"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BWG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.BWI"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BXA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BXC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BXM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BXS"
+msgstr "Basku"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BYA"
+msgstr "Basku"
+
+msgid "ISO_639-3.BYF"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BYH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BYM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BYN"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BYR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BYW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Basku"
+
+msgid "ISO_639-3.BZA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BZD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BZF"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.BZG"
+msgstr "Basku"
+
+msgid "ISO_639-3.BZI"
+msgstr "Basku"
+
+msgid "ISO_639-3.BZO"
+msgstr "Basku"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.BZR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BZT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.BZU"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.BZV"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.CAC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CAE"
+msgstr "Vācu"
+
+msgid "ISO_639-3.CAF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CAJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CAK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.CAL"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.CAN"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CAR"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CBD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CBI"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CBL"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.CBW"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CBY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CCG"
+msgstr "Serbu"
+
+msgid "ISO_639-3.CDA"
+msgstr "Īru"
+
+msgid "ISO_639-3.CDE"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CDG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CDI"
+msgstr "Īru"
+
+msgid "ISO_639-3.CDO"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CDY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.CEA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.CEN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CES"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CFD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CFM"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CHE"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CHK"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CHM"
+msgstr "Krievu"
+
+msgid "ISO_639-3.CHX"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CIE"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CIK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.CIM"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.CIP"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.CIY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CJK"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.CJS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CJV"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CJY"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CKB"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.CKL"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CKN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CKT"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CKU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.CLE"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CLM"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.CLT"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CMA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CME"
+msgstr "Vācu"
+
+msgid "ISO_639-3.CMG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.CML"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.CMN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.CMS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CNG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.CNH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.CNL"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.CNO"
+msgstr "Īru"
+
+msgid "ISO_639-3.CNW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.CNX"
+msgstr "Īru"
+
+msgid "ISO_639-3.COE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.COG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.COR"
+msgstr "Īru"
+
+msgid "ISO_639-3.COS"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.COX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.COZ"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CPI"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CPN"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CPX"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CRA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CRE"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.CRF"
+msgstr "Turku"
+
+msgid "ISO_639-3.CRR"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.CRX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CRY"
+msgstr "Īru"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CST"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.CSV"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CSY"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.CTC"
+msgstr "Čehu"
+
+msgid "ISO_639-3.CTD"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.CTG"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.CTH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CTS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.CTU"
+msgstr "Īru"
+
+msgid "ISO_639-3.CUH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CUI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.CUL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.CUU"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.CUW"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CVG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CWB"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.CWE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.CYM"
+msgstr "Velšu"
+
+msgid "ISO_639-3.CZH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.CZK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.CZT"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DAG"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DAM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DAN"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DAO"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DAR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DAV"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.DAX"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DBA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.DBM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DBO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.DCC"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.DEC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.DEH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.DER"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DES"
+msgstr "Serbu"
+
+msgid "ISO_639-3.DEU"
+msgstr "Vācu"
+
+msgid "ISO_639-3.DGG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.DGI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.DGK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DGL"
+msgstr "Arābu"
+
+msgid "ISO_639-3.DGN"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DGX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DHG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.DHN"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DHO"
+msgstr "Vācu"
+
+msgid "ISO_639-3.DHR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DHS"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DHU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DHX"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.DIC"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.DID"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.DIF"
+msgstr "Turku"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.DIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.DIS"
+msgstr "Basku"
+
+msgid "ISO_639-3.DIT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.DIU"
+msgstr "Turku"
+
+msgid "ISO_639-3.DIV"
+msgstr "Turku"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.DJO"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.DJU"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.DLG"
+msgstr "Vācu"
+
+msgid "ISO_639-3.DLK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DLM"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.DLN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.DML"
+msgstr "Poļu"
+
+msgid "ISO_639-3.DMM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DMX"
+msgstr "Vācu"
+
+msgid "ISO_639-3.DNG"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DNV"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.DOH"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.DOK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.DOO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.DOR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DOT"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DOX"
+msgstr "Krievu"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DRB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DRC"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.DRD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DRG"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.DRL"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DRS"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.DRY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DSB"
+msgstr "Vācu"
+
+msgid "ISO_639-3.DSI"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DSO"
+msgstr "Serbu"
+
+msgid "ISO_639-3.DTA"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.DTY"
+msgstr "Poļu"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.DUP"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.DVA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DWA"
+msgstr "Turku"
+
+msgid "ISO_639-3.DWR"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.DWW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.DYA"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.DZA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DZG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.EAA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ECR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.EGL"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.EIV"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.EKK"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ELI"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.EMN"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ENA"
+msgstr "Poļu"
+
+msgid "ISO_639-3.ENB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ENG"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.ERG"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.EST"
+msgstr "Igauņu"
+
+msgid "ISO_639-3.ESY"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ETT"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.EUS"
+msgstr "Basku"
+
+msgid "ISO_639-3.EYO"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.FAA"
+msgstr "Basku"
+
+msgid "ISO_639-3.FAD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.FAF"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.FAH"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.FAP"
+msgstr "Poļu"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.FAS"
+msgstr "Serbu"
+
+msgid "ISO_639-3.FAT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.FAX"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FBL"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.FGR"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FIN"
+msgstr "Somu"
+
+msgid "ISO_639-3.FIR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FKV"
+msgstr "Somu"
+
+msgid "ISO_639-3.FLI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.FLL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.FLY"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FNI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.FOM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.FOR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.FRA"
+msgstr "Franču"
+
+msgid "ISO_639-3.FRC"
+msgstr "Franču"
+
+msgid "ISO_639-3.FRK"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.FRP"
+msgstr "Arābu"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FUI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.FUU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.GAB"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GAF"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GAH"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GAL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.GAN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.GAO"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.GAT"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.GBD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.GBM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GBY"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GCC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GCD"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.GCE"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.GCN"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.GDI"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GDK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GDL"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GDT"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.GEA"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GEB"
+msgstr "Turku"
+
+msgid "ISO_639-3.GEG"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GEI"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GEW"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GEX"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GGE"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GGK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.GHR"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GHT"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.GIG"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GIL"
+msgstr "Vjetnamiešu"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GIR"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GIW"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GJM"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GJN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.GJR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GJU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GKE"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.GKN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.GLD"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.GLE"
+msgstr "Īru"
+
+msgid "ISO_639-3.GLG"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.GLO"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.GMA"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.GMU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.GMV"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GMX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GNA"
+msgstr "Basku"
+
+msgid "ISO_639-3.GNE"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GNG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.GNH"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.GNM"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GNT"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GOA"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GOF"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.GOG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GPN"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.GQU"
+msgstr "Basku"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GRG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GRI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.GRN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GRO"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GRR"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.GRS"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GRT"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GRU"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GSP"
+msgstr "Velšu"
+
+msgid "ISO_639-3.GSW"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GUE"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GUM"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GUW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GVC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GVE"
+msgstr "Holandiešu"
+
+msgid "ISO_639-3.GVF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.GVM"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.GVS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GVY"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.GWC"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.GWE"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GWF"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GWG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.GWR"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GWW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.GWX"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GYE"
+msgstr "Vācu"
+
+msgid "ISO_639-3.GYI"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.GYR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.GZI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.GZN"
+msgstr "Vācu"
+
+msgid "ISO_639-3.HAC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.HAH"
+msgstr "Velšu"
+
+msgid "ISO_639-3.HAK"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.HAM"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HAN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.HAR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.HAS"
+msgstr "Basku"
+
+msgid "ISO_639-3.HAT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.HBN"
+msgstr "Serbu"
+
+msgid "ISO_639-3.HBO"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HBS"
+msgstr "Horvātu"
+
+msgid "ISO_639-3.HEB"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HEH"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HER"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HGW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.HHY"
+msgstr "Velšu"
+
+msgid "ISO_639-3.HIA"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.HIB"
+msgstr "Turku"
+
+msgid "ISO_639-3.HIG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.HII"
+msgstr "Turku"
+
+msgid "ISO_639-3.HIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.HJI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.HKA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.HLA"
+msgstr "Poļu"
+
+msgid "ISO_639-3.HLB"
+msgstr "Poļu"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arābu"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.HNI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.HNU"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Turku"
+
+msgid "ISO_639-3.HOM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.HOR"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HOV"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.HRE"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.HRO"
+msgstr "Turku"
+
+msgid "ISO_639-3.HRV"
+msgstr "Horvātu"
+
+msgid "ISO_639-3.HRW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.HRX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.HSB"
+msgstr "Serbu"
+
+msgid "ISO_639-3.HSN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.HUD"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.HUK"
+msgstr "Zulu"
+
+msgid "ISO_639-3.HUM"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.HUN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.HYE"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.IAI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.IAR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.IBL"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.IBY"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugāļu"
+
+msgid "ISO_639-3.IDC"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.IDR"
+msgstr "Īru"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.IFU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.IGL"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.IGN"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.III"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.IJE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.IKL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.IKR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.IKS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ILB"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.ILI"
+msgstr "Turku"
+
+msgid "ISO_639-3.ILK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.ILM"
+msgstr "Krievu"
+
+msgid "ISO_639-3.IMA"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.IMO"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.IMS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.INB"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.IND"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.INH"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.INN"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ISA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ISH"
+msgstr "Igauņu"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandiešu"
+
+msgid "ISO_639-3.ISM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ITA"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.ITD"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ITK"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.ITR"
+msgstr "Īru"
+
+msgid "ISO_639-3.ITV"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.ITY"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.IVV"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.IZH"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.JAC"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.JAF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arābu"
+
+msgid "ISO_639-3.JAT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.JAU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.JAV"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.JAY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.JBE"
+msgstr "Arābu"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.JCT"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.JDG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.JDT"
+msgstr "Arābu"
+
+msgid "ISO_639-3.JEB"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.JER"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.JGE"
+msgstr "Serbu"
+
+msgid "ISO_639-3.JHI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.JIV"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.JKU"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.JLE"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.JMB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JMN"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.JNI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.JNS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.JOW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.JPR"
+msgstr "Serbu"
+
+msgid "ISO_639-3.JRA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.JRB"
+msgstr "Arābu"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.JUL"
+msgstr "Turku"
+
+msgid "ISO_639-3.JUT"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.JVD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.JVN"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.JYE"
+msgstr "Arābu"
+
+msgid "ISO_639-3.KAE"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.KAF"
+msgstr "Basku"
+
+msgid "ISO_639-3.KAI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KAK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KAT"
+msgstr "Vācu"
+
+msgid "ISO_639-3.KAU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KBA"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.KBE"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KBI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KBL"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KBP"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KBS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KBT"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.KBU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.KBW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KBY"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Holandiešu"
+
+msgid "ISO_639-3.KCA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KCE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KCH"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KCP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.KCS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KCT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.KCW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KCY"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KDC"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KDE"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.KDF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KDG"
+msgstr "Serbu"
+
+msgid "ISO_639-3.KDJ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.KDR"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KDW"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KEA"
+msgstr "Serbu"
+
+msgid "ISO_639-3.KED"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.KEH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KEN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KER"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.KFA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KFD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.KFF"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KFG"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFH"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KFN"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KFR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KFS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KFT"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFV"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KFW"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.KFX"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KFY"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KGB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.KGE"
+msgstr "Serbu"
+
+msgid "ISO_639-3.KGL"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.KGN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KGO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KGP"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.KGV"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KGW"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KHA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KHE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KHF"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KHK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KHL"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KHN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.KHO"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KHR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KHS"
+msgstr "Basku"
+
+msgid "ISO_639-3.KHT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KHV"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KHX"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KIB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KID"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.KIL"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KIM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KIS"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KIW"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KIX"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.KJE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KJO"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KJR"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.KKI"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KKK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KKL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KKM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KKO"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KKT"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.KKV"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KKX"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Basku"
+
+msgid "ISO_639-3.KLG"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KLL"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.KLM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KLN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KLP"
+msgstr "Basku"
+
+msgid "ISO_639-3.KLR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KLU"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.KLW"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.KLY"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.KMA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KMD"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.KMH"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.KMK"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.KMR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KMU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KMY"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.KNC"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KND"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KNE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KNG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KNI"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KNK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KOC"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.KOF"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KOG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.KOK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KOO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KOR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KOS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KOT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KOU"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KPD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KPK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KPR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KPS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KPT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KPY"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KQB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KQM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KQR"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.KQU"
+msgstr "Serbu"
+
+msgid "ISO_639-3.KQY"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KRA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KRB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KRE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KRH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.KRI"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KRK"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.KRL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KRM"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KRT"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KRU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KRV"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KRX"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.KSD"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KSE"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KSF"
+msgstr "Basku"
+
+msgid "ISO_639-3.KSI"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KSK"
+msgstr "Basku"
+
+msgid "ISO_639-3.KSL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KSO"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KSR"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.KSV"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KSX"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KTD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KTF"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.KTH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KTK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KTM"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KUC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KUH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.KUO"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KUR"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KUV"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KVB"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KVC"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.KVI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KVL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KVP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KVV"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KVW"
+msgstr "Serbu"
+
+msgid "ISO_639-3.KWD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KWE"
+msgstr "Serbu"
+
+msgid "ISO_639-3.KWF"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KWH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KWP"
+msgstr "Vācu"
+
+msgid "ISO_639-3.KWW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KXA"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KXC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.KXD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KXN"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KXS"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KXV"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KXW"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.KYD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KYH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KYM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KYO"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KYP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arābu"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.KZD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.KZE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KZG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KZL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.KZM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KZN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KZO"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.KZR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.KZX"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.LAB"
+msgstr "Vācu"
+
+msgid "ISO_639-3.LAD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LAG"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LAL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.LAR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LAT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LAV"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LAY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LBA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LBC"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LBF"
+msgstr "Somu"
+
+msgid "ISO_639-3.LBI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LBK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.LBN"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LBO"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LBT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LBW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LCH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.LDD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LDI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LDL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LDM"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LDN"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.LES"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.LEX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Vācu"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.LGL"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.LGR"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LGT"
+msgstr "Poļu"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.LHN"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LHT"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.LIF"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LIM"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LIR"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LIU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LIW"
+msgstr "Īru"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.LJI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LJL"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LJP"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arābu"
+
+msgid "ISO_639-3.LKB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LKC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LKD"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.LKE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LKI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LKM"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.LKN"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.LKO"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LKS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LKT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LKU"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.LLD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LLF"
+msgstr "Turku"
+
+msgid "ISO_639-3.LLH"
+msgstr "Basku"
+
+msgid "ISO_639-3.LLM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LLX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LMG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.LML"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LMN"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LMP"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LNH"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LNI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LNS"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LNU"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.LNW"
+msgstr "Poļu"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.LOF"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LOG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LOH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LOL"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LPO"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LRA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LRC"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LRE"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LRG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LRI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LRK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LRL"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LRM"
+msgstr "Arābu"
+
+msgid "ISO_639-3.LRN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LRO"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Serbu"
+
+msgid "ISO_639-3.LSD"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LSH"
+msgstr "Īru"
+
+msgid "ISO_639-3.LSI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LSM"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.LSS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.LTN"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LTO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.LTS"
+msgstr "Īru"
+
+msgid "ISO_639-3.LTU"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LUD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LUE"
+msgstr "Zulu"
+
+msgid "ISO_639-3.LUF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LUM"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LUS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.LUV"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LVS"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.LWG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.LWH"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LWM"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.LYG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.LYN"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.LZH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.LZN"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.MAD"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MAF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAH"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MAI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.MBC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MBE"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MBF"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.MBK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MBP"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MBS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MBY"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MCA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MCH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MCI"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MCM"
+msgstr "Brazīlijas portugāļu"
+
+msgid "ISO_639-3.MCN"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MCP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MCS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MCT"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MDG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MDH"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MDM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MDN"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MDP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MDU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MDW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MDX"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.MEC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MEL"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.MEM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MES"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MET"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MEW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MFA"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.MFB"
+msgstr "Basku"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MFF"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.MFH"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.MFI"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.MFK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.MFL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.MFP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MFR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MFT"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MFY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.MGB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MGE"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MGF"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MGG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.MGK"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MGN"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MGP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.MGT"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MGU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MGV"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.MHB"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MHC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MHE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.MHF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MHG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MHI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MHK"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.MHP"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.MHX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MIA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MIC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MID"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.MIK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MJB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MJL"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MJR"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MJV"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MJW"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.MJX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MJY"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MKA"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.MKD"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MKE"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MKI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MKR"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MKV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MKY"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MLA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MLF"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.MLK"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.MLN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MLP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MLS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MLT"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MLV"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MMA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMD"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MME"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MMI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MMU"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.MMV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MMX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MNI"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.MNL"
+msgstr "Turku"
+
+msgid "ISO_639-3.MNM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MNP"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Turku"
+
+msgid "ISO_639-3.MNS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MNW"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MOD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MOE"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MOG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MOM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MON"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MOS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MOU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOW"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOX"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MPA"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MPC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MPD"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.MPG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MPH"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MPI"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MPT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MPV"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.MPW"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MPY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.MQC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MQE"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQP"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MQR"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MQU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MQY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MRG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MSC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MSE"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MSK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MSL"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MSS"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MSV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arābu"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MTL"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MTN"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MTR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MTS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.MTY"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.MUC"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MUI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MUK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MUO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.MUP"
+msgstr "Poļu"
+
+msgid "ISO_639-3.MUR"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MUS"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MUX"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVF"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MVO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVS"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MVU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Serbu"
+
+msgid "ISO_639-3.MWI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MWK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.MWL"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.MWR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MWT"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MWV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MWX"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MWY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MXD"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MXF"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arābu"
+
+msgid "ISO_639-3.MXK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.MXR"
+msgstr "Krievu"
+
+msgid "ISO_639-3.MXW"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.MXX"
+msgstr "Velšu"
+
+msgid "ISO_639-3.MYG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MYH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.MYL"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.MYS"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.MYX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MYY"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.MZE"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MZP"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.MZS"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.MZT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.MZV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NAA"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Zulu"
+
+msgid "ISO_639-3.NAL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.NAN"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.NAW"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NAX"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NBB"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NBC"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NBH"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NBN"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NBP"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NBU"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NBY"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NCB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NCC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.NCF"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NCH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NDA"
+msgstr "Basku"
+
+msgid "ISO_639-3.NDC"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDF"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.NDH"
+msgstr "Poļu"
+
+msgid "ISO_639-3.NDM"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDP"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDR"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDS"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.NDT"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDX"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vjetnamiešu"
+
+msgid "ISO_639-3.NEG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NEP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NER"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.NES"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NEU"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NEW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NFD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NGO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NGP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.NGX"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NGY"
+msgstr "Turku"
+
+msgid "ISO_639-3.NHA"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NHB"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.NHH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NHO"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NIB"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NID"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NIO"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NIR"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.NIX"
+msgstr "Vācu"
+
+msgid "ISO_639-3.NIY"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NJI"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.NJN"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Turku"
+
+msgid "ISO_639-3.NKA"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NKB"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NKC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NKD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NKG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NKI"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NKO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NKU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NLC"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.NLD"
+msgstr "Holandiešu"
+
+msgid "ISO_639-3.NLG"
+msgstr "Vācu"
+
+msgid "ISO_639-3.NLI"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Poļu"
+
+msgid "ISO_639-3.NLL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NLW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NLX"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Poļu"
+
+msgid "ISO_639-3.NMA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.NMB"
+msgstr "Basku"
+
+msgid "ISO_639-3.NMC"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.NMG"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NMR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NMV"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NMW"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NNF"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NNG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.NNO"
+msgstr "Norvēģu (Ņūnorskas)"
+
+msgid "ISO_639-3.NNY"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NOB"
+msgstr "Norvēģu (Bokmālas)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NOF"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.NOG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NOI"
+msgstr "Turku"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NOL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NON"
+msgstr "Serbu"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NPG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NPI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NPN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.NQM"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.NQY"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NRB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NRC"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NRN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NRR"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NRT"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NRU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.NSA"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NSC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NSE"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.NSG"
+msgstr "Basku"
+
+msgid "ISO_639-3.NSK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NSN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.NSS"
+msgstr "Poļu"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.NSX"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NSY"
+msgstr "Basku"
+
+msgid "ISO_639-3.NTD"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.NTG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NTX"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.NTY"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.NUA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.NUD"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NUG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NUH"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NUN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.NUX"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.NVH"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.NWR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NXI"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.NXM"
+msgstr "Serbu"
+
+msgid "ISO_639-3.NXO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NXX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.NYA"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NYF"
+msgstr "Vācu"
+
+msgid "ISO_639-3.NYH"
+msgstr "Turku"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NYR"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.NYS"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.OAR"
+msgstr "Arābu"
+
+msgid "ISO_639-3.OBR"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.OCA"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.OCH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.OCO"
+msgstr "Īru"
+
+msgid "ISO_639-3.ODT"
+msgstr "Holandiešu"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.OGE"
+msgstr "Vācu"
+
+msgid "ISO_639-3.OGO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.OHU"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.OIA"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.OKD"
+msgstr "Vācu"
+
+msgid "ISO_639-3.OKK"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.OKL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.OKR"
+msgstr "Turku"
+
+msgid "ISO_639-3.OKV"
+msgstr "Horvātu"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.OLR"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.OLU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.OMN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.OMP"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.OMR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ONB"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.ONP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ONR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ONW"
+msgstr "Serbu"
+
+msgid "ISO_639-3.OOS"
+msgstr "Krievu"
+
+msgid "ISO_639-3.ORC"
+msgstr "Vācu"
+
+msgid "ISO_639-3.ORI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ORT"
+msgstr "Turku"
+
+msgid "ISO_639-3.ORV"
+msgstr "Krievu"
+
+msgid "ISO_639-3.OSC"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.OSI"
+msgstr "Krievu"
+
+msgid "ISO_639-3.OSP"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.OSS"
+msgstr "Krievu"
+
+msgid "ISO_639-3.OSX"
+msgstr "Serbu"
+
+msgid "ISO_639-3.OTB"
+msgstr "Serbu"
+
+msgid "ISO_639-3.OTD"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turku"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.OWL"
+msgstr "Velšu"
+
+msgid "ISO_639-3.OYM"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.PAG"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PAH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PAO"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PAR"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PAS"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.PAY"
+msgstr "Čehu"
+
+msgid "ISO_639-3.PBI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PBN"
+msgstr "Basku"
+
+msgid "ISO_639-3.PBO"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PBR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PCF"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PCG"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PCH"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.PCI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.PCL"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PDI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.PDU"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.PEE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.PEG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.PEH"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PEK"
+msgstr "Franču"
+
+msgid "ISO_639-3.PEL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PES"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.PFL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PGG"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PGI"
+msgstr "Turku"
+
+msgid "ISO_639-3.PGN"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.PGS"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PHH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.PHN"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.PHQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.PHT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PHU"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.PHV"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PIC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PII"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PIM"
+msgstr "Horvātu"
+
+msgid "ISO_639-3.PIP"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.PIV"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PKT"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.PLA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PLD"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLE"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLH"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLP"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLU"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.PMB"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PMD"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PMK"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vjetnamiešu"
+
+msgid "ISO_639-3.PMY"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.PNC"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.PNG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PNL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PNP"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PNR"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PNS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PNT"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.PNY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.POC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.POL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PON"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugāļu"
+
+msgid "ISO_639-3.POX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.PPE"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PPI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Serbu"
+
+msgid "ISO_639-3.PPT"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PRB"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.PRC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PRF"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PRG"
+msgstr "Serbu"
+
+msgid "ISO_639-3.PRI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PRM"
+msgstr "Turku"
+
+msgid "ISO_639-3.PRP"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PRR"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.PRT"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PRU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.PRW"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.PSH"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.PSI"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.PSN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Poļu"
+
+msgid "ISO_639-3.PTN"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.PTR"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PTU"
+msgstr "Basku"
+
+msgid "ISO_639-3.PTY"
+msgstr "Serbu"
+
+msgid "ISO_639-3.PUP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.PUT"
+msgstr "Holandiešu"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugāļu"
+
+msgid "ISO_639-3.PUX"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.PWA"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PWB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PWN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.PWR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.PZN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.QYP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.RAC"
+msgstr "Basku"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.RAG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.RAL"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.RAR"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RAS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.RAX"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RES"
+msgstr "Velšu"
+
+msgid "ISO_639-3.RGA"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RHG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RHP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.RJG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RJI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.RKI"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.RKM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.RKT"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arābu"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMB"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turku"
+
+msgid "ISO_639-3.RMI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.RMK"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RML"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMX"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.RNG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RNL"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RNN"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RNP"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.RNR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ROD"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.ROG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ROH"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.ROM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RON"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.ROR"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.RPT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.RRI"
+msgstr "Turku"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RSM"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.RTC"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.RTM"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.RUC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.RUE"
+msgstr "Krievu"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RUK"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RUS"
+msgstr "Krievu"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.RWO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.RWR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.RXD"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.RXW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SAB"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.SAC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SAE"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SAK"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SAM"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SAO"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.SAU"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SAX"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SAY"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SBE"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.SBL"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.SBS"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SBV"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SBX"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SBY"
+msgstr "Poļu"
+
+msgid "ISO_639-3.SCE"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SCH"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SCK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SCL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SCV"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SDB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SDC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SDF"
+msgstr "Poļu"
+
+msgid "ISO_639-3.SDH"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.SDK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.SDN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SDR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SED"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SEH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SEI"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SEK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.SEO"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SER"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SET"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SGB"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.SGC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SGD"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SGE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SGM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGS"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.SGY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHC"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SHE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.SHR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHT"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SHV"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SHW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SHY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SIB"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.SIH"
+msgstr "Turku"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SIN"
+msgstr "Vjetnamiešu"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.SIU"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SIV"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SIX"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SJP"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.SJW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SKB"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SKC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SKH"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SKI"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SKM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SKR"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SKS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SKY"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.SLE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SLI"
+msgstr "Vācu"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SLN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SLU"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SMB"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SME"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.SMH"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SMK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SMM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SMN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SMP"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SMU"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SNA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNF"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.SNH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNK"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SNL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNO"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.SNP"
+msgstr "Vācu"
+
+msgid "ISO_639-3.SNR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNU"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNV"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SOA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SOD"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOG"
+msgstr "Vācu"
+
+msgid "ISO_639-3.SOH"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.SOI"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SOP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.SOR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOS"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.SOW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.SPA"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.SPG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SPI"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SPK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SPS"
+msgstr "Basku"
+
+msgid "ISO_639-3.SPU"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.SPV"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.SQH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SQI"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.SQM"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arābu"
+
+msgid "ISO_639-3.SQU"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.SRA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SRB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SRC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SRD"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SRE"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SRF"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.SRI"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SRO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.SRP"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SRS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SRT"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.SRW"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SRY"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SSD"
+msgstr "Turku"
+
+msgid "ISO_639-3.SSE"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.SSF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SSG"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arābu"
+
+msgid "ISO_639-3.SSI"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SSK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SSN"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SST"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.SSU"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.SSY"
+msgstr "Velšu"
+
+msgid "ISO_639-3.STB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.STD"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.STH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.STK"
+msgstr "Arābu"
+
+msgid "ISO_639-3.STM"
+msgstr "Vācu"
+
+msgid "ISO_639-3.STO"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SUE"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SUX"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SVA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SVE"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SVX"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.SWE"
+msgstr "Zviedru"
+
+msgid "ISO_639-3.SWF"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.SWG"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SWK"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.SWM"
+msgstr "Basku"
+
+msgid "ISO_639-3.SWO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SWP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.SWS"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.SWW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SXL"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SXM"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.SXN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SXS"
+msgstr "Basku"
+
+msgid "ISO_639-3.SYA"
+msgstr "Vācu"
+
+msgid "ISO_639-3.SYB"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.SYM"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.SYR"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SYX"
+msgstr "Serbu"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.SZN"
+msgstr "Slovāku"
+
+msgid "ISO_639-3.SZW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.TAA"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.TAD"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.TAE"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TAG"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TAH"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TAU"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.TAW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TBA"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.TBC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TBG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.TBI"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TBO"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.TBX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TCC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.TCD"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.TCP"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TCY"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.TDB"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TDH"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TDI"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TEC"
+msgstr "Turku"
+
+msgid "ISO_639-3.TEH"
+msgstr "Čehu"
+
+msgid "ISO_639-3.TEK"
+msgstr "Turku"
+
+msgid "ISO_639-3.TEY"
+msgstr "Turku"
+
+msgid "ISO_639-3.TFN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.TGB"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.TGC"
+msgstr "Turku"
+
+msgid "ISO_639-3.TGD"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.TGK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TGN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Turku"
+
+msgid "ISO_639-3.TGR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.TGX"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.THA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.THE"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.THF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.THN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.THR"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.THS"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.THT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.THU"
+msgstr "Turku"
+
+msgid "ISO_639-3.THW"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.THY"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TIC"
+msgstr "Turku"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TIG"
+msgstr "Turku"
+
+msgid "ISO_639-3.TII"
+msgstr "Turku"
+
+msgid "ISO_639-3.TIK"
+msgstr "Turku"
+
+msgid "ISO_639-3.TIM"
+msgstr "Turku"
+
+msgid "ISO_639-3.TIN"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TIP"
+msgstr "Turku"
+
+msgid "ISO_639-3.TIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.TIU"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.TJL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TKB"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TLD"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TLH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TLK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TLO"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TLR"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.TLT"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.TLU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TLV"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TLX"
+msgstr "Čehu"
+
+msgid "ISO_639-3.TMC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TMD"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TMW"
+msgstr "Vācu"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TNG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.TNH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.TNI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TOD"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.TOH"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.TOM"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TOW"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.TOX"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.TPF"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TQL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TRA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.TRD"
+msgstr "Turku"
+
+msgid "ISO_639-3.TRE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turku"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TRR"
+msgstr "Velšu"
+
+msgid "ISO_639-3.TRT"
+msgstr "Turku"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TSD"
+msgstr "Igauņu"
+
+msgid "ISO_639-3.TSH"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TSV"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TSX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.TTB"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.TTG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.TTI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TTR"
+msgstr "Vācu"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TTV"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TTW"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.TUI"
+msgstr "Turku"
+
+msgid "ISO_639-3.TUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turku"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turku"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Turku"
+
+msgid "ISO_639-3.TVD"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TVL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TVO"
+msgstr "Turku"
+
+msgid "ISO_639-3.TVW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.TWF"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.TWL"
+msgstr "Maoru"
+
+msgid "ISO_639-3.TWM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.TWN"
+msgstr "Zviedru"
+
+msgid "ISO_639-3.TWU"
+msgstr "Vācu"
+
+msgid "ISO_639-3.TWW"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.TXA"
+msgstr "Angļu (AK)"
+
+msgid "ISO_639-3.TXB"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.TXH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TXM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TXN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.TXR"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TXX"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.TYE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TYN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.TZH"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TZL"
+msgstr "Krievu"
+
+msgid "ISO_639-3.TZO"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.TZX"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.UAN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.UDG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.UDL"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.UGO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.UHA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.UIS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.UKA"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ULI"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.ULK"
+msgstr "Serbu"
+
+msgid "ISO_639-3.ULW"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.UMC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.UMN"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.UNG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.UNN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.UNR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.UNU"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.UNX"
+msgstr "Maoru"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.URF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.URG"
+msgstr "Turku"
+
+msgid "ISO_639-3.URL"
+msgstr "Poļu"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.URT"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.VAF"
+msgstr "Maoru"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.VAN"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.VAS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.VAV"
+msgstr "Poļu"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.VEC"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.VER"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.VGR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vjetnamiešu"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.VKK"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.VKO"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.VKP"
+msgstr "Brazīlijas portugāļu"
+
+msgid "ISO_639-3.VLP"
+msgstr "Poļu"
+
+msgid "ISO_639-3.VMA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.VMB"
+msgstr "Arābu"
+
+msgid "ISO_639-3.VMD"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.VME"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.VMG"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.VMH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.VML"
+msgstr "Maoru"
+
+msgid "ISO_639-3.VMR"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.VNK"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.VRA"
+msgstr "Vācu"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.WAE"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.WAI"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.WAL"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.WAN"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WAO"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Vācu"
+
+msgid "ISO_639-3.WAS"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WAV"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WAW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WAX"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WBA"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WBB"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WBF"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WBI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WBK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WBL"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WDK"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.WEH"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WET"
+msgstr "Poļu"
+
+msgid "ISO_639-3.WEU"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.WGI"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WHG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.WHU"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.WII"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.WJA"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WJI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WKB"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.WKL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.WKU"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.WLA"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WLE"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.WLG"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.WLI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.WLK"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WLN"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WLR"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WLS"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.WLW"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WLY"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.WMC"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WMD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamilu"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.WMS"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WMW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WMX"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.WNN"
+msgstr "Arābu"
+
+msgid "ISO_639-3.WNO"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WOC"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.WOD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.WOE"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.WOF"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.WOK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.WON"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WOR"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WRB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WRK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WRN"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.WRO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.WRP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WRY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WSI"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.WSK"
+msgstr "Basku"
+
+msgid "ISO_639-3.WSS"
+msgstr "Basku"
+
+msgid "ISO_639-3.WSU"
+msgstr "Velšu"
+
+msgid "ISO_639-3.WTM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WUU"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.WWA"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WWB"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WWR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.WWW"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.WXW"
+msgstr "Arābu"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.XAB"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XAC"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XAD"
+msgstr "Arābu"
+
+msgid "ISO_639-3.XAE"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.XAG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arābu"
+
+msgid "ISO_639-3.XAL"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.XAO"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.XAR"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.XAU"
+msgstr "Vācu"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.XBD"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.XBE"
+msgstr "Basku"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretoņu"
+
+msgid "ISO_639-3.XBN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.XBY"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.XCL"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.XCO"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.XCR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XCU"
+msgstr "Horvātu"
+
+msgid "ISO_639-3.XCY"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.XDA"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XDC"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.XDY"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.XFA"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.XGA"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.XGD"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.XGG"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XGI"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XGL"
+msgstr "Galiciāņu"
+
+msgid "ISO_639-3.XGM"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XGR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.XHA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.XHE"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XHU"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.XHV"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XIB"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XII"
+msgstr "Turku"
+
+msgid "ISO_639-3.XIL"
+msgstr "Itāļu"
+
+msgid "ISO_639-3.XIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.XIS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XJT"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XKE"
+msgstr "Ebreju"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Poļu"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XKT"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.XKX"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.XLC"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.XLD"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.XLI"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.XLN"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.XLS"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.XMB"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XME"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XMF"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XMK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XMT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XMU"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.XMX"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.XNG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XNH"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.XNI"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.XNK"
+msgstr "Ungāru"
+
+msgid "ISO_639-3.XNN"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XNR"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.XNS"
+msgstr "Dāņu"
+
+msgid "ISO_639-3.XNT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XOD"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XOG"
+msgstr "Vācu"
+
+msgid "ISO_639-3.XON"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XOP"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XOW"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XPA"
+msgstr "Turku"
+
+msgid "ISO_639-3.XPC"
+msgstr "Čehu"
+
+msgid "ISO_639-3.XPG"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XPI"
+msgstr "Poļu"
+
+msgid "ISO_639-3.XPR"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XPS"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XQA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XQT"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.XRE"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.XRG"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arābu"
+
+msgid "ISO_639-3.XRN"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XRU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XRW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XSB"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XSC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XSE"
+msgstr "Vācu"
+
+msgid "ISO_639-3.XSH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XSM"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XSO"
+msgstr "Vācu"
+
+msgid "ISO_639-3.XSR"
+msgstr "Serbu"
+
+msgid "ISO_639-3.XSS"
+msgstr "Krievu"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slovēņu"
+
+msgid "ISO_639-3.XTO"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.XTV"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XTW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.XUM"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.XUR"
+msgstr "Horvātu"
+
+msgid "ISO_639-3.XUU"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XVI"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.XVO"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.XVS"
+msgstr "Igauņu"
+
+msgid "ISO_639-3.XWA"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.XWC"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.XWK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XXB"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.XXR"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.XXT"
+msgstr "Vācu"
+
+msgid "ISO_639-3.XYB"
+msgstr "Maoru"
+
+msgid "ISO_639-3.XYL"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.XZM"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YAK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YAN"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.YBA"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Basku"
+
+msgid "ISO_639-3.YBK"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.YBM"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.YCH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.YCL"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-3.YDA"
+msgstr "Arābu"
+
+msgid "ISO_639-3.YEC"
+msgstr "Franču"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Islandiešu"
+
+msgid "ISO_639-3.YER"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.YES"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.YGA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YGI"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.YGP"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.YGS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.YGW"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YHA"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.YHD"
+msgstr "Arābu"
+
+msgid "ISO_639-3.YHS"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.YIF"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.YIM"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.YIP"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.YIU"
+msgstr "Arābu"
+
+msgid "ISO_639-3.YIX"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.YKA"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.YKL"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.YKM"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.YKO"
+msgstr "Basku"
+
+msgid "ISO_639-3.YKT"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.YKU"
+msgstr "Basku"
+
+msgid "ISO_639-3.YLB"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.YLO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japāņu"
+
+msgid "ISO_639-3.YMD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YMH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YMM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YMO"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.YMR"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.YMS"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YNA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YNE"
+msgstr "Latviešu"
+
+msgid "ISO_639-3.YNG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YNO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YNS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YOG"
+msgstr "Bosniešu"
+
+msgid "ISO_639-3.YOI"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.YOL"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.YON"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YPA"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.YPG"
+msgstr "Poļu"
+
+msgid "ISO_639-3.YPH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.YPM"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YPO"
+msgstr "Poļu"
+
+msgid "ISO_639-3.YPP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katalāņu"
+
+msgid "ISO_639-3.YSD"
+msgstr "Serbu"
+
+msgid "ISO_639-3.YSN"
+msgstr "Spāņu"
+
+msgid "ISO_639-3.YSY"
+msgstr "Vācu"
+
+msgid "ISO_639-3.YTA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YTL"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YTP"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.YUC"
+msgstr "Holandiešu"
+
+msgid "ISO_639-3.YUD"
+msgstr "Arābu"
+
+msgid "ISO_639-3.YUE"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.YUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YUT"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.YVA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.YXA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-3.YZG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.YZK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "Valūniešu"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Vācu"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Vācu"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Turku"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Turku"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Bulgāru"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Okitāņu"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Rumāņu"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Taizemiešu"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZML"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Maltiešu"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Grieķu"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Korejiešu"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Kurdu"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Maoru"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Xhosa"

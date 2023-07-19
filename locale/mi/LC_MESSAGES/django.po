@@ -1,0 +1,8200 @@
+# Maori translations of ISO 639 Language names
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Translations from KDE:
+#  James Gasson <james.gasson@clear.net.nz>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-05 19:35+0000\n"
+"Last-Translator: James Gasson <james.gasson@clear.net.nz>\n"
+"Language-Team: Maori <james.gasson@clear.net.nz>\n"
+"Language: mi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AAF"
+msgstr "Parani"
+
+msgid "ISO_639-3.AAG"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AAK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AAT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AAW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ABD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ABE"
+msgstr "Parani"
+
+msgid "ISO_639-3.ABG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ABH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ABK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ABV"
+msgstr "Parani"
+
+msgid "ISO_639-3.ABW"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ACE"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ACI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ACN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ACR"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ACW"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ACX"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ACY"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ADF"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ADL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.ADN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ADR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.AEA"
+msgstr "Parani"
+
+msgid "ISO_639-3.AEC"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AEE"
+msgstr "Parani"
+
+msgid "ISO_639-3.AEU"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AEW"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AFB"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AFD"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AFK"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.AFP"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AFR"
+msgstr "Reo Āwherika Tatimana"
+
+msgid "ISO_639-3.AGA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AGB"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.AGD"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AGF"
+msgstr "Parani"
+
+msgid "ISO_639-3.AGG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.AGI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.AGM"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.AGO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AGW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AHA"
+msgstr "Rakau"
+
+msgid "ISO_639-3.AHK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AHR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AIA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.AIC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AIE"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.AIR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.AIS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.AIW"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AIX"
+msgstr "Rakau"
+
+msgid "ISO_639-3.AJN"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AJT"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AJU"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.AKA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.AKF"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKR"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AKW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ALD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ALH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ALK"
+msgstr "Karaka"
+
+msgid "ISO_639-3.ALN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ALS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AMC"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AMH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AMK"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AML"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.AMN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Parani"
+
+msgid "ISO_639-3.AMY"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ANC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.ANK"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.ANP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.ANS"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.ANW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ANY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AOA"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.AOF"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.AOH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.AOR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.AOS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AOT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.APD"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.APF"
+msgstr "Parani"
+
+msgid "ISO_639-3.APG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.APH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.API"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.APO"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.APW"
+msgstr "Parani"
+
+msgid "ISO_639-3.AQC"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ARA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ARD"
+msgstr "Parani"
+
+msgid "ISO_639-3.ARE"
+msgstr "Parani"
+
+msgid "ISO_639-3.ARH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ARI"
+msgstr "Reo Āwherika Tatimana"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Reo Āwherika Tatimana"
+
+msgid "ISO_639-3.ARL"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ARN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.ARO"
+msgstr "Parani"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ARS"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ARY"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.ASI"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.ASK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ASO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AST"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.ATN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.ATR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ATX"
+msgstr "Parani"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AUB"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.AUC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.AUH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AUK"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.AUL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.AUR"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AVA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AVB"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.AVI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AVK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.AVN"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AVS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.AWM"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AXL"
+msgstr "Rakau"
+
+msgid "ISO_639-3.AXM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.AYA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AYH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AYI"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.AYL"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.AYN"
+msgstr "Parani"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.AZA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AZB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AZE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.BAG"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BAN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BAR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BAV"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BAY"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BBB"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BBD"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BBE"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BBF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BBG"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.BBH"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BBI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BBL"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.BBV"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BBW"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BBX"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BCF"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BCG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BCH"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BCK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BCO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.BCR"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BCT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BCW"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BCY"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BDB"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BDD"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BDE"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BDF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BDG"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BDK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BDL"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BDO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BDW"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BEG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BEH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BEK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BEL"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BEN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BEO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BEP"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BES"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BEU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BFA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BFG"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BFR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BFT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BFU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BFW"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BFX"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BFY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BGB"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BGC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BGE"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BGG"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BGK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BGN"
+msgstr "Parani"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BGR"
+msgstr "KKupu"
+
+msgid "ISO_639-3.BGU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BGW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BHA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHB"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BHD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHE"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BHG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BHH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BHP"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BHR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BHU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BHV"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BHW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BHX"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BIB"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BIC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BID"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIG"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIN"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BIP"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIU"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BIX"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BJC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BJH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BJI"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BJN"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BJR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BJS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BJV"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BJY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BKD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BKF"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.BKG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BKI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BKN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BKS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BKT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BKX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.BLD"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BLG"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BLI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BLL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BLR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BLS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BMD"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BMH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BMI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BMO"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.BMP"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BMR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BMS"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BMX"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BNB"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BNC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BND"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BNF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BNI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BNK"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.BNL"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.BNU"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BNW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.BOA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BOB"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.BOF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BOH"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BOK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BON"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BOP"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BOS"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BOT"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BOU"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BOW"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BPA"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BPG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BPH"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BPO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BPP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BPQ"
+msgstr "KKupu"
+
+msgid "ISO_639-3.BPU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BPV"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BQB"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BQH"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BQI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BQO"
+msgstr "KKupu"
+
+msgid "ISO_639-3.BQP"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BQS"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BQV"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BQX"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BRE"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BRF"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.BRG"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BRH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BRO"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BRS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BRT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BRU"
+msgstr "Parani"
+
+msgid "ISO_639-3.BRV"
+msgstr "Parani"
+
+msgid "ISO_639-3.BRW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BRX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BRY"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSB"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSC"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BSE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSG"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.BSI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BSN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BST"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BSU"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BSW"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BTA"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BTF"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BTI"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.BTR"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BTU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BTV"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BUA"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BUB"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BUC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BUG"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BUI"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BUK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BUL"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BUN"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.BUO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.BUP"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BUT"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BUW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BVA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BVB"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BVC"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.BVH"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BVK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BVN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BVO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BVP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BVR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BVT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BVU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BVV"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BVW"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BVY"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BWG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.BWI"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BWM"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BXA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BXC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BXM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.BXN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BXO"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BXR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BXS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BXU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BYA"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BYF"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BYH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.BYK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BYM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BYN"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BYR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BYS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BYW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BZA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BZD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BZF"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.BZG"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BZI"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BZO"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.BZR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BZT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.BZU"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.BZV"
+msgstr "KKupu"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.CAC"
+msgstr "Rakau"
+
+msgid "ISO_639-3.CAE"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.CAF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CAH"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CAJ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.CAK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.CAL"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.CAN"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CAR"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.CAS"
+msgstr "Parani"
+
+msgid "ISO_639-3.CAT"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CBC"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CBD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CBI"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CBK"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CBL"
+msgstr "KKupu"
+
+msgid "ISO_639-3.CBW"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CBY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CCG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.CDA"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CDE"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CDG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CDI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CDO"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CDY"
+msgstr "Rakau"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.CEA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.CEK"
+msgstr "Parani"
+
+msgid "ISO_639-3.CEN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CES"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CFD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CFM"
+msgstr "KKupu"
+
+msgid "ISO_639-3.CHC"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CHE"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CHK"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CHM"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.CHX"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CIE"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CIK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CIM"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.CIP"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CIY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.CJA"
+msgstr "Parani"
+
+msgid "ISO_639-3.CJI"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CJK"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CJM"
+msgstr "Parani"
+
+msgid "ISO_639-3.CJN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.CJS"
+msgstr "Rakau"
+
+msgid "ISO_639-3.CJV"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CJY"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CKB"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CKL"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CKN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CKT"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CKU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CKV"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CLA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.CLE"
+msgstr "KKupu"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CLL"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CLM"
+msgstr "KKupu"
+
+msgid "ISO_639-3.CLT"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CLU"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CMA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CME"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.CMG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.CML"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.CMN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.CMS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CNG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.CNH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CNK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.CNL"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.CNO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CNW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.CNX"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.COE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.COG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.COR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.COS"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.COX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.COZ"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CPI"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CPN"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CPX"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CRA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CRE"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.CRF"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CRR"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.CRX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CRY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CST"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.CSV"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CSY"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.CTC"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.CTD"
+msgstr "KKupu"
+
+msgid "ISO_639-3.CTG"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.CTH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CTS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.CTU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.CUH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CUI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.CUL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.CUU"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.CUW"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CVG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.CWB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.CWE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.CYM"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.CZH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.CZK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.CZT"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.DAC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.DAD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DAG"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DAM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DAN"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DAO"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DAR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DAV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.DAX"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DBA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.DBM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DBO"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DBW"
+msgstr "Parani"
+
+msgid "ISO_639-3.DCC"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.DEC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.DEH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.DER"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DES"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.DEU"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.DGG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.DGI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.DGK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DGL"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.DGN"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DGX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DHG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.DHN"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DHO"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.DHR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DHS"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DHU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DHX"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.DIC"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.DID"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.DIF"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DIK"
+msgstr "Parani"
+
+msgid "ISO_639-3.DIP"
+msgstr "Parani"
+
+msgid "ISO_639-3.DIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.DIS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.DIT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.DIU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.DIV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.DIW"
+msgstr "Parani"
+
+msgid "ISO_639-3.DJO"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.DJU"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.DLG"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.DLK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DLM"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.DLN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.DML"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.DMM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DMX"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.DNG"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DNV"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.DNW"
+msgstr "Parani"
+
+msgid "ISO_639-3.DOH"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.DOK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.DOO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.DOR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DOT"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DOX"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DRB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DRC"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.DRD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DRG"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.DRL"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DRS"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.DRY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DSB"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.DSI"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DSO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.DTA"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.DTY"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.DUO"
+msgstr "Parani"
+
+msgid "ISO_639-3.DUP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.DVA"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.DWA"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.DWR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.DWW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.DYA"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.DZA"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.DZG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.EAA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.EBK"
+msgstr "Parani"
+
+msgid "ISO_639-3.ECR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.EGL"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.EIV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.EKC"
+msgstr "Parani"
+
+msgid "ISO_639-3.EKG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.EKR"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.EKY"
+msgstr "Parani"
+
+msgid "ISO_639-3.ELI"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.EMG"
+msgstr "Parani"
+
+msgid "ISO_639-3.EMN"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.EMU"
+msgstr "Parani"
+
+msgid "ISO_639-3.ENA"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.ENB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ENG"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.EPO"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.ERA"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.ERG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.EST"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.ESY"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ETT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.EUS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.EYO"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.FAA"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.FAD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.FAF"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FAH"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FAP"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.FAR"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.FAS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FAT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FAX"
+msgstr "KKupu"
+
+msgid "ISO_639-3.FAY"
+msgstr "Parani"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Parani"
+
+msgid "ISO_639-3.FBL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FGR"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.FIL"
+msgstr "Parani"
+
+msgid "ISO_639-3.FIN"
+msgstr "Reo Whinarana"
+
+msgid "ISO_639-3.FIR"
+msgstr "Parani"
+
+msgid "ISO_639-3.FKV"
+msgstr "Reo Whinarana"
+
+msgid "ISO_639-3.FLI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.FLL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.FLY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FMU"
+msgstr "Parani"
+
+msgid "ISO_639-3.FNI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.FOM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.FOR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.FRA"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.FRC"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.FRK"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.FRP"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.FRR"
+msgstr "Parani"
+
+msgid "ISO_639-3.FRS"
+msgstr "Parani"
+
+msgid "ISO_639-3.FRY"
+msgstr "Parani"
+
+msgid "ISO_639-3.FUI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.FUR"
+msgstr "Parani"
+
+msgid "ISO_639-3.FUU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.GAB"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GAF"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GAH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.GAI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.GAN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.GAO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.GAT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.GBD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.GBL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GBM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GBY"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GCC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GCD"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.GCE"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.GCN"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.GDI"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GDK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GDL"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.GDN"
+msgstr "Parani"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GDT"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.GEA"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GEB"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.GEG"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GEI"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GEW"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GEX"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GGE"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GGK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.GHR"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GHT"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.GIC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GIG"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GIL"
+msgstr "Raene"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GIR"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GIW"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GJM"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GJN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.GJR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GJU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GKE"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.GKN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.GLD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.GLE"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.GLG"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.GLH"
+msgstr "Parani"
+
+msgid "ISO_639-3.GLO"
+msgstr "KKupu"
+
+msgid "ISO_639-3.GMA"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.GMU"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.GMV"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GMX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GNA"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.GNE"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GNG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.GNH"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.GNM"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GNT"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GNW"
+msgstr "Parani"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GOA"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GOF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.GOG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GPN"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GQU"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.GRB"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GRG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GRI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GRN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GRO"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GRR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.GRS"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GRT"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GRU"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.GRX"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GSP"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.GSW"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GUE"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GUM"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GUW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GVC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GVE"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.GVF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GVM"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GVR"
+msgstr "Parani"
+
+msgid "ISO_639-3.GVS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GVY"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GWA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.GWC"
+msgstr "KKupu"
+
+msgid "ISO_639-3.GWE"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GWF"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GWG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.GWR"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GWW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GWX"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GYE"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.GYI"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.GYL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GYR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.GZI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.GZN"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.HAC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.HAH"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.HAK"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.HAL"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.HAM"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HAN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.HAR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.HAS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.HAT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HBN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HBO"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HBS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HEB"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HEH"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HER"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HGW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.HHY"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.HIA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HIB"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.HIG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.HII"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.HIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.HJI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HKA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.HLA"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.HLB"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.HLT"
+msgstr "Parani"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Parani"
+
+msgid "ISO_639-3.HMO"
+msgstr "Parani"
+
+msgid "ISO_639-3.HMT"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.HMW"
+msgstr "Parani"
+
+msgid "ISO_639-3.HNI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HNU"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.HOM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.HOR"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HOV"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.HRE"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.HRO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.HRV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HRW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.HRX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.HSB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.HSN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.HUD"
+msgstr "Parani"
+
+msgid "ISO_639-3.HUK"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.HUM"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.HUN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.HUS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.HYE"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.IAI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.IAR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.IBL"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.IBY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.IDB"
+msgstr "Reo Pōtikī"
+
+msgid "ISO_639-3.IDC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.IDR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.IDS"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.IFU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.IGL"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.IGN"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.III"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.IJE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.IKL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.IKR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.IKS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ILB"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.ILI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ILK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.ILM"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.IMA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.IMO"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.IMS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.INB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.IND"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.INH"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.INN"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.IRU"
+msgstr "Parani"
+
+msgid "ISO_639-3.ISA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ISH"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.ISL"
+msgstr "Reo Tiorangi"
+
+msgid "ISO_639-3.ISM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ITA"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.ITD"
+msgstr "Parani"
+
+msgid "ISO_639-3.ITK"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.ITR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ITV"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.ITY"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.IVB"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.IVV"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.IZH"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.JAC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.JAF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.JAN"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.JAT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.JAU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.JAV"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.JAY"
+msgstr "Rakau"
+
+msgid "ISO_639-3.JBE"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.JBK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.JCT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.JDG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.JDT"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.JEB"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.JER"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.JGE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.JHI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.JIV"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.JKR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.JKU"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.JLE"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.JMB"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.JMN"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.JNI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.JNS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.JOW"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.JPN"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.JPR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.JRA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.JRB"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.JUK"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.JUL"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.JUT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.JVD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.JVN"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.JYE"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.KAE"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.KAF"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.KAI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KAK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KAT"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.KAU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KBA"
+msgstr "KKupu"
+
+msgid "ISO_639-3.KBE"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KBI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KBL"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KBP"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KBS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KBT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KBU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KBV"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KBW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KBY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.KCA"
+msgstr "Rakau"
+
+msgid "ISO_639-3.KCE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KCF"
+msgstr "Parani"
+
+msgid "ISO_639-3.KCH"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KCI"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KCP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KCQ"
+msgstr "KKupu"
+
+msgid "ISO_639-3.KCR"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.KCS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KCT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KCW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KCY"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KDC"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KDE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KDF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KDG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KDJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KDR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KDW"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KEA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KED"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.KEG"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.KEH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KEN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KER"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.KFA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KFB"
+msgstr "Parani"
+
+msgid "ISO_639-3.KFD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KFE"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KFF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KFG"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KFN"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KFR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KFS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KFT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KFW"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KFX"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KFY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KGB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KGD"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.KGE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KGL"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.KGN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KGO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KGP"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KGV"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KGW"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KHA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KHE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KHF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KHK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KHL"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KHN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.KHO"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.KHP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KHS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.KHT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KHV"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KHX"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KIB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KID"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.KIL"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KIM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KIS"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KIW"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KIX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KJC"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.KJE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KJO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Parani"
+
+msgid "ISO_639-3.KJR"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.KKI"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.KKK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KKL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KKM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KKO"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KKT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KKU"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KKV"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KKX"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.KLG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KLL"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KLM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KLN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KLP"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.KLR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KLU"
+msgstr "KKupu"
+
+msgid "ISO_639-3.KLW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KLY"
+msgstr "KKupu"
+
+msgid "ISO_639-3.KMA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KMD"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.KMH"
+msgstr "KKupu"
+
+msgid "ISO_639-3.KMK"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.KMR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KMU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KMY"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.KNC"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KND"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KNE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KNG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KNI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Parani"
+
+msgid "ISO_639-3.KNK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KOC"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KOF"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KOG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KOK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KOO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KOR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KOS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KOT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KOU"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KPD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KPK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KPR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KPS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KPT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KPY"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KQB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KQM"
+msgstr "Rakau"
+
+msgid "ISO_639-3.KQO"
+msgstr "Parani"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KQR"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.KQU"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KQY"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KRA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KRB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KRE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KRH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.KRI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KRK"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.KRL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KRM"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KRT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KRU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KRV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KRW"
+msgstr "Parani"
+
+msgid "ISO_639-3.KRX"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.KSD"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KSE"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KSF"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.KSI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KSK"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.KSL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.KSO"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KSR"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.KSV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KSX"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KTD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KTF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KTH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KTK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KTM"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KTV"
+msgstr "Parani"
+
+msgid "ISO_639-3.KUC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KUF"
+msgstr "Parani"
+
+msgid "ISO_639-3.KUH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.KUO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KUR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KUV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KVB"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KVC"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KVD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.KVI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KVL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KVP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KVV"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KVW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KWD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KWE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.KWF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KWH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KWP"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.KWW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KWY"
+msgstr "Parani"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KXA"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KXC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.KXD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KXN"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KXS"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KXV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KXW"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.KYD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KYH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KYM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KYO"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KYP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KYS"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.KYU"
+msgstr "Parani"
+
+msgid "ISO_639-3.KZA"
+msgstr "Parani"
+
+msgid "ISO_639-3.KZD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.KZE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KZG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KZL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.KZM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KZN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KZO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.KZR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.KZX"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.LAB"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.LAD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LAG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LAL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.LAR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LAT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LAV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LAY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LBA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LBC"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LBF"
+msgstr "Reo Whinarana"
+
+msgid "ISO_639-3.LBI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LBK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.LBN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LBO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LBT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LBW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LCH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LCP"
+msgstr "Parani"
+
+msgid "ISO_639-3.LDD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LDI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LDL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LDM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LDN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LEM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.LES"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.LEX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.LGG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.LGL"
+msgstr "KKupu"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LGR"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LGT"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.LHH"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LHN"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LHT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LIF"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LIM"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LIR"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.LIT"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LIU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LIW"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.LJE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LJI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LJL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LJP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LJW"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.LKB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LKC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LKD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LKE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LKI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LKM"
+msgstr "KKupu"
+
+msgid "ISO_639-3.LKN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LKO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LKS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LKT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LKU"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.LLD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LLF"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.LLH"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.LLM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LLX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LMB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LMG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LML"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LMN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LMP"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LNH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LNI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LNS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LNU"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LNW"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LOC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LOE"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.LOF"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LOG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LOH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LOL"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LPO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LRA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LRC"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LRE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LRG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LRI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LRK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LRL"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LRM"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.LRN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LRO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LSD"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LSH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.LSI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LSM"
+msgstr "KKupu"
+
+msgid "ISO_639-3.LSS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.LTG"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.LTI"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LTN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LTO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.LTS"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.LTU"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LUD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LUE"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.LUF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LUM"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LUS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.LUV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LVS"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.LWG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.LWH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LWM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.LYG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.LYN"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.LZH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.LZN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MAD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MAF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MAI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.MBC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MBE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MBF"
+msgstr "KKupu"
+
+msgid "ISO_639-3.MBK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MBP"
+msgstr "KKupu"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MBS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MBW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MCA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MCH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MCI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MCM"
+msgstr "Reo Pōtiki Parīhi"
+
+msgid "ISO_639-3.MCN"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MCP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MCS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MCT"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MDB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MDG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MDH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MDM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MDN"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MDP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MDU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MDW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MDX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MEC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MEL"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.MEM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MES"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MET"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MFA"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.MFB"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.MFE"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MFH"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.MFI"
+msgstr "KKupu"
+
+msgid "ISO_639-3.MFK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MFL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.MFP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MFR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MFT"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MFY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.MGB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MGD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MGF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MGG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.MGK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MGN"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MGP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.MGT"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MGU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MGV"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MHA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MHB"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MHC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MHE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.MHF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MHG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MHI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MHK"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.MHP"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MHS"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MHX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MIA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MIC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MID"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.MIK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MJB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MJL"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MJR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MJV"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MJW"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.MJX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MJY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MKA"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.MKD"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MKE"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MKI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MKR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MKV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MKY"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MLA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MLF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MLH"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.MLK"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.MLN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MLP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Parani"
+
+msgid "ISO_639-3.MLS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MLT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MLV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MMA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMD"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MME"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MMI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMR"
+msgstr "Parani"
+
+msgid "ISO_639-3.MMU"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.MMV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MMX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MNI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.MNL"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.MNM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MNP"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.MNS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MNW"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MOD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MOE"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MOG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MON"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MOS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MOU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOW"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOX"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.MPA"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MPC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MPD"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.MPG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MPH"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MPI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MPT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MPV"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.MPW"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MPY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MQC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MQE"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQP"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MQR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MQS"
+msgstr "Parani"
+
+msgid "ISO_639-3.MQU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MQY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Parani"
+
+msgid "ISO_639-3.MRG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Parani"
+
+msgid "ISO_639-3.MRR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MRX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MSE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MSG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MSK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MSL"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MSS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MSV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MSY"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MTL"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MTM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MTR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MTS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MTY"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MUC"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.MUI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MUK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MUO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MUP"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.MUR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MUS"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.MUT"
+msgstr "Parani"
+
+msgid "ISO_639-3.MUX"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVF"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MVO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MVU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MWI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MWK"
+msgstr "Parani"
+
+msgid "ISO_639-3.MWL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.MWR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MWT"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MWV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MWX"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MWY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MXD"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MXF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MXI"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.MXK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MXN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MXR"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.MXW"
+msgstr "KKupu"
+
+msgid "ISO_639-3.MXX"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.MYG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MYH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MYI"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.MYL"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.MYS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.MYX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MYY"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.MZE"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MZP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.MZS"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.MZT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.MZV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NAA"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.NAL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.NAN"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.NAW"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NAX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NBB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NBC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NBH"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NBN"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NBP"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NBU"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NBY"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NCB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NCC"
+msgstr "Rakau"
+
+msgid "ISO_639-3.NCE"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.NCF"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NCH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NDA"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.NDC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDF"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.NDH"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.NDM"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDP"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDS"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.NDT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NEF"
+msgstr "Raene"
+
+msgid "ISO_639-3.NEG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NEP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NER"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.NES"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NEU"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NEW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NFD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NGO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NGP"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.NGX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NGY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NHA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NHB"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.NHH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NHO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NIB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NID"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NIO"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NIR"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.NIX"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.NIY"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NJI"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.NJM"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.NJN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NKA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NKB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NKC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NKD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NKG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NKI"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NKO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NKU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NLC"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.NLD"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.NLG"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.NLI"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.NLL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NLW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NLX"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.NMA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.NMB"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.NMC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NMF"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NMG"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NMR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NMV"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NMW"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NNF"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NNG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NNM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NNO"
+msgstr "Reo Nōwei (Nynorsk)"
+
+msgid "ISO_639-3.NNY"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NOB"
+msgstr "Reo Nōwei (BokmÃ¥l)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NOF"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.NOG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NOI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NOL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NON"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NOR"
+msgstr "Parani"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NPG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NPI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NPN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NPS"
+msgstr "Parani"
+
+msgid "ISO_639-3.NQM"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.NQY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NRB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NRC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NRN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NRR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NRT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NRU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.NRZ"
+msgstr "KKupu"
+
+msgid "ISO_639-3.NSA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NSC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NSE"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NSF"
+msgstr "Parani"
+
+msgid "ISO_639-3.NSG"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.NSK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NSN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.NSS"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.NSV"
+msgstr "Parani"
+
+msgid "ISO_639-3.NSX"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NSY"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.NTD"
+msgstr "Parani"
+
+msgid "ISO_639-3.NTG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NTX"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.NTY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.NUA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.NUD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NUG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NUH"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NUN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NUR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.NUX"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.NVH"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.NWR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NXI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NXM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.NXO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NXX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.NYA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NYF"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.NYH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NYR"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.NYS"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.OAR"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.OBR"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.OBT"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.OCA"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.OCH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.OCO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ODT"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.OFS"
+msgstr "Parani"
+
+msgid "ISO_639-3.OGE"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.OGO"
+msgstr "Rakau"
+
+msgid "ISO_639-3.OHU"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.OIA"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.OJB"
+msgstr "Parani"
+
+msgid "ISO_639-3.OJP"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.OJW"
+msgstr "Parani"
+
+msgid "ISO_639-3.OKD"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.OKK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.OKL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.OKR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.OKV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.OLD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.OLR"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.OLT"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.OLU"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.OMN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.OMP"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.OMR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ONB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ONP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ONR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ONW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.OOS"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.ORC"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.ORI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ORT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ORV"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.OSC"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.OSI"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.OSP"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.OSS"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.OSX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.OTB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.OTD"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.OTK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.OTY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.OWL"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.OYM"
+msgstr "KKupu"
+
+msgid "ISO_639-3.PAG"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PAH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PAO"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PAR"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PAS"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PAT"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.PAY"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.PBI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PBN"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.PBO"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PBR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PCF"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PCG"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PCH"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.PCI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PCK"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.PCL"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PDI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PDN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.PDU"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PEA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.PEE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PEF"
+msgstr "Parani"
+
+msgid "ISO_639-3.PEG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.PEH"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PEK"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.PEL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PES"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.PFL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PGG"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PGI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.PGN"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.PGS"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PHH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.PHN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.PHQ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.PHT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PHU"
+msgstr "Rakau"
+
+msgid "ISO_639-3.PHV"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PIC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PII"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PIM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.PIP"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.PIV"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PKT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PLA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PLD"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLE"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLH"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLP"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLU"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.PMB"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PMD"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PMK"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PMS"
+msgstr "Raene"
+
+msgid "ISO_639-3.PMY"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.PNB"
+msgstr "Parani"
+
+msgid "ISO_639-3.PNC"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PNE"
+msgstr "Parani"
+
+msgid "ISO_639-3.PNG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PNL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PNP"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PNR"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PNS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PNT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.PNX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.PNY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.POC"
+msgstr "Rakau"
+
+msgid "ISO_639-3.POL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PON"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.POR"
+msgstr "Reo Pōtikī"
+
+msgid "ISO_639-3.POX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.PPE"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PPI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.PPT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PRB"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.PRC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PRF"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PRG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.PRI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PRM"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.PRP"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PRR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.PRT"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PRU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.PRW"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.PSH"
+msgstr "Parani"
+
+msgid "ISO_639-3.PSI"
+msgstr "Parani"
+
+msgid "ISO_639-3.PSN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.PTN"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.PTR"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PTU"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.PTY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.PUP"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.PUT"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.PUW"
+msgstr "Reo Pōtikī"
+
+msgid "ISO_639-3.PUX"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.PWA"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PWB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PWN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.PWO"
+msgstr "Parani"
+
+msgid "ISO_639-3.PWR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.PZN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.QYP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.RAC"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.RAF"
+msgstr "Parani"
+
+msgid "ISO_639-3.RAG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.RAL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.RAM"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.RAN"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RAQ"
+msgstr "KKupu"
+
+msgid "ISO_639-3.RAR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RAS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.RAX"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RES"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.RGA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RGN"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RHG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RHP"
+msgstr "Rakau"
+
+msgid "ISO_639-3.RIA"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RJG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RJI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.RKI"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.RKM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.RKT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.RKW"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.RMA"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMB"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.RMH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.RMI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.RMK"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RML"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMO"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.RMU"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMV"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMW"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMX"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMY"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.RNG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RNL"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RNN"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RNP"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.RNR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ROD"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.ROE"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.ROG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ROH"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.ROL"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.ROM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RON"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.ROR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.RPT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.RRI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.RSB"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RSM"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.RTC"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.RTH"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.RTM"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RTS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.RUC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.RUE"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.RUG"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RUK"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.RUO"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RUP"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RUS"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.RWO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.RWR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.RXD"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.RXW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SAB"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.SAC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SAE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SAK"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SAM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SAO"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.SAU"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SAX"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SAY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SBE"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.SBL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SBM"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.SBS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SBV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SBX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SBY"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.SCE"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SCH"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SCK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SCL"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SCN"
+msgstr "Parani"
+
+msgid "ISO_639-3.SCV"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SCW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SCX"
+msgstr "Parani"
+
+msgid "ISO_639-3.SDB"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SDC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SDF"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.SDH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SDK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SDN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SDR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SED"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SEH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SEI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SEK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.SEO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SER"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SET"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Parani"
+
+msgid "ISO_639-3.SGB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SGC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SGD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SGE"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SGK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SGM"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SGR"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SGS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SGY"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHC"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SHE"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHL"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHO"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHQ"
+msgstr "KKupu"
+
+msgid "ISO_639-3.SHR"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHT"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SHU"
+msgstr "Parani"
+
+msgid "ISO_639-3.SHV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SHW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SHY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SIB"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.SIH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SIK"
+msgstr "Parani"
+
+msgid "ISO_639-3.SIN"
+msgstr "Raene"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SIU"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SIV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SIX"
+msgstr "Parani"
+
+msgid "ISO_639-3.SJP"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SJW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SKB"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SKC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SKH"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SKI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SKK"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SKM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SKR"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SKS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SKY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SLE"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SLI"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.SLK"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SLN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SLT"
+msgstr "Parani"
+
+msgid "ISO_639-3.SLU"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.SLV"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SMB"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SME"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.SMH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SMK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SMM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SMN"
+msgstr "Parani"
+
+msgid "ISO_639-3.SMP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Parani"
+
+msgid "ISO_639-3.SMU"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.SMY"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SNA"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SNF"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SNH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SNK"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SNL"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SNN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SNO"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.SNP"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.SNR"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SNU"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SNV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SOA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SOD"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SOG"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.SOH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SOI"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SOO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SOP"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SOR"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SOS"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.SOW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SOX"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SPA"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.SPB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SPG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SPI"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SPK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SPS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.SPU"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.SPV"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SQH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SQI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SQM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SQR"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.SQU"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.SRA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SRB"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SRC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SRD"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SRE"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SRF"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SRI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SRN"
+msgstr "Parani"
+
+msgid "ISO_639-3.SRO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.SRP"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SRS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SRT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SRW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SRY"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SSD"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.SSE"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.SSF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SSG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SSH"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.SSI"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SSK"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SSL"
+msgstr "Parani"
+
+msgid "ISO_639-3.SSN"
+msgstr "KKupu"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SST"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.SSU"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.SSY"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.STB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.STD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.STH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.STK"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.STM"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.STO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SUC"
+msgstr "Parani"
+
+msgid "ISO_639-3.SUE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SUX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SVA"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SVE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SVX"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.SWE"
+msgstr "Reo Wītana"
+
+msgid "ISO_639-3.SWF"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.SWG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SWK"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.SWM"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.SWO"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SWP"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.SWS"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.SWW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SXC"
+msgstr "Parani"
+
+msgid "ISO_639-3.SXL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SXM"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.SXN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.SXS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.SYA"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.SYB"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.SYM"
+msgstr "KKupu"
+
+msgid "ISO_639-3.SYR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SYX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.SZL"
+msgstr "Parani"
+
+msgid "ISO_639-3.SZN"
+msgstr "Karaka"
+
+msgid "ISO_639-3.SZW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.TAA"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.TAD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TAE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TAG"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TAH"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TAK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TAL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TAM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TAO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TAU"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.TAW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TAX"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TBA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TBC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TBE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TBG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TBI"
+msgstr "KKupu"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TBO"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.TBX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TCC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.TCD"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.TCP"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TCY"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.TDB"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.TDG"
+msgstr "Parani"
+
+msgid "ISO_639-3.TDH"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TDI"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TDM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TEC"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TEH"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.TEK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TEY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TFN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.TGB"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.TGC"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TGD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.TGK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TGN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TGR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TGX"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.THA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.THE"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.THF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.THN"
+msgstr "Parani"
+
+msgid "ISO_639-3.THR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.THS"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.THT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.THU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.THW"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.THY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TIC"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TIF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TIG"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TII"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TIK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TIM"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TIN"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TIP"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TIU"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TJL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TKB"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TLD"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TLH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TLK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TLO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TLR"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.TLT"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TLU"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TLV"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TLX"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.TMC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TMD"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.TMK"
+msgstr "Parani"
+
+msgid "ISO_639-3.TMN"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TMS"
+msgstr "Parani"
+
+msgid "ISO_639-3.TMW"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.TMY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TNA"
+msgstr "Parani"
+
+msgid "ISO_639-3.TNB"
+msgstr "Parani"
+
+msgid "ISO_639-3.TNG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TNH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.TNI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TNM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TOD"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.TOH"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TOM"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TOW"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.TOX"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.TPF"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TPM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TPY"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TQL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TQT"
+msgstr "Parani"
+
+msgid "ISO_639-3.TRA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.TRD"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TRE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TRH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TRM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TRR"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.TRT"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TSB"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TSD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TSH"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TSI"
+msgstr "Parani"
+
+msgid "ISO_639-3.TSV"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.TSW"
+msgstr "Parani"
+
+msgid "ISO_639-3.TSX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.TTB"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.TTG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.TTI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TTR"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.TTS"
+msgstr "Parani"
+
+msgid "ISO_639-3.TTV"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TTW"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.TUH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TUI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TUL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TUR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TUY"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TVD"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TVL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.TVO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.TVW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.TWB"
+msgstr "Parani"
+
+msgid "ISO_639-3.TWE"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.TWF"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TWL"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.TWM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.TWN"
+msgstr "Reo Wītana"
+
+msgid "ISO_639-3.TWU"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.TWW"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.TXA"
+msgstr "Reo Pākehā - Ingarangi"
+
+msgid "ISO_639-3.TXB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TXH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TXM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TXN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.TXR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TXX"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.TYE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TYN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.TZH"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TZL"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.TZO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.TZX"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.UAN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.UDG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.UDL"
+msgstr "KKupu"
+
+msgid "ISO_639-3.UGO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.UHA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.UHN"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.UIS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.UKA"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.UKR"
+msgstr "Parani"
+
+msgid "ISO_639-3.ULI"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.ULK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.ULW"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.UMC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.UMN"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.UNG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.UNM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.UNN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.UNR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.UNU"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.UNX"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.URA"
+msgstr "Parani"
+
+msgid "ISO_639-3.URC"
+msgstr "Parani"
+
+msgid "ISO_639-3.URF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.URG"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.URL"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.URM"
+msgstr "Parani"
+
+msgid "ISO_639-3.URN"
+msgstr "Parani"
+
+msgid "ISO_639-3.URT"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.USP"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.UTA"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.VAF"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.VAN"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.VAS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.VAV"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.VBK"
+msgstr "Parani"
+
+msgid "ISO_639-3.VEC"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.VER"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.VGR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.VIE"
+msgstr "Raene"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.VKK"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.VKO"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.VKP"
+msgstr "Reo Pōtiki Parīhi"
+
+msgid "ISO_639-3.VLP"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.VMA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.VMB"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.VMD"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.VME"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.VMG"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.VMH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.VML"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.VMR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.VNK"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.VRA"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.VRS"
+msgstr "Parani"
+
+msgid "ISO_639-3.VRT"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.WAE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WAI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WAL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.WAN"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WAO"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.WAS"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WAV"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WAW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WAX"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WBA"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WBB"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WBF"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WBI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WBK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WBL"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WDK"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.WEH"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WET"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.WEU"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.WGI"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WHG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WHU"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WII"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.WJA"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WJI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WKB"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.WKL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WKU"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.WLA"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WLE"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WLG"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.WLI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.WLK"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WLN"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WLR"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WLS"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.WLW"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WLY"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.WMC"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WMD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.WMI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.WMM"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.WMS"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WMW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WMX"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.WNN"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.WNO"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WOC"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.WOD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WOE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.WOF"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.WOK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.WON"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.WOO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.WPC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WRB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WRK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WRN"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.WRO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.WRP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.WRS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WRY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WSI"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.WSK"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.WSS"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.WSU"
+msgstr "RakauTukutuku"
+
+msgid "ISO_639-3.WTM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WUU"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.WWA"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WWB"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WWR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.WWW"
+msgstr "KKupu"
+
+msgid "ISO_639-3.WXW"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.WYY"
+msgstr "Parani"
+
+msgid "ISO_639-3.XAB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XAC"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XAD"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.XAE"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.XAG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.XAL"
+msgstr "KKupu"
+
+msgid "ISO_639-3.XAO"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.XAR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XAU"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.XBC"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.XBD"
+msgstr "KKupu"
+
+msgid "ISO_639-3.XBE"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.XBG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XBM"
+msgstr "Reo Parani Uropi-Īnia"
+
+msgid "ISO_639-3.XBN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XBO"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.XBY"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.XCL"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.XCO"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.XCR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XCU"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XCY"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.XDA"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XDC"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.XDY"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.XFA"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.XGA"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.XGD"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.XGG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XGI"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XGL"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.XGM"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XGR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.XHA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.XHE"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XHO"
+msgstr "Rakau"
+
+msgid "ISO_639-3.XHR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XHU"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.XHV"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XIB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XII"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XIL"
+msgstr "Reo Itari"
+
+msgid "ISO_639-3.XIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XIS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XJT"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XKE"
+msgstr "Reo Hūrai"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XKT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XKX"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XKY"
+msgstr "Parani"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XLC"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XLD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XLE"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.XLI"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.XLN"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XLS"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.XMB"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XME"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XMF"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XMK"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XMO"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XMT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XMU"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.XMX"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XNG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XNH"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XNI"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.XNK"
+msgstr "Reo Hanekari"
+
+msgid "ISO_639-3.XNN"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XNR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XNS"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.XNT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XOD"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XOG"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.XON"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XOP"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XOW"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XPA"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XPC"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.XPG"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XPI"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.XPR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XPS"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XQA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XQT"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XRE"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.XRG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XRM"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.XRN"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XRU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XRW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XSB"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XSC"
+msgstr "Rakau"
+
+msgid "ISO_639-3.XSE"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.XSH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.XSM"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XSO"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.XSR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XSS"
+msgstr "Reo Ruhia"
+
+msgid "ISO_639-3.XSV"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.XTO"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XTV"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XTW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.XUM"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.XUN"
+msgstr "Parani"
+
+msgid "ISO_639-3.XUR"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.XUU"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XVI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.XVO"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.XVS"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.XWA"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.XWC"
+msgstr "KKupu"
+
+msgid "ISO_639-3.XWK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XXB"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.XXR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XXT"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.XYB"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.XYL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.XZM"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YAK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YAN"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YAP"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.YBA"
+msgstr "KKupu"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.YBK"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.YBM"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.YCH"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.YCL"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.YCP"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.YDA"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.YEC"
+msgstr "Reo Parani"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Reo Tiorangi"
+
+msgid "ISO_639-3.YER"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.YES"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.YGA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YGI"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.YGP"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.YGR"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.YGS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.YGW"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YHA"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.YHD"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.YHS"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.YIF"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.YIH"
+msgstr "Parani"
+
+msgid "ISO_639-3.YIM"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.YIP"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YIR"
+msgstr "Parani"
+
+msgid "ISO_639-3.YIU"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.YIX"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.YKA"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.YKL"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.YKM"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.YKO"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.YKT"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.YKU"
+msgstr "Tūparu"
+
+msgid "ISO_639-3.YLB"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.YLE"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.YLM"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.YLO"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.YMB"
+msgstr "Reo Hapana"
+
+msgid "ISO_639-3.YMD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YMH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YMI"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YMO"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.YMR"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.YMS"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.YNE"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.YNG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YNO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YNS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YOG"
+msgstr "Reo Etonia"
+
+msgid "ISO_639-3.YOI"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.YOL"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.YON"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YPA"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.YPG"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.YPH"
+msgstr "Rakau"
+
+msgid "ISO_639-3.YPM"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YPO"
+msgstr "Reo Pōrana"
+
+msgid "ISO_639-3.YPP"
+msgstr "Rakau"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.YRY"
+msgstr "Reo Peina Raki Rāwhiti"
+
+msgid "ISO_639-3.YSD"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.YSN"
+msgstr "Reo Peina"
+
+msgid "ISO_639-3.YSY"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.YTA"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.YTL"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YTP"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.YUC"
+msgstr "Reo Tenemaka"
+
+msgid "ISO_639-3.YUD"
+msgstr "Reo Arapia"
+
+msgid "ISO_639-3.YUE"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.YUL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.YUT"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.YVA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YWL"
+msgstr "Parani"
+
+msgid "ISO_639-3.YXA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.YXG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Reo Koroātia"
+
+msgid "ISO_639-3.YZG"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.YZK"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "KKupu"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Reo Tiamana"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Parani"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Reo Purukeria"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Tapatoru"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Reo Romeinia"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Reo Īnia tonga"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Reo Ītariana"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZML"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Reo Makerōnia"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Reo Kariki"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Kaupapa"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Purukeria"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Reo Airana"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Rakau"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Reo Hāina"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Reo Māori"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Rakau"

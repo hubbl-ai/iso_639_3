@@ -1,0 +1,912 @@
+# Translation of ISO 639-3 (language names) to Bulgarian
+# Copyright (C) 2010-2013 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Roumen Petrov <transl@roumenpetrov.info>, 2010-2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-08-21 23:24+0300\n"
+"Last-Translator: Roumen Petrov <transl@roumenpetrov.info>\n"
+"Language-Team: Bulgarian <dict@ludost.net>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_639-3.AAR"
+msgstr "Афар"
+
+msgid "ISO_639-3.ABK"
+msgstr "Абхазки"
+
+msgid "ISO_639-3.ACE"
+msgstr "Ачински"
+
+msgid "ISO_639-3.ACH"
+msgstr "Аколи"
+
+msgid "ISO_639-3.ADA"
+msgstr "Адангме"
+
+msgid "ISO_639-3.ADY"
+msgstr "Адиге"
+
+msgid "ISO_639-3.AEE"
+msgstr "североизточна динка"
+
+msgid "ISO_639-3.AFH"
+msgstr "Африхили"
+
+msgid "ISO_639-3.AFR"
+msgstr "Африканс"
+
+msgid "ISO_639-3.AIB"
+msgstr "Аину (Китай)"
+
+msgid "ISO_639-3.AKA"
+msgstr "Акан"
+
+msgid "ISO_639-3.AKK"
+msgstr "Акадски"
+
+msgid "ISO_639-3.ALE"
+msgstr "Южно-алтайски"
+
+msgid "ISO_639-3.AMH"
+msgstr "Амхарски"
+
+msgid "ISO_639-3.ANG"
+msgstr "Староанглийски (ок. 450-1100)"
+
+msgid "ISO_639-3.ARA"
+msgstr "Арабски"
+
+msgid "ISO_639-3.ARC"
+msgstr "Арамейски"
+
+msgid "ISO_639-3.ARG"
+msgstr "Арагонски"
+
+msgid "ISO_639-3.ARP"
+msgstr "Арапахо"
+
+msgid "ISO_639-3.ARW"
+msgstr "Аравакски"
+
+msgid "ISO_639-3.ARZ"
+msgstr "Египетски арабски"
+
+msgid "ISO_639-3.ASM"
+msgstr "Асамски"
+
+msgid "ISO_639-3.AST"
+msgstr "Астурийски"
+
+msgid "ISO_639-3.ATO"
+msgstr "Северноалтайски"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Узбекски арабски"
+
+msgid "ISO_639-3.AVA"
+msgstr "Аварски"
+
+msgid "ISO_639-3.AVE"
+msgstr "Авестийски"
+
+msgid "ISO_639-3.AWA"
+msgstr "Авадхи"
+
+msgid "ISO_639-3.AXM"
+msgstr "Средновековен арменски"
+
+msgid "ISO_639-3.AYL"
+msgstr "Либийски арабски"
+
+msgid "ISO_639-3.AYM"
+msgstr "Аймараски"
+
+msgid "ISO_639-3.AYR"
+msgstr "Централен аймараски"
+
+msgid "ISO_639-3.AZB"
+msgstr "Южноазербайджански"
+
+msgid "ISO_639-3.AZE"
+msgstr "Азербайджански"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Азербайджански"
+
+msgid "ISO_639-3.BAK"
+msgstr "Башкирски"
+
+msgid "ISO_639-3.BAL"
+msgstr "Балучи"
+
+msgid "ISO_639-3.BAM"
+msgstr "Бамбара"
+
+msgid "ISO_639-3.BAN"
+msgstr "Балинески"
+
+msgid "ISO_639-3.BAS"
+msgstr "Баса (Камерун)"
+
+msgid "ISO_639-3.BEJ"
+msgstr "Бея"
+
+msgid "ISO_639-3.BEL"
+msgstr "Белоруски"
+
+msgid "ISO_639-3.BEM"
+msgstr "Бемба (Замбия)"
+
+msgid "ISO_639-3.BEN"
+msgstr "Бенгалски"
+
+msgid "ISO_639-3.BHO"
+msgstr "Бходжури"
+
+msgid "ISO_639-3.BIK"
+msgstr "Бикол"
+
+msgid "ISO_639-3.BIN"
+msgstr "Бини"
+
+msgid "ISO_639-3.BIS"
+msgstr "Бислама"
+
+msgid "ISO_639-3.BLA"
+msgstr "Сиксика"
+
+msgid "ISO_639-3.BOD"
+msgstr "Тибетски"
+
+msgid "ISO_639-3.BOS"
+msgstr "Босненски"
+
+msgid "ISO_639-3.BRA"
+msgstr "Брая"
+
+msgid "ISO_639-3.BRE"
+msgstr "Бретонски"
+
+msgid "ISO_639-3.BUA"
+msgstr "Бурятски"
+
+msgid "ISO_639-3.BUG"
+msgstr "Бугинески"
+
+msgid "ISO_639-3.BUL"
+msgstr "Български"
+
+msgid "ISO_639-3.CAD"
+msgstr "Карибски"
+
+msgid "ISO_639-3.CAT"
+msgstr "Каталонски"
+
+msgid "ISO_639-3.CEB"
+msgstr "Кебуано"
+
+msgid "ISO_639-3.CES"
+msgstr "Чешки"
+
+msgid "ISO_639-3.CHA"
+msgstr "Чаморо"
+
+msgid "ISO_639-3.CHB"
+msgstr "Чибча"
+
+msgid "ISO_639-3.CHE"
+msgstr "Чеченски"
+
+msgid "ISO_639-3.CHG"
+msgstr "Чагатайски"
+
+msgid "ISO_639-3.CHK"
+msgstr "Чухски"
+
+msgid "ISO_639-3.CHM"
+msgstr "Мари (Русия)"
+
+msgid "ISO_639-3.CHN"
+msgstr "Чинукски диалект"
+
+msgid "ISO_639-3.CHO"
+msgstr "Чокто"
+
+msgid "ISO_639-3.CHP"
+msgstr "Чиипувски"
+
+msgid "ISO_639-3.CHR"
+msgstr "Черокски"
+
+msgid "ISO_639-3.CHU"
+msgstr "Черковнославянски"
+
+msgid "ISO_639-3.CHV"
+msgstr "Чувашки"
+
+msgid "ISO_639-3.CHY"
+msgstr "Чейенски"
+
+msgid "ISO_639-3.CKB"
+msgstr "Централно-кюрдски"
+
+msgid "ISO_639-3.CKT"
+msgstr "Чукски"
+
+msgid "ISO_639-3.CMG"
+msgstr "Старомонголски"
+
+msgid "ISO_639-3.CNX"
+msgstr "Средновековен корнуелски"
+
+msgid "ISO_639-3.COP"
+msgstr "Коптски"
+
+msgid "ISO_639-3.COR"
+msgstr "Корнуелски"
+
+msgid "ISO_639-3.COS"
+msgstr "Корсикански"
+
+msgid "ISO_639-3.CRE"
+msgstr "Кри"
+
+msgid "ISO_639-3.CRH"
+msgstr "Кримскотатарски"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Югоизточен кри"
+
+msgid "ISO_639-3.CSB"
+msgstr "Кашубски"
+
+msgid "ISO_639-3.DAK"
+msgstr "Дакотски"
+
+msgid "ISO_639-3.DAN"
+msgstr "Датски"
+
+msgid "ISO_639-3.DAR"
+msgstr "Даргински"
+
+msgid "ISO_639-3.DEU"
+msgstr "Германски"
+
+msgid "ISO_639-3.DIB"
+msgstr "южна и централна динка"
+
+msgid "ISO_639-3.DIK"
+msgstr "югозападна динка"
+
+msgid "ISO_639-3.DIN"
+msgstr "Динка"
+
+msgid "ISO_639-3.DIP"
+msgstr "североизточна динка"
+
+msgid "ISO_639-3.DIV"
+msgstr "Дхивехи"
+
+msgid "ISO_639-3.DIW"
+msgstr "северозападна динка"
+
+msgid "ISO_639-3.DKS"
+msgstr "североизточна динка"
+
+msgid "ISO_639-3.DOI"
+msgstr "Догри, езикова група"
+
+msgid "ISO_639-3.DSB"
+msgstr "Сръбски"
+
+msgid "ISO_639-3.DUM"
+msgstr "Средновековен холандски (ок. 1050-1350)"
+
+msgid "ISO_639-3.DZO"
+msgstr "Дзонгкхамски"
+
+msgid "ISO_639-3.EGY"
+msgstr "Египетски (античен)"
+
+msgid "ISO_639-3.EKK"
+msgstr "Естонски"
+
+msgid "ISO_639-3.ELL"
+msgstr "Гръцки (1453-)"
+
+msgid "ISO_639-3.ENG"
+msgstr "Английски"
+
+msgid "ISO_639-3.ENM"
+msgstr "Средновековен английски (1100-1500)"
+
+msgid "ISO_639-3.EPO"
+msgstr "Есперанто"
+
+msgid "ISO_639-3.EST"
+msgstr "Естонски"
+
+msgid "ISO_639-3.EUS"
+msgstr "Баски"
+
+msgid "ISO_639-3.EWE"
+msgstr "Еве"
+
+msgid "ISO_639-3.EWO"
+msgstr "Евондо"
+
+msgid "ISO_639-3.FAO"
+msgstr "Фарьорски"
+
+msgid "ISO_639-3.FAS"
+msgstr "Персийски (Фарси)"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Фиджийски"
+
+msgid "ISO_639-3.FIN"
+msgstr "Фински"
+
+msgid "ISO_639-3.FKV"
+msgstr "Севернофински"
+
+msgid "ISO_639-3.FRA"
+msgstr "Френски"
+
+msgid "ISO_639-3.FRM"
+msgstr "Средновековен френски (ок. 1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "Западно-фризски"
+
+msgid "ISO_639-3.FUR"
+msgstr "Фриулиански"
+
+msgid "ISO_639-3.GAA"
+msgstr "Га"
+
+msgid "ISO_639-3.GJN"
+msgstr "Шотландски гаелски"
+
+msgid "ISO_639-3.GLE"
+msgstr "Ирландски"
+
+msgid "ISO_639-3.GLG"
+msgstr "Галисийски"
+
+msgid "ISO_639-3.GLH"
+msgstr "северозападна динка"
+
+msgid "ISO_639-3.GMH"
+msgstr "Средновековен германски (ок. 1050-1500)"
+
+msgid "ISO_639-3.GOH"
+msgstr "Ранносредновековен германски (ок. 750-1050)"
+
+msgid "ISO_639-3.GOT"
+msgstr "Готски"
+
+msgid "ISO_639-3.GRC"
+msgstr "Старогръцки (до 1453)"
+
+msgid "ISO_639-3.GRN"
+msgstr "Гуарански"
+
+msgid "ISO_639-3.GSW"
+msgstr "Германски (Швейцария)"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Гуджаратски"
+
+msgid "ISO_639-3.HAW"
+msgstr "Хавайски"
+
+msgid "ISO_639-3.HBO"
+msgstr "Староивритски"
+
+msgid "ISO_639-3.HEB"
+msgstr "Иврит"
+
+msgid "ISO_639-3.HIL"
+msgstr "Хилигайнон"
+
+msgid "ISO_639-3.HIN"
+msgstr "Хинди"
+
+msgid "ISO_639-3.HIT"
+msgstr "Хетски"
+
+msgid "ISO_639-3.HRV"
+msgstr "Горнолужишки"
+
+msgid "ISO_639-3.HTX"
+msgstr "Хетски (средно царство)"
+
+msgid "ISO_639-3.HUN"
+msgstr "Унгарски"
+
+msgid "ISO_639-3.HYE"
+msgstr "Арменски"
+
+msgid "ISO_639-3.IDO"
+msgstr "Идо"
+
+msgid "ISO_639-3.IKU"
+msgstr "Инуктитут"
+
+msgid "ISO_639-3.IND"
+msgstr "Индонезийски"
+
+msgid "ISO_639-3.INH"
+msgstr "Ингушки"
+
+msgid "ISO_639-3.ISL"
+msgstr "Исландски"
+
+msgid "ISO_639-3.ITA"
+msgstr "Италиански"
+
+msgid "ISO_639-3.ITD"
+msgstr "Южносаамски"
+
+msgid "ISO_639-3.JAV"
+msgstr "Явански"
+
+msgid "ISO_639-3.JPN"
+msgstr "Японски"
+
+msgid "ISO_639-3.JPR"
+msgstr "Еврейскоперсийски"
+
+msgid "ISO_639-3.JRB"
+msgstr "Еврейскоарабски"
+
+msgid "ISO_639-3.JVN"
+msgstr "Карибско-явайски"
+
+msgid "ISO_639-3.JYE"
+msgstr "Еврейскоарабски"
+
+msgid "ISO_639-3.KAT"
+msgstr "Грузински"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Казахски"
+
+msgid "ISO_639-3.KHG"
+msgstr "Хамско-тибетски"
+
+msgid "ISO_639-3.KHK"
+msgstr "Кхмерски"
+
+msgid "ISO_639-3.KIR"
+msgstr "Киргизки"
+
+msgid "ISO_639-3.KMR"
+msgstr "Севернокюрдски"
+
+msgid "ISO_639-3.KON"
+msgstr "Конгоански"
+
+msgid "ISO_639-3.KOR"
+msgstr "Корейски"
+
+msgid "ISO_639-3.KRC"
+msgstr "Карачаевобалкарски"
+
+msgid "ISO_639-3.KRL"
+msgstr "Карелски"
+
+msgid "ISO_639-3.KUR"
+msgstr "Кюрдски"
+
+msgid "ISO_639-3.KXM"
+msgstr "Севернокхмерски"
+
+msgid "ISO_639-3.LAO"
+msgstr "Лаоски"
+
+msgid "ISO_639-3.LAT"
+msgstr "Латински"
+
+msgid "ISO_639-3.LAV"
+msgstr "Латвийски"
+
+msgid "ISO_639-3.LIM"
+msgstr "Лимбургски"
+
+msgid "ISO_639-3.LIT"
+msgstr "Литовски"
+
+msgid "ISO_639-3.LTZ"
+msgstr "Люксембургски"
+
+msgid "ISO_639-3.LVS"
+msgstr "Стандартен латвийски"
+
+msgid "ISO_639-3.LZH"
+msgstr "Литературен китайски"
+
+msgid "ISO_639-3.MAH"
+msgstr "Маршалски"
+
+msgid "ISO_639-3.MGA"
+msgstr "Средновековен ирландски (900-1200)"
+
+msgid "ISO_639-3.MKD"
+msgstr "Македонски"
+
+msgid "ISO_639-3.MLG"
+msgstr "Малгашки"
+
+msgid "ISO_639-3.MLT"
+msgstr "Малтийски"
+
+msgid "ISO_639-3.MON"
+msgstr "Монголски"
+
+msgid "ISO_639-3.MRI"
+msgstr "Маорски"
+
+msgid "ISO_639-3.MSA"
+msgstr "Малайски"
+
+msgid "ISO_639-3.MVF"
+msgstr "Крайграничен монголски"
+
+msgid "ISO_639-3.MYA"
+msgstr "Бирмански"
+
+msgid "ISO_639-3.NAP"
+msgstr "Неаполитански"
+
+msgid "ISO_639-3.NAU"
+msgstr "Науруански"
+
+msgid "ISO_639-3.NAV"
+msgstr "Навахо"
+
+msgid "ISO_639-3.NDS"
+msgstr "Долносаксонски"
+
+msgid "ISO_639-3.NEI"
+msgstr "Хетски (ново царство)"
+
+msgid "ISO_639-3.NEP"
+msgstr "Непалски"
+
+msgid "ISO_639-3.NLD"
+msgstr "Холандски"
+
+msgid "ISO_639-3.NNO"
+msgstr "Норвежки Нинорск"
+
+msgid "ISO_639-3.NOB"
+msgstr "Норвежки Букмол"
+
+msgid "ISO_639-3.NOR"
+msgstr "Норвежки"
+
+msgid "ISO_639-3.NTD"
+msgstr "Северносаамски"
+
+msgid "ISO_639-3.OAR"
+msgstr "Староарамейски (до 700 пр.н.е.)"
+
+msgid "ISO_639-3.OBR"
+msgstr "Старобирмански"
+
+msgid "ISO_639-3.OBT"
+msgstr "Старобретонски"
+
+msgid "ISO_639-3.OCH"
+msgstr "Старокитайски"
+
+msgid "ISO_639-3.OCI"
+msgstr "Окситански (след 1500)"
+
+msgid "ISO_639-3.OCO"
+msgstr "Старокорнуелски"
+
+msgid "ISO_639-3.ODT"
+msgstr "Старохоландски"
+
+msgid "ISO_639-3.OGE"
+msgstr "СТарогрузински"
+
+msgid "ISO_639-3.OHT"
+msgstr "Хетски (старо царство)"
+
+msgid "ISO_639-3.OHU"
+msgstr "Староунгарски"
+
+msgid "ISO_639-3.OJP"
+msgstr "Старояпонски"
+
+msgid "ISO_639-3.OLT"
+msgstr "Литовски"
+
+msgid "ISO_639-3.OLU"
+msgstr "Тувалуански"
+
+msgid "ISO_639-3.ORV"
+msgstr "Староруски"
+
+msgid "ISO_639-3.OSP"
+msgstr "Староиспански"
+
+msgid "ISO_639-3.OSX"
+msgstr "Старосаксонски"
+
+msgid "ISO_639-3.OTA"
+msgstr "Османски турски (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "Старотибетски"
+
+msgid "ISO_639-3.OTK"
+msgstr "Старотурски"
+
+msgid "ISO_639-3.OTY"
+msgstr "Старотамилски"
+
+msgid "ISO_639-3.PEO"
+msgstr "Староперсийски (ок. 600-400 пр.н.е.)"
+
+msgid "ISO_639-3.PES"
+msgstr "Персийски (Иран)"
+
+msgid "ISO_639-3.PLI"
+msgstr "Палийски"
+
+msgid "ISO_639-3.PLT"
+msgstr "Малгашки"
+
+msgid "ISO_639-3.POL"
+msgstr "Полски"
+
+msgid "ISO_639-3.POR"
+msgstr "Португалски"
+
+msgid "ISO_639-3.PRO"
+msgstr "Старопровансалски (до 1500)"
+
+msgid "ISO_639-3.PSH"
+msgstr "югозападна динка"
+
+msgid "ISO_639-3.PSI"
+msgstr "североизточна динка"
+
+msgid "ISO_639-3.PUS"
+msgstr "Пущунски"
+
+msgid "ISO_639-3.QUE"
+msgstr "Кечуански"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Кечуански (Куско)"
+
+msgid "ISO_639-3.QVP"
+msgstr "Кечуански (Паракас)"
+
+msgid "ISO_639-3.QXC"
+msgstr "Кечуански (Чинча)"
+
+msgid "ISO_639-3.QXP"
+msgstr "Кечуански (Пуно)"
+
+msgid "ISO_639-3.RMC"
+msgstr "Карпатски цигански"
+
+msgid "ISO_639-3.RMF"
+msgstr "Финландски цигански"
+
+msgid "ISO_639-3.RML"
+msgstr "Балтийски цигански"
+
+msgid "ISO_639-3.RMN"
+msgstr "Балкански цигански"
+
+msgid "ISO_639-3.RMO"
+msgstr "Синтски цигански"
+
+msgid "ISO_639-3.RMW"
+msgstr "Уелски цигански"
+
+msgid "ISO_639-3.RMY"
+msgstr "Влашки цигански"
+
+msgid "ISO_639-3.ROH"
+msgstr "Романски"
+
+msgid "ISO_639-3.ROM"
+msgstr "Цигански"
+
+msgid "ISO_639-3.RON"
+msgstr "Румънски"
+
+msgid "ISO_639-3.RUS"
+msgstr "Руски"
+
+msgid "ISO_639-3.SAN"
+msgstr "Санскритски"
+
+msgid "ISO_639-3.SCN"
+msgstr "Сицилиянски"
+
+msgid "ISO_639-3.SDC"
+msgstr "Сасарески сардински"
+
+msgid "ISO_639-3.SDH"
+msgstr "Южнокюрдски"
+
+msgid "ISO_639-3.SDN"
+msgstr "Галурески сардински"
+
+msgid "ISO_639-3.SGA"
+msgstr "Староирландски (до 900)"
+
+msgid "ISO_639-3.SIN"
+msgstr "Синхалски"
+
+msgid "ISO_639-3.SLK"
+msgstr "Словашки"
+
+msgid "ISO_639-3.SLV"
+msgstr "Словенски"
+
+msgid "ISO_639-3.SMA"
+msgstr "Южносаамски"
+
+msgid "ISO_639-3.SME"
+msgstr "Северносаамски"
+
+msgid "ISO_639-3.SMJ"
+msgstr "Луле-саамски"
+
+msgid "ISO_639-3.SMN"
+msgstr "Инари-саамски"
+
+msgid "ISO_639-3.SMO"
+msgstr "Самоански"
+
+msgid "ISO_639-3.SMS"
+msgstr "Сколт-саамски"
+
+msgid "ISO_639-3.SNA"
+msgstr "Шона"
+
+msgid "ISO_639-3.SND"
+msgstr "Синдхи"
+
+msgid "ISO_639-3.SOM"
+msgstr "Сомалийски"
+
+msgid "ISO_639-3.SPA"
+msgstr "Испански"
+
+msgid "ISO_639-3.SQI"
+msgstr "Албански"
+
+msgid "ISO_639-3.SRC"
+msgstr "Логудорски сардински"
+
+msgid "ISO_639-3.SRD"
+msgstr "Сардински"
+
+msgid "ISO_639-3.SRO"
+msgstr "Южносардински"
+
+msgid "ISO_639-3.SRP"
+msgstr "Сръбски"
+
+msgid "ISO_639-3.SWA"
+msgstr "Суахили"
+
+msgid "ISO_639-3.SWE"
+msgstr "Класически сирийски"
+
+msgid "ISO_639-3.SYR"
+msgstr "Сирийски"
+
+msgid "ISO_639-3.TAM"
+msgstr "Тамилски"
+
+msgid "ISO_639-3.TAT"
+msgstr "Татарски"
+
+msgid "ISO_639-3.TAW"
+msgstr "Тайски"
+
+msgid "ISO_639-3.THA"
+msgstr "Тайвански"
+
+msgid "ISO_639-3.TIR"
+msgstr "Тигриня"
+
+msgid "ISO_639-3.TUK"
+msgstr "Туркменски"
+
+msgid "ISO_639-3.TUR"
+msgstr "Турски"
+
+msgid "ISO_639-3.TVL"
+msgstr "Тувалуански"
+
+msgid "ISO_639-3.TWI"
+msgstr "Туи"
+
+msgid "ISO_639-3.UKR"
+msgstr "Украински"
+
+msgid "ISO_639-3.ULE"
+msgstr "Луле-саамски"
+
+msgid "ISO_639-3.UND"
+msgstr "неопределен"
+
+msgid "ISO_639-3.URD"
+msgstr "Урду"
+
+msgid "ISO_639-3.UZB"
+msgstr "Узбекски"
+
+msgid "ISO_639-3.VIE"
+msgstr "Виетнамски"
+
+msgid "ISO_639-3.VOL"
+msgstr "Уелски"
+
+msgid "ISO_639-3.WLN"
+msgstr "Валонски"
+
+msgid "ISO_639-3.WYY"
+msgstr "Западнофиджийски"
+
+msgid "ISO_639-3.XBM"
+msgstr "Средновековен бретонски"
+
+msgid "ISO_639-3.XCL"
+msgstr "Староарменски"
+
+msgid "ISO_639-3.XMK"
+msgstr "Старомакедонски"
+
+msgid "ISO_639-3.XNG"
+msgstr "Средновековен монголски"
+
+msgid "ISO_639-3.XSM"
+msgstr "Казем"
+
+msgid "ISO_639-3.YDD"
+msgstr "Източен идиш"
+
+msgid "ISO_639-3.YHD"
+msgstr "Еврейскоиракски арабски"
+
+msgid "ISO_639-3.YID"
+msgstr "Идиш"
+
+msgid "ISO_639-3.YIH"
+msgstr "Западен идиш"
+
+msgid "ISO_639-3.YUD"
+msgstr "Еврейско-трополитански арабски"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Китайски"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Зулуски"

@@ -1,0 +1,1989 @@
+# Thai translations of ISO 639 Language names
+# Copyright (C) 2002-2015 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Translations from KDE:
+#   Thanomsub Noppaburana <donga@midaassets.com>
+# Alastair McKinstry - translations from ICU-3.0
+# Theppitak Karoonboonyanan <theppitak@gmail.com>, 2008-2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-08-04 16:08+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <theppitak@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAR"
+msgstr "อาฟา"
+
+msgid "ISO_639-3.ABH"
+msgstr "อารบิกทาจิกิสถาน"
+
+msgid "ISO_639-3.ABK"
+msgstr "แอบกาเซีย"
+
+msgid "ISO_639-3.ABV"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.ACE"
+msgstr "อาเจะห์"
+
+msgid "ISO_639-3.ACF"
+msgstr "ฝรั่งเศสลูกผสม, เซนต์ลูเซีย"
+
+msgid "ISO_639-3.ACM"
+msgstr "อารบิก, เมโสโปเตเมีย"
+
+msgid "ISO_639-3.ACW"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.ACX"
+msgstr "อารบิกโอมาน"
+
+msgid "ISO_639-3.ACY"
+msgstr "อารบิกไซปรัส"
+
+msgid "ISO_639-3.ADF"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.ADX"
+msgstr "ทิเบต"
+
+msgid "ISO_639-3.AEB"
+msgstr "อารบิกตูนิเซีย"
+
+msgid "ISO_639-3.AEC"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.AED"
+msgstr "ภาษามืออาร์เจนตินา"
+
+msgid "ISO_639-3.AEE"
+msgstr "ไทยอีสาน"
+
+msgid "ISO_639-3.AEN"
+msgstr "ภาษามืออาร์เมเนีย"
+
+msgid "ISO_639-3.AFB"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.AFG"
+msgstr "ภาษามืออัฟกานิสถาน"
+
+msgid "ISO_639-3.AFR"
+msgstr "แอฟริกา"
+
+msgid "ISO_639-3.AIG"
+msgstr "อังกฤษลูกผสม, แอนติกาและบาร์บูดา"
+
+msgid "ISO_639-3.AII"
+msgstr "นีโออาราเมอิก, อัสซีเรีย"
+
+msgid "ISO_639-3.AJT"
+msgstr "อารบิก, ยิว-ตูนิเซีย"
+
+msgid "ISO_639-3.AJU"
+msgstr "อารบิก, ยิว-โมร็อกโก"
+
+msgid "ISO_639-3.AKK"
+msgstr "อัคคาเดียน"
+
+msgid "ISO_639-3.ALN"
+msgstr "แอลเบเนีย"
+
+msgid "ISO_639-3.ALS"
+msgstr "แอลเบเนีย"
+
+msgid "ISO_639-3.ALT"
+msgstr "อัลไตใต้"
+
+msgid "ISO_639-3.AMH"
+msgstr "อัมฮาริก"
+
+msgid "ISO_639-3.AMW"
+msgstr "นีโออาราเมอิกตะวันตก"
+
+msgid "ISO_639-3.ANG"
+msgstr "อังกฤษโบราณ (ประมาณ ค.ศ. 450-1100)"
+
+msgid "ISO_639-3.AOT"
+msgstr "มารวารี (อินเดีย)"
+
+msgid "ISO_639-3.APD"
+msgstr "อารบิกซูดาน"
+
+msgid "ISO_639-3.ARA"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.ARB"
+msgstr "อารบิกมาตรฐาน"
+
+msgid "ISO_639-3.ARC"
+msgstr "อาราเมอิกราชการ (700-300 ปีก่อน ค.ศ.)"
+
+msgid "ISO_639-3.ARQ"
+msgstr "อารบิกแอลจีเรีย"
+
+msgid "ISO_639-3.ARS"
+msgstr "อารบิกโมร็อกโก"
+
+msgid "ISO_639-3.ARZ"
+msgstr "อารบิกอียิปต์"
+
+msgid "ISO_639-3.ASE"
+msgstr "ภาษามืออเมริกัน"
+
+msgid "ISO_639-3.ASF"
+msgstr "ภาษามือออสเตรเลีย"
+
+msgid "ISO_639-3.ASM"
+msgstr "อัสสมี"
+
+msgid "ISO_639-3.ASP"
+msgstr "ภาษามือแอลจีเรีย"
+
+msgid "ISO_639-3.ASQ"
+msgstr "ภาษามือออสเตรีย"
+
+msgid "ISO_639-3.ASW"
+msgstr "ภาษามืออะบอริจินออสเตรเลีย"
+
+msgid "ISO_639-3.ATO"
+msgstr "ภาษาแก้ขัด, แคเมอรูน"
+
+msgid "ISO_639-3.ATV"
+msgstr "อัลไตเหนือ"
+
+msgid "ISO_639-3.AUZ"
+msgstr "อารบิกอุซเบกิสถาน"
+
+msgid "ISO_639-3.AVE"
+msgstr "อเวสตะ"
+
+msgid "ISO_639-3.AWA"
+msgstr "อวธี"
+
+msgid "ISO_639-3.AXM"
+msgstr "อาร์เมเนียยุคกลาง"
+
+msgid "ISO_639-3.AYH"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.AYL"
+msgstr "อารบิกลิเบีย"
+
+msgid "ISO_639-3.AYM"
+msgstr "ไอมารา"
+
+msgid "ISO_639-3.AYN"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.AYR"
+msgstr "ไอมารากลาง"
+
+msgid "ISO_639-3.AZB"
+msgstr "อาเซอร์ไบจานใต้"
+
+msgid "ISO_639-3.AZE"
+msgstr "อาเซอร์ไบจาน"
+
+msgid "ISO_639-3.AZJ"
+msgstr "อาเซอร์ไบจานเหนือ"
+
+msgid "ISO_639-3.BAH"
+msgstr "อังกฤษลูกผสม, บาฮามาส"
+
+msgid "ISO_639-3.BAK"
+msgstr "บาสช์กีร์"
+
+msgid "ISO_639-3.BAN"
+msgstr "บาหลี"
+
+msgid "ISO_639-3.BDL"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.BEL"
+msgstr "เบลารุส"
+
+msgid "ISO_639-3.BEN"
+msgstr "เบ็งกาลี"
+
+msgid "ISO_639-3.BFI"
+msgstr "ภาษามือบริติช"
+
+msgid "ISO_639-3.BFK"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.BHO"
+msgstr "โภชปุรี"
+
+msgid "ISO_639-3.BHR"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.BIS"
+msgstr "บิสลามา"
+
+msgid "ISO_639-3.BKU"
+msgstr "บูฮิด"
+
+msgid "ISO_639-3.BLT"
+msgstr "ไทดำ"
+
+msgid "ISO_639-3.BOD"
+msgstr "ทิเบต"
+
+msgid "ISO_639-3.BOG"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.BOS"
+msgstr "บอสเนีย"
+
+msgid "ISO_639-3.BPQ"
+msgstr "มลายู"
+
+msgid "ISO_639-3.BQN"
+msgstr "ภาษามือบัลแกเรีย"
+
+msgid "ISO_639-3.BQY"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.BRA"
+msgstr "พรัช"
+
+msgid "ISO_639-3.BRE"
+msgstr "เบรตัน"
+
+msgid "ISO_639-3.BRU"
+msgstr "บรูตะวันออก"
+
+msgid "ISO_639-3.BRV"
+msgstr "บรูตะวันตก"
+
+msgid "ISO_639-3.BUG"
+msgstr "บูกินีส"
+
+msgid "ISO_639-3.BUL"
+msgstr "บัลแกเรีย"
+
+msgid "ISO_639-3.BVL"
+msgstr "ภาษามือโบลิเวีย"
+
+msgid "ISO_639-3.BXM"
+msgstr "มองโกเลีย"
+
+msgid "ISO_639-3.BXR"
+msgstr "รัสเซีย"
+
+msgid "ISO_639-3.BXU"
+msgstr "จีน"
+
+msgid "ISO_639-3.BZK"
+msgstr "อังกฤษลูกผสม, นิการากัว"
+
+msgid "ISO_639-3.BZS"
+msgstr "ภาษามือบราซิล"
+
+msgid "ISO_639-3.CAQ"
+msgstr "นิโคบาร์"
+
+msgid "ISO_639-3.CAT"
+msgstr "คาตะลาน"
+
+msgid "ISO_639-3.CCM"
+msgstr "มลายูลูกผสม, มะละกา"
+
+msgid "ISO_639-3.CCP"
+msgstr "จักมา"
+
+msgid "ISO_639-3.CDS"
+msgstr "ภาษามือชาด"
+
+msgid "ISO_639-3.CES"
+msgstr "เช็ก"
+
+msgid "ISO_639-3.CHE"
+msgstr "เชเชน"
+
+msgid "ISO_639-3.CHR"
+msgstr "เชอโรกี"
+
+msgid "ISO_639-3.CJA"
+msgstr "จามตะวันตก"
+
+msgid "ISO_639-3.CJM"
+msgstr "จามตะวันออก"
+
+msgid "ISO_639-3.CJY"
+msgstr "จีน"
+
+msgid "ISO_639-3.CKB"
+msgstr "จีน"
+
+msgid "ISO_639-3.CMG"
+msgstr "มองโกเลียแบบฉบับ"
+
+msgid "ISO_639-3.CMN"
+msgstr "จีนแมนดาริน"
+
+msgid "ISO_639-3.CNH"
+msgstr "จีนฮากกา"
+
+msgid "ISO_639-3.COA"
+msgstr "มลายูหมู่เกาะโคโคส"
+
+msgid "ISO_639-3.COF"
+msgstr "โคโลราโด"
+
+msgid "ISO_639-3.COP"
+msgstr "คอปติก"
+
+msgid "ISO_639-3.CPI"
+msgstr "อังกฤษแก้ขัด, จีน"
+
+msgid "ISO_639-3.CPX"
+msgstr "จีน"
+
+msgid "ISO_639-3.CSC"
+msgstr "ภาษามือคาตะลาน"
+
+msgid "ISO_639-3.CSD"
+msgstr "ภาษามือเชียงใหม่"
+
+msgid "ISO_639-3.CSE"
+msgstr "ภาษามือเช็ก"
+
+msgid "ISO_639-3.CSF"
+msgstr "ภาษามือคิวบา"
+
+msgid "ISO_639-3.CSG"
+msgstr "จีน"
+
+msgid "ISO_639-3.CSL"
+msgstr "ภาษามือจีน"
+
+msgid "ISO_639-3.CSN"
+msgstr "ภาษามือโคลอมเบีย"
+
+msgid "ISO_639-3.CSQ"
+msgstr "ภาษามือโครเอเชีย"
+
+msgid "ISO_639-3.CSR"
+msgstr "จีน"
+
+msgid "ISO_639-3.CTG"
+msgstr "จีน"
+
+msgid "ISO_639-3.CYM"
+msgstr "เวลส์"
+
+msgid "ISO_639-3.CZH"
+msgstr "จีนฮุยโจว"
+
+msgid "ISO_639-3.CZO"
+msgstr "จีนหมิ่นจง"
+
+msgid "ISO_639-3.DAK"
+msgstr "ดาโคตา"
+
+msgid "ISO_639-3.DAN"
+msgstr "เดนมาร์ก"
+
+msgid "ISO_639-3.DEL"
+msgstr "เดลาแวร์"
+
+msgid "ISO_639-3.DEP"
+msgstr "ภาษาแก้ขัด, เดลาแวร์"
+
+msgid "ISO_639-3.DEU"
+msgstr "เยอรมัน"
+
+msgid "ISO_639-3.DOQ"
+msgstr "ภาษามือโดมินิกัน"
+
+msgid "ISO_639-3.DSB"
+msgstr "เซอร์เบีย"
+
+msgid "ISO_639-3.DSE"
+msgstr "ภาษามือดัตช์"
+
+msgid "ISO_639-3.DSL"
+msgstr "ภาษามือเดนมาร์ก"
+
+msgid "ISO_639-3.DUM"
+msgstr "ดัตช์ยุคกลาง (ca. 1050-1350)"
+
+msgid "ISO_639-3.DZO"
+msgstr "ภูฏาน"
+
+msgid "ISO_639-3.ECS"
+msgstr "ภาษามือเอกวาดอร์"
+
+msgid "ISO_639-3.EGY"
+msgstr "อียิปต์ (โบราณ)"
+
+msgid "ISO_639-3.EKK"
+msgstr "เอสโตเนียมาตรฐาน"
+
+msgid "ISO_639-3.EKY"
+msgstr "คยาห์ตะวันออก"
+
+msgid "ISO_639-3.ELL"
+msgstr "กรีกสมัยใหม่ (1453-)"
+
+msgid "ISO_639-3.ELX"
+msgstr "อีลาไมต์"
+
+msgid "ISO_639-3.ENG"
+msgstr "อังกฤษ"
+
+msgid "ISO_639-3.ENL"
+msgstr "สิเลฏี"
+
+msgid "ISO_639-3.ENM"
+msgstr "อังกฤษยุคกลาง (1100-1500)"
+
+msgid "ISO_639-3.EPO"
+msgstr "เอสเปอรันโต"
+
+msgid "ISO_639-3.ESL"
+msgstr "ภาษามืออียิปต์"
+
+msgid "ISO_639-3.ESN"
+msgstr "ภาษามือซัลวาดอร์"
+
+msgid "ISO_639-3.ESO"
+msgstr "ภาษามือเอสโตเนีย"
+
+msgid "ISO_639-3.EST"
+msgstr "เอสโตเนีย"
+
+msgid "ISO_639-3.ETH"
+msgstr "ภาษามือเอธิโอเปีย"
+
+msgid "ISO_639-3.EUS"
+msgstr "แบ็ซค์"
+
+msgid "ISO_639-3.FAO"
+msgstr "แฟโร"
+
+msgid "ISO_639-3.FAS"
+msgstr "เปอร์เซีย"
+
+msgid "ISO_639-3.FCS"
+msgstr "ภาษามือควิเบก"
+
+msgid "ISO_639-3.FIJ"
+msgstr "ฟิจิ"
+
+msgid "ISO_639-3.FIL"
+msgstr "ฟิลิปิโน"
+
+msgid "ISO_639-3.FIN"
+msgstr "ฟินแลนด์"
+
+msgid "ISO_639-3.FKV"
+msgstr "ฟินแลนด์"
+
+msgid "ISO_639-3.FRA"
+msgstr "ฝรั่งเศส"
+
+msgid "ISO_639-3.FRC"
+msgstr "ฝรั่งเศส"
+
+msgid "ISO_639-3.FRM"
+msgstr "ฝรั่งเศสยุคกลาง (ca. 1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "ฝรั่งเศสโบราณ (842-ca. 1400)"
+
+msgid "ISO_639-3.FSE"
+msgstr "ภาษามือฟินแลนด์"
+
+msgid "ISO_639-3.FSL"
+msgstr "ภาษามือฝรั่งเศส"
+
+msgid "ISO_639-3.FSS"
+msgstr "ภาษามือสวีเดนฟินแลนด์"
+
+msgid "ISO_639-3.FUD"
+msgstr "ฟูตูนาตะวันออก"
+
+msgid "ISO_639-3.GAN"
+msgstr "จีนกั้น"
+
+msgid "ISO_639-3.GCF"
+msgstr "ฝรั่งเศสลูกผสม, กวาเดอลูป"
+
+msgid "ISO_639-3.GCL"
+msgstr "อังกฤษลูกผสม, เกรนาดา"
+
+msgid "ISO_639-3.GCR"
+msgstr "ฝรั่งเศสลูกผสม, เกียนา"
+
+msgid "ISO_639-3.GDS"
+msgstr "เยอรมัน"
+
+msgid "ISO_639-3.GEZ"
+msgstr "กีเอซ"
+
+msgid "ISO_639-3.GLE"
+msgstr "ไอริช"
+
+msgid "ISO_639-3.GLG"
+msgstr "กาลิเซีย"
+
+msgid "ISO_639-3.GLH"
+msgstr "ไทยอีสาน"
+
+msgid "ISO_639-3.GMH"
+msgstr "เยอรมันสูงยุคกลาง (ประมาณ ค.ศ. 1050-1500)"
+
+msgid "ISO_639-3.GML"
+msgstr "เยอรมันต่ำยุคกลาง"
+
+msgid "ISO_639-3.GMY"
+msgstr "กรีกไมซินี"
+
+msgid "ISO_639-3.GOH"
+msgstr "เยอรมันสูงโบราณ (ประมาณ ค.ศ. 750-1050)"
+
+msgid "ISO_639-3.GOM"
+msgstr "โกงกณีโควา"
+
+msgid "ISO_639-3.GOT"
+msgstr "โกธิก"
+
+msgid "ISO_639-3.GPE"
+msgstr "อังกฤษแก้ขัด, กานา"
+
+msgid "ISO_639-3.GRC"
+msgstr "กรีกโบราณ (ก่อน 1453)"
+
+msgid "ISO_639-3.GSE"
+msgstr "ภาษามือกานา"
+
+msgid "ISO_639-3.GSG"
+msgstr "ภาษามือเยอรมัน"
+
+msgid "ISO_639-3.GSM"
+msgstr "ภาษามือกัวเตมาลา"
+
+msgid "ISO_639-3.GSS"
+msgstr "ภาษามือกรีก"
+
+msgid "ISO_639-3.GSW"
+msgstr "เยอรมันสวิส"
+
+msgid "ISO_639-3.GUJ"
+msgstr "คุชราตี"
+
+msgid "ISO_639-3.GUS"
+msgstr "ภาษามือกินี"
+
+msgid "ISO_639-3.GYN"
+msgstr "อังกฤษลูกผสม, กายอานา"
+
+msgid "ISO_639-3.HAB"
+msgstr "ภาษามือฮานอย"
+
+msgid "ISO_639-3.HAF"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.HAK"
+msgstr "จีนฮากกา"
+
+msgid "ISO_639-3.HAT"
+msgstr "เฮติ"
+
+msgid "ISO_639-3.HAU"
+msgstr "โฮซา"
+
+msgid "ISO_639-3.HAW"
+msgstr "ฮาวาย"
+
+msgid "ISO_639-3.HBO"
+msgstr "ฮีบรูโบราณ"
+
+msgid "ISO_639-3.HBS"
+msgstr "เซอร์โบ-โครเอเชียน"
+
+msgid "ISO_639-3.HCA"
+msgstr "ฮินดีลูกผสม, อันดามัน"
+
+msgid "ISO_639-3.HDS"
+msgstr "ภาษามือฮอนดูรัส"
+
+msgid "ISO_639-3.HEB"
+msgstr "ฮีบรู"
+
+msgid "ISO_639-3.HIF"
+msgstr "ฮินดีฟิจิ"
+
+msgid "ISO_639-3.HIN"
+msgstr "ฮินดี"
+
+msgid "ISO_639-3.HIT"
+msgstr "ฮิตไตต์"
+
+msgid "ISO_639-3.HKS"
+msgstr "จีน"
+
+msgid "ISO_639-3.HMN"
+msgstr "ม้ง"
+
+msgid "ISO_639-3.HMZ"
+msgstr "ม้ง"
+
+msgid "ISO_639-3.HOS"
+msgstr "ภาษามือโฮจิมินห์ซิตี"
+
+msgid "ISO_639-3.HPS"
+msgstr "ภาษามือแก้ขัดฮาวาย"
+
+msgid "ISO_639-3.HRV"
+msgstr "โครเอเชีย"
+
+msgid "ISO_639-3.HSB"
+msgstr "เซอร์เบีย"
+
+msgid "ISO_639-3.HSH"
+msgstr "ภาษามือฮังการี"
+
+msgid "ISO_639-3.HSL"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.HSN"
+msgstr "จีนเซียง"
+
+msgid "ISO_639-3.HTX"
+msgstr "ฮิตไตต์ยุคกลาง"
+
+msgid "ISO_639-3.HUN"
+msgstr "ฮังการี"
+
+msgid "ISO_639-3.HWC"
+msgstr "อังกฤษลูกผสม, ฮาวาย"
+
+msgid "ISO_639-3.HYE"
+msgstr "อาร์เมเนีย"
+
+msgid "ISO_639-3.ICL"
+msgstr "ภาษามือไอซ์แลนด์"
+
+msgid "ISO_639-3.ICR"
+msgstr "อังกฤษลูกผสม, บาฮามาส"
+
+msgid "ISO_639-3.IDB"
+msgstr "อินโด-โปรตุเกส"
+
+msgid "ISO_639-3.IDO"
+msgstr "อีโด"
+
+msgid "ISO_639-3.III"
+msgstr "อี้เสฉวน"
+
+msgid "ISO_639-3.IKE"
+msgstr "อินุกติตุต, แคนาดาตะวันออก"
+
+msgid "ISO_639-3.IKS"
+msgstr "ภาษามืออินเดีย"
+
+msgid "ISO_639-3.IKU"
+msgstr "อินุกติตุต"
+
+msgid "ISO_639-3.ILE"
+msgstr "อินเทอร์ลิงก์"
+
+msgid "ISO_639-3.ILM"
+msgstr "มลายูปาปัว"
+
+msgid "ISO_639-3.INA"
+msgstr "อินเทอร์ลิงกวา (องค์การภาษาช่วยสื่อสารนานาชาติ)"
+
+msgid "ISO_639-3.IND"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.INL"
+msgstr "ภาษามืออินโดนีเซีย"
+
+msgid "ISO_639-3.INS"
+msgstr "ภาษามืออินเดีย"
+
+msgid "ISO_639-3.IPK"
+msgstr "อินุเปียก"
+
+msgid "ISO_639-3.ISE"
+msgstr "ภาษามืออิตาลี"
+
+msgid "ISO_639-3.ISG"
+msgstr "ภาษามือไอริช"
+
+msgid "ISO_639-3.ISL"
+msgstr "ไอซ์แลนด์"
+
+msgid "ISO_639-3.ISR"
+msgstr "ภาษามืออิสราเอล"
+
+msgid "ISO_639-3.ITA"
+msgstr "อิตาลี"
+
+msgid "ISO_639-3.ITD"
+msgstr "ไทยใต้"
+
+msgid "ISO_639-3.ITK"
+msgstr "ยิว-อิตาลี"
+
+msgid "ISO_639-3.JAM"
+msgstr "อังกฤษลูกผสม, จาเมกา"
+
+msgid "ISO_639-3.JAS"
+msgstr "ชวา, นิวแคลิโดเนีย"
+
+msgid "ISO_639-3.JAV"
+msgstr "ชวา"
+
+msgid "ISO_639-3.JCS"
+msgstr "ภาษามือชนบทจาเมกา"
+
+msgid "ISO_639-3.JGE"
+msgstr "ยิว-จอร์เจีย"
+
+msgid "ISO_639-3.JHS"
+msgstr "กะเหรี่ยง"
+
+msgid "ISO_639-3.JKR"
+msgstr "มารวารี (อินเดีย)"
+
+msgid "ISO_639-3.JLS"
+msgstr "ภาษามือจาเมกา"
+
+msgid "ISO_639-3.JOS"
+msgstr "ภาษามือจอร์แดน"
+
+msgid "ISO_639-3.JPN"
+msgstr "ญี่ปุ่น"
+
+msgid "ISO_639-3.JPR"
+msgstr "ยิว-เปอร์เซีย"
+
+msgid "ISO_639-3.JRB"
+msgstr "ยิว-อารบิก"
+
+msgid "ISO_639-3.JSL"
+msgstr "ภาษามือญี่ปุ่น"
+
+msgid "ISO_639-3.JUS"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.JVN"
+msgstr "ชวา, แคริบเบียน"
+
+msgid "ISO_639-3.JYE"
+msgstr "อารบิก, ยิว-เยเมน"
+
+msgid "ISO_639-3.KAN"
+msgstr "กัณณาท"
+
+msgid "ISO_639-3.KAS"
+msgstr "กัศมีรี"
+
+msgid "ISO_639-3.KAT"
+msgstr "จอร์เจีย"
+
+msgid "ISO_639-3.KAW"
+msgstr "กวิ"
+
+msgid "ISO_639-3.KAZ"
+msgstr "คาซัคสถาน"
+
+msgid "ISO_639-3.KDT"
+msgstr "กูย"
+
+msgid "ISO_639-3.KFI"
+msgstr "กัณณาท"
+
+msgid "ISO_639-3.KGI"
+msgstr "ภาษามือสลังงอร์"
+
+msgid "ISO_639-3.KHA"
+msgstr "ขาสี"
+
+msgid "ISO_639-3.KHB"
+msgstr "ไทลื้อ"
+
+msgid "ISO_639-3.KHG"
+msgstr "ทิเบต"
+
+msgid "ISO_639-3.KHK"
+msgstr "มองโกเลีย"
+
+msgid "ISO_639-3.KHM"
+msgstr "เขมรกลาง"
+
+msgid "ISO_639-3.KHT"
+msgstr "ไทคำตี่"
+
+msgid "ISO_639-3.KIN"
+msgstr "คินยาวันดา"
+
+msgid "ISO_639-3.KIR"
+msgstr "คีร์กีซสถาน"
+
+msgid "ISO_639-3.KJV"
+msgstr "ภาษามือลัตเวีย"
+
+msgid "ISO_639-3.KKH"
+msgstr "ไทขึน"
+
+msgid "ISO_639-3.KMR"
+msgstr "เคิร์ดเหนือ"
+
+msgid "ISO_639-3.KNN"
+msgstr "โกงกณี (ภาษาเอกเทศ)"
+
+msgid "ISO_639-3.KOK"
+msgstr "โกงกณี (มหภาษา)"
+
+msgid "ISO_639-3.KON"
+msgstr "คองโก"
+
+msgid "ISO_639-3.KOR"
+msgstr "เกาหลี"
+
+msgid "ISO_639-3.KUR"
+msgstr "เคิร์ด"
+
+msgid "ISO_639-3.KVD"
+msgstr "(อินโดนีเซีย)"
+
+msgid "ISO_639-3.KVK"
+msgstr "กะเหรี่ยง"
+
+msgid "ISO_639-3.KXD"
+msgstr "เนปาล"
+
+msgid "ISO_639-3.KXM"
+msgstr "เขมรเหนือ"
+
+msgid "ISO_639-3.KYU"
+msgstr "คยาห์ตะวันตก"
+
+msgid "ISO_639-3.KZD"
+msgstr "กะได"
+
+msgid "ISO_639-3.LAB"
+msgstr "ลิเนียร์ A"
+
+msgid "ISO_639-3.LAD"
+msgstr "ลาดิโน"
+
+msgid "ISO_639-3.LAO"
+msgstr "ลาว"
+
+msgid "ISO_639-3.LAT"
+msgstr "ละติน"
+
+msgid "ISO_639-3.LAV"
+msgstr "ลัตเวีย"
+
+msgid "ISO_639-3.LBS"
+msgstr "ภาษามือลิเบีย"
+
+msgid "ISO_639-3.LEP"
+msgstr "เลปชา"
+
+msgid "ISO_639-3.LHH"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.LIN"
+msgstr "ลิงกาลา"
+
+msgid "ISO_639-3.LIR"
+msgstr "อังกฤษ, ไลบีเรีย"
+
+msgid "ISO_639-3.LIS"
+msgstr "ลีซอ"
+
+msgid "ISO_639-3.LIT"
+msgstr "ลิทัวเนีย"
+
+msgid "ISO_639-3.LLS"
+msgstr "ภาษามือลิทัวเนีย"
+
+msgid "ISO_639-3.LOU"
+msgstr "ฝรั่งเศสลูกผสม, ลุยเซียนา"
+
+msgid "ISO_639-3.LSG"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.LSL"
+msgstr "ภาษามือลัตเวีย"
+
+msgid "ISO_639-3.LSO"
+msgstr "ภาษามือลาว"
+
+msgid "ISO_639-3.LSP"
+msgstr "ภาษามือปานามา"
+
+msgid "ISO_639-3.LST"
+msgstr "ภาษามือตรินิแดดและโตเบโก"
+
+msgid "ISO_639-3.LSY"
+msgstr "ภาษามือมอริเชียส"
+
+msgid "ISO_639-3.LTC"
+msgstr "จีนยุคกลางตอนปลาย"
+
+msgid "ISO_639-3.LTI"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.LTZ"
+msgstr "ลักเซมเบิร์ก"
+
+msgid "ISO_639-3.LVS"
+msgstr "ลัตเวียมาตรฐาน"
+
+msgid "ISO_639-3.LZH"
+msgstr "จีน"
+
+msgid "ISO_639-3.MAG"
+msgstr "มคธี"
+
+msgid "ISO_639-3.MAH"
+msgstr "มาร์แชลล์"
+
+msgid "ISO_639-3.MAI"
+msgstr "ไมถิลี"
+
+msgid "ISO_639-3.MAL"
+msgstr "มลยาฬัม"
+
+msgid "ISO_639-3.MAR"
+msgstr "มราฐี"
+
+msgid "ISO_639-3.MCM"
+msgstr "โปรตุเกสลูกผสม, มะละกา"
+
+msgid "ISO_639-3.MDL"
+msgstr "ภาษามือมอลตา"
+
+msgid "ISO_639-3.MEO"
+msgstr "มลายูเกดะห์"
+
+msgid "ISO_639-3.MFA"
+msgstr "มลายูปัตตานี"
+
+msgid "ISO_639-3.MFS"
+msgstr "ภาษามือเม็กซิโก"
+
+msgid "ISO_639-3.MGA"
+msgstr "ไอริชยุคกลาง (900-1200)"
+
+msgid "ISO_639-3.MGT"
+msgstr "มองโกล"
+
+msgid "ISO_639-3.MHP"
+msgstr "มลายูบาหลี"
+
+msgid "ISO_639-3.MHS"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.MIA"
+msgstr "ไมอามี"
+
+msgid "ISO_639-3.MIS"
+msgstr "ภาษาที่ยังไม่กำหนดรหัส"
+
+msgid "ISO_639-3.MKD"
+msgstr "มาซิโดเนีย"
+
+msgid "ISO_639-3.MLG"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.MLT"
+msgstr "มอลตา"
+
+msgid "ISO_639-3.MNC"
+msgstr "แมนจู"
+
+msgid "ISO_639-3.MNI"
+msgstr "มณีปุรี"
+
+msgid "ISO_639-3.MNP"
+msgstr "จีนหมินเป่ย"
+
+msgid "ISO_639-3.MON"
+msgstr "มองโกเลีย"
+
+msgid "ISO_639-3.MQA"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.MRI"
+msgstr "เมารี"
+
+msgid "ISO_639-3.MSA"
+msgstr "มลายู (มหภาษา)"
+
+msgid "ISO_639-3.MSD"
+msgstr "ภาษามือมายายูกาตัง"
+
+msgid "ISO_639-3.MSH"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.MSI"
+msgstr "มลายูซาบาห์"
+
+msgid "ISO_639-3.MSR"
+msgstr "ภาษามือมองโกเลีย"
+
+msgid "ISO_639-3.MUL"
+msgstr "หลายภาษา"
+
+msgid "ISO_639-3.MVE"
+msgstr "มารวารี (ปากีสถาน)"
+
+msgid "ISO_639-3.MVF"
+msgstr "มองโกเลียปริมณฑล"
+
+msgid "ISO_639-3.MWR"
+msgstr "มารวารี"
+
+msgid "ISO_639-3.MXN"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.MYA"
+msgstr "พม่า"
+
+msgid "ISO_639-3.MYP"
+msgstr "ปิรันยา"
+
+msgid "ISO_639-3.MZC"
+msgstr "ภาษามือมาดากัสการ์"
+
+msgid "ISO_639-3.MZG"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.MZY"
+msgstr "ภาษามือโมซัมบิก"
+
+msgid "ISO_639-3.NAN"
+msgstr "จีนหมิ่นหนาน"
+
+msgid "ISO_639-3.NAU"
+msgstr "นาอูรู"
+
+msgid "ISO_639-3.NAV"
+msgstr "นาวาโฮ"
+
+msgid "ISO_639-3.NBS"
+msgstr "ภาษามือนามิเบีย"
+
+msgid "ISO_639-3.NCB"
+msgstr "นิโคบาร์กลาง"
+
+msgid "ISO_639-3.NCS"
+msgstr "ภาษามือนิการากัว"
+
+msgid "ISO_639-3.NDS"
+msgstr "เยอรมัน"
+
+msgid "ISO_639-3.NEI"
+msgstr "ฮิตไตต์ใหม่"
+
+msgid "ISO_639-3.NEP"
+msgstr "เนปาล (มหภาษา)"
+
+msgid "ISO_639-3.NEW"
+msgstr "เนวารี"
+
+msgid "ISO_639-3.NIK"
+msgstr "นิโคบาร์ใต้"
+
+msgid "ISO_639-3.NLD"
+msgstr "ดัชต์"
+
+msgid "ISO_639-3.NNO"
+msgstr "นอร์เวย์ (นีนอร์สก์)"
+
+msgid "ISO_639-3.NOB"
+msgstr "นอร์เวย์ (บุคมอล)"
+
+msgid "ISO_639-3.NOD"
+msgstr "ไทยเหนือ"
+
+msgid "ISO_639-3.NON"
+msgstr "นอร์สโบราณ"
+
+msgid "ISO_639-3.NOR"
+msgstr "นอร์เวย์"
+
+msgid "ISO_639-3.NPI"
+msgstr "เนปาล (ภาษาเอกเทศ)"
+
+msgid "ISO_639-3.NQO"
+msgstr "เอ็นโก"
+
+msgid "ISO_639-3.NSI"
+msgstr "ภาษามือไนจีเรีย"
+
+msgid "ISO_639-3.NSL"
+msgstr "ภาษามือนอร์เวย์"
+
+msgid "ISO_639-3.NSP"
+msgstr "ภาษามือเนปาล"
+
+msgid "ISO_639-3.NSR"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.NTD"
+msgstr "ไทยเหนือ"
+
+msgid "ISO_639-3.NWC"
+msgstr "เนวารีแบบฉบับ"
+
+msgid "ISO_639-3.NZS"
+msgstr "ภาษามือนิวซีแลนด์"
+
+msgid "ISO_639-3.OAR"
+msgstr "อาราเมอิกโบราณ (จนถึง 700 ปีก่อน ค.ศ.)"
+
+msgid "ISO_639-3.OBR"
+msgstr "พม่าโบราณ"
+
+msgid "ISO_639-3.OBT"
+msgstr "เบรตันโบราณ"
+
+msgid "ISO_639-3.OCH"
+msgstr "จีนโบราณ"
+
+msgid "ISO_639-3.OCI"
+msgstr "ออกซิตัน (หลัง 1500)"
+
+msgid "ISO_639-3.ODT"
+msgstr "ดัชต์โบราณ"
+
+msgid "ISO_639-3.OGE"
+msgstr "จอร์เจียโบราณ"
+
+msgid "ISO_639-3.OHT"
+msgstr "ฮิตไตต์โบราณ"
+
+msgid "ISO_639-3.OHU"
+msgstr "ฮังการีโบราณ"
+
+msgid "ISO_639-3.OJB"
+msgstr "โอจิบเวตะวันตกเฉียงเหนือ"
+
+msgid "ISO_639-3.OJC"
+msgstr "โอจิบเวกลาง"
+
+msgid "ISO_639-3.OJG"
+msgstr "โอจิบเวตะวันออก"
+
+msgid "ISO_639-3.OJI"
+msgstr "โอจิบเว"
+
+msgid "ISO_639-3.OJP"
+msgstr "ญี่ปุ่นโบราณ"
+
+msgid "ISO_639-3.OJS"
+msgstr "โอจิบเว"
+
+msgid "ISO_639-3.OJW"
+msgstr "โอจิบเวตะวันตก"
+
+msgid "ISO_639-3.OKL"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.OKM"
+msgstr "เกาหลียุคกลาง (ศตวรรษที่ 10-16)"
+
+msgid "ISO_639-3.OKO"
+msgstr "เกาหลีโบราณ (ศตวรรษที่ 3-9)"
+
+msgid "ISO_639-3.OLT"
+msgstr "ลิทัวเนีย"
+
+msgid "ISO_639-3.OLU"
+msgstr "ตูวาลู"
+
+msgid "ISO_639-3.OMP"
+msgstr "มณีปุรีโบราณ"
+
+msgid "ISO_639-3.OMR"
+msgstr "มราฐีโบราณ"
+
+msgid "ISO_639-3.OMX"
+msgstr "มอญโบราณ"
+
+msgid "ISO_639-3.ORI"
+msgstr "โอริยา (มหภาษา)"
+
+msgid "ISO_639-3.ORM"
+msgstr "โอโรโม"
+
+msgid "ISO_639-3.ORT"
+msgstr "โอริยา, อาทิวาสี"
+
+msgid "ISO_639-3.ORV"
+msgstr "รัสเซียโบราณ"
+
+msgid "ISO_639-3.OSP"
+msgstr "สเปนโบราณ"
+
+msgid "ISO_639-3.OSX"
+msgstr "แซ็กซอนโบราณ"
+
+msgid "ISO_639-3.OTA"
+msgstr "ตุรกีออตโตมาน (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "ทิเบตโบราณ"
+
+msgid "ISO_639-3.OTK"
+msgstr "ตุรกีโบราณ"
+
+msgid "ISO_639-3.OTY"
+msgstr "ทมิฬโบราณ"
+
+msgid "ISO_639-3.OUI"
+msgstr "อุยกูร์โบราณ"
+
+msgid "ISO_639-3.OWL"
+msgstr "เวลส์โบราณ"
+
+msgid "ISO_639-3.PAL"
+msgstr "พาลาวี"
+
+msgid "ISO_639-3.PAN"
+msgstr "ปัญจาบี"
+
+msgid "ISO_639-3.PAU"
+msgstr "ปาเลา"
+
+msgid "ISO_639-3.PBT"
+msgstr "พาชโตใต้"
+
+msgid "ISO_639-3.PBU"
+msgstr "พาชโตเหนือ"
+
+msgid "ISO_639-3.PCE"
+msgstr "ปะหล่อง"
+
+msgid "ISO_639-3.PCM"
+msgstr "ภาษาแก้ขัด, ไนจีเรีย"
+
+msgid "ISO_639-3.PDC"
+msgstr "เยอรมัน, เพนซิลเวเนีย"
+
+msgid "ISO_639-3.PEA"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.PEO"
+msgstr "เปอร์เซียโบราณ (ประมาณ 600-400 ปีก่อนคริสตกาล)"
+
+msgid "ISO_639-3.PES"
+msgstr "เปอร์เซียอิหร่าน"
+
+msgid "ISO_639-3.PGA"
+msgstr "อารบิกลูกผสม, ซูดาน"
+
+msgid "ISO_639-3.PGZ"
+msgstr "ภาษามือกินี"
+
+msgid "ISO_639-3.PHN"
+msgstr "ฟินิเชียน"
+
+msgid "ISO_639-3.PHT"
+msgstr "ผู้ไท"
+
+msgid "ISO_639-3.PKS"
+msgstr "ภาษามือปากีสถาน"
+
+msgid "ISO_639-3.PLI"
+msgstr "บาลี"
+
+msgid "ISO_639-3.PLL"
+msgstr "ปะหล่อง"
+
+msgid "ISO_639-3.PLT"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.PMY"
+msgstr "มลายูปาปัว"
+
+msgid "ISO_639-3.PNB"
+msgstr "ปัญจาบีตะวันตก"
+
+msgid "ISO_639-3.PNY"
+msgstr "พินอิน"
+
+msgid "ISO_639-3.POL"
+msgstr "โปแลนด์"
+
+msgid "ISO_639-3.POR"
+msgstr "โปรตุเกส"
+
+msgid "ISO_639-3.PRG"
+msgstr "ปรัสเซีย"
+
+msgid "ISO_639-3.PRL"
+msgstr "ภาษามือเปรู"
+
+msgid "ISO_639-3.PRZ"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.PSC"
+msgstr "ภาษามือเปอร์เซีย"
+
+msgid "ISO_639-3.PSE"
+msgstr "มลายูกลาง"
+
+msgid "ISO_639-3.PSG"
+msgstr "ภาษามือปีนัง"
+
+msgid "ISO_639-3.PSH"
+msgstr "พาชโตใต้"
+
+msgid "ISO_639-3.PSI"
+msgstr "พาชโตใต้"
+
+msgid "ISO_639-3.PSL"
+msgstr "ภาษามือเปอร์โตริโก"
+
+msgid "ISO_639-3.PSO"
+msgstr "ภาษามือโปแลนด์"
+
+msgid "ISO_639-3.PSP"
+msgstr "ภาษามือฟิลิปปินส์"
+
+msgid "ISO_639-3.PSR"
+msgstr "พาชโตกลาง"
+
+msgid "ISO_639-3.PYS"
+msgstr "ภาษามือปารากวัย"
+
+msgid "ISO_639-3.QUE"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.QUX"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.QUY"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.QUZ"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.QVP"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.QWC"
+msgstr "เกชัวแบบฉบับ"
+
+msgid "ISO_639-3.QXC"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.QXP"
+msgstr "เกชัว"
+
+msgid "ISO_639-3.RAJ"
+msgstr "ราชสถานี"
+
+msgid "ISO_639-3.RAP"
+msgstr "ราปานุย"
+
+msgid "ISO_639-3.RBB"
+msgstr "ปะหล่อง"
+
+msgid "ISO_639-3.RCF"
+msgstr "ฝรั่งเศสลูกผสม, เรอูนียง"
+
+msgid "ISO_639-3.REJ"
+msgstr "เรอจัง"
+
+msgid "ISO_639-3.RGE"
+msgstr "โรมาโน-กรีก"
+
+msgid "ISO_639-3.RKI"
+msgstr "ยะไข่"
+
+msgid "ISO_639-3.RMG"
+msgstr "นอร์เวย์"
+
+msgid "ISO_639-3.RMS"
+msgstr "ภาษามือโรมาเนีย"
+
+msgid "ISO_639-3.RON"
+msgstr "โรมาเนีย"
+
+msgid "ISO_639-3.RSB"
+msgstr "โรมาโน-เซอร์เบียน"
+
+msgid "ISO_639-3.RSI"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.RSL"
+msgstr "ภาษามือรัสเซีย"
+
+msgid "ISO_639-3.RSM"
+msgstr "จีน"
+
+msgid "ISO_639-3.RUN"
+msgstr "รุนดี"
+
+msgid "ISO_639-3.RUO"
+msgstr "โรมาเนีย"
+
+msgid "ISO_639-3.RUP"
+msgstr "โรมาเนีย"
+
+msgid "ISO_639-3.RUQ"
+msgstr "โรมาเนีย"
+
+msgid "ISO_639-3.RUS"
+msgstr "รัสเซีย"
+
+msgid "ISO_639-3.RWR"
+msgstr "มารวารี (อินเดีย)"
+
+msgid "ISO_639-3.RYU"
+msgstr "โอกินาวากลาง"
+
+msgid "ISO_639-3.SAG"
+msgstr "ซังโก"
+
+msgid "ISO_639-3.SAH"
+msgstr "ยาคุต"
+
+msgid "ISO_639-3.SAM"
+msgstr "อาราเมอิกสะมาเรีย"
+
+msgid "ISO_639-3.SAN"
+msgstr "สันสกฤต"
+
+msgid "ISO_639-3.SAT"
+msgstr "สันถาลี"
+
+msgid "ISO_639-3.SAZ"
+msgstr "เสาราษฎร์"
+
+msgid "ISO_639-3.SBN"
+msgstr "สินธี"
+
+msgid "ISO_639-3.SCI"
+msgstr "มลายูลูกผสม, ศรีลังกา"
+
+msgid "ISO_639-3.SCN"
+msgstr "ซิซิลี"
+
+msgid "ISO_639-3.SCO"
+msgstr "สกอต"
+
+msgid "ISO_639-3.SDH"
+msgstr "เคิร์ดใต้"
+
+msgid "ISO_639-3.SDL"
+msgstr "ภาษามือซาอุดีอาระเบีย"
+
+msgid "ISO_639-3.SFS"
+msgstr "ภาษามือแอฟริกาใต้"
+
+msgid "ISO_639-3.SGA"
+msgstr "ไอริชโบราณ (ก่อน 900)"
+
+msgid "ISO_639-3.SGG"
+msgstr "ภาษามือเยอรมันสวิส"
+
+msgid "ISO_639-3.SGX"
+msgstr "ภาษามือเซียร์ราลีโอน"
+
+msgid "ISO_639-3.SHN"
+msgstr "ไทใหญ่"
+
+msgid "ISO_639-3.SHU"
+msgstr "อารบิกชาด"
+
+msgid "ISO_639-3.SIN"
+msgstr "สิงหล"
+
+msgid "ISO_639-3.SIP"
+msgstr "สิกขิม"
+
+msgid "ISO_639-3.SKG"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.SLF"
+msgstr "ภาษามืออิตาลีสวิส"
+
+msgid "ISO_639-3.SLK"
+msgstr "สโลวัก"
+
+msgid "ISO_639-3.SLS"
+msgstr "ภาษามือสิงคโปร์"
+
+msgid "ISO_639-3.SLV"
+msgstr "สโลวีเนีย"
+
+msgid "ISO_639-3.SMA"
+msgstr "ซามิใต้"
+
+msgid "ISO_639-3.SME"
+msgstr "ซามิเหนือ"
+
+msgid "ISO_639-3.SMO"
+msgstr "ซามัว"
+
+msgid "ISO_639-3.SMP"
+msgstr "สะมาเรีย"
+
+msgid "ISO_639-3.SND"
+msgstr "สินธี"
+
+msgid "ISO_639-3.SOA"
+msgstr "ไทโซ่ง"
+
+msgid "ISO_639-3.SOG"
+msgstr "ซอกเดียน"
+
+msgid "ISO_639-3.SOM"
+msgstr "โซมาเลีย"
+
+msgid "ISO_639-3.SOT"
+msgstr "ซูทูใต้"
+
+msgid "ISO_639-3.SOU"
+msgstr "ไทยใต้"
+
+msgid "ISO_639-3.SPA"
+msgstr "สเปน"
+
+msgid "ISO_639-3.SPB"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.SQI"
+msgstr "แอลเบเนีย"
+
+msgid "ISO_639-3.SQK"
+msgstr "ภาษามือแอลเบเนีย"
+
+msgid "ISO_639-3.SQR"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.SQS"
+msgstr "ภาษามือศรีลังกา"
+
+msgid "ISO_639-3.SRB"
+msgstr "โสรา"
+
+msgid "ISO_639-3.SRD"
+msgstr "ซาร์ดิเนีย"
+
+msgid "ISO_639-3.SRP"
+msgstr "เซอร์เบีย"
+
+msgid "ISO_639-3.SSH"
+msgstr "อารบิก"
+
+msgid "ISO_639-3.SSP"
+msgstr "ภาษามือสเปน"
+
+msgid "ISO_639-3.SSR"
+msgstr "ภาษามือฝรั่งเศสสวิส"
+
+msgid "ISO_639-3.SSW"
+msgstr "สวาตี"
+
+msgid "ISO_639-3.SUN"
+msgstr "ซุนดา"
+
+msgid "ISO_639-3.SUX"
+msgstr "สุเมเรีย"
+
+msgid "ISO_639-3.SVC"
+msgstr "อังกฤษลูกผสม, วินเซนต์"
+
+msgid "ISO_639-3.SVK"
+msgstr "ภาษามือสโลวะเกีย"
+
+msgid "ISO_639-3.SWA"
+msgstr "สวาฮีลี (มหภาษา)"
+
+msgid "ISO_639-3.SWC"
+msgstr "สวาฮีลีคองโก"
+
+msgid "ISO_639-3.SWE"
+msgstr "สวีเดน"
+
+msgid "ISO_639-3.SWH"
+msgstr "สวาฮีลี (ภาษาเอกเทศ)"
+
+msgid "ISO_639-3.SWL"
+msgstr "ภาษามือสวีเดน"
+
+msgid "ISO_639-3.SYC"
+msgstr "ซีริแอกแบบฉบับ"
+
+msgid "ISO_639-3.SYL"
+msgstr "สิเลฏี"
+
+msgid "ISO_639-3.SYR"
+msgstr "ซีริแอก"
+
+msgid "ISO_639-3.SYY"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.TAH"
+msgstr "ตาฮิติ"
+
+msgid "ISO_639-3.TAM"
+msgstr "ทมิฬ"
+
+msgid "ISO_639-3.TAT"
+msgstr "ตาด"
+
+msgid "ISO_639-3.TAW"
+msgstr "ไท"
+
+msgid "ISO_639-3.TBK"
+msgstr "ตักบันวา"
+
+msgid "ISO_639-3.TBW"
+msgstr "ตักบันวา"
+
+msgid "ISO_639-3.TCH"
+msgstr "อังกฤษลูกผสม, เติกส์และเคคอส"
+
+msgid "ISO_639-3.TDD"
+msgstr "ไทไต้คง"
+
+msgid "ISO_639-3.TEL"
+msgstr "เตลุคู"
+
+msgid "ISO_639-3.TET"
+msgstr "เตตุม"
+
+msgid "ISO_639-3.TGH"
+msgstr "อังกฤษลูกผสม, โตเบโก"
+
+msgid "ISO_639-3.TGK"
+msgstr "ทาจิกิสถาน"
+
+msgid "ISO_639-3.TGL"
+msgstr "ตากาล็อก"
+
+msgid "ISO_639-3.TGT"
+msgstr "ตักบันวากลาง"
+
+msgid "ISO_639-3.THA"
+msgstr "ไทย"
+
+msgid "ISO_639-3.THP"
+msgstr "ทอมป์สัน"
+
+msgid "ISO_639-3.TIR"
+msgstr "ทีกรินยา"
+
+msgid "ISO_639-3.TJL"
+msgstr "ไทแดง"
+
+msgid "ISO_639-3.TKG"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.TKL"
+msgstr "โตเกเลา"
+
+msgid "ISO_639-3.TKV"
+msgstr "ปัญจาบี"
+
+msgid "ISO_639-3.TLH"
+msgstr "คลิงออน"
+
+msgid "ISO_639-3.TMN"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.TOG"
+msgstr "ตองกา (นีอาซา)"
+
+msgid "ISO_639-3.TOI"
+msgstr "ตองกา (แซมเบีย)"
+
+msgid "ISO_639-3.TON"
+msgstr "ตองกา (หมู่เกาะตองกา)"
+
+msgid "ISO_639-3.TRF"
+msgstr "อังกฤษลูกผสม, ตรินิแดด"
+
+msgid "ISO_639-3.TSE"
+msgstr "ภาษามือตูนิเซีย"
+
+msgid "ISO_639-3.TSM"
+msgstr "ภาษามือตุรกี"
+
+msgid "ISO_639-3.TSN"
+msgstr "เซตสวานา"
+
+msgid "ISO_639-3.TSO"
+msgstr "ซองกา"
+
+msgid "ISO_639-3.TSQ"
+msgstr "ภาษามือไทย"
+
+msgid "ISO_639-3.TSS"
+msgstr "ภาษามือไต้หวัน"
+
+msgid "ISO_639-3.TSY"
+msgstr "ภาษามือ"
+
+msgid "ISO_639-3.TTS"
+msgstr "ไทยอีสาน"
+
+msgid "ISO_639-3.TUK"
+msgstr "เติร์กเมนิสถาน"
+
+msgid "ISO_639-3.TUR"
+msgstr "ตุรกี"
+
+msgid "ISO_639-3.TVL"
+msgstr "ภาษาแก้ขัด, ติมอร์"
+
+msgid "ISO_639-3.TWE"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.TWI"
+msgstr "จวี"
+
+msgid "ISO_639-3.TXY"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.TYR"
+msgstr "ไทแดง"
+
+msgid "ISO_639-3.TZA"
+msgstr "ภาษามือแทนซาเนีย"
+
+msgid "ISO_639-3.UGA"
+msgstr "ยูการิติก"
+
+msgid "ISO_639-3.UGN"
+msgstr "ภาษามือยูกันดา"
+
+msgid "ISO_639-3.UGY"
+msgstr "ภาษามืออุรุกวัย"
+
+msgid "ISO_639-3.UIG"
+msgstr "อุยกูร์"
+
+msgid "ISO_639-3.UKL"
+msgstr "ภาษามือยูเครน"
+
+msgid "ISO_639-3.UKR"
+msgstr "ยูเครน"
+
+msgid "ISO_639-3.UND"
+msgstr "ยังไม่ระบุแน่ชัด"
+
+msgid "ISO_639-3.URD"
+msgstr "อูรดู"
+
+msgid "ISO_639-3.UZB"
+msgstr "อุซเบกิสถาน"
+
+msgid "ISO_639-3.UZN"
+msgstr "อุซเบกิสถานเหนือ"
+
+msgid "ISO_639-3.UZS"
+msgstr "อุซเบกิสถานใต้"
+
+msgid "ISO_639-3.VAI"
+msgstr "ไว"
+
+msgid "ISO_639-3.VIC"
+msgstr "อังกฤษลูกผสม, หมู่เกาะเวอร์จิน"
+
+msgid "ISO_639-3.VIE"
+msgstr "เวียดนาม"
+
+msgid "ISO_639-3.VKP"
+msgstr "โปรตุเกสลูกผสม, มะละกา"
+
+msgid "ISO_639-3.VSI"
+msgstr "ภาษามือมอลโดวา"
+
+msgid "ISO_639-3.VSL"
+msgstr "ภาษามือเวเนซุเอลา"
+
+msgid "ISO_639-3.VSV"
+msgstr "ภาษามือวาเลนเซีย"
+
+msgid "ISO_639-3.WES"
+msgstr "จีน"
+
+msgid "ISO_639-3.WLM"
+msgstr "เวลส์ยุคกลาง"
+
+msgid "ISO_639-3.WLN"
+msgstr "วอลลูน"
+
+msgid "ISO_639-3.WMM"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-3.WOF"
+msgstr "โวลอฟแกมเบีย"
+
+msgid "ISO_639-3.WOL"
+msgstr "โวลอฟ"
+
+msgid "ISO_639-3.WUU"
+msgstr "จีนอู๋"
+
+msgid "ISO_639-3.WYY"
+msgstr "ฟิจิตะวันตก"
+
+msgid "ISO_639-3.XBM"
+msgstr "เบรตันยุคกลาง"
+
+msgid "ISO_639-3.XCL"
+msgstr "อาร์เมเนียแบบฉบับ"
+
+msgid "ISO_639-3.XCR"
+msgstr "แคเรีย"
+
+msgid "ISO_639-3.XCT"
+msgstr "ทิเบตแบบฉบับ"
+
+msgid "ISO_639-3.XHO"
+msgstr "คอซา"
+
+msgid "ISO_639-3.XKI"
+msgstr "ภาษามือเคนยา"
+
+msgid "ISO_639-3.XLC"
+msgstr "ลิเชีย"
+
+msgid "ISO_639-3.XLD"
+msgstr "ลิเดีย"
+
+msgid "ISO_639-3.XMK"
+msgstr "มาซิโดเนียโบราณ"
+
+msgid "ISO_639-3.XML"
+msgstr "มลายู"
+
+msgid "ISO_639-3.XMR"
+msgstr "เมโรอิติก"
+
+msgid "ISO_639-3.XMS"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.XMW"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-3.XNG"
+msgstr "มองโกเลียยุคกลาง"
+
+msgid "ISO_639-3.XPR"
+msgstr "พาร์เทีย"
+
+msgid "ISO_639-3.XTZ"
+msgstr "แทสเมเนีย"
+
+msgid "ISO_639-3.YDD"
+msgstr "ยิดดิชตะวันออก"
+
+msgid "ISO_639-3.YGS"
+msgstr "ภาษามือโปแลนด์"
+
+msgid "ISO_639-3.YHD"
+msgstr "อารบิก, ยิว-อิรัก"
+
+msgid "ISO_639-3.YHS"
+msgstr "ภาษามือเดนมาร์ก"
+
+msgid "ISO_639-3.YID"
+msgstr "ยิดดิช"
+
+msgid "ISO_639-3.YIH"
+msgstr "ยิดดิชตะวันตก"
+
+msgid "ISO_639-3.YOR"
+msgstr "โยรูบา"
+
+msgid "ISO_639-3.YSL"
+msgstr "ภาษามือยูโกสลาเวีย"
+
+msgid "ISO_639-3.YUD"
+msgstr "ยิว-อารบิก"
+
+msgid "ISO_639-3.YUE"
+msgstr "จีนกวางตุ้ง"
+
+msgid "ISO_639-3.ZGB"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZGM"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZGN"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZHA"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZHD"
+msgstr "จ้วงไท"
+
+msgid "ISO_639-3.ZHN"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZHO"
+msgstr "จีน"
+
+msgid "ISO_639-3.ZIB"
+msgstr "ภาษามือซิมบับเว"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZLM"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZQE"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZSL"
+msgstr "ภาษามือแซมเบีย"
+
+msgid "ISO_639-3.ZSM"
+msgstr "มลายูมาตรฐาน"
+
+msgid "ISO_639-3.ZUL"
+msgstr "ซูลู"
+
+msgid "ISO_639-3.ZXX"
+msgstr "ไม่มีเนื้อหาทางภาษา"
+
+msgid "ISO_639-3.ZYB"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZYG"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "จ้วง"
+
+msgid "ISO_639-3.ZYN"
+msgstr "จีน"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "จ้วง"

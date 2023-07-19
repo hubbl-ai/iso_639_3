@@ -1,0 +1,8201 @@
+# Slovak translations of ISO 639 Language names
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Translations from KDE:
+#  Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>
+# Alastair McKinstry  :
+#  - translations from ICU-3.0
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-06 09:45+0000\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Slovak <sk-i18n@linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AAF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AAG"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AAK"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AAT"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AAW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ABD"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.ABE"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ABG"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ABH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ABK"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ABQ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ABV"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ABW"
+msgstr "Poľský"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ACE"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ACI"
+msgstr "Maori"
+
+msgid "ISO_639-3.ACN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ACR"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ACW"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ACX"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ACY"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ADF"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ADL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.ADN"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ADR"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.AEA"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AEC"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AEU"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AEW"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AFB"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AFD"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AFK"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.AFP"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AFR"
+msgstr "Afrikánsky"
+
+msgid "ISO_639-3.AGA"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AGB"
+msgstr "Grécky"
+
+msgid "ISO_639-3.AGD"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AGF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AGG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.AGI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.AGM"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.AGO"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AGW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AHA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AHK"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AHR"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.AIC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AIE"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.AIR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.AIS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.AIW"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AIX"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AJN"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AJT"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AJU"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.AKA"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKB"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.AKF"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKK"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKL"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKM"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKR"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AKW"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AKZ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ALD"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ALH"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ALJ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ALK"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.ALN"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ALS"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AMC"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AMH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AMK"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AML"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.AMN"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AMY"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ANC"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.ANK"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.ANP"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.ANS"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.ANW"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ANY"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AOA"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.AOF"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.AOH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Ruský"
+
+msgid "ISO_639-3.AOR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.AOS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AOT"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.APD"
+msgstr "Japonský"
+
+msgid "ISO_639-3.APF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.APG"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.APH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.API"
+msgstr "Poľský"
+
+msgid "ISO_639-3.APO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.APW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AQC"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ARA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ARD"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ARE"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ARH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ARI"
+msgstr "Afrikánsky"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Afrikánsky"
+
+msgid "ISO_639-3.ARL"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ARN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.ARO"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ARS"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ARY"
+msgstr "Arabská"
+
+msgid "ISO_639-3.ASI"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.ASK"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.ASO"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.AST"
+msgstr "Estónsky"
+
+msgid "ISO_639-3.ATN"
+msgstr "Estónsky"
+
+msgid "ISO_639-3.ATR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ATX"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AUB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AUC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.AUH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AUK"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.AUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AUQ"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.AUR"
+msgstr "Grécky"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AVA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AVB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AVI"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AVK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.AVN"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AVS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.AWM"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AXL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.AXM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.AYA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AYH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AYI"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.AYL"
+msgstr "Arabská"
+
+msgid "ISO_639-3.AYN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.AYZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.AZA"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AZB"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AZE"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.BAG"
+msgstr "Turecký"
+
+msgid "ISO_639-3.BAJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BAN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BAR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BAV"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BAY"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BBB"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BBD"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BBE"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BBF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BBG"
+msgstr "Arabská"
+
+msgid "ISO_639-3.BBH"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BBI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BBL"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.BBV"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BBW"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BBX"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BCF"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BCG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BCH"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BCK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.BCO"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Francúzsky"
+
+msgid "ISO_639-3.BCR"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BCT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BCW"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BCY"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BDB"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BDD"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BDE"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BDF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BDG"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BDJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BDK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.BDL"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.BDO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BDW"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BEG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BEH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BEK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BEL"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BEN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BEO"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.BEP"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BES"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BEU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BFA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BFG"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BFR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BFT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BFU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BFW"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BFX"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BFY"
+msgstr "Maori"
+
+msgid "ISO_639-3.BGB"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BGC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BGE"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BGG"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BGK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BGN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BGR"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.BGU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BGW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.BHA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHB"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BHD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHE"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BHG"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.BHH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BHR"
+msgstr "Maori"
+
+msgid "ISO_639-3.BHU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BHV"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BHW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BHX"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.BIB"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BIC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BID"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIG"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIN"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BIQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIU"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BIX"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BJC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BJH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BJI"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.BJN"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BJR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BJS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BJV"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BJY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.BKD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BKF"
+msgstr "Grécky"
+
+msgid "ISO_639-3.BKG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BKI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BKN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BKS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BKT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BKX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.BLD"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BLG"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BLI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BLL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BLR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BLS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BMD"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.BMH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BMI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BMO"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.BMP"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BMR"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.BMS"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.BMX"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BNB"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BNC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BND"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.BNF"
+msgstr "Maori"
+
+msgid "ISO_639-3.BNI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BNK"
+msgstr "Grécky"
+
+msgid "ISO_639-3.BNL"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.BNU"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BNW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Grécky"
+
+msgid "ISO_639-3.BOA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BOB"
+msgstr "Arabská"
+
+msgid "ISO_639-3.BOF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BOH"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BOK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BON"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BOP"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BOS"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BOT"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BOU"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BOW"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BPA"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BPG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BPH"
+msgstr "Poľský"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BPO"
+msgstr "Maori"
+
+msgid "ISO_639-3.BPP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.BPU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BPV"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BQB"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BQH"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BQI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BQO"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.BQP"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BQS"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BQV"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BQX"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BRE"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BRF"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.BRG"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BRH"
+msgstr "Maori"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BRO"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BRS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BRT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BRU"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.BRV"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.BRW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BRX"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.BRY"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSB"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSC"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BSE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSG"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSH"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.BSI"
+msgstr "Maori"
+
+msgid "ISO_639-3.BSJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BSN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BST"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BSU"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BSW"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BTA"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BTF"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BTI"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Japonský"
+
+msgid "ISO_639-3.BTR"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BTU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BTV"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BUA"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BUB"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BUC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BUG"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BUI"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BUK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BUL"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BUN"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.BUO"
+msgstr "Turecký"
+
+msgid "ISO_639-3.BUP"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BUT"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BUW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BVA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BVB"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BVC"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.BVH"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BVK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BVN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BVO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BVP"
+msgstr "Srbský"
+
+msgid "ISO_639-3.BVQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BVR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BVT"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.BVU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BVV"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BVW"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.BVY"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BWG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.BWI"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BWM"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BWZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BXA"
+msgstr "Maori"
+
+msgid "ISO_639-3.BXC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BXM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.BXN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BXO"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BXR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BXS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BXU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BXZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BYA"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BYF"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BYH"
+msgstr "Maori"
+
+msgid "ISO_639-3.BYK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BYM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BYN"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BYR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BYS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BYW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BZA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BZD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BZF"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.BZG"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BZI"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BZO"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.BZR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BZT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.BZU"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.BZV"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.CAC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CAE"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.CAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.CAH"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CAJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CAK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.CAL"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.CAN"
+msgstr "Maori"
+
+msgid "ISO_639-3.CAR"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.CAS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.CAT"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CBC"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CBI"
+msgstr "Český"
+
+msgid "ISO_639-3.CBK"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CBL"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.CBW"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CBY"
+msgstr "Maori"
+
+msgid "ISO_639-3.CCG"
+msgstr "Srbský"
+
+msgid "ISO_639-3.CDA"
+msgstr "Írsky"
+
+msgid "ISO_639-3.CDE"
+msgstr "Český"
+
+msgid "ISO_639-3.CDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.CDI"
+msgstr "Írsky"
+
+msgid "ISO_639-3.CDO"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CDY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.CEA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.CEK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.CEN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CES"
+msgstr "Český"
+
+msgid "ISO_639-3.CFD"
+msgstr "Maori"
+
+msgid "ISO_639-3.CFM"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.CHC"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CHE"
+msgstr "Český"
+
+msgid "ISO_639-3.CHK"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CHM"
+msgstr "Ruský"
+
+msgid "ISO_639-3.CHX"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CIE"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CIK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.CIM"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.CIP"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.CIY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.CJA"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.CJI"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CJK"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CJM"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.CJN"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.CJS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CJV"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CJY"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CKB"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.CKL"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CKT"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CKU"
+msgstr "Maori"
+
+msgid "ISO_639-3.CKV"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CLA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.CLE"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CLL"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CLM"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.CLT"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CLU"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.CME"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.CMG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.CML"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.CMN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.CMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.CNG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.CNH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CNK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.CNL"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.CNO"
+msgstr "Írsky"
+
+msgid "ISO_639-3.CNW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.CNX"
+msgstr "Írsky"
+
+msgid "ISO_639-3.COE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.COG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.COR"
+msgstr "Írsky"
+
+msgid "ISO_639-3.COS"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.COX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.COZ"
+msgstr "Český"
+
+msgid "ISO_639-3.CPI"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CPN"
+msgstr "Český"
+
+msgid "ISO_639-3.CPX"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.CRE"
+msgstr "Grécky"
+
+msgid "ISO_639-3.CRF"
+msgstr "Turecký"
+
+msgid "ISO_639-3.CRR"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.CRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.CRY"
+msgstr "Írsky"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CST"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.CSV"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CSY"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.CTC"
+msgstr "Český"
+
+msgid "ISO_639-3.CTD"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.CTG"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.CTH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CTS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.CTU"
+msgstr "Írsky"
+
+msgid "ISO_639-3.CUH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.CUL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.CUU"
+msgstr "Thajský"
+
+msgid "ISO_639-3.CUW"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CVG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.CWB"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.CWE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.CYM"
+msgstr "Welšský"
+
+msgid "ISO_639-3.CZH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.CZK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.CZT"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.DAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAG"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DAM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAN"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DAO"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DAV"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.DAX"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DBA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.DBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DBW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.DCC"
+msgstr "Occitan"
+
+msgid "ISO_639-3.DEC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.DEH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.DER"
+msgstr "Maori"
+
+msgid "ISO_639-3.DES"
+msgstr "Srbský"
+
+msgid "ISO_639-3.DEU"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.DGG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.DGI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.DGK"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGL"
+msgstr "Arabská"
+
+msgid "ISO_639-3.DGN"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGX"
+msgstr "Maori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.DHN"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DHO"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.DHR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHS"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DHU"
+msgstr "Maori"
+
+msgid "ISO_639-3.DHX"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.DIC"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.DID"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.DIF"
+msgstr "Turecký"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.DIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.DIS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.DIT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.DIU"
+msgstr "Turecký"
+
+msgid "ISO_639-3.DIV"
+msgstr "Turecký"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.DJO"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.DJU"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.DLG"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.DLK"
+msgstr "Maori"
+
+msgid "ISO_639-3.DLM"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.DLN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.DML"
+msgstr "Poľský"
+
+msgid "ISO_639-3.DMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.DMX"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.DNG"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DNV"
+msgstr "Occitan"
+
+msgid "ISO_639-3.DNW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.DOH"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.DOK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.DOO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.DOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.DOT"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DOX"
+msgstr "Ruský"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRC"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.DRD"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRG"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.DRL"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.DRS"
+msgstr "Grécky"
+
+msgid "ISO_639-3.DRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.DSB"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.DSI"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DSO"
+msgstr "Srbský"
+
+msgid "ISO_639-3.DTA"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.DTY"
+msgstr "Poľský"
+
+msgid "ISO_639-3.DUO"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.DUP"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.DVA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DWA"
+msgstr "Turecký"
+
+msgid "ISO_639-3.DWR"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.DWW"
+msgstr "Maori"
+
+msgid "ISO_639-3.DYA"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.DZA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DZG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EAA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.EBK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ECR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.EGL"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.EIV"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.EKG"
+msgstr "Maori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.EKR"
+msgstr "Japonský"
+
+msgid "ISO_639-3.EKY"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ELI"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.EMN"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.EMU"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ENA"
+msgstr "Poľský"
+
+msgid "ISO_639-3.ENB"
+msgstr "Maori"
+
+msgid "ISO_639-3.ENG"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.EPO"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.ERG"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.EST"
+msgstr "Estónsky"
+
+msgid "ISO_639-3.ESY"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ETT"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.EUS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.EYO"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.FAA"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.FAD"
+msgstr "Maori"
+
+msgid "ISO_639-3.FAF"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.FAH"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.FAP"
+msgstr "Poľský"
+
+msgid "ISO_639-3.FAR"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.FAS"
+msgstr "Srbský"
+
+msgid "ISO_639-3.FAT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.FAX"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FBL"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.FGR"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.FIL"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FIN"
+msgstr "Fínsky"
+
+msgid "ISO_639-3.FIR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FKV"
+msgstr "Fínsky"
+
+msgid "ISO_639-3.FLI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.FLL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.FLY"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.FMU"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FNI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.FOM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.FOR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.FRA"
+msgstr "Francúzsky"
+
+msgid "ISO_639-3.FRC"
+msgstr "Francúzsky"
+
+msgid "ISO_639-3.FRK"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.FRP"
+msgstr "Arabská"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FRS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FRY"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FUI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.FUR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.FUU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.GAB"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GAF"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GAH"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.GAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.GAN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.GAO"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.GAT"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.GBD"
+msgstr "Maori"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.GBM"
+msgstr "Maori"
+
+msgid "ISO_639-3.GBY"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GCC"
+msgstr "Maori"
+
+msgid "ISO_639-3.GCD"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.GCE"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.GCN"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.GDI"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GDK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GDL"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.GDN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.GDT"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.GEA"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GEB"
+msgstr "Turecký"
+
+msgid "ISO_639-3.GEG"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GEI"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GEW"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GEX"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GGE"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GGK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.GHR"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GHT"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.GIG"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GIL"
+msgstr "Vietnamský"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GIR"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GIW"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GJM"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GJN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.GJR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GJU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GKE"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.GKN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.GLD"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.GLE"
+msgstr "Írsky"
+
+msgid "ISO_639-3.GLG"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.GLO"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.GMA"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.GMU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.GMV"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GMX"
+msgstr "Maori"
+
+msgid "ISO_639-3.GNA"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.GNE"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GNG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.GNH"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.GNM"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GNT"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GNW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GOA"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GOF"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.GOG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GPN"
+msgstr "Thajský"
+
+msgid "ISO_639-3.GQU"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.GRB"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.GRI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.GRN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GRO"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GRR"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.GRS"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GRT"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GRU"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.GRX"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GSP"
+msgstr "Welšský"
+
+msgid "ISO_639-3.GSW"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GUE"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GUM"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GUW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GVC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GVE"
+msgstr "Holandský"
+
+msgid "ISO_639-3.GVF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.GVM"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GVR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.GVS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GVY"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GWA"
+msgstr "Maori"
+
+msgid "ISO_639-3.GWC"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.GWE"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GWF"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GWG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.GWR"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GWW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.GWX"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GYE"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.GYI"
+msgstr "Grécky"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.GYR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.GZI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.GZN"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.HAC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.HAH"
+msgstr "Welšský"
+
+msgid "ISO_639-3.HAK"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.HAL"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.HAM"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HAN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.HAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.HAS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.HAT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.HBN"
+msgstr "Srbský"
+
+msgid "ISO_639-3.HBO"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HBS"
+msgstr "Chorvátsky"
+
+msgid "ISO_639-3.HEB"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HEH"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HER"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HGW"
+msgstr "Maori"
+
+msgid "ISO_639-3.HHY"
+msgstr "Welšský"
+
+msgid "ISO_639-3.HIA"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.HIB"
+msgstr "Turecký"
+
+msgid "ISO_639-3.HIG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.HII"
+msgstr "Turecký"
+
+msgid "ISO_639-3.HIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.HJI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.HKA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.HLA"
+msgstr "Poľský"
+
+msgid "ISO_639-3.HLB"
+msgstr "Poľský"
+
+msgid "ISO_639-3.HLT"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.HMO"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.HMT"
+msgstr "Arabská"
+
+msgid "ISO_639-3.HMW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.HNI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.HNU"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Turecký"
+
+msgid "ISO_639-3.HOM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.HOR"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HOV"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.HRE"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.HRO"
+msgstr "Turecký"
+
+msgid "ISO_639-3.HRV"
+msgstr "Chorvátsky"
+
+msgid "ISO_639-3.HRW"
+msgstr "Maori"
+
+msgid "ISO_639-3.HRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.HSB"
+msgstr "Srbský"
+
+msgid "ISO_639-3.HSN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.HUD"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.HUK"
+msgstr "Zulu"
+
+msgid "ISO_639-3.HUM"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.HUN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.HUS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.HYE"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.IAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.IAR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.IBL"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.IBY"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.IDB"
+msgstr "Portugalský"
+
+msgid "ISO_639-3.IDC"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.IDR"
+msgstr "Írsky"
+
+msgid "ISO_639-3.IDS"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.IFU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.IGL"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.IGN"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.III"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.IJE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.IKL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.IKR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.IKS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ILB"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.ILI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.ILK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.ILM"
+msgstr "Ruský"
+
+msgid "ISO_639-3.IMA"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.IMO"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.IMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.INB"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.IND"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.INH"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.INN"
+msgstr "Thajský"
+
+msgid "ISO_639-3.IRU"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ISA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ISH"
+msgstr "Estónsky"
+
+msgid "ISO_639-3.ISL"
+msgstr "Islandský"
+
+msgid "ISO_639-3.ISM"
+msgstr "Maori"
+
+msgid "ISO_639-3.ITA"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.ITD"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ITK"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.ITR"
+msgstr "Írsky"
+
+msgid "ISO_639-3.ITV"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.ITY"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.IVB"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.IVV"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.IZH"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.JAC"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.JAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.JAN"
+msgstr "Arabská"
+
+msgid "ISO_639-3.JAT"
+msgstr "Maori"
+
+msgid "ISO_639-3.JAU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.JAV"
+msgstr "Japonský"
+
+msgid "ISO_639-3.JAY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.JBE"
+msgstr "Arabská"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.JBK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.JCT"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.JDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.JDT"
+msgstr "Arabská"
+
+msgid "ISO_639-3.JEB"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.JER"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.JGE"
+msgstr "Srbský"
+
+msgid "ISO_639-3.JHI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.JIV"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.JKR"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.JKU"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.JLE"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.JMB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JMN"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.JNI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.JNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.JOW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JPN"
+msgstr "Japonský"
+
+msgid "ISO_639-3.JPR"
+msgstr "Srbský"
+
+msgid "ISO_639-3.JRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.JRB"
+msgstr "Arabská"
+
+msgid "ISO_639-3.JUK"
+msgstr "Japonský"
+
+msgid "ISO_639-3.JUL"
+msgstr "Turecký"
+
+msgid "ISO_639-3.JUT"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.JVD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.JVN"
+msgstr "Japonský"
+
+msgid "ISO_639-3.JYE"
+msgstr "Arabská"
+
+msgid "ISO_639-3.KAE"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.KAF"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.KAI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KAK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KAT"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.KAU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KBA"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.KBE"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KBI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KBL"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KBP"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KBS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KBT"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.KBU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KBV"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.KBW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KBY"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Holandský"
+
+msgid "ISO_639-3.KCA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KCE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KCF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KCH"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KCI"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KCP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.KCR"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.KCS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KCT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.KCW"
+msgstr "Maori"
+
+msgid "ISO_639-3.KCY"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KCZ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KDC"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KDE"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.KDF"
+msgstr "Maori"
+
+msgid "ISO_639-3.KDG"
+msgstr "Srbský"
+
+msgid "ISO_639-3.KDJ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.KDR"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KDW"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KEA"
+msgstr "Srbský"
+
+msgid "ISO_639-3.KED"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.KEG"
+msgstr "Japonský"
+
+msgid "ISO_639-3.KEH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KEN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KER"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.KFA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KFD"
+msgstr "Maori"
+
+msgid "ISO_639-3.KFE"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.KFF"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KFG"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFH"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KFN"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KFR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KFS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KFT"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFV"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KFW"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.KFX"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KFY"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KGB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KGD"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.KGE"
+msgstr "Srbský"
+
+msgid "ISO_639-3.KGL"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.KGN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KGO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KGP"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.KGV"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KGW"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KHA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KHE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KHF"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KHK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KHL"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KHN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.KHO"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.KHP"
+msgstr "Maori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KHS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.KHT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KHV"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KHX"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KIB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KID"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.KIL"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KIM"
+msgstr "Maori"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KIS"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KIW"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KIX"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.KJC"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.KJE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KJO"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KJQ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KJR"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.KKI"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KKK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KKL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KKM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KKO"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KKT"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.KKV"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KKX"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.KLG"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KLL"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.KLM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KLN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KLP"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.KLR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KLU"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.KLW"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.KLY"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.KMA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KMD"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.KMH"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.KMK"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.KMR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KMU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KMY"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.KNC"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KND"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KNE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KNG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KNI"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KNJ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KNK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KOC"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.KOF"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KOG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.KOK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KOO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KOR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KOS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KOT"
+msgstr "Maori"
+
+msgid "ISO_639-3.KOU"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KPD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KPK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KPR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KPS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KPT"
+msgstr "Maori"
+
+msgid "ISO_639-3.KPY"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KQB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KQM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KQO"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KQR"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.KQU"
+msgstr "Srbský"
+
+msgid "ISO_639-3.KQY"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KRA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KRB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KRE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KRH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.KRI"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KRK"
+msgstr "Grécky"
+
+msgid "ISO_639-3.KRL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KRM"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KRT"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KRU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KRV"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KRW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KRX"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Occitan"
+
+msgid "ISO_639-3.KSD"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KSE"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KSF"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.KSI"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KSK"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.KSL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KSO"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KSR"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.KSV"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KSX"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KTD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KTF"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.KTH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KTK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KTM"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KTV"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KUC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KUF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KUH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.KUO"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KUR"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KUV"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KVB"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KVC"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KVD"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.KVI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KVL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KVP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KVV"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KVW"
+msgstr "Srbský"
+
+msgid "ISO_639-3.KWD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KWE"
+msgstr "Srbský"
+
+msgid "ISO_639-3.KWF"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KWH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KWP"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.KWW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KWY"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KXA"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KXC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.KXD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KXN"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KXS"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KXV"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KXW"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.KYD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KYH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KYM"
+msgstr "Maori"
+
+msgid "ISO_639-3.KYO"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KYP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KYS"
+msgstr "Arabská"
+
+msgid "ISO_639-3.KYU"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KZA"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.KZD"
+msgstr "Maori"
+
+msgid "ISO_639-3.KZE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KZG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KZL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.KZM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KZN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KZO"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.KZR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.KZX"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.LAB"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.LAD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LAG"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LAL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.LAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.LAT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LAV"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LAY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LBA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LBC"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LBF"
+msgstr "Fínsky"
+
+msgid "ISO_639-3.LBI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LBK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.LBN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LBO"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LBT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LBW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LCH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LCP"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.LDD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LDI"
+msgstr "Maori"
+
+msgid "ISO_639-3.LDL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LDM"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LDN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LEM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.LES"
+msgstr "Japonský"
+
+msgid "ISO_639-3.LEX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LEZ"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.LGG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.LGL"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.LGR"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LGT"
+msgstr "Poľský"
+
+msgid "ISO_639-3.LHH"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.LHN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LHT"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.LIF"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LIM"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LIR"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LIU"
+msgstr "Maori"
+
+msgid "ISO_639-3.LIW"
+msgstr "Írsky"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.LJI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LJL"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LJP"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LJW"
+msgstr "Arabská"
+
+msgid "ISO_639-3.LKB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LKC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LKD"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.LKE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LKI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LKM"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.LKN"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.LKO"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LKS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LKT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LKU"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.LLD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LLF"
+msgstr "Turecký"
+
+msgid "ISO_639-3.LLH"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.LLM"
+msgstr "Maori"
+
+msgid "ISO_639-3.LLX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LMB"
+msgstr "Maori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LMG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.LML"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LMN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LMP"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LNH"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LNI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LNS"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LNU"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.LNW"
+msgstr "Poľský"
+
+msgid "ISO_639-3.LNZ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LOC"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.LOE"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.LOF"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LOG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LOH"
+msgstr "Maori"
+
+msgid "ISO_639-3.LOL"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LPO"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LRA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LRC"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LRE"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRK"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRL"
+msgstr "Maori"
+
+msgid "ISO_639-3.LRM"
+msgstr "Arabská"
+
+msgid "ISO_639-3.LRN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LRO"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Srbský"
+
+msgid "ISO_639-3.LSD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LSH"
+msgstr "Írsky"
+
+msgid "ISO_639-3.LSI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LSM"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.LSS"
+msgstr "Maori"
+
+msgid "ISO_639-3.LTG"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.LTI"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.LTN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LTO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.LTS"
+msgstr "Írsky"
+
+msgid "ISO_639-3.LTU"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LUD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LUE"
+msgstr "Zulu"
+
+msgid "ISO_639-3.LUF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LUM"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LUS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.LUV"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LVS"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.LWG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.LWH"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LWM"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LYG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.LYN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.LZH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.LZN"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.MAD"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAH"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MAI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.MBC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBE"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MBF"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.MBK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBP"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MCA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCI"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCM"
+msgstr "Brazílska portugalčina"
+
+msgid "ISO_639-3.MCN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MCT"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDH"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MDM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MDN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MDW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MDX"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.MEC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEL"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.MEM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MES"
+msgstr "Maori"
+
+msgid "ISO_639-3.MET"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFA"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.MFB"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.MFE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.MFH"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.MFI"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.MFK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.MFL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.MFP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFT"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MFY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.MGB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MGF"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MGG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.MGK"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MGN"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.MGT"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MGU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MGV"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MHA"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.MHB"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MHC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MHE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.MHF"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MHJ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MHK"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.MHP"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MHS"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.MHX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MID"
+msgstr "Maori"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.MIK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJL"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJR"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MJV"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MJW"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.MJX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MJY"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKA"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.MKD"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MKE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MKR"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MKV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MKY"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLF"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MLH"
+msgstr "Japonský"
+
+msgid "ISO_639-3.MLK"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.MLN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MLP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLQ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MLS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MLT"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MLV"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMD"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MME"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MMU"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.MMV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MMX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MNI"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.MNL"
+msgstr "Turecký"
+
+msgid "ISO_639-3.MNM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MNP"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Turecký"
+
+msgid "ISO_639-3.MNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MNW"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MOE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOJ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MON"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOS"
+msgstr "Maori"
+
+msgid "ISO_639-3.MOU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOW"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOX"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MPA"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MPD"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.MPG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MPH"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MPI"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MPT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MPV"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.MPW"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MPY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQA"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.MQC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MQE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQP"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MQR"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MQS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MQU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQW"
+msgstr "Maori"
+
+msgid "ISO_639-3.MQY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MRG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MRR"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.MRX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSE"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MSG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSK"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSL"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MSS"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MSV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MSY"
+msgstr "Arabská"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTL"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.MTQ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MTR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MTS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.MTY"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.MUC"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MUI"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MUK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MUO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.MUP"
+msgstr "Poľský"
+
+msgid "ISO_639-3.MUR"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MUS"
+msgstr "Grécky"
+
+msgid "ISO_639-3.MUT"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MUX"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVA"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVD"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVF"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MVO"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVP"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVS"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MVU"
+msgstr "Maori"
+
+msgid "ISO_639-3.MVZ"
+msgstr "Srbský"
+
+msgid "ISO_639-3.MWI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MWK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.MWL"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.MWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWT"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MWV"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWX"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MWY"
+msgstr "Maori"
+
+msgid "ISO_639-3.MWZ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MXD"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MXF"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MXI"
+msgstr "Arabská"
+
+msgid "ISO_639-3.MXK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MXN"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.MXR"
+msgstr "Ruský"
+
+msgid "ISO_639-3.MXW"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.MXX"
+msgstr "Welšský"
+
+msgid "ISO_639-3.MYG"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYH"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYI"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.MYL"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.MYS"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.MYX"
+msgstr "Maori"
+
+msgid "ISO_639-3.MYY"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.MZE"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZP"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.MZS"
+msgstr "Japonský"
+
+msgid "ISO_639-3.MZT"
+msgstr "Maori"
+
+msgid "ISO_639-3.MZV"
+msgstr "Maori"
+
+msgid "ISO_639-3.NAA"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Zulu"
+
+msgid "ISO_639-3.NAL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.NAN"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.NAW"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NAX"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NBB"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NBC"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NBH"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NBN"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NBP"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NBU"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NBY"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NCB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NCC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.NCE"
+msgstr "Japonský"
+
+msgid "ISO_639-3.NCF"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NCH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NDA"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.NDC"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDF"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.NDH"
+msgstr "Poľský"
+
+msgid "ISO_639-3.NDM"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDP"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDR"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDS"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.NDT"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDX"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NEF"
+msgstr "Vietnamský"
+
+msgid "ISO_639-3.NEG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NEP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NER"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.NES"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NEU"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NEW"
+msgstr "Maori"
+
+msgid "ISO_639-3.NFD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NGO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NGP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.NGX"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NGY"
+msgstr "Turecký"
+
+msgid "ISO_639-3.NHA"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NHB"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.NHH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NHO"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NIB"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NID"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NIO"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NIR"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.NIX"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.NIY"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NJI"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.NJM"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.NJN"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Turecký"
+
+msgid "ISO_639-3.NKA"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NKB"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NKC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NKD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NKG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NKI"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NKO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NKU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.NLC"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.NLD"
+msgstr "Holandský"
+
+msgid "ISO_639-3.NLG"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.NLI"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Poľský"
+
+msgid "ISO_639-3.NLL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NLW"
+msgstr "Maori"
+
+msgid "ISO_639-3.NLX"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Poľský"
+
+msgid "ISO_639-3.NMA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.NMB"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.NMC"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NMF"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.NMG"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NMR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NMV"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NMW"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NNF"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NNG"
+msgstr "Maori"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.NNO"
+msgstr "Nórsky (Nynorsk)"
+
+msgid "ISO_639-3.NNY"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NOB"
+msgstr "Nórsky (Bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NOF"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.NOG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NOI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NOL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NON"
+msgstr "Srbský"
+
+msgid "ISO_639-3.NOQ"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NOR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NPG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NPI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NPN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NPS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.NQM"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.NQY"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.NRC"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NRN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NRR"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NRT"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NRU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.NSA"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NSC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NSE"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.NSG"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.NSK"
+msgstr "Maori"
+
+msgid "ISO_639-3.NSN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.NSS"
+msgstr "Poľský"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.NSX"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NSY"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.NTD"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.NTG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NTX"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.NTY"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.NUA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.NUD"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NUG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NUH"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NUN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NUR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.NUX"
+msgstr "Grécky"
+
+msgid "ISO_639-3.NVH"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.NWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.NXI"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.NXM"
+msgstr "Srbský"
+
+msgid "ISO_639-3.NXO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NXX"
+msgstr "Maori"
+
+msgid "ISO_639-3.NYA"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NYF"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.NYH"
+msgstr "Turecký"
+
+msgid "ISO_639-3.NYJ"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.NYQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NYR"
+msgstr "Thajský"
+
+msgid "ISO_639-3.NYS"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.OAR"
+msgstr "Arabská"
+
+msgid "ISO_639-3.OBR"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.OBT"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.OCA"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OCH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.OCO"
+msgstr "Írsky"
+
+msgid "ISO_639-3.ODT"
+msgstr "Holandský"
+
+msgid "ISO_639-3.OFS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.OGE"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.OGO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.OHU"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.OIA"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.OJP"
+msgstr "Japonský"
+
+msgid "ISO_639-3.OJW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.OKD"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.OKK"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.OKL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.OKR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.OKV"
+msgstr "Chorvátsky"
+
+msgid "ISO_639-3.OLD"
+msgstr "Maori"
+
+msgid "ISO_639-3.OLR"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.OLU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.OMN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.OMP"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.OMR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ONB"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.ONP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ONR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ONW"
+msgstr "Srbský"
+
+msgid "ISO_639-3.OOS"
+msgstr "Ruský"
+
+msgid "ISO_639-3.ORC"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.ORI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ORT"
+msgstr "Turecký"
+
+msgid "ISO_639-3.ORV"
+msgstr "Ruský"
+
+msgid "ISO_639-3.OSC"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OSI"
+msgstr "Ruský"
+
+msgid "ISO_639-3.OSP"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.OSS"
+msgstr "Ruský"
+
+msgid "ISO_639-3.OSX"
+msgstr "Srbský"
+
+msgid "ISO_639-3.OTB"
+msgstr "Srbský"
+
+msgid "ISO_639-3.OTD"
+msgstr "Occitan"
+
+msgid "ISO_639-3.OTK"
+msgstr "Turecký"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.OWL"
+msgstr "Welšský"
+
+msgid "ISO_639-3.OYM"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.PAG"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PAH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PAO"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PAR"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PAS"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PAT"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.PAY"
+msgstr "Český"
+
+msgid "ISO_639-3.PBI"
+msgstr "Maori"
+
+msgid "ISO_639-3.PBN"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.PBO"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PBR"
+msgstr "Maori"
+
+msgid "ISO_639-3.PCF"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PCG"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PCH"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.PCI"
+msgstr "Maori"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PCK"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.PCL"
+msgstr "Maori"
+
+msgid "ISO_639-3.PDI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.PDU"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PEA"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.PEE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.PEG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.PEH"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PEK"
+msgstr "Francúzsky"
+
+msgid "ISO_639-3.PEL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PES"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.PFL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PGG"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PGI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.PGN"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.PGS"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PHH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.PHN"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.PHQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.PHT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PHU"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.PHV"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PIC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PII"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PIM"
+msgstr "Chorvátsky"
+
+msgid "ISO_639-3.PIP"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.PIV"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PKT"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.PLA"
+msgstr "Maori"
+
+msgid "ISO_639-3.PLD"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLE"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLH"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLP"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLU"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.PMB"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PMD"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PMK"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PMS"
+msgstr "Vietnamský"
+
+msgid "ISO_639-3.PMY"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.PNB"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.PNC"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PNE"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.PNG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.PNJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PNL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PNP"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PNR"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PNS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PNT"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.PNY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.POC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.POL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PON"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.POR"
+msgstr "Portugalský"
+
+msgid "ISO_639-3.POX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.PPE"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PPI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PPQ"
+msgstr "Srbský"
+
+msgid "ISO_639-3.PPT"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PRB"
+msgstr "Thajský"
+
+msgid "ISO_639-3.PRC"
+msgstr "Maori"
+
+msgid "ISO_639-3.PRF"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PRG"
+msgstr "Srbský"
+
+msgid "ISO_639-3.PRI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PRM"
+msgstr "Turecký"
+
+msgid "ISO_639-3.PRP"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PRR"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.PRT"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PRU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.PRW"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.PSH"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.PSI"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.PSN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Poľský"
+
+msgid "ISO_639-3.PTN"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.PTR"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PTU"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.PTY"
+msgstr "Srbský"
+
+msgid "ISO_639-3.PUP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.PUT"
+msgstr "Holandský"
+
+msgid "ISO_639-3.PUW"
+msgstr "Portugalský"
+
+msgid "ISO_639-3.PUX"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.PWA"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PWB"
+msgstr "Maori"
+
+msgid "ISO_639-3.PWN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.PWO"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.PWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.PZN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.QYP"
+msgstr "Maori"
+
+msgid "ISO_639-3.RAC"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.RAG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.RAL"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.RAM"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.RAN"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.RAR"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RAS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.RAX"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RES"
+msgstr "Welšský"
+
+msgid "ISO_639-3.RGA"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RGN"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RHG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RHP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.RIA"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.RJG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RJI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.RKI"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.RKM"
+msgstr "Maori"
+
+msgid "ISO_639-3.RKT"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.RKW"
+msgstr "Arabská"
+
+msgid "ISO_639-3.RMA"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMB"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.RMH"
+msgstr "Turecký"
+
+msgid "ISO_639-3.RMI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.RMK"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RML"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMO"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.RMU"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMV"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMW"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMX"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMY"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.RNG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RNL"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RNN"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RNP"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.RNR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ROD"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.ROE"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.ROG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ROH"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.ROL"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.ROM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RON"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.ROR"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.RPT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.RRI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.RSB"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RSM"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.RTC"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.RTH"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.RTM"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RTS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.RUC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.RUE"
+msgstr "Ruský"
+
+msgid "ISO_639-3.RUG"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RUK"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.RUO"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RUP"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RUS"
+msgstr "Ruský"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.RWO"
+msgstr "Maori"
+
+msgid "ISO_639-3.RWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.RXD"
+msgstr "Thajský"
+
+msgid "ISO_639-3.RXW"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAB"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.SAC"
+msgstr "Maori"
+
+msgid "ISO_639-3.SAE"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SAK"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SAM"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SAO"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.SAU"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SAX"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SAY"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SBE"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.SBL"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SBM"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.SBS"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SBV"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SBX"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SBY"
+msgstr "Poľský"
+
+msgid "ISO_639-3.SCE"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SCH"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SCK"
+msgstr "Maori"
+
+msgid "ISO_639-3.SCL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SCV"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SCX"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SDB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SDC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SDF"
+msgstr "Poľský"
+
+msgid "ISO_639-3.SDH"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.SDK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.SDN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SDR"
+msgstr "Maori"
+
+msgid "ISO_639-3.SED"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SEH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SEI"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SEK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.SEO"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SER"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SET"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SGB"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.SGC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SGD"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SGE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SGM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SGS"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.SGY"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHC"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SHE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.SHR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHT"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SHU"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SHV"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SHW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SHY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SIB"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.SIH"
+msgstr "Turecký"
+
+msgid "ISO_639-3.SIK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SIN"
+msgstr "Vietnamský"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.SIU"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SIV"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SIX"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SJP"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.SJW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SKB"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SKC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SKH"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SKI"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SKK"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SKM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SKR"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SKS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SKY"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.SLE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SLI"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.SLK"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SLN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SLT"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SLU"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.SLV"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SMB"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SME"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.SMH"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SMK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.SMN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SMP"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SMU"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.SMY"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SNA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNF"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.SNH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNK"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SNL"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNO"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.SNP"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.SNR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNU"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SNV"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SOA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SOD"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOG"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.SOH"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.SOI"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SOP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.SOR"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOS"
+msgstr "Grécky"
+
+msgid "ISO_639-3.SOW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SOX"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.SPA"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.SPB"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.SPG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SPI"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SPK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SPS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.SPU"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.SPV"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.SQH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SQI"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.SQM"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SQR"
+msgstr "Arabská"
+
+msgid "ISO_639-3.SQU"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.SRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SRC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SRD"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SRE"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SRF"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.SRI"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SRN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SRO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.SRP"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.SRT"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.SRW"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SRY"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SSD"
+msgstr "Turecký"
+
+msgid "ISO_639-3.SSE"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.SSF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SSG"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SSH"
+msgstr "Arabská"
+
+msgid "ISO_639-3.SSI"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SSK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SSL"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SSN"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SST"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.SSU"
+msgstr "Thajský"
+
+msgid "ISO_639-3.SSY"
+msgstr "Welšský"
+
+msgid "ISO_639-3.STB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.STD"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.STH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.STK"
+msgstr "Arabská"
+
+msgid "ISO_639-3.STM"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.STO"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.SUC"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SUE"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SUX"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SVA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SVE"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SVX"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.SWE"
+msgstr "Švédsky"
+
+msgid "ISO_639-3.SWF"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.SWG"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SWK"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.SWM"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.SWO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SWP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.SWS"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.SWW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SXC"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SXL"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SXM"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.SXN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.SXS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.SYA"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.SYB"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.SYM"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.SYR"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SYX"
+msgstr "Srbský"
+
+msgid "ISO_639-3.SZL"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.SZN"
+msgstr "Slovenský"
+
+msgid "ISO_639-3.SZW"
+msgstr "Maori"
+
+msgid "ISO_639-3.TAA"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.TAD"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.TAE"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TAG"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TAH"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TAK"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TAU"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.TAW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TBA"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.TBC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TBG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.TBI"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.TBJ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TBO"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.TBX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TCC"
+msgstr "Maori"
+
+msgid "ISO_639-3.TCD"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.TCP"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TCY"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.TDB"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.TDG"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TDH"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TDI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TDQ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TEC"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TEH"
+msgstr "Český"
+
+msgid "ISO_639-3.TEK"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TEY"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TFN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.TGB"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.TGC"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TGD"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.TGK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TGN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TGR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.TGX"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.THA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.THE"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.THF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.THN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.THR"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.THS"
+msgstr "Thajský"
+
+msgid "ISO_639-3.THT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.THU"
+msgstr "Turecký"
+
+msgid "ISO_639-3.THW"
+msgstr "Thajský"
+
+msgid "ISO_639-3.THY"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TIC"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TIG"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TII"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TIK"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TIM"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TIN"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TIP"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TIU"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.TJL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TKB"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TLD"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TLH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TLK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TLO"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TLR"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.TLT"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.TLU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TLV"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TLX"
+msgstr "Český"
+
+msgid "ISO_639-3.TMC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TMD"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TMN"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.TMS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TMW"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TNA"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TNB"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TNG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.TNH"
+msgstr "Maori"
+
+msgid "ISO_639-3.TNI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TNM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TOD"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.TOH"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.TOM"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TOW"
+msgstr "Grécky"
+
+msgid "ISO_639-3.TOX"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.TPF"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TQL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TQT"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TRA"
+msgstr "Maori"
+
+msgid "ISO_639-3.TRD"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TRE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.TRH"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TRR"
+msgstr "Welšský"
+
+msgid "ISO_639-3.TRT"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TSD"
+msgstr "Estónsky"
+
+msgid "ISO_639-3.TSH"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TSI"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TSV"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.TSW"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TSX"
+msgstr "Maori"
+
+msgid "ISO_639-3.TTB"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.TTG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.TTI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TTR"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TTV"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TTW"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.TUI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TUR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TUY"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TVD"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TVL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TVO"
+msgstr "Turecký"
+
+msgid "ISO_639-3.TVW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.TWB"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.TWE"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.TWF"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.TWL"
+msgstr "Maori"
+
+msgid "ISO_639-3.TWM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.TWN"
+msgstr "Švédsky"
+
+msgid "ISO_639-3.TWU"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.TWW"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.TXA"
+msgstr "Anglický (UK)"
+
+msgid "ISO_639-3.TXB"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.TXH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TXM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TXN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.TXR"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TXX"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.TYE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TYN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.TZH"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TZL"
+msgstr "Ruský"
+
+msgid "ISO_639-3.TZO"
+msgstr "Thajský"
+
+msgid "ISO_639-3.TZX"
+msgstr "Thajský"
+
+msgid "ISO_639-3.UAN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.UDG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.UDL"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.UGO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.UHA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.UIS"
+msgstr "Maori"
+
+msgid "ISO_639-3.UKA"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.UKR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ULI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.ULK"
+msgstr "Srbský"
+
+msgid "ISO_639-3.ULW"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.UMC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.UMN"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.UNG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.UNN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.UNR"
+msgstr "Maori"
+
+msgid "ISO_639-3.UNU"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.UNX"
+msgstr "Maori"
+
+msgid "ISO_639-3.URA"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.URC"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.URF"
+msgstr "Maori"
+
+msgid "ISO_639-3.URG"
+msgstr "Turecký"
+
+msgid "ISO_639-3.URL"
+msgstr "Poľský"
+
+msgid "ISO_639-3.URM"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.URN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.URT"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.USP"
+msgstr "Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Occitan"
+
+msgid "ISO_639-3.VAF"
+msgstr "Maori"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.VAN"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.VAS"
+msgstr "Maori"
+
+msgid "ISO_639-3.VAV"
+msgstr "Poľský"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.VEC"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.VER"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.VGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.VIE"
+msgstr "Vietnamský"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.VKK"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.VKO"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.VKP"
+msgstr "Brazílska portugalčina"
+
+msgid "ISO_639-3.VLP"
+msgstr "Poľský"
+
+msgid "ISO_639-3.VMA"
+msgstr "Maori"
+
+msgid "ISO_639-3.VMB"
+msgstr "Arabská"
+
+msgid "ISO_639-3.VMD"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.VME"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.VMG"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.VMH"
+msgstr "Maori"
+
+msgid "ISO_639-3.VML"
+msgstr "Maori"
+
+msgid "ISO_639-3.VMR"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.VNK"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.VRA"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.VRS"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.VRT"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.WAE"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.WAI"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.WAL"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.WAN"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WAO"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.WAS"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WAV"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WAW"
+msgstr "Maori"
+
+msgid "ISO_639-3.WAX"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WBA"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WBB"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WBF"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WBI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.WBK"
+msgstr "Maori"
+
+msgid "ISO_639-3.WBL"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WDK"
+msgstr "Thajský"
+
+msgid "ISO_639-3.WEH"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WET"
+msgstr "Poľský"
+
+msgid "ISO_639-3.WEU"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.WGI"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WHG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.WHU"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.WII"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.WJA"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WJI"
+msgstr "Maori"
+
+msgid "ISO_639-3.WKB"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.WKL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.WKU"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.WLA"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WLE"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.WLG"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.WLI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.WLK"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WLN"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WLR"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WLS"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.WLW"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WLY"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.WMC"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WMD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamilský"
+
+msgid "ISO_639-3.WMM"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.WMS"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WMW"
+msgstr "Maori"
+
+msgid "ISO_639-3.WMX"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.WNN"
+msgstr "Arabská"
+
+msgid "ISO_639-3.WNO"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WOC"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.WOD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.WOE"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.WOF"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.WOK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.WON"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.WOO"
+msgstr "Maori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.WPC"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRB"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRK"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRN"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.WRO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.WRP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.WRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.WRY"
+msgstr "Maori"
+
+msgid "ISO_639-3.WSI"
+msgstr "Thajský"
+
+msgid "ISO_639-3.WSK"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.WSS"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.WSU"
+msgstr "Welšský"
+
+msgid "ISO_639-3.WTM"
+msgstr "Maori"
+
+msgid "ISO_639-3.WUU"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.WWA"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WWB"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WWR"
+msgstr "Maori"
+
+msgid "ISO_639-3.WWW"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.WXW"
+msgstr "Arabská"
+
+msgid "ISO_639-3.WYY"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.XAB"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XAC"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XAD"
+msgstr "Arabská"
+
+msgid "ISO_639-3.XAE"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.XAG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Arabská"
+
+msgid "ISO_639-3.XAL"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.XAO"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XAR"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.XAU"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.XBC"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.XBD"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.XBE"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.XBG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.XBJ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XBM"
+msgstr "Bretónsky"
+
+msgid "ISO_639-3.XBN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XBO"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.XBY"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.XCL"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.XCO"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.XCR"
+msgstr "Maori"
+
+msgid "ISO_639-3.XCU"
+msgstr "Chorvátsky"
+
+msgid "ISO_639-3.XCY"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.XDA"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XDC"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.XDY"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.XFA"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.XGA"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.XGD"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.XGG"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XGI"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XGL"
+msgstr "Gálsky"
+
+msgid "ISO_639-3.XGM"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XGR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.XHA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.XHE"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XHU"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.XHV"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XIB"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XII"
+msgstr "Turecký"
+
+msgid "ISO_639-3.XIL"
+msgstr "Taliansky"
+
+msgid "ISO_639-3.XIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.XIS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XJT"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XKE"
+msgstr "Hebrejský"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Poľský"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XKT"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XKX"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XKY"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.XLC"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XLD"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XLE"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.XLI"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XLN"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.XLS"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XMB"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XME"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XMF"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMK"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XMO"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.XMU"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.XMX"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.XNG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XNH"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.XNI"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.XNK"
+msgstr "Maďarský"
+
+msgid "ISO_639-3.XNN"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XNR"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.XNS"
+msgstr "Dánsky"
+
+msgid "ISO_639-3.XNT"
+msgstr "Maori"
+
+msgid "ISO_639-3.XOD"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XOG"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.XON"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XOP"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XOW"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XPA"
+msgstr "Turecký"
+
+msgid "ISO_639-3.XPC"
+msgstr "Český"
+
+msgid "ISO_639-3.XPG"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XPI"
+msgstr "Poľský"
+
+msgid "ISO_639-3.XPR"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XPS"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XQA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XQT"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.XRE"
+msgstr "Grécky"
+
+msgid "ISO_639-3.XRG"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.XRM"
+msgstr "Arabská"
+
+msgid "ISO_639-3.XRN"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XRU"
+msgstr "Maori"
+
+msgid "ISO_639-3.XRW"
+msgstr "Maori"
+
+msgid "ISO_639-3.XSB"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XSC"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XSE"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.XSH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XSM"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XSO"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.XSR"
+msgstr "Srbský"
+
+msgid "ISO_639-3.XSS"
+msgstr "Ruský"
+
+msgid "ISO_639-3.XSV"
+msgstr "Slovinský"
+
+msgid "ISO_639-3.XTO"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.XTV"
+msgstr "Maori"
+
+msgid "ISO_639-3.XTW"
+msgstr "Maori"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.XUM"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.XUN"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.XUR"
+msgstr "Chorvátsky"
+
+msgid "ISO_639-3.XUU"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XVI"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.XVO"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.XVS"
+msgstr "Estónsky"
+
+msgid "ISO_639-3.XWA"
+msgstr "Thajský"
+
+msgid "ISO_639-3.XWC"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.XWK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XXB"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.XXR"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.XXT"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.XYB"
+msgstr "Maori"
+
+msgid "ISO_639-3.XYL"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.XZM"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YAK"
+msgstr "Maori"
+
+msgid "ISO_639-3.YAN"
+msgstr "Maori"
+
+msgid "ISO_639-3.YAP"
+msgstr "Japonský"
+
+msgid "ISO_639-3.YBA"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.YBK"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.YBM"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.YCH"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.YCL"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.YCP"
+msgstr "Indonézsky"
+
+msgid "ISO_639-3.YDA"
+msgstr "Arabská"
+
+msgid "ISO_639-3.YEC"
+msgstr "Francúzsky"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Islandský"
+
+msgid "ISO_639-3.YER"
+msgstr "Thajský"
+
+msgid "ISO_639-3.YES"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.YGA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YGI"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.YGP"
+msgstr "Grécky"
+
+msgid "ISO_639-3.YGR"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.YGS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.YGW"
+msgstr "Maori"
+
+msgid "ISO_639-3.YHA"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.YHD"
+msgstr "Arabská"
+
+msgid "ISO_639-3.YHS"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.YIF"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.YIH"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.YIM"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.YIP"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YIR"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.YIU"
+msgstr "Arabská"
+
+msgid "ISO_639-3.YIX"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.YKA"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.YKL"
+msgstr "Thajský"
+
+msgid "ISO_639-3.YKM"
+msgstr "Thajský"
+
+msgid "ISO_639-3.YKO"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.YKT"
+msgstr "Thajský"
+
+msgid "ISO_639-3.YKU"
+msgstr "Baskitský"
+
+msgid "ISO_639-3.YLB"
+msgstr "Japonský"
+
+msgid "ISO_639-3.YLE"
+msgstr "Japonský"
+
+msgid "ISO_639-3.YLM"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.YLO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YMB"
+msgstr "Japonský"
+
+msgid "ISO_639-3.YMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMH"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMI"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Maori"
+
+msgid "ISO_639-3.YMO"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.YMR"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.YMS"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YNE"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.YNG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YNO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.YOG"
+msgstr "Bosenský"
+
+msgid "ISO_639-3.YOI"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.YOL"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.YON"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YPA"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.YPG"
+msgstr "Poľský"
+
+msgid "ISO_639-3.YPH"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.YPM"
+msgstr "Maori"
+
+msgid "ISO_639-3.YPO"
+msgstr "Poľský"
+
+msgid "ISO_639-3.YPP"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.YRY"
+msgstr "Katalánsky"
+
+msgid "ISO_639-3.YSD"
+msgstr "Srbský"
+
+msgid "ISO_639-3.YSN"
+msgstr "Španielsky"
+
+msgid "ISO_639-3.YSY"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.YTA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YTL"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YTP"
+msgstr "Thajský"
+
+msgid "ISO_639-3.YUC"
+msgstr "Holandský"
+
+msgid "ISO_639-3.YUD"
+msgstr "Arabská"
+
+msgid "ISO_639-3.YUE"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.YUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YUT"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.YVA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YWL"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.YXA"
+msgstr "Maori"
+
+msgid "ISO_639-3.YXG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Ázerbajdžánsky"
+
+msgid "ISO_639-3.YZG"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.YZK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "Vallónsky"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Nemecký"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZHA"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHD"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHI"
+msgstr "Turecký"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.ZIR"
+msgstr "Turecký"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "Ukrajinský"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Bulharský"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Occitan"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Rumunský"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Thajský"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lotyšský"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZML"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.ZMP"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZNG"
+msgstr "Macedónsky"
+
+msgid "ISO_639-3.ZNK"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Maltézsky"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Grécky"
+
+msgid "ISO_639-3.ZRP"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Kórejský"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Kurdský"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Čínsky"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Maori"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Xhosa"

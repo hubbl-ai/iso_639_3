@@ -1,0 +1,7940 @@
+# Xhosa translations of ISO 639 Language names
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Translations from KDE:
+#  Antoinette Dekeni <antoinette@translate.org.za>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-12-10 14:55SAST\n"
+"Last-Translator: Antoinette Dekeni <antoinette@translate.org.za>\n"
+"Language-Team: Xhosa <xhosa@translate.org.za>\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.5\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AAF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AAG"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AAK"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AAT"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AAZ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ABD"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.ABE"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ABG"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ABH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ABK"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ABQ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ABV"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ABW"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.ABZ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ACE"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ACI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ACR"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ACW"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ACX"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ACY"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ADF"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ADL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.ADN"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ADR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.AEA"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AEC"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AEE"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AEU"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AEW"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AEZ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AFB"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AFD"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AFK"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.AFP"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AFR"
+msgstr "isiBhulu"
+
+msgid "ISO_639-3.AGA"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AGB"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.AGD"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AGF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AGG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.AGI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.AGM"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.AGO"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AGW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AHK"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AHR"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AIA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.AIC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AIE"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.AIR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.AIS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.AIW"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AJN"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AJT"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AJU"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AJZ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.AKA"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.AKF"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKK"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKL"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKM"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKQ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKR"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AKW"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AKZ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ALD"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ALH"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ALJ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ALK"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.ALN"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ALS"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AMC"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AMH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AMJ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AMK"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AML"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.AMN"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AMQ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AMY"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ANC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.ANK"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.ANP"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ANQ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.ANS"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.ANW"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ANY"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AOA"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.AOF"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.AOH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AOJ"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.AOR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.AOS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AOT"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.APD"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.APF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.APG"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.APH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.API"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.APO"
+msgstr "Julia"
+
+msgid "ISO_639-3.APW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AQC"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.AQZ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ARA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ARD"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ARE"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ARH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ARI"
+msgstr "isiBhulu"
+
+msgid "ISO_639-3.ARJ"
+msgstr "isiBhulu"
+
+msgid "ISO_639-3.ARL"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ARN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.ARO"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ARQ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ARS"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ARY"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.ASI"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.ASK"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.ASO"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.AST"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-3.ATN"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-3.ATR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ATX"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ATZ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AUB"
+msgstr "Julia"
+
+msgid "ISO_639-3.AUC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.AUH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AUK"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.AUL"
+msgstr "Julia"
+
+msgid "ISO_639-3.AUQ"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.AUR"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.AUZ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AVA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AVB"
+msgstr "Julia"
+
+msgid "ISO_639-3.AVI"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AVK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.AVN"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AVS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.AWM"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AXL"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AXM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.AYA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AYH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AYI"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.AYL"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.AYN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.AYZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.AZA"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AZB"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AZE"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.AZJ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.BAG"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BAJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BAN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BAR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BAV"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BAY"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BBB"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BBD"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BBE"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BBF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BBG"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.BBH"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BBI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BBL"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BBQ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.BBV"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BBW"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BBX"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BCF"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BCG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BCH"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BCJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BCK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BCO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BCQ"
+msgstr "isiFrentshi"
+
+msgid "ISO_639-3.BCR"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BCT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BCW"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BCY"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BDB"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BDD"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BDE"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BDF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BDG"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BDJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BDK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BDL"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BDO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BDQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BDW"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BEG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BEH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BEK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BEL"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BEN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BEO"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.BEP"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BES"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BEU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BFA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BFG"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BFQ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BFR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BFT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BFU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BFW"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BFX"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BFY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BGB"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BGC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BGE"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BGG"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BGJ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BGK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BGN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.BGQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BGR"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.BGU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BGW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BGZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BHA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHB"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BHD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHE"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BHG"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.BHH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BHP"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BHR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BHU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BHV"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BHW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BHX"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BHZ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BIB"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BIC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BID"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIG"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIN"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BIP"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BIQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIU"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BIX"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BIZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BJC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BJH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BJI"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BJJ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BJN"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BJR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BJS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BJV"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BJY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BJZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BKD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BKF"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.BKG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BKI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BKN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BKS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BKT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BKX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.BLD"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BLG"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BLI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BLJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BLL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BLR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BLS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BMD"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BMH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BMI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BMO"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.BMP"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BMR"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.BMS"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BMX"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BMZ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BNB"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BNC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BND"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BNF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BNI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BNK"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.BNL"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BNQ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.BNU"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BNW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BNZ"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.BOA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BOB"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.BOF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BOH"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BOK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BON"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BOP"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BOQ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BOS"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BOT"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BOU"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BOW"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BPA"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BPG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BPH"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.BPJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BPO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BPP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BPQ"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.BPU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BPV"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BQB"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BQH"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BQI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BQO"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.BQP"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BQQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BQS"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BQV"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BQX"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BQZ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BRE"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BRF"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.BRG"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BRH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BRJ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BRO"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BRS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BRT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BRU"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.BRV"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.BRW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BRX"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BRY"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BRZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSB"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSC"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BSE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSG"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSH"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.BSI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BSJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BSN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BSQ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BST"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BSU"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BSW"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BTA"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BTF"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BTI"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BTJ"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.BTR"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BTU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BTV"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BUA"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BUB"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BUC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BUG"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BUI"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BUK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BUL"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BUN"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.BUO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.BUP"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BUQ"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BUT"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BUW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BVA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BVB"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BVC"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.BVH"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BVJ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BVK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BVN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BVO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BVP"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.BVQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BVR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BVT"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BVU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BVV"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BVW"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BVY"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.BVZ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BWG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.BWI"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BWM"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BWZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BXA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BXC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BXM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.BXN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BXO"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BXR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BXS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BXU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BXZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BYA"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BYF"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BYH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.BYK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BYM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BYN"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BYQ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BYR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BYS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BYW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.BYZ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BZA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BZD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BZF"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.BZG"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BZI"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BZO"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.BZQ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.BZR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BZT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.BZU"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.BZV"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.BZZ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.CAC"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CAE"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.CAF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CAH"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CAK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.CAL"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.CAN"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CAR"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.CAS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.CAT"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CBC"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CBD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CBI"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CBK"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CBL"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.CBW"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CBY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CCG"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.CDA"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.CDE"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CDG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CDI"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.CDO"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CDZ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.CEA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.CEK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.CEN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CES"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CFD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CFM"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.CHC"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CHE"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CHK"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CHM"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.CHX"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CIE"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CIK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.CIM"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.CIP"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.CIY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.CJA"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.CJI"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CJK"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CJM"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.CJN"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.CJV"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CJY"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CKB"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.CKL"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CKN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CKT"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CKU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CKV"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CLA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.CLE"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.CLJ"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CLL"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CLM"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.CLT"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CLU"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CMA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CME"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.CMG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.CML"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.CMN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.CMS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CNG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.CNH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CNK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.CNL"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.CNO"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.CNW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.CNX"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.COE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.COR"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.COX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.COZ"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CPI"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CPN"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CPX"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CRA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CRE"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.CRF"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.CRR"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.CRX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CRY"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.CSJ"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CST"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.CSV"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CSY"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.CTC"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.CTD"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.CTG"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.CTH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CTS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.CTU"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.CUH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CUI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.CUL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.CUU"
+msgstr "isiThai"
+
+msgid "ISO_639-3.CUW"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CWB"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.CWE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.CYM"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.CZH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.CZK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.CZT"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.DAC"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.DAD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DAG"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DAM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DAN"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DAO"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.DAQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DAR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DAV"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.DAX"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DBA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.DBJ"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.DBM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DBO"
+msgstr "Julia"
+
+msgid "ISO_639-3.DBQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DBW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DCC"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.DEC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.DEH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.DER"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DES"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DEU"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.DGG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.DGI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.DGK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DGL"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.DGN"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DGX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DHG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.DHN"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DHO"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.DHR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DHS"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DHU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DHX"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.DIC"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.DID"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.DIF"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.DIJ"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DIK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DIP"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.DIS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.DIT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.DIU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.DIV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.DIW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DJO"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.DJU"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.DLG"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.DLK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DLM"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.DLN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.DML"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.DMM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DMX"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.DNG"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.DNJ"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DNV"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.DNW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DOH"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.DOK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.DOO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.DOR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DOT"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DOX"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.DOZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DRB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DRC"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.DRD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DRG"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.DRL"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.DRQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DRS"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.DRY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DSB"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.DSI"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DSO"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DTA"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.DTY"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.DUO"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.DUP"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.DVA"
+msgstr "Julia"
+
+msgid "ISO_639-3.DWA"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.DWR"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.DWW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.DYA"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.DZA"
+msgstr "Julia"
+
+msgid "ISO_639-3.DZG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.EAA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.EBK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ECR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.EGL"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.EIV"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.EKC"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.EKG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.EKK"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.EKR"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.EKY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ELI"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.EMG"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.EMN"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.EMU"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ENA"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.ENB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ENG"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.EPO"
+msgstr "isi-Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.ERG"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.EST"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-3.ESY"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.EUS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.EYO"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.FAA"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.FAD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.FAF"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.FAH"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.FAJ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.FAP"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.FAR"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.FAS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FAT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.FAX"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.FAY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FAZ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FBL"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.FGR"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.FIL"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FIN"
+msgstr "isiFinnish"
+
+msgid "ISO_639-3.FIR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FKV"
+msgstr "isiFinnish"
+
+msgid "ISO_639-3.FLI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.FLL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.FLY"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.FMU"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FNI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.FOM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.FOR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.FRA"
+msgstr "isiFrentshi"
+
+msgid "ISO_639-3.FRC"
+msgstr "isiFrentshi"
+
+msgid "ISO_639-3.FRK"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.FRP"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.FRR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FRS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FRY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FUI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.FUR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.FUU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.GAB"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GAF"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GAH"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.GAI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GAL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.GAN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.GAO"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.GAT"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.GBD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GBJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.GBL"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.GBM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GBY"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GCC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GCD"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.GCE"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.GCN"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.GDI"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GDK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GDL"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.GDN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.GDQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GDT"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.GEA"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GEB"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.GEG"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GEI"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GEJ"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GEQ"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GEW"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GEX"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.GEZ"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GGE"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GGK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.GHR"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GHT"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.GIC"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.GIG"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GIL"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-3.GIQ"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GIR"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GIW"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GJM"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GJR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GJU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GKE"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.GKN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.GLD"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.GLE"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.GLG"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.GLH"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.GLO"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.GMA"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.GMU"
+msgstr "Julia"
+
+msgid "ISO_639-3.GMV"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GMX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GNA"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.GNE"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GNG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.GNH"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.GNM"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GNQ"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GNT"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GNW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.GNZ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GOA"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GOF"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.GOG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.GOQ"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GOZ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GPN"
+msgstr "isiThai"
+
+msgid "ISO_639-3.GQU"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.GRB"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GRG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GRI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.GRN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GRO"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GRR"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.GRS"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GRT"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GRU"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.GRX"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GSP"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.GSW"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GUE"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GUM"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GUW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GVC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GVE"
+msgstr "isiDatshi"
+
+msgid "ISO_639-3.GVF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.GVM"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GVR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.GVS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GVY"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GWA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.GWC"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.GWE"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GWF"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GWG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.GWR"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GWW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.GWX"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GYE"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.GYI"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.GYL"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.GYR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.GZI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.GZN"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.HAC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.HAH"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.HAK"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.HAL"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.HAM"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HAN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.HAR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.HAS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.HAT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.HBN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.HBO"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HBS"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.HEB"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HEH"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HER"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HGW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.HHY"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.HIA"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.HIB"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.HIG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.HII"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.HIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.HJI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.HKA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.HLA"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.HLB"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.HLT"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.HMJ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.HMO"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.HMT"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.HMW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.HNI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.HNU"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.HOJ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.HOM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.HOR"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HOV"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.HRE"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.HRO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.HRV"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.HRW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.HRX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.HRZ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.HSB"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.HSN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.HUD"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.HUK"
+msgstr "Julia"
+
+msgid "ISO_639-3.HUM"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.HUN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.HUS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.HYE"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.IAI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.IAR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.IBL"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.IBY"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.IDB"
+msgstr "isiPhuthukesi"
+
+msgid "ISO_639-3.IDC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.IDR"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.IDS"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.IFU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.IGL"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.IGN"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.III"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.IJE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.IKL"
+msgstr "Julia"
+
+msgid "ISO_639-3.IKR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.IKS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ILB"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.ILI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.ILK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.ILM"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.IMA"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.IMO"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.IMS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.INB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.IND"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.INH"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.INN"
+msgstr "isiThai"
+
+msgid "ISO_639-3.IRU"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ISA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ISH"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-3.ISL"
+msgstr "isi-Icelandic"
+
+msgid "ISO_639-3.ISM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ITA"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.ITD"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ITK"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.ITR"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.ITV"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.ITY"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.IVB"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.IVV"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.IZH"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.JAC"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.JAF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.JAN"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.JAT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.JAU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.JAV"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.JBE"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.JBJ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.JBK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.JCT"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.JDG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.JDT"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.JEB"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.JER"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.JGE"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.JHI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.JKR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.JKU"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.JLE"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.JMB"
+msgstr "Julia"
+
+msgid "ISO_639-3.JMN"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.JNI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.JNS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.JOW"
+msgstr "Julia"
+
+msgid "ISO_639-3.JPN"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.JPR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.JRA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.JRB"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.JUK"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.JUL"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.JUT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.JVD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.JVN"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.JYE"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.KAE"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.KAF"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.KAI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KAK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KAT"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.KAU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KBA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.KBE"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KBI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.KBJ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KBL"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KBP"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KBS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KBT"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.KBU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KBV"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KBW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KBY"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KBZ"
+msgstr "isiDatshi"
+
+msgid "ISO_639-3.KCE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KCF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KCH"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KCI"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.KCJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KCP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KCQ"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.KCR"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.KCS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KCT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.KCW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KCY"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KCZ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KDC"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KDE"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.KDF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KDG"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.KDJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KDR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KDW"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KEA"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.KED"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.KEG"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.KEH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KEJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KEN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KEQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KER"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KEZ"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.KFA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KFB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KFD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KFE"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KFF"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KFG"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KFN"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KFR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KFS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KFT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KFW"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KFX"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KFY"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KGB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KGD"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.KGE"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.KGL"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.KGN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KGO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KGP"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KGV"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KGW"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KHA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KHE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KHF"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KHJ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KHK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KHL"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KHN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.KHO"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.KHP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KHR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KHS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.KHT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KHV"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KHX"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KIB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KID"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.KIL"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KIM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KIQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KIS"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KIW"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KIX"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KJC"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.KJE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KJO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KJQ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KJR"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.KKI"
+msgstr "Julia"
+
+msgid "ISO_639-3.KKK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KKL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KKM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KKO"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KKQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KKT"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KKU"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.KKV"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KKX"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KKZ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.KLG"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.KLJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KLL"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KLM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KLN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KLP"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.KLR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KLU"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.KLW"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.KLY"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.KMA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KMD"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.KMH"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.KMK"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.KMR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KMU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KMY"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.KNC"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KND"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KNE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KNG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KNI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KNJ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KNK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KOC"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.KOF"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KOG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KOK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KOO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KOR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KOS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KOT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KOU"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KOZ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KPD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KPK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KPR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KPS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KPT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KPY"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KQB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KQO"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KQQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KQR"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.KQU"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.KQY"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KQZ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KRA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KRB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KRE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KRH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.KRI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KRK"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.KRL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KRM"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KRT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KRU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KRV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KRW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KRX"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KRZ"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.KSD"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KSE"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KSF"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.KSI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KSJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KSK"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.KSL"
+msgstr "Julia"
+
+msgid "ISO_639-3.KSO"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KSR"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.KSV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KSX"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KSZ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KTD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KTF"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.KTH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KTK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KTM"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KTV"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KUC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KUF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KUH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KUJ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.KUO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KUQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KUR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KUV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KVB"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KVC"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KVD"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.KVI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KVL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KVP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KVV"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KVW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KWD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KWE"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.KWF"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KWH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KWP"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.KWW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KWY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KWZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KXA"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KXC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.KXD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KXN"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KXS"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KXV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KXW"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KXZ"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.KYD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KYH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KYJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KYM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KYO"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KYP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KYQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KYS"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.KYU"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KZA"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.KZD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.KZE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KZG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KZL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.KZM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KZN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KZO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.KZQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.KZR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.KZX"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.LAB"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.LAD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LAG"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LAL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.LAR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LAT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LAV"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LAY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LBA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LBC"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LBF"
+msgstr "isiFinnish"
+
+msgid "ISO_639-3.LBI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LBJ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LBK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.LBN"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LBO"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LBT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LBW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LBZ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LCH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LCP"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.LDD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LDI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LDL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LDM"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LDN"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LEJ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LEM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.LES"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.LEX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LEZ"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.LGG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.LGL"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.LGQ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LGR"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LGT"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.LHH"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LHN"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LHT"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LIF"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LIM"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LIR"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.LIT"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LIU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LIW"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.LJE"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.LJI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LJL"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LJP"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LJW"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.LKB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LKC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LKD"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.LKE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LKI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LKM"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.LKN"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.LKO"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LKS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LKT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LKU"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.LLD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LLF"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.LLH"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.LLM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LLX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LMB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LMG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LML"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LMN"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LMP"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LNH"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LNI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LNS"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LNU"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LNW"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.LNZ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LOC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LOE"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.LOF"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LOG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LOH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LOL"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LPO"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LRA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LRC"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LRE"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LRG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LRI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LRK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LRL"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LRM"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.LRN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LRO"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LRZ"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.LSD"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LSH"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.LSI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LSM"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.LSS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.LTG"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.LTI"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LTN"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LTO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.LTS"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.LTU"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LUD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LUE"
+msgstr "Julia"
+
+msgid "ISO_639-3.LUF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LUJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LUM"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LUS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.LUV"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LVS"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.LWG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.LWH"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LWM"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.LYG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.LYN"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.LZH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.LZN"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MAD"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MAF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAH"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MAI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.MBC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MBE"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MBF"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.MBK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MBP"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.MBQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MBS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MBW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MBY"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MCA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MCH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MCI"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MCJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MCM"
+msgstr "isiPhuthukesi saseBrazil"
+
+msgid "ISO_639-3.MCN"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MCP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MCS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MCT"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MCZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MDB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MDG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MDH"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MDM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MDN"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MDP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MDU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MDW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MDX"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MEC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MEL"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.MEM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MES"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MET"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MEV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MEW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MFA"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.MFB"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.MFE"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MFF"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MFH"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.MFI"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.MFK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.MFL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.MFP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MFR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MFT"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MFY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MFZ"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.MGB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MGD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MGE"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MGF"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MGG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MGJ"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.MGK"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MGN"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MGP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.MGQ"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.MGT"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MGU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MGV"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MHA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MHB"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MHC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MHE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.MHF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MHG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MHI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MHJ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MHK"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.MHP"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.MHQ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MHS"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MHX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MIA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MIC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MID"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MIJ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.MIK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MJB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MJJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MJL"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MJR"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MJV"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MJW"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.MJX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MJY"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MJZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MKA"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.MKD"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MKE"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MKI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.MKJ"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MKR"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MKV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MKY"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.MKZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MLA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MLF"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MLH"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.MLK"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.MLN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MLP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MLQ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MLS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MLT"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MLV"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MMA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMD"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MME"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MMI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MMU"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.MMV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MMX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MNI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.MNL"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.MNM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MNP"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.MNQ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.MNS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MNW"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MNZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MOD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MOE"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MOG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MOJ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MOM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MON"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MOS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MOU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOW"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOX"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Julia"
+
+msgid "ISO_639-3.MPA"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MPC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MPD"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.MPG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MPH"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MPI"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MPQ"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MPT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MPV"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.MPW"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MPY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MQC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MQE"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQP"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MQR"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MQS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MQU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MQY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRD"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MRG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRJ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MRR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MRX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MRZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MSC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MSE"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MSG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MSK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MSL"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MSS"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MSV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MSY"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.MSZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MTL"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MTM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MTN"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.MTQ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MTR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MTS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.MTY"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MUC"
+msgstr "Julia"
+
+msgid "ISO_639-3.MUI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MUK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MUO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MUP"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.MUR"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MUS"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.MUT"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MUX"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MUZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVF"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MVO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVS"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MVU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MVZ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MWI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MWK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.MWL"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MWQ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.MWR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MWT"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MWV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MWX"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MWY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MWZ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MXD"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MXF"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MXI"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.MXK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MXN"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MXR"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.MXW"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.MXX"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.MYG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MYH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MYI"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.MYL"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.MYS"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.MYX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MYY"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.MZE"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MZJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MZP"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.MZS"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.MZT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.MZV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NAA"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Julia"
+
+msgid "ISO_639-3.NAL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.NAN"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.NAW"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NAX"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NBB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NBC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NBH"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NBJ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NBN"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NBP"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NBU"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NBY"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NCB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NCE"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.NCF"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NCH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NDA"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.NDC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDF"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.NDH"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.NDM"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDP"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDS"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.NDT"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDX"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NDZ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NEF"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-3.NEG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NEP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NEQ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NER"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.NES"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NEU"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NEW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NFD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NGJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NGO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NGP"
+msgstr "Julia"
+
+msgid "ISO_639-3.NGX"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NGY"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NHA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NHB"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.NHH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NHO"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NIB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NID"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NIJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NIO"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.NIQ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NIR"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.NIX"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.NIY"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NIZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NJI"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.NJM"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.NJN"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NJZ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NKA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NKB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NKC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NKD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NKG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NKI"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NKJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NKO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NKU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NKZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NLC"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.NLD"
+msgstr "isiDatshi"
+
+msgid "ISO_639-3.NLG"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.NLI"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.NLJ"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.NLL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NLQ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NLW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NLX"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NLZ"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.NMA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.NMB"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.NMC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NMF"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NMG"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NMR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NMV"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NMW"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NNF"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NNG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NNM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.NNO"
+msgstr "isiNorwegian (Nynorsk)"
+
+msgid "ISO_639-3.NNY"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NOB"
+msgstr "isiNorwegian (Bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NOF"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.NOG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NOI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NOJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NOL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NON"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.NOQ"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NOR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.NOZ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NPG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NPI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NPN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NPS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.NQM"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NQQ"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.NQY"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NRB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NRC"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NRN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NRR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NRT"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NRU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.NRZ"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.NSA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NSC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NSE"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NSF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.NSG"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.NSK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NSS"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.NSV"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.NSX"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NSY"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.NTD"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.NTG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NTX"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.NTY"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.NUA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.NUD"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NUG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NUH"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NUN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NUR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.NUX"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.NVH"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.NWR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NXI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NXM"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.NXO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NXQ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NXX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.NYA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NYF"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.NYH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.NYJ"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.NYQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NYR"
+msgstr "isiThai"
+
+msgid "ISO_639-3.NYS"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.OAR"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.OBR"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.OBT"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.OCA"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.OCH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.OCO"
+msgstr "isi-Irish"
+
+msgid "ISO_639-3.ODT"
+msgstr "isiDatshi"
+
+msgid "ISO_639-3.OFS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.OGE"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.OHU"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.OIA"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.OJB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.OJP"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.OJW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.OKD"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.OKK"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.OKL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.OKR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.OKV"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.OLD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.OLR"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.OLT"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.OLU"
+msgstr "Julia"
+
+msgid "ISO_639-3.OMN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.OMP"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.OMR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ONB"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.ONP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ONR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ONW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.OOS"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.ORC"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.ORI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ORT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.ORV"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.OSC"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.OSI"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.OSP"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.OSS"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.OSX"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.OTB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.OTD"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.OTK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.OTY"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.OWL"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.OYM"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.PAG"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PAH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PAO"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PAR"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PAS"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PAT"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.PAY"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.PBI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PBN"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.PBO"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PBR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PCF"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PCG"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PCH"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.PCI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PCJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PCK"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.PCL"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PDI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PDN"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.PDU"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PEA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.PEE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PEF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PEG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.PEH"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.PEJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PEK"
+msgstr "isiFrentshi"
+
+msgid "ISO_639-3.PEL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PES"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.PFL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PGG"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PGI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.PGN"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.PGS"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PGZ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PHH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.PHN"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.PHT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PHV"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PIC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PII"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PIM"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.PIP"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.PIV"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PKT"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.PLA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PLD"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLE"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLH"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLJ"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLP"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLQ"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLU"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PLZ"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.PMB"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PMD"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PMK"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PMS"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-3.PMY"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.PNB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PNC"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PNE"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PNG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.PNJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PNL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PNP"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PNR"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PNS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PNT"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.PNX"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.PNY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.POC"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.POL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PON"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.POR"
+msgstr "isiPhuthukesi"
+
+msgid "ISO_639-3.POX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.PPE"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PPI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PPQ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PPT"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PRB"
+msgstr "isiThai"
+
+msgid "ISO_639-3.PRC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PRF"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PRG"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PRI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PRM"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.PRP"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PRR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.PRT"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PRU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.PRW"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.PSH"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PSI"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PSN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PSQ"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.PTN"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.PTR"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PTU"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.PTY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PUP"
+msgstr "Julia"
+
+msgid "ISO_639-3.PUT"
+msgstr "isiDatshi"
+
+msgid "ISO_639-3.PUW"
+msgstr "isiPhuthukesi"
+
+msgid "ISO_639-3.PUX"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.PWA"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PWB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PWN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.PWO"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.PWR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.PZN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.QXQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.QYP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.RAC"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.RAF"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.RAG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.RAL"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.RAM"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.RAN"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RAQ"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.RAR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RAS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.RAX"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RES"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.RGA"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.RGN"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RHG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RIA"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RJG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RJI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.RKI"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.RKM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.RKT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.RKW"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.RMA"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMB"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.RMH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.RMI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.RMK"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RML"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMO"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.RMU"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMV"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMW"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMX"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMY"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RMZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.RNG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RNL"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RNN"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RNP"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.RNR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ROD"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.ROE"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.ROG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ROH"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.ROL"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.ROM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RON"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.ROR"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.RPT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.RRI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.RSB"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RSM"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.RTC"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.RTH"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.RTM"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RTS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.RUC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.RUE"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.RUG"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RUK"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.RUO"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RUP"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RUQ"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RUS"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.RUZ"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.RWO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.RWR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.RXD"
+msgstr "isiThai"
+
+msgid "ISO_639-3.RXW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SAB"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.SAC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SAE"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SAK"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SAM"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SAO"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.SAU"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SAY"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SBE"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.SBL"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SBM"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.SBS"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SBV"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SBX"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SBY"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.SCE"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SCH"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SCK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SCN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SCX"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SDC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SDF"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.SDH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SDK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SDN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SDR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SED"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SEI"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SEK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.SEO"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SER"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SET"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SEZ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SGB"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.SGC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SGD"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SGK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SGS"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.SGY"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SHC"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SHQ"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.SHU"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SHV"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SHW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SHY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SIB"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.SIH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SIK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SIN"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-3.SIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SIU"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SIV"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SIX"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SJP"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SKB"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SKC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SKH"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SKI"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SKK"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SKM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SKQ"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SKR"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SKS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SKY"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.SLI"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.SLK"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SLN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SLT"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SLU"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.SLV"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SLZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SMB"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SME"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.SMH"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SMK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SMM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SMN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SMP"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SMQ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SMU"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.SMY"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SNF"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.SNK"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SNO"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.SNP"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.SNV"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SOA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SOG"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.SOH"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.SOO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SOQ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SOS"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.SOX"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SOZ"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.SPA"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.SPB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.SPI"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SPK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SPS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.SPU"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.SPV"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SQI"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.SQM"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SQR"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.SQU"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.SRA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SRC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SRD"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SRE"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SRF"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.SRI"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SRN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SRO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.SRP"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SRS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SRT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SRW"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SRY"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SSD"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.SSE"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.SSF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SSG"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SSH"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.SSI"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.SSJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SSL"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SSN"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.SST"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.SSU"
+msgstr "isiThai"
+
+msgid "ISO_639-3.SSY"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.STB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.STD"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.STK"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.STM"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.STO"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.SUC"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SUE"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SUQ"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SUX"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SVE"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SVX"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.SWE"
+msgstr "isiSwedish"
+
+msgid "ISO_639-3.SWF"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.SWG"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SWJ"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SWK"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.SWM"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.SWP"
+msgstr "Julia"
+
+msgid "ISO_639-3.SWQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.SWS"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.SXC"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SXL"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SXM"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.SXS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.SYA"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.SYB"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.SYM"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.SYR"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SYX"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.SZL"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.SZN"
+msgstr "isiSlovak"
+
+msgid "ISO_639-3.SZW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.TAA"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.TAD"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.TAE"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TAG"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TAH"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TAK"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TAL"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TAM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TAO"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TAU"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.TAW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TAX"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TBA"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.TBC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TBE"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TBG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.TBI"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.TBJ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TBO"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.TBX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TCC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.TCD"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.TCP"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.TCQ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TCY"
+msgstr "Julia"
+
+msgid "ISO_639-3.TCZ"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.TDB"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.TDG"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TDH"
+msgstr "Julia"
+
+msgid "ISO_639-3.TDI"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TDJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TDM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TDQ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TEC"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TEH"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.TEK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TEY"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TFN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.TGB"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.TGC"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TGD"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.TGJ"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.TGK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TGN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.TGQ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TGR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.TGX"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.TGZ"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.THA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.THE"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.THF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.THN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.THR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.THS"
+msgstr "isiThai"
+
+msgid "ISO_639-3.THT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.THU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.THW"
+msgstr "isiThai"
+
+msgid "ISO_639-3.THY"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TIC"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TIF"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TIG"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TII"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TIK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TIM"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TIN"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TIP"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TIU"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.TJL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TKB"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.TKZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TLD"
+msgstr "Julia"
+
+msgid "ISO_639-3.TLH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TLK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TLO"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TLR"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.TLT"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.TLU"
+msgstr "Julia"
+
+msgid "ISO_639-3.TLV"
+msgstr "Julia"
+
+msgid "ISO_639-3.TLX"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.TMC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TMD"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.TMK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TMN"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.TMS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TMW"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.TMY"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TNA"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TNB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TNG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.TNH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.TNI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TNM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TNQ"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TOD"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.TOH"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.TOM"
+msgstr "Julia"
+
+msgid "ISO_639-3.TOW"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.TOX"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.TPF"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TPM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TPY"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TQL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TQT"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TRA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.TRD"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TRE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.TRH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TRJ"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TRM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TRR"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.TRT"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TSB"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TSD"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-3.TSH"
+msgstr "Julia"
+
+msgid "ISO_639-3.TSI"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TSV"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.TSW"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TSX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.TTB"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.TTG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.TTI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TTR"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.TTS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TTV"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TTW"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.TUH"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.TUI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TUL"
+msgstr "Julia"
+
+msgid "ISO_639-3.TUR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TUY"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TUZ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TVD"
+msgstr "Julia"
+
+msgid "ISO_639-3.TVL"
+msgstr "Julia"
+
+msgid "ISO_639-3.TVO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.TWB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.TWE"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.TWF"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.TWL"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.TWM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.TWN"
+msgstr "isiSwedish"
+
+msgid "ISO_639-3.TWU"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.TWW"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.TXA"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-3.TXB"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.TXH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TXM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TXN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.TXR"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TXX"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.TYE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.TYJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TYN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.TZH"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TZL"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.TZO"
+msgstr "isiThai"
+
+msgid "ISO_639-3.TZX"
+msgstr "isiThai"
+
+msgid "ISO_639-3.UAN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.UDG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.UDL"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.UGO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.UHA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.UHN"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.UIS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.UKA"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.UKR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ULI"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.ULK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ULW"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.UMC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.UMN"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.UNG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.UNM"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.UNN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.UNR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.UNU"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.UNX"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.URA"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.URC"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.URF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.URG"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.URL"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.URM"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.URN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.URT"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.USP"
+msgstr "isi-Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.VAF"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.VAJ"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.VAN"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.VAS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.VAV"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.VBK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.VEC"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.VER"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.VGR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.VIE"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-3.VKJ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.VKK"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.VKO"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.VKP"
+msgstr "isiPhuthukesi saseBrazil"
+
+msgid "ISO_639-3.VLP"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.VMA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.VMB"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.VMD"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.VME"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.VMG"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.VMH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.VML"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.VMR"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.VNK"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.VRA"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.VRS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.VRT"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.WAE"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.WAI"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.WAL"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.WAN"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WAO"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WAQ"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.WAS"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WAV"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WAW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WAX"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WBA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WBB"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WBF"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WBI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.WBJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WBK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WBL"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WDK"
+msgstr "isiThai"
+
+msgid "ISO_639-3.WEH"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WET"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.WEU"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.WGI"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WHG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.WHU"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.WII"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.WJA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WJI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WKB"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.WKL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.WKU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.WLA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WLE"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.WLG"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.WLI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.WLK"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WLN"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WLR"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WLS"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.WLW"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WLY"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.WMC"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WMD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.WMI"
+msgstr "isiTamil"
+
+msgid "ISO_639-3.WMM"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.WMS"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WMW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WMX"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.WNN"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.WNO"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WOC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.WOD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.WOE"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.WOF"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.WOK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.WON"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.WOO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WOR"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.WPC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WRB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WRK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WRN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.WRO"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.WRP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.WRS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WRY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WSI"
+msgstr "isiThai"
+
+msgid "ISO_639-3.WSK"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.WSS"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.WSU"
+msgstr "isiWelsh"
+
+msgid "ISO_639-3.WTM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WUU"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.WWA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WWB"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WWR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.WWW"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.WXW"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.WYY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XAB"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.XAC"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XAD"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.XAE"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.XAJ"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.XAL"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.XAO"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.XAR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XAU"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.XBC"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.XBD"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.XBE"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.XBG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.XBJ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XBM"
+msgstr "isiBreton"
+
+msgid "ISO_639-3.XBN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XBO"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.XBY"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.XCL"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.XCO"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.XCR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XCU"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.XCY"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.XDA"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XDC"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.XDY"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.XFA"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.XGA"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.XGD"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.XGG"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XGI"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XGL"
+msgstr "isiGalacian"
+
+msgid "ISO_639-3.XGM"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.XGR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.XHA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.XHE"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XHR"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.XHU"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.XHV"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XIB"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XII"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XIL"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-3.XIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XIS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XJT"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XKE"
+msgstr "isiHebhere"
+
+msgid "ISO_639-3.XKJ"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.XKQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XKT"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.XKX"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XKY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XKZ"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XLC"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.XLD"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.XLE"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.XLI"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.XLN"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.XLS"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.XMB"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XME"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XMF"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XMJ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XMK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XMO"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XMT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XMU"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.XMX"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.XNG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XNH"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XNI"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.XNK"
+msgstr "isiHungarian"
+
+msgid "ISO_639-3.XNN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XNR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XNS"
+msgstr "isiDanish"
+
+msgid "ISO_639-3.XNT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XOD"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XOG"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.XON"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XOP"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XOW"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XPA"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XPC"
+msgstr "isiCzech"
+
+msgid "ISO_639-3.XPG"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XPI"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.XPR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XPS"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XQA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XQT"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.XRE"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.XRG"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.XRM"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.XRN"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.XRQ"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XRU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XRW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XSB"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.XSE"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.XSM"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XSO"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.XSR"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.XSS"
+msgstr "isiRashiya"
+
+msgid "ISO_639-3.XSV"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-3.XTO"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.XTV"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XTW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XTZ"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.XUM"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.XUN"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.XUR"
+msgstr "isiCroatian"
+
+msgid "ISO_639-3.XUU"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XVI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.XVO"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.XVS"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-3.XWA"
+msgstr "isiThai"
+
+msgid "ISO_639-3.XWC"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.XWK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XXB"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.XXR"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.XXT"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.XYB"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.XYL"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.XZM"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YAK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YAN"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YAP"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.YBA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.YBJ"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.YBK"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.YBM"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.YCH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.YCL"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.YCP"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.YDA"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.YEC"
+msgstr "isiFrentshi"
+
+msgid "ISO_639-3.YEJ"
+msgstr "isi-Icelandic"
+
+msgid "ISO_639-3.YER"
+msgstr "isiThai"
+
+msgid "ISO_639-3.YES"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.YGA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YGI"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.YGP"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.YGR"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.YGS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.YGW"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YHA"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.YHD"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.YHS"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.YIF"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.YIH"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.YIM"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.YIP"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YIQ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YIR"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.YIU"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.YIX"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.YKA"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.YKL"
+msgstr "isiThai"
+
+msgid "ISO_639-3.YKM"
+msgstr "isiThai"
+
+msgid "ISO_639-3.YKO"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.YKT"
+msgstr "isiThai"
+
+msgid "ISO_639-3.YKU"
+msgstr "isiBasque"
+
+msgid "ISO_639-3.YLB"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.YLE"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.YLM"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.YLO"
+msgstr "Julia"
+
+msgid "ISO_639-3.YMB"
+msgstr "isiJaphani"
+
+msgid "ISO_639-3.YMD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YMH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YMI"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YMM"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YMO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.YMR"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.YMS"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.YMZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Julia"
+
+msgid "ISO_639-3.YNE"
+msgstr "isiLatvian"
+
+msgid "ISO_639-3.YNG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YNO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YNS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YOG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-3.YOI"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.YOL"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.YON"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YPA"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.YPG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YPO"
+msgstr "isiPolish"
+
+msgid "ISO_639-3.YRY"
+msgstr "isiCatalan"
+
+msgid "ISO_639-3.YSD"
+msgstr "isiSerbian"
+
+msgid "ISO_639-3.YSN"
+msgstr "isiPanish"
+
+msgid "ISO_639-3.YSY"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.YTA"
+msgstr "Julia"
+
+msgid "ISO_639-3.YTL"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YTP"
+msgstr "isiThai"
+
+msgid "ISO_639-3.YUC"
+msgstr "isiDatshi"
+
+msgid "ISO_639-3.YUD"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-3.YUE"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.YUL"
+msgstr "Julia"
+
+msgid "ISO_639-3.YUT"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.YVA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YWL"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.YXA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.YXG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.YYZ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-3.YZG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.ZAG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZAH"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "isiWalloon"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Julia"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.ZBE"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.ZBT"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.ZBW"
+msgstr "isiJamani"
+
+msgid "ISO_639-3.ZGN"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ZGR"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZHI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.ZHO"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ZIM"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.ZIR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Julia"
+
+msgid "ISO_639-3.ZIZ"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-3.ZKH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ZKN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-3.ZKT"
+msgstr "isi-Occitan"
+
+msgid "ISO_639-3.ZKU"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ZKV"
+msgstr "isiRoma"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "isiThai"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Lithuania"
+
+msgid "ISO_639-3.ZMC"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZMD"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZML"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.ZMO"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.ZMP"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.ZMS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZMT"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZMU"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZMY"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZNG"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-3.ZNK"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZNS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Julia"
+
+msgid "ISO_639-3.ZPC"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ZPV"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ZRG"
+msgstr "isiMaltese"
+
+msgid "ISO_639-3.ZRN"
+msgstr "isiGrike"
+
+msgid "ISO_639-3.ZRP"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZRS"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "isiMaori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ZSM"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Julia"
+
+msgid "ISO_639-3.ZUH"
+msgstr "isiKorea"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Julia"
+
+msgid "ISO_639-3.ZUM"
+msgstr "isiTurkish"
+
+msgid "ISO_639-3.ZYP"
+msgstr "isiTshayina"
+
+msgid "ISO_639-3.ZZA"
+msgstr "isiMaori"

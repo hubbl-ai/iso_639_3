@@ -1,0 +1,10237 @@
+# Czech translation of ISO 639 Language names
+# Copyright (C) 2002,2004 Free Software Foundation.
+# Original translation Petr Cech <cech@debian.org> (Petr Čech), 2000.
+# Updated by Stanislav Brabec <utx@penguin.cz>, 2001.
+# Updated by Miroslav Kure <kurem@debian.cz>, 2004.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-06-21 18:03+0200\n"
+"Last-Translator: Miroslav Kure <kurem@debian.cz>\n"
+"Language-Team: Czech <debian-l10n-czech@lists.debian.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "avarština"
+
+msgid "ISO_639-3.AAD"
+msgstr "somálština"
+
+msgid "ISO_639-3.AAF"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.AAG"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AAL"
+msgstr "afarština"
+
+msgid "ISO_639-3.AAR"
+msgstr "afarština"
+
+msgid "ISO_639-3.AAT"
+msgstr "albánština"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.ABD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.ABE"
+msgstr "fríština"
+
+msgid "ISO_639-3.ABG"
+msgstr "albánština"
+
+msgid "ISO_639-3.ABH"
+msgstr "arabština"
+
+msgid "ISO_639-3.ABK"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.ABL"
+msgstr "Sangho"
+
+msgid "ISO_639-3.ABQ"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.ABV"
+msgstr "albánština"
+
+msgid "ISO_639-3.ABW"
+msgstr "páli"
+
+msgid "ISO_639-3.ABZ"
+msgstr "arabština"
+
+msgid "ISO_639-3.ACA"
+msgstr "apačské jazyky"
+
+msgid "ISO_639-3.ACE"
+msgstr "atěžština"
+
+msgid "ISO_639-3.ACH"
+msgstr "ačoli (luoština)"
+
+msgid "ISO_639-3.ACI"
+msgstr "karibština"
+
+msgid "ISO_639-3.ACR"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ACW"
+msgstr "arabština"
+
+msgid "ISO_639-3.ACX"
+msgstr "azerbajdžánština"
+
+msgid "ISO_639-3.ACY"
+msgstr "arabština"
+
+msgid "ISO_639-3.ADA"
+msgstr "adangmeština"
+
+msgid "ISO_639-3.ADD"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.ADE"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ADF"
+msgstr "arabština"
+
+msgid "ISO_639-3.ADL"
+msgstr "Laoština"
+
+msgid "ISO_639-3.ADN"
+msgstr "Sangho"
+
+msgid "ISO_639-3.ADR"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.ADS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ADX"
+msgstr "tibetština"
+
+msgid "ISO_639-3.ADY"
+msgstr "adangmeština"
+
+msgid "ISO_639-3.AEA"
+msgstr "mapuche (araukánština)"
+
+msgid "ISO_639-3.AEC"
+msgstr "arabština"
+
+msgid "ISO_639-3.AED"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.AEE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AEN"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.AES"
+msgstr "aleutština"
+
+msgid "ISO_639-3.AEU"
+msgstr "aleutština"
+
+msgid "ISO_639-3.AEW"
+msgstr "Amharština"
+
+msgid "ISO_639-3.AEY"
+msgstr "ásámština"
+
+msgid "ISO_639-3.AEZ"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.AFB"
+msgstr "arabština"
+
+msgid "ISO_639-3.AFD"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.AFG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.AFH"
+msgstr "afrihilijština"
+
+msgid "ISO_639-3.AFK"
+msgstr "navajština"
+
+msgid "ISO_639-3.AFN"
+msgstr "dakotština"
+
+msgid "ISO_639-3.AFP"
+msgstr "thajština"
+
+msgid "ISO_639-3.AFR"
+msgstr "afrikánština"
+
+msgid "ISO_639-3.AFU"
+msgstr "aleutština"
+
+msgid "ISO_639-3.AGD"
+msgstr "arabština"
+
+msgid "ISO_639-3.AGE"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.AGG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.AGH"
+msgstr "nepálština"
+
+msgid "ISO_639-3.AGI"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.AGM"
+msgstr "katalánština"
+
+msgid "ISO_639-3.AGO"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.AGW"
+msgstr "kašubština"
+
+msgid "ISO_639-3.AGY"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AHH"
+msgstr "Uighurština"
+
+msgid "ISO_639-3.AHK"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.AHR"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.AIE"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AIJ"
+msgstr "litevština"
+
+msgid "ISO_639-3.AIR"
+msgstr "korejština"
+
+msgid "ISO_639-3.AIS"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.AIW"
+msgstr "avarština"
+
+msgid "ISO_639-3.AIX"
+msgstr "korejština"
+
+msgid "ISO_639-3.AJN"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.AJP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AJT"
+msgstr "judeo-arabština"
+
+msgid "ISO_639-3.AJU"
+msgstr "judeo-arabština"
+
+msgid "ISO_639-3.AJZ"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.AKA"
+msgstr "akanština"
+
+msgid "ISO_639-3.AKK"
+msgstr "akkadština"
+
+msgid "ISO_639-3.AKL"
+msgstr "albánština"
+
+msgid "ISO_639-3.AKR"
+msgstr "arabština"
+
+msgid "ISO_639-3.AKT"
+msgstr "aleutština"
+
+msgid "ISO_639-3.AKZ"
+msgstr "albánština"
+
+msgid "ISO_639-3.ALA"
+msgstr "Sangho"
+
+msgid "ISO_639-3.ALD"
+msgstr "albánština"
+
+msgid "ISO_639-3.ALE"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ALF"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ALH"
+msgstr "albánština"
+
+msgid "ISO_639-3.ALI"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.ALJ"
+msgstr "albánština"
+
+msgid "ISO_639-3.ALK"
+msgstr "slovenština"
+
+msgid "ISO_639-3.ALL"
+msgstr "afarština"
+
+msgid "ISO_639-3.ALN"
+msgstr "albánština"
+
+msgid "ISO_639-3.ALP"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ALR"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ALS"
+msgstr "albánština"
+
+msgid "ISO_639-3.ALT"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ALX"
+msgstr "somálština"
+
+msgid "ISO_639-3.ALY"
+msgstr "delawarština"
+
+msgid "ISO_639-3.ALZ"
+msgstr "aleutština"
+
+msgid "ISO_639-3.AMC"
+msgstr "Amharština"
+
+msgid "ISO_639-3.AMH"
+msgstr "Amharština"
+
+msgid "ISO_639-3.AMK"
+msgstr "Amharština"
+
+msgid "ISO_639-3.AML"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.AMN"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Amharština"
+
+msgid "ISO_639-3.AMR"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AMS"
+msgstr "fríština"
+
+msgid "ISO_639-3.AMY"
+msgstr "Amharština"
+
+msgid "ISO_639-3.ANG"
+msgstr "angličtina, stará (cca 450-1100)"
+
+msgid "ISO_639-3.ANI"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.ANK"
+msgstr "somálština"
+
+msgid "ISO_639-3.ANN"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ANP"
+msgstr "angika"
+
+msgid "ISO_639-3.ANR"
+msgstr "sindhština"
+
+msgid "ISO_639-3.ANS"
+msgstr "němčina"
+
+msgid "ISO_639-3.ANY"
+msgstr "albánština"
+
+msgid "ISO_639-3.AOA"
+msgstr "mongolština"
+
+msgid "ISO_639-3.AOD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.AOH"
+msgstr "arménština"
+
+msgid "ISO_639-3.AOJ"
+msgstr "ruština"
+
+msgid "ISO_639-3.AOR"
+msgstr "korejština"
+
+msgid "ISO_639-3.AOS"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.AOT"
+msgstr "indonézština"
+
+msgid "ISO_639-3.APB"
+msgstr "sačtina"
+
+msgid "ISO_639-3.APC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.APD"
+msgstr "jávština"
+
+msgid "ISO_639-3.APF"
+msgstr "albánština"
+
+msgid "ISO_639-3.APG"
+msgstr "albánština"
+
+msgid "ISO_639-3.APH"
+msgstr "Amharština"
+
+msgid "ISO_639-3.API"
+msgstr "apačské jazyky"
+
+msgid "ISO_639-3.APP"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.APV"
+msgstr "aleutština"
+
+msgid "ISO_639-3.APW"
+msgstr "fríština"
+
+msgid "ISO_639-3.AQN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AQT"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.AQZ"
+msgstr "aleutština"
+
+msgid "ISO_639-3.ARA"
+msgstr "arabština"
+
+msgid "ISO_639-3.ARD"
+msgstr "albánština"
+
+msgid "ISO_639-3.ARE"
+msgstr "fríština"
+
+msgid "ISO_639-3.ARG"
+msgstr "aragonská španělština"
+
+msgid "ISO_639-3.ARH"
+msgstr "arabština"
+
+msgid "ISO_639-3.ARI"
+msgstr "afrikánština"
+
+msgid "ISO_639-3.ARJ"
+msgstr "afrikánština"
+
+msgid "ISO_639-3.ARL"
+msgstr "arabština"
+
+msgid "ISO_639-3.ARN"
+msgstr "manština"
+
+msgid "ISO_639-3.ARP"
+msgstr "arapaho"
+
+msgid "ISO_639-3.ARQ"
+msgstr "arabština"
+
+msgid "ISO_639-3.ARS"
+msgstr "arabština"
+
+msgid "ISO_639-3.ARW"
+msgstr "arawacké jazyky"
+
+msgid "ISO_639-3.ARY"
+msgstr "arabština"
+
+msgid "ISO_639-3.ARZ"
+msgstr "egyptština (starověká)"
+
+msgid "ISO_639-3.ASD"
+msgstr "ásámština"
+
+msgid "ISO_639-3.ASE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ASF"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.ASJ"
+msgstr "svahilština"
+
+msgid "ISO_639-3.ASM"
+msgstr "ásámština"
+
+msgid "ISO_639-3.ASO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.ASP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ASQ"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.AST"
+msgstr "avestština"
+
+msgid "ISO_639-3.ASV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ASW"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.ATM"
+msgstr "avestština"
+
+msgid "ISO_639-3.ATN"
+msgstr "avestština"
+
+msgid "ISO_639-3.ATV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ATX"
+msgstr "arabština"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AUB"
+msgstr "Telugština"
+
+msgid "ISO_639-3.AUC"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.AUD"
+msgstr "aleutština"
+
+msgid "ISO_639-3.AUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.AUP"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.AUY"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.AUZ"
+msgstr "arabština"
+
+msgid "ISO_639-3.AVA"
+msgstr "avarština"
+
+msgid "ISO_639-3.AVB"
+msgstr "avarština"
+
+msgid "ISO_639-3.AVE"
+msgstr "avestština"
+
+msgid "ISO_639-3.AVK"
+msgstr "Hausa"
+
+msgid "ISO_639-3.AVN"
+msgstr "avarština"
+
+msgid "ISO_639-3.AVS"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.AWA"
+msgstr "avadhština (avadhí)"
+
+msgid "ISO_639-3.AWX"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AXL"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AXM"
+msgstr "arménština"
+
+msgid "ISO_639-3.AYA"
+msgstr "afarština"
+
+msgid "ISO_639-3.AYC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AYG"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.AYH"
+msgstr "arabština"
+
+msgid "ISO_639-3.AYL"
+msgstr "apačské jazyky"
+
+msgid "ISO_639-3.AYM"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AYN"
+msgstr "mapuche (araukánština)"
+
+msgid "ISO_639-3.AYR"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.AYS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.AYZ"
+msgstr "maráthština"
+
+msgid "ISO_639-3.AZA"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.AZB"
+msgstr "azerbajdžánština"
+
+msgid "ISO_639-3.AZD"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.AZE"
+msgstr "azerbajdžánština"
+
+msgid "ISO_639-3.AZJ"
+msgstr "azerbajdžánština"
+
+msgid "ISO_639-3.BAC"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BAG"
+msgstr "turečtina"
+
+msgid "ISO_639-3.BAJ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BAK"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BAL"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BAM"
+msgstr "bambarština"
+
+msgid "ISO_639-3.BAN"
+msgstr "balijština"
+
+msgid "ISO_639-3.BAR"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BAV"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BAY"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BBB"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BBD"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BBE"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BBF"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BBG"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BBH"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BBI"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BBL"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BBM"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BBQ"
+msgstr "somálština"
+
+msgid "ISO_639-3.BBV"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.BBY"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BCC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BCF"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BCG"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BCH"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BCJ"
+msgstr "kurdština"
+
+msgid "ISO_639-3.BCO"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BCQ"
+msgstr "francouzština"
+
+msgid "ISO_639-3.BCT"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BCW"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.BCY"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BDB"
+msgstr "sačtina"
+
+msgid "ISO_639-3.BDD"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BDE"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BDF"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BDG"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BDI"
+msgstr "naurština"
+
+msgid "ISO_639-3.BDJ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BDL"
+msgstr "indonézština"
+
+msgid "ISO_639-3.BDO"
+msgstr "maorština"
+
+msgid "ISO_639-3.BDQ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.BDU"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.BDZ"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BEG"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BEH"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BEJ"
+msgstr "bedža"
+
+msgid "ISO_639-3.BEK"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BEL"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BEN"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BEO"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BES"
+msgstr "Barmština"
+
+msgid "ISO_639-3.BEU"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BEW"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BFA"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BFC"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.BFG"
+msgstr "Malajština"
+
+msgid "ISO_639-3.BFI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BFK"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BFR"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BFS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BFT"
+msgstr "páli"
+
+msgid "ISO_639-3.BFU"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.BFX"
+msgstr "Malajština"
+
+msgid "ISO_639-3.BFZ"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.BGC"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.BGE"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BGJ"
+msgstr "mongolština"
+
+msgid "ISO_639-3.BGN"
+msgstr "fríština"
+
+msgid "ISO_639-3.BGO"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.BGQ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BGR"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.BGU"
+msgstr "mongolština"
+
+msgid "ISO_639-3.BGW"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BGX"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BGY"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BGZ"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BHA"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHB"
+msgstr "svahilština"
+
+msgid "ISO_639-3.BHC"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHD"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHF"
+msgstr "orija"
+
+msgid "ISO_639-3.BHG"
+msgstr "čínština"
+
+msgid "ISO_639-3.BHH"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHI"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BHM"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHO"
+msgstr "bhódžpurština"
+
+msgid "ISO_639-3.BHP"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BHR"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.BHW"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BHX"
+msgstr "Malajština"
+
+msgid "ISO_639-3.BHZ"
+msgstr "indonézština"
+
+msgid "ISO_639-3.BIB"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BIC"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BIG"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BIK"
+msgstr "bikolština"
+
+msgid "ISO_639-3.BIM"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BIO"
+msgstr "nepálština"
+
+msgid "ISO_639-3.BIP"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BIQ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BIR"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BIS"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BIT"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.BIV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BIX"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BIY"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BIZ"
+msgstr "páli"
+
+msgid "ISO_639-3.BJB"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BJC"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BJN"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.BJO"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BJR"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BJV"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BJY"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BJZ"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BKA"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.BKI"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BKN"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BKQ"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BKS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BKU"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BKW"
+msgstr "uzbekistánština"
+
+msgid "ISO_639-3.BKX"
+msgstr "ladino"
+
+msgid "ISO_639-3.BLA"
+msgstr "siksika"
+
+msgid "ISO_639-3.BLB"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BLD"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BLG"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BLI"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BLJ"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BLN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BLR"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BLS"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BLV"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BLW"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.BMD"
+msgstr "májské jazyky"
+
+msgid "ISO_639-3.BMH"
+msgstr "korejština"
+
+msgid "ISO_639-3.BMI"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BML"
+msgstr "somálština"
+
+msgid "ISO_639-3.BMO"
+msgstr "katalánština"
+
+msgid "ISO_639-3.BMP"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BMR"
+msgstr "čínština"
+
+msgid "ISO_639-3.BMS"
+msgstr "kanuri"
+
+msgid "ISO_639-3.BMV"
+msgstr "Barmština"
+
+msgid "ISO_639-3.BMW"
+msgstr "somálština"
+
+msgid "ISO_639-3.BMX"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BNB"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BNC"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BND"
+msgstr "indonézština"
+
+msgid "ISO_639-3.BNG"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BNI"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BNK"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BNL"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BNS"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.BNU"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BOA"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.BOB"
+msgstr "afarština"
+
+msgid "ISO_639-3.BOD"
+msgstr "tibetština"
+
+msgid "ISO_639-3.BOE"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.BOF"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BOG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BOH"
+msgstr "somálština"
+
+msgid "ISO_639-3.BOM"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.BOP"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BOS"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BOT"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BOU"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BOV"
+msgstr "Twi"
+
+msgid "ISO_639-3.BOW"
+msgstr "římština"
+
+msgid "ISO_639-3.BPA"
+msgstr "dakotština"
+
+msgid "ISO_639-3.BPH"
+msgstr "polština"
+
+msgid "ISO_639-3.BPI"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BPJ"
+msgstr "hindština"
+
+msgid "ISO_639-3.BPK"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.BPP"
+msgstr "naurština"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.BPV"
+msgstr "sardinština"
+
+msgid "ISO_639-3.BPZ"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BQB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BQH"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BQI"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BQJ"
+msgstr "lahnda"
+
+msgid "ISO_639-3.BQL"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BQN"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BQP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BQQ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BQR"
+msgstr "Barmština"
+
+msgid "ISO_639-3.BQS"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BQV"
+msgstr "korejština"
+
+msgid "ISO_639-3.BQX"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BQY"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BRA"
+msgstr "bradžština"
+
+msgid "ISO_639-3.BRE"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BRF"
+msgstr "němčina"
+
+msgid "ISO_639-3.BRG"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BRH"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BRJ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BRN"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.BRT"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BRU"
+msgstr "fríština"
+
+msgid "ISO_639-3.BRV"
+msgstr "fríština"
+
+msgid "ISO_639-3.BRW"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BRY"
+msgstr "naurština"
+
+msgid "ISO_639-3.BSC"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BSE"
+msgstr "velština"
+
+msgid "ISO_639-3.BSF"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BSG"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.BSH"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.BSM"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BSN"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BSQ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.BST"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BTA"
+msgstr "tatarština"
+
+msgid "ISO_639-3.BTF"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BTI"
+msgstr "Barmština"
+
+msgid "ISO_639-3.BTJ"
+msgstr "japonština"
+
+msgid "ISO_639-3.BTR"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BTU"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BTV"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BUA"
+msgstr "burjatština"
+
+msgid "ISO_639-3.BUC"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BUG"
+msgstr "bugiština"
+
+msgid "ISO_639-3.BUI"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BUK"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BUL"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BUP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.BUQ"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BUT"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BUZ"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.BVA"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BVB"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BVH"
+msgstr "Barmština"
+
+msgid "ISO_639-3.BVJ"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BVL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.BVO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.BVP"
+msgstr "sumerština"
+
+msgid "ISO_639-3.BVQ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BVR"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BVT"
+msgstr "indonézština"
+
+msgid "ISO_639-3.BVU"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BVV"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BVW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.BVY"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BVZ"
+msgstr "balúčština"
+
+msgid "ISO_639-3.BWI"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BWM"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.BXA"
+msgstr "Kirgizština"
+
+msgid "ISO_639-3.BXG"
+msgstr "bengálština"
+
+msgid "ISO_639-3.BXM"
+msgstr "mongolština"
+
+msgid "ISO_639-3.BXO"
+msgstr "bulharština"
+
+msgid "ISO_639-3.BXR"
+msgstr "burjatština"
+
+msgid "ISO_639-3.BXS"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.BXU"
+msgstr "burjatština"
+
+msgid "ISO_639-3.BXZ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BYA"
+msgstr "tatarština"
+
+msgid "ISO_639-3.BYB"
+msgstr "orija"
+
+msgid "ISO_639-3.BYF"
+msgstr "bretonština"
+
+msgid "ISO_639-3.BYG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.BYH"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.BYK"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BYM"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.BYN"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BYQ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.BYR"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BYW"
+msgstr "běloruština"
+
+msgid "ISO_639-3.BYZ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.BZA"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.BZB"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.BZD"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BZF"
+msgstr "bosenština"
+
+msgid "ISO_639-3.BZI"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.BZQ"
+msgstr "indonézština"
+
+msgid "ISO_639-3.BZR"
+msgstr "bihárština"
+
+msgid "ISO_639-3.BZS"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.BZU"
+msgstr "Barmština"
+
+msgid "ISO_639-3.BZV"
+msgstr "sačtina"
+
+msgid "ISO_639-3.CAC"
+msgstr "Shona"
+
+msgid "ISO_639-3.CAD"
+msgstr "caddo"
+
+msgid "ISO_639-3.CAF"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CAH"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CAK"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.CAL"
+msgstr "sardinština"
+
+msgid "ISO_639-3.CAN"
+msgstr "karibština"
+
+msgid "ISO_639-3.CAR"
+msgstr "galština"
+
+msgid "ISO_639-3.CAT"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CAW"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.CBC"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CBD"
+msgstr "karibština"
+
+msgid "ISO_639-3.CBI"
+msgstr "balúčština"
+
+msgid "ISO_639-3.CBK"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CBL"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.CBN"
+msgstr "naurština"
+
+msgid "ISO_639-3.CBV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.CBW"
+msgstr "kabardština"
+
+msgid "ISO_639-3.CBY"
+msgstr "karibština"
+
+msgid "ISO_639-3.CCA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.CCG"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.CCH"
+msgstr "ásámština"
+
+msgid "ISO_639-3.CCJ"
+msgstr "kašubština"
+
+msgid "ISO_639-3.CCL"
+msgstr "svahilština"
+
+msgid "ISO_639-3.CCM"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.CDA"
+msgstr "kornština"
+
+msgid "ISO_639-3.CDE"
+msgstr "čečenština"
+
+msgid "ISO_639-3.CDG"
+msgstr "karibština"
+
+msgid "ISO_639-3.CDI"
+msgstr "kornština"
+
+msgid "ISO_639-3.CDO"
+msgstr "čínština"
+
+msgid "ISO_639-3.CDS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CDY"
+msgstr "Shona"
+
+msgid "ISO_639-3.CDZ"
+msgstr "korejština"
+
+msgid "ISO_639-3.CEA"
+msgstr "nepálština"
+
+msgid "ISO_639-3.CEB"
+msgstr "cebuánština"
+
+msgid "ISO_639-3.CEK"
+msgstr "fríština"
+
+msgid "ISO_639-3.CEN"
+msgstr "čínština"
+
+msgid "ISO_639-3.CES"
+msgstr "čeština"
+
+msgid "ISO_639-3.CFD"
+msgstr "karibština"
+
+msgid "ISO_639-3.CFM"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.CHA"
+msgstr "čamoro"
+
+msgid "ISO_639-3.CHB"
+msgstr "čibča"
+
+msgid "ISO_639-3.CHC"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CHE"
+msgstr "čečenština"
+
+msgid "ISO_639-3.CHG"
+msgstr "čagatajština"
+
+msgid "ISO_639-3.CHK"
+msgstr "čukčtina"
+
+msgid "ISO_639-3.CHM"
+msgstr "ruština"
+
+msgid "ISO_639-3.CHN"
+msgstr "činuk pidžin"
+
+msgid "ISO_639-3.CHO"
+msgstr "choctawština"
+
+msgid "ISO_639-3.CHP"
+msgstr "čipeva"
+
+msgid "ISO_639-3.CHR"
+msgstr "čerokézština"
+
+msgid "ISO_639-3.CHV"
+msgstr "čuvaština"
+
+msgid "ISO_639-3.CHX"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CHY"
+msgstr "čejenština"
+
+msgid "ISO_639-3.CIE"
+msgstr "čínština"
+
+msgid "ISO_639-3.CIM"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.CIP"
+msgstr "čínština"
+
+msgid "ISO_639-3.CIR"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.CIY"
+msgstr "thajština"
+
+msgid "ISO_639-3.CJA"
+msgstr "fríština"
+
+msgid "ISO_639-3.CJI"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CJK"
+msgstr "čerokézština"
+
+msgid "ISO_639-3.CJM"
+msgstr "fríština"
+
+msgid "ISO_639-3.CJN"
+msgstr "Slovinština"
+
+msgid "ISO_639-3.CJS"
+msgstr "Shona"
+
+msgid "ISO_639-3.CJY"
+msgstr "čínština"
+
+msgid "ISO_639-3.CKB"
+msgstr "kurdština"
+
+msgid "ISO_639-3.CKL"
+msgstr "karibština"
+
+msgid "ISO_639-3.CKN"
+msgstr "čínština"
+
+msgid "ISO_639-3.CKQ"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.CKR"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.CKV"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CKX"
+msgstr "dakotština"
+
+msgid "ISO_639-3.CLA"
+msgstr "římština"
+
+msgid "ISO_639-3.CLE"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.CLJ"
+msgstr "čínština"
+
+msgid "ISO_639-3.CLL"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CLM"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.CLT"
+msgstr "čínština"
+
+msgid "ISO_639-3.CLU"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CMA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.CME"
+msgstr "němčina"
+
+msgid "ISO_639-3.CMG"
+msgstr "mongolština"
+
+msgid "ISO_639-3.CML"
+msgstr "katalánština"
+
+msgid "ISO_639-3.CMN"
+msgstr "bengálština"
+
+msgid "ISO_639-3.CNG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CNH"
+msgstr "čínština"
+
+msgid "ISO_639-3.CNK"
+msgstr "bengálština"
+
+msgid "ISO_639-3.CNL"
+msgstr "bengálština"
+
+msgid "ISO_639-3.CNO"
+msgstr "kornština"
+
+msgid "ISO_639-3.CNW"
+msgstr "bengálština"
+
+msgid "ISO_639-3.CNX"
+msgstr "kornština"
+
+msgid "ISO_639-3.COE"
+msgstr "korejština"
+
+msgid "ISO_639-3.COG"
+msgstr "Shona"
+
+msgid "ISO_639-3.COO"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.COP"
+msgstr "koptština"
+
+msgid "ISO_639-3.COR"
+msgstr "kornština"
+
+msgid "ISO_639-3.COS"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.COX"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.COZ"
+msgstr "čečenština"
+
+msgid "ISO_639-3.CPI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CPN"
+msgstr "čečenština"
+
+msgid "ISO_639-3.CPX"
+msgstr "čínština"
+
+msgid "ISO_639-3.CRA"
+msgstr "karibština"
+
+msgid "ISO_639-3.CRE"
+msgstr "krí"
+
+msgid "ISO_639-3.CRF"
+msgstr "turečtina"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CRL"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CRR"
+msgstr "sardinština"
+
+msgid "ISO_639-3.CRX"
+msgstr "karibština"
+
+msgid "ISO_639-3.CRY"
+msgstr "kornština"
+
+msgid "ISO_639-3.CSB"
+msgstr "kašubština"
+
+msgid "ISO_639-3.CSC"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.CSD"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSF"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSJ"
+msgstr "čínština"
+
+msgid "ISO_639-3.CSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSN"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSQ"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.CSR"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.CSS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CST"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CSV"
+msgstr "čínština"
+
+msgid "ISO_639-3.CSY"
+msgstr "bengálština"
+
+msgid "ISO_639-3.CTC"
+msgstr "čečenština"
+
+msgid "ISO_639-3.CTD"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.CTG"
+msgstr "litevština"
+
+msgid "ISO_639-3.CTH"
+msgstr "čínština"
+
+msgid "ISO_639-3.CTS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.CTU"
+msgstr "kornština"
+
+msgid "ISO_639-3.CUI"
+msgstr "karibština"
+
+msgid "ISO_639-3.CUU"
+msgstr "thajština"
+
+msgid "ISO_639-3.CVG"
+msgstr "Shona"
+
+msgid "ISO_639-3.CWB"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.CWE"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.CYM"
+msgstr "velština"
+
+msgid "ISO_639-3.CZH"
+msgstr "čínština"
+
+msgid "ISO_639-3.CZT"
+msgstr "bengálština"
+
+msgid "ISO_639-3.DAC"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.DAD"
+msgstr "maorština"
+
+msgid "ISO_639-3.DAG"
+msgstr "dánština"
+
+msgid "ISO_639-3.DAK"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DAL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.DAM"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DAN"
+msgstr "dánština"
+
+msgid "ISO_639-3.DAO"
+msgstr "bengálština"
+
+msgid "ISO_639-3.DAQ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.DAR"
+msgstr "dargwa"
+
+msgid "ISO_639-3.DAV"
+msgstr "tatarština"
+
+msgid "ISO_639-3.DAX"
+msgstr "dánština"
+
+msgid "ISO_639-3.DAZ"
+msgstr "Laoština"
+
+msgid "ISO_639-3.DBA"
+msgstr "bengálština"
+
+msgid "ISO_639-3.DBI"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.DBJ"
+msgstr "italština"
+
+msgid "ISO_639-3.DBO"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DBP"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.DBQ"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DBR"
+msgstr "delawarština"
+
+msgid "ISO_639-3.DBW"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.DDJ"
+msgstr "naurština"
+
+msgid "ISO_639-3.DEC"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.DEH"
+msgstr "delawarština"
+
+msgid "ISO_639-3.DEL"
+msgstr "delawarština"
+
+msgid "ISO_639-3.DEN"
+msgstr "atabaské jazyky"
+
+msgid "ISO_639-3.DEP"
+msgstr "delawarština"
+
+msgid "ISO_639-3.DER"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.DES"
+msgstr "avestština"
+
+msgid "ISO_639-3.DEU"
+msgstr "němčina"
+
+msgid "ISO_639-3.DGA"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DGG"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.DGI"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DGL"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.DGN"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DGR"
+msgstr "dogrib"
+
+msgid "ISO_639-3.DGZ"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DHD"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.DHG"
+msgstr "manština"
+
+msgid "ISO_639-3.DHN"
+msgstr "dánština"
+
+msgid "ISO_639-3.DHO"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.DHS"
+msgstr "dánština"
+
+msgid "ISO_639-3.DHX"
+msgstr "maďarština"
+
+msgid "ISO_639-3.DIC"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DIJ"
+msgstr "dánština"
+
+msgid "ISO_639-3.DIK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DIN"
+msgstr "dinkština"
+
+msgid "ISO_639-3.DIP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DIQ"
+msgstr "májské jazyky"
+
+msgid "ISO_639-3.DIT"
+msgstr "bihárština"
+
+msgid "ISO_639-3.DIV"
+msgstr "divehi"
+
+msgid "ISO_639-3.DIW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DJI"
+msgstr "Fidži"
+
+msgid "ISO_639-3.DJO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.DKK"
+msgstr "dakotština"
+
+msgid "ISO_639-3.DKS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DKX"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.DLG"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.DLK"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.DLM"
+msgstr "italština"
+
+msgid "ISO_639-3.DMC"
+msgstr "tatarština"
+
+msgid "ISO_639-3.DMK"
+msgstr "somálština"
+
+msgid "ISO_639-3.DML"
+msgstr "páli"
+
+msgid "ISO_639-3.DMM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.DMX"
+msgstr "němčina"
+
+msgid "ISO_639-3.DND"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.DNG"
+msgstr "maďarština"
+
+msgid "ISO_639-3.DNJ"
+msgstr "dánština"
+
+msgid "ISO_639-3.DNK"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.DNR"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.DNV"
+msgstr "osečtina"
+
+msgid "ISO_639-3.DNW"
+msgstr "fríština"
+
+msgid "ISO_639-3.DOC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.DOH"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.DOO"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.DOQ"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.DOT"
+msgstr "dánština"
+
+msgid "ISO_639-3.DOX"
+msgstr "ruština"
+
+msgid "ISO_639-3.DOY"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.DPP"
+msgstr "tatarština"
+
+msgid "ISO_639-3.DRB"
+msgstr "dánština"
+
+msgid "ISO_639-3.DRC"
+msgstr "hindština"
+
+msgid "ISO_639-3.DRD"
+msgstr "orija"
+
+msgid "ISO_639-3.DRE"
+msgstr "Wolof"
+
+msgid "ISO_639-3.DRL"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.DRU"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.DRY"
+msgstr "maráthština"
+
+msgid "ISO_639-3.DSB"
+msgstr "němčina, nízká"
+
+msgid "ISO_639-3.DSE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.DSI"
+msgstr "dánština"
+
+msgid "ISO_639-3.DSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.DSO"
+msgstr "avestština"
+
+msgid "ISO_639-3.DTA"
+msgstr "katalánština"
+
+msgid "ISO_639-3.DTY"
+msgstr "nepálština"
+
+msgid "ISO_639-3.DUA"
+msgstr "dualština"
+
+msgid "ISO_639-3.DUM"
+msgstr "holandština, středověká (cca 1050-1350)"
+
+msgid "ISO_639-3.DUP"
+msgstr "Sangho"
+
+msgid "ISO_639-3.DWA"
+msgstr "bihárština"
+
+msgid "ISO_639-3.DWR"
+msgstr "Laoština"
+
+msgid "ISO_639-3.DYA"
+msgstr "dánština"
+
+msgid "ISO_639-3.DYU"
+msgstr "djula"
+
+msgid "ISO_639-3.DZA"
+msgstr "Zulu"
+
+msgid "ISO_639-3.DZL"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.DZO"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.EAA"
+msgstr "maďarština"
+
+msgid "ISO_639-3.EBK"
+msgstr "fríština"
+
+msgid "ISO_639-3.ECR"
+msgstr "korejština"
+
+msgid "ISO_639-3.ECS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.EFI"
+msgstr "efik"
+
+msgid "ISO_639-3.EGL"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.EGY"
+msgstr "egyptština (starověká)"
+
+msgid "ISO_639-3.EKA"
+msgstr "ekajuk"
+
+msgid "ISO_639-3.EKC"
+msgstr "fríština"
+
+msgid "ISO_639-3.EKG"
+msgstr "maorština"
+
+msgid "ISO_639-3.EKK"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.EKO"
+msgstr "gótština"
+
+msgid "ISO_639-3.EKY"
+msgstr "fríština"
+
+msgid "ISO_639-3.ELL"
+msgstr "řečtina, moderní (1453-)"
+
+msgid "ISO_639-3.ELX"
+msgstr "elamština"
+
+msgid "ISO_639-3.EMG"
+msgstr "fríština"
+
+msgid "ISO_639-3.EMK"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.EMN"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.EMU"
+msgstr "fríština"
+
+msgid "ISO_639-3.ENA"
+msgstr "nepálština"
+
+msgid "ISO_639-3.ENB"
+msgstr "maráthština"
+
+msgid "ISO_639-3.ENG"
+msgstr "angličtina"
+
+msgid "ISO_639-3.ENM"
+msgstr "angličtina, středověká (1100-1500)"
+
+msgid "ISO_639-3.ENQ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.EPO"
+msgstr "esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "katalánština"
+
+msgid "ISO_639-3.ERK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ESG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ESI"
+msgstr "severoamerická indiánština (jiná)"
+
+msgid "ISO_639-3.ESL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ESN"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ESO"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.EST"
+msgstr "estonština"
+
+msgid "ISO_639-3.ETH"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ETR"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ETT"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.EUS"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.EVH"
+msgstr "uzbekistánština"
+
+msgid "ISO_639-3.EWE"
+msgstr "eweština"
+
+msgid "ISO_639-3.EWO"
+msgstr "ewondo"
+
+msgid "ISO_639-3.EYO"
+msgstr "korejština"
+
+msgid "ISO_639-3.EZE"
+msgstr "uzbekistánština"
+
+msgid "ISO_639-3.FAA"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.FAF"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.FAH"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.FAJ"
+msgstr "tahitština"
+
+msgid "ISO_639-3.FAL"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.FAO"
+msgstr "faerština"
+
+msgid "ISO_639-3.FAP"
+msgstr "páli"
+
+msgid "ISO_639-3.FAR"
+msgstr "katalánština"
+
+msgid "ISO_639-3.FAS"
+msgstr "perština"
+
+msgid "ISO_639-3.FAT"
+msgstr "fantiština"
+
+msgid "ISO_639-3.FAX"
+msgstr "Malajština"
+
+msgid "ISO_639-3.FAY"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.FBL"
+msgstr "albánština"
+
+msgid "ISO_639-3.FCS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.FER"
+msgstr "faerština"
+
+msgid "ISO_639-3.FIJ"
+msgstr "Fidži"
+
+msgid "ISO_639-3.FIL"
+msgstr "furlanština"
+
+msgid "ISO_639-3.FIN"
+msgstr "finština"
+
+msgid "ISO_639-3.FIP"
+msgstr "Fidži"
+
+msgid "ISO_639-3.FIR"
+msgstr "Fidži"
+
+msgid "ISO_639-3.FKV"
+msgstr "finština"
+
+msgid "ISO_639-3.FLI"
+msgstr "páli"
+
+msgid "ISO_639-3.FLL"
+msgstr "korejština"
+
+msgid "ISO_639-3.FLY"
+msgstr "tahitština"
+
+msgid "ISO_639-3.FMU"
+msgstr "fríština"
+
+msgid "ISO_639-3.FNG"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.FNI"
+msgstr "albánština"
+
+msgid "ISO_639-3.FOM"
+msgstr "somálština"
+
+msgid "ISO_639-3.FON"
+msgstr "fonština"
+
+msgid "ISO_639-3.FOR"
+msgstr "korejština"
+
+msgid "ISO_639-3.FQS"
+msgstr "faerština"
+
+msgid "ISO_639-3.FRA"
+msgstr "francouzština"
+
+msgid "ISO_639-3.FRC"
+msgstr "francouzština"
+
+msgid "ISO_639-3.FRK"
+msgstr "dánština"
+
+msgid "ISO_639-3.FRM"
+msgstr "francouzština, středověká (cca 1400-1600)"
+
+msgid "ISO_639-3.FRO"
+msgstr "francouzština, statá (842-cca 1400)"
+
+msgid "ISO_639-3.FRP"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.FRR"
+msgstr "fríština"
+
+msgid "ISO_639-3.FRS"
+msgstr "fríština"
+
+msgid "ISO_639-3.FRY"
+msgstr "fríština"
+
+msgid "ISO_639-3.FSE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.FSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.FSS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.FUI"
+msgstr "bihárština"
+
+msgid "ISO_639-3.FUL"
+msgstr "fulahština"
+
+msgid "ISO_639-3.FUR"
+msgstr "furlanština"
+
+msgid "ISO_639-3.FUU"
+msgstr "naurština"
+
+msgid "ISO_639-3.GAA"
+msgstr "ga"
+
+msgid "ISO_639-3.GAB"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GAI"
+msgstr "maorština"
+
+msgid "ISO_639-3.GAL"
+msgstr "páli"
+
+msgid "ISO_639-3.GAM"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.GAN"
+msgstr "čínština"
+
+msgid "ISO_639-3.GAQ"
+msgstr "tatarština"
+
+msgid "ISO_639-3.GAT"
+msgstr "bengálština"
+
+msgid "ISO_639-3.GAY"
+msgstr "gayo"
+
+msgid "ISO_639-3.GBF"
+msgstr "hindština"
+
+msgid "ISO_639-3.GBL"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.GBM"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GBO"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GBY"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GCC"
+msgstr "páli"
+
+msgid "ISO_639-3.GCE"
+msgstr "galština"
+
+msgid "ISO_639-3.GCN"
+msgstr "galština"
+
+msgid "ISO_639-3.GDI"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.GDJ"
+msgstr "Gujaratština"
+
+msgid "ISO_639-3.GDK"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GDL"
+msgstr "dánština"
+
+msgid "ISO_639-3.GDM"
+msgstr "lahnda"
+
+msgid "ISO_639-3.GDN"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.GDQ"
+msgstr "maorština"
+
+msgid "ISO_639-3.GDS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GDT"
+msgstr "maďarština"
+
+msgid "ISO_639-3.GEA"
+msgstr "němčina"
+
+msgid "ISO_639-3.GEB"
+msgstr "korejština"
+
+msgid "ISO_639-3.GEG"
+msgstr "bengálština"
+
+msgid "ISO_639-3.GEI"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.GEJ"
+msgstr "němčina"
+
+msgid "ISO_639-3.GEQ"
+msgstr "němčina"
+
+msgid "ISO_639-3.GEW"
+msgstr "němčina"
+
+msgid "ISO_639-3.GEZ"
+msgstr "etiopština"
+
+msgid "ISO_639-3.GFK"
+msgstr "tatarština"
+
+msgid "ISO_639-3.GFT"
+msgstr "Gujaratština"
+
+msgid "ISO_639-3.GGA"
+msgstr "Laoština"
+
+msgid "ISO_639-3.GGE"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GGK"
+msgstr "maďarština"
+
+msgid "ISO_639-3.GHC"
+msgstr "gaelština; skotská"
+
+msgid "ISO_639-3.GHE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GHH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GHO"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.GHR"
+msgstr "němčina"
+
+msgid "ISO_639-3.GIC"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.GIG"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.GIL"
+msgstr "kiribatština"
+
+msgid "ISO_639-3.GIQ"
+msgstr "němčina"
+
+msgid "ISO_639-3.GIR"
+msgstr "němčina"
+
+msgid "ISO_639-3.GIU"
+msgstr "Malajština"
+
+msgid "ISO_639-3.GIW"
+msgstr "němčina"
+
+msgid "ISO_639-3.GIX"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.GJK"
+msgstr "kačjinština"
+
+msgid "ISO_639-3.GJM"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.GJN"
+msgstr "Shona"
+
+msgid "ISO_639-3.GJR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GJU"
+msgstr "Gujaratština"
+
+msgid "ISO_639-3.GKE"
+msgstr "nepálština"
+
+msgid "ISO_639-3.GKP"
+msgstr "gaelština; skotská"
+
+msgid "ISO_639-3.GLE"
+msgstr "irština"
+
+msgid "ISO_639-3.GLG"
+msgstr "galština"
+
+msgid "ISO_639-3.GLH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GLL"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.GLV"
+msgstr "manština"
+
+msgid "ISO_639-3.GMA"
+msgstr "němčina"
+
+msgid "ISO_639-3.GMH"
+msgstr "arménština"
+
+msgid "ISO_639-3.GMU"
+msgstr "Zulu"
+
+msgid "ISO_639-3.GMV"
+msgstr "Laoština"
+
+msgid "ISO_639-3.GNA"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.GNE"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GNH"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.GNM"
+msgstr "němčina"
+
+msgid "ISO_639-3.GNO"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.GNT"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GNW"
+msgstr "fríština"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GOF"
+msgstr "korejština"
+
+msgid "ISO_639-3.GOH"
+msgstr "němčina, stará vysoká (cca 750-1050)"
+
+msgid "ISO_639-3.GON"
+msgstr "góndština"
+
+msgid "ISO_639-3.GOQ"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.GOR"
+msgstr "gorontalo"
+
+msgid "ISO_639-3.GOT"
+msgstr "gótština"
+
+msgid "ISO_639-3.GOU"
+msgstr "tatarština"
+
+msgid "ISO_639-3.GOZ"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GPE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GPN"
+msgstr "thajština"
+
+msgid "ISO_639-3.GQA"
+msgstr "lahnda"
+
+msgid "ISO_639-3.GQU"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.GRB"
+msgstr "grebo"
+
+msgid "ISO_639-3.GRC"
+msgstr "řečtina, starověká (do 1453)"
+
+msgid "ISO_639-3.GRG"
+msgstr "maorština"
+
+msgid "ISO_639-3.GRI"
+msgstr "bihárština"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GRN"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GRO"
+msgstr "němčina"
+
+msgid "ISO_639-3.GSE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GSG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GSM"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.GSS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GSW"
+msgstr "němčina"
+
+msgid "ISO_639-3.GUA"
+msgstr "svahilština"
+
+msgid "ISO_639-3.GUB"
+msgstr "Gujaratština"
+
+msgid "ISO_639-3.GUC"
+msgstr "naurština"
+
+msgid "ISO_639-3.GUE"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GUG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GUJ"
+msgstr "Gujaratština"
+
+msgid "ISO_639-3.GUM"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GUR"
+msgstr "faerština"
+
+msgid "ISO_639-3.GUS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.GUW"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GVC"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GVE"
+msgstr "holandština"
+
+msgid "ISO_639-3.GVF"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.GVL"
+msgstr "Malajština"
+
+msgid "ISO_639-3.GVM"
+msgstr "němčina"
+
+msgid "ISO_639-3.GVR"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.GVS"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GVY"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GWA"
+msgstr "maorština"
+
+msgid "ISO_639-3.GWC"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.GWI"
+msgstr "gwich`in"
+
+msgid "ISO_639-3.GWN"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.GWT"
+msgstr "Gujaratština"
+
+msgid "ISO_639-3.GWW"
+msgstr "hindština"
+
+msgid "ISO_639-3.GWX"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GXX"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.GYB"
+msgstr "naurština"
+
+msgid "ISO_639-3.GYE"
+msgstr "němčina"
+
+msgid "ISO_639-3.GYF"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.GYL"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.GYR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.GZN"
+msgstr "němčina"
+
+msgid "ISO_639-3.HAB"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HAC"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.HAD"
+msgstr "tatarština"
+
+msgid "ISO_639-3.HAF"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HAG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.HAH"
+msgstr "Shona"
+
+msgid "ISO_639-3.HAI"
+msgstr "haida"
+
+msgid "ISO_639-3.HAK"
+msgstr "čínština"
+
+msgid "ISO_639-3.HAL"
+msgstr "katalánština"
+
+msgid "ISO_639-3.HAM"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.HAN"
+msgstr "maďarština"
+
+msgid "ISO_639-3.HAP"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.HAS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAT"
+msgstr "tahitština"
+
+msgid "ISO_639-3.HAU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAV"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HAW"
+msgstr "havajština"
+
+msgid "ISO_639-3.HAX"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HAY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HBN"
+msgstr "perština"
+
+msgid "ISO_639-3.HBO"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.HBS"
+msgstr "chorvatština"
+
+msgid "ISO_639-3.HBU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HDN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HDS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HEA"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HEB"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.HEH"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.HER"
+msgstr "herero"
+
+msgid "ISO_639-3.HGW"
+msgstr "havajština"
+
+msgid "ISO_639-3.HHR"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.HHY"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HIA"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.HID"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HIF"
+msgstr "hindština"
+
+msgid "ISO_639-3.HIG"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.HII"
+msgstr "hindština"
+
+msgid "ISO_639-3.HIL"
+msgstr "hiligayonština"
+
+msgid "ISO_639-3.HIN"
+msgstr "hindština"
+
+msgid "ISO_639-3.HIO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.HIT"
+msgstr "chetitština"
+
+msgid "ISO_639-3.HJI"
+msgstr "hindština"
+
+msgid "ISO_639-3.HKA"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.HKE"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.HKS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HLA"
+msgstr "páli"
+
+msgid "ISO_639-3.HLB"
+msgstr "páli"
+
+msgid "ISO_639-3.HLE"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HLT"
+msgstr "čínština"
+
+msgid "ISO_639-3.HMA"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HME"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMI"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMJ"
+msgstr "fríština"
+
+msgid "ISO_639-3.HMN"
+msgstr "hmongština"
+
+msgid "ISO_639-3.HMO"
+msgstr "hiri motu"
+
+msgid "ISO_639-3.HMP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMQ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMR"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.HMS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HMW"
+msgstr "fríština"
+
+msgid "ISO_639-3.HMY"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HMZ"
+msgstr "hmongština"
+
+msgid "ISO_639-3.HND"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HNI"
+msgstr "hindština"
+
+msgid "ISO_639-3.HNO"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HNU"
+msgstr "maďarština"
+
+msgid "ISO_639-3.HOA"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HOE"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.HOJ"
+msgstr "gótština"
+
+msgid "ISO_639-3.HOM"
+msgstr "somálština"
+
+msgid "ISO_639-3.HOW"
+msgstr "hindština"
+
+msgid "ISO_639-3.HPS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HRE"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.HRO"
+msgstr "maorština"
+
+msgid "ISO_639-3.HRU"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HRV"
+msgstr "chorvatština"
+
+msgid "ISO_639-3.HRW"
+msgstr "márvárština"
+
+msgid "ISO_639-3.HRX"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.HSB"
+msgstr "srbština"
+
+msgid "ISO_639-3.HSH"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.HSN"
+msgstr "čínština"
+
+msgid "ISO_639-3.HSS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HTI"
+msgstr "gótština"
+
+msgid "ISO_639-3.HTS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HTX"
+msgstr "chetitština"
+
+msgid "ISO_639-3.HUB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUC"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUD"
+msgstr "Zulu"
+
+msgid "ISO_639-3.HUF"
+msgstr "Barmština"
+
+msgid "ISO_639-3.HUJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.HUK"
+msgstr "Zulu"
+
+msgid "ISO_639-3.HUL"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HUM"
+msgstr "maďarština"
+
+msgid "ISO_639-3.HUN"
+msgstr "maďarština"
+
+msgid "ISO_639-3.HUP"
+msgstr "hupa"
+
+msgid "ISO_639-3.HUQ"
+msgstr "tatarština"
+
+msgid "ISO_639-3.HUS"
+msgstr "Barmština"
+
+msgid "ISO_639-3.HUT"
+msgstr "Hausa"
+
+msgid "ISO_639-3.HWO"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.HYE"
+msgstr "arménština"
+
+msgid "ISO_639-3.IAR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.IBA"
+msgstr "iban"
+
+msgid "ISO_639-3.IBL"
+msgstr "italština"
+
+msgid "ISO_639-3.IBO"
+msgstr "igbo"
+
+msgid "ISO_639-3.IBY"
+msgstr "albánština"
+
+msgid "ISO_639-3.ICL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.IDB"
+msgstr "portugalština"
+
+msgid "ISO_639-3.IDO"
+msgstr "ido"
+
+msgid "ISO_639-3.IDR"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.IDS"
+msgstr "indonézština"
+
+msgid "ISO_639-3.IGL"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.IGN"
+msgstr "italština"
+
+msgid "ISO_639-3.IGS"
+msgstr "Interlingua"
+
+msgid "ISO_639-3.III"
+msgstr "litevština"
+
+msgid "ISO_639-3.IJE"
+msgstr "bengálština"
+
+msgid "ISO_639-3.IJS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.IKL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.IKR"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.IKS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.IKU"
+msgstr "Inuktitutština"
+
+msgid "ISO_639-3.ILB"
+msgstr "italština"
+
+msgid "ISO_639-3.ILE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ILI"
+msgstr "turečtina"
+
+msgid "ISO_639-3.ILM"
+msgstr "ruština"
+
+msgid "ISO_639-3.ILO"
+msgstr "ilokánština"
+
+msgid "ISO_639-3.IMA"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.IMS"
+msgstr "fríština"
+
+msgid "ISO_639-3.IMY"
+msgstr "manština"
+
+msgid "ISO_639-3.INA"
+msgstr "Interlingua (Mezinárodní pomocná jazyková asociace)"
+
+msgid "ISO_639-3.INB"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.IND"
+msgstr "indonézština"
+
+msgid "ISO_639-3.INH"
+msgstr "inguština"
+
+msgid "ISO_639-3.INL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.INS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.IPK"
+msgstr "Inupiakština"
+
+msgid "ISO_639-3.IRX"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.IRY"
+msgstr "orija"
+
+msgid "ISO_639-3.ISE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ISG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ISH"
+msgstr "estonština"
+
+msgid "ISO_639-3.ISL"
+msgstr "islandština"
+
+msgid "ISO_639-3.ISR"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ITA"
+msgstr "italština"
+
+msgid "ISO_639-3.ITD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ITE"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ITK"
+msgstr "italština"
+
+msgid "ISO_639-3.ITR"
+msgstr "Interlingue"
+
+msgid "ISO_639-3.ITV"
+msgstr "italština"
+
+msgid "ISO_639-3.ITY"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.IVB"
+msgstr "katalánština"
+
+msgid "ISO_639-3.IVV"
+msgstr "avestština"
+
+msgid "ISO_639-3.IZH"
+msgstr "maďarština"
+
+msgid "ISO_639-3.JAC"
+msgstr "koptština"
+
+msgid "ISO_639-3.JAD"
+msgstr "lahnda"
+
+msgid "ISO_639-3.JAF"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.JAN"
+msgstr "arabština"
+
+msgid "ISO_639-3.JAQ"
+msgstr "Malajština"
+
+msgid "ISO_639-3.JAT"
+msgstr "maráthština"
+
+msgid "ISO_639-3.JAU"
+msgstr "naurština"
+
+msgid "ISO_639-3.JAV"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.JAY"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.JBJ"
+msgstr "arabština"
+
+msgid "ISO_639-3.JBK"
+msgstr "bulharština"
+
+msgid "ISO_639-3.JBO"
+msgstr "lojban"
+
+msgid "ISO_639-3.JCT"
+msgstr "korejština"
+
+msgid "ISO_639-3.JER"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.JET"
+msgstr "manština"
+
+msgid "ISO_639-3.JGE"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.JHI"
+msgstr "thajština"
+
+msgid "ISO_639-3.JHS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.JIO"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.JIV"
+msgstr "Shona"
+
+msgid "ISO_639-3.JJR"
+msgstr "lahnda"
+
+msgid "ISO_639-3.JKR"
+msgstr "indonézština"
+
+msgid "ISO_639-3.JKU"
+msgstr "latina"
+
+msgid "ISO_639-3.JLS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.JMB"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JMN"
+msgstr "naurština"
+
+msgid "ISO_639-3.JMR"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.JND"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.JNG"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.JNI"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.JNL"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.JNS"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.JOB"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.JOS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.JOW"
+msgstr "Zulu"
+
+msgid "ISO_639-3.JPN"
+msgstr "japonština"
+
+msgid "ISO_639-3.JPR"
+msgstr "judeo-perština"
+
+msgid "ISO_639-3.JRA"
+msgstr "maráthština"
+
+msgid "ISO_639-3.JRB"
+msgstr "judeo-arabština"
+
+msgid "ISO_639-3.JSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.JUK"
+msgstr "japonština"
+
+msgid "ISO_639-3.JUN"
+msgstr "Sangho"
+
+msgid "ISO_639-3.JUS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.JUT"
+msgstr "kurdština"
+
+msgid "ISO_639-3.JVD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.JVN"
+msgstr "jávština"
+
+msgid "ISO_639-3.JYE"
+msgstr "judeo-arabština"
+
+msgid "ISO_639-3.KAA"
+msgstr "karakalpačtina"
+
+msgid "ISO_639-3.KAB"
+msgstr "kabulí"
+
+msgid "ISO_639-3.KAC"
+msgstr "kačjinština"
+
+msgid "ISO_639-3.KAD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.KAF"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.KAG"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.KAK"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.KAL"
+msgstr "grónština (Kalaallisut)"
+
+msgid "ISO_639-3.KAN"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KAS"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KAT"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.KAU"
+msgstr "kanuri"
+
+msgid "ISO_639-3.KAW"
+msgstr "kawi"
+
+msgid "ISO_639-3.KAX"
+msgstr "Laoština"
+
+msgid "ISO_639-3.KAZ"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.KBA"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.KBD"
+msgstr "kabardština"
+
+msgid "ISO_639-3.KBI"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.KBJ"
+msgstr "maorština"
+
+msgid "ISO_639-3.KBP"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KBQ"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.KBR"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.KBS"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KBT"
+msgstr "albánština"
+
+msgid "ISO_639-3.KBV"
+msgstr "indonézština"
+
+msgid "ISO_639-3.KBY"
+msgstr "kanuri"
+
+msgid "ISO_639-3.KBZ"
+msgstr "holandština"
+
+msgid "ISO_639-3.KCB"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.KCC"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.KCE"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KCF"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.KCI"
+msgstr "rumunština"
+
+msgid "ISO_639-3.KCJ"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KCK"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.KCO"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.KCP"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.KCR"
+msgstr "katalánština"
+
+msgid "ISO_639-3.KCS"
+msgstr "korejština"
+
+msgid "ISO_639-3.KCT"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KCY"
+msgstr "korejština"
+
+msgid "ISO_639-3.KDE"
+msgstr "čínština"
+
+msgid "ISO_639-3.KDG"
+msgstr "srbština"
+
+msgid "ISO_639-3.KDN"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KDR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.KDU"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.KDW"
+msgstr "korejština"
+
+msgid "ISO_639-3.KDY"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KEA"
+msgstr "sumerština"
+
+msgid "ISO_639-3.KED"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.KEH"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KEJ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.KEN"
+msgstr "korejština"
+
+msgid "ISO_639-3.KEQ"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KER"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KEU"
+msgstr "aleutština"
+
+msgid "ISO_639-3.KEY"
+msgstr "Inupiakština"
+
+msgid "ISO_639-3.KFA"
+msgstr "korejština"
+
+msgid "ISO_639-3.KFB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KFD"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.KFF"
+msgstr "korejština"
+
+msgid "ISO_639-3.KFG"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KFH"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KFI"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KFP"
+msgstr "korejština"
+
+msgid "ISO_639-3.KFR"
+msgstr "kačjinština"
+
+msgid "ISO_639-3.KFS"
+msgstr "bihárština"
+
+msgid "ISO_639-3.KFT"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.KFU"
+msgstr "tatarština"
+
+msgid "ISO_639-3.KFW"
+msgstr "litevština"
+
+msgid "ISO_639-3.KFX"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.KFY"
+msgstr "sumerština"
+
+msgid "ISO_639-3.KGD"
+msgstr "katalánština"
+
+msgid "ISO_639-3.KGE"
+msgstr "sumerština"
+
+msgid "ISO_639-3.KGI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.KGL"
+msgstr "maďarština"
+
+msgid "ISO_639-3.KGN"
+msgstr "sardinština"
+
+msgid "ISO_639-3.KGP"
+msgstr "litevština"
+
+msgid "ISO_639-3.KHA"
+msgstr "khásí"
+
+msgid "ISO_639-3.KHE"
+msgstr "korejština"
+
+msgid "ISO_639-3.KHF"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KHG"
+msgstr "tibetština"
+
+msgid "ISO_639-3.KHK"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KHO"
+msgstr "chotánština"
+
+msgid "ISO_639-3.KHP"
+msgstr "maorština"
+
+msgid "ISO_639-3.KHR"
+msgstr "bihárština"
+
+msgid "ISO_639-3.KHS"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KHT"
+msgstr "thajština"
+
+msgid "ISO_639-3.KHV"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KHX"
+msgstr "korejština"
+
+msgid "ISO_639-3.KIB"
+msgstr "somálština"
+
+msgid "ISO_639-3.KID"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KIE"
+msgstr "tibetština"
+
+msgid "ISO_639-3.KIH"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KIL"
+msgstr "orija"
+
+msgid "ISO_639-3.KIM"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.KIN"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.KIR"
+msgstr "Kirgizština"
+
+msgid "ISO_639-3.KIS"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KIU"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.KIW"
+msgstr "korejština"
+
+msgid "ISO_639-3.KIX"
+msgstr "litevština"
+
+msgid "ISO_639-3.KJA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.KJC"
+msgstr "katalánština"
+
+msgid "ISO_639-3.KJD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KJG"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KJQ"
+msgstr "fríština"
+
+msgid "ISO_639-3.KJR"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KJU"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KJV"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.KJX"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.KKA"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KKF"
+msgstr "rumunština"
+
+msgid "ISO_639-3.KKI"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KKJ"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.KKK"
+msgstr "dakotština"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.KKU"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.KKV"
+msgstr "korejština"
+
+msgid "ISO_639-3.KKZ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.KLG"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.KLJ"
+msgstr "násobné jazyky"
+
+msgid "ISO_639-3.KLL"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.KLM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.KLP"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KLS"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KLW"
+msgstr "latina"
+
+msgid "ISO_639-3.KLY"
+msgstr "Malajština"
+
+msgid "ISO_639-3.KMB"
+msgstr "kimbundština"
+
+msgid "ISO_639-3.KMC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KMD"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.KMH"
+msgstr "Malajština"
+
+msgid "ISO_639-3.KML"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.KMR"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KMY"
+msgstr "somálština"
+
+msgid "ISO_639-3.KNC"
+msgstr "kanuri"
+
+msgid "ISO_639-3.KND"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KNE"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KNF"
+msgstr "Malajština"
+
+msgid "ISO_639-3.KNJ"
+msgstr "fríština"
+
+msgid "ISO_639-3.KNK"
+msgstr "korejština"
+
+msgid "ISO_639-3.KNM"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KNN"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.KNP"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.KNR"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KOC"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.KOF"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KOK"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.KOM"
+msgstr "komijština"
+
+msgid "ISO_639-3.KON"
+msgstr "konžština"
+
+msgid "ISO_639-3.KOO"
+msgstr "konžština"
+
+msgid "ISO_639-3.KOR"
+msgstr "korejština"
+
+msgid "ISO_639-3.KOS"
+msgstr "kosrajština"
+
+msgid "ISO_639-3.KOT"
+msgstr "litevština"
+
+msgid "ISO_639-3.KOU"
+msgstr "korejština"
+
+msgid "ISO_639-3.KOZ"
+msgstr "korejština"
+
+msgid "ISO_639-3.KPD"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.KPE"
+msgstr "kpelle"
+
+msgid "ISO_639-3.KPK"
+msgstr "korejština"
+
+msgid "ISO_639-3.KPL"
+msgstr "Malajština"
+
+msgid "ISO_639-3.KPR"
+msgstr "korejština"
+
+msgid "ISO_639-3.KPS"
+msgstr "thajština"
+
+msgid "ISO_639-3.KPT"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KPY"
+msgstr "korejština"
+
+msgid "ISO_639-3.KQE"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.KQG"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KQH"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KQM"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.KQN"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KQO"
+msgstr "fríština"
+
+msgid "ISO_639-3.KQQ"
+msgstr "korejština"
+
+msgid "ISO_639-3.KQS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KQU"
+msgstr "srbština"
+
+msgid "ISO_639-3.KQW"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KQY"
+msgstr "korejština"
+
+msgid "ISO_639-3.KQZ"
+msgstr "korejština"
+
+msgid "ISO_639-3.KRA"
+msgstr "somálština"
+
+msgid "ISO_639-3.KRC"
+msgstr "karachay-balkarština"
+
+msgid "ISO_639-3.KRE"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.KRJ"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.KRK"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KRL"
+msgstr "karelština"
+
+msgid "ISO_639-3.KRN"
+msgstr "Sangho"
+
+msgid "ISO_639-3.KRT"
+msgstr "naurština"
+
+msgid "ISO_639-3.KRU"
+msgstr "kurukh"
+
+msgid "ISO_639-3.KRV"
+msgstr "tatarština"
+
+msgid "ISO_639-3.KRW"
+msgstr "fríština"
+
+msgid "ISO_639-3.KRZ"
+msgstr "osečtina"
+
+msgid "ISO_639-3.KSC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KSD"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KSE"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.KSI"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KSK"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KSL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.KSN"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KSO"
+msgstr "korejština"
+
+msgid "ISO_639-3.KSP"
+msgstr "kašubština"
+
+msgid "ISO_639-3.KSR"
+msgstr "bretonština"
+
+msgid "ISO_639-3.KSS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KSX"
+msgstr "korejština"
+
+msgid "ISO_639-3.KSZ"
+msgstr "korejština"
+
+msgid "ISO_639-3.KTA"
+msgstr "tatarština"
+
+msgid "ISO_639-3.KTE"
+msgstr "naurština"
+
+msgid "ISO_639-3.KTF"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KTH"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.KTM"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KTS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KTV"
+msgstr "fríština"
+
+msgid "ISO_639-3.KUC"
+msgstr "hindština"
+
+msgid "ISO_639-3.KUF"
+msgstr "Telugština"
+
+msgid "ISO_639-3.KUH"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KUJ"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KUM"
+msgstr "kumyčtina"
+
+msgid "ISO_639-3.KUN"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.KUR"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KUT"
+msgstr "kutenai"
+
+msgid "ISO_639-3.KUV"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KVC"
+msgstr "korejština"
+
+msgid "ISO_639-3.KVD"
+msgstr "indonézština"
+
+msgid "ISO_639-3.KVI"
+msgstr "Sangho"
+
+msgid "ISO_639-3.KVK"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.KVP"
+msgstr "korejština"
+
+msgid "ISO_639-3.KVV"
+msgstr "korejština"
+
+msgid "ISO_639-3.KVW"
+msgstr "perština"
+
+msgid "ISO_639-3.KWC"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.KWD"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.KWE"
+msgstr "srbština"
+
+msgid "ISO_639-3.KWJ"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.KWL"
+msgstr "afarština"
+
+msgid "ISO_639-3.KWN"
+msgstr "bengálština"
+
+msgid "ISO_639-3.KWP"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.KWR"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.KWY"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.KXA"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KXC"
+msgstr "nepálština"
+
+msgid "ISO_639-3.KXM"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KXN"
+msgstr "kurdština"
+
+msgid "ISO_639-3.KXP"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.KXW"
+msgstr "Shona"
+
+msgid "ISO_639-3.KXZ"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.KYG"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.KYL"
+msgstr "Malajština"
+
+msgid "ISO_639-3.KYM"
+msgstr "nepálština"
+
+msgid "ISO_639-3.KYN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.KYP"
+msgstr "Sangho"
+
+msgid "ISO_639-3.KYQ"
+msgstr "bengálština"
+
+msgid "ISO_639-3.KYS"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.KYU"
+msgstr "fríština"
+
+msgid "ISO_639-3.KYW"
+msgstr "somálština"
+
+msgid "ISO_639-3.KYY"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.KZA"
+msgstr "fríština"
+
+msgid "ISO_639-3.KZD"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.KZE"
+msgstr "korejština"
+
+msgid "ISO_639-3.KZK"
+msgstr "naurština"
+
+msgid "ISO_639-3.KZL"
+msgstr "páli"
+
+msgid "ISO_639-3.KZM"
+msgstr "dánština"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.KZR"
+msgstr "korejština"
+
+msgid "ISO_639-3.KZX"
+msgstr "havajština"
+
+msgid "ISO_639-3.LAA"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.LAB"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LAD"
+msgstr "ladino"
+
+msgid "ISO_639-3.LAF"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LAG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.LAH"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LAL"
+msgstr "páli"
+
+msgid "ISO_639-3.LAM"
+msgstr "lambština"
+
+msgid "ISO_639-3.LAN"
+msgstr "naurština"
+
+msgid "ISO_639-3.LAO"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LAR"
+msgstr "maráthština"
+
+msgid "ISO_639-3.LAT"
+msgstr "latina"
+
+msgid "ISO_639-3.LAU"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LAV"
+msgstr "litevština"
+
+msgid "ISO_639-3.LAX"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.LAY"
+msgstr "bihárština"
+
+msgid "ISO_639-3.LBC"
+msgstr "litevština"
+
+msgid "ISO_639-3.LBE"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LBF"
+msgstr "finština"
+
+msgid "ISO_639-3.LBG"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.LBI"
+msgstr "latina"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.LBK"
+msgstr "kurdština"
+
+msgid "ISO_639-3.LBL"
+msgstr "bikolština"
+
+msgid "ISO_639-3.LBN"
+msgstr "latina"
+
+msgid "ISO_639-3.LBO"
+msgstr "litevština"
+
+msgid "ISO_639-3.LBS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LBT"
+msgstr "balúčština"
+
+msgid "ISO_639-3.LBW"
+msgstr "thajština"
+
+msgid "ISO_639-3.LBX"
+msgstr "havajština"
+
+msgid "ISO_639-3.LBZ"
+msgstr "ladino"
+
+msgid "ISO_639-3.LCL"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.LCM"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LCP"
+msgstr "fríština"
+
+msgid "ISO_639-3.LDI"
+msgstr "tatarština"
+
+msgid "ISO_639-3.LDL"
+msgstr "kašubština"
+
+msgid "ISO_639-3.LDM"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LDN"
+msgstr "ladino"
+
+msgid "ISO_639-3.LDO"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LDP"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LEA"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LEJ"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LEM"
+msgstr "rumunština"
+
+msgid "ISO_639-3.LEP"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.LEX"
+msgstr "Sangho"
+
+msgid "ISO_639-3.LEZ"
+msgstr "lezgiština"
+
+msgid "ISO_639-3.LFN"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LGA"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LGG"
+msgstr "bulharština"
+
+msgid "ISO_639-3.LGK"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LGL"
+msgstr "Malajština"
+
+msgid "ISO_639-3.LGR"
+msgstr "Sangho"
+
+msgid "ISO_639-3.LGT"
+msgstr "páli"
+
+msgid "ISO_639-3.LHH"
+msgstr "indonézština"
+
+msgid "ISO_639-3.LHN"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LHT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.LHU"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LIE"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LIJ"
+msgstr "litevština"
+
+msgid "ISO_639-3.LIM"
+msgstr "litevština"
+
+msgid "ISO_639-3.LIN"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LIR"
+msgstr "angličtina"
+
+msgid "ISO_639-3.LIT"
+msgstr "litevština"
+
+msgid "ISO_639-3.LIW"
+msgstr "kornština"
+
+msgid "ISO_639-3.LJE"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.LJI"
+msgstr "ladino"
+
+msgid "ISO_639-3.LJL"
+msgstr "ladino"
+
+msgid "ISO_639-3.LJP"
+msgstr "Sangho"
+
+msgid "ISO_639-3.LJW"
+msgstr "arabština"
+
+msgid "ISO_639-3.LKB"
+msgstr "kašubština"
+
+msgid "ISO_639-3.LKC"
+msgstr "konžština"
+
+msgid "ISO_639-3.LKD"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LKH"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LKI"
+msgstr "latina"
+
+msgid "ISO_639-3.LKJ"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.LKM"
+msgstr "Malajština"
+
+msgid "ISO_639-3.LKN"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LKO"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LKS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.LKT"
+msgstr "dakotština"
+
+msgid "ISO_639-3.LKU"
+msgstr "maďarština"
+
+msgid "ISO_639-3.LLB"
+msgstr "Wolof"
+
+msgid "ISO_639-3.LLD"
+msgstr "ladino"
+
+msgid "ISO_639-3.LLH"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LLL"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LLO"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.LLP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.LLS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LLU"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LLX"
+msgstr "litevština"
+
+msgid "ISO_639-3.LMB"
+msgstr "maorština"
+
+msgid "ISO_639-3.LMC"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LMG"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.LMK"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.LML"
+msgstr "Sangho"
+
+msgid "ISO_639-3.LMN"
+msgstr "ladino"
+
+msgid "ISO_639-3.LMY"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.LMZ"
+msgstr "Barmština"
+
+msgid "ISO_639-3.LNB"
+msgstr "Malajština"
+
+msgid "ISO_639-3.LNH"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LNI"
+msgstr "litevština"
+
+msgid "ISO_639-3.LNM"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LNS"
+msgstr "ladino"
+
+msgid "ISO_639-3.LNU"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LNW"
+msgstr "páli"
+
+msgid "ISO_639-3.LOC"
+msgstr "indonézština"
+
+msgid "ISO_639-3.LOE"
+msgstr "katalánština"
+
+msgid "ISO_639-3.LOH"
+msgstr "naurština"
+
+msgid "ISO_639-3.LOJ"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LOL"
+msgstr "mongština"
+
+msgid "ISO_639-3.LOO"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.LOQ"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LOZ"
+msgstr "lozština"
+
+msgid "ISO_639-3.LPN"
+msgstr "naurština"
+
+msgid "ISO_639-3.LPO"
+msgstr "ladino"
+
+msgid "ISO_639-3.LRA"
+msgstr "bihárština"
+
+msgid "ISO_639-3.LRC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.LRE"
+msgstr "litevština"
+
+msgid "ISO_639-3.LRI"
+msgstr "maráthština"
+
+msgid "ISO_639-3.LRL"
+msgstr "maorština"
+
+msgid "ISO_639-3.LRM"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.LRN"
+msgstr "korejština"
+
+msgid "ISO_639-3.LRO"
+msgstr "Laoština"
+
+msgid "ISO_639-3.LRR"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.LRZ"
+msgstr "sumerština"
+
+msgid "ISO_639-3.LSD"
+msgstr "litevština"
+
+msgid "ISO_639-3.LSG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LSH"
+msgstr "irština"
+
+msgid "ISO_639-3.LSI"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.LSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LSM"
+msgstr "sačtina"
+
+msgid "ISO_639-3.LSO"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LSP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LSS"
+msgstr "latina"
+
+msgid "ISO_639-3.LST"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LSY"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.LTG"
+msgstr "katalánština"
+
+msgid "ISO_639-3.LTI"
+msgstr "indonézština"
+
+msgid "ISO_639-3.LTN"
+msgstr "latina"
+
+msgid "ISO_639-3.LTO"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.LTS"
+msgstr "kornština"
+
+msgid "ISO_639-3.LTU"
+msgstr "latina"
+
+msgid "ISO_639-3.LTZ"
+msgstr "lucemburština"
+
+msgid "ISO_639-3.LUA"
+msgstr "luba-luluaština"
+
+msgid "ISO_639-3.LUB"
+msgstr "lubu-katanžština"
+
+msgid "ISO_639-3.LUC"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LUD"
+msgstr "ladino"
+
+msgid "ISO_639-3.LUF"
+msgstr "Hausa"
+
+msgid "ISO_639-3.LUG"
+msgstr "ganda"
+
+msgid "ISO_639-3.LUI"
+msgstr "luiseňo"
+
+msgid "ISO_639-3.LUJ"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LUN"
+msgstr "lundština"
+
+msgid "ISO_639-3.LUO"
+msgstr "luoština (Keňa a Tanzanie)"
+
+msgid "ISO_639-3.LUR"
+msgstr "naurština"
+
+msgid "ISO_639-3.LUS"
+msgstr "lušáí"
+
+msgid "ISO_639-3.LUV"
+msgstr "latina"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.LVS"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.LWG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.LWH"
+msgstr "balúčština"
+
+msgid "ISO_639-3.LWM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.LYA"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.LYG"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.LYN"
+msgstr "lahnda"
+
+msgid "ISO_639-3.LZH"
+msgstr "čínština"
+
+msgid "ISO_639-3.LZN"
+msgstr "navajština"
+
+msgid "ISO_639-3.LZZ"
+msgstr "Laoština"
+
+msgid "ISO_639-3.MAD"
+msgstr "madurština"
+
+msgid "ISO_639-3.MAF"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MAG"
+msgstr "magahština"
+
+msgid "ISO_639-3.MAH"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MAI"
+msgstr "maithilština"
+
+msgid "ISO_639-3.MAK"
+msgstr "makasarština"
+
+msgid "ISO_639-3.MAL"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MAM"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MAN"
+msgstr "mandingština"
+
+msgid "ISO_639-3.MAR"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MAS"
+msgstr "masajština"
+
+msgid "ISO_639-3.MAW"
+msgstr "maorština"
+
+msgid "ISO_639-3.MAZ"
+msgstr "kurdština"
+
+msgid "ISO_639-3.MBE"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MBF"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MBK"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MBP"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MBQ"
+msgstr "fríština"
+
+msgid "ISO_639-3.MBS"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MBW"
+msgstr "maorština"
+
+msgid "ISO_639-3.MBY"
+msgstr "makedonština"
+
+msgid "ISO_639-3.MCA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MCI"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MCJ"
+msgstr "manština"
+
+msgid "ISO_639-3.MCK"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MCN"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.MCP"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MCS"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MCT"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MCY"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MCZ"
+msgstr "manština"
+
+msgid "ISO_639-3.MDB"
+msgstr "maorština"
+
+msgid "ISO_639-3.MDF"
+msgstr "moksha"
+
+msgid "ISO_639-3.MDG"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MDH"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MDL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.MDN"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MDP"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MDR"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MDW"
+msgstr "maorština"
+
+msgid "ISO_639-3.MDX"
+msgstr "bihárština"
+
+msgid "ISO_639-3.MEC"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MED"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MEH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MEL"
+msgstr "kurdština"
+
+msgid "ISO_639-3.MEM"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.MET"
+msgstr "maorština"
+
+msgid "ISO_639-3.MEV"
+msgstr "maorština"
+
+msgid "ISO_639-3.MEW"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MFA"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MFB"
+msgstr "bengálština"
+
+msgid "ISO_639-3.MFE"
+msgstr "maorština"
+
+msgid "ISO_639-3.MFF"
+msgstr "nepálština"
+
+msgid "ISO_639-3.MFH"
+msgstr "katalánština"
+
+msgid "ISO_639-3.MFI"
+msgstr "lahnda"
+
+msgid "ISO_639-3.MFK"
+msgstr "korejština"
+
+msgid "ISO_639-3.MFL"
+msgstr "páli"
+
+msgid "ISO_639-3.MFP"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MFQ"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.MFR"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MFS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.MFV"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MFY"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MFZ"
+msgstr "katalánština"
+
+msgid "ISO_639-3.MGA"
+msgstr "irština, středověká (900-1200)"
+
+msgid "ISO_639-3.MGB"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MGD"
+msgstr "maorština"
+
+msgid "ISO_639-3.MGE"
+msgstr "Sangho"
+
+msgid "ISO_639-3.MGF"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MGG"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MGJ"
+msgstr "arménština"
+
+msgid "ISO_639-3.MGK"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MGN"
+msgstr "manština"
+
+msgid "ISO_639-3.MGP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MGT"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MGU"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.MGV"
+msgstr "Sangho"
+
+msgid "ISO_639-3.MHF"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MHG"
+msgstr "naurština"
+
+msgid "ISO_639-3.MHI"
+msgstr "maorština"
+
+msgid "ISO_639-3.MHJ"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MHK"
+msgstr "maďarština"
+
+msgid "ISO_639-3.MHP"
+msgstr "balijština"
+
+msgid "ISO_639-3.MHQ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MHS"
+msgstr "indonézština"
+
+msgid "ISO_639-3.MHT"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MHX"
+msgstr "naurština"
+
+msgid "ISO_639-3.MHY"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MHZ"
+msgstr "Tonga"
+
+msgid "ISO_639-3.MIA"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.MIC"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MID"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MIJ"
+msgstr "afarština"
+
+msgid "ISO_639-3.MIN"
+msgstr "minangkabau"
+
+msgid "ISO_639-3.MIS"
+msgstr "násobné jazyky"
+
+msgid "ISO_639-3.MIT"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MJB"
+msgstr "makasarština"
+
+msgid "ISO_639-3.MJJ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.MJK"
+msgstr "tatarština"
+
+msgid "ISO_639-3.MJL"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MJP"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MJQ"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MJR"
+msgstr "moldavština"
+
+msgid "ISO_639-3.MJU"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MJV"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MJW"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.MJX"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MJY"
+msgstr "tahitština"
+
+msgid "ISO_639-3.MJZ"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MKA"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.MKB"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MKD"
+msgstr "makedonština"
+
+msgid "ISO_639-3.MKE"
+msgstr "balúčština"
+
+msgid "ISO_639-3.MKF"
+msgstr "orija"
+
+msgid "ISO_639-3.MKI"
+msgstr "thajština"
+
+msgid "ISO_639-3.MKJ"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MKR"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MKV"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MKY"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.MLA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MLC"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.MLE"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MLF"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MLG"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MLK"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.MLL"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MLM"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MLN"
+msgstr "Sangho"
+
+msgid "ISO_639-3.MLQ"
+msgstr "fríština"
+
+msgid "ISO_639-3.MLT"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MLV"
+msgstr "moldavština"
+
+msgid "ISO_639-3.MLX"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MLZ"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MMA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MMD"
+msgstr "makedonština"
+
+msgid "ISO_639-3.MME"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MMF"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MMI"
+msgstr "maorština"
+
+msgid "ISO_639-3.MMJ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MMM"
+msgstr "maorština"
+
+msgid "ISO_639-3.MMN"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MMO"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MMP"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.MMQ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.MMR"
+msgstr "fríština"
+
+msgid "ISO_639-3.MMT"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MMU"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MMV"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MMX"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MMZ"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MNA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MNB"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MNC"
+msgstr "manchu"
+
+msgid "ISO_639-3.MNE"
+msgstr "navajština"
+
+msgid "ISO_639-3.MNF"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.MNI"
+msgstr "manipurština"
+
+msgid "ISO_639-3.MNJ"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.MNK"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MNL"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.MNM"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MNN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MNP"
+msgstr "čínština"
+
+msgid "ISO_639-3.MNS"
+msgstr "manština"
+
+msgid "ISO_639-3.MNY"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MNZ"
+msgstr "maorština"
+
+msgid "ISO_639-3.MOA"
+msgstr "manština"
+
+msgid "ISO_639-3.MOD"
+msgstr "moldavština"
+
+msgid "ISO_639-3.MOG"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MOH"
+msgstr "mohawk"
+
+msgid "ISO_639-3.MOI"
+msgstr "maorština"
+
+msgid "ISO_639-3.MOK"
+msgstr "maorština"
+
+msgid "ISO_639-3.MOM"
+msgstr "manština"
+
+msgid "ISO_639-3.MON"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MOR"
+msgstr "maorština"
+
+msgid "ISO_639-3.MOS"
+msgstr "mosi"
+
+msgid "ISO_639-3.MOX"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MPC"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MPD"
+msgstr "čínština"
+
+msgid "ISO_639-3.MPE"
+msgstr "manština"
+
+msgid "ISO_639-3.MPG"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MPH"
+msgstr "manština"
+
+msgid "ISO_639-3.MPN"
+msgstr "hindština"
+
+msgid "ISO_639-3.MPQ"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MPT"
+msgstr "manština"
+
+msgid "ISO_639-3.MPV"
+msgstr "maďarština"
+
+msgid "ISO_639-3.MPW"
+msgstr "makedonština"
+
+msgid "ISO_639-3.MPY"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MQA"
+msgstr "indonézština"
+
+msgid "ISO_639-3.MQC"
+msgstr "Sangho"
+
+msgid "ISO_639-3.MQE"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MQI"
+msgstr "maorština"
+
+msgid "ISO_639-3.MQM"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MQP"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MQR"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MQS"
+msgstr "fríština"
+
+msgid "ISO_639-3.MQU"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MQY"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MRA"
+msgstr "maorština"
+
+msgid "ISO_639-3.MRB"
+msgstr "maorština"
+
+msgid "ISO_639-3.MRC"
+msgstr "maorština"
+
+msgid "ISO_639-3.MRD"
+msgstr "fríština"
+
+msgid "ISO_639-3.MRG"
+msgstr "fríština"
+
+msgid "ISO_639-3.MRH"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MRI"
+msgstr "maorština"
+
+msgid "ISO_639-3.MRJ"
+msgstr "fríština"
+
+msgid "ISO_639-3.MRP"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.MRQ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MRS"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MRV"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MRW"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MRX"
+msgstr "maorština"
+
+msgid "ISO_639-3.MRY"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MRZ"
+msgstr "maorština"
+
+msgid "ISO_639-3.MSC"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MSD"
+msgstr "májské jazyky"
+
+msgid "ISO_639-3.MSG"
+msgstr "maorština"
+
+msgid "ISO_639-3.MSH"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MSK"
+msgstr "sačtina"
+
+msgid "ISO_639-3.MSL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.MSR"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.MSS"
+msgstr "Hausa"
+
+msgid "ISO_639-3.MSV"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MTC"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.MTD"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MTE"
+msgstr "Tonga"
+
+msgid "ISO_639-3.MTJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.MTL"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MTM"
+msgstr "maorština"
+
+msgid "ISO_639-3.MTN"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MTR"
+msgstr "maorština"
+
+msgid "ISO_639-3.MTS"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.MTT"
+msgstr "dakotština"
+
+msgid "ISO_639-3.MTW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MTY"
+msgstr "nepálština"
+
+msgid "ISO_639-3.MUA"
+msgstr "Sundanština"
+
+msgid "ISO_639-3.MUC"
+msgstr "Zulu"
+
+msgid "ISO_639-3.MUL"
+msgstr "násobné jazyky"
+
+msgid "ISO_639-3.MUM"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MUP"
+msgstr "páli"
+
+msgid "ISO_639-3.MUS"
+msgstr "krík"
+
+msgid "ISO_639-3.MUT"
+msgstr "fríština"
+
+msgid "ISO_639-3.MUU"
+msgstr "sačtina"
+
+msgid "ISO_639-3.MUX"
+msgstr "Sangho"
+
+msgid "ISO_639-3.MUY"
+msgstr "manština"
+
+msgid "ISO_639-3.MUZ"
+msgstr "maorština"
+
+msgid "ISO_639-3.MVA"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MVD"
+msgstr "maorština"
+
+msgid "ISO_639-3.MVF"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MVQ"
+msgstr "maorština"
+
+msgid "ISO_639-3.MVR"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MVS"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MVU"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MVZ"
+msgstr "avestština"
+
+msgid "ISO_639-3.MWI"
+msgstr "Laoština"
+
+msgid "ISO_639-3.MWK"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MWL"
+msgstr "mirandština"
+
+msgid "ISO_639-3.MWN"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.MWQ"
+msgstr "bengálština"
+
+msgid "ISO_639-3.MWR"
+msgstr "márvárština"
+
+msgid "ISO_639-3.MWX"
+msgstr "makedonština"
+
+msgid "ISO_639-3.MWZ"
+msgstr "mongolština"
+
+msgid "ISO_639-3.MXC"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MXD"
+msgstr "moldavština"
+
+msgid "ISO_639-3.MXF"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MXG"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.MXI"
+msgstr "arabština"
+
+msgid "ISO_639-3.MXN"
+msgstr "indonézština"
+
+msgid "ISO_639-3.MXR"
+msgstr "ruština"
+
+msgid "ISO_639-3.MXW"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.MXX"
+msgstr "maorština"
+
+msgid "ISO_639-3.MXY"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.MYA"
+msgstr "Barmština"
+
+msgid "ISO_639-3.MYB"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MYE"
+msgstr "čejenština"
+
+msgid "ISO_639-3.MYG"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MYH"
+msgstr "maráthština"
+
+msgid "ISO_639-3.MYJ"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.MYL"
+msgstr "somálština"
+
+msgid "ISO_639-3.MYS"
+msgstr "maltézština"
+
+msgid "ISO_639-3.MYV"
+msgstr "erzya"
+
+msgid "ISO_639-3.MYX"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.MYY"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MZC"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.MZD"
+msgstr "Malajština"
+
+msgid "ISO_639-3.MZG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.MZJ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MZP"
+msgstr "moldavština"
+
+msgid "ISO_639-3.MZS"
+msgstr "jávština"
+
+msgid "ISO_639-3.MZV"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.MZX"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.MZY"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NAA"
+msgstr "galština"
+
+msgid "ISO_639-3.NAB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NAC"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NAF"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NAJ"
+msgstr "naurština"
+
+msgid "ISO_639-3.NAL"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NAN"
+msgstr "čínština"
+
+msgid "ISO_639-3.NAP"
+msgstr "neapolština"
+
+msgid "ISO_639-3.NAS"
+msgstr "navajština"
+
+msgid "ISO_639-3.NAU"
+msgstr "naurština"
+
+msgid "ISO_639-3.NAV"
+msgstr "navajština"
+
+msgid "ISO_639-3.NAW"
+msgstr "naurština"
+
+msgid "ISO_639-3.NBC"
+msgstr "litevština"
+
+msgid "ISO_639-3.NBJ"
+msgstr "sardinština"
+
+msgid "ISO_639-3.NBN"
+msgstr "kurdština"
+
+msgid "ISO_639-3.NBS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NBU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NBW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NCB"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.NCC"
+msgstr "Shona"
+
+msgid "ISO_639-3.NCF"
+msgstr "skotština"
+
+msgid "ISO_639-3.NCH"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.NCJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NCN"
+msgstr "naurština"
+
+msgid "ISO_639-3.NCS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NDA"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NDC"
+msgstr "naurština"
+
+msgid "ISO_639-3.NDF"
+msgstr "běloruština"
+
+msgid "ISO_639-3.NDH"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NDL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.NDN"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.NDO"
+msgstr "ndondština"
+
+msgid "ISO_639-3.NDS"
+msgstr "arménština"
+
+msgid "ISO_639-3.NEF"
+msgstr "vietnamština"
+
+msgid "ISO_639-3.NEG"
+msgstr "norština"
+
+msgid "ISO_639-3.NEI"
+msgstr "chetitština"
+
+msgid "ISO_639-3.NEM"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NEP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NEQ"
+msgstr "kurdština"
+
+msgid "ISO_639-3.NER"
+msgstr "havajština"
+
+msgid "ISO_639-3.NEW"
+msgstr "maorština"
+
+msgid "ISO_639-3.NFA"
+msgstr "dakotština"
+
+msgid "ISO_639-3.NFD"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.NGB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NGP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.NGY"
+msgstr "tibetština"
+
+msgid "ISO_639-3.NHA"
+msgstr "ganda"
+
+msgid "ISO_639-3.NHB"
+msgstr "bengálština"
+
+msgid "ISO_639-3.NHE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NHH"
+msgstr "bihárština"
+
+msgid "ISO_639-3.NHO"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.NHR"
+msgstr "naurština"
+
+msgid "ISO_639-3.NHW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NHY"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NIA"
+msgstr "nias"
+
+msgid "ISO_639-3.NIB"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NIE"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NIH"
+msgstr "luoština (Keňa a Tanzanie)"
+
+msgid "ISO_639-3.NIJ"
+msgstr "naurština"
+
+msgid "ISO_639-3.NIK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NIM"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.NIT"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NIU"
+msgstr "niue"
+
+msgid "ISO_639-3.NIX"
+msgstr "němčina"
+
+msgid "ISO_639-3.NIZ"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.NJI"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.NJM"
+msgstr "katalánština"
+
+msgid "ISO_639-3.NJN"
+msgstr "litevština"
+
+msgid "ISO_639-3.NJX"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.NJZ"
+msgstr "turečtina"
+
+msgid "ISO_639-3.NKB"
+msgstr "litevština"
+
+msgid "ISO_639-3.NKD"
+msgstr "korejština"
+
+msgid "ISO_639-3.NKG"
+msgstr "norština"
+
+msgid "ISO_639-3.NKI"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NKN"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.NKT"
+msgstr "luoština (Keňa a Tanzanie)"
+
+msgid "ISO_639-3.NKU"
+msgstr "Sangho"
+
+msgid "ISO_639-3.NKW"
+msgstr "naurština"
+
+msgid "ISO_639-3.NKZ"
+msgstr "naurština"
+
+msgid "ISO_639-3.NLC"
+msgstr "galština"
+
+msgid "ISO_639-3.NLD"
+msgstr "holandština"
+
+msgid "ISO_639-3.NLG"
+msgstr "němčina"
+
+msgid "ISO_639-3.NLI"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.NLJ"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NLL"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NLQ"
+msgstr "navajština"
+
+msgid "ISO_639-3.NLW"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.NLX"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NLZ"
+msgstr "páli"
+
+msgid "ISO_639-3.NMA"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.NMB"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.NMD"
+msgstr "naurština"
+
+msgid "ISO_639-3.NMF"
+msgstr "indonézština"
+
+msgid "ISO_639-3.NMG"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.NMK"
+msgstr "naurština"
+
+msgid "ISO_639-3.NML"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NMM"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.NMP"
+msgstr "naurština"
+
+msgid "ISO_639-3.NMR"
+msgstr "bihárština"
+
+msgid "ISO_639-3.NNG"
+msgstr "maorština"
+
+msgid "ISO_639-3.NNL"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NNM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.NNR"
+msgstr "naurština"
+
+msgid "ISO_639-3.NNU"
+msgstr "Sangho"
+
+msgid "ISO_639-3.NNW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NOB"
+msgstr "norština"
+
+msgid "ISO_639-3.NOD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NOF"
+msgstr "římština"
+
+msgid "ISO_639-3.NOG"
+msgstr "nogai"
+
+msgid "ISO_639-3.NOI"
+msgstr "maorština"
+
+msgid "ISO_639-3.NOJ"
+msgstr "ndondština"
+
+msgid "ISO_639-3.NOL"
+msgstr "thajština"
+
+msgid "ISO_639-3.NON"
+msgstr "norština, stará"
+
+msgid "ISO_639-3.NOR"
+msgstr "fríština"
+
+msgid "ISO_639-3.NOZ"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NPA"
+msgstr "naurština"
+
+msgid "ISO_639-3.NPG"
+msgstr "navajština"
+
+msgid "ISO_639-3.NPI"
+msgstr "májské jazyky"
+
+msgid "ISO_639-3.NPN"
+msgstr "mongolština"
+
+msgid "ISO_639-3.NPS"
+msgstr "fríština"
+
+msgid "ISO_639-3.NPY"
+msgstr "naurština"
+
+msgid "ISO_639-3.NQG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NQQ"
+msgstr "naurština"
+
+msgid "ISO_639-3.NQY"
+msgstr "naurština"
+
+msgid "ISO_639-3.NRB"
+msgstr "naurština"
+
+msgid "ISO_639-3.NRC"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.NRE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NRG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.NRK"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.NRL"
+msgstr "naurština"
+
+msgid "ISO_639-3.NRM"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.NRN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NRT"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NRU"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NRX"
+msgstr "naurština"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.NSA"
+msgstr "Sangho"
+
+msgid "ISO_639-3.NSD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NSE"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NSF"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NSG"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NSI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NSP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NSR"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.NSS"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NSV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NSW"
+msgstr "naurština"
+
+msgid "ISO_639-3.NSX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.NSY"
+msgstr "sačtina"
+
+msgid "ISO_639-3.NTD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NTG"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.NTP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NTX"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.NTY"
+msgstr "maráthština"
+
+msgid "ISO_639-3.NUA"
+msgstr "Sangho"
+
+msgid "ISO_639-3.NUD"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.NUF"
+msgstr "naurština"
+
+msgid "ISO_639-3.NUG"
+msgstr "bengálština"
+
+msgid "ISO_639-3.NUS"
+msgstr "naurština"
+
+msgid "ISO_639-3.NUV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NVH"
+msgstr "mongolština"
+
+msgid "ISO_639-3.NWI"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.NWR"
+msgstr "naurština"
+
+msgid "ISO_639-3.NXI"
+msgstr "naurština"
+
+msgid "ISO_639-3.NXM"
+msgstr "sumerština"
+
+msgid "ISO_639-3.NXQ"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NXU"
+msgstr "naurština"
+
+msgid "ISO_639-3.NXX"
+msgstr "naurština"
+
+msgid "ISO_639-3.NYA"
+msgstr "naurština"
+
+msgid "ISO_639-3.NYB"
+msgstr "Sangho"
+
+msgid "ISO_639-3.NYC"
+msgstr "bengálština"
+
+msgid "ISO_639-3.NYF"
+msgstr "němčina"
+
+msgid "ISO_639-3.NYH"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.NYM"
+msgstr "ňamwežština"
+
+msgid "ISO_639-3.NYN"
+msgstr "nyankolština"
+
+msgid "ISO_639-3.NYO"
+msgstr "nyorština"
+
+msgid "ISO_639-3.NYR"
+msgstr "nepálština"
+
+msgid "ISO_639-3.NYX"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.NZI"
+msgstr "nzima"
+
+msgid "ISO_639-3.NZS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.OAA"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OAC"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OAR"
+msgstr "irština, stará (do 900)"
+
+msgid "ISO_639-3.OBK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.OBR"
+msgstr "Barmština"
+
+msgid "ISO_639-3.OBT"
+msgstr "bretonština"
+
+msgid "ISO_639-3.OCH"
+msgstr "čínština"
+
+msgid "ISO_639-3.OCI"
+msgstr "okcitánština (po 1500); provensálština"
+
+msgid "ISO_639-3.OCO"
+msgstr "kornština"
+
+msgid "ISO_639-3.ODT"
+msgstr "holandština"
+
+msgid "ISO_639-3.OFS"
+msgstr "fríština"
+
+msgid "ISO_639-3.OGB"
+msgstr "orija"
+
+msgid "ISO_639-3.OGE"
+msgstr "Gruzínština"
+
+msgid "ISO_639-3.OGO"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.OHT"
+msgstr "chetitština"
+
+msgid "ISO_639-3.OHU"
+msgstr "maďarština"
+
+msgid "ISO_639-3.OJB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.OJC"
+msgstr "odžibwejština"
+
+msgid "ISO_639-3.OJG"
+msgstr "odžibwejština"
+
+msgid "ISO_639-3.OJI"
+msgstr "odžibwejština"
+
+msgid "ISO_639-3.OJP"
+msgstr "japonština"
+
+msgid "ISO_639-3.OJS"
+msgstr "odžibwejština"
+
+msgid "ISO_639-3.OJW"
+msgstr "fríština"
+
+msgid "ISO_639-3.OKB"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OKD"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.OKG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.OKK"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.OKL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.OKM"
+msgstr "francouzština, středověká (cca 1400-1600)"
+
+msgid "ISO_639-3.OKO"
+msgstr "francouzština, středověká (cca 1400-1600)"
+
+msgid "ISO_639-3.OKR"
+msgstr "Kirgizština"
+
+msgid "ISO_639-3.OKV"
+msgstr "chorvatština"
+
+msgid "ISO_639-3.OLD"
+msgstr "maorština"
+
+msgid "ISO_639-3.OLM"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OLR"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OLT"
+msgstr "litevština"
+
+msgid "ISO_639-3.OLU"
+msgstr "tuvalština"
+
+msgid "ISO_639-3.OMC"
+msgstr "gótština"
+
+msgid "ISO_639-3.OMK"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OML"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OMN"
+msgstr "mongolština"
+
+msgid "ISO_639-3.OMP"
+msgstr "manipurština"
+
+msgid "ISO_639-3.OMR"
+msgstr "maráthština"
+
+msgid "ISO_639-3.OMW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ONB"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.ONP"
+msgstr "korejština"
+
+msgid "ISO_639-3.ONR"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ONW"
+msgstr "perština"
+
+msgid "ISO_639-3.OOS"
+msgstr "osečtina"
+
+msgid "ISO_639-3.OPT"
+msgstr "tatarština"
+
+msgid "ISO_639-3.ORA"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ORC"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ORG"
+msgstr "orija"
+
+msgid "ISO_639-3.ORI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ORM"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ORO"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ORR"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ORT"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.ORV"
+msgstr "ruština"
+
+msgid "ISO_639-3.ORX"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ORY"
+msgstr "orija"
+
+msgid "ISO_639-3.ORZ"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OSA"
+msgstr "osagština"
+
+msgid "ISO_639-3.OSC"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.OSI"
+msgstr "osečtina"
+
+msgid "ISO_639-3.OSO"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OSP"
+msgstr "španělština"
+
+msgid "ISO_639-3.OSS"
+msgstr "ruština"
+
+msgid "ISO_639-3.OSU"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.OSX"
+msgstr "perština"
+
+msgid "ISO_639-3.OTA"
+msgstr "turečtina, osmanská (1500-1928)"
+
+msgid "ISO_639-3.OTB"
+msgstr "tibetština"
+
+msgid "ISO_639-3.OTD"
+msgstr "osečtina"
+
+msgid "ISO_639-3.OTK"
+msgstr "turečtina"
+
+msgid "ISO_639-3.OTR"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.OTY"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.OUI"
+msgstr "Uighurština"
+
+msgid "ISO_639-3.OWL"
+msgstr "velština"
+
+msgid "ISO_639-3.OYD"
+msgstr "orija"
+
+msgid "ISO_639-3.PAG"
+msgstr "pangsinan"
+
+msgid "ISO_639-3.PAH"
+msgstr "thajština"
+
+msgid "ISO_639-3.PAL"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.PAM"
+msgstr "pampangau"
+
+msgid "ISO_639-3.PAO"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PAP"
+msgstr "papiamento"
+
+msgid "ISO_639-3.PAQ"
+msgstr "orija"
+
+msgid "ISO_639-3.PAS"
+msgstr "japonština"
+
+msgid "ISO_639-3.PAT"
+msgstr "katalánština"
+
+msgid "ISO_639-3.PAU"
+msgstr "palauština"
+
+msgid "ISO_639-3.PAY"
+msgstr "čeština"
+
+msgid "ISO_639-3.PBO"
+msgstr "páli"
+
+msgid "ISO_639-3.PBP"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.PBT"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PBU"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PBV"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.PCF"
+msgstr "páli"
+
+msgid "ISO_639-3.PCG"
+msgstr "páli"
+
+msgid "ISO_639-3.PCH"
+msgstr "sardinština"
+
+msgid "ISO_639-3.PCK"
+msgstr "bengálština"
+
+msgid "ISO_639-3.PCL"
+msgstr "maráthština"
+
+msgid "ISO_639-3.PCM"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PDI"
+msgstr "páli"
+
+msgid "ISO_639-3.PDN"
+msgstr "Slovinština"
+
+msgid "ISO_639-3.PEA"
+msgstr "indonézština"
+
+msgid "ISO_639-3.PEE"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.PEF"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PEG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.PEH"
+msgstr "bosenština"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PEK"
+msgstr "francouzština"
+
+msgid "ISO_639-3.PEL"
+msgstr "páli"
+
+msgid "ISO_639-3.PEO"
+msgstr "perština, stará (cca 600-400 př.nl.)"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PES"
+msgstr "indonézština"
+
+msgid "ISO_639-3.PFL"
+msgstr "polština"
+
+msgid "ISO_639-3.PGG"
+msgstr "páli"
+
+msgid "ISO_639-3.PGI"
+msgstr "turečtina"
+
+msgid "ISO_639-3.PGN"
+msgstr "galština"
+
+msgid "ISO_639-3.PGZ"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PHH"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.PHN"
+msgstr "Slovinština"
+
+msgid "ISO_639-3.PHT"
+msgstr "thajština"
+
+msgid "ISO_639-3.PHV"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.PIC"
+msgstr "hindština"
+
+msgid "ISO_639-3.PII"
+msgstr "hindština"
+
+msgid "ISO_639-3.PIM"
+msgstr "chorvatština"
+
+msgid "ISO_639-3.PIS"
+msgstr "Fidži"
+
+msgid "ISO_639-3.PIV"
+msgstr "páli"
+
+msgid "ISO_639-3.PKB"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.PKS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PKT"
+msgstr "maltézština"
+
+msgid "ISO_639-3.PLA"
+msgstr "manština"
+
+msgid "ISO_639-3.PLD"
+msgstr "polština"
+
+msgid "ISO_639-3.PLE"
+msgstr "páli"
+
+msgid "ISO_639-3.PLH"
+msgstr "páli"
+
+msgid "ISO_639-3.PLI"
+msgstr "páli"
+
+msgid "ISO_639-3.PLJ"
+msgstr "polština"
+
+msgid "ISO_639-3.PLL"
+msgstr "palauština"
+
+msgid "ISO_639-3.PLP"
+msgstr "páli"
+
+msgid "ISO_639-3.PLQ"
+msgstr "páli"
+
+msgid "ISO_639-3.PLT"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.PLU"
+msgstr "páli"
+
+msgid "ISO_639-3.PLZ"
+msgstr "katalánština"
+
+msgid "ISO_639-3.PMB"
+msgstr "páli"
+
+msgid "ISO_639-3.PMD"
+msgstr "pangsinan"
+
+msgid "ISO_639-3.PMF"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.PMI"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PMK"
+msgstr "páli"
+
+msgid "ISO_639-3.PML"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.PMM"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PMS"
+msgstr "vietnamština"
+
+msgid "ISO_639-3.PMT"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.PMY"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PNB"
+msgstr "fríština"
+
+msgid "ISO_639-3.PNC"
+msgstr "páli"
+
+msgid "ISO_639-3.PNE"
+msgstr "fríština"
+
+msgid "ISO_639-3.PNJ"
+msgstr "hindština"
+
+msgid "ISO_639-3.PNK"
+msgstr "naurština"
+
+msgid "ISO_639-3.PNL"
+msgstr "páli"
+
+msgid "ISO_639-3.PNR"
+msgstr "páli"
+
+msgid "ISO_639-3.PNT"
+msgstr "gótština"
+
+msgid "ISO_639-3.PNX"
+msgstr "Slovinština"
+
+msgid "ISO_639-3.POC"
+msgstr "Shona"
+
+msgid "ISO_639-3.POL"
+msgstr "polština"
+
+msgid "ISO_639-3.POM"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PON"
+msgstr "pohnpeiština"
+
+msgid "ISO_639-3.POR"
+msgstr "portugalština"
+
+msgid "ISO_639-3.POX"
+msgstr "moldavština"
+
+msgid "ISO_639-3.PPE"
+msgstr "páli"
+
+msgid "ISO_639-3.PPI"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.PPQ"
+msgstr "perština"
+
+msgid "ISO_639-3.PRC"
+msgstr "maráthština"
+
+msgid "ISO_639-3.PRF"
+msgstr "sardinština"
+
+msgid "ISO_639-3.PRG"
+msgstr "perština"
+
+msgid "ISO_639-3.PRI"
+msgstr "páli"
+
+msgid "ISO_639-3.PRL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PRM"
+msgstr "Kirgizština"
+
+msgid "ISO_639-3.PRO"
+msgstr "provensálština, stará (do 1500)"
+
+msgid "ISO_639-3.PRP"
+msgstr "páli"
+
+msgid "ISO_639-3.PRT"
+msgstr "páli"
+
+msgid "ISO_639-3.PRU"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.PRZ"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PSC"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.PSG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PSH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PSI"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PSM"
+msgstr "Hausa"
+
+msgid "ISO_639-3.PSO"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PSP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PSQ"
+msgstr "páli"
+
+msgid "ISO_639-3.PSR"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PTN"
+msgstr "katalánština"
+
+msgid "ISO_639-3.PTU"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.PTY"
+msgstr "perština"
+
+msgid "ISO_639-3.PUB"
+msgstr "naurština"
+
+msgid "ISO_639-3.PUP"
+msgstr "Zulu"
+
+msgid "ISO_639-3.PUS"
+msgstr "pašto"
+
+msgid "ISO_639-3.PUT"
+msgstr "holandština"
+
+msgid "ISO_639-3.PUW"
+msgstr "portugalština"
+
+msgid "ISO_639-3.PUX"
+msgstr "páli"
+
+msgid "ISO_639-3.PWA"
+msgstr "havajština"
+
+msgid "ISO_639-3.PWB"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.PWN"
+msgstr "italština"
+
+msgid "ISO_639-3.PWO"
+msgstr "fríština"
+
+msgid "ISO_639-3.PWR"
+msgstr "páli"
+
+msgid "ISO_639-3.PWW"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.PYS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.PZN"
+msgstr "naurština"
+
+msgid "ISO_639-3.QUC"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.QUE"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QUI"
+msgstr "aleutština"
+
+msgid "ISO_639-3.QUP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.QUX"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QUY"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QUZ"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QVP"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QVY"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QVZ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.QXC"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QXP"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QXS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.QYA"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.QYP"
+msgstr "maráthština"
+
+msgid "ISO_639-3.RAA"
+msgstr "bengálština"
+
+msgid "ISO_639-3.RAF"
+msgstr "fríština"
+
+msgid "ISO_639-3.RAG"
+msgstr "mongolština"
+
+msgid "ISO_639-3.RAI"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.RAJ"
+msgstr "rádžasthánština"
+
+msgid "ISO_639-3.RAL"
+msgstr "maltézština"
+
+msgid "ISO_639-3.RAM"
+msgstr "katalánština"
+
+msgid "ISO_639-3.RAN"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RAO"
+msgstr "Laoština"
+
+msgid "ISO_639-3.RAP"
+msgstr "rapanuiština"
+
+msgid "ISO_639-3.RAQ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.RAR"
+msgstr "bosenština"
+
+msgid "ISO_639-3.RAS"
+msgstr "bengálština"
+
+msgid "ISO_639-3.RAV"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.RAX"
+msgstr "Sangho"
+
+msgid "ISO_639-3.RBB"
+msgstr "palauština"
+
+msgid "ISO_639-3.RBK"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.RBP"
+msgstr "bambarština"
+
+msgid "ISO_639-3.RDB"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.REI"
+msgstr "nepálština"
+
+msgid "ISO_639-3.REL"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.REN"
+msgstr "bengálština"
+
+msgid "ISO_639-3.RES"
+msgstr "velština"
+
+msgid "ISO_639-3.RGA"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.RGN"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RGS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.RHG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.RIM"
+msgstr "naurština"
+
+msgid "ISO_639-3.RIN"
+msgstr "naurština"
+
+msgid "ISO_639-3.RIR"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.RIU"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.RJI"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.RKI"
+msgstr "čínština"
+
+msgid "ISO_639-3.RKM"
+msgstr "maráthština"
+
+msgid "ISO_639-3.RKT"
+msgstr "manipurština"
+
+msgid "ISO_639-3.RKW"
+msgstr "arabština"
+
+msgid "ISO_639-3.RMA"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMG"
+msgstr "norština"
+
+msgid "ISO_639-3.RMH"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.RMK"
+msgstr "římština"
+
+msgid "ISO_639-3.RML"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMM"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMO"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.RMT"
+msgstr "somálština"
+
+msgid "ISO_639-3.RMU"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMV"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMW"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMX"
+msgstr "římština"
+
+msgid "ISO_639-3.RMY"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RMZ"
+msgstr "maráthština"
+
+msgid "ISO_639-3.RND"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.RNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.RNL"
+msgstr "Sangho"
+
+msgid "ISO_639-3.RNN"
+msgstr "římština"
+
+msgid "ISO_639-3.RNR"
+msgstr "naurština"
+
+msgid "ISO_639-3.ROE"
+msgstr "rumunština"
+
+msgid "ISO_639-3.ROF"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.ROG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ROH"
+msgstr "římština"
+
+msgid "ISO_639-3.ROL"
+msgstr "rumunština"
+
+msgid "ISO_639-3.ROM"
+msgstr "římština"
+
+msgid "ISO_639-3.RON"
+msgstr "rumunština"
+
+msgid "ISO_639-3.ROR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.ROU"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.ROW"
+msgstr "delawarština"
+
+msgid "ISO_639-3.RPT"
+msgstr "latina"
+
+msgid "ISO_639-3.RSB"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RSI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.RSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.RSM"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.RTC"
+msgstr "čínština"
+
+msgid "ISO_639-3.RTH"
+msgstr "katalánština"
+
+msgid "ISO_639-3.RTM"
+msgstr "římština"
+
+msgid "ISO_639-3.RTS"
+msgstr "Barmština"
+
+msgid "ISO_639-3.RUC"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.RUE"
+msgstr "ruština"
+
+msgid "ISO_639-3.RUG"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RUK"
+msgstr "čínština"
+
+msgid "ISO_639-3.RUN"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.RUO"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RUP"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RUQ"
+msgstr "rumunština"
+
+msgid "ISO_639-3.RUS"
+msgstr "ruština"
+
+msgid "ISO_639-3.RUZ"
+msgstr "římština"
+
+msgid "ISO_639-3.RXD"
+msgstr "bihárština"
+
+msgid "ISO_639-3.RXW"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.RYN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SAA"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SAC"
+msgstr "maorština"
+
+msgid "ISO_639-3.SAD"
+msgstr "sandawština"
+
+msgid "ISO_639-3.SAE"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SAG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SAH"
+msgstr "jakutština"
+
+msgid "ISO_639-3.SAK"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SAM"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SAN"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SAO"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SAQ"
+msgstr "naurština"
+
+msgid "ISO_639-3.SAS"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SAT"
+msgstr "santálí"
+
+msgid "ISO_639-3.SAU"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SAW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SAY"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SBD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SBE"
+msgstr "somálština"
+
+msgid "ISO_639-3.SBI"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SBK"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SBL"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SBM"
+msgstr "katalánština"
+
+msgid "ISO_639-3.SBN"
+msgstr "sindhština"
+
+msgid "ISO_639-3.SBS"
+msgstr "srbština"
+
+msgid "ISO_639-3.SBV"
+msgstr "srbština"
+
+msgid "ISO_639-3.SBX"
+msgstr "srbština"
+
+msgid "ISO_639-3.SBY"
+msgstr "somálština"
+
+msgid "ISO_639-3.SCE"
+msgstr "mongolština"
+
+msgid "ISO_639-3.SCG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SCH"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SCK"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SCL"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCN"
+msgstr "sicilština"
+
+msgid "ISO_639-3.SCO"
+msgstr "skotština"
+
+msgid "ISO_639-3.SCV"
+msgstr "Shona"
+
+msgid "ISO_639-3.SCW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SDB"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SDC"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SDF"
+msgstr "somálština"
+
+msgid "ISO_639-3.SDG"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SDH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SDJ"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.SDK"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.SDN"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SDR"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SDU"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.SEA"
+msgstr "somálština"
+
+msgid "ISO_639-3.SED"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SEH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SEI"
+msgstr "srbština"
+
+msgid "ISO_639-3.SEK"
+msgstr "srbština"
+
+msgid "ISO_639-3.SEL"
+msgstr "selkupština"
+
+msgid "ISO_639-3.SEO"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SER"
+msgstr "srbština"
+
+msgid "ISO_639-3.SET"
+msgstr "slovinština"
+
+msgid "ISO_639-3.SEZ"
+msgstr "slovinština"
+
+msgid "ISO_639-3.SFE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SFS"
+msgstr "jihoamerická indiánština (jiná)"
+
+msgid "ISO_639-3.SFW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SGA"
+msgstr "irština, stará (do 900)"
+
+msgid "ISO_639-3.SGB"
+msgstr "maráthština"
+
+msgid "ISO_639-3.SGD"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SGE"
+msgstr "bengálština"
+
+msgid "ISO_639-3.SGG"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SGK"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SGM"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.SGP"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SGR"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SGS"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SGU"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.SGX"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SGY"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SHC"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHD"
+msgstr "somálština"
+
+msgid "ISO_639-3.SHE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHG"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SHN"
+msgstr "šanština"
+
+msgid "ISO_639-3.SHO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SHQ"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SHR"
+msgstr "sindhština"
+
+msgid "ISO_639-3.SHT"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SHU"
+msgstr "mapuche (araukánština)"
+
+msgid "ISO_639-3.SHV"
+msgstr "srbština"
+
+msgid "ISO_639-3.SHW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SHY"
+msgstr "thajština"
+
+msgid "ISO_639-3.SIA"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SIB"
+msgstr "srbština"
+
+msgid "ISO_639-3.SID"
+msgstr "sidamo"
+
+msgid "ISO_639-3.SIE"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SIF"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SIK"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SIN"
+msgstr "Sundanština"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SIR"
+msgstr "syrština"
+
+msgid "ISO_639-3.SIU"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SIV"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SIW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SIX"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SIY"
+msgstr "sindhština"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SJD"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SJE"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SJK"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SJL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.SJM"
+msgstr "manština"
+
+msgid "ISO_639-3.SJN"
+msgstr "sindhština"
+
+msgid "ISO_639-3.SJP"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SJR"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SJT"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SJU"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SJW"
+msgstr "Sundanština"
+
+msgid "ISO_639-3.SKB"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SKC"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.SKD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SKG"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.SKI"
+msgstr "syrština"
+
+msgid "ISO_639-3.SKK"
+msgstr "slovenština"
+
+msgid "ISO_639-3.SKM"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.SKP"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SKR"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SKS"
+msgstr "Malajština"
+
+msgid "ISO_639-3.SKT"
+msgstr "dakotština"
+
+msgid "ISO_639-3.SKU"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SLE"
+msgstr "Shona"
+
+msgid "ISO_639-3.SLF"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.SLI"
+msgstr "němčina, nízká"
+
+msgid "ISO_639-3.SLK"
+msgstr "slovenština"
+
+msgid "ISO_639-3.SLL"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SLN"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SLR"
+msgstr "tatarština"
+
+msgid "ISO_639-3.SLS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SLT"
+msgstr "syrština"
+
+msgid "ISO_639-3.SLU"
+msgstr "běloruština"
+
+msgid "ISO_639-3.SLV"
+msgstr "slovinština"
+
+msgid "ISO_639-3.SLY"
+msgstr "delawarština"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Malajština"
+
+msgid "ISO_639-3.SMA"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SMB"
+msgstr "bihárština"
+
+msgid "ISO_639-3.SMC"
+msgstr "somálština"
+
+msgid "ISO_639-3.SMD"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SME"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SMG"
+msgstr "somálština"
+
+msgid "ISO_639-3.SMH"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SMJ"
+msgstr "lule sami"
+
+msgid "ISO_639-3.SMM"
+msgstr "ruština"
+
+msgid "ISO_639-3.SMN"
+msgstr "sindhština"
+
+msgid "ISO_639-3.SMO"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SMP"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SMS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SMU"
+msgstr "somálština"
+
+msgid "ISO_639-3.SMX"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SMY"
+msgstr "slovinština"
+
+msgid "ISO_639-3.SNA"
+msgstr "Shona"
+
+msgid "ISO_639-3.SND"
+msgstr "sindhština"
+
+msgid "ISO_639-3.SNH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNI"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SNK"
+msgstr "sonikština"
+
+msgid "ISO_639-3.SNL"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SNM"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SNN"
+msgstr "Shona"
+
+msgid "ISO_639-3.SNO"
+msgstr "španělština"
+
+msgid "ISO_639-3.SNP"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.SNR"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.SNU"
+msgstr "bengálština"
+
+msgid "ISO_639-3.SNV"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SNX"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SNZ"
+msgstr "naurština"
+
+msgid "ISO_639-3.SOA"
+msgstr "thajština"
+
+msgid "ISO_639-3.SOD"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SOG"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.SOI"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOJ"
+msgstr "somálština"
+
+msgid "ISO_639-3.SOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.SOM"
+msgstr "somálština"
+
+msgid "ISO_639-3.SOO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SOP"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.SOR"
+msgstr "somálština"
+
+msgid "ISO_639-3.SOT"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SOU"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SOW"
+msgstr "Shona"
+
+msgid "ISO_639-3.SOX"
+msgstr "slovenština"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.SPA"
+msgstr "španělština"
+
+msgid "ISO_639-3.SPB"
+msgstr "indonézština"
+
+msgid "ISO_639-3.SPG"
+msgstr "srbština"
+
+msgid "ISO_639-3.SPI"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SPK"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SPO"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SPS"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SPU"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SPV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SQH"
+msgstr "Shona"
+
+msgid "ISO_639-3.SQI"
+msgstr "albánština"
+
+msgid "ISO_639-3.SQK"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SQM"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SQR"
+msgstr "arabština"
+
+msgid "ISO_639-3.SQS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SQU"
+msgstr "španělština"
+
+msgid "ISO_639-3.SRB"
+msgstr "Shona"
+
+msgid "ISO_639-3.SRC"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SRD"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SRE"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SRF"
+msgstr "nepálština"
+
+msgid "ISO_639-3.SRH"
+msgstr "svahilština"
+
+msgid "ISO_639-3.SRI"
+msgstr "srbština"
+
+msgid "ISO_639-3.SRM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SRN"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.SRO"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SRP"
+msgstr "srbština"
+
+msgid "ISO_639-3.SRR"
+msgstr "serer"
+
+msgid "ISO_639-3.SRS"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SRT"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SRV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SRW"
+msgstr "srbština"
+
+msgid "ISO_639-3.SRY"
+msgstr "srbština"
+
+msgid "ISO_639-3.SRZ"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.SSB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SSE"
+msgstr "bengálština"
+
+msgid "ISO_639-3.SSF"
+msgstr "thajština"
+
+msgid "ISO_639-3.SSG"
+msgstr "srbština"
+
+msgid "ISO_639-3.SSH"
+msgstr "arabština"
+
+msgid "ISO_639-3.SSI"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SSJ"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.SSK"
+msgstr "Shona"
+
+msgid "ISO_639-3.SSL"
+msgstr "fríština"
+
+msgid "ISO_639-3.SSN"
+msgstr "tatarština"
+
+msgid "ISO_639-3.SSO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SSP"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Shona"
+
+msgid "ISO_639-3.SSR"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SST"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SSW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SSY"
+msgstr "Shona"
+
+msgid "ISO_639-3.STB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.STG"
+msgstr "tibetština"
+
+msgid "ISO_639-3.STK"
+msgstr "arabština"
+
+msgid "ISO_639-3.STM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.STP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.STU"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SUC"
+msgstr "fríština"
+
+msgid "ISO_639-3.SUE"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SUG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SUK"
+msgstr "sukuma"
+
+msgid "ISO_639-3.SUN"
+msgstr "Sundanština"
+
+msgid "ISO_639-3.SUQ"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SUS"
+msgstr "susu"
+
+msgid "ISO_639-3.SUX"
+msgstr "sumerština"
+
+msgid "ISO_639-3.SVA"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SVE"
+msgstr "srbština"
+
+msgid "ISO_639-3.SVK"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SVM"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SVS"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SVX"
+msgstr "slovinština"
+
+msgid "ISO_639-3.SWB"
+msgstr "svahilština"
+
+msgid "ISO_639-3.SWE"
+msgstr "švédština"
+
+msgid "ISO_639-3.SWF"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.SWG"
+msgstr "srbština"
+
+msgid "ISO_639-3.SWJ"
+msgstr "syrština"
+
+msgid "ISO_639-3.SWK"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.SWL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SWM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SWO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SWS"
+msgstr "běloruština"
+
+msgid "ISO_639-3.SWT"
+msgstr "svahilština"
+
+msgid "ISO_639-3.SWV"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SWW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.SWY"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SXB"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.SXC"
+msgstr "sardinština"
+
+msgid "ISO_639-3.SXE"
+msgstr "Uighurština"
+
+msgid "ISO_639-3.SXK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.SXL"
+msgstr "srbština"
+
+msgid "ISO_639-3.SXN"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SXR"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SXS"
+msgstr "sačtina"
+
+msgid "ISO_639-3.SYA"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SYB"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.SYM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SYR"
+msgstr "syrština"
+
+msgid "ISO_639-3.SYX"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.SYY"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.SZA"
+msgstr "somálština"
+
+msgid "ISO_639-3.SZL"
+msgstr "sicilština"
+
+msgid "ISO_639-3.SZN"
+msgstr "slovenština"
+
+msgid "ISO_639-3.SZP"
+msgstr "Sangho"
+
+msgid "ISO_639-3.SZW"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.TAA"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TAD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TAE"
+msgstr "tahitština"
+
+msgid "ISO_639-3.TAG"
+msgstr "thajština"
+
+msgid "ISO_639-3.TAH"
+msgstr "tahitština"
+
+msgid "ISO_639-3.TAJ"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.TAK"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TAL"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TAM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TAN"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TAO"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TAT"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TAU"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TAW"
+msgstr "thajština"
+
+msgid "ISO_639-3.TAX"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TBA"
+msgstr "akanština"
+
+msgid "ISO_639-3.TBC"
+msgstr "thajština"
+
+msgid "ISO_639-3.TBE"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TBF"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.TBG"
+msgstr "korejština"
+
+msgid "ISO_639-3.TBJ"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TBO"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TBP"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TBS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TBU"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TBX"
+msgstr "latina"
+
+msgid "ISO_639-3.TBY"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TCC"
+msgstr "dakotština"
+
+msgid "ISO_639-3.TCD"
+msgstr "thajština"
+
+msgid "ISO_639-3.TCE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TCG"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TCO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.TCP"
+msgstr "bengálština"
+
+msgid "ISO_639-3.TCU"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TCX"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TCY"
+msgstr "Zulu"
+
+msgid "ISO_639-3.TCZ"
+msgstr "bengálština"
+
+msgid "ISO_639-3.TDA"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TDG"
+msgstr "fríština"
+
+msgid "ISO_639-3.TDH"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TDI"
+msgstr "ladino"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.TDM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TDN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TDQ"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TDS"
+msgstr "dakotština"
+
+msgid "ISO_639-3.TEC"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TEH"
+msgstr "čečenština"
+
+msgid "ISO_639-3.TEK"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TEL"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TEM"
+msgstr "temne"
+
+msgid "ISO_639-3.TEO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TEQ"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TER"
+msgstr "tereno"
+
+msgid "ISO_639-3.TET"
+msgstr "tetumština"
+
+msgid "ISO_639-3.TEY"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TFN"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TFO"
+msgstr "afarština"
+
+msgid "ISO_639-3.TFR"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TGB"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TGC"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.TGJ"
+msgstr "dánština"
+
+msgid "ISO_639-3.TGK"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.TGL"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TGN"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TGO"
+msgstr "Sundanština"
+
+msgid "ISO_639-3.TGP"
+msgstr "Sangho"
+
+msgid "ISO_639-3.TGQ"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.TGR"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TGU"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TGX"
+msgstr "dánština"
+
+msgid "ISO_639-3.TGZ"
+msgstr "katalánština"
+
+msgid "ISO_639-3.THA"
+msgstr "thajština"
+
+msgid "ISO_639-3.THE"
+msgstr "čínština"
+
+msgid "ISO_639-3.THF"
+msgstr "thajština"
+
+msgid "ISO_639-3.THH"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.THM"
+msgstr "aleutština"
+
+msgid "ISO_639-3.THN"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.THS"
+msgstr "thajština"
+
+msgid "ISO_639-3.THT"
+msgstr "tahitština"
+
+msgid "ISO_639-3.THU"
+msgstr "turečtina"
+
+msgid "ISO_639-3.THW"
+msgstr "thajština"
+
+msgid "ISO_639-3.THY"
+msgstr "thajština"
+
+msgid "ISO_639-3.TIC"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.TIF"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TIG"
+msgstr "tigrejština"
+
+msgid "ISO_639-3.TII"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TIJ"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TIK"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.TIM"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TIN"
+msgstr "hindština"
+
+msgid "ISO_639-3.TIP"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TIR"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.TIT"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TIU"
+msgstr "Sangho"
+
+msgid "ISO_639-3.TIV"
+msgstr "tivština"
+
+msgid "ISO_639-3.TIW"
+msgstr "Twi"
+
+msgid "ISO_639-3.TIX"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TJI"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TJL"
+msgstr "thajština"
+
+msgid "ISO_639-3.TJS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TKB"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TKE"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TKG"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.TKL"
+msgstr "tokelauština"
+
+msgid "ISO_639-3.TKS"
+msgstr "avestština"
+
+msgid "ISO_639-3.TKW"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TKX"
+msgstr "Sangho"
+
+msgid "ISO_639-3.TKZ"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.TLA"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TLG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TLH"
+msgstr "konžština"
+
+msgid "ISO_639-3.TLI"
+msgstr "tlingit"
+
+msgid "ISO_639-3.TLK"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TLL"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TLO"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TLR"
+msgstr "maltézština"
+
+msgid "ISO_639-3.TLS"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TLT"
+msgstr "litevština"
+
+msgid "ISO_639-3.TLU"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.TLX"
+msgstr "čečenština"
+
+msgid "ISO_639-3.TMC"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.TMD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.TMH"
+msgstr "tamašek"
+
+msgid "ISO_639-3.TMJ"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.TMK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TMN"
+msgstr "indonézština"
+
+msgid "ISO_639-3.TMQ"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TMW"
+msgstr "němčina"
+
+msgid "ISO_639-3.TMY"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TNA"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TNB"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TNG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TNH"
+msgstr "moldavština"
+
+msgid "ISO_639-3.TNI"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TNK"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.TNM"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TNN"
+msgstr "severoamerická indiánština (jiná)"
+
+msgid "ISO_639-3.TNO"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.TNQ"
+msgstr "ladino"
+
+msgid "ISO_639-3.TNW"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TNX"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TNY"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOB"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.TOD"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TOG"
+msgstr "tongština (nyasa)"
+
+msgid "ISO_639-3.TOH"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TON"
+msgstr "Tonga"
+
+msgid "ISO_639-3.TOX"
+msgstr "bosenština"
+
+msgid "ISO_639-3.TPA"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TPF"
+msgstr "thajština"
+
+msgid "ISO_639-3.TPI"
+msgstr "tok pisin"
+
+msgid "ISO_639-3.TPM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TPU"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.TPV"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TPY"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TQL"
+msgstr "nepálština"
+
+msgid "ISO_639-3.TQQ"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.TQR"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TQT"
+msgstr "fríština"
+
+msgid "ISO_639-3.TQW"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TRA"
+msgstr "Kirgizština"
+
+msgid "ISO_639-3.TRD"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TRE"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.TRH"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TRL"
+msgstr "gaelština; skotská"
+
+msgid "ISO_639-3.TRM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TRR"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.TRW"
+msgstr "somálština"
+
+msgid "ISO_639-3.TRY"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TSA"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSB"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TSC"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TSD"
+msgstr "estonština"
+
+msgid "ISO_639-3.TSE"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.TSH"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TSI"
+msgstr "tsimshijské jazyky"
+
+msgid "ISO_639-3.TSJ"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSM"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.TSN"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TSO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TSQ"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.TSS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.TSU"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSV"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TSY"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.TSZ"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.TTB"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.TTG"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TTI"
+msgstr "thajština"
+
+msgid "ISO_639-3.TTM"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TTN"
+msgstr "Twi"
+
+msgid "ISO_639-3.TTR"
+msgstr "němčina"
+
+msgid "ISO_639-3.TTS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TTV"
+msgstr "tibetština"
+
+msgid "ISO_639-3.TTW"
+msgstr "lahnda"
+
+msgid "ISO_639-3.TUG"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.TUH"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.TUI"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TUJ"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TUK"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TUM"
+msgstr "tumbukština"
+
+msgid "ISO_639-3.TUQ"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.TUR"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TUV"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TUY"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TUZ"
+msgstr "turečtina"
+
+msgid "ISO_639-3.TVK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TVL"
+msgstr "tuvalština"
+
+msgid "ISO_639-3.TVN"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.TVS"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TVU"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.TVW"
+msgstr "Shona"
+
+msgid "ISO_639-3.TWA"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TWB"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TWE"
+msgstr "indonézština"
+
+msgid "ISO_639-3.TWF"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TWI"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWL"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TWM"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TWN"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TWQ"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.TWR"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.TWU"
+msgstr "němčina"
+
+msgid "ISO_639-3.TWW"
+msgstr "Twi"
+
+msgid "ISO_639-3.TWY"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.TXA"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.TXB"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.TXH"
+msgstr "thajština"
+
+msgid "ISO_639-3.TXN"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.TXQ"
+msgstr "Twi"
+
+msgid "ISO_639-3.TXR"
+msgstr "tahitština"
+
+msgid "ISO_639-3.TXS"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.TXX"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TXY"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.TYA"
+msgstr "tatarština"
+
+msgid "ISO_639-3.TYE"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.TYJ"
+msgstr "thajština"
+
+msgid "ISO_639-3.TYL"
+msgstr "Laoština"
+
+msgid "ISO_639-3.TYN"
+msgstr "somálština"
+
+msgid "ISO_639-3.TYV"
+msgstr "tuvština"
+
+msgid "ISO_639-3.TZA"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.TZH"
+msgstr "bengálština"
+
+msgid "ISO_639-3.TZJ"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TZL"
+msgstr "ruština"
+
+msgid "ISO_639-3.TZN"
+msgstr "Telugština"
+
+msgid "ISO_639-3.TZO"
+msgstr "thajština"
+
+msgid "ISO_639-3.TZX"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.UAN"
+msgstr "kašubština"
+
+msgid "ISO_639-3.UBA"
+msgstr "Sangho"
+
+msgid "ISO_639-3.UBR"
+msgstr "Uighurština"
+
+msgid "ISO_639-3.UBY"
+msgstr "uzbekistánština"
+
+msgid "ISO_639-3.UDG"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.UDJ"
+msgstr "Uighurština"
+
+msgid "ISO_639-3.UDM"
+msgstr "udmurtština"
+
+msgid "ISO_639-3.UDU"
+msgstr "urdština"
+
+msgid "ISO_639-3.UGA"
+msgstr "ugaritština"
+
+msgid "ISO_639-3.UGN"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.UGY"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.UHA"
+msgstr "thajština"
+
+msgid "ISO_639-3.UHN"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.UIG"
+msgstr "Uighurština"
+
+msgid "ISO_639-3.UKA"
+msgstr "kurdština"
+
+msgid "ISO_639-3.UKL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.UKR"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.ULE"
+msgstr "lule sami"
+
+msgid "ISO_639-3.ULI"
+msgstr "litevština"
+
+msgid "ISO_639-3.ULK"
+msgstr "perština"
+
+msgid "ISO_639-3.ULW"
+msgstr "albánština"
+
+msgid "ISO_639-3.UMB"
+msgstr "umbundu"
+
+msgid "ISO_639-3.UMC"
+msgstr "sardinština"
+
+msgid "ISO_639-3.UMM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.UMN"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.UND"
+msgstr "neurčitý"
+
+msgid "ISO_639-3.UNG"
+msgstr "sardinština"
+
+msgid "ISO_639-3.UNM"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.UNN"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.UNR"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.UNU"
+msgstr "navajština"
+
+msgid "ISO_639-3.UNX"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.URA"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.URC"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.URD"
+msgstr "urdština"
+
+msgid "ISO_639-3.URE"
+msgstr "urdština"
+
+msgid "ISO_639-3.URF"
+msgstr "maráthština"
+
+msgid "ISO_639-3.URG"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.URL"
+msgstr "páli"
+
+msgid "ISO_639-3.URM"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.URN"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.URU"
+msgstr "urdština"
+
+msgid "ISO_639-3.URV"
+msgstr "urdština"
+
+msgid "ISO_639-3.URX"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.URY"
+msgstr "orija"
+
+msgid "ISO_639-3.USP"
+msgstr "esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "osečtina"
+
+msgid "ISO_639-3.UTP"
+msgstr "Tonga"
+
+msgid "ISO_639-3.UUM"
+msgstr "urdština"
+
+msgid "ISO_639-3.UZB"
+msgstr "uzbekistánština"
+
+msgid "ISO_639-3.UZN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.UZS"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.VAG"
+msgstr "Malajština"
+
+msgid "ISO_639-3.VAI"
+msgstr "vai"
+
+msgid "ISO_639-3.VAN"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.VAO"
+msgstr "Laoština"
+
+msgid "ISO_639-3.VAS"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.VAV"
+msgstr "páli"
+
+msgid "ISO_639-3.VBB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.VBK"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.VEC"
+msgstr "arménština"
+
+msgid "ISO_639-3.VEN"
+msgstr "vendština"
+
+msgid "ISO_639-3.VIE"
+msgstr "vietnamština"
+
+msgid "ISO_639-3.VKA"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.VKK"
+msgstr "naurština"
+
+msgid "ISO_639-3.VKM"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.VKO"
+msgstr "korejština"
+
+msgid "ISO_639-3.VLP"
+msgstr "páli"
+
+msgid "ISO_639-3.VMA"
+msgstr "maráthština"
+
+msgid "ISO_639-3.VMB"
+msgstr "bambarština"
+
+msgid "ISO_639-3.VMD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.VME"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.VMG"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.VMH"
+msgstr "maráthština"
+
+msgid "ISO_639-3.VML"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.VNK"
+msgstr "Sangho"
+
+msgid "ISO_639-3.VOL"
+msgstr "volapük"
+
+msgid "ISO_639-3.VOT"
+msgstr "votiatština"
+
+msgid "ISO_639-3.VRA"
+msgstr "sačtina"
+
+msgid "ISO_639-3.VRS"
+msgstr "fríština"
+
+msgid "ISO_639-3.VSI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.VSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.VSV"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.WAA"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.WAE"
+msgstr "maltézština"
+
+msgid "ISO_639-3.WAI"
+msgstr "faerština"
+
+msgid "ISO_639-3.WAL"
+msgstr "moldavština"
+
+msgid "ISO_639-3.WAQ"
+msgstr "němčina"
+
+msgid "ISO_639-3.WAS"
+msgstr "washo"
+
+msgid "ISO_639-3.WAT"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.WAV"
+msgstr "dakotština"
+
+msgid "ISO_639-3.WAX"
+msgstr "tatarština"
+
+msgid "ISO_639-3.WBF"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.WBH"
+msgstr "lahnda"
+
+msgid "ISO_639-3.WBI"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.WBQ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.WBT"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.WDK"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.WEH"
+msgstr "velština"
+
+msgid "ISO_639-3.WET"
+msgstr "páli"
+
+msgid "ISO_639-3.WEU"
+msgstr "čínština"
+
+msgid "ISO_639-3.WHG"
+msgstr "korejština"
+
+msgid "ISO_639-3.WHU"
+msgstr "kašubština"
+
+msgid "ISO_639-3.WIB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.WII"
+msgstr "hindština"
+
+msgid "ISO_639-3.WJI"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.WKA"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.WKB"
+msgstr "maďarština"
+
+msgid "ISO_639-3.WKL"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.WKU"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.WLA"
+msgstr "páli"
+
+msgid "ISO_639-3.WLE"
+msgstr "moldavština"
+
+msgid "ISO_639-3.WLG"
+msgstr "maďarština"
+
+msgid "ISO_639-3.WLI"
+msgstr "svahilština"
+
+msgid "ISO_639-3.WLN"
+msgstr "valonština"
+
+msgid "ISO_639-3.WLO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WLS"
+msgstr "galština"
+
+msgid "ISO_639-3.WLW"
+msgstr "sačtina"
+
+msgid "ISO_639-3.WLY"
+msgstr "italština"
+
+msgid "ISO_639-3.WMD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.WMI"
+msgstr "Tamilština"
+
+msgid "ISO_639-3.WMM"
+msgstr "indonézština"
+
+msgid "ISO_639-3.WMS"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.WMW"
+msgstr "manština"
+
+msgid "ISO_639-3.WMX"
+msgstr "Oromo (Afan)"
+
+msgid "ISO_639-3.WND"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.WNG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.WNN"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.WNO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.WNU"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.WNY"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.WOC"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WOE"
+msgstr "moldavština"
+
+msgid "ISO_639-3.WOF"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.WOI"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.WOL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WON"
+msgstr "Wolof"
+
+msgid "ISO_639-3.WOO"
+msgstr "maorština"
+
+msgid "ISO_639-3.WOR"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.WPC"
+msgstr "maorština"
+
+msgid "ISO_639-3.WRN"
+msgstr "sardinština"
+
+msgid "ISO_639-3.WRS"
+msgstr "maorština"
+
+msgid "ISO_639-3.WRU"
+msgstr "naurština"
+
+msgid "ISO_639-3.WRY"
+msgstr "maorština"
+
+msgid "ISO_639-3.WSK"
+msgstr "Baskirština"
+
+msgid "ISO_639-3.WSS"
+msgstr "sačtina"
+
+msgid "ISO_639-3.WSU"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.WTM"
+msgstr "Siswatština"
+
+msgid "ISO_639-3.WUL"
+msgstr "svahilština"
+
+msgid "ISO_639-3.WUU"
+msgstr "čínština"
+
+msgid "ISO_639-3.WWB"
+msgstr "dakotština"
+
+msgid "ISO_639-3.WXW"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.WYI"
+msgstr "turkmenistánština"
+
+msgid "ISO_639-3.WYY"
+msgstr "fríština"
+
+msgid "ISO_639-3.XAB"
+msgstr "sumerština"
+
+msgid "ISO_639-3.XAC"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.XAD"
+msgstr "avarština"
+
+msgid "ISO_639-3.XAE"
+msgstr "arménština"
+
+msgid "ISO_639-3.XAJ"
+msgstr "arabština"
+
+msgid "ISO_639-3.XAL"
+msgstr "Malajština"
+
+msgid "ISO_639-3.XAQ"
+msgstr "litevština"
+
+msgid "ISO_639-3.XAR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.XAW"
+msgstr "němčina, nízká"
+
+msgid "ISO_639-3.XBC"
+msgstr "bulharština"
+
+msgid "ISO_639-3.XBD"
+msgstr "lahnda"
+
+msgid "ISO_639-3.XBE"
+msgstr "Bislámština"
+
+msgid "ISO_639-3.XBG"
+msgstr "bulharština"
+
+msgid "ISO_639-3.XBJ"
+msgstr "bihárština"
+
+msgid "ISO_639-3.XBM"
+msgstr "bretonština"
+
+msgid "ISO_639-3.XBN"
+msgstr "bengálština"
+
+msgid "ISO_639-3.XBO"
+msgstr "bulharština"
+
+msgid "ISO_639-3.XBR"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.XBY"
+msgstr "katalánština"
+
+msgid "ISO_639-3.XCL"
+msgstr "arménština"
+
+msgid "ISO_639-3.XCO"
+msgstr "korsičtina"
+
+msgid "ISO_639-3.XCR"
+msgstr "karibština"
+
+msgid "ISO_639-3.XCU"
+msgstr "chorvatština"
+
+msgid "ISO_639-3.XDC"
+msgstr "galština"
+
+msgid "ISO_639-3.XDY"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.XED"
+msgstr "hindština"
+
+msgid "ISO_639-3.XFA"
+msgstr "galština"
+
+msgid "ISO_639-3.XGA"
+msgstr "galština"
+
+msgid "ISO_639-3.XGD"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.XGG"
+msgstr "korejština"
+
+msgid "ISO_639-3.XGI"
+msgstr "sardinština"
+
+msgid "ISO_639-3.XGL"
+msgstr "galština"
+
+msgid "ISO_639-3.XGM"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.XGR"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.XGU"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.XHA"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.XHE"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.XHO"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "srbština"
+
+msgid "ISO_639-3.XHU"
+msgstr "maďarština"
+
+msgid "ISO_639-3.XHV"
+msgstr "kašubština"
+
+msgid "ISO_639-3.XIB"
+msgstr "perština"
+
+msgid "ISO_639-3.XII"
+msgstr "bihárština"
+
+msgid "ISO_639-3.XIL"
+msgstr "italština"
+
+msgid "ISO_639-3.XIR"
+msgstr "Tigrinijština"
+
+msgid "ISO_639-3.XIS"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.XIV"
+msgstr "násobné jazyky"
+
+msgid "ISO_639-3.XJB"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.XJT"
+msgstr "korejština"
+
+msgid "ISO_639-3.XKA"
+msgstr "dakotština"
+
+msgid "ISO_639-3.XKB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.XKE"
+msgstr "hebrejština"
+
+msgid "ISO_639-3.XKF"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.XKI"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.XKJ"
+msgstr "páli"
+
+msgid "ISO_639-3.XKQ"
+msgstr "korejština"
+
+msgid "ISO_639-3.XKU"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.XKX"
+msgstr "korejština"
+
+msgid "ISO_639-3.XKY"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.XLC"
+msgstr "litevština"
+
+msgid "ISO_639-3.XLD"
+msgstr "ladino"
+
+msgid "ISO_639-3.XLE"
+msgstr "rumunština"
+
+msgid "ISO_639-3.XLG"
+msgstr "egyptština (starověká)"
+
+msgid "ISO_639-3.XLI"
+msgstr "litevština"
+
+msgid "ISO_639-3.XLN"
+msgstr "albánština"
+
+msgid "ISO_639-3.XLS"
+msgstr "litevština"
+
+msgid "ISO_639-3.XMB"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.XME"
+msgstr "makedonština"
+
+msgid "ISO_639-3.XMF"
+msgstr "mongolština"
+
+msgid "ISO_639-3.XMJ"
+msgstr "maráthština"
+
+msgid "ISO_639-3.XMK"
+msgstr "makedonština"
+
+msgid "ISO_639-3.XML"
+msgstr "májské jazyky"
+
+msgid "ISO_639-3.XMM"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.XMO"
+msgstr "maorština"
+
+msgid "ISO_639-3.XMS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.XMT"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.XMW"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.XMX"
+msgstr "manština"
+
+msgid "ISO_639-3.XNA"
+msgstr "severoamerická indiánština (jiná)"
+
+msgid "ISO_639-3.XNG"
+msgstr "mongolština"
+
+msgid "ISO_639-3.XNH"
+msgstr "kašubština"
+
+msgid "ISO_639-3.XNI"
+msgstr "naurština"
+
+msgid "ISO_639-3.XNK"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.XNN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.XNS"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.XNT"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.XOG"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.XOR"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.XPA"
+msgstr "orija"
+
+msgid "ISO_639-3.XPC"
+msgstr "čečenština"
+
+msgid "ISO_639-3.XPE"
+msgstr "kpelle"
+
+msgid "ISO_639-3.XPG"
+msgstr "perština"
+
+msgid "ISO_639-3.XPI"
+msgstr "polština"
+
+msgid "ISO_639-3.XPR"
+msgstr "perština"
+
+msgid "ISO_639-3.XPS"
+msgstr "perština"
+
+msgid "ISO_639-3.XPT"
+msgstr "Aymárština"
+
+msgid "ISO_639-3.XPU"
+msgstr "Kirundi"
+
+msgid "ISO_639-3.XQA"
+msgstr "bihárština"
+
+msgid "ISO_639-3.XQT"
+msgstr "albánština"
+
+msgid "ISO_639-3.XRG"
+msgstr "Fidži"
+
+msgid "ISO_639-3.XRM"
+msgstr "arabština"
+
+msgid "ISO_639-3.XRN"
+msgstr "arménština"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.XRU"
+msgstr "maráthština"
+
+msgid "ISO_639-3.XRW"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.XSA"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.XSB"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.XSD"
+msgstr "sindhština"
+
+msgid "ISO_639-3.XSE"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.XSH"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.XSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.XSM"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.XSO"
+msgstr "Sangho"
+
+msgid "ISO_639-3.XSP"
+msgstr "svahilština"
+
+msgid "ISO_639-3.XSR"
+msgstr "srbština"
+
+msgid "ISO_639-3.XSS"
+msgstr "ruština"
+
+msgid "ISO_639-3.XSV"
+msgstr "slovinština"
+
+msgid "ISO_639-3.XSY"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.XTO"
+msgstr "abchazajština"
+
+msgid "ISO_639-3.XTW"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.XTZ"
+msgstr "rumunština"
+
+msgid "ISO_639-3.XUM"
+msgstr "sumerština"
+
+msgid "ISO_639-3.XUN"
+msgstr "ukrajinština"
+
+msgid "ISO_639-3.XUR"
+msgstr "chorvatština"
+
+msgid "ISO_639-3.XUU"
+msgstr "korejština"
+
+msgid "ISO_639-3.XVI"
+msgstr "kašmírština"
+
+msgid "ISO_639-3.XVO"
+msgstr "bosenština"
+
+msgid "ISO_639-3.XVS"
+msgstr "estonština"
+
+msgid "ISO_639-3.XWA"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.XWJ"
+msgstr "ekajuk"
+
+msgid "ISO_639-3.XWK"
+msgstr "Sangho"
+
+msgid "ISO_639-3.XXR"
+msgstr "korejština"
+
+msgid "ISO_639-3.XXT"
+msgstr "Tagalog"
+
+msgid "ISO_639-3.XYB"
+msgstr "lahnda"
+
+msgid "ISO_639-3.XYK"
+msgstr "Malajština"
+
+msgid "ISO_639-3.XYL"
+msgstr "maltézština"
+
+msgid "ISO_639-3.XZM"
+msgstr "neapolština"
+
+msgid "ISO_639-3.XZP"
+msgstr "makedonština"
+
+msgid "ISO_639-3.YAD"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YAK"
+msgstr "dakotština"
+
+msgid "ISO_639-3.YAN"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.YAO"
+msgstr "jaoština"
+
+msgid "ISO_639-3.YAP"
+msgstr "japština"
+
+msgid "ISO_639-3.YAU"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.YAX"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YBA"
+msgstr "Malajština"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Hausa"
+
+msgid "ISO_639-3.YBK"
+msgstr "Bhútánština"
+
+msgid "ISO_639-3.YCH"
+msgstr "čínština"
+
+msgid "ISO_639-3.YCL"
+msgstr "Wolof"
+
+msgid "ISO_639-3.YCN"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.YCP"
+msgstr "čipeva"
+
+msgid "ISO_639-3.YDA"
+msgstr "ganda"
+
+msgid "ISO_639-3.YDD"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YDG"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YDK"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YEC"
+msgstr "francouzština"
+
+msgid "ISO_639-3.YEJ"
+msgstr "islandština"
+
+msgid "ISO_639-3.YER"
+msgstr "Tádžičtina"
+
+msgid "ISO_639-3.YES"
+msgstr "naurština"
+
+msgid "ISO_639-3.YEV"
+msgstr "lahnda"
+
+msgid "ISO_639-3.YGA"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.YGP"
+msgstr "grebo"
+
+msgid "ISO_639-3.YGR"
+msgstr "bulharština"
+
+msgid "ISO_639-3.YGS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.YHA"
+msgstr "bengálština"
+
+msgid "ISO_639-3.YHD"
+msgstr "judeo-arabština"
+
+msgid "ISO_639-3.YHS"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.YIA"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.YID"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YIF"
+msgstr "aleutština"
+
+msgid "ISO_639-3.YIH"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YII"
+msgstr "Jidiš"
+
+msgid "ISO_639-3.YIM"
+msgstr "litevština"
+
+msgid "ISO_639-3.YIN"
+msgstr "sindhština"
+
+msgid "ISO_639-3.YIP"
+msgstr "Wolof"
+
+msgid "ISO_639-3.YIQ"
+msgstr "maorština"
+
+msgid "ISO_639-3.YIR"
+msgstr "korejština"
+
+msgid "ISO_639-3.YIS"
+msgstr "fríština"
+
+msgid "ISO_639-3.YIU"
+msgstr "aleutština"
+
+msgid "ISO_639-3.YIV"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.YIZ"
+msgstr "aleutština"
+
+msgid "ISO_639-3.YKG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.YKL"
+msgstr "kašubština"
+
+msgid "ISO_639-3.YKM"
+msgstr "latina"
+
+msgid "ISO_639-3.YKO"
+msgstr "sačtina"
+
+msgid "ISO_639-3.YKR"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.YKT"
+msgstr "kašubština"
+
+msgid "ISO_639-3.YKU"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.YKY"
+msgstr "dakotština"
+
+msgid "ISO_639-3.YLB"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.YLG"
+msgstr "Telugština"
+
+msgid "ISO_639-3.YLM"
+msgstr "bulharština"
+
+msgid "ISO_639-3.YLO"
+msgstr "naurština"
+
+msgid "ISO_639-3.YMC"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.YMD"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.YMH"
+msgstr "páli"
+
+msgid "ISO_639-3.YMI"
+msgstr "maorština"
+
+msgid "ISO_639-3.YMM"
+msgstr "Malajština"
+
+msgid "ISO_639-3.YMO"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.YMR"
+msgstr "makasarština"
+
+msgid "ISO_639-3.YMS"
+msgstr "bosenština"
+
+msgid "ISO_639-3.YMX"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.YMZ"
+msgstr "balúčština"
+
+msgid "ISO_639-3.YNA"
+msgstr "aleutština"
+
+msgid "ISO_639-3.YND"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.YNE"
+msgstr "Sangho"
+
+msgid "ISO_639-3.YNG"
+msgstr "Sangho"
+
+msgid "ISO_639-3.YNN"
+msgstr "Setswanština"
+
+msgid "ISO_639-3.YNO"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.YNS"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.YNU"
+msgstr "lahnda"
+
+msgid "ISO_639-3.YOB"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.YOL"
+msgstr "korejština"
+
+msgid "ISO_639-3.YON"
+msgstr "Tsonga"
+
+msgid "ISO_639-3.YOR"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.YPA"
+msgstr "katalánština"
+
+msgid "ISO_639-3.YPG"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.YPH"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.YPM"
+msgstr "páli"
+
+msgid "ISO_639-3.YPO"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.YPP"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.YPZ"
+msgstr "pahlaví"
+
+msgid "ISO_639-3.YRB"
+msgstr "Yoruba"
+
+msgid "ISO_639-3.YRY"
+msgstr "katalánština"
+
+msgid "ISO_639-3.YSD"
+msgstr "Samoyština"
+
+msgid "ISO_639-3.YSG"
+msgstr "zenaga"
+
+msgid "ISO_639-3.YSL"
+msgstr "australské jazyky"
+
+msgid "ISO_639-3.YSN"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.YSP"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.YSY"
+msgstr "sogdijština"
+
+msgid "ISO_639-3.YTA"
+msgstr "tatarština"
+
+msgid "ISO_639-3.YTL"
+msgstr "mongolština"
+
+msgid "ISO_639-3.YTP"
+msgstr "thajština"
+
+msgid "ISO_639-3.YUC"
+msgstr "balúčština"
+
+msgid "ISO_639-3.YUD"
+msgstr "judeo-arabština"
+
+msgid "ISO_639-3.YUE"
+msgstr "čínština"
+
+msgid "ISO_639-3.YUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.YUM"
+msgstr "Kečuánština"
+
+msgid "ISO_639-3.YUX"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.YWG"
+msgstr "minangkabau"
+
+msgid "ISO_639-3.YWL"
+msgstr "fríština"
+
+msgid "ISO_639-3.YWR"
+msgstr "naurština"
+
+msgid "ISO_639-3.YXA"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.YXG"
+msgstr "bulharština"
+
+msgid "ISO_639-3.YXL"
+msgstr "Kinyarwandština"
+
+msgid "ISO_639-3.YYZ"
+msgstr "albánština"
+
+msgid "ISO_639-3.YZG"
+msgstr "manština"
+
+msgid "ISO_639-3.YZK"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZAC"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAD"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAE"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAI"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZAP"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAQ"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAR"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAT"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAU"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.ZAV"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAW"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAX"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "maorština"
+
+msgid "ISO_639-3.ZBC"
+msgstr "kurdština"
+
+msgid "ISO_639-3.ZBE"
+msgstr "němčina"
+
+msgid "ISO_639-3.ZBT"
+msgstr "baskičtina"
+
+msgid "ISO_639-3.ZBW"
+msgstr "němčina"
+
+msgid "ISO_639-3.ZEN"
+msgstr "zenaga"
+
+msgid "ISO_639-3.ZGA"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZGR"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZHO"
+msgstr "čínština"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Xhosa"
+
+msgid "ISO_639-3.ZIB"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ZIM"
+msgstr "maltézština"
+
+msgid "ISO_639-3.ZIR"
+msgstr "orija"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Lingalština"
+
+msgid "ISO_639-3.ZKH"
+msgstr "korejština"
+
+msgid "ISO_639-3.ZKK"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Guaranština"
+
+msgid "ISO_639-3.ZKT"
+msgstr "tibetština"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Kannadština"
+
+msgid "ISO_639-3.ZKV"
+msgstr "arménština"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZLM"
+msgstr "májské jazyky"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.ZMD"
+msgstr "maorština"
+
+msgid "ISO_639-3.ZME"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.ZMG"
+msgstr "maráthština"
+
+msgid "ISO_639-3.ZMO"
+msgstr "Wolof"
+
+msgid "ISO_639-3.ZMT"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.ZMU"
+msgstr "maorština"
+
+msgid "ISO_639-3.ZMY"
+msgstr "maorština"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.ZNG"
+msgstr "manština"
+
+msgid "ISO_639-3.ZNK"
+msgstr "mandarínština"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Malgaština"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Laoština"
+
+msgid "ISO_639-3.ZPB"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPC"
+msgstr "čínština"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZPE"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPM"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPO"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPP"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPQ"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPS"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPU"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZPV"
+msgstr "čínština"
+
+msgid "ISO_639-3.ZPW"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZRG"
+msgstr "čínština"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Kambodžština"
+
+msgid "ISO_639-3.ZRP"
+msgstr "maráthština"
+
+msgid "ISO_639-3.ZRS"
+msgstr "maráthština"
+
+msgid "ISO_639-3.ZSA"
+msgstr "sanskrt"
+
+msgid "ISO_639-3.ZSK"
+msgstr "kašubština"
+
+msgid "ISO_639-3.ZSL"
+msgstr "znakové jazyky"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Malabarština"
+
+msgid "ISO_639-3.ZSR"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZSU"
+msgstr "sukuma"
+
+msgid "ISO_639-3.ZTE"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZTP"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZTU"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZTX"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZTY"
+msgstr "zapotéčtina"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Zulu"
+
+msgid "ISO_639-3.ZUN"
+msgstr "zunijština"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Sesotho"
+
+msgid "ISO_639-3.ZYP"
+msgstr "čínština"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Kazachština"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Sesotho"

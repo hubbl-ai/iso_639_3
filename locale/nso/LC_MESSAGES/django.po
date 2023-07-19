@@ -1,0 +1,8067 @@
+# Translation of desktop_kde-i18n.po to Northern Sotho
+# Copyright Zuza Software Foundation
+# Translations from kde-i18n by
+#   Jerry Thobejane <jerry@translate.org.za>, 2002
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-11-08 11:22+0200\n"
+"Last-Translator: Jerry Thobejane <jerry@translate.org.za>\n"
+"Language-Team: Northern Sotho <sepedi@translate.org.za>\n"
+"Language: nso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta2\n"
+
+msgid "ISO_639-3.AAC"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AAF"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.AAG"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AAK"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AAT"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.AAZ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ABD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ABH"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ABV"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.ABZ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ACE"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ACI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.ACN"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ACR"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ACW"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ACX"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ACY"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ADF"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ADL"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.ADN"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ADW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.AEA"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.AEC"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AEE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AEU"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AEW"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AEZ"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AFB"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AFD"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AFK"
+msgstr "Seswati"
+
+msgid "ISO_639-3.AFP"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.AFR"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AGA"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AGB"
+msgstr "Segerika"
+
+msgid "ISO_639-3.AGD"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AGF"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.AGI"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.AGM"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.AGO"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.AGW"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.AGY"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AHA"
+msgstr "Seswati"
+
+msgid "ISO_639-3.AHK"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AHR"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AIA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.AIJ"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.AIR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.AIS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.AIW"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AIX"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AJN"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AJP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AJT"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AJU"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AJZ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.AKA"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AKB"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.AKF"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AKL"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AKM"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AKQ"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AKR"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AKW"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ALK"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.ALS"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.ALT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AMJ"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AMK"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AML"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.AMN"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AMQ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AMS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AMY"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ANB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ANC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ANH"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ANK"
+msgstr "Se-German"
+
+msgid "ISO_639-3.ANP"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ANQ"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.ANS"
+msgstr "Se-German"
+
+msgid "ISO_639-3.ANV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ANW"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ANY"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.AOF"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.AOH"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AOJ"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.AOR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.AOS"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.AOT"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.APC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.APD"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.APF"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.APG"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.APO"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.AQC"
+msgstr "Se-China"
+
+msgid "ISO_639-3.AQN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AQZ"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ARA"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ARD"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.ARH"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ARI"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ARJ"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ARL"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ARN"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.ARO"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.ARQ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ARS"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ARY"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.ASI"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.ASK"
+msgstr "Seburu"
+
+msgid "ISO_639-3.ASO"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.AST"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-3.ATN"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-3.ATR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ATV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ATX"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.ATZ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AUB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.AUC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.AUG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.AUH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.AUL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.AUQ"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.AUR"
+msgstr "Segerika"
+
+msgid "ISO_639-3.AUZ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AVA"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AVB"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.AVI"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AVK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.AVN"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AVS"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.AWM"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AWU"
+msgstr "Seswati"
+
+msgid "ISO_639-3.AXL"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AXM"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.AYA"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AYC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AYG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.AYH"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AYL"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.AYN"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.AYR"
+msgstr "Seswati"
+
+msgid "ISO_639-3.AYS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.AZA"
+msgstr "Seburu"
+
+msgid "ISO_639-3.AZB"
+msgstr "Se-Azerbaijani"
+
+msgid "ISO_639-3.AZE"
+msgstr "Se-Azerbaijani"
+
+msgid "ISO_639-3.AZJ"
+msgstr "Se-Azerbaijani"
+
+msgid "ISO_639-3.BAA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BAC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BAG"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.BAN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BAP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BAR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BAV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BAX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BAY"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BBB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BBD"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BBE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BBF"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BBG"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.BBH"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BBL"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BBP"
+msgstr "Seswati"
+
+msgid "ISO_639-3.BBQ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.BBS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BBV"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BBW"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BBX"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BCA"
+msgstr "Seswati"
+
+msgid "ISO_639-3.BCC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BCE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BCF"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BCG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BCH"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BCJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BCK"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BCL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.BCO"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.BCQ"
+msgstr "Se-French"
+
+msgid "ISO_639-3.BCR"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BCT"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BCW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BCY"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BDB"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BDD"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BDE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BDF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BDG"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BDK"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.BDL"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.BDO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BDP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BDQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BDW"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BDY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BED"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BEF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BEG"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BEH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BEK"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BEL"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BEN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BEO"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.BEP"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BES"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BEU"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BFA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BFG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BFM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BFN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BFQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BFS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BFT"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BFU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BFW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BFX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BGE"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BGF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BGG"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BGI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BGJ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BGK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BGQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BGR"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.BGW"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BGZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BHA"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BHB"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BHC"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BHE"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BHG"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.BHJ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BHL"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BHP"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BHR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BHU"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BHV"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BHW"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BHX"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BHZ"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.BIA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BIB"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BIF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BIG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BIO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BIP"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BIU"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BIV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BIZ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BJA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BJC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BJH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BJI"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BJJ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.BJN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BJO"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BJR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BJS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BJV"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BJY"
+msgstr "Seswati"
+
+msgid "ISO_639-3.BJZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BKF"
+msgstr "Segerika"
+
+msgid "ISO_639-3.BKG"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BKJ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BKN"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BKS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BKT"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BKX"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.BLG"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BLI"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BLJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BLL"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BLN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BLR"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BLS"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BLW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BLZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BMD"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.BMH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BMO"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.BMP"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BMR"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.BMS"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.BMX"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BMZ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BNB"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BNC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BND"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.BNE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BNF"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.BNG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BNI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.BNK"
+msgstr "Segerika"
+
+msgid "ISO_639-3.BNL"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BNM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BNQ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.BNU"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BNZ"
+msgstr "Segerika"
+
+msgid "ISO_639-3.BOA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BOB"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.BOE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BOF"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BOH"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.BON"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BOP"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BOQ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BOS"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BOU"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BOW"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.BPA"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BPD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BPH"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.BPJ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BPO"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.BPP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BPQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BPV"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.BQB"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BQH"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BQJ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BQO"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.BQP"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BQQ"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BQS"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BQV"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BQX"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BQZ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BRE"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BRF"
+msgstr "Se-German"
+
+msgid "ISO_639-3.BRG"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BRJ"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BRO"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BRS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BRW"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BRX"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.BRY"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BRZ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BSC"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BSE"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BSG"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BSH"
+msgstr "Seswati"
+
+msgid "ISO_639-3.BSI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BSK"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BSM"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BSN"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BSQ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BST"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BSU"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BSW"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BTA"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BTF"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BTI"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BTJ"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.BTR"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BTU"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BTV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BUA"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BUB"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BUC"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BUG"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BUK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BUL"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BUP"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BUQ"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BUT"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BUW"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BVA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BVB"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BVC"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BVH"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BVJ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BVK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BVM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BVN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BVP"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.BVR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BVT"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.BVU"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BVV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BVW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.BVY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BVZ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BWD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BWG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BWI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BWM"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BWQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.BXA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.BXB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BXC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BXG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BXM"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.BXN"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BXO"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BXR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BXS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BXU"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BYA"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BYF"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BYH"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BYK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BYN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.BYQ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BYR"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BYS"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BYW"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.BYZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BZA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.BZF"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.BZG"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BZI"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BZO"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.BZQ"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.BZR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.BZU"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.BZV"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.BZZ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CAB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.CAC"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CAF"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CAH"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CAK"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.CAL"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.CAN"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CAR"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.CAS"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.CAT"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CBC"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CBD"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CBI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.CBK"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CBL"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.CBW"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.CBY"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CCG"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.CCJ"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.CDE"
+msgstr "Se-Czech"
+
+msgid "ISO_639-3.CDG"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CDO"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CDY"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.CDZ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.CEA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.CEN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CES"
+msgstr "Se-Czech"
+
+msgid "ISO_639-3.CFD"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CFM"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.CHC"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CHK"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CHM"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.CHX"
+msgstr "Seswati"
+
+msgid "ISO_639-3.CIE"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CIK"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.CIM"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.CIP"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CIY"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.CJI"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CJK"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CJN"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.CJV"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CJY"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CKB"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.CKL"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CKN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CKT"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CKU"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CKV"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CLA"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.CLE"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.CLJ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CLL"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CLM"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.CLT"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CLU"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CMA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CME"
+msgstr "Se-German"
+
+msgid "ISO_639-3.CML"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CMN"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.CMO"
+msgstr "Seswati"
+
+msgid "ISO_639-3.CMS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CNG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CNH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CNK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.CNL"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.CNS"
+msgstr "Seswati"
+
+msgid "ISO_639-3.CNW"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.COE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.COX"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CPI"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CPX"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CRA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CRE"
+msgstr "Segerika"
+
+msgid "ISO_639-3.CRF"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CRG"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.CRJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CRL"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CRR"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.CRX"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CRY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.CSB"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.CSJ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CSS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CST"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CSV"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CSY"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.CTD"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.CTG"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.CTH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CTS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.CTU"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.CUH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CUI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.CUL"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CUU"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.CUW"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CVG"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CWB"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.CWE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.CYM"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.CZH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.CZK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.CZT"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.DAC"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.DAD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DAG"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DAM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DAN"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DAO"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.DAQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DAR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DAV"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.DAX"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DBA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.DBJ"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.DBM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DBO"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.DBP"
+msgstr "Seswati"
+
+msgid "ISO_639-3.DBQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DBW"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.DCC"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.DEC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DED"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DER"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DEU"
+msgstr "Se-German"
+
+msgid "ISO_639-3.DGA"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DGG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DGI"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DGK"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DGL"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.DGN"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DGX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DGZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DHD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DHG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DHN"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DHO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.DHR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DHS"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DHU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DHX"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.DIB"
+msgstr "Seswati"
+
+msgid "ISO_639-3.DIC"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.DIF"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DIJ"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DIK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DIP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DIR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DIS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.DIT"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DIV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DIW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DJO"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.DJU"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.DKS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DLG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.DLK"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.DLM"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.DLN"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DMC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DMM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DMX"
+msgstr "Se-German"
+
+msgid "ISO_639-3.DND"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DNG"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.DNJ"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DNU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DNV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DOC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.DOH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DOO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DOP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DOR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DOT"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DOX"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.DOZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DRB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DRC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DRD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DRG"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.DRL"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.DRQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DRS"
+msgstr "Segerika"
+
+msgid "ISO_639-3.DRY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DSB"
+msgstr "Se-German"
+
+msgid "ISO_639-3.DSI"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DSO"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DTA"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.DTR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DTY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DUC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.DUO"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.DUP"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.DVA"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.DWA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DWR"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.DWW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.DYA"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.DZA"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.DZG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.EAA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.EBK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ECR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.EGL"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.EIV"
+msgstr "Seburu"
+
+msgid "ISO_639-3.EKC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.EKG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.EKK"
+msgstr "Seswati"
+
+msgid "ISO_639-3.EKR"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.EMG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.EMN"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.ENB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.END"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ENG"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.EPO"
+msgstr "Se-Esperanto"
+
+msgid "ISO_639-3.ERA"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.ERG"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.ERK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ESG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.EST"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-3.ESU"
+msgstr "Seswati"
+
+msgid "ISO_639-3.ESY"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.EUS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.EYO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.FAA"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.FAF"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FAH"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.FAJ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FAL"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.FAP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.FAR"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.FAT"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FAX"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.FAY"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.FAZ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.FIN"
+msgstr "Se-Finnish"
+
+msgid "ISO_639-3.FIR"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FKV"
+msgstr "Se-Finnish"
+
+msgid "ISO_639-3.FLI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FLL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.FLY"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FNI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.FOM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.FOR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.FRA"
+msgstr "Se-French"
+
+msgid "ISO_639-3.FRC"
+msgstr "Se-French"
+
+msgid "ISO_639-3.FRK"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.FRP"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.FRR"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.FUU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.GAB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GAD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GAF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GAH"
+msgstr "Seburu"
+
+msgid "ISO_639-3.GAI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GAL"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.GAM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GAN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.GAO"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GAQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GAT"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.GAZ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.GBD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GBF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GBJ"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.GBK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GBL"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.GBM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GBO"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.GBV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GBY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GCC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GCD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GCN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GDG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GDI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GDK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GDL"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.GDN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.GDQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GDT"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.GEA"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GEB"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.GED"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GEG"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GEI"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GEJ"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GEQ"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GEW"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GEX"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.GEZ"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GFT"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GGK"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.GGL"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GHE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.GHH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.GHR"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GHT"
+msgstr "Se-China"
+
+msgid "ISO_639-3.GIB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GIC"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.GID"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GIG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GIL"
+msgstr "Se-Vietnamese"
+
+msgid "ISO_639-3.GIQ"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GIR"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GIW"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GJM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GJN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GJU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GKE"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GKN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GLD"
+msgstr "Seswati"
+
+msgid "ISO_639-3.GLE"
+msgstr "Se-Irish"
+
+msgid "ISO_639-3.GLG"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.GLH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.GLO"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.GLW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GMA"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.GMU"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.GMV"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GNA"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.GNE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GNH"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.GNK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GNM"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GNO"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.GNQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GNT"
+msgstr "Seswati"
+
+msgid "ISO_639-3.GNU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GNZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GOA"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GOF"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.GOU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GPN"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.GQA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GQU"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.GRB"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GRG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GRI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.GRJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.GRO"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GRR"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.GRS"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GRT"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GRU"
+msgstr "Se-China"
+
+msgid "ISO_639-3.GRV"
+msgstr "Seswati"
+
+msgid "ISO_639-3.GRW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GRX"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.GSP"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.GSW"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GVC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GVE"
+msgstr "Se-Dutch"
+
+msgid "ISO_639-3.GVF"
+msgstr "Se-China"
+
+msgid "ISO_639-3.GVM"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GVS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GWA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.GWC"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.GWD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GWE"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GWF"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GWI"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.GWN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GWR"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GXX"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.GYD"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.GYE"
+msgstr "Se-German"
+
+msgid "ISO_639-3.GYI"
+msgstr "Segerika"
+
+msgid "ISO_639-3.GYL"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.GYY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GZA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.GZI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.GZN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.HAC"
+msgstr "Se-German"
+
+msgid "ISO_639-3.HAG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.HAH"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.HAK"
+msgstr "Se-China"
+
+msgid "ISO_639-3.HAL"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.HAM"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.HAN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.HAR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.HAS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.HAT"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.HAW"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.HAX"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HBN"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.HBO"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.HBS"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.HDN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HEA"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HEB"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.HEH"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.HGW"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.HHY"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.HIA"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.HIG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.HII"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.HJI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.HKA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.HKE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.HLA"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.HLT"
+msgstr "Se-China"
+
+msgid "ISO_639-3.HMA"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HME"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMI"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMJ"
+msgstr "Se-German"
+
+msgid "ISO_639-3.HMM"
+msgstr "Seswati"
+
+msgid "ISO_639-3.HMP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HMY"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HND"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HNI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.HNO"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HNU"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.HOJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.HOM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.HRE"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.HRO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.HRV"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.HRW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.HRX"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.HRZ"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.HSB"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.HSN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.HTS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.HUD"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.HUJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.HUK"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.HUM"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.HUN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.HUS"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.HWO"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.HYE"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.IAI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.IAR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.IBL"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.IBY"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.IDB"
+msgstr "Se-Portuguese"
+
+msgid "ISO_639-3.IDR"
+msgstr "Se-Irish"
+
+msgid "ISO_639-3.IDS"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.IFB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.IGE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.IGG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.IGL"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.IGN"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.III"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.IJE"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.IJN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.IJS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.IKL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.IKR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.IKS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ILB"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.ILI"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.ILM"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.IMA"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.IMO"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.IMS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.INB"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.IND"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.INH"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.ISA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.ISH"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-3.ISL"
+msgstr "Se-Icelandic"
+
+msgid "ISO_639-3.ISM"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.ITA"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.ITD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ITE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ITK"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.ITR"
+msgstr "Se-Irish"
+
+msgid "ISO_639-3.ITV"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.ITY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.IVB"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.IVV"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.IZH"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.JAC"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.JAF"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.JAN"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.JAU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.JAV"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.JAY"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.JBE"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.JBJ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.JBK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.JCT"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.JDT"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.JER"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.JET"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.JGE"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.JHI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.JKR"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.JLE"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.JMB"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.JMN"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.JMR"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.JND"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.JNI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.JNL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.JNS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.JOW"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.JPN"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.JPR"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.JRA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.JRB"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.JUK"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.JUT"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.JVD"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.JVN"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.JYE"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.KAD"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KAE"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.KAF"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KAG"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KAI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KAK"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KAU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KBA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.KBD"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KBE"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KBI"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KBJ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KBL"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KBP"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KBS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KBU"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KBV"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.KBW"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KBY"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KBZ"
+msgstr "Se-Dutch"
+
+msgid "ISO_639-3.KCE"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KCF"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KCI"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.KCJ"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KCP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KCQ"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.KCR"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.KCS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KCT"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KCW"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KCY"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KDC"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KDE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KDF"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.KDG"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.KDN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KDR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KDW"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KDY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KEA"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KED"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.KEG"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.KEH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KEJ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KEN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KEP"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KEQ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KER"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KEV"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KEX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KEZ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.KFA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KFB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KFD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.KFE"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.KFF"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KFG"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KFH"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KFK"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KFM"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KFN"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KFP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KFR"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KFT"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KFU"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KFV"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KFW"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.KFX"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KFY"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KGB"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KGD"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.KGE"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.KGG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KGL"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.KGN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KGP"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.KGV"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KGW"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KHA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KHE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KHF"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KHJ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KHK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KHL"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KHM"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KHN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.KHO"
+msgstr "Se-China"
+
+msgid "ISO_639-3.KHP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.KHR"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KHS"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KHT"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KHV"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KHX"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KHZ"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KIB"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KID"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KIL"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KIM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.KIQ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KIS"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KIW"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KIX"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.KJC"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.KJD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KJE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KJO"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KJR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KJU"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KKA"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.KKI"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.KKK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KKL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KKO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KKQ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KKT"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KKU"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.KKV"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KKX"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KKZ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.KLF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KLG"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.KLJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KLL"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KLM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.KLN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KLP"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.KLR"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KLS"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KLT"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KLU"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.KLW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KLY"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.KMA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KMC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KMD"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.KMH"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.KMK"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.KMR"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KMU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KMY"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.KNC"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KND"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KNE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KNI"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KNK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KNX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KOC"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KOF"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KOG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.KOK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KOO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KOR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KOS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KOT"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.KOU"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KOZ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KPD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KPK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KPR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KPS"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KPY"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KQB"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KQE"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KQF"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KQM"
+msgstr "Sethosa"
+
+msgid "ISO_639-3.KQQ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KQR"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.KQS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KQU"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.KQW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KQY"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KQZ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KRA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KRB"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KRE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KRH"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.KRI"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KRK"
+msgstr "Segerika"
+
+msgid "ISO_639-3.KRL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KRM"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KRT"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KRU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KRV"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KRX"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KRZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KSC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KSD"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KSE"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KSF"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.KSI"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KSJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KSK"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.KSL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.KSN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KSO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KSP"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KSR"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.KSS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KSV"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KSX"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KSZ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KTD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KTF"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.KTH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KTK"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KTM"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KTS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KUC"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.KUH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KUJ"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.KUO"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KUQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KUR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KUV"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KUZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KVB"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KVC"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KVD"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.KVE"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KVF"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KVI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KVL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KVM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KVP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KVV"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KWD"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KWE"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.KWF"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KWH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KWN"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KWP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KWY"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KWZ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KXA"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KXC"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KXM"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KXN"
+msgstr "Seswati"
+
+msgid "ISO_639-3.KXP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KXS"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KXV"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KXW"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KXZ"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.KYD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KYH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KYJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KYN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.KYO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KYP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KYQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.KYS"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.KYY"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KZD"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.KZE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KZG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KZM"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KZN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KZO"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.KZP"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KZQ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.KZR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.KZX"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.KZZ"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.LAA"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.LAB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LAD"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LAG"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.LAL"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LAV"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LBA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LBC"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LBF"
+msgstr "Se-Finnish"
+
+msgid "ISO_639-3.LBJ"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LBK"
+msgstr "Seswati"
+
+msgid "ISO_639-3.LBO"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LBW"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LBX"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.LBZ"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LCH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LDD"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LDI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LDL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.LDM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LDN"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LED"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LEH"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LEM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.LEN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LES"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.LEX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LGA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LGG"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.LGL"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.LGQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LHH"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.LHN"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LHT"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LIA"
+msgstr "Seswati"
+
+msgid "ISO_639-3.LIF"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LIJ"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LIM"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LIR"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.LIT"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LIU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LJE"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.LJI"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LJL"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LJP"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.LJW"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.LKB"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.LKC"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.LKD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LKE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.LKI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LKM"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.LKN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LKO"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LKS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.LKT"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LKU"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.LLD"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LLH"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.LLM"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.LLP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.LLX"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LMB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LMC"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LMD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LMG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LML"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LMN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.LMP"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LND"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LNG"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.LNH"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LNI"
+msgstr "Seswati"
+
+msgid "ISO_639-3.LNL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.LNS"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LNU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LNW"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.LOC"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.LOE"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.LOH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LOX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LPO"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LRC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.LRE"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LRG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LRI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LRK"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LRL"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.LRM"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.LRN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.LRO"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LRR"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.LRZ"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.LSD"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LSH"
+msgstr "Se-Irish"
+
+msgid "ISO_639-3.LSI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LSM"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.LSS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.LTG"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.LTI"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.LTN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LTS"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.LUD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUE"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.LUF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUJ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUM"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.LUN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUS"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.LUV"
+msgstr "Seswati"
+
+msgid "ISO_639-3.LUY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LUZ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.LVS"
+msgstr "Seswati"
+
+msgid "ISO_639-3.LWG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LWM"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.LWU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LYG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LYN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.LZH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.LZN"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MAD"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MAF"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MAH"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MAM"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MAS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MAW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MAZ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MBC"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MBE"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MBF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MBK"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MBP"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.MBQ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MBS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MBW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MBY"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MCA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MCH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MCI"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MCJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MCK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MCM"
+msgstr "Sepotokisi sa Brazil"
+
+msgid "ISO_639-3.MCN"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MCP"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MCR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MCS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MCY"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MCZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MDB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MDG"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MDH"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.MDN"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MDP"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MDT"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MDW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MDX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MEA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MEC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MEE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MEH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MEK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MEL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MEQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MES"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MET"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MEV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MEW"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MFA"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.MFB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MFE"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MFF"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MFH"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MFI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MFK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.MFP"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MFR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MFV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MFY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MFZ"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.MGB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MGD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MGE"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MGF"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MGJ"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.MGK"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MGN"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MGP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.MGQ"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.MGU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MHA"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.MHF"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MHG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MHI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MHK"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.MHP"
+msgstr "Se-China"
+
+msgid "ISO_639-3.MHQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MHS"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.MHX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MIA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MID"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MIJ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.MIK"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MIT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MJB"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MJJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MJL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MJM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MJR"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MJV"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MJW"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.MJX"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MJY"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.MJZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MKA"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.MKD"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MKE"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.MKI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.MKJ"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MKR"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MKV"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MKY"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.MKZ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MLA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MLF"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MLH"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.MLK"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.MLN"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.MLP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MLS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MLT"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MMA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MMD"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MME"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MMF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MMI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MMJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MMM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MMO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MMP"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MMQ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MMU"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.MMV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MMX"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MNB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MNF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MNI"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.MNK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MNL"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.MNM"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MNN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MNP"
+msgstr "Se-China"
+
+msgid "ISO_639-3.MNQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MNS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MNZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MOI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MOK"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MOM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MOR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MOS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MOZ"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.MPC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MPD"
+msgstr "Se-China"
+
+msgid "ISO_639-3.MPG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MPI"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MPQ"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MPT"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MPV"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.MPW"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MPY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MQA"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.MQE"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MQI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MQJ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MQM"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MQN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MQP"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MQR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MQU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MQV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MQW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MQY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.MRG"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MRH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MRR"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.MRX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MRY"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MRZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MSC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MSE"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MSG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MSK"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MSS"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MSV"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MSY"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.MSZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MTM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MTN"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.MTR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MTS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.MTW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MTY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MUA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MUC"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.MUI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MUJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MUO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MUP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MUR"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MUS"
+msgstr "Segerika"
+
+msgid "ISO_639-3.MUX"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.MUZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MVA"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MVD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MVO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MVP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MVQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MVR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MVS"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MVU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MWI"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.MWK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MWL"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MWO"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MWQ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.MWR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MWT"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MWV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MWX"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MWY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MXD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.MXF"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MXI"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.MXN"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.MXR"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.MXW"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.MXX"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.MXY"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.MXZ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MYE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MYG"
+msgstr "Seswati"
+
+msgid "ISO_639-3.MYH"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MYI"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.MYL"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.MYM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.MYS"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.MYX"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MYY"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.MZE"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.MZJ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MZS"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.MZV"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.MZX"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.NAA"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.NAB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NAJ"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.NAL"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NAN"
+msgstr "Se-China"
+
+msgid "ISO_639-3.NAW"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.NAX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NBC"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.NBH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NBJ"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.NBN"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.NBW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NCB"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NCE"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.NCF"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NCH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NCJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NCN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NDA"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.NDF"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.NDH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NDS"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.NDX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NDZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NEF"
+msgstr "Se-Vietnamese"
+
+msgid "ISO_639-3.NEG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NEP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NEQ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NER"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.NES"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.NEW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NFD"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NGB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NGJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NGK"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.NGO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NGP"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.NGX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NHA"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NHB"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.NHE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NHH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NHN"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NHW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NHY"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NIB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NID"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NIJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NIK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NIO"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.NIQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NIR"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.NIT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NIX"
+msgstr "Se-German"
+
+msgid "ISO_639-3.NIY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NJM"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.NJN"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.NJZ"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.NKA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NKB"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.NKD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NKG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NKI"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.NKJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NKU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NKZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NLD"
+msgstr "Se-Dutch"
+
+msgid "ISO_639-3.NLG"
+msgstr "Se-German"
+
+msgid "ISO_639-3.NLI"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NLJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NLL"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.NLQ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.NLW"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.NLX"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NLZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NMA"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.NMB"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.NMC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NMF"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.NMG"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NMV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NMW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NNB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NNF"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NNG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NNL"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NNM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.NNO"
+msgstr "Se-Norwegian (Nynorsk)"
+
+msgid "ISO_639-3.NNW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NNZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NOB"
+msgstr "Se-Norwegian (Bokmaal)"
+
+msgid "ISO_639-3.NOD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NOF"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.NOG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NOI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NOJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NOL"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.NON"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.NOR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NOZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NPG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NPI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.NQG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NQQ"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.NQY"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.NRB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NRC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NRE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NRN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NRR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NRT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NRU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NRZ"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.NSA"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.NSC"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.NSD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NSF"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NSG"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.NSK"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.NSQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NSS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NSV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NSY"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.NTD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NTG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NTP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NTX"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.NTY"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.NUA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NUD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NUG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NUH"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.NUR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.NUV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NUX"
+msgstr "Segerika"
+
+msgid "ISO_639-3.NVH"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.NWI"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.NWR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.NXM"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.NXQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NXX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.NYA"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NYC"
+msgstr "Seswati"
+
+msgid "ISO_639-3.NYF"
+msgstr "Se-German"
+
+msgid "ISO_639-3.NYR"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.OAR"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.OBK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.OBR"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.OBT"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.OCA"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.OCH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ODT"
+msgstr "Se-Dutch"
+
+msgid "ISO_639-3.OFS"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.OGE"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.OGO"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.OHU"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.OIA"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.OJB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.OJC"
+msgstr "Seswati"
+
+msgid "ISO_639-3.OJP"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.OKD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.OKK"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.OKL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.OKV"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.OLD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.OLR"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.OLT"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.OLU"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.OMP"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.OMR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.OMW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ONB"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.ONP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ONR"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ONW"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.OOS"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.ORC"
+msgstr "Se-German"
+
+msgid "ISO_639-3.ORI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ORT"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.ORV"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.OSC"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.OSP"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.OSS"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.OSU"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.OSX"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.OTB"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.OTD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.OTK"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.OTY"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.OWL"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.OYM"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.PAG"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PAH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.PAO"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PAR"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PAS"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PAT"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.PAY"
+msgstr "Se-Czech"
+
+msgid "ISO_639-3.PBI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PBN"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.PBP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.PBR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PBS"
+msgstr "Seswati"
+
+msgid "ISO_639-3.PBT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PBU"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PCF"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.PCG"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PCH"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.PCI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PCJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PCK"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.PCL"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PDN"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.PDU"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PEA"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.PEF"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PEH"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.PEJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PEK"
+msgstr "Se-French"
+
+msgid "ISO_639-3.PEM"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.PEP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.PEQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PES"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.PFL"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.PGG"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.PGN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.PGS"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PGZ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PHH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.PHN"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.PHT"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.PIM"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.PKT"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.PLA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PLC"
+msgstr "Seswati"
+
+msgid "ISO_639-3.PLD"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.PLJ"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.PLQ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.PLZ"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.PMD"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PMI"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PMJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PMQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PMS"
+msgstr "Se-Vietnamese"
+
+msgid "ISO_639-3.PMY"
+msgstr "Se-China"
+
+msgid "ISO_639-3.PMZ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PNK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.PNL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PNP"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PNR"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.PNS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PNT"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.PNX"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.POC"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.POL"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.POM"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PON"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.POO"
+msgstr "Seswati"
+
+msgid "ISO_639-3.POR"
+msgstr "Se-Portuguese"
+
+msgid "ISO_639-3.POX"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.PPP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.PPT"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PRB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.PRF"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PRG"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.PRP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PRR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.PRT"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.PRW"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PSE"
+msgstr "Seswati"
+
+msgid "ISO_639-3.PSH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PSI"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PSN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PSQ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.PST"
+msgstr "Seswati"
+
+msgid "ISO_639-3.PTN"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.PTR"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PTU"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.PTY"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.PUP"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.PUT"
+msgstr "Se-Dutch"
+
+msgid "ISO_639-3.PUW"
+msgstr "Se-Portuguese"
+
+msgid "ISO_639-3.PUX"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.PWA"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.PWB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PWN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.PWR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.PWW"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.PZN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.QUP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.QVZ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.QXQ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.QXS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.QYP"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RAC"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.RAF"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.RAL"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.RAM"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.RAN"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RAQ"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.RAR"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.RAS"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.RAX"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RBK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.RBP"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.REE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.REL"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.RES"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.RGA"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RGN"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RGS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.RHG"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RIA"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.RKI"
+msgstr "Se-China"
+
+msgid "ISO_639-3.RKM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RKT"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.RKW"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.RMA"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.RMH"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.RMI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.RMK"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RML"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMO"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMT"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RMU"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMV"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMW"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMX"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMY"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RMZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RND"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.RNG"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RNL"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RNN"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RNR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ROE"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.ROG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ROH"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.ROL"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.ROM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RON"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.ROU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.RSB"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RSM"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.RTC"
+msgstr "Se-China"
+
+msgid "ISO_639-3.RTH"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.RTM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RTS"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.RUC"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.RUE"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.RUG"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RUK"
+msgstr "Se-China"
+
+msgid "ISO_639-3.RUO"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RUP"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RUQ"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RUS"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.RUZ"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.RWO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RWR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RXD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RXW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.RYN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.RYU"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SAB"
+msgstr "Se-China"
+
+msgid "ISO_639-3.SAC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SAE"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SAF"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SAK"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SAM"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SAO"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.SAT"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SAU"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SAW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SAY"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SBD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SBE"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.SBI"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SBK"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SBL"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SBM"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.SBS"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SBV"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SBX"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SBY"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.SCE"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.SCH"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SCK"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SDC"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SDF"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SDG"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SDH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SDK"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.SDN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SDR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SDS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SEA"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SED"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SEH"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SEI"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SEJ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SEK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SEO"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SER"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SET"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SEZ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SFW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SGB"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.SGD"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SGE"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SGK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SGR"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SGS"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.SGY"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SHC"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SHD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SHJ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SHO"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SHQ"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.SHT"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SHU"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.SHV"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SHW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SHY"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.SIB"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SIK"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SIN"
+msgstr "Se-Vietnamese"
+
+msgid "ISO_639-3.SIQ"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SIR"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SIU"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SIV"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SIW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SIX"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SIZ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SJA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SJP"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.SJW"
+msgstr "Se-China"
+
+msgid "ISO_639-3.SKB"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SKC"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SKD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SKH"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SKI"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SKK"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SKM"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.SKQ"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SKR"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SKS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SKT"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SLH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SLI"
+msgstr "Se-German"
+
+msgid "ISO_639-3.SLK"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SLL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SLN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SLT"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SLU"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.SLV"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SLZ"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.SMA"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SME"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SMH"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SMK"
+msgstr "Se-China"
+
+msgid "ISO_639-3.SML"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SMM"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.SMN"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SMP"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SMQ"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.SMU"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.SMY"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SNK"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SNL"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SNM"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SNO"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.SNP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SNR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SNV"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SOA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.SOG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SOH"
+msgstr "Seburu"
+
+msgid "ISO_639-3.SOJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SOP"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SOQ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.SOS"
+msgstr "Segerika"
+
+msgid "ISO_639-3.SOT"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SOU"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SOW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SOX"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SOZ"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.SPA"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.SPB"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.SPG"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SPI"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SPS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.SPU"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.SPV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SQM"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SQR"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.SQU"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.SRA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SRB"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SRC"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SRD"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SRE"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SRF"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SRI"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SRN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SRO"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SRP"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SRS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SRT"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.SRV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SRW"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SRY"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SSB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SSE"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.SSF"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.SSG"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SSH"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.SSI"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.SSJ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SSK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.SSN"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.SSQ"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SST"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.SSU"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.SSW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SSY"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.STB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.STD"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.STH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.STK"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.STM"
+msgstr "Se-German"
+
+msgid "ISO_639-3.STO"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.STP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.STU"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SUE"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SUQ"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SUX"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SVA"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.SVE"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SVX"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.SWE"
+msgstr "Se-Swedish"
+
+msgid "ISO_639-3.SWF"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.SWG"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SWJ"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SWK"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SWM"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.SWO"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SWP"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.SWQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.SWS"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-3.SWV"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SWW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SXC"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.SXK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.SXL"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SXM"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SXN"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SXS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.SYA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.SYB"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SYM"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.SYR"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SYX"
+msgstr "Seswati"
+
+msgid "ISO_639-3.SZL"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.SZN"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-3.SZW"
+msgstr "Seswati"
+
+msgid "ISO_639-3.TAA"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.TAB"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.TAD"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.TAE"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.TAG"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TAK"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TAL"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TAM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TAO"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TAR"
+msgstr "Seswati"
+
+msgid "ISO_639-3.TAU"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.TAW"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TAX"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TBA"
+msgstr "Seburu"
+
+msgid "ISO_639-3.TBC"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TBE"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TBF"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TBG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.TBI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TBO"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.TBX"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TCC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.TCD"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TCE"
+msgstr "Se-China"
+
+msgid "ISO_639-3.TCP"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.TCQ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TCU"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TCY"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TCZ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.TDB"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.TDH"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TDI"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.TDJ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TDM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TEC"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.TEK"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TEY"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TFN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.TGB"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.TGD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.TGI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TGJ"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.TGN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TGR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.TGT"
+msgstr "Seswati"
+
+msgid "ISO_639-3.TGX"
+msgstr "Se-Danish"
+
+msgid "ISO_639-3.TGZ"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.THA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.THE"
+msgstr "Se-China"
+
+msgid "ISO_639-3.THF"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.THH"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.THN"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.THR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.THS"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.THU"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.THW"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.THY"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TIF"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TII"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TIP"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TIU"
+msgstr "Seburu"
+
+msgid "ISO_639-3.TIX"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TJI"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TJL"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TJS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TKB"
+msgstr "Se-China"
+
+msgid "ISO_639-3.TLA"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TLD"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TLH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TLK"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TLO"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TLR"
+msgstr "Se-China"
+
+msgid "ISO_639-3.TLT"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.TLU"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TLV"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TMD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.TMK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TMN"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.TMS"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.TMW"
+msgstr "Se-German"
+
+msgid "ISO_639-3.TMY"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TNA"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.TNH"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.TNI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TNM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TNN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TNQ"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.TOD"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.TOM"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TOW"
+msgstr "Segerika"
+
+msgid "ISO_639-3.TOX"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.TPF"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TPM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TPY"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TQL"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TRA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TRD"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TRE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.TRH"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TRJ"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TRM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TRR"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.TSB"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TSD"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-3.TSH"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TSI"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.TSP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TSW"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.TSX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.TTB"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TTG"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.TTI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TTM"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TTR"
+msgstr "Se-German"
+
+msgid "ISO_639-3.TTS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TTV"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.TTW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TTY"
+msgstr "Seswati"
+
+msgid "ISO_639-3.TUF"
+msgstr "Seswati"
+
+msgid "ISO_639-3.TUG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TUH"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.TUI"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TUL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TUR"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TUY"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.TUZ"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-3.TVD"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TVL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.TVW"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TWA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TWE"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.TWF"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TWL"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.TWM"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.TWN"
+msgstr "Se-Swedish"
+
+msgid "ISO_639-3.TWR"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.TWU"
+msgstr "Se-German"
+
+msgid "ISO_639-3.TWW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.TXA"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-3.TXH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TXN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.TXR"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.TXX"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.TYE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.TYJ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TYN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.TZH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TZL"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.TZO"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.TZX"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.UAN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.UDG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.UDL"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.UHA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.UHN"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.UIS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.UKA"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.UKR"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.ULI"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.ULK"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.ULW"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.UMC"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.UMN"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.UMS"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.UNG"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.UNM"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.UNN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.UNR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.UNU"
+msgstr "Seswati"
+
+msgid "ISO_639-3.UNX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.UPI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.URA"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.URC"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.URG"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.URM"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.URN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.URT"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.USP"
+msgstr "Se-Esperanto"
+
+msgid "ISO_639-3.UTA"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.UTE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.UZN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.UZS"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.VAF"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.VAJ"
+msgstr "Se-China"
+
+msgid "ISO_639-3.VAN"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.VAS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.VAV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.VBB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.VBK"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.VEC"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.VED"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VEN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VGR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.VID"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VIE"
+msgstr "Se-Vietnamese"
+
+msgid "ISO_639-3.VIN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VIV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VKJ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.VKK"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.VKM"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.VKO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.VKP"
+msgstr "Sepotokisi sa Brazil"
+
+msgid "ISO_639-3.VMB"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.VMD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.VME"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.VMG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VMH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.VMR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.VNK"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.VRA"
+msgstr "Se-German"
+
+msgid "ISO_639-3.VRS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.VRT"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.WAD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WAE"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.WAI"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.WAL"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.WAN"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WAO"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WAQ"
+msgstr "Se-German"
+
+msgid "ISO_639-3.WAS"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WAV"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WAW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WAX"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WBA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WBB"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WBF"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WBH"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WBI"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.WBJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WBL"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WDK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WED"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WEH"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WEU"
+msgstr "Se-China"
+
+msgid "ISO_639-3.WGI"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WHG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.WHU"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.WIB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.WII"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WJA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WJI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WKB"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.WKL"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.WKU"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WLA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WLE"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.WLG"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.WLK"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WLN"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WLR"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WLS"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.WLW"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WLY"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.WMC"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WMD"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.WMI"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-3.WMM"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.WMS"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WMW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WMX"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WNO"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WNP"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WOB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.WOD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.WOE"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.WOO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WOR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WPC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WRB"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WRK"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WRN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.WRO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WRP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.WRS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WRY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WSI"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.WSK"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.WSS"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.WSU"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-3.WTM"
+msgstr "Seswati"
+
+msgid "ISO_639-3.WUU"
+msgstr "Se-China"
+
+msgid "ISO_639-3.WUX"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.WWA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WWB"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.WWR"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.WWW"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.WXW"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.XAB"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.XAC"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.XAD"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.XAE"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.XAG"
+msgstr "Seburu"
+
+msgid "ISO_639-3.XAJ"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.XAL"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.XAO"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.XAQ"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.XAR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.XAU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.XAW"
+msgstr "Se-German"
+
+msgid "ISO_639-3.XBC"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.XBD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XBE"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.XBG"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.XBM"
+msgstr "Se-Breton"
+
+msgid "ISO_639-3.XBN"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XBO"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.XBR"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XBY"
+msgstr "Seswati"
+
+msgid "ISO_639-3.XCL"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.XCO"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.XCR"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.XCU"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.XCY"
+msgstr "Se-China"
+
+msgid "ISO_639-3.XDA"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XDC"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.XDY"
+msgstr "Se-China"
+
+msgid "ISO_639-3.XFA"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.XGA"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.XGD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XGG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XGI"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XGL"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XGM"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.XGR"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XHA"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.XHE"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.XHO"
+msgstr "Sethosa"
+
+msgid "ISO_639-3.XHR"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.XHU"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.XHV"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.XIB"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.XIL"
+msgstr "Se-Italian"
+
+msgid "ISO_639-3.XIS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XJT"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XKB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.XKD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XKE"
+msgstr "Seheberu"
+
+msgid "ISO_639-3.XKJ"
+msgstr "Seswati"
+
+msgid "ISO_639-3.XKP"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XKQ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XKT"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.XKX"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XKY"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XKZ"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.XLC"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.XLD"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.XLE"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.XLI"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.XLN"
+msgstr "Se-Icelandic"
+
+msgid "ISO_639-3.XLS"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.XME"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.XMF"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.XMJ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XMK"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.XMO"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XMU"
+msgstr "Seswati"
+
+msgid "ISO_639-3.XMX"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.XNG"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.XNH"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XNI"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XNK"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.XNN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.XNR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.XNS"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XNT"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XOD"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XOG"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XON"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XOP"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XOW"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XPA"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.XPI"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.XPR"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.XPT"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XQA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XQT"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XRE"
+msgstr "Segerika"
+
+msgid "ISO_639-3.XRG"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.XRM"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.XRN"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.XRQ"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XRU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XRW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XSA"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XSB"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.XSE"
+msgstr "Se-German"
+
+msgid "ISO_639-3.XSM"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XSO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XSR"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-3.XSS"
+msgstr "Se-Russian"
+
+msgid "ISO_639-3.XSV"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-3.XTV"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XTW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.XTZ"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-3.XUL"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XUM"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.XUN"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XUR"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-3.XUU"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XVI"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.XVN"
+msgstr "Seswati"
+
+msgid "ISO_639-3.XVO"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.XVS"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-3.XWA"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.XWC"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.XWK"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.XXB"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.XXR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.XXT"
+msgstr "Se-German"
+
+msgid "ISO_639-3.XYB"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.XYL"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.XZM"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-3.YAK"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.YAN"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.YAP"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.YAR"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.YBA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.YBJ"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.YBK"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.YBM"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YCH"
+msgstr "Se-China"
+
+msgid "ISO_639-3.YCL"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.YCP"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-3.YDA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YEC"
+msgstr "Se-French"
+
+msgid "ISO_639-3.YEJ"
+msgstr "Se-Icelandic"
+
+msgid "ISO_639-3.YES"
+msgstr "Seswati"
+
+msgid "ISO_639-3.YEV"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YGA"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.YGI"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.YGP"
+msgstr "Segerika"
+
+msgid "ISO_639-3.YGR"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.YGS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YGW"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YHA"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YHD"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.YHS"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YIF"
+msgstr "Se-China"
+
+msgid "ISO_639-3.YIM"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-3.YIP"
+msgstr "Se-China"
+
+msgid "ISO_639-3.YIQ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YIR"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YIU"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.YIV"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.YIX"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.YKA"
+msgstr "Seburu"
+
+msgid "ISO_639-3.YKG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.YKL"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.YKM"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.YKO"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.YKT"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-3.YKU"
+msgstr "Se-Basque"
+
+msgid "ISO_639-3.YLB"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.YLE"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.YLM"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.YLO"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.YMB"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-3.YMC"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.YMD"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YMH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YMI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YMM"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.YMN"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.YMR"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.YMS"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.YMX"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.YMZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YNA"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.YNE"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.YNN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YNQ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YNS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.YOG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YOI"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YOL"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YPA"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.YPG"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.YPH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.YPM"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YPO"
+msgstr "Se-Polish"
+
+msgid "ISO_639-3.YPP"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.YPZ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.YRY"
+msgstr "Se-Catalan"
+
+msgid "ISO_639-3.YSD"
+msgstr "Seswati"
+
+msgid "ISO_639-3.YSN"
+msgstr "Se-Spanish"
+
+msgid "ISO_639-3.YSP"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.YSY"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.YTA"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.YTL"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.YTP"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.YUC"
+msgstr "Se-Dutch"
+
+msgid "ISO_639-3.YUD"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-3.YUE"
+msgstr "Se-China"
+
+msgid "ISO_639-3.YUL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.YUX"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.YVA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YWG"
+msgstr "Se-Galician"
+
+msgid "ISO_639-3.YXA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.YXG"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.YYZ"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.YZG"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.YZK"
+msgstr "Sethosa"
+
+msgid "ISO_639-3.ZAG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZAH"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZAJ"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-3.ZAK"
+msgstr "Seswati"
+
+msgid "ISO_639-3.ZAL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.ZAZ"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZBC"
+msgstr "Seswati"
+
+msgid "ISO_639-3.ZBE"
+msgstr "Se-German"
+
+msgid "ISO_639-3.ZBT"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-3.ZBW"
+msgstr "Se-German"
+
+msgid "ISO_639-3.ZEG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ZGB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZGM"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZGN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZGR"
+msgstr "Seswati"
+
+msgid "ISO_639-3.ZHN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZHO"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ZHW"
+msgstr "Sethosa"
+
+msgid "ISO_639-3.ZIM"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.ZIW"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.ZKH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ZKN"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ZKT"
+msgstr "Se-Occitan"
+
+msgid "ISO_639-3.ZKU"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ZKV"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-3.ZKZ"
+msgstr "Se-Thai"
+
+msgid "ISO_639-3.ZLJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZLN"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-3.ZLQ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZMC"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZMD"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZMG"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZML"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.ZMS"
+msgstr "Se-Farsi"
+
+msgid "ISO_639-3.ZMT"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZMU"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZMY"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZMZ"
+msgstr "Se-Venda"
+
+msgid "ISO_639-3.ZNS"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-3.ZOM"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.ZPC"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ZPD"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZPV"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ZQE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZRG"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-3.ZRN"
+msgstr "Segerika"
+
+msgid "ISO_639-3.ZRS"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZSA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZSK"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ZSM"
+msgstr "Seswati"
+
+msgid "ISO_639-3.ZSR"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZSU"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.ZUH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-3.ZUL"
+msgstr "Se-Zulu"
+
+msgid "ISO_639-3.ZUM"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-3.ZYB"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZYG"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZYJ"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZYN"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-3.ZYP"
+msgstr "Se-China"
+
+msgid "ISO_639-3.ZZA"
+msgstr "Se-Maori"
+
+msgid "ISO_639-3.ZZJ"
+msgstr "Ya Lebowa la Sami"

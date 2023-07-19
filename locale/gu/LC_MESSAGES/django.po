@@ -1,0 +1,2564 @@
+# Translation of ISO 639-3 (gu.po) to Gujarati
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+# Ankit Patel <ankit644@yahoo.com>, 2009.
+# Sweta Kothari <swkothar@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-07-30 17:02+0530\n"
+"Last-Translator: Ankit Patel <ankit644@yahoo.com>\n"
+"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "ISO_639-3.AAA"
+msgstr "ઘોતુઓ"
+
+msgid "ISO_639-3.AAB"
+msgstr "એલ્યુમુ-તેસુ"
+
+msgid "ISO_639-3.AAC"
+msgstr "અરી"
+
+msgid "ISO_639-3.AAD"
+msgstr "અલ્બેનિયન, અર્બેરેશે"
+
+msgid "ISO_639-3.AAF"
+msgstr "અરાનંદન"
+
+msgid "ISO_639-3.AAG"
+msgstr "અર્પેશ, આબુ'"
+
+msgid "ISO_639-3.AAI"
+msgstr "અરિફામા-મિનીઆફીઆ"
+
+msgid "ISO_639-3.AAL"
+msgstr "અફાડે"
+
+msgid "ISO_639-3.AAN"
+msgstr "અનામ્બે"
+
+msgid "ISO_639-3.AAO"
+msgstr "અરારા, પારા"
+
+msgid "ISO_639-3.AAR"
+msgstr "અફાર"
+
+msgid "ISO_639-3.AAS"
+msgstr "આસાક્ષ"
+
+msgid "ISO_639-3.AAU"
+msgstr "અબાઉ"
+
+msgid "ISO_639-3.AAW"
+msgstr "સોલોન્ગ"
+
+msgid "ISO_639-3.ABA"
+msgstr "અબે"
+
+msgid "ISO_639-3.ABB"
+msgstr "અયતા, અમ્બાલા"
+
+msgid "ISO_639-3.ABD"
+msgstr "માન્સી"
+
+msgid "ISO_639-3.ABG"
+msgstr "અબાગા"
+
+msgid "ISO_639-3.ABH"
+msgstr "અરેબિક, તાજીકી"
+
+msgid "ISO_639-3.ABN"
+msgstr "અબુઆ"
+
+msgid "ISO_639-3.ABO"
+msgstr "અયતા, અમ્બાલા"
+
+msgid "ISO_639-3.ABQ"
+msgstr "અબાઝા"
+
+msgid "ISO_639-3.ABR"
+msgstr "અબ્રોન"
+
+msgid "ISO_639-3.ABT"
+msgstr "ઍમ્બ્યુલસ"
+
+msgid "ISO_639-3.ABU"
+msgstr "ઍબુરે"
+
+msgid "ISO_639-3.ABV"
+msgstr "અરેબિક, બહાર્ના"
+
+msgid "ISO_639-3.ABW"
+msgstr "પલ"
+
+msgid "ISO_639-3.ABZ"
+msgstr "અબુઇ"
+
+msgid "ISO_639-3.ACA"
+msgstr "અચાગુઆ"
+
+msgid "ISO_639-3.ACB"
+msgstr "ઍન્કા"
+
+msgid "ISO_639-3.ACD"
+msgstr "ગીકયોડ"
+
+msgid "ISO_639-3.ACE"
+msgstr "અચીની"
+
+msgid "ISO_639-3.ACH"
+msgstr "આકોલી"
+
+msgid "ISO_639-3.ACI"
+msgstr "અકા-કરી"
+
+msgid "ISO_639-3.ACK"
+msgstr "અકા-કોરા"
+
+msgid "ISO_639-3.ACL"
+msgstr "અકાર-બાલે"
+
+msgid "ISO_639-3.ACN"
+msgstr "અચાન્ગ"
+
+msgid "ISO_639-3.ACR"
+msgstr "અચી"
+
+msgid "ISO_639-3.ACW"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.ACX"
+msgstr "અરેબિક, ઓમાની"
+
+msgid "ISO_639-3.ACY"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.ACZ"
+msgstr "અચેરોન"
+
+msgid "ISO_639-3.ADB"
+msgstr "અદાબે"
+
+msgid "ISO_639-3.ADE"
+msgstr "અદેલે"
+
+msgid "ISO_639-3.ADF"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.ADI"
+msgstr "આદી"
+
+msgid "ISO_639-3.ADL"
+msgstr "ગાલો"
+
+msgid "ISO_639-3.ADN"
+msgstr "અદાન્ગ"
+
+msgid "ISO_639-3.ADO"
+msgstr "આબુ"
+
+msgid "ISO_639-3.ADQ"
+msgstr "અદાન્ગબે"
+
+msgid "ISO_639-3.ADR"
+msgstr "અદોનારા"
+
+msgid "ISO_639-3.ADU"
+msgstr "અદુગે"
+
+msgid "ISO_639-3.ADW"
+msgstr "અમુન્દાવા"
+
+msgid "ISO_639-3.AEA"
+msgstr "અરેબા"
+
+msgid "ISO_639-3.AEC"
+msgstr "અરેબિક, સાઇદી"
+
+msgid "ISO_639-3.AEE"
+msgstr "થાઇ, ઉત્તરી"
+
+msgid "ISO_639-3.AEL"
+msgstr "અમ્બેલે"
+
+msgid "ISO_639-3.AEM"
+msgstr "એરેમ"
+
+msgid "ISO_639-3.AEN"
+msgstr "અર્મેનિયન સાઇન ભાષા"
+
+msgid "ISO_639-3.AEY"
+msgstr "અમેલે"
+
+msgid "ISO_639-3.AEZ"
+msgstr "એકા"
+
+msgid "ISO_639-3.AFB"
+msgstr "અરેબિક, ગલ્ફ"
+
+msgid "ISO_639-3.AFD"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.AFG"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.AFN"
+msgstr "ડેફાકા"
+
+msgid "ISO_639-3.AFP"
+msgstr "તાપેઇ"
+
+msgid "ISO_639-3.AFR"
+msgstr "આફ્રિકન્સ"
+
+msgid "ISO_639-3.AGL"
+msgstr "ફૅમ્બે"
+
+msgid "ISO_639-3.AGY"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AHL"
+msgstr "ઇગો"
+
+msgid "ISO_639-3.AIY"
+msgstr "અલી"
+
+msgid "ISO_639-3.AJN"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.AKA"
+msgstr "અકાન"
+
+msgid "ISO_639-3.ALT"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AMS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AOF"
+msgstr "બ્રગત"
+
+msgid "ISO_639-3.AOH"
+msgstr "અર્મા"
+
+msgid "ISO_639-3.AOT"
+msgstr "અરેબિક, બહાર્ના"
+
+msgid "ISO_639-3.APO"
+msgstr "અપાચી, પશ્ચિમી"
+
+msgid "ISO_639-3.AQN"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AQZ"
+msgstr "અકુકુ"
+
+msgid "ISO_639-3.ARA"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.ARS"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.ARZ"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.ASM"
+msgstr "આસામી"
+
+msgid "ISO_639-3.ASO"
+msgstr "ડાનો"
+
+msgid "ISO_639-3.ATV"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AUD"
+msgstr "અનુતા"
+
+msgid "ISO_639-3.AUG"
+msgstr "અગુના"
+
+msgid "ISO_639-3.AUK"
+msgstr "હેયો"
+
+msgid "ISO_639-3.AUT"
+msgstr "ઓસ્ટ્રલ"
+
+msgid "ISO_639-3.AUZ"
+msgstr "અરેબિક, ઉઝબેકી"
+
+msgid "ISO_639-3.AVK"
+msgstr "કોટાવા"
+
+msgid "ISO_639-3.AVT"
+msgstr "ઔ"
+
+msgid "ISO_639-3.AWA"
+msgstr "અવધી"
+
+msgid "ISO_639-3.AWX"
+msgstr "આવારા"
+
+msgid "ISO_639-3.AXL"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AYA"
+msgstr "અવાર"
+
+msgid "ISO_639-3.AYC"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.AYH"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.AYK"
+msgstr "અકુકુ"
+
+msgid "ISO_639-3.AYL"
+msgstr "અરેબિક, લીબયાન"
+
+msgid "ISO_639-3.AYN"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.AYS"
+msgstr "સોથો, ઉત્તરી"
+
+msgid "ISO_639-3.BAE"
+msgstr "બારે"
+
+msgid "ISO_639-3.BAF"
+msgstr "નુબાકા"
+
+msgid "ISO_639-3.BAG"
+msgstr "તુકી"
+
+msgid "ISO_639-3.BAK"
+msgstr "બાશકીર"
+
+msgid "ISO_639-3.BAL"
+msgstr "બાલુચી"
+
+msgid "ISO_639-3.BAM"
+msgstr "બમ્બારા"
+
+msgid "ISO_639-3.BAV"
+msgstr "વૅન્ગો"
+
+msgid "ISO_639-3.BAX"
+msgstr "બામુન"
+
+msgid "ISO_639-3.BBB"
+msgstr "બારાઇ"
+
+msgid "ISO_639-3.BBD"
+msgstr "બાઉ"
+
+msgid "ISO_639-3.BBE"
+msgstr "બાન્ગબા"
+
+msgid "ISO_639-3.BBF"
+msgstr "બાઇબાઇ"
+
+msgid "ISO_639-3.BBG"
+msgstr "બારામા"
+
+msgid "ISO_639-3.BBH"
+msgstr "બુગાન"
+
+msgid "ISO_639-3.BBI"
+msgstr "બારોમ્બી"
+
+msgid "ISO_639-3.BBQ"
+msgstr "બામલી"
+
+msgid "ISO_639-3.BBW"
+msgstr "બાબા"
+
+msgid "ISO_639-3.BBX"
+msgstr "બુબીઆ"
+
+msgid "ISO_639-3.BBY"
+msgstr "બેફાન્ગ"
+
+msgid "ISO_639-3.BCC"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.BCF"
+msgstr "બામુ"
+
+msgid "ISO_639-3.BCG"
+msgstr "બાગા, બીનારી"
+
+msgid "ISO_639-3.BCJ"
+msgstr "બાર્ડી"
+
+msgid "ISO_639-3.BCK"
+msgstr "બુનાબા"
+
+msgid "ISO_639-3.BCO"
+msgstr "કાલુલી"
+
+msgid "ISO_639-3.BCQ"
+msgstr "બૅન્ચ"
+
+msgid "ISO_639-3.BCT"
+msgstr "બૅન્ડી"
+
+msgid "ISO_639-3.BCW"
+msgstr "બાના"
+
+msgid "ISO_639-3.BCY"
+msgstr "બાકામા"
+
+msgid "ISO_639-3.BDA"
+msgstr "બાયોત"
+
+msgid "ISO_639-3.BDD"
+msgstr "બુનામા"
+
+msgid "ISO_639-3.BDE"
+msgstr "બાદે"
+
+msgid "ISO_639-3.BDF"
+msgstr "બાદે"
+
+msgid "ISO_639-3.BDH"
+msgstr "બાકા (સુદાન)"
+
+msgid "ISO_639-3.BDI"
+msgstr "બુરુન"
+
+msgid "ISO_639-3.BDJ"
+msgstr "બાઇ"
+
+msgid "ISO_639-3.BDK"
+msgstr "બુદુખ"
+
+msgid "ISO_639-3.BDL"
+msgstr "બજાઉ, ઇન્ડોનેશિયન"
+
+msgid "ISO_639-3.BDM"
+msgstr "બુદુમા"
+
+msgid "ISO_639-3.BDO"
+msgstr "મોરોમ"
+
+msgid "ISO_639-3.BDP"
+msgstr "બેન્દે"
+
+msgid "ISO_639-3.BDS"
+msgstr "બુરુન્ગે"
+
+msgid "ISO_639-3.BDT"
+msgstr "બોકોટો"
+
+msgid "ISO_639-3.BDU"
+msgstr "ઑરોકો"
+
+msgid "ISO_639-3.BEB"
+msgstr "બેબેલે"
+
+msgid "ISO_639-3.BEJ"
+msgstr "બેજા"
+
+msgid "ISO_639-3.BEN"
+msgstr "બાન્ગબા"
+
+msgid "ISO_639-3.BFA"
+msgstr "બારેલી, પાલ્યા"
+
+msgid "ISO_639-3.BFD"
+msgstr "બફુટ"
+
+msgid "ISO_639-3.BFE"
+msgstr "બેતાફ"
+
+msgid "ISO_639-3.BFF"
+msgstr "બોફી"
+
+msgid "ISO_639-3.BFG"
+msgstr "બાનકોન"
+
+msgid "ISO_639-3.BFH"
+msgstr "બ્લાફે"
+
+msgid "ISO_639-3.BFI"
+msgstr "બ્રિટીશ સાઇન ભાષા"
+
+msgid "ISO_639-3.BFN"
+msgstr "બુનાક"
+
+msgid "ISO_639-3.BFP"
+msgstr "બેબા"
+
+msgid "ISO_639-3.BFR"
+msgstr "બાઝીગર"
+
+msgid "ISO_639-3.BFS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.BFT"
+msgstr "બાલ્ટી"
+
+msgid "ISO_639-3.BFW"
+msgstr "બોન્દો"
+
+msgid "ISO_639-3.BFX"
+msgstr "બાનકોન"
+
+msgid "ISO_639-3.BFY"
+msgstr "બરેલી, રાથવી"
+
+msgid "ISO_639-3.BGG"
+msgstr "બુગુન"
+
+msgid "ISO_639-3.BGK"
+msgstr "બાલોચી, પશ્ચિમી"
+
+msgid "ISO_639-3.BGO"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.BGQ"
+msgstr "બાગ્રી"
+
+msgid "ISO_639-3.BGW"
+msgstr "ભાત્રી"
+
+msgid "ISO_639-3.BHA"
+msgstr "ભારીઆ"
+
+msgid "ISO_639-3.BHC"
+msgstr "બીગા"
+
+msgid "ISO_639-3.BHE"
+msgstr "ભાયા"
+
+msgid "ISO_639-3.BHI"
+msgstr "ભિલાલી"
+
+msgid "ISO_639-3.BHM"
+msgstr "બાથરી"
+
+msgid "ISO_639-3.BHO"
+msgstr "ભોજપુરી"
+
+msgid "ISO_639-3.BHP"
+msgstr "બીમા"
+
+msgid "ISO_639-3.BHS"
+msgstr "બુવાલ"
+
+msgid "ISO_639-3.BHX"
+msgstr "ભલય"
+
+msgid "ISO_639-3.BHY"
+msgstr "ભેલે"
+
+msgid "ISO_639-3.BHZ"
+msgstr "બાદા (ઇન્ડોનેશિયા)"
+
+msgid "ISO_639-3.BIC"
+msgstr "બિકારુ"
+
+msgid "ISO_639-3.BIK"
+msgstr "બિકોલ"
+
+msgid "ISO_639-3.BIL"
+msgstr "બિલે"
+
+msgid "ISO_639-3.BIM"
+msgstr "બિમોબા"
+
+msgid "ISO_639-3.BIN"
+msgstr "બિની"
+
+msgid "ISO_639-3.BIO"
+msgstr "નાઇ"
+
+msgid "ISO_639-3.BIP"
+msgstr "બિલા"
+
+msgid "ISO_639-3.BIQ"
+msgstr "બિપી"
+
+msgid "ISO_639-3.BIS"
+msgstr "બિસ્લામા"
+
+msgid "ISO_639-3.BIV"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.BIX"
+msgstr "બિજોરી"
+
+msgid "ISO_639-3.BIY"
+msgstr "બિરહોર"
+
+msgid "ISO_639-3.BIZ"
+msgstr "બાલોઇ"
+
+msgid "ISO_639-3.BJO"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.BJY"
+msgstr "બાયાલી"
+
+msgid "ISO_639-3.BJZ"
+msgstr "બારુગા"
+
+msgid "ISO_639-3.BKA"
+msgstr "ક્યાક"
+
+msgid "ISO_639-3.BKG"
+msgstr "બુરાકા"
+
+msgid "ISO_639-3.BKH"
+msgstr "બાકોકો"
+
+msgid "ISO_639-3.BKI"
+msgstr "સોથો, ઉત્તરી"
+
+msgid "ISO_639-3.BKT"
+msgstr "બોલોકી"
+
+msgid "ISO_639-3.BLD"
+msgstr "બોલાંગો"
+
+msgid "ISO_639-3.BLG"
+msgstr "બાલાઉ"
+
+msgid "ISO_639-3.BLI"
+msgstr "બોલીઆ "
+
+msgid "ISO_639-3.BLL"
+msgstr "બિલોક્ષી"
+
+msgid "ISO_639-3.BLM"
+msgstr "બેલી (સુદાન)"
+
+msgid "ISO_639-3.BLV"
+msgstr "બોલો"
+
+msgid "ISO_639-3.BMB"
+msgstr "બૅમ્બે"
+
+msgid "ISO_639-3.BMD"
+msgstr "બાગા, બીનારી"
+
+msgid "ISO_639-3.BMF"
+msgstr "બોમ"
+
+msgid "ISO_639-3.BMG"
+msgstr "બામ્વે"
+
+msgid "ISO_639-3.BML"
+msgstr "બૉમ્બોલી"
+
+msgid "ISO_639-3.BMQ"
+msgstr "બોમુ"
+
+msgid "ISO_639-3.BMV"
+msgstr "બુમ"
+
+msgid "ISO_639-3.BMW"
+msgstr "બોમવાલી"
+
+msgid "ISO_639-3.BNC"
+msgstr "બોન્દો"
+
+msgid "ISO_639-3.BNG"
+msgstr "બેન્ગા"
+
+msgid "ISO_639-3.BNI"
+msgstr "બાન્ગી"
+
+msgid "ISO_639-3.BNN"
+msgstr "બુનુન"
+
+msgid "ISO_639-3.BNP"
+msgstr "બોલા"
+
+msgid "ISO_639-3.BNQ"
+msgstr "બાન્ટીક"
+
+msgid "ISO_639-3.BOA"
+msgstr "બોરા"
+
+msgid "ISO_639-3.BOF"
+msgstr "બોલોન"
+
+msgid "ISO_639-3.BOH"
+msgstr "બોમા"
+
+msgid "ISO_639-3.BOJ"
+msgstr "અન્જામ"
+
+msgid "ISO_639-3.BOK"
+msgstr "બોન્જો"
+
+msgid "ISO_639-3.BOL"
+msgstr "બોલે"
+
+msgid "ISO_639-3.BOM"
+msgstr "બૅરોમ"
+
+msgid "ISO_639-3.BON"
+msgstr "બિને"
+
+msgid "ISO_639-3.BOT"
+msgstr "બોન્ગો"
+
+msgid "ISO_639-3.BOW"
+msgstr "રૅમા"
+
+msgid "ISO_639-3.BPH"
+msgstr "બોટલીખ"
+
+msgid "ISO_639-3.BPI"
+msgstr "બાગુપી"
+
+msgid "ISO_639-3.BPK"
+msgstr "ઑરોવે"
+
+msgid "ISO_639-3.BPQ"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.BPU"
+msgstr "બૉન્ગુ"
+
+msgid "ISO_639-3.BPV"
+msgstr "બારેલી, પાલ્યા"
+
+msgid "ISO_639-3.BQB"
+msgstr "બાગુસા"
+
+msgid "ISO_639-3.BQC"
+msgstr "બોકો (બેનિન)"
+
+msgid "ISO_639-3.BQO"
+msgstr "બાલો"
+
+msgid "ISO_639-3.BQP"
+msgstr "બુસા"
+
+msgid "ISO_639-3.BQU"
+msgstr "બોગુરુ"
+
+msgid "ISO_639-3.BRA"
+msgstr "બ્રજ"
+
+msgid "ISO_639-3.BRB"
+msgstr "લાવે"
+
+msgid "ISO_639-3.BRE"
+msgstr "બ્રેટન"
+
+msgid "ISO_639-3.BRF"
+msgstr "બેરા"
+
+msgid "ISO_639-3.BRN"
+msgstr "બૉરુકા"
+
+msgid "ISO_639-3.BRQ"
+msgstr "બ્રેરી"
+
+msgid "ISO_639-3.BRS"
+msgstr "બારસ"
+
+msgid "ISO_639-3.BRU"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.BRX"
+msgstr "બોદો (ભારત)"
+
+msgid "ISO_639-3.BRY"
+msgstr "બુરુઇ"
+
+msgid "ISO_639-3.BSM"
+msgstr "બુસામી"
+
+msgid "ISO_639-3.BSO"
+msgstr "બુસો"
+
+msgid "ISO_639-3.BTA"
+msgstr "બાટા"
+
+msgid "ISO_639-3.BTQ"
+msgstr "બાટેક"
+
+msgid "ISO_639-3.BTU"
+msgstr "બાટુ"
+
+msgid "ISO_639-3.BTY"
+msgstr "બોબોટ"
+
+msgid "ISO_639-3.BUC"
+msgstr "બુશી"
+
+msgid "ISO_639-3.BUQ"
+msgstr "બ્રેમ"
+
+msgid "ISO_639-3.BUU"
+msgstr "બુદુ"
+
+msgid "ISO_639-3.BUV"
+msgstr "બુન"
+
+msgid "ISO_639-3.BUW"
+msgstr "બુબી"
+
+msgid "ISO_639-3.BUX"
+msgstr "બોગહોમ"
+
+msgid "ISO_639-3.BVB"
+msgstr "બુબે"
+
+msgid "ISO_639-3.BVH"
+msgstr "બુરે"
+
+msgid "ISO_639-3.BVK"
+msgstr "બુકાત"
+
+msgid "ISO_639-3.BVM"
+msgstr "બામુન્કા"
+
+msgid "ISO_639-3.BVN"
+msgstr "બુના"
+
+msgid "ISO_639-3.BVO"
+msgstr "બોલ્ગો"
+
+msgid "ISO_639-3.BVT"
+msgstr "મલય, બુકીટ"
+
+msgid "ISO_639-3.BVW"
+msgstr "બોગા"
+
+msgid "ISO_639-3.BVX"
+msgstr "ડિબોલે"
+
+msgid "ISO_639-3.BVY"
+msgstr "બાનકોન"
+
+msgid "ISO_639-3.BWF"
+msgstr "બોસેલેવા"
+
+msgid "ISO_639-3.BWG"
+msgstr "બાર્વે"
+
+msgid "ISO_639-3.BWQ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.BWS"
+msgstr "બોમ્બોમા"
+
+msgid "ISO_639-3.BWW"
+msgstr "બ્વા"
+
+msgid "ISO_639-3.BXD"
+msgstr "પૅલા"
+
+msgid "ISO_639-3.BXH"
+msgstr "બુહુતુ"
+
+msgid "ISO_639-3.BXK"
+msgstr "બુકુસુ"
+
+msgid "ISO_639-3.BXM"
+msgstr "મોન્ગોલિયન"
+
+msgid "ISO_639-3.BXN"
+msgstr "બુર્દુના"
+
+msgid "ISO_639-3.BXS"
+msgstr "બુસામ"
+
+msgid "ISO_639-3.BXU"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.BYH"
+msgstr "ભેલે"
+
+msgid "ISO_639-3.BZA"
+msgstr "બાન્દી"
+
+msgid "ISO_639-3.BZO"
+msgstr "બોઝાબા    "
+
+msgid "ISO_639-3.BZQ"
+msgstr "બુલી (ઇન્ડોનેશિયા)"
+
+msgid "ISO_639-3.BZS"
+msgstr "બ્રાઝિલીયન સાઇન ભાષા"
+
+msgid "ISO_639-3.BZU"
+msgstr "બર્મેસો"
+
+msgid "ISO_639-3.CAC"
+msgstr "ચુજ"
+
+msgid "ISO_639-3.CAF"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.CAJ"
+msgstr "ચાને"
+
+msgid "ISO_639-3.CAN"
+msgstr "ચામ્બ્રી"
+
+msgid "ISO_639-3.CAO"
+msgstr "ચાકોબો"
+
+msgid "ISO_639-3.CAP"
+msgstr "ચીપાયા"
+
+msgid "ISO_639-3.CAY"
+msgstr "કાયુગા"
+
+msgid "ISO_639-3.CBI"
+msgstr "ચાચી"
+
+msgid "ISO_639-3.CCE"
+msgstr "ચોપી"
+
+msgid "ISO_639-3.CCG"
+msgstr "સામ્બા લેકો"
+
+msgid "ISO_639-3.CEK"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.CJM"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.CKB"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.CMG"
+msgstr "મોન્ગોલિયન"
+
+msgid "ISO_639-3.CMR"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.CNG"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.CPI"
+msgstr "ચાઇનીઝ, મીન નાન"
+
+msgid "ISO_639-3.CRJ"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.CSS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.CTA"
+msgstr "તોપોકાનો"
+
+msgid "ISO_639-3.CYA"
+msgstr "નાગા, ચેન્ગ"
+
+msgid "ISO_639-3.DBA"
+msgstr "બાન્ગી"
+
+msgid "ISO_639-3.DGA"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.DGL"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.DHG"
+msgstr "માન્ગોલે"
+
+msgid "ISO_639-3.DHX"
+msgstr "નુન્ગાલી"
+
+msgid "ISO_639-3.DIK"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.DIP"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.DIW"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.DKS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.DLK"
+msgstr "નાહાલી"
+
+msgid "ISO_639-3.DTY"
+msgstr "ન્યાલી"
+
+msgid "ISO_639-3.EAA"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.EBK"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.EKC"
+msgstr "નીસુ, પૂર્વીય"
+
+msgid "ISO_639-3.EKY"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.EMU"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.ERK"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.ESG"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.FAL"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.FAY"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.FAZ"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.FMU"
+msgstr "મારી, પશ્ચિમી"
+
+msgid "ISO_639-3.FRP"
+msgstr "આફ્રિકન્સ"
+
+msgid "ISO_639-3.GAL"
+msgstr "ગાલો"
+
+msgid "ISO_639-3.GAN"
+msgstr "અચીની"
+
+msgid "ISO_639-3.GBJ"
+msgstr "બોદો (ભારત)"
+
+msgid "ISO_639-3.GDS"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.GHE"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.GHH"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.GIQ"
+msgstr "ગેલા"
+
+msgid "ISO_639-3.GIR"
+msgstr "ગેલા"
+
+msgid "ISO_639-3.GIU"
+msgstr "મુલામ"
+
+msgid "ISO_639-3.GIW"
+msgstr "ગેલા"
+
+msgid "ISO_639-3.GLH"
+msgstr "થાઇ, ઉત્તરી"
+
+msgid "ISO_639-3.GQU"
+msgstr "બાઉ"
+
+msgid "ISO_639-3.GRJ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.GUG"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.GUJ"
+msgstr "ગુજરાતી"
+
+msgid "ISO_639-3.GVR"
+msgstr "બુરુન્ગે"
+
+msgid "ISO_639-3.HAX"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HDN"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HIF"
+msgstr "હિન્દી"
+
+msgid "ISO_639-3.HIN"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.HMA"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HMP"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HMS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HMY"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HND"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.HPS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.IKR"
+msgstr "ગ્રાન્ગાલી"
+
+msgid "ISO_639-3.IKS"
+msgstr "બ્રાઝિલીયન સાઇન ભાષા"
+
+msgid "ISO_639-3.ILM"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.IMA"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.ITD"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.ITY"
+msgstr "મોદાન્ગ"
+
+msgid "ISO_639-3.JAN"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.JBK"
+msgstr "બારી"
+
+msgid "ISO_639-3.JJR"
+msgstr "બાનકોન"
+
+msgid "ISO_639-3.JKR"
+msgstr "બોદો (ભારત)"
+
+msgid "ISO_639-3.JLS"
+msgstr "અર્મેનિયન સાઇન ભાષા"
+
+msgid "ISO_639-3.KAK"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.KFB"
+msgstr "કુરુમ્બા, કન્નડ"
+
+msgid "ISO_639-3.KFL"
+msgstr "કુંગ"
+
+msgid "ISO_639-3.KFM"
+msgstr "ખુનસારી"
+
+msgid "ISO_639-3.KFN"
+msgstr "કુક"
+
+msgid "ISO_639-3.KFP"
+msgstr "કોર્વા"
+
+msgid "ISO_639-3.KFQ"
+msgstr "કોર્કુ"
+
+msgid "ISO_639-3.KFR"
+msgstr "કાચચી"
+
+msgid "ISO_639-3.KFS"
+msgstr "પહારી, કુલ્લુ"
+
+msgid "ISO_639-3.KGA"
+msgstr "કોયાગા"
+
+msgid "ISO_639-3.KGB"
+msgstr "કાવે"
+
+msgid "ISO_639-3.KGF"
+msgstr "કુબે"
+
+msgid "ISO_639-3.KGG"
+msgstr "કુસુંગા"
+
+msgid "ISO_639-3.KGJ"
+msgstr "નાગા, ખરમ"
+
+msgid "ISO_639-3.KHK"
+msgstr "મોન્ગોલિયન"
+
+msgid "ISO_639-3.KJD"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.KJV"
+msgstr "અર્મેનિયન સાઇન ભાષા"
+
+msgid "ISO_639-3.KLG"
+msgstr "થારાકા"
+
+msgid "ISO_639-3.KLJ"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.KLM"
+msgstr "મોગુમ"
+
+msgid "ISO_639-3.KMC"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.KMD"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.KQO"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.KSC"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.KSS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.KTS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.KTV"
+msgstr "બાલોચી, પૂર્વીય"
+
+msgid "ISO_639-3.KXM"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.KYS"
+msgstr "બારામા"
+
+msgid "ISO_639-3.LAA"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.LBK"
+msgstr "બોન્દો"
+
+msgid "ISO_639-3.LBL"
+msgstr "બિકોલ"
+
+msgid "ISO_639-3.LJW"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.LKU"
+msgstr "કુંગ"
+
+msgid "ISO_639-3.LRR"
+msgstr "નીસુ, દક્ષિણી"
+
+msgid "ISO_639-3.LSY"
+msgstr "બ્રાઝિલીયન સાઇન ભાષા"
+
+msgid "ISO_639-3.LTG"
+msgstr "લાલા"
+
+msgid "ISO_639-3.LUZ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.MAZ"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.MBF"
+msgstr "ભલય"
+
+msgid "ISO_639-3.MBS"
+msgstr "માદક"
+
+msgid "ISO_639-3.MCY"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.MDH"
+msgstr "મુન્દાન્ગ"
+
+msgid "ISO_639-3.MEL"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.MGP"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.MJB"
+msgstr "માનોબો, અગુસાન"
+
+msgid "ISO_639-3.MLF"
+msgstr "મલ"
+
+msgid "ISO_639-3.MLH"
+msgstr "મેપ"
+
+msgid "ISO_639-3.MLJ"
+msgstr "મિલ્તુ"
+
+msgid "ISO_639-3.MLM"
+msgstr "મુલામ"
+
+msgid "ISO_639-3.MLN"
+msgstr "માલાન્ગો"
+
+msgid "ISO_639-3.MLR"
+msgstr "વામે"
+
+msgid "ISO_639-3.MLV"
+msgstr "મોતલાવ"
+
+msgid "ISO_639-3.MLW"
+msgstr "મોલોકો"
+
+msgid "ISO_639-3.MMA"
+msgstr "મામા"
+
+msgid "ISO_639-3.MMB"
+msgstr "મોમીના"
+
+msgid "ISO_639-3.MMC"
+msgstr "મોપાન માયા"
+
+msgid "ISO_639-3.MME"
+msgstr "માઇ"
+
+msgid "ISO_639-3.MMI"
+msgstr "મુસાર"
+
+msgid "ISO_639-3.MMK"
+msgstr "મુખા-ડોરા"
+
+msgid "ISO_639-3.MMQ"
+msgstr "મુસાક"
+
+msgid "ISO_639-3.MMX"
+msgstr "માદક"
+
+msgid "ISO_639-3.MNB"
+msgstr "મુના"
+
+msgid "ISO_639-3.MND"
+msgstr "મોન્દે"
+
+msgid "ISO_639-3.MNE"
+msgstr "નાબા"
+
+msgid "ISO_639-3.MNI"
+msgstr "મણિપૂરી"
+
+msgid "ISO_639-3.MNM"
+msgstr "માપેના"
+
+msgid "ISO_639-3.MNN"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.MNR"
+msgstr "મોનો (USA)"
+
+msgid "ISO_639-3.MNS"
+msgstr "માન્સી"
+
+msgid "ISO_639-3.MNU"
+msgstr "મેર"
+
+msgid "ISO_639-3.MNW"
+msgstr "મોન"
+
+msgid "ISO_639-3.MNZ"
+msgstr "મોની"
+
+msgid "ISO_639-3.MOC"
+msgstr "મોકોવી"
+
+msgid "ISO_639-3.MOM"
+msgstr "માન્ગોલે"
+
+msgid "ISO_639-3.MON"
+msgstr "મોન્ગોલિયન"
+
+msgid "ISO_639-3.MOO"
+msgstr "મોનોમ્"
+
+msgid "ISO_639-3.MOP"
+msgstr "મોપાન માયા"
+
+msgid "ISO_639-3.MOR"
+msgstr "મોરો"
+
+msgid "ISO_639-3.MOT"
+msgstr "બારી"
+
+msgid "ISO_639-3.MOU"
+msgstr "મોગુમ"
+
+msgid "ISO_639-3.MPE"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.MPG"
+msgstr "માર્બા"
+
+msgid "ISO_639-3.MPQ"
+msgstr "માતીસ"
+
+msgid "ISO_639-3.MQA"
+msgstr "માબા (ઇન્ડોનેશિયા)"
+
+msgid "ISO_639-3.MQC"
+msgstr "માન્ગોલે"
+
+msgid "ISO_639-3.MQF"
+msgstr "મોમુના"
+
+msgid "ISO_639-3.MQJ"
+msgstr "મામાસા"
+
+msgid "ISO_639-3.MQO"
+msgstr "મોડોલે"
+
+msgid "ISO_639-3.MQP"
+msgstr "માનીપા"
+
+msgid "ISO_639-3.MQT"
+msgstr "મોક"
+
+msgid "ISO_639-3.MQV"
+msgstr "મોસીમો"
+
+msgid "ISO_639-3.MQW"
+msgstr "મુરુપી"
+
+msgid "ISO_639-3.MQX"
+msgstr "મામુજા"
+
+msgid "ISO_639-3.MRB"
+msgstr "મરિનો"
+
+msgid "ISO_639-3.MRC"
+msgstr "મરિકોપા"
+
+msgid "ISO_639-3.MRD"
+msgstr "મારી, પશ્ચિમી"
+
+msgid "ISO_639-3.MRY"
+msgstr "માદક"
+
+msgid "ISO_639-3.MRZ"
+msgstr "મારિંદ"
+
+msgid "ISO_639-3.MSC"
+msgstr "માદક"
+
+msgid "ISO_639-3.MSE"
+msgstr "મલય, સાબાહ"
+
+msgid "ISO_639-3.MSL"
+msgstr "માનોબો, અગુસાન"
+
+msgid "ISO_639-3.MSO"
+msgstr "મોમબુમ"
+
+msgid "ISO_639-3.MSU"
+msgstr "મુસોમ"
+
+msgid "ISO_639-3.MSV"
+msgstr "મસ્લામ"
+
+msgid "ISO_639-3.MSZ"
+msgstr "મોમારે"
+
+msgid "ISO_639-3.MTC"
+msgstr "મુનિત"
+
+msgid "ISO_639-3.MTG"
+msgstr "ઉના"
+
+msgid "ISO_639-3.MTJ"
+msgstr "માસ્કોના"
+
+msgid "ISO_639-3.MTL"
+msgstr "મોન્તોલ"
+
+msgid "ISO_639-3.MTM"
+msgstr "માતોર"
+
+msgid "ISO_639-3.MTR"
+msgstr "મેવારી"
+
+msgid "ISO_639-3.MTS"
+msgstr "યોરા"
+
+msgid "ISO_639-3.MTT"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.MTY"
+msgstr "નાબી"
+
+msgid "ISO_639-3.MUA"
+msgstr "મુન્દાન્ગ"
+
+msgid "ISO_639-3.MUB"
+msgstr "મુબી"
+
+msgid "ISO_639-3.MUG"
+msgstr "મુસ્ગુ"
+
+msgid "ISO_639-3.MUI"
+msgstr "મુસી"
+
+msgid "ISO_639-3.MUJ"
+msgstr "માબીરે"
+
+msgid "ISO_639-3.MUK"
+msgstr "મુગોમ"
+
+msgid "ISO_639-3.MUL"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.MUM"
+msgstr "માઇવાલા"
+
+msgid "ISO_639-3.MUP"
+msgstr "માલ્વી"
+
+msgid "ISO_639-3.MUS"
+msgstr "ક્રીક"
+
+msgid "ISO_639-3.MUU"
+msgstr "યાકુ"
+
+msgid "ISO_639-3.MUZ"
+msgstr "મુર્સી"
+
+msgid "ISO_639-3.MVA"
+msgstr "માનામ"
+
+msgid "ISO_639-3.MVD"
+msgstr "મામ્બોરુ"
+
+msgid "ISO_639-3.MVF"
+msgstr "મોન્ગોલિયન"
+
+msgid "ISO_639-3.MVI"
+msgstr "મીયાકો"
+
+msgid "ISO_639-3.MVK"
+msgstr "મેકમેક"
+
+msgid "ISO_639-3.MVM"
+msgstr "મુયા"
+
+msgid "ISO_639-3.MVO"
+msgstr "મારોવો"
+
+msgid "ISO_639-3.MVP"
+msgstr "દુરી"
+
+msgid "ISO_639-3.MVR"
+msgstr "મારાઉ"
+
+msgid "ISO_639-3.MVU"
+msgstr "મુરુત, તાગાલ"
+
+msgid "ISO_639-3.MWB"
+msgstr "જુવાલ"
+
+msgid "ISO_639-3.MWI"
+msgstr "લાબો"
+
+msgid "ISO_639-3.MWM"
+msgstr "સાર"
+
+msgid "ISO_639-3.MWT"
+msgstr "મોકેન"
+
+msgid "ISO_639-3.MWY"
+msgstr "મોસીરો"
+
+msgid "ISO_639-3.MXD"
+msgstr "મોદાન્ગ"
+
+msgid "ISO_639-3.MXK"
+msgstr "મોનુમ્બો"
+
+msgid "ISO_639-3.MXM"
+msgstr "મેરામેરા"
+
+msgid "ISO_639-3.MXN"
+msgstr "મોઇ (ઇન્ડોનેશિયા)"
+
+msgid "ISO_639-3.MXW"
+msgstr "નામો"
+
+msgid "ISO_639-3.MYA"
+msgstr "બર્મિસ"
+
+msgid "ISO_639-3.MYC"
+msgstr "માયેકા"
+
+msgid "ISO_639-3.MYD"
+msgstr "મારામ્બા"
+
+msgid "ISO_639-3.MYG"
+msgstr "માન્તા"
+
+msgid "ISO_639-3.MYH"
+msgstr "મકાહ"
+
+msgid "ISO_639-3.MYI"
+msgstr "મીના (ભારત)"
+
+msgid "ISO_639-3.MYL"
+msgstr "મોમા"
+
+msgid "ISO_639-3.MYR"
+msgstr "મુનિચે"
+
+msgid "ISO_639-3.MZD"
+msgstr "માલીમ્બા"
+
+msgid "ISO_639-3.MZE"
+msgstr "મોરાવા"
+
+msgid "ISO_639-3.MZM"
+msgstr "મુમુયે"
+
+msgid "ISO_639-3.MZP"
+msgstr "મોવીમા"
+
+msgid "ISO_639-3.MZR"
+msgstr "મારુબો"
+
+msgid "ISO_639-3.MZV"
+msgstr "માન્ઝા"
+
+msgid "ISO_639-3.MZW"
+msgstr "ડેગ"
+
+msgid "ISO_639-3.NAA"
+msgstr "નોમ્લા"
+
+msgid "ISO_639-3.NAB"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NAC"
+msgstr "નરાક"
+
+msgid "ISO_639-3.NAF"
+msgstr "નાબાક"
+
+msgid "ISO_639-3.NAJ"
+msgstr "નાલુ"
+
+msgid "ISO_639-3.NAL"
+msgstr "ચાઇનીઝ, મીન નાન"
+
+msgid "ISO_639-3.NAO"
+msgstr "નાબા"
+
+msgid "ISO_639-3.NAR"
+msgstr "ઇગુતા"
+
+msgid "ISO_639-3.NAV"
+msgstr "નાગા, માઓ"
+
+msgid "ISO_639-3.NBN"
+msgstr "કુરી"
+
+msgid "ISO_639-3.NBT"
+msgstr "ના "
+
+msgid "ISO_639-3.NBW"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NCB"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.NCC"
+msgstr "પોનામ"
+
+msgid "ISO_639-3.NCE"
+msgstr "યાલે"
+
+msgid "ISO_639-3.NCH"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.NCK"
+msgstr "નાકારા"
+
+msgid "ISO_639-3.NCM"
+msgstr "નાન્બો"
+
+msgid "ISO_639-3.NCO"
+msgstr "સીબે"
+
+msgid "ISO_639-3.NDI"
+msgstr "સામ્બા લેકો"
+
+msgid "ISO_639-3.NDU"
+msgstr "દુગુન"
+
+msgid "ISO_639-3.NEJ"
+msgstr "નેકો"
+
+msgid "ISO_639-3.NEK"
+msgstr "નેકુ"
+
+msgid "ISO_639-3.NEM"
+msgstr "નેમી"
+
+msgid "ISO_639-3.NEN"
+msgstr "નેનગોન"
+
+msgid "ISO_639-3.NEP"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.NET"
+msgstr "નેતે"
+
+msgid "ISO_639-3.NEU"
+msgstr "નેકો"
+
+msgid "ISO_639-3.NEW"
+msgstr "મેવારી"
+
+msgid "ISO_639-3.NEX"
+msgstr "નેમે"
+
+msgid "ISO_639-3.NEY"
+msgstr "નેયો"
+
+msgid "ISO_639-3.NFA"
+msgstr "ધાઓ"
+
+msgid "ISO_639-3.NGH"
+msgstr "N/u"
+
+msgid "ISO_639-3.NGL"
+msgstr "લોમ્વે"
+
+msgid "ISO_639-3.NHB"
+msgstr "બેન્ગ"
+
+msgid "ISO_639-3.NHH"
+msgstr "નાહારી"
+
+msgid "ISO_639-3.NHR"
+msgstr "નારો"
+
+msgid "ISO_639-3.NIB"
+msgstr "નાકામા"
+
+msgid "ISO_639-3.NIF"
+msgstr "નેક"
+
+msgid "ISO_639-3.NIK"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NIL"
+msgstr "નીલા"
+
+msgid "ISO_639-3.NIM"
+msgstr "નીલામ્બા"
+
+msgid "ISO_639-3.NIN"
+msgstr "નીન્ઝો"
+
+msgid "ISO_639-3.NIQ"
+msgstr "નન્દી"
+
+msgid "ISO_639-3.NIS"
+msgstr "નીમી"
+
+msgid "ISO_639-3.NIT"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NIW"
+msgstr "નીમો"
+
+msgid "ISO_639-3.NIX"
+msgstr "નાગા, લોથા"
+
+msgid "ISO_639-3.NJS"
+msgstr "નીસા"
+
+msgid "ISO_639-3.NKE"
+msgstr "નાગા, થનગાલ"
+
+msgid "ISO_639-3.NKJ"
+msgstr "નાકાઇ"
+
+msgid "ISO_639-3.NKK"
+msgstr "નોકુકુ"
+
+msgid "ISO_639-3.NKU"
+msgstr "બોલાંગો"
+
+msgid "ISO_639-3.NLD"
+msgstr "ડચ"
+
+msgid "ISO_639-3.NLG"
+msgstr "ગેલા"
+
+msgid "ISO_639-3.NLI"
+msgstr "ગ્રાન્ગાલી"
+
+msgid "ISO_639-3.NLJ"
+msgstr "ન્યાલી"
+
+msgid "ISO_639-3.NLL"
+msgstr "નિહાલી"
+
+msgid "ISO_639-3.NLQ"
+msgstr "નાગા, માઓ"
+
+msgid "ISO_639-3.NLW"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.NLX"
+msgstr "નાહાલી"
+
+msgid "ISO_639-3.NMA"
+msgstr "નાગા, મારામ"
+
+msgid "ISO_639-3.NMB"
+msgstr "નમ્બાસ, બીગ"
+
+msgid "ISO_639-3.NMF"
+msgstr "નાગા, થનગાલ"
+
+msgid "ISO_639-3.NMK"
+msgstr "નામાકુરા"
+
+msgid "ISO_639-3.NMN"
+msgstr "નાગા, મોયોન"
+
+msgid "ISO_639-3.NMP"
+msgstr "નીમાનબુર"
+
+msgid "ISO_639-3.NMQ"
+msgstr "નામબ્યા"
+
+msgid "ISO_639-3.NMR"
+msgstr "નિમ્બારી"
+
+msgid "ISO_639-3.NMW"
+msgstr "નીમોઆ"
+
+msgid "ISO_639-3.NMY"
+msgstr "નામુયી"
+
+msgid "ISO_639-3.NNB"
+msgstr "નાન્દે"
+
+msgid "ISO_639-3.NNM"
+msgstr "નામીઆ"
+
+msgid "ISO_639-3.NNW"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NOC"
+msgstr "નુક"
+
+msgid "ISO_639-3.NOD"
+msgstr "થાઇ, ઉત્તરી"
+
+msgid "ISO_639-3.NOE"
+msgstr "નીમાડી"
+
+msgid "ISO_639-3.NOF"
+msgstr "નોમાને"
+
+msgid "ISO_639-3.NOG"
+msgstr "નોગાઇ"
+
+msgid "ISO_639-3.NOH"
+msgstr "નોમુ"
+
+msgid "ISO_639-3.NOJ"
+msgstr "નીસુ, પૂર્વીય"
+
+msgid "ISO_639-3.NOY"
+msgstr "નોય"
+
+msgid "ISO_639-3.NOZ"
+msgstr "નાયી"
+
+msgid "ISO_639-3.NPG"
+msgstr "નાગા, ફોમ"
+
+msgid "ISO_639-3.NPI"
+msgstr "નાગા, પોચુરી"
+
+msgid "ISO_639-3.NPS"
+msgstr "નીપ્સાન"
+
+msgid "ISO_639-3.NPY"
+msgstr "નાપુ"
+
+msgid "ISO_639-3.NQG"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NQN"
+msgstr "નેન"
+
+msgid "ISO_639-3.NQQ"
+msgstr "નાગા, ખરમ"
+
+msgid "ISO_639-3.NQY"
+msgstr "નાગા, ચેન્ગ"
+
+msgid "ISO_639-3.NRB"
+msgstr "નારા"
+
+msgid "ISO_639-3.NRC"
+msgstr "નોરીક"
+
+msgid "ISO_639-3.NRE"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NRG"
+msgstr "નાગા, ચોકરી"
+
+msgid "ISO_639-3.NRM"
+msgstr "નારોમ"
+
+msgid "ISO_639-3.NRN"
+msgstr "નોર્ન"
+
+msgid "ISO_639-3.NRZ"
+msgstr "લાલા"
+
+msgid "ISO_639-3.NSA"
+msgstr "માદક"
+
+msgid "ISO_639-3.NSD"
+msgstr "નીસુ, દક્ષિણી"
+
+msgid "ISO_639-3.NSF"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.NSN"
+msgstr "નેહાન"
+
+msgid "ISO_639-3.NSP"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.NSS"
+msgstr "નાગા, તાસે"
+
+msgid "ISO_639-3.NSV"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.NSW"
+msgstr "નાવુત"
+
+msgid "ISO_639-3.NSY"
+msgstr "નસાલ"
+
+msgid "ISO_639-3.NTD"
+msgstr "થાઇ, ઉત્તરી"
+
+msgid "ISO_639-3.NTM"
+msgstr "નાતેની"
+
+msgid "ISO_639-3.NTR"
+msgstr "ડેલો"
+
+msgid "ISO_639-3.NUF"
+msgstr "નુસુ"
+
+msgid "ISO_639-3.NUG"
+msgstr "નુન્ગાલી"
+
+msgid "ISO_639-3.NUP"
+msgstr "નુપે-નુપે-તાકો"
+
+msgid "ISO_639-3.NUR"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.NXE"
+msgstr "નાગે"
+
+msgid "ISO_639-3.NXI"
+msgstr "નાગા, કોન્યાક"
+
+msgid "ISO_639-3.NXO"
+msgstr "નાન્બો"
+
+msgid "ISO_639-3.NXQ"
+msgstr "નાક્ષી"
+
+msgid "ISO_639-3.NXU"
+msgstr "નારાઉ"
+
+msgid "ISO_639-3.NXX"
+msgstr "નાફરી"
+
+msgid "ISO_639-3.OAA"
+msgstr "ઑરોક"
+
+msgid "ISO_639-3.OAC"
+msgstr "ઓરોચ"
+
+msgid "ISO_639-3.OBK"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.OBL"
+msgstr "ઑબ્લો"
+
+msgid "ISO_639-3.OBR"
+msgstr "બર્મિસ"
+
+msgid "ISO_639-3.OBT"
+msgstr "બ્રેટન"
+
+msgid "ISO_639-3.OCH"
+msgstr "અચીની"
+
+msgid "ISO_639-3.ODT"
+msgstr "ડચ"
+
+msgid "ISO_639-3.OFO"
+msgstr "ઑફો"
+
+msgid "ISO_639-3.OGO"
+msgstr "ખાના"
+
+msgid "ISO_639-3.OJB"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.OKL"
+msgstr "બ્રિટીશ સાઇન ભાષા"
+
+msgid "ISO_639-3.OKU"
+msgstr "ઑકુ"
+
+msgid "ISO_639-3.OLD"
+msgstr "મોચી"
+
+msgid "ISO_639-3.OLE"
+msgstr "ઑલેખા"
+
+msgid "ISO_639-3.OLM"
+msgstr "ઑલોમા"
+
+msgid "ISO_639-3.OLT"
+msgstr "રશિયન, જૂની"
+
+msgid "ISO_639-3.OMI"
+msgstr "ઑમી"
+
+msgid "ISO_639-3.OMK"
+msgstr "ઑમોક"
+
+msgid "ISO_639-3.OML"
+msgstr "ઑમ્બો"
+
+msgid "ISO_639-3.OMP"
+msgstr "મણિપૂરી, જૂની"
+
+msgid "ISO_639-3.OMR"
+msgstr "મરાઠી, જૂની"
+
+msgid "ISO_639-3.ONA"
+msgstr "ઑના"
+
+msgid "ISO_639-3.ONG"
+msgstr "ઑલો"
+
+msgid "ISO_639-3.ONR"
+msgstr "થાઇ, ઉત્તરી"
+
+msgid "ISO_639-3.ONS"
+msgstr "ઑનો"
+
+msgid "ISO_639-3.ONW"
+msgstr "બુબીઆ"
+
+msgid "ISO_639-3.OOG"
+msgstr "ઑન્ગ"
+
+msgid "ISO_639-3.ORC"
+msgstr "ઑર્મા"
+
+msgid "ISO_639-3.ORI"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.ORM"
+msgstr "ઑરોમો"
+
+msgid "ISO_639-3.ORO"
+msgstr "ઑરોકોલો"
+
+msgid "ISO_639-3.ORR"
+msgstr "ઑરુમા"
+
+msgid "ISO_639-3.ORV"
+msgstr "રશિયન, જૂની"
+
+msgid "ISO_639-3.ORW"
+msgstr "ઑરો, વીન"
+
+msgid "ISO_639-3.ORX"
+msgstr "ઑરો"
+
+msgid "ISO_639-3.ORZ"
+msgstr "ઑર્મુ"
+
+msgid "ISO_639-3.OSU"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.OTY"
+msgstr "તમિલ"
+
+msgid "ISO_639-3.OYB"
+msgstr "ઑય"
+
+msgid "ISO_639-3.PAI"
+msgstr "પે"
+
+msgid "ISO_639-3.PAN"
+msgstr "પંજાબી"
+
+msgid "ISO_639-3.PAY"
+msgstr "પૅચ"
+
+msgid "ISO_639-3.PBO"
+msgstr "પાપેલ"
+
+msgid "ISO_639-3.PBT"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PCD"
+msgstr "પિકાર્ડ"
+
+msgid "ISO_639-3.PEA"
+msgstr "બજાઉ, ઇન્ડોનેશિયન"
+
+msgid "ISO_639-3.PEF"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.PEG"
+msgstr "પેન્ગો"
+
+msgid "ISO_639-3.PEH"
+msgstr "બોનાન"
+
+msgid "ISO_639-3.PEJ"
+msgstr "પોમો, ઉત્તરી"
+
+msgid "ISO_639-3.PEL"
+msgstr "પૅકાલ"
+
+msgid "ISO_639-3.PEP"
+msgstr "કુન્જા"
+
+msgid "ISO_639-3.PEQ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PES"
+msgstr "અર્મેનિયન સાઇન ભાષા"
+
+msgid "ISO_639-3.PGI"
+msgstr "પાગી"
+
+msgid "ISO_639-3.PGU"
+msgstr "પાગુ"
+
+msgid "ISO_639-3.PGZ"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.PHH"
+msgstr "ફુખા"
+
+msgid "ISO_639-3.PHK"
+msgstr "ફાકે"
+
+msgid "ISO_639-3.PMI"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PMJ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PMQ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PMY"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.PMZ"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PNB"
+msgstr "પંજાબી"
+
+msgid "ISO_639-3.PNK"
+msgstr "બુનાક"
+
+msgid "ISO_639-3.POM"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.PSH"
+msgstr "નીસુ, દક્ષિણી"
+
+msgid "ISO_639-3.PSI"
+msgstr "નીસુ, દક્ષિણી"
+
+msgid "ISO_639-3.PWW"
+msgstr "પોમો, ઉત્તરી"
+
+msgid "ISO_639-3.PYS"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.QXS"
+msgstr "સોથો, ઉત્તરી"
+
+msgid "ISO_639-3.RBP"
+msgstr "બમ્બારા"
+
+msgid "ISO_639-3.RGS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.RML"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.RSM"
+msgstr "બ્રાઝિલીયન સાઇન ભાષા"
+
+msgid "ISO_639-3.RXD"
+msgstr "બાર્ડી"
+
+msgid "ISO_639-3.RXW"
+msgstr "બુવાલ"
+
+msgid "ISO_639-3.SBD"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SBL"
+msgstr "સામ્બા લેકો"
+
+msgid "ISO_639-3.SDH"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SGY"
+msgstr "બાલુચી"
+
+msgid "ISO_639-3.SHU"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.SKC"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.SKD"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SKR"
+msgstr "બારાઇ"
+
+msgid "ISO_639-3.SMA"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SME"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SNM"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SOT"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SOU"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SPM"
+msgstr "અકુકુ"
+
+msgid "ISO_639-3.SQK"
+msgstr "અર્મેનિયન સાઇન ભાષા"
+
+msgid "ISO_639-3.SQR"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.SRV"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SSB"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SSE"
+msgstr "બાન્ગી"
+
+msgid "ISO_639-3.SSH"
+msgstr "અરેબિક"
+
+msgid "ISO_639-3.STP"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SWK"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.SXK"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.SYB"
+msgstr "નેપાલી સાઇન ભાષા"
+
+msgid "ISO_639-3.TAM"
+msgstr "તમિલ"
+
+msgid "ISO_639-3.TCE"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TCU"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TDM"
+msgstr "ઑરુમા"
+
+msgid "ISO_639-3.TEL"
+msgstr "તેલુગુ"
+
+msgid "ISO_639-3.TEN"
+msgstr "તામા (કોલંબિયા)"
+
+msgid "ISO_639-3.TEO"
+msgstr "તેસો"
+
+msgid "ISO_639-3.TEP"
+msgstr "તોપોકાનો"
+
+msgid "ISO_639-3.TER"
+msgstr "ટેરેનો"
+
+msgid "ISO_639-3.TET"
+msgstr "તેટુમ"
+
+msgid "ISO_639-3.TEW"
+msgstr "તેવા (USA)"
+
+msgid "ISO_639-3.TFO"
+msgstr "તેફારો"
+
+msgid "ISO_639-3.TGJ"
+msgstr "તાગીશ"
+
+msgid "ISO_639-3.TGK"
+msgstr "તાજીક"
+
+msgid "ISO_639-3.TGQ"
+msgstr "ટ્રીંગ"
+
+msgid "ISO_639-3.TGS"
+msgstr "નુમે"
+
+msgid "ISO_639-3.TGX"
+msgstr "તાગીશ"
+
+msgid "ISO_639-3.TGY"
+msgstr "તોગોયો"
+
+msgid "ISO_639-3.TGZ"
+msgstr "થારાકા"
+
+msgid "ISO_639-3.THA"
+msgstr "થાઇ"
+
+msgid "ISO_639-3.THF"
+msgstr "થાન્ગ્મી"
+
+msgid "ISO_639-3.THK"
+msgstr "થારુ, રાના"
+
+msgid "ISO_639-3.THS"
+msgstr "થાકાલી"
+
+msgid "ISO_639-3.THU"
+msgstr "થુરી"
+
+msgid "ISO_639-3.THW"
+msgstr "થુડામ"
+
+msgid "ISO_639-3.THY"
+msgstr "થા"
+
+msgid "ISO_639-3.TIC"
+msgstr "તીરા"
+
+msgid "ISO_639-3.TIK"
+msgstr "તીકાર"
+
+msgid "ISO_639-3.TIX"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TJI"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TJS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TKB"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.TKV"
+msgstr "પંજાબી"
+
+msgid "ISO_639-3.TLA"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TMK"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.TTS"
+msgstr "નુની, ઉત્તરી"
+
+msgid "ISO_639-3.TVU"
+msgstr "તુનેન"
+
+msgid "ISO_639-3.TWF"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TWR"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.TYE"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.UMN"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.UZS"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.VBK"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.VMB"
+msgstr "બમ્બારા"
+
+msgid "ISO_639-3.WDK"
+msgstr "ચીન, મારા"
+
+msgid "ISO_639-3.WHU"
+msgstr "ભાયા"
+
+msgid "ISO_639-3.WIB"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.WUU"
+msgstr "અચીની"
+
+msgid "ISO_639-3.WXW"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.XBE"
+msgstr "નામબ્યા"
+
+msgid "ISO_639-3.XBG"
+msgstr "બાન્દી"
+
+msgid "ISO_639-3.XBM"
+msgstr "બ્રેટન"
+
+msgid "ISO_639-3.XDY"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.XGD"
+msgstr "મુન્દાન્ગ"
+
+msgid "ISO_639-3.XGI"
+msgstr "બાન્ગબા"
+
+msgid "ISO_639-3.XGM"
+msgstr "સામ્બા લેકો"
+
+msgid "ISO_639-3.XKB"
+msgstr "થાઇ, ઉત્તરી"
+
+msgid "ISO_639-3.XMD"
+msgstr "મલય, બાન્દા"
+
+msgid "ISO_639-3.XNG"
+msgstr "મોન્ગોલિયન"
+
+msgid "ISO_639-3.XNK"
+msgstr "નાકારા"
+
+msgid "ISO_639-3.XRQ"
+msgstr "નારાંગો"
+
+msgid "ISO_639-3.XSB"
+msgstr "સામ્બા લેકો"
+
+msgid "ISO_639-3.XSL"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.XUL"
+msgstr "અગુના"
+
+msgid "ISO_639-3.XYB"
+msgstr "બંગાળી"
+
+msgid "ISO_639-3.YAK"
+msgstr "નાકામા"
+
+msgid "ISO_639-3.YAN"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.YDA"
+msgstr "અન્દાઇ"
+
+msgid "ISO_639-3.YGA"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.YGS"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.YHA"
+msgstr "બુયા"
+
+msgid "ISO_639-3.YHS"
+msgstr "અફઘાન સાઇન ભાષા"
+
+msgid "ISO_639-3.YKU"
+msgstr "મામાસા"
+
+msgid "ISO_639-3.YLB"
+msgstr "યાલે"
+
+msgid "ISO_639-3.YLO"
+msgstr "નાલુ"
+
+msgid "ISO_639-3.YMC"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.YMX"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.YSP"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.YUE"
+msgstr "અચીની"
+
+msgid "ISO_639-3.YUX"
+msgstr "નુની, દક્ષિણી"
+
+msgid "ISO_639-3.YXA"
+msgstr "માજાન્ગ"
+
+msgid "ISO_639-3.YZG"
+msgstr "બુયા"
+
+msgid "ISO_639-3.ZBC"
+msgstr "બેરા"
+
+msgid "ISO_639-3.ZBE"
+msgstr "બેરા"
+
+msgid "ISO_639-3.ZBW"
+msgstr "બેરા"
+
+msgid "ISO_639-3.ZGN"
+msgstr "ઘણીબધી ભાષાઓ"
+
+msgid "ISO_639-3.ZSM"
+msgstr "માદક"
